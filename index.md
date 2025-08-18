@@ -24,17 +24,17 @@ Currently, I am advancing my System Administration skills through Mossé Cyber S
     <tr>
       <td style="text-align: center;">Bank Risk Register Analysis</td>
       <td style="text-align: center;">Top risks identified and ranked</td>
-      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/EldonGabriel/blob/23cd552340b368e140272aff1193094b55ebab03/REPORT%20%E2%80%93%20Bank%20Risk%20Register%20Analysis%20%E2%80%93%20v1.0.2.pdf">View Report</a></td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf">View Report</a></td>
     </tr>
     <tr>
       <td style="text-align: center;">Investigation of Unauthorized Payroll Access Incident</td>
       <td style="text-align: center;">Breach traced to contractor admin account</td>
-      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/EldonGabriel/blob/23cd552340b368e140272aff1193094b55ebab03/REPORT%20%E2%80%93%20Investigation%20of%20Unauthorized%20Payroll%20Access%20Incident%20-%20v1.2.0.pdf">View Report</a></td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf">View Report</a></td>
     </tr>
     <tr>
       <td style="text-align: center;">Server Security Evaluation</td>
       <td style="text-align: center;">Exposed DB server found, remediation advised</td>
-      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/EldonGabriel/blob/23cd552340b368e140272aff1193094b55ebab03/REPORT%20%E2%80%93%20Server%20Security%20Evaluation%20%E2%80%93%20v1.2.0.pdf">View Report</a></td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf">View Report</a></td>
     </tr>
     <tr>
       <td style="text-align: center;">MCSI Student Portfolio</td>
@@ -57,7 +57,7 @@ Currently, I am advancing my System Administration skills through Mossé Cyber S
     <tr>
       <td style="text-align: center;">ISC² Certified in Cybersecurity (CC)</td>
       <td style="text-align: center;">(ISC)²</td>
-      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/EldonGabriel/blob/main/Certified%20in%20Cybersecurity%20(CC)%20Certification.pdf">View Certificate</a></td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/assets/certifications/isc2-certified-in-cybersecurity-certification.pdf">View Certificate</a></td>
     </tr>
     <tr>
       <td style="text-align: center;">Google Cybersecurity Professional</td>
@@ -72,7 +72,7 @@ Currently, I am advancing my System Administration skills through Mossé Cyber S
     <tr>
       <td style="text-align: center;">MICS – Introduction to Cyber Security</td>
       <td style="text-align: center;">Mossé Cyber Security Institute</td>
-      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/EldonGabriel/blob/main/MICS%20-%20Introduction%20to%20Cyber%20Security-%20Cybersecurity%20Learner%20-%20Level%203.png">View Certificate</a></td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/assets/certifications/MICS-introduction-to-cyber-security-cybersecurity-level-3.png">View Certificate</a></td>
     </tr>
     <tr>
       <td style="text-align: center;">Automate Cybersecurity Tasks with Python</td>
