@@ -131,5 +131,4 @@ Completing this full section has solidified my virtualization skills across loca
 
 **Up next:** Diving into Networking Fundamentals to build core skills in protocols and architectures that underpin all secure systems.
 
-> [!NOTE]  
-> Full lab reports** and **video submissions** are available upon request. 
+> **ℹ️ Note:** Full lab reports and video submissions are available upon request.
