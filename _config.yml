@@ -1,0 +1,128 @@
+ # Site
+title: Eldon Gabriel
+subtitle: Cybersecurity Portfolio
+tagline: Bridging IT & Security with Hands-On Expertise
+logo: /assets/img/Head.png
+description:
+url: https://EldonGabriel.github.io
+baseurl: /
+repository: EldonGabriel/EldonGabriel.github.io
+lang: en
+
+# Jekyll
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  syntax_highlighter: rouge
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - s-so-simple-theme-master
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-last-modified-at
+
+# Feed
+feed:
+  path: feed.xml
+
+# Archives
+jekyll-archives:
+  enabled:
+    - posts
+    - tags
+    # - categories
+  layout: archive
+  permalinks:
+    tag: /tag/:name/
+    category: /category/:name/
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Sass
+sass:
+  style: :compressed
+
+# Comments
+comments:
+  provider: # "disqus" or "utterances"
+  disqus:
+    shortname: # disqus shortname
+  utterances:
+    theme: # "github-light" or "github-dark"
+    issue_term: # "pathname" or "url"
+    repo: # username/repo
+
+# Analytics
+analytics:
+  provider: # "google" or "plausible"
+  google:
+    tracking_id: # "G-XXXXXXXXXX"
+    anonymize_ip: false
+  plausible:
+    data_domain: # "example.com"
+
+# SEO
+seo:
+  name: Eldon Gabriel | Cybersecurity Portfolio
+  description: Bridging IT & Security with Hands-On Expertise
+  image: /assets/img/EldonGabrielLogo.png
+  title: Eldon Gabriel
+  locale: en_CAN
+  date_format: "%Y-%m-%d"
+  social:
+    type: website
+    name: Eldon Gabriel
+    links:
+      - https://linkedin.com/in/eldongabriel
+      - https://x.com/eldongbrl
+      - https://github.com/EldonGabriel
+  twitter:
+    username: "@eldongbrl"
+    card: summary_large_image
+
+# Site Author
+author:
+  name: Eldon Gabriel
+  picture: /assets/img/Head.png
+  email: eldongbrl@gmail.com
+  twitter: "@eldongbrl"
+  links:
+    - title: Twitter
+      url: https://twitter.com/eldongbrl
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/eldonngabriel
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/eldongabriel
+      icon: fab fa-github-square
+
+# Footer links
+footer_links:
+  - title: LinkedIn
+    url: https://linkedin.com/in/eldongabriel
+    icon: fab fa-linkedin
+  - title: Twitter
+    url: https://x.com/eldongbrl
+    icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/EldonGabriel
+    icon: fab fa-github-square
