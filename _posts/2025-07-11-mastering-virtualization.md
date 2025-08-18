@@ -1,6 +1,6 @@
 ---
 title: "Mastering Virtualization for Cybersecurity: Labs Across VMware, WSL, GCP & AWS"
-date: 2025-08-18
+date: 2025-07-11
 author: Eldon Gabriel
 tags: [cybersecurity, virtualization, VMware, WSL, GCP, AWS, labs, portfolio]
 excerpt: "Hands-on virtualization labs across VMware, WSL, GCP, and AWS are building foundational skills for offensive and defensive cybersecurity operations."
