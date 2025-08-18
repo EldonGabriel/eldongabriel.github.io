@@ -27,37 +27,37 @@ This repository serves as a portfolio of hands-on projects and deliverables from
     <tr>
       <td style="text-align: center;">Access Control Incident</td>
       <td style="text-align: center;">Investigated and resolved access control incident</td>
-      <td style="text-align: center;"><a href="#">View Report</a></td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Access%20Control%20Incident%20-%20v1.2.0.pdf">View Report</a></td>
     </tr>
     <tr>
       <td style="text-align: center;">BYOD in Organizations</td>
       <td style="text-align: center;">Analyzed security risks of BYOD policies</td>
-      <td style="text-align: center;"><a href="#">View Report</a></td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20BYOD%20in%20Organizations_%20Security%2C%20Challenges%2C%20and%20Strategies%20%E2%80%93%20v1.0.0.pdf">View Report</a></td>
     </tr>
     <tr>
       <td style="text-align: center;">Bank Risk Register Analysis</td>
       <td style="text-align: center;">Identified and ranked simulated bank threats</td>
-      <td style="text-align: center;"><a href="#">View Report</a></td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Bank%20Risk%20Register%20Analysis%20%E2%80%93%20v1.0.2.pdf">View Report</a></td>
     </tr>
     <tr>
       <td style="text-align: center;">Botium Security Audit</td>
       <td style="text-align: center;">Security audit of Botium application</td>
-      <td style="text-align: center;"><a href="#">View Report</a></td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Botium%20Security%20Audit%E2%80%93%20v1.1.0.pdf">View Report</a></td>
     </tr>
     <tr>
       <td style="text-align: center;">Investigation of Unauthorized Payroll Access</td>
       <td style="text-align: center;">Traced breach to contractor account</td>
-      <td style="text-align: center;"><a href="#">View Report</a></td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Investigation%20of%20Unauthorized%20Payroll%20Access%20Incident%20-%20v1.2.0.pdf">View Report</a></td>
     </tr>
     <tr>
       <td style="text-align: center;">Post-Breach Security Recommendations</td>
       <td style="text-align: center;">Recommended security measures after breach</td>
-      <td style="text-align: center;"><a href="#">View Report</a></td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Post-Breach%20Security%20Recommendations%20%E2%80%93%20v1.0.1.pdf">View Report</a></td>
     </tr>
     <tr>
       <td style="text-align: center;">SQL Query Analysis Incident</td>
       <td style="text-align: center;">Analyzed SQL queries to detect suspicious activity</td>
-      <td style="text-align: center;"><a href="#">View Report</a></td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20SQL%20Query%20Analysis%20Incident%20%E2%80%93%20v1.0.2.pdf">View Report</a></td>
     </tr>
   </tbody>
 </table>
@@ -76,17 +76,17 @@ This repository serves as a portfolio of hands-on projects and deliverables from
     <tr>
       <td style="text-align: center;">Linux File Permissions Management</td>
       <td style="text-align: center;">Secured Linux systems via permissions enforcement</td>
-      <td style="text-align: center;"><a href="#">View Report</a></td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Linux%20File%20Permissions%20Management%20-%20v1.0.2.pdf">View Report</a></td>
     </tr>
     <tr>
       <td style="text-align: center;">Python Algorithm for Managing IP Access</td>
       <td style="text-align: center;">Developed Python script for IP access control</td>
-      <td style="text-align: center;"><a href="#">View Report</a></td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Python%20Algorithm%20for%20Managing%20IP%20Access%20%E2%80%93%20v1.0.1.pdf">View Report</a></td>
     </tr>
     <tr>
       <td style="text-align: center;">Server Security Evaluation</td>
       <td style="text-align: center;">Assessed exposed DB server, recommended fixes</td>
-      <td style="text-align: center;"><a href="#">View Report</a></td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Server%20Security%20Evaluation%20%E2%80%93%20v1.2.0.pdf">View Report</a></td>
     </tr>
   </tbody>
 </table>
@@ -104,17 +104,17 @@ This repository serves as a portfolio of hands-on projects and deliverables from
     <tr>
       <td style="text-align: center;">DNS Analysis with dig</td>
       <td style="text-align: center;">Performed DNS lookups and analysis</td>
-      <td style="text-align: center;"><a href="#">View Report</a></td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20DNS%20Analysis%20with%20dig%20%E2%80%93%20v1.0.0.pdf">View Report</a></td>
     </tr>
     <tr>
       <td style="text-align: center;">DNS Outage and Port 53 Failure Analysis</td>
       <td style="text-align: center;">Diagnosed DNS outage and port failure</td>
-      <td style="text-align: center;"><a href="#">View Report</a></td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20DNS%20Outage%20and%20Port%2053%20Failure%20Analysis%20%E2%80%93%20v1.0.1.pdf">View Report</a></td>
     </tr>
     <tr>
       <td style="text-align: center;">Network Attack Analysis</td>
       <td style="text-align: center;">Analyzed network traffic for simulated attack</td>
-      <td style="text-align: center;"><a href="#">View Report</a></td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Network%20Attack%20Analysis%20%E2%80%93%20v1.0.1.pdf">View Report</a></td>
     </tr>
   </tbody>
 </table>
