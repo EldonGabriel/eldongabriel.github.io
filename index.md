@@ -121,7 +121,7 @@ Currently, I am advancing my System Administration skills through _Mossé Cyber 
   <tbody>
     <tr>
       <td style="text-align: center;">MSAF – System Administration Fundamentals⭐</td>
-      <td style="text-align: center;">Mossé Cyber Security Institute (MCSI)</td>
+      <td style="text-align: center;">Mossé Cyber Security Institute</td>
       <td style="text-align: center;">In Progress</td>
     </tr>
     <tr>
