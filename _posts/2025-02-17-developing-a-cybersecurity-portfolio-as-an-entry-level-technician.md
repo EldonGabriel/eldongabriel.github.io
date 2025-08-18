@@ -4,7 +4,7 @@ date: 2025-02-17
 author: Eldon Gabriel
 tags: [cybersecurity, entry-level, portfolio]
 excerpt: "Hands-on experience is essential for cybersecurity newcomers. MCSI provides a structured, apprenticeship-style training to build applied skills and documentation expertise."
-image: "/assets/images/logo.jpg" 
+image: "/assets/images/logo.jpg"
 ---
 As I continue exploring the cybersecurity field, one thing has become clear: hands-on experience is essential. While online learning and certifications build knowledge, breaking into this competitive industry requires practical, lived experience.
 When I searched for entry-level cybersecurity internships, I found most required years of prior experience or a degree—discouraging for newcomers. That’s when I discovered the Mossé Cyber Security Institute (MCSI) and its MSAF – System Administration Fundamentals. Their no-solutions approach, research-based exercises, and individualized feedback stood out immediately.
