@@ -4,10 +4,10 @@ date: 2025-07-25
 author: Eldon Gabriel
 tags: [cybersecurity, MICS, MSAF, portfolio, hands-on, training]
 excerpt: "MCSI labs provide scenario-based exercises that bridge IT fundamentals with advanced cybersecurity practices, building a portfolio of applied skills."
-image: "/assets/images/logo.jpg"
+image: "/assets/images/logo.png"
 --- 
 My cybersecurity journey began with a mindset: don’t just collect theory—build skills that work in the real world.
-That’s exactly what I found when I enrolled in the **MICS – Introduction to Cyber Security** course through Mossé Cyber Security Institute. After completing 39 out of 39 practical exercises, I’ve officially earned:
+That’s exactly what I found when I enrolled in the **MICS – Introduction to Cyber Security** course through Mossé Cyber Security Institute. After completing _39 practical exercises_, I’ve officially earned:
 
 <table>
   <thead>
@@ -69,9 +69,10 @@ These exercises were supported by a focus on **professional writing and technica
 ## Why I Chose to Enroll in MSAF
 
 After earning my Level 3 certification and completing the MICS course, I knew it was time to dive deeper. That’s why I enrolled in **MSAF – System Administration Fundamentals**, a course designed to build mastery in the systems that power and secure enterprise environments.
+
 📄 I’ve attached my official **Confirmation of Enrolment** from Mossé Cyber Security Institute, verifying that I’m actively enrolled and progressing through the course.
 
-[Download Confirmation of Enrolment](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://storage.googleapis.com/cyber-platform-prod.appspot.com/letters-of-enrolment/SB6kNYfrf4Z9gg4Zz8T5LixXI832-mics-introduction-to-cyber-security.pdf?timestamp=1755513087344)
+<center>[Download Confirmation of Enrolment](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://storage.googleapis.com/cyber-platform-prod.appspot.com/letters-of-enrolment/SB6kNYfrf4Z9gg4Zz8T5LixXI832-mics-introduction-to-cyber-security.pdf?timestamp=1755513087344)</center>
 ---
 
 ## What MSAF Will Help Me Master
@@ -79,14 +80,14 @@ After earning my Level 3 certification and completing the MICS course, I knew it
 The MSAF course goes beyond concepts—it teaches how to **build, secure, and recover real systems**. Here’s a preview of what I’m working on:
 
 ### 💻 Virtualization
-- Deploying VMs in VirtualBox, VMware, GCP, and AWS  
+- Deploying virtual machines (VMs) in VirtualBox, VMware, GCP, and AWS  
 - Creating snapshots and restoring safe system states  
 - Installing and configuring VMware ESXi and managing via vSphere  
 
 ### 🖥️ Windows & Linux Hardening
 - Creating and deploying GPOs to enforce password policies, exploit protection, UAC, and patch management  
 - Locking down user rights, folders, and remote access  
-- Securing Windows Defender and configuring SMB and WinRM  
+- Securing _Windows Defender_ and configuring SMB and WinRM  
 
 ### 🔐 Network Security & Firewalls
 - Designing network architectures in Draw.io and Cisco Packet Tracer  
@@ -106,6 +107,7 @@ All of this work contributes to my **public portfolio**, showcasing not just the
 
 The cyber workforce doesn’t need more paper certs—it needs people who can **solve problems under pressure**.
 By completing MICS and enrolling in MSAF, I’m reinforcing a **portfolio-first mindset** backed by tools, techniques, and repeatable results. 
+
 From YARA rules to GPO enforcement, every step I take is documented and demonstrated for employers, collaborators, and mentors to see.
 Whether I’m threat hunting, writing policy, or hardening a Windows server, my goal is the same: **deliver real, tested value**.
 
@@ -117,4 +119,4 @@ MCSI’s approach to cybersecurity training is unlike anything I’ve experience
 
 If you’re curious about how to level up in cybersecurity through hands-on work, feel free to connect—or check out my portfolio below.
 
-📂 [View My MCSI Portfolio](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832)
+<center>📂 [View My MCSI Portfolio](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832)</center>
