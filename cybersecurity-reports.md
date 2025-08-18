@@ -3,7 +3,7 @@ layout: page
 title: Experience
 permalink: /experience/
 image:
-  path: /assets/img/HomepageBannerMain.png
+  path: /assets/images/banner.png
   feature: true
 ---
 <h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Overview</h3>
