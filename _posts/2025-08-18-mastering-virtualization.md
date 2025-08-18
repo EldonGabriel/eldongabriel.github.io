@@ -46,19 +46,14 @@ Built scalable cloud-based VMs on Google Cloud Platform and AWS. Learned how to 
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Virtualization Fundamentals</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="#" target="_blank">View Certificate</a></td>
-    </tr>
-    <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Research: VirtualBox Network Configurations</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="#" target="_blank">View Certificate</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-virtualization-fundamentals/Research%20and%20explain%20the%20different%20types%20of%20Virtualbox%20network%20configurations.png" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Research: Role and Benefits of Virtualization</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="#" target="_blank">View Certificate</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-virtualization-fundamentals/Research%20and%20explain%20role%20of%20virtualization%20and%20explain%20its%20benefits%20for%20cybersecurity.png" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Lab Setup: Deploy Virtual Machines</td>
@@ -68,22 +63,22 @@ Built scalable cloud-based VMs on Google Cloud Platform and AWS. Learned how to 
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Lab Setup: Install Windows Subsystem for Linux</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="#" target="_blank">View Certificate</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-virtualization-fundamentals/Lab%20Setup%20-%20Install%20Windows%20Subsystem%20for%20Linux.png" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Lab Setup: Create a Virtual Machine in VMware</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="#" target="_blank">View Certificate</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-virtualization-fundamentals/Lab%20Setup-%20Create%20a%20Virtual%20Machine%20in%20VMWare.png" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Lab Setup: Deploy a Virtual Machine in GCP</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="#" target="_blank">View Certificate</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-virtualization-fundamentals/Lab%20Setup%20-%20Deploy%20a%20Virtual%20Machine%20in%20GCP.png" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Lab Setup: Deploy a Virtual Machine in AWS</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="#" target="_blank">View Certificate</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-virtualization-fundamentals/Lab%20Setup-%20Deploy%20a%20Virtual%20Machine%20in%20AWS.png" target="_blank">View Certificate</a></td>
     </tr>
   </tbody>
 </table>
@@ -110,7 +105,26 @@ I’ve successfully finished the last 2 labs since my last update, completing th
 
 - **Create a Snapshot of a Virtual Machine:** Mastered rollback and recovery methods to guarantee safe testing environments.  
 - **Install and Configure VMware ESXi with vSphere:** Deployed enterprise-grade hypervisors, managing Windows and Linux VMs for advanced virtualization.
-
+<table style="width:100%; border-collapse: collapse; margin-top: 1em;">
+  <thead>
+    <tr style="background-color: #f2f2f2; text-align: left;">
+      <th style="padding: 10px; border: 1px solid #ddd;">Certification Name</th>
+      <th style="padding: 10px; border: 1px solid #ddd;">Issuing Organization</th>
+      <th style="padding: 10px; border: 1px solid #ddd;">Certification</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Create a Snapshot of a Virtual Machine</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-virtualization-fundamentals/Create%20a%20Snapshot%20of%20a%20Virtual%20Machine%20to%20recover%20the%20OS%20to%20a%20safe%20state.png" target="_blank">View Certification</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Install and Configure VMware ESXi with vSphere</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-virtualization-fundamentals/Install%20and%20configure%20VM%20Ware%20ESXi%20with%20Vsphere%20in%20Windows%20and%20Linux%20VMs.png" target="_blank">View Certification</a></td>
+    </tr>
+    <tr>
 Completing this full section has solidified my virtualization skills across local, cloud, and enterprise platforms. These fundamental capabilities are crucial for both offensive and defensive cybersecurity roles. They provide safe, flexible, and efficient environments for testing, threat hunting, and incident response.
 
 **Up next:** Diving into Networking Fundamentals to build core skills in protocols and architectures that underpin all secure systems.
