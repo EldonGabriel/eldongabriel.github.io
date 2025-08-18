@@ -8,9 +8,9 @@ image: "/assets/images/fnlogo.png"
 ---
 As I continue exploring the cybersecurity field, one thing has become clear: hands-on experience is essential. While online learning and certifications build knowledge, breaking into this competitive industry requires practical, lived experience.
 
-When I searched for entry-level cybersecurity internships, I found most required years of prior experience or a degree—discouraging for newcomers. That’s when I discovered the _Mossé Cyber Security Institute (MCSI)_ and thier _MSAF – System Administration Fundamentals_ course. Their no-solutions approach, research-based exercises, and individualized feedback stood out immediately.
+When I searched for entry-level cybersecurity internships, I found most required years of prior experience or a degree—discouraging for newcomers. That’s when I discovered the **Mossé Cyber Security Institute (MCSI)** and thier **MSAF – System Administration Fundamentals** course. Their no-solutions approach, research-based exercises, and individualized feedback stood out immediately.
 
-Even more, MCSI provides _100 hours of free training_ with their _(MICS) - Introduction to Cyber Security training_. This is designed to bridge the gap between theory and practice. I enrolled to see if it could provide the real-world experience I had been missing.
+Even more, MCSI provides **_100 hours of free training_** with their **(MICS) - Introduction to Cyber Security training**. This is designed to bridge the gap between theory and practice. I enrolled to see if it could provide the real-world experience I had been missing.
 
 ## Why MCSI Stands Out
 
@@ -34,4 +34,4 @@ The 100 hours of free training provides a foundation to demonstrate my skills th
 
 After completing the _100 hours_, I plan to:
 
-- Upgrade my portfolio with new skills, certification, and reports from _MSAF – System Administration Fundamentals_ course.
+- Upgrade my portfolio with new skills, certifications, and reports from _MSAF – System Administration Fundamentals_ course.
