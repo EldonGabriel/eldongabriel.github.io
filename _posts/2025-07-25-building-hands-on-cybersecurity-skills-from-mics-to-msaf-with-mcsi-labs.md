@@ -7,7 +7,7 @@ excerpt: "MCSI labs provide scenario-based exercises that bridge IT fundamentals
 image: "/assets/images/fnlogo.png"
 --- 
 My cybersecurity journey began with a mindset: don’t just collect theory—build skills that work in the real world.
-That’s exactly what I found when I enrolled in the **MICS – Introduction to Cyber Security** course through Mossé Cyber Security Institute. After completing _39 practical exercises_, I’ve officially earned:
+That’s exactly what I found when I enrolled in the **MICS – Introduction to Cyber Security** course through Mossé Cyber Security Institute. After completing **_39 practical exercises_**, I’ve officially earned:
 
 <table>
   <thead>
@@ -50,17 +50,17 @@ The MICS experience was **100% hands-on**. There were no pre-written answers—o
 - Used `dnsdumpster.com`, Shodan, and `dnstwist.py` to detect asset exposure and phishing campaigns  
 
 ### 🔹 Vulnerability & Penetration Testing
-- Performed TCP/UDP scans using Nmap  
-- Ran web app scans using Burp Suite Spider and Intruder  
-- Used OpenVAS to identify vulnerabilities in a virtual environment  
+- Performed **TCP/UDP** scans using **Nmap**  
+- Ran web app scans using **Burp Suite Spider** and **Intruder**  
+- Used **OpenVAS** to identify vulnerabilities in a virtual environment  
 
 ### 🔹 Threat Hunting & Malware Detection
-- Built custom YARA rules for identifying binaries and strings  
+- Built **custom YARA rules** for identifying binaries and strings  
 - Documented and tested rules to match professional standards  
 
 ### 🔹 Digital Forensics
-- Used Dumpzilla to analyze browser artifacts  
-- Performed static malware analysis using PEStudio  
+- Used **Dumpzilla** to analyze browser artifacts  
+- Performed static malware analysis using **PEStudio** 
 
 These exercises were supported by a focus on **professional writing and technical research**, sharpening both my technical and communication skills—critical for any analyst or engineer in the field.
 
@@ -72,7 +72,7 @@ After earning my Level 3 certification and completing the MICS course, I knew it
 
 📄 I’ve attached my official **Confirmation of Enrolment** from Mossé Cyber Security Institute, verifying that I’m actively enrolled and progressing through the course.
 
-<center>[Download Confirmation of Enrolment](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://storage.googleapis.com/cyber-platform-prod.appspot.com/letters-of-enrolment/SB6kNYfrf4Z9gg4Zz8T5LixXI832-mics-introduction-to-cyber-security.pdf?timestamp=1755513087344)</center>
+<center>[Download Confirmation of Enrolment](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-confirmation-of-enrolment.pdf)</center>
 ---
 
 ## What MSAF Will Help Me Master
