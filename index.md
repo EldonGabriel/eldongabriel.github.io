@@ -72,7 +72,7 @@ Currently, I am advancing my _System Administration_ skills through _Mossé Cybe
       <td style="text-align: center;"><a href="https://coursera.org/share/24974875606de08e51eaf1c75765dd3f" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
-      <td style="text-align: center;">MICS – Introduction to Cyber Security</td>
+      <td style="text-align: center;">MICS – Introduction to Cyber Security⭐</td>
       <td style="text-align: center;">Mossé Cyber Security Institute</td>
       <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/MICS-introduction-to-cyber-security-cybersecurity-level-3.png" target="_blank">View Certificate</a></td>
     </tr>
@@ -120,7 +120,7 @@ Currently, I am advancing my _System Administration_ skills through _Mossé Cybe
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center;">System Administration Fundamentals (MSAF)</td>
+      <td style="text-align: center;">MSAF – System Administration Fundamentals⭐</td>
       <td style="text-align: center;">Mossé Cyber Security Institute (MCSI)</td>
       <td style="text-align: center;">In Progress</td>
     </tr>
@@ -132,7 +132,6 @@ Currently, I am advancing my _System Administration_ skills through _Mossé Cybe
   </tbody>
 </table>
 
-<h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Learning Path</h3>
 <p style="text-align: center;">⭐ Currently completing MCSI’s System Administration Fundamentals course (mapped to NIST NICE, US Military MOS, and ASD Cyber Skills Framework). Focus areas: secure network design, firewall configuration, system hardening, and risk analysis.</p>
 
 <h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Field Notes</h3>
