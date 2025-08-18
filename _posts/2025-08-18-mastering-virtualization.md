@@ -38,10 +38,10 @@ Built scalable cloud-based VMs on Google Cloud Platform and AWS. Learned how to 
 
 <table align="center" border="1" cellspacing="0" cellpadding="5">
   <thead>
-    <tr style="background-color: #73b4d5; text-align: left;">
+    <tr style="background-color: #73b4d5; text-align: center;">
       <th style="padding: 10px; border: 1px solid #ddd;">Certification Name</th>
       <th style="padding: 10px; border: 1px solid #ddd;">Issuing Organization</th>
-      <th style="padding: 10px; border: 1px solid #ddd;">Link</th>
+      <th style="padding: 10px; border: 1px solid #ddd;">Certification</th>
     </tr>
   </thead>
   <tbody>
@@ -107,7 +107,7 @@ I’ve successfully finished the last 2 labs since my last update, completing th
 - **Install and Configure VMware ESXi with vSphere:** Deployed enterprise-grade hypervisors, managing Windows and Linux VMs for advanced virtualization.
 <table align="center" border="1" cellspacing="0" cellpadding="5">
   <thead>
-    <tr style="background-color: #73b4d5; text-align: left;">
+    <tr style="background-color: #73b4d5; text-align: center;">
       <th style="padding: 10px; border: 1px solid #ddd;">Certification Name</th>
       <th style="padding: 10px; border: 1px solid #ddd;">Issuing Organization</th>
       <th style="padding: 10px; border: 1px solid #ddd;">Certification</th>
