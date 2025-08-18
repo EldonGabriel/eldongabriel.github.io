@@ -124,7 +124,9 @@ I’ve successfully finished the last 2 labs since my last update, completing th
       <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
       <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-virtualization-fundamentals/Install%20and%20configure%20VM%20Ware%20ESXi%20with%20Vsphere%20in%20Windows%20and%20Linux%20VMs.png" target="_blank">View Certification</a></td>
     </tr>
-    <tr>
+  </tbody>
+</table>
+
 Completing this full section has solidified my virtualization skills across local, cloud, and enterprise platforms. These fundamental capabilities are crucial for both offensive and defensive cybersecurity roles. They provide safe, flexible, and efficient environments for testing, threat hunting, and incident response.
 
 **Up next:** Diving into Networking Fundamentals to build core skills in protocols and architectures that underpin all secure systems.
