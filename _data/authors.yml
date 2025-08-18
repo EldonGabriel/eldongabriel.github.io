@@ -5,6 +5,13 @@ Eldon Gabriel:
   name: Eldon Gabriel
   bio: Cybersecurity Technician
   picture: /assets/images/eldon.png
-  linkedin: eldongabriel
-  twitter: eldongbrl
-  github: eldongabriel
+   - title: Linkedin
+    url: https://linkedin.com/in/eldongabriel
+    icon: fab fa-linkedin
+  - title: Twitter
+    url: https://x.com/eldongbrl
+    icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/EldonGabriel
+    icon: fab fa-github-square
+
