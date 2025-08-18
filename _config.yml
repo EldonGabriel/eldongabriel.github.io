@@ -66,7 +66,7 @@ comments:
   disqus:
     shortname: # disqus shortname
   utterances:
-    theme: # "github-light" or "github-dark"
+    theme: "github-dark" # "github-light" or "github-dark"
     issue_term: # "pathname" or "url"
     repo: # username/repo
 
@@ -103,7 +103,7 @@ author:
   name: Eldon Gabriel
   picture: https://eldongabriel.github.io/assets/images/eldon.png
   email: eldongbrl@gmail.com
-  twitter: @eldongbrl
+  twitter: eldongbrl
   links:
     - title: Twitter
       url: https://twitter.com/eldongbrl
