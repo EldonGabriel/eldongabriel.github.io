@@ -1,7 +1,12 @@
-# Building Hands-On Cybersecurity Skills: From MICS to MSAF with MCSI Labs
-
+---
+title: "Building Hands-On Cybersecurity Skills: From MICS to MSAF with MCSI Labs"
+date: 2025-08-18
+author: Eldon Gabriel
+tags: [cybersecurity, MICS, MSAF, portfolio, hands-on, training]
+excerpt: "MCSI labs provide scenario-based exercises that bridge IT fundamentals with advanced cybersecurity practices, building a portfolio of applied skills."
+image: "/assets/images/logo.jpg"
+---
 My cybersecurity journey began with a mindset: don’t just collect theory—build skills that work in the real world.
-
 That’s exactly what I found when I enrolled in the **MICS – Introduction to Cyber Security** course through Mossé Cyber Security Institute. After completing 39 out of 39 practical exercises, I’ve officially earned:
 
 <table>
@@ -64,7 +69,6 @@ These exercises were supported by a focus on **professional writing and technica
 ## Why I Chose to Enroll in MSAF
 
 After earning my Level 3 certification and completing the MICS course, I knew it was time to dive deeper. That’s why I enrolled in **MSAF – System Administration Fundamentals**, a course designed to build mastery in the systems that power and secure enterprise environments.
-
 📄 I’ve attached my official **Confirmation of Enrolment** from Mossé Cyber Security Institute, verifying that I’m actively enrolled and progressing through the course.
 
 [Download Confirmation of Enrolment](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://storage.googleapis.com/cyber-platform-prod.appspot.com/letters-of-enrolment/SB6kNYfrf4Z9gg4Zz8T5LixXI832-mics-introduction-to-cyber-security.pdf?timestamp=1755513087344)
@@ -101,9 +105,8 @@ All of this work contributes to my **public portfolio**, showcasing not just the
 ## Why This Matters
 
 The cyber workforce doesn’t need more paper certs—it needs people who can **solve problems under pressure**.
-
-By completing MICS and enrolling in MSAF, I’m reinforcing a **portfolio-first mindset** backed by tools, techniques, and repeatable results. From YARA rules to GPO enforcement, every step I take is documented and demonstrated for employers, collaborators, and mentors to see.
-
+By completing MICS and enrolling in MSAF, I’m reinforcing a **portfolio-first mindset** backed by tools, techniques, and repeatable results. 
+From YARA rules to GPO enforcement, every step I take is documented and demonstrated for employers, collaborators, and mentors to see.
 Whether I’m threat hunting, writing policy, or hardening a Windows server, my goal is the same: **deliver real, tested value**.
 
 ---
