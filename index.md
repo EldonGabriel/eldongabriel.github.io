@@ -11,7 +11,7 @@ Hi, I'm Eldon, approaching cybersecurity as both a technical craft and a busines
 
 I am earning hands-on real-world project experience in risk assessments, incident investigations, system hardening, and digital forensics, covering areas such as **Governance, Risk, and Compliance (GRC)**, **Threat Hunting**, **Penetration Testing**, and **Digital Investigations**. My work includes security operations, social media intelligence, threat hunting with YARA and automation scripts, penetration testing with Nmap, OpenVAS, Burp Suite, and Fierce, and virtualized lab environments.
 
-Currently, I am advancing my System Administration skills through _Mossé Cyber Security Institute_, with OSINT as my next focus, aiming to bring practical insight and a risk-focused mindset to strengthen organizational defenses.
+Currently, I am advancing my System Administration skills through _Mossé Cyber Security Institute_, with MOIS - Certified OSINT Expert as my next focus, aiming to bring practical insight and a risk-focused mindset to strengthen organizational defenses.
 
 <h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Cybersecurity Projects</h3>
 <table align="center" border="1" cellspacing="0" cellpadding="5">
