@@ -15,3 +15,8 @@ permalink: /field-notes/
     {% endif %}
   {% endfor %}
 </ul>
+
+{% assign field_notes_posts = site.posts | where:"tags","field-notes" %}
+{% for post in field_notes_posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
