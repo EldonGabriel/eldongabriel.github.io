@@ -2,11 +2,11 @@
 title: Eldon Gabriel
 subtitle: Cybersecurity Portfolio
 tagline: Bridging IT & Security with Hands-On Expertise
-logo: /assets/img/Head.png
+logo: /assets/img/logo.png
 description:
-url: https://EldonGabriel.github.io
+url: https://eldongabriel.github.io
 baseurl: /
-repository: EldonGabriel/EldonGabriel.github.io
+repository: EldonGabriel/eldongabriel.github.io
 lang: en
 
 # Jekyll
@@ -83,7 +83,7 @@ analytics:
 seo:
   name: Eldon Gabriel | Cybersecurity Portfolio
   description: Bridging IT & Security with Hands-On Expertise
-  image: /assets/img/EldonGabrielLogo.png
+  image: /assets/img/eldon.png
   title: Eldon Gabriel
   locale: en_CAN
   date_format: "%Y-%m-%d"
@@ -101,7 +101,7 @@ seo:
 # Site Author
 author:
   name: Eldon Gabriel
-  picture: /assets/img/Head.png
+  picture: /assets/img/eldon.png
   email: eldongbrl@gmail.com
   twitter: "@eldongbrl"
   links:
