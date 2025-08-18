@@ -1,6 +1,6 @@
 ---
 title: "Building Hands-On Cybersecurity Skills: From MICS to MSAF with MCSI Labs"
-date: 2025-08-18
+date: 2025-07-25
 author: Eldon Gabriel
 tags: [cybersecurity, MICS, MSAF, portfolio, hands-on, training]
 excerpt: "MCSI labs provide scenario-based exercises that bridge IT fundamentals with advanced cybersecurity practices, building a portfolio of applied skills."
