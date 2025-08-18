@@ -1,11 +1,9 @@
 # Sample site navigation bar links
 
-- title: Home
+- title: Profile
   url: /
 - title: Experience
   url: /experience/
-- title: Field Notes
-  url: /field-notes/
 # - title: Tags
 #   url: /tags/
 # - title: Recipes
