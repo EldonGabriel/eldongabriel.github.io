@@ -32,7 +32,7 @@ The 100 hours of free training provides a foundation to demonstrate my skills th
 
 📄 I’ve attached my official Confirmation of Enrolment from Mossé Cyber Security Institute, verifying that I’m actively enrolled and progressing through the course.
 
-<center>[Download Confirmation of Enrolment](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/mics-confirmation-of-enrolment.pdf)</center>
+<a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/mics-confirmation-of-enrolment.pdf" target="_blank">Download Confirmation of Enrolment</a>
 
 ## Next Steps
 
