@@ -36,7 +36,7 @@ Built scalable cloud-based VMs on Google Cloud Platform and AWS. Learned how to 
 - Explored the different types of VirtualBox network configurations.  
 - Researched the role of virtualization and its benefits for cybersecurity.
 
-<table style="width:100%; border-collapse: collapse; margin-top: 1em;">
+<table align="center" border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr style="background-color: #73b4d5; text-align: left;">
       <th style="padding: 10px; border: 1px solid #ddd;">Certification Name</th>
@@ -105,7 +105,7 @@ I’ve successfully finished the last 2 labs since my last update, completing th
 
 - **Create a Snapshot of a Virtual Machine:** Mastered rollback and recovery methods to guarantee safe testing environments.  
 - **Install and Configure VMware ESXi with vSphere:** Deployed enterprise-grade hypervisors, managing Windows and Linux VMs for advanced virtualization.
-<table style="width:100%; border-collapse: collapse; margin-top: 1em;">
+<table align="center" border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr style="background-color: #f2f2f2; text-align: left;">
       <th style="padding: 10px; border: 1px solid #ddd;">Certification Name</th>
