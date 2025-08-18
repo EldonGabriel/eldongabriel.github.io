@@ -101,7 +101,7 @@ seo:
 # Site Author
 author:
   name: Eldon Gabriel
-  picture: /assets/images/eldon.png
+  picture: https://eldongabriel.github.io/assets/images/eldon.png
   email: eldongbrl@gmail.com
   twitter: "@eldongbrl"
   links:
