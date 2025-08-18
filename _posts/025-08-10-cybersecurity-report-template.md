@@ -1,6 +1,6 @@
 ---
 title: "How I Built a Professional Cybersecurity Report Template"
-date: 2025-08-18
+date: 2025-08-10
 author: Eldon Gabriel
 tags: [cybersecurity, reporting, documentation, MCSI, professional-template]
 excerpt: "Building a reusable cybersecurity report template was more than formatting—it was about credibility, clarity, and professionalism."
