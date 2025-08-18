@@ -20,17 +20,17 @@ That’s exactly what I found when I enrolled in the **MICS – Introduction to 
   <tbody>
     <tr>
       <td><a href="https://storage.googleapis.com/cyber-platform-prod.appspot.com/milestone-certificates/SB6kNYfrf4Z9gg4Zz8T5LixXI832-mics-introduction-to-cyber-security.png?timestamp=1755512762902" target="_blank">MICS - Introduction to Cyber Security</a></td>
-      <td>Mossé Cyber Security Institute (MCSI)</td>
+      <td>Mossé Cyber Security Institute</td>
       <td>Level 1</td>
     </tr>
     <tr>
       <td><a href="https://storage.googleapis.com/cyber-platform-prod.appspot.com/milestone-certificates/SB6kNYfrf4Z9gg4Zz8T5LixXI832-mics-introduction-to-cyber-security.png?timestamp=1755512818599" target="_blank">MICS - Introduction to Cyber Security</a></td>
-      <td>Mossé Cyber Security Institute (MCSI)</td>
+      <td>Mossé Cyber Security Institute</td>
       <td>Level 2</td>
     </tr>
     <tr>
       <td><a href="https://storage.googleapis.com/cyber-platform-prod.appspot.com/milestone-certificates/SB6kNYfrf4Z9gg4Zz8T5LixXI832-mics-introduction-to-cyber-security.png?timestamp=1755512838856" target="_blank">MICS - Introduction to Cyber Security</a></td>
-      <td>Mossé Cyber Security Institute (MCSI)</td>
+      <td>Mossé Cyber Security Institute</td>
       <td>Level 3</td>
     </tr>
   </tbody>
