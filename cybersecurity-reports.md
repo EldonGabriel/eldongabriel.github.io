@@ -7,7 +7,9 @@ image:
 ---
 <h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Overview</h3>
 
-My cybersecurity work is grounded in hands-on, evidence-based problem solving. I analyze systems in realistic scenarios, uncover vulnerabilities, and assess risks with both technical rigor and strategic insight. This isn’t about running default tools—it’s about thinking like an attacker, analyzing data carefully, and producing clear, actionable reports. Each project demonstrates my ability to turn technical observations into real-world solutions that strengthen defenses and support governance, risk, and compliance.
+My cybersecurity work is grounded in hands-on, evidence-based problem solving. I analyze systems in realistic scenarios, uncover vulnerabilities, and assess risks with both technical rigor and strategic insight. 
+
+This isn’t about running default tools—it’s about thinking like an attacker, analyzing data carefully, and producing clear, actionable reports. Each project demonstrates my ability to turn technical observations into real-world solutions that strengthen defenses and support governance, risk, and compliance.
 
 <h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Cybersecurity Reports and Project Deliverables</h3>
 
