@@ -1,6 +1,6 @@
 ---
 title: "Hands-On Network Fundamentals: OSI, TCP/IP, and VPNs in Practice"
-date: 2025-08-18
+date: 2025-08-07
 author: Eldon Gabriel
 tags: [cybersecurity, networking, fundamentals, osi, tcp-ip, vpn]
 excerpt: "Exploring OSI, TCP/IP, and practical VPN configurations through hands-on labs to build foundational cybersecurity skills."
