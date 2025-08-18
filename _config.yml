@@ -103,7 +103,7 @@ author:
   name: Eldon Gabriel
   picture: https://eldongabriel.github.io/assets/images/eldon.png
   email: eldongbrl@gmail.com
-  twitter: "@eldongbrl"
+  twitter: @eldongbrl
   links:
     - title: Twitter
       url: https://twitter.com/eldongbrl
@@ -117,7 +117,7 @@ author:
 
 # Footer links
 footer_links:
-  - title: LinkedIn
+  - title: Linkedin
     url: https://linkedin.com/in/eldongabriel
     icon: fab fa-linkedin
   - title: Twitter
