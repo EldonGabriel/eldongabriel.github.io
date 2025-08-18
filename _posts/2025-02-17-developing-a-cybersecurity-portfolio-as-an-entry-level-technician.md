@@ -30,8 +30,12 @@ Certifications and online courses are important for understanding concepts, but 
 
 The 100 hours of free training provides a foundation to demonstrate my skills through a growing cybersecurity portfolio. This hands-on work becomes the evidence that I can perform in real operational environments.
 
+📄 I’ve attached my official Confirmation of Enrolment from Mossé Cyber Security Institute, verifying that I’m actively enrolled and progressing through the course.
+
+<center>[Download Confirmation of Enrolment](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/mics-confirmation-of-enrolment.pdf)</center>
+
 ## Next Steps
 
-After completing the _100 hours_, I plan to:
+After completing the coursework, I plan to:
 
 - Upgrade my portfolio with new skills, certifications, and reports from _MSAF – System Administration Fundamentals_ course.
