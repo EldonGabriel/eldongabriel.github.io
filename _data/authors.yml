@@ -9,3 +9,8 @@ Eldon Gabriel:
     - title: Twitter
       url: https://twitter.com/eldongbtl
       icon: fab fa-twitter-square
+
+eldon:
+  name: "Eldon Gabriel"
+  bio: "Cybersecurity Learner at MCSI"
+  avatar: "/assets/images/authors/eldon.png"
