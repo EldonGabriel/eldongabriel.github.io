@@ -3,14 +3,8 @@
 
 Eldon Gabriel:
   name: Eldon Gabriel
-  picture: /images/eldon.png
-  twitter: "@eldongbrl"
-  links:
-    - title: Twitter
-      url: https://twitter.com/eldongbtl
-      icon: fab fa-twitter-square
-
-eldon:
-  name: "Eldon Gabriel"
-  bio: "Cybersecurity Learner at MCSI"
-  avatar: "/assets/images/authors/eldon.png"
+  bio: Cybersecurity Technician
+  picture: /assets/images/eldon.png
+  linkedin: eldongabriel
+  twitter: eldongbrl
+  github: eldongabriel
