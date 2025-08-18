@@ -7,9 +7,11 @@ image:
 ---
 <h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Overview</h3>
 
-Hi, I'm Eldon and I approach cybersecurity as both a technical craft and a business-critical discipline, specializing in system administration, threat analysis, and OSINT. I have hands-on project experience in risk assessments, incident investigations, system hardening, and digital forensics, covering areas such as Governance, Risk, and Compliance (GRC), Open Source Intelligence (OSINT), Threat Hunting, Penetration Testing, and Digital Investigations. My work includes security operations, social media intelligence, threat hunting with YARA and automation scripts, penetration testing with Nmap, OpenVAS, Burp Suite, and Fierce, and virtualized lab environments.
+Hi, I'm Eldon and I approach cybersecurity as both a technical craft and a business-critical discipline, specializing in system administration, threat analysis, and OSINT. 
 
-Currently, I am advancing my System Administration skills through Mossé Cyber Security Institute, with OSINT as my next focus, aiming to bring practical insight and a risk-focused mindset to strengthen organizational defenses.
+I have hands-on project experience in risk assessments, incident investigations, system hardening, and digital forensics, covering areas such as _Governance, Risk, and Compliance (GRC)_, _Open Source Intelligence (OSINT)_, _Threat Hunting_, _Penetration Testing_, and _Digital Investigations_. My work includes security operations, social media intelligence, threat hunting with YARA and automation scripts, penetration testing with Nmap, OpenVAS, Burp Suite, and Fierce, and virtualized lab environments.
+
+Currently, I am advancing my _System Administration_ skills through _Mossé Cyber Security Institute_, with _OSINT_ as my next focus, aiming to bring practical insight and a risk-focused mindset to strengthen organizational defenses.
 
 <h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Cybersecurity Projects</h3>
 <table align="center" border="1" cellspacing="0" cellpadding="5">
