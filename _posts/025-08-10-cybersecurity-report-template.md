@@ -29,20 +29,12 @@ A strong report starts with a **title and naming structure** that makes sense at
 <h3><kbd>[KEYWORD] – [TITLE] – v[VERSION].[EXTENSION]</kbd></h3>  
 <h5> <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/images/cybersecurity-report-template-diagram.png" target="_blank">Figure 1: Cybersecurity Report Template Diagram. 2025, @eldongbrl</a></h5>
 
-</div>
-
-<dl>
-  <dt>[KEYWORD]</dt> - <dd>Primary identifier for the document’s purpose or category. 
-      <br><em>Example:</em> <code>REPORT</code> – instantly tells the reader it’s a formal document.</dd>
-
-  <dt>[TITLE]</dt> - <dd>A specific description of the report. 
-      <br><em>Example:</em> <code>Cybersecurity Assessment</code> – explains exactly what the document is about.</dd>
-
-  <dt>v[VERSION]</dt> - <dd>Tracks changes and ensures version control. 
-      <br><em>Example:</em> <code>v1.0.0</code> – first complete draft, with a revision history tracking updates.</dd>
-
-  <dt>[EXTENSION]</dt> - <dd>File type, such as <code>.pdf</code> or <code>.docx</code>.</dd>
-</dl>
+| Keyword | Description | Example |
+|---|---|---|
+| **[KEYWORD]** | Primary identifier for the document’s purpose or category. | REPORT – instantly tells the reader it’s a formal document. |
+| **[TITLE]** | A specific description of the report. | Cybersecurity Assessment – explains exactly what the document is about. |
+| **v[VERSION]** | Tracks changes and ensures version control. | v1.0.0 – first complete draft, with a revision history tracking updates. |
+| **[EXTENSION]** | File type, such as `.pdf` or `.docx`. | .pdf or .docx |
 
 <p><strong>Why This Matters in Cybersecurity:</strong></p>
 <ol>
