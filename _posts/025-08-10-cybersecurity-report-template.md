@@ -26,10 +26,8 @@ A strong report starts with a **title and naming structure** that makes sense at
 
 <div align="center">
 
-<kbd>[KEYWORD] – [TITLE] – v[VERSION].[EXTENSION]</kbd>  
+<h3><kbd>[KEYWORD] – [TITLE] – v[VERSION].[EXTENSION]</kbd></h3>  
 <h5> <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/images/cybersecurity-report-template-diagram.png" target="_blank">Figure 1: Cybersecurity Report Template Diagram. 2025, @eldongbrl</a></h5>
-
-</a>
 
 </div>
 
