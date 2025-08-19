@@ -26,35 +26,44 @@ A strong report starts with a **title and naming structure** that makes sense at
 
 <div align="center">
 
-<h3><kbd>[KEYWORD] – [TITLE] – v[VERSION].[EXTENSION]</kbd></h3>  
-<h5> <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/images/cybersecurity-report-template-diagram.png" target="_blank">Figure 1: Cybersecurity Report Template Diagram. 2025, @eldongbrl</a></h5>
+<h3><kbd>[KEYWORD] – [TITLE] – v[VERSION].[EXTENSION]</kbd></h3>
 
-<table>
-  <thead>
+<table border="1" cellspacing="0" cellpadding="5" style="border-collapse: collapse; text-align: left;">
+  <thead style="background-color: #73b4d5;">
     <tr>
-      <th>Keyword</th>
+      <th>Keyword / Term</th>
+      <th>Description</th>
       <th>Example</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>[KEYWORD] - </b> Primary identifier for the document’s purpose or category.</td>
-      <td>`REPORT` instantly tells the reader it’s a formal document.</td>
+      <td>[KEYWORD]</td>
+      <td>Primary identifier for the document’s purpose or category.</td>
+      <td><code>REPORT</code> – instantly tells the reader it’s a formal document.</td>
     </tr>
     <tr>
-      <td><b>[TITLE] - </b> A specific description of the report.</td>
-      <td>`Cybersecurity Assessment` – explains exactly what the document is about.</td>
+      <td>[TITLE]</td>
+      <td>A specific description of the report.</td>
+      <td><code>Cybersecurity Assessment</code> – explains exactly what the document is about.</td>
     </tr>
     <tr>
-      <td><b>v[VERSION] - </b> Tracks changes and ensures version control.</td>
-      <td>`v1.0.0` – first complete draft, with a revision history tracking updates.</td>
+      <td>v[VERSION]</td>
+      <td>Tracks changes and ensures version control.</td>
+      <td><code>v1.0.0</code> – first complete draft, with a revision history tracking updates.</td>
     </tr>
     <tr>
-      <td><b>[EXTENSION] - </b> File type, such as `.pdf` or `.docx`.</td>
-      <td>`.pdf`</td>
+      <td>[EXTENSION]</td>
+      <td>File type, such as <code>.pdf</code> or <code>.docx</code>.</td>
+      <td><code>.pdf</code></td>
     </tr>
   </tbody>
 </table>
+
+</div>
+
+
+---
 
 <p><strong>Why This Matters in Cybersecurity:</strong></p>
 <ol>
