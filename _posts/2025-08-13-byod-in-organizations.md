@@ -27,7 +27,7 @@ This dual-path approach turns every concept into something I can immediately put
     <tr>
       <td style="text-align: center;">Lab Setup – Create a Virtual Machine in VMWare</td>
       <td style="text-align: center;">Mossé Cyber Security Institute	</td>
-      <td style="text-align: center;">https://students.mosse-institute.com/exercise/genestDYUfk4OGr6MZPY<a href="" target="_blank">View Certificate</a></td>
+      <td style="text-align: center;"><a href="https://students.mosse-institute.com/exercise/genestDYUfk4OGr6MZPY" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td style="text-align: center;">Lab Setup – Deploy a Virtual Machine in AWS</td>
