@@ -65,7 +65,7 @@ A strong report starts with a **title and naming structure** that makes sense at
 
 ---
 
-<p><strong>Why This Matters in Cybersecurity:</strong></p>
+## Why This Matters in Cybersecurity?
 <ol>
   <li>Improves organization and retrieval speed.</li>
   <li>Supports collaboration by clearly indicating document status.</li>
