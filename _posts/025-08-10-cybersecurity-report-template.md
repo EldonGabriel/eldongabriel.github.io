@@ -104,7 +104,7 @@ The final result was a professional-grade template I can now adapt for any futur
 
 ---
 
-## Free Resource: Download My Cybersecurity Report Template  
+## Free Resource: Cybersecurity Report Template  
 
 When I built this template, my goal was to create something I could use repeatedly—whether for an **incident report, vulnerability assessment, or malware analysis.**  
 
