@@ -29,20 +29,33 @@ A strong report starts with a **title and naming structure** that makes sense at
 <h3><kbd>[KEYWORD] – [TITLE] – v[VERSION].[EXTENSION]</kbd></h3>  
 <h5> <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/images/cybersecurity-report-template-diagram.png" target="_blank">Figure 1: Cybersecurity Report Template Diagram. 2025, @eldongbrl</a></h5>
 
-| **Component** | **Purpose** | **Example** |
-|---------------|-------------|-------------|
-| **[KEYWORD]** | Primary identifier for the document’s purpose or category. | `REPORT` – instantly tells the reader it’s a formal document. |
-| **[TITLE]**   | A specific description of the report. | `Cybersecurity Assessment` – explains exactly what the document is about. |
-| **v[VERSION]** | Tracks changes and ensures version control. | `v1.0.0` – first complete draft, with a revision history tracking updates. |
-| **[EXTENSION]** | File type, such as `.pdf` or `.docx`. | `.pdf` |
-
-
-| Keyword | Description | Example |
-|---|---|---|
-| **[KEYWORD]** | Primary identifier for the document’s purpose or category. | REPORT – instantly tells the reader it’s a formal document. |
-| **[TITLE]** | A specific description of the report. | Cybersecurity Assessment – explains exactly what the document is about. |
-| **v[VERSION]** | Tracks changes and ensures version control. | v1.0.0 – first complete draft, with a revision history tracking updates. |
-| **[EXTENSION]** | File type, such as `.pdf` or `.docx`. | .pdf or .docx |
+<table>
+  <thead>
+    <tr>
+      <th>Keyword</th>
+      <th>Description</th>
+      <th>Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>[KEYWORD]</b></td> - Primary identifier for the document’s purpose or category.</td>
+      <td>_Example:_ `REPORT` – instantly tells the reader it’s a formal document.</td>
+    </tr>
+    <tr>
+      <td><b>[TITLE]</b></td> - A specific description of the report.</td>
+      <td>_Example:_ `Cybersecurity Assessment` – explains exactly what the document is about.</td>
+    </tr>
+    <tr>
+      <td><b>v[VERSION]</b></td> - Tracks changes and ensures version control.</td>
+      <td>_Example:_ `v1.0.0` – first complete draft, with a revision history tracking updates.</td>
+    </tr>
+    <tr>
+      <td><b>[EXTENSION]</b></td> - File type, such as `.pdf` or `.docx`.</td>
+      <td>`.pdf`</td>
+    </tr>
+  </tbody>
+</table>
 
 <p><strong>Why This Matters in Cybersecurity:</strong></p>
 <ol>
