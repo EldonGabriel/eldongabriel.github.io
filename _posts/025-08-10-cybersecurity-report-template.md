@@ -32,22 +32,17 @@ A strong report starts with a **title and naming structure** that makes sense at
 </div>
 
 <dl>
-  <dt>[KEYWORD]</dt>
-  <dd>Primary identifier for the document’s purpose or category. 
+  <dt>[KEYWORD]</dt> - <dd>Primary identifier for the document’s purpose or category. 
       <br><em>Example:</em> <code>REPORT</code> – instantly tells the reader it’s a formal document.</dd>
 
-  <dt>[TITLE]</dt>
-  <dd>A specific description of the report. 
+  <dt>[TITLE]</dt> - <dd>A specific description of the report. 
       <br><em>Example:</em> <code>Cybersecurity Assessment</code> – explains exactly what the document is about.</dd>
 
-  <dt>v[VERSION]</dt>
-  <dd>Tracks changes and ensures version control. 
+  <dt>v[VERSION]</dt> - <dd>Tracks changes and ensures version control. 
       <br><em>Example:</em> <code>v1.0.0</code> – first complete draft, with a revision history tracking updates.</dd>
 
-  <dt>[EXTENSION]</dt>
-  <dd>File type, such as <code>.pdf</code> or <code>.docx</code>.</dd>
+  <dt>[EXTENSION]</dt> - <dd>File type, such as <code>.pdf</code> or <code>.docx</code>.</dd>
 </dl>
-
 
 <p><strong>Why This Matters in Cybersecurity:</strong></p>
 <ol>
