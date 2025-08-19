@@ -39,19 +39,19 @@ A strong report starts with a **title and naming structure** that makes sense at
   </thead>
   <tbody>
     <tr>
-      <td><b>[KEYWORD] - </b></td> Primary identifier for the document’s purpose or category.</td>
+      <td><b>[KEYWORD] - </b> Primary identifier for the document’s purpose or category.</td>
       <td>_Example:_ `REPORT` instantly tells the reader it’s a formal document.</td>
     </tr>
     <tr>
-      <td><b>[TITLE] - </b></td> A specific description of the report.</td>
+      <td><b>[TITLE] - </b> A specific description of the report.</td>
       <td>_Example:_ `Cybersecurity Assessment` – explains exactly what the document is about.</td>
     </tr>
     <tr>
-      <td><b>v[VERSION] - </b></td> Tracks changes and ensures version control.</td>
+      <td><b>v[VERSION] - </b> Tracks changes and ensures version control.</td>
       <td>_Example:_ `v1.0.0` – first complete draft, with a revision history tracking updates.</td>
     </tr>
     <tr>
-      <td><b>[EXTENSION] - </b></td> File type, such as `.pdf` or `.docx`.</td>
+      <td><b>[EXTENSION] - </b> File type, such as `.pdf` or `.docx`.</td>
       <td>`.pdf`</td>
     </tr>
   </tbody>
