@@ -100,7 +100,7 @@ The MCSI task required me to integrate all these components into a single, funct
 
 The final result was a professional-grade template I can now adapt for any future cybersecurity report—whether for academic work, lab documentation, or professional engagements.  
 
-<a href="https://students.mosse-institute.com/exercise/yL7qdP5eE4OI4rFJrxIg" target="_blank">View Certification</a>
+<center><a href="https://students.mosse-institute.com/exercise/yL7qdP5eE4OI4rFJrxIg" target="_blank">View Certification</a></center>
 
 ---
 
@@ -115,7 +115,7 @@ Now I’m sharing it with you.
 - Apply professional naming and version control best practices.  
 - Deliver reports that look clean, credible, and consistent.  
 
-📥 <a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?tab=t.0#heading=h.oxc6p4pln7ek" target="_blank">View Report Template</a>
+<center>📥 <a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?tab=t.0#heading=h.oxc6p4pln7ek" target="_blank">View Report Template</a></center>
 
 ---
 
