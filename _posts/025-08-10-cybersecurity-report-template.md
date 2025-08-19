@@ -23,7 +23,15 @@ I had just completed my **Google Cybersecurity Professional Certification**, whe
 A strong report starts with a **title and naming structure** that makes sense at a glance. Consistency is more than an aesthetic choice—it makes information easier to file, retrieve, and update.  
 
 ### Naming Convention  
-<h3><kbd><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/images/cybersecurity-report-template-diagram.png" target="_blank">[KEYWORD] – [TITLE] – v[VERSION].[EXTENSION]</a></kbd></h3>
+<div align="center">
+  <h3>
+    <kbd>
+      <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/images/cybersecurity-report-template-diagram.png" target="_blank">
+        [KEYWORD] – [TITLE] – v[VERSION].[EXTENSION]
+      </a>
+    </kbd>
+  </h3>
+</div>
 
 <dl>
   <dt>[KEYWORD]</dt>
