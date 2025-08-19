@@ -28,10 +28,10 @@ A strong report starts with a **title and naming structure** that makes sense at
 
 <h3><kbd>[KEYWORD] – [TITLE] – v[VERSION].[EXTENSION]</kbd></h3>
 
-<table border="1" cellspacing="0" cellpadding="5" style="border-collapse: collapse; text-align: left;">
+<table border="1" cellspacing="0" cellpadding="5" style="border-collapse: collapse; text-align: center;">
   <thead style="background-color: #73b4d5;">
     <tr>
-      <th>Keyword / Term</th>
+      <th>Keyword</th>
       <th>Description</th>
       <th>Example</th>
     </tr>
