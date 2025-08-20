@@ -99,7 +99,7 @@ Built scalable cloud-based VMs on Google Cloud Platform and AWS. Learned how to 
 - Complete PDF reports and video submissions for my portfolio.  
 - Apply snapshot, networking, and rollback strategies to future malware analysis labs.
 
-> **ℹ️Update: Virtualization Fundamentals Fully Completed (July 18, 2025)</h2></center>
+> **ℹ️Update: Virtualization Fundamentals Fully Completed (July 18, 2025)
 
 I’ve successfully finished the last 2 labs since my last update, completing the module:  
 
