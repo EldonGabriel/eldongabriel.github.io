@@ -8,6 +8,7 @@
 }
 
 .layout--home .page-wrapper {
-  max-width: $main-sidebar-max-width;  // same as page layout
-  padding-left: 1em;                  // match page layout
+  max-width: 1000px;  // or whatever matches your page layout
+  padding-left: 1em;
   padding-right: 1em;
+}
