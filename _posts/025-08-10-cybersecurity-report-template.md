@@ -57,7 +57,8 @@ A strong report starts with a **title and naming structure** that makes sense at
 </table>
 </div>
 
-<center><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/images/cybersecurity-report-template-diagram.png" target="_blank">Figure 1: Cybersecurity Report Template Diagram. 2025, @eldongbrl</a></center><br>
+<center><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/images/cybersecurity-report-template-diagram.png" target="_blank">Figure 1: Cybersecurity Report Template Diagram. 2025, @eldongbrl</a></center>
+<br>
 
 <center><h2>Why This Matters in Cybersecurity?</h2></center>
 <ol>
@@ -66,7 +67,7 @@ A strong report starts with a **title and naming structure** that makes sense at
   <li>Strengthens security posture by reducing the risk of working from outdated files.</li>
   <li>Helps with compliance, especially in regulated environments.</li>
 </ol>
-
+<br>
 
 <center><h2>What Makes a Professional Cybersecurity Document Template?  
 </h2></center>
@@ -98,9 +99,7 @@ The final result was a professional-grade template I can now adapt for any futur
 
 <center><h2>Free Resource: Cybersecurity Report Template</h2></center>
 
-When I built this template, my goal was to create something I could use repeatedly—whether for an **incident report, vulnerability assessment, or malware analysis.**  
-
-Now I’m sharing it with you.  
+When I built this template, my goal was to create something I could use repeatedly—whether for an **incident report, vulnerability assessment, or malware analysis.** Now I’m sharing it with you.  
 
 **Key Advantages for Cybersecurity Professionals**  
 - Save hours on formatting.  
