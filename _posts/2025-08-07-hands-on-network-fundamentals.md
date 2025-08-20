@@ -8,11 +8,9 @@ image: "/assets/images/fnlogo.png"
 layout: post
 ---
 
-## Hands-On Network Fundamentals: OSI, TCP/IP, and VPNs in Practice
-
 The more you learn network fundamentals, the easier cybersecurity gets. Completing the Network Fundamentals section of the MSAF course was not just a checklist item—it was a milestone in my journey. This module involved hands-on labs that applied theory to real-world scenarios, mirroring the exact skills required by cybersecurity professionals.
 
-### Grasping the Theoretical Underpinnings
+<center><h2>Grasping the Theoretical Underpinnings</h2></center>
 
 I began by building a strong foundation through research on the **OSI and TCP/IP models**:
 
@@ -32,7 +30,7 @@ Next, I researched **common networking hardware** used in enterprise networks:
   <li><strong>Firewalls:</strong> Protect sensitive data by controlling access and segmenting networks</li>
 </ul> 
 
-### Putting Knowledge into Practice: Static & Dynamic Network Design
+<center><h2>Putting Knowledge into Practice: Static & Dynamic Network Design</h2></center>
 
 To test my knowledge, I designed a visual network with **Draw.io** for a 100-employee business. Every PC, switch, and server placement built the network; adding firewalls and a DMZ protected it. The result: a complete network diagram with secure segmentation and proper security controls.
 
@@ -58,7 +56,7 @@ This exercise took over **10 hours** of intensive hands-on work and led me to cr
 
 > **ℹ️ Note:** Full lab reports and video submissions are available upon request.
 
-### Conclusion
+<center><h2>Conclusion</h2></center>
 
 Textbook learning alone does not prepare you for advanced hands-on exercises like this. I gained practical, real-world skills and produced a complete two-part network project suitable for my cybersecurity portfolio.
 
@@ -71,6 +69,6 @@ Textbook learning alone does not prepare you for advanced hands-on exercises lik
   <li>Produced a portfolio-ready two-part network project.</li>
 </ul>
 
-### Ethical Disclosure
+<center><h2>Ethical Disclosure</h2></center>
 
 > **ℹ️ Note:** In line with my academic pledge at Mossé Cyber Security Institute (MCSI), official course solutions are not published. Instead, these posts reflect my independent work and interpretation of industry-relevant skills and tools. Supporting documentation is available privately for recruiters, mentors, or collaborators.
