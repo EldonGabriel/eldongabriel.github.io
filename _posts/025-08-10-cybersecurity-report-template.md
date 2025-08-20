@@ -55,12 +55,9 @@ A strong report starts with a **title and naming structure** that makes sense at
     </tr>
   </tbody>
 </table>
-
 </div>
 
-<center><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/images/cybersecurity-report-template-diagram.png" target="_blank">Figure 1: Cybersecurity Report Template Diagram. 2025, @eldongbrl</a></center>
-
-
+<center><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/images/cybersecurity-report-template-diagram.png" target="_blank">Figure 1: Cybersecurity Report Template Diagram. 2025, @eldongbrl</a></center><br>
 
 <center><h2>Why This Matters in Cybersecurity?</h2></center>
 <ol>
@@ -83,7 +80,7 @@ Through my research and the MCSI exercise, I learned that a professional report 
   <li><strong>Citations & References:</strong> Ensures proper crediting of sources.</li>
   <li><strong>Images with Captions:</strong> Adds visual clarity and supports findings.</li>
 </ul>
-  
+ <br> 
 
 <center><h2>The Challenge and the Outcomes</h2></center>
 
@@ -97,7 +94,7 @@ The MCSI task required me to integrate all these components into a single, funct
 The final result was a professional-grade template I can now adapt for any future cybersecurity report—whether for academic work, lab documentation, or professional engagements.  
 
 <center><a href="https://students.mosse-institute.com/exercise/yL7qdP5eE4OI4rFJrxIg" target="_blank">View Certification</a></center>
-
+<br>
 
 <center><h2>Free Resource: Cybersecurity Report Template</h2></center>
 
@@ -109,9 +106,10 @@ Now I’m sharing it with you.
 - Save hours on formatting.  
 - Apply professional naming and version control best practices.  
 - Deliver reports that look clean, credible, and consistent.  
+<br>
 
 <center>📥 <a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?tab=t.0#heading=h.oxc6p4pln7ek" target="_blank">View Report Template</a></center>
-
+<br>
 
 <center><h2>Final Thought</h2></center>
 
