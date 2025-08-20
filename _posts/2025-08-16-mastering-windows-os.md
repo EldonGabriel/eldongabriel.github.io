@@ -8,8 +8,6 @@ image: "/assets/images/banner.png"
 layout: post
 ---
 
-<center><h2>Mastering Windows OS – Security and System Hardening</h2></center>
-
 Today, I want to share how I recently completed a project on Windows security hardening. This report covers best practices for the Windows operating system. This was a hands-on exercise from my **MCSI** exercises. I looked into system configuration, network protection, and registry security.  
 
 Many people use Windows, making it a frequent target for hackers. Knowing how to secure it helps protect computers and is an important part of any cybersecurity strategy.
