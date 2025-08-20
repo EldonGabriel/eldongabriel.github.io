@@ -5,8 +5,25 @@ permalink: /
 image:
   path: /assets/images/banner.png
 ---
-<link rel="shortcut icon" href="logo.ico" type="assets/images/logo.png">
-<link rel="apple-touch-icon" href="assets/images/logo.png">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eldon Gabriel | Cybersecurity Portfolio</title>
+
+  <!-- Favicon for most browsers -->
+  <link rel="shortcut icon" href="assets/images/logo.ico" type="image/x-icon">
+
+  <!-- Standard PNG favicon(s) -->
+  <link rel="icon" href="assets/images/logo.png" type="image/png">
+  <!-- Optional: crisp sizes if you have them -->
+  <!-- <link rel="icon" href="assets/images/logo-32.png" sizes="32x32" type="image/png"> -->
+  <!-- <link rel="icon" href="assets/images/logo-16.png" sizes="16x16" type="image/png"> -->
+
+  <!-- Apple touch icon for iOS -->
+  <link rel="apple-touch-icon" href="assets/images/logo.png">
+  <!-- Optional: use a 180x180 specifically for better iOS rendering -->
+  <!-- <link rel="apple-touch-icon" sizes="180x180" href="assets/images/logo-180.png"> -->
+</head>
 
 <h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Overview</h3>
 
