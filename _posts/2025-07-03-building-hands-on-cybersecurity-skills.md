@@ -36,12 +36,9 @@ That’s exactly what I found when I enrolled in the **MICS – Introduction to 
   </tbody>
 </table>
 
-
 These certificates are more than titles—they’re earned through real labs, real tools, and real problem-solving. The MICS course helped me build foundational skills across multiple domains of cybersecurity and gave me the confidence to move into more advanced operations and system-level thinking.
 
----
-
-## What I Gained from MICS
+<center><h2>What I Gained from MICS</h2></center>
 
 The MICS experience was **100% hands-on**. There were no pre-written answers—only guided learning through testing, research, and trial-and-error. This approach helped me develop real-world fluency in key areas like:
 
@@ -64,9 +61,7 @@ The MICS experience was **100% hands-on**. There were no pre-written answers—o
 
 These exercises were supported by a focus on **professional writing and technical research**, sharpening both my technical and communication skills—critical for any analyst or engineer in the field.
 
----
-
-## Why I Chose to Enroll in MSAF
+<center><h2>Why I Chose to Enroll in MSAF</h2></center>
 
 After earning my Level 3 certification and completing the MICS course, I knew it was time to dive deeper. That’s why I enrolled in **MSAF – System Administration Fundamentals**, a course designed to build mastery in the systems that power and secure enterprise environments.
 
@@ -74,7 +69,7 @@ After earning my Level 3 certification and completing the MICS course, I knew it
 
 <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-confirmation-of-enrolment.pdf" target="_blank">Download Confirmation of Enrolment</a>
 
-## What MSAF Will Help Me Master
+<center><h2>What MSAF Will Help Me Master</h2></center>
 
 The MSAF course goes beyond concepts—it teaches how to **build, secure, and recover real systems**. Here’s a preview of what I’m working on:
 
@@ -100,9 +95,7 @@ The MSAF course goes beyond concepts—it teaches how to **build, secure, and re
 
 All of this work contributes to my **public portfolio**, showcasing not just theory—but evidence of capability.
 
----
-
-## Why This Matters
+<center><h2>Why This Matters</h2></center>
 
 The cyber workforce doesn’t need more paper certs—it needs people who can **solve problems under pressure**.
 By completing MICS and enrolling in MSAF, I’m reinforcing a **portfolio-first mindset** backed by tools, techniques, and repeatable results. 
@@ -110,9 +103,8 @@ By completing MICS and enrolling in MSAF, I’m reinforcing a **portfolio-first 
 From **YARA rules** to **GPO enforcement**, every step I take is documented and demonstrated for employers, collaborators, and mentors to see.
 Whether I’m threat hunting, writing policy, or hardening a Windows server, my goal is the same: **deliver real, tested value**.
 
----
 
-## Final Thoughts
+<center><h2>Final Thoughts</h2></center>
 
 MCSI’s approach to cybersecurity training is unlike anything I’ve experienced. With every lab and report, I’m building the skills that matter in the field.
 
