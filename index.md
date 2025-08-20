@@ -1,24 +1,10 @@
 ---
 layout: home
-title: Eldon Gabriel | Cybersecurity Portfolio
+title: Cybersecurity Portfolio
 permalink: /
 image:
   path: /assets/images/banner.png
 ---
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Eldon Gabriel | Cybersecurity Portfolio</title>
-
-  <!-- Favicon for most browsers -->
-  <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
-
-  <!-- Fallback PNG favicon -->
-  <link rel="icon" href="assets/images/logo.png" type="image/png">
-
-  <!-- Apple touch icon for iOS devices -->
-  <link rel="apple-touch-icon" href="assets/images/logo.png">
-</head>
 
 <h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Overview</h3>
 
