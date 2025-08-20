@@ -14,8 +14,6 @@ Today, I want to share how I recently completed a project on Windows security ha
 
 Many people use Windows, making it a frequent target for hackers. Knowing how to secure it helps protect computers and is an important part of any cybersecurity strategy.
 
----
-
 ## Key Principles Learned
 
 - **Principle of Least Privilege (PoLP):** Users and systems should only have the access needed for their tasks. Regular users should not have admin rights.  
@@ -23,23 +21,17 @@ Many people use Windows, making it a frequent target for hackers. Knowing how to
 - **Attack Surface Reduction:** Removing unnecessary roles, features, and services lowers potential entry points for attackers.  
 - **Network Segmentation:** VLANs split a network into isolated sections, containing attacks and preventing threats from spreading.
 
----
-
 ## Cybersecurity Applications
 
 - **Threat Modeling:** Hardening Windows systems helps identify vulnerabilities, such as overly open firewall rules.  
 - **Risk Management:** Strong passwords and multi-factor authentication reduce the risk of account compromise.  
 - **Incident Response:** Properly configured systems provide clear logs for SOC teams to trace and respond to attacks.
 
----
-
 ## Alignment with Industry Frameworks
 
 - **NIST Cybersecurity Framework:** Security hardening covers access control, vulnerabilities, and data protection.  
 - **Governance, Risk, Compliance (GRC):** Standard security baselines support compliance and improve risk management.  
 - **Cybersecurity Roles:** This knowledge is essential for SysAdmins, Security Engineers, and Auditors.
-
----
 
 ## Next Steps
 
