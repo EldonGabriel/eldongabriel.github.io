@@ -9,6 +9,9 @@ baseurl: /
 repository: EldonGabriel/eldongabriel.github.io
 lang: en
 
+# Skin
+skin: /assets/css/skins/dark.css
+
 # Jekyll
 permalink: /:title/
 markdown: kramdown
