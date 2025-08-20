@@ -11,3 +11,12 @@ sitemap: false
 .site-title {
   text-align: center;
 }
+
+// Ensure page content uses the same width and padding
+.main-content,
+.page-wrapper {
+  max-width: 1000px;     // or adjust to your preference
+  margin: 0 auto;        // center horizontally
+  padding: 2rem 1.5rem;  // top/bottom and left/right padding
+  box-sizing: border-box;
+}
