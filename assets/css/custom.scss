@@ -6,3 +6,9 @@
   padding-top: 0 !important;
   padding-bottom: 0 !important;
 }
+
+.layout--home .page-wrapper {
+  padding-left: 1em;
+  padding-right: 1em;
+  max-width: $main-sidebar-max-width; // match page layout width
+}
