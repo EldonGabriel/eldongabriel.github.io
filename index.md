@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Profile
+title: Eldon Gabriel | Cybersecurity Portfolio
 permalink: /
 image:
   path: /assets/images/banner.png
