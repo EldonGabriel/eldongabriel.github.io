@@ -67,7 +67,7 @@ After earning my Level 3 certification and completing the MICS course, I knew it
 
 📄 I’ve attached my official **Confirmation of Enrolment** from Mossé Cyber Security Institute, verifying that I’m actively enrolled and progressing through the course.
 
-<a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-confirmation-of-enrolment.pdf" target="_blank">Download Confirmation of Enrolment</a>
+<center><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-confirmation-of-enrolment.pdf" target="_blank">Download Confirmation of Enrolment</a></center>
 
 <center><h2>What MSAF Will Help Me Master</h2></center>
 
@@ -110,4 +110,4 @@ MCSI’s approach to cybersecurity training is unlike anything I’ve experience
 
 If you’re curious about how to level up in cybersecurity through hands-on work, feel free to connect—or check out my portfolio below.
 
-<a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832" target="_blank">View My MCSI Portfolio</a>
+<center><a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832" target="_blank">View My MCSI Portfolio</a></center>
