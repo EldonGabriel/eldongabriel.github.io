@@ -7,26 +7,24 @@ sitemap: false
 
 @import "so-simple";
 
-/* Center homepage and page titles */
-.page-header h1,
-.site-title {
+/* Homepage / Profile title */
+header.masthead .site-title {
+  font-family: Arial, sans-serif !important;
+  font-weight: bold !important;
   text-align: center;
 }
 
-/* Set fonts to Arial */
-.site-title {
-  font-family: Arial, sans-serif;
-  font-weight: bold;
+/* Page and blog titles */
+main.page .page-header h1,
+main.page .post-title {
+  font-family: Arial, sans-serif !important;
+  font-weight: bold !important;
+  text-align: center;
 }
 
-.page-header h1,
-.post-title {
-  font-family: Arial, sans-serif;
-  font-weight: bold;
-}
-
-.page-content h3 {
-  font-family: Arial, sans-serif;
-  font-weight: bold;
-  text-align: center; /* keep your section headers centered */
+/* Section headers (h3) */
+main.page .page-content h3 {
+  font-family: Arial, sans-serif !important;
+  font-weight: bold !important;
+  text-align: center;
 }
