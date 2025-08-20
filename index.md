@@ -11,7 +11,7 @@ image:
   <title>Eldon Gabriel | Cybersecurity Portfolio</title>
 
   <!-- Favicon for most browsers -->
-  <link rel="shortcut icon" href="assets/images/logo.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
 
   <!-- Fallback PNG favicon -->
   <link rel="icon" href="assets/images/logo.png" type="image/png">
