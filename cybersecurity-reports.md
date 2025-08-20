@@ -15,7 +15,8 @@ This isn’t about running default tools—it’s about thinking like an attacke
 
 This repository serves as a portfolio of hands-on projects and deliverables from my cybersecurity training. Each item demonstrates the application of technical skills and a risk-focused mindset to solve real-world security challenges.
 
-<h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Written Reports & Case Studies</h3>
+<center><h2>Written Reports & Case Studies</h2></center>
+
 <table align="center" border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr style="background-color: #73b4d5; color: #000000; text-align: center;">
