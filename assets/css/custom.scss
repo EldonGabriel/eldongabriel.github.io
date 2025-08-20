@@ -6,3 +6,6 @@
   padding-top: 0 !important;
   padding-bottom: 0 !important;
 }
+
+<link rel="stylesheet" href="{{ site.skin | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
