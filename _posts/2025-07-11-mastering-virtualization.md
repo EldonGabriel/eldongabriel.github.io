@@ -7,31 +7,30 @@ excerpt: "Hands-on virtualization labs across VMware, WSL, GCP, and AWS are buil
 image: "/assets/images/fnlogo.png"
 layout: post
 ---
-## Pushing Through: Virtualization Fundamentals Progress
 
 I’m nearing the end of the Virtualization Fundamentals module, with 7 out of 9 labs completed. I’ve completed two key system admin tasks using VMware Fusion on macOS with the M2 chip. This journey has given me a solid grasp of virtualization—a crucial skill set for both offensive and defensive cybersecurity operations.
 
-### What I’ve Accomplished
+<center><h2>What I’ve Accomplished</h2></center>
 
-**Network Modes in VirtualBox**  
+🔹**Network Modes in VirtualBox**  
 I studied different VirtualBox network configurations like NAT, Bridged, Internal, and Host-only. Learned how they affect VM isolation, traffic routing, and lab containment.
 
-**Role of Virtualization in Cybersecurity**  
+🔹**Role of Virtualization in Cybersecurity**  
 Looked into how virtualization helps with malware analysis, attack simulation, secure sandboxing, and business continuity. This tied technical setups to real-world security goals.
 
-**Lab Setup: Deploy Virtual Machines**  
+🔹**Lab Setup: Deploy Virtual Machines**  
 Set up multiple virtual machines on different platforms and hypervisors. This created secure baselines for testing malware, patch verification, and access control audits.
 
-**Lab Setup: Install Windows Subsystem for Linux (WSL2)**  
+🔹**Lab Setup: Install Windows Subsystem for Linux (WSL2)**  
 Installed and configured WSL2 to combine Windows and Linux workflows, boosting workflow efficiency.
 
-**Lab Setup: Create a Virtual Machine in VMware**  
+🔹**Lab Setup: Create a Virtual Machine in VMware**  
 Created VMs with Kali Linux and Windows 11 ARM64 on macOS M2. Configured NAT networking and resolved compatibility issues using VirtIO drivers and firewall tuning.
 
-**Lab Setup: Deploy a Virtual Machine in GCP and AWS**  
+🔹**Lab Setup: Deploy a Virtual Machine in GCP and AWS**  
 Built scalable cloud-based VMs on Google Cloud Platform and AWS. Learned how to manage SSH keys, firewall rules, and VM access controls.
 
-### Research & Explanation
+<center><h2>Research & Explanation</h2></center>
 
 - Explored the different types of VirtualBox network configurations.  
 - Researched the role of virtualization and its benefits for cybersecurity.
@@ -83,24 +82,25 @@ Built scalable cloud-based VMs on Google Cloud Platform and AWS. Learned how to 
   </tbody>
 </table>
 
-### Up Next
+<center><h2>Up Next Research & Explanation</h2></center>
 
 - **Create a Snapshot of a Virtual Machine:** Master rollback and recovery methods for safe testing.  
 - **Install and Configure VMware ESXi with vSphere:** Set up enterprise-grade hypervisors for advanced virtualization, server consolidation, and cloud-like management.
 
-### Why Virtualization Skills Matter
+<center><h2>Why Virtualization Skills Matter</h2></center>
 
 - **Red Teams** rely on isolated, disposable environments to safely test tools and techniques.  
 - **Blue Teams** use VMs to simulate attacks, analyze data, and quickly recover systems.  
 - Virtualization is a must-have skill for security pros handling sandboxes or regulated setups.
 
-### What’s Next on My Journey
+<center><h2>What’s Next on My Journey</h2></center>
 
 - Wrap up the ESXi + vSphere installation lab.  
 - Complete PDF reports and video submissions for my portfolio.  
 - Apply snapshot, networking, and rollback strategies to future malware analysis labs.
 
-**Update: Virtualization Fundamentals Fully Completed (July 18, 2025)**  
+> **ℹ️Update: Virtualization Fundamentals Fully Completed (July 18, 2025)</h2></center>
+
 I’ve successfully finished the last 2 labs since my last update, completing the module:  
 
 - **Create a Snapshot of a Virtual Machine:** Mastered rollback and recovery methods to guarantee safe testing environments.  
