@@ -14,7 +14,7 @@ I am earning hands-on real-world project experience in risk assessments, inciden
 
 Currently, I am advancing my System Administration skills through _Mossé Cyber Security Institute_, with MOIS - Certified OSINT Expert as my next focus, aiming to bring practical insight and a risk-focused mindset to strengthen organizational defenses.
 
-<h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Cybersecurity Projects</h3>
+<h2 style="text-align: center; background-color: #1b2c3c; color: #ffffff; padding: 8px;">Cybersecurity Projects</h3>
 <table align="center" border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr style="background-color: #73b4d5; color: #000000; text-align: center;">
@@ -110,7 +110,7 @@ Currently, I am advancing my System Administration skills through _Mossé Cyber 
   </tbody>
 </table>
 
-<h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Future Certifications</h3>
+<h2 style="text-align: center; background-color: #1b2c3c; color: #ffffff; padding: 8px;">Future Certifications</h3>
 <table align="center" border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr style="background-color: #73b4d5; color: #000000; text-align: center;">
@@ -135,5 +135,5 @@ Currently, I am advancing my System Administration skills through _Mossé Cyber 
 
 <p style="text-align: center;">⭐ Currently completing MCSI’s System Administration Fundamentals course (mapped to NIST NICE, US Military MOS, and ASD Cyber Skills Framework). Focus areas: secure network design, firewall configuration, system hardening, and risk analysis.</p>
 
-<h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Field Notes</h3>
+<h2 style="text-align: center; background-color: #1b2c3c; color: #ffffff; padding: 8px;">Field Notes</h3>
 Field Notes documents my journey in cybersecurity, highlighting real-world projects, technical problem-solving, and applied skills that showcase my ability to bridge IT fundamentals with security operations.
