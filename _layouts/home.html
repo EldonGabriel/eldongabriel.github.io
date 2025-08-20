@@ -2,6 +2,8 @@
 layout: page
 ---
 
+{{ content }}
+
 <div class="page-wrapper">
   <div class="entries-{{ page.entries_layout | default: 'list' }}">
     {% if site.plugins contains 'jekyll-paginate' and page.paginate %}
