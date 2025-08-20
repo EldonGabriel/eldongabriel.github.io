@@ -68,6 +68,7 @@ After earning my Level 3 certification and completing the MICS course, I knew it
 📄 I’ve attached my official **Confirmation of Enrolment** from Mossé Cyber Security Institute, verifying that I’m actively enrolled and progressing through the course.
 
 <center><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-confirmation-of-enrolment.pdf" target="_blank">Download Confirmation of Enrolment</a></center>
+<br>
 
 <center><h2>What MSAF Will Help Me Master</h2></center>
 
