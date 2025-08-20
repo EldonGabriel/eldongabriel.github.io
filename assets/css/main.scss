@@ -6,3 +6,8 @@ sitemap: false
 @charset "utf-8";
 
 @import "so-simple";
+
+.page-header h1,
+.site-title {
+  text-align: center;
+}
