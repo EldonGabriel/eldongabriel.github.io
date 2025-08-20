@@ -5,6 +5,9 @@ permalink: /
 image:
   path: /assets/images/banner.png
 ---
+<link rel="shortcut icon" href="logo.ico" type="assets/images/logo.png">
+<link rel="apple-touch-icon" href="assets/images/logo.png">
+
 <h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Overview</h3>
 
 Hi, I'm Eldon, approaching cybersecurity as both a technical craft and a business-critical discipline, focused on its foundations with the understanding that no computer network is ever truly secure. 
