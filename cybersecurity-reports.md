@@ -5,13 +5,13 @@ permalink: /experience/
 image:
   path: /assets/images/banner.png
 ---
-<h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Overview</h3>
+<center><h2>Overview</h2></center>
 
 My cybersecurity work is grounded in hands-on, evidence-based problem solving. I analyze systems in realistic scenarios, uncover vulnerabilities, and assess risks with both technical rigor and strategic insight. 
 
 This isn’t about running default tools—it’s about thinking like an attacker, analyzing data carefully, and producing clear, actionable reports. Each project demonstrates my ability to turn technical observations into real-world solutions that strengthen defenses and support governance, risk, and compliance.
 
-<h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Cybersecurity Reports and Project Deliverables</h3>
+<center><h2>Cybersecurity Reports and Project Deliverables</h2></center>
 
 This repository serves as a portfolio of hands-on projects and deliverables from my cybersecurity training. Each item demonstrates the application of technical skills and a risk-focused mindset to solve real-world security challenges.
 
@@ -63,8 +63,8 @@ This repository serves as a portfolio of hands-on projects and deliverables from
   </tbody>
 </table>
 
+<center><h2>System Hardening & Development</h2></center>
 
-<h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">System Hardening & Development</h3>
 <table align="center" border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr style="background-color: #73b4d5; color: #000000; text-align: center;">
@@ -92,7 +92,8 @@ This repository serves as a portfolio of hands-on projects and deliverables from
   </tbody>
 </table>
 
-<h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Investigations & Analysis</h3>
+<center><h2>Investigations & Analysis</h2></center>
+
 <table align="center" border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr style="background-color: #73b4d5; color: #000000; text-align: center;">
@@ -120,7 +121,8 @@ This repository serves as a portfolio of hands-on projects and deliverables from
   </tbody>
 </table>
 
-<h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Technical Demonstrations & Video Guides</h3>
+<center><h2>Technical Demonstrations & Video Guides</h2></center>
+
 <table align="center" border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr style="background-color: #73b4d5; color: #000000; text-align: center;">
@@ -179,7 +181,8 @@ This repository serves as a portfolio of hands-on projects and deliverables from
   </tbody>
 </table>
 
-<h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Cybersecurity Resources & Guides</h3>
+<center><h2>Cybersecurity Resources & Guides</h2></center>
+
 <table align="center" border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr style="background-color: #73b4d5; color: #000000; text-align: center;">
