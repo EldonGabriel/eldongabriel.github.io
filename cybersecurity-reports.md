@@ -154,7 +154,7 @@ This repository serves as a portfolio of hands-on projects and deliverables from
       <td style="text-align: center;"><a href="https://www.youtube.com/watch?v=U_4TeohPNQ4">Watch Video</a></td>
     </tr>
     <tr>
-      <td colspan="3" style="text-align: center;font-weight:bold;background:##6e808c;">SQL for Cybersecurity</td>
+      <td colspan="3" style="text-align: center;font-weight:bold;background:#6e808c;">SQL for Cybersecurity</td>
     </tr>
     <tr>
       <td style="text-align: center;">Investigating Database Activity</td>
