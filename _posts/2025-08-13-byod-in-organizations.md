@@ -12,7 +12,8 @@ I’ve always learned best by doing: hands-on, portfolio-first, and outcome-orie
 
 This dual-path approach turns every concept into something I can immediately put into practice. The work for both the University of Colorado and MCSI is certified by both institutions, providing recognized credentials that complement my hands-on experience and serve as tangible proof of my skills.
 
-<h3 style="text-align: center; background-color: #73b4d5; color: #000000; padding: 8px;">Certifications</h3>
+<center><h3>Certifications</h3></center>
+
 <table align="center" border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr style="background-color: #73b4d5; color: #000000; text-align: center;">
