@@ -61,6 +61,7 @@ A strong report starts with a **title and naming structure** that makes sense at
 <center><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/images/cybersecurity-report-template-diagram.png" target="_blank">Figure 1: Cybersecurity Report Template Diagram. 2025, @eldongbrl</a></center>
 
 
+
 <center><h2>Why This Matters in Cybersecurity?</h2></center>
 <ol>
   <li>Improves organization and retrieval speed.</li>
