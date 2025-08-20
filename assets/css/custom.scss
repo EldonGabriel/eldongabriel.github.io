@@ -7,8 +7,9 @@
   padding-bottom: 0 !important;
 }
 
+/* Add to custom.css at the bottom */
 .layout--home .page-wrapper {
   padding-left: 1em;
   padding-right: 1em;
-  max-width: $main-sidebar-max-width; // match page layout width
+  max-width: $main-sidebar-max-width; // same as page layout
 }
