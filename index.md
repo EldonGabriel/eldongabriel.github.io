@@ -6,7 +6,7 @@ image:
   path: /assets/images/banner.png
 ---
 
-<h3 style="text-align: center; background-color:  color: #000000; padding: 8px;">Overview</h3>
+<h2 style="text-align: center; background-color: #1b2c3c; color: #000000; padding: 8px;">Overview</h2>
 
 Hi, I'm Eldon, approaching cybersecurity as both a technical craft and a business-critical discipline, focused on its foundations with the understanding that no computer network is ever truly secure. 
 
