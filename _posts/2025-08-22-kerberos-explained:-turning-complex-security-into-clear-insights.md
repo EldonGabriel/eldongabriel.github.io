@@ -4,7 +4,7 @@ date: 2025-08-22
 author: Eldon Gabriel
 tags: [cybersecurity, portfolio, kerberos, authentication]
 excerpt: "An in-depth look at the Kerberos authentication protocol, lessons learned, and how to communicate complex security concepts effectively."
-image: "/assets/images/kerberos-diagram.png"
+image: "/assets/images/fnlogo.png"
 ---
 <center><h4>Tickets, Not Passwords: The Elegant Security System Behind Your Single Sign On</h4></center>
 <p>As a Cybersecurity Portfolio Builder, I know the value of tangible proof of skill. An in-depth report on the <strong>Kerberos authentication protocol</strong> titled <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.0.pdf" target="_blank" rel="noopener noreferrer">"<strong>REPORT – Kerberos Authentication Protocol – v1.0.0"</strong></a> became a cornerstone of my portfolio. Creating this report taught me crucial lessons about technical communication—just as important as technical knowledge itself.</p>
