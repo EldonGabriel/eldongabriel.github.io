@@ -16,5 +16,5 @@
   <h3>Final Thoughts</h3>
   <p>The Kerberos report is more than a document—it’s a foundational piece of my cybersecurity portfolio. It demonstrates my ability to learn complex systems, apply them practically, and communicate them clearly. Most importantly, it reflects my dedication to building a strong portfolio and my commitment to breaking into the cybersecurity industry.</p>
 
-  <center><p><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.0.pdf" target="_blank" rel="noopener noreferrer">View Full Report</a></p></center>
+  <center><p><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.0.pdf" target="_blank" rel="noopener noreferrer">📄 Read the full Kerberos report</a></p></center>
 </section>
