@@ -29,8 +29,9 @@ Through MCSI, I’m practicing structured reporting and professional communicati
 Certifications and online courses are important for understanding concepts, but employers want proof of applied skills. That’s where MCSI shines—giving students opportunities to practice, document, and showcase cybersecurity tasks in real-world scenarios.
 
 The 100 hours of free training provides a foundation to demonstrate my skills through a growing cybersecurity portfolio. This hands-on work becomes the evidence that I can perform in real operational environments.
-<br>
-📄 I’ve attached my official Confirmation of Enrolment from Mossé Cyber Security Institute, verifying that I’m actively enrolled and progressing through the course.
+
+
+I’ve attached my official Confirmation of Enrolment from Mossé Cyber Security Institute, verifying that I’m actively enrolled and progressing through the course.
 
 <center><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/mics-confirmation-of-enrolment.pdf" target="_blank">Download Confirmation of Enrolment</a></center>
 
