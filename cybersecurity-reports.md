@@ -52,6 +52,11 @@ This repository serves as a portfolio of hands-on projects and deliverables from
       <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Investigation%20of%20Unauthorized%20Payroll%20Access%20Incident%20-%20v1.2.0.pdf">View Report</a></td>
     </tr>
     <tr>
+      <td style="text-align: center;">Kerberos Authentication Protocol</td>
+      <td style="text-align: center;">Documented TGT & ST lifecycles for secure authentication</td>
+      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.0.pdf">View Report</a></td>
+    </tr>
+    <tr>
       <td style="text-align: center;">Post-Breach Security Recommendations</td>
       <td style="text-align: center;">Recommended security measures after breach</td>
       <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Post-Breach%20Security%20Recommendations%20%E2%80%93%20v1.0.1.pdf">View Report</a></td>
