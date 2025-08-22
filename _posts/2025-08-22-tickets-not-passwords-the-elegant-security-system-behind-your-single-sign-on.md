@@ -1,5 +1,5 @@
 <section id="kerberos-portfolio">
-  <p>As a Cybersecurity Portfolio Builder, I know the value of tangible proof of skill. One of my first major projects, an in-depth report on the <strong>Kerberos authentication protocol</strong> titled "<strong>REPORT – Kerberos Authentication Protocol – v1.0.0</strong>," became a cornerstone of my portfolio. Creating this report taught me crucial lessons about technical communication—just as important as technical knowledge itself.</p>
+  <p>As a Cybersecurity Portfolio Builder, I know the value of tangible proof of skill. An in-depth report on the <strong>Kerberos authentication protocol</strong> titled "<strong>REPORT – Kerberos Authentication Protocol – v1.0.0</strong>," became a cornerstone of my portfolio. Creating this report taught me crucial lessons about technical communication—just as important as technical knowledge itself.</p>
 
   <h3>Foundational Knowledge</h3>
   <p>The Kerberos report began as a graded assignment for the "Computer Security and Systems Management Specialization" course at the University of Colorado. In the "Windows Server Management and Security" module, I had to explain Kerberos in depth. Scoring 500/500 points confirmed my strong grasp of the topic and boosted my confidence.</p>
