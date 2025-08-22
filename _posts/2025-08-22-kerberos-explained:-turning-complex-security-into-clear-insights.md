@@ -1,6 +1,13 @@
-<section id="kerberos-portfolio">
-  <center><h4>Tickets, Not Passwords: The Elegant Security System Behind Your Single Sign On</h4></center>
-  <p>As a Cybersecurity Portfolio Builder, I know the value of tangible proof of skill. An in-depth report on the <strong>Kerberos authentication protocol</strong> titled <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.0.pdf" target="_blank" rel="noopener noreferrer">"<strong>REPORT – Kerberos Authentication Protocol – v1.0.0"</strong></a> became a cornerstone of my portfolio. Creating this report taught me crucial lessons about technical communication—just as important as technical knowledge itself.</p>
+---
+title: "Kerberos Explained: Turning Complex Security into Clear Insights"
+date: 2025-08-22
+author: Eldon Gabriel
+tags: [cybersecurity, portfolio, kerberos, authentication]
+excerpt: "An in-depth look at the Kerberos authentication protocol, lessons learned, and how to communicate complex security concepts effectively."
+image: "/assets/images/kerberos-diagram.png"
+---
+<center><h4>Tickets, Not Passwords: The Elegant Security System Behind Your Single Sign On</h4></center>
+<p>As a Cybersecurity Portfolio Builder, I know the value of tangible proof of skill. An in-depth report on the <strong>Kerberos authentication protocol</strong> titled <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.0.pdf" target="_blank" rel="noopener noreferrer">"<strong>REPORT – Kerberos Authentication Protocol – v1.0.0"</strong></a> became a cornerstone of my portfolio. Creating this report taught me crucial lessons about technical communication—just as important as technical knowledge itself.</p>
 
   <center><h3>Foundational Knowledge</h3></center>
   <p>The Kerberos report began as a graded assignment for the "Computer Security and Systems Management Specialization" course at the University of Colorado. In the "Windows Server Management and Security" module, I had to explain Kerberos in depth. Scoring 500/500 points confirmed my strong grasp of the topic and boosted my confidence.</p>
@@ -18,4 +25,3 @@
   <p>The Kerberos report is more than a document—it’s a foundational piece of my cybersecurity portfolio. It demonstrates my ability to learn complex systems, apply them practically, and communicate them clearly. Most importantly, it reflects my dedication to building a strong portfolio and my commitment to breaking into the cybersecurity industry.</p>
 
   <center><p><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.0.pdf" target="_blank" rel="noopener noreferrer">📄 Read the full Kerberos report</a></p></center>
-</section>
