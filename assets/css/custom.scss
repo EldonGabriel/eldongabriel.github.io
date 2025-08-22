@@ -13,6 +13,11 @@
   padding-right: 1em;
 }
 
+a {
+  color: #73b4d5;   /* link color without hover */
+  text-decoration: none;  /* optional: removes underline */
+}
+
 /* Override link hover color */
 a:hover {
   color: #73b4d5 !important;
