@@ -12,7 +12,7 @@ When I searched for entry-level cybersecurity internships, I found most required
 
 Even more, MCSI provides **_100 hours of free training_** with their **(MICS) - Introduction to Cyber Security training**. This is designed to bridge the gap between theory and practice. I enrolled to see if it could provide the real-world experience I had been missing.
 
-<center><h2>Why MCSI Stands Out <h2>Heading 2</h2></center>
+<center><h2>Why MCSI Stands Out</h2></center>
 
 MCSI’s training feels like a true apprenticeship. Even within my first lessons, I received custom cybersecurity report templates and constructive feedback from tutors on each submission. This approach not only builds technical knowledge but also improves essential skills like written communication.
 
