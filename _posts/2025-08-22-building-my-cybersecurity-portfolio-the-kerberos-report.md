@@ -1,5 +1,4 @@
 <section id="kerberos-portfolio">
-  <h2>Building My Cybersecurity Portfolio: The Kerberos Report</h2>
   <p>As a Cybersecurity Portfolio Builder, I know the value of tangible proof of skill. One of my first major projects, an in-depth report on the <strong>Kerberos authentication protocol</strong> titled "<strong>REPORT – Kerberos Authentication Protocol – v1.0.0</strong>," became a cornerstone of my portfolio. Creating this report taught me crucial lessons about technical communication—just as important as technical knowledge itself.</p>
 
   <h3>Foundational Knowledge</h3>
