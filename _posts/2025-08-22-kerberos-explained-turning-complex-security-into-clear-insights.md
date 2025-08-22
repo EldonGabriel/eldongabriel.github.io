@@ -1,6 +1,5 @@
 <section id="kerberos-portfolio">
-  <center></center><h3>Tickets Not Passwords The Elegant Security System Behind Your Single Sign On
-</h3></center>
+  <center><h3>Tickets, Not Passwords: The Elegant Security System Behind Your Single Sign On</h3></center>
   <p>As a Cybersecurity Portfolio Builder, I know the value of tangible proof of skill. An in-depth report on the <strong>Kerberos authentication protocol</strong> titled "<strong>REPORT – Kerberos Authentication Protocol – v1.0.0</strong>," became a cornerstone of my portfolio. Creating this report taught me crucial lessons about technical communication—just as important as technical knowledge itself.</p>
 
   <center><h3>Foundational Knowledge</h3></center>
