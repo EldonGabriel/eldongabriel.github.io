@@ -1,6 +1,6 @@
 <section id="kerberos-portfolio">
   <center><h3>Tickets, Not Passwords: The Elegant Security System Behind Your Single Sign On</h3></center>
-  <p>As a Cybersecurity Portfolio Builder, I know the value of tangible proof of skill. An in-depth report on the <strong>Kerberos authentication protocol</strong> titled "<strong>REPORT – Kerberos Authentication Protocol – v1.0.0</strong>," became a cornerstone of my portfolio. Creating this report taught me crucial lessons about technical communication—just as important as technical knowledge itself.</p>
+  <p>As a Cybersecurity Portfolio Builder, I know the value of tangible proof of skill. An in-depth report on the <strong>Kerberos authentication protocol</strong> titled <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.0.pdf" target="_blank" rel="noopener noreferrer">"<strong>REPORT – Kerberos Authentication Protocol – v1.0.0,</strong></a> became a cornerstone of my portfolio. Creating this report taught me crucial lessons about technical communication—just as important as technical knowledge itself.</p>
 
   <center><h3>Foundational Knowledge</h3></center>
   <p>The Kerberos report began as a graded assignment for the "Computer Security and Systems Management Specialization" course at the University of Colorado. In the "Windows Server Management and Security" module, I had to explain Kerberos in depth. Scoring 500/500 points confirmed my strong grasp of the topic and boosted my confidence.</p>
