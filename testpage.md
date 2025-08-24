@@ -1,29 +1,25 @@
 ---
 layout: page
-title: Resume
+title: Experience
 permalink: /experience/
 image:
   path: /assets/images/banner.png
 ---
+# Eldon Gabriel
+Cybersecurity Technician / System Administrator  
 
-# Eldon Gabriel – Cybersecurity Technician / System Administrator  
-
-📧 Email: [your email] | 🌐 Portfolio: [MCSI Portfolio](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) | 🔗 LinkedIn: [LinkedIn link]  
+📧 Email: [eldongbrl@gmail.com] | 🌐 Portfolio: [MCSI Portfolio](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) | 🔗 LinkedIn: [[LinkedIn link](http://www.linkedin.com/eldongabriel)]  
 
 ---
 
 ## Professional Summary  
 Cybersecurity professional with hands-on experience in system hardening, incident investigations, digital forensics, and risk assessment. Skilled in Governance, Risk, and Compliance (GRC), penetration testing, threat hunting, OSINT, and secure network administration. Experienced in documenting actionable findings, producing structured reports, and managing technical operations in both enterprise and startup environments.  
 
----
-
 ## Core Competencies  
 - **SysAdmin & Security**: Windows Server, Linux CLI, GPO, Firewall, Backup, System Hardening  
 - **Networking & Tools**: VPNs, Cisco Packet Tracer, Nmap, Wireshark, IDS/IPS, NAT, ACLs  
 - **GRC & Reporting**: NIST, Risk Assessment, Technical Documentation, Compliance Audits  
 - **Forensics & OSINT**: Malware Analysis (YARA), Digital Artifacts, Social Media Mapping, Threat Intelligence  
-
----
 
 ## Professional Experience  
 
@@ -51,8 +47,6 @@ Cybersecurity professional with hands-on experience in system hardening, inciden
 - Led security operations, risk assessments, and incident response  
 - Supervised security teams and developed process documentation  
 
----
-
 ## Hands-On Projects & Technical Experience  
 
 ### Cybersecurity Reports & Case Studies  
@@ -65,21 +59,15 @@ Cybersecurity professional with hands-on experience in system hardening, inciden
 - **Post-Breach Security Recommendations** – Recommended security measures after breach – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Post-Breach%20Security%20Recommendations%20%E2%80%93%20v1.0.1.pdf)  
 - **SQL Query Analysis Incident** – Analyzed database queries for suspicious activity – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20SQL%20Query%20Analysis%20Incident%20%E2%80%93%20v1.0.2.pdf)  
 
----
-
 ### System Hardening & Development  
 - **Linux File Permissions Management** – Secured Linux systems via permission enforcement – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Linux%20File%20Permissions%20Management%20-%20v1.0.2.pdf)  
 - **Python Algorithm for IP Access Control** – Automated IP access restrictions – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Python%20Algorithm%20for%20Managing%20IP%20Access%20%E2%80%93%20v1.0.1.pdf)  
 - **Server Security Evaluation** – Assessed exposed database server and recommended fixes – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Server%20Security%20Evaluation%20%E2%80%93%20v1.2.0.pdf)  
 
----
-
 ### Investigations & Analysis  
 - **DNS Analysis with dig** – Conducted DNS lookups and troubleshooting – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20DNS%20Analysis%20with%20dig%20%E2%80%93%20v1.0.0.pdf)  
 - **DNS Outage & Port 53 Failure** – Diagnosed simulated outage – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20DNS%20Outage%20and%20Port%2053%20Failure%20Analysis%20%E2%80%93%20v1.0.1.pdf)  
 - **Network Attack Analysis** – Analyzed traffic patterns for malicious activity – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Network%20Attack%20Analysis%20%E2%80%93%20v1.0.1.pdf)  
-
----
 
 ### Technical Demonstrations & Guides  
 
@@ -95,13 +83,9 @@ Cybersecurity professional with hands-on experience in system hardening, inciden
 - Using AND, OR, NOT – [Watch Video](https://www.youtube.com/watch?v=5qCjwenE-Z0)  
 - SQL Joins for Security Investigation – [Watch Video](https://www.youtube.com/watch?v=ynxJ1go-Cc8)  
 
----
-
 ## Cybersecurity Resources & Templates  
 - **Professional Cybersecurity Report Template Guide** – [View Document](https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?usp=sharing)  
 - **BYOD Policy & Agreement Template** – [View Document](https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing)  
-
----
 
 ## Education & Certifications  
 
