@@ -111,13 +111,13 @@ Cybersecurity professional with hands-on experience in system hardening, inciden
 
 ### Certifications
 
-- **MICS** – Introduction to Cyber Security (2025)  
-- **KCIS** – Knowledge of Core IT Skills (MCSI, 2025) 
-- **KCCS** – Knowledge of Cybersecurity Skills (MCSI, 2025)**  
-- **ISC²** – Certified in Cybersecurity (CC, 2025)
-- **Google** – Cybersecurity Professional (2025)
-- **Google** – IT Support Professional (2025) 
-- **InfoSec** – NIST Cybersecurity Risk Management, NIST 800-171, NIST DoD RMF, NIST CSF (2025) 
-- **Duke University** – Decentralized Finance (DeFi) Infrastructure (2025) 
+- **MICS** – Introduction to Cyber Security *(2025)*  
+- **KCIS** – Knowledge of Core IT Skills *(MCSI 2025)*
+- **KCCS** – Knowledge of Cybersecurity Skills *(MCSI 2025)* 
+- **ISC²** – Certified in Cybersecurity (CC) *(2025)*
+- **Google** – Cybersecurity Professional *(2025)*
+- **Google** – IT Support Professional *(2025)* 
+- **InfoSec** – NIST Cybersecurity Risk Management, NIST 800-171, NIST DoD RMF, NIST CSF *(2025)*
+- **Duke University** – Decentralized Finance (DeFi) Infrastructure *(2025)*
 
 ---
