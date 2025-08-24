@@ -5,7 +5,7 @@ permalink: /experience/
 image:
   path: /assets/images/banner.png
 ---
-<center># Eldon Gabriel</center>
+<center><h2>Eldon Gabriel</h2></center>
 <center>Cybersecurity Technician / System Administrator</center>  
 
 📧 Email: [[Eldon Gabriel](mailto:eldongbrl@gmail.com)] | 🌐 Portfolio: [MCSI Portfolio](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) | 🔗 LinkedIn: [[Eldon Gabriel](http://www.linkedin.com/eldongabriel)]  
