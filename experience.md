@@ -5,10 +5,12 @@ permalink: /experience/
 image:
   path: /assets/images/banner.png
 ---
-<center><h2>Eldon Gabriel</h2></center>
-<center>Cybersecurity Technician / System Administrator</center>  
+<center>
+<h1>Eldon Gabriel</h1>
+<p>Cybersecurity Technician / System Administrator</p>
+</center>
 
-📧 Email: [[Eldon Gabriel](mailto:eldongbrl@gmail.com)] | 🌐 Portfolio: [MCSI Portfolio](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) | 🔗 LinkedIn: [[Eldon Gabriel](http://www.linkedin.com/eldongabriel)]  
+📧 Email: [Eldon Gabriel](mailto:eldongbrl@gmail.com) | 🌐 Portfolio: [MCSI Portfolio](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) | 🔗 LinkedIn: [Eldon Gabriel](http://www.linkedin.com/eldongabriel)  
 
 ---
 
