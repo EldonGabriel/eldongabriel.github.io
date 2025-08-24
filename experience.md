@@ -8,7 +8,7 @@ image:
 <center># Eldon Gabriel</center>
 <center>Cybersecurity Technician / System Administrator</center>  
 
-📧 Email: [[eldongbrl@gmail.com](eldongbrl@gmail.com)] | 🌐 Portfolio: [MCSI Portfolio](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) | 🔗 LinkedIn: [[Eldon Gabriel](http://www.linkedin.com/eldongabriel)]  
+📧 Email: [[Eldon Gabriel](mailto:eldongbrl@gmail.com)] | 🌐 Portfolio: [MCSI Portfolio](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) | 🔗 LinkedIn: [[Eldon Gabriel](http://www.linkedin.com/eldongabriel)]  
 
 ---
 
