@@ -41,7 +41,7 @@ Currently, I am advancing my System Administration skills through _Mossé Cyber 
       <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Server%20Security%20Evaluation%20%E2%80%93%20v1.2.0.pdf" target="_blank">View Report</a></td>
     </tr>
     <tr>
-      <td style="text-align: center;">MCSI Student Portfolio</td>
+      <td style="text-align: center;">MCSI Portfolio</td>
       <td style="text-align: center;">Progress tracked: milestones, domains, tools</td>
       <td style="text-align: center;"><a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832" target="_blank">View Report</a></td>
     </tr>
