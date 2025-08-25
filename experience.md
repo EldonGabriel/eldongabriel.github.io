@@ -51,24 +51,26 @@ Cybersecurity professional with hands-on experience in system hardening, inciden
 ## Hands-On Projects & Technical Experience
 
 **Governance, Risk & Compliance (GRC)**
-- **Professional Reporting** – Authored professional cybersecurity reports and structured reporting templates. *(Details and labs available upon request)*
+- **Professional Reporting** – Authored professional cybersecurity reports and structured reporting templates.* 
 
-- **Risk Analysis** – Identified, ranked, and analyzed threats for a simulated banking environment to produce a detailed risk register. *(Details and labs available upon request)*
+- **Risk Analysis** – Identified, ranked, and analyzed threats for a simulated banking environment to produce a detailed risk register.*
 
 **Digital Forensics & Incident Response**
-- **Forensic Analysis** – Utilized tools like Dumpzilla to extract and analyze browser forensics logs during investigations. *(Details and labs available upon request)*
+- **Forensic Analysis** – Utilized tools like Dumpzilla to extract and analyze browser forensics logs during investigations.*
 
-- **Threat Hunting & Malware Analysis** – Designed and applied YARA rules to detect and analyze suspicious files, including portable executables. Verified and documented rules for proactive threat detection. *(Details and labs available upon request)*
+- **Threat Hunting & Malware Analysis** – Designed and applied YARA rules to detect and analyze suspicious files, including portable executables. Verified and documented rules for proactive threat detection.*
   
 **Passive Network Reconnaissance & OSINT**
-- **External Asset Mapping & OSINT Collection** – Used dnsdumpster.com and shodan.io to map public-facing assets, searched code repositories for information leaks, created covert social media accounts, and built mindmaps of collected data across platforms and communities. *(Details and labs available upon request)*
+- **External Asset Mapping & OSINT Collection** – Used dnsdumpster.com and shodan.io to map public-facing assets, searched code repositories for information leaks, created covert social media accounts, and built mindmaps of collected data across platforms and communities.*
 
 **Offensive & Defensive Security**
-- **Vulnerability Scanning** – Conducted TCP/UDP port scans using Nmap and vulnerability assessments with OpenVAS. *(Details and labs available upon request)*
+- **Vulnerability Scanning** – Conducted TCP/UDP port scans using Nmap and vulnerability assessments with OpenVAS.*
 
-- **Web Application Security** – Performed website reconnaissance with Burp Suite, including crawling sites and testing login pages for brute-force vulnerabilities. *(Details and labs available upon request)*
+- **Web Application Security** – Performed website reconnaissance with Burp Suite, including crawling sites and testing login pages for brute-force vulnerabilities.*
 
 - **System Hardening** – Strengthened Windows and Linux systems through firewall configuration and file permission enforcement. *(Details and labs available upon request)*
+
+> **ℹ️ Note: *Details and labs available upon request)*
 
 ### Cybersecurity Reports & Case Studies  
 - **Access Control Incident** – Investigated and resolved access control incident – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Access%20Control%20Incident%20-%20v1.2.0.pdf)  
