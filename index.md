@@ -136,7 +136,7 @@ Currently, I am advancing my System Administration skills through _Mossé Cyber 
   </tbody>
 </table>
 
-<p style="text-align: center;">⭐ Currently completing MCSI’s System Administration Fundamentals course (mapped to NIST NICE, US Military MOS, and ASD Cyber Skills Framework). Focus areas: secure network design, firewall configuration, system hardening, and risk analysis.</p>
+> **⭐ _Mossé Cyber Security Institute (MCSI)_ certifications are mapped to NIST NICE, US Military MOS, and ASD Cyber Skills Framework.
 
 <center><h1>Field Notes</h1></center>
 
