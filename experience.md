@@ -8,7 +8,7 @@ image:
 <center><h1 style="font-size:300%;">Eldon Gabriel</h1>
 <p style="font-size:160%;">Cybersecurity Technician / System Administrator</p></center>
 
-📧 Email: [Eldon Gabriel](mailto:eldongbrl@gmail.com) | 🌐 Portfolio:<a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832" target="_blank">MCSI Portfolio</a> 
+📧 Email: [Eldon Gabriel](mailto:eldongbrl@proton.me) | 🌐 Portfolio:[MCSI Portfolio](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832)
 | 🔗 LinkedIn: [Eldon Gabriel](http://www.linkedin.com/eldongabriel)  
 
 ---
@@ -70,7 +70,7 @@ Cybersecurity professional with hands-on experience in system hardening, inciden
 
 - **System Hardening** – Strengthened Windows and Linux systems through firewall configuration and file permission enforcement. *(Details and labs available upon request)*
 
-> **ℹ️ Note: *Details and labs available upon request)*
+> **ℹ️ Note: Details and labs available upon request
 
 ### Cybersecurity Reports & Case Studies  
 - **Access Control Incident** – Investigated and resolved access control incident – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Access%20Control%20Incident%20-%20v1.2.0.pdf)  
