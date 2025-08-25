@@ -138,6 +138,6 @@ Currently, I am advancing my System Administration skills through _Mossé Cyber 
 
 > **⭐ _Mossé Cyber Security Institute (MCSI)_ certifications are mapped to NIST NICE, US Military MOS, and ASD Cyber Skills Framework.
 
-<center><h1>Field Notes</h1></center>
+<img src="/assets/images/fnlogo.png" alt="Field Notes Banner">
 
 Field Notes documents my journey in cybersecurity, highlighting real-world projects, technical problem-solving, and applied skills that showcase my ability to bridge IT fundamentals with security operations.
