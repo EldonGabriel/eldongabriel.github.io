@@ -8,7 +8,8 @@ image:
 <center><h1 style="font-size:300%;">Eldon Gabriel</h1>
 <p style="font-size:160%;">Cybersecurity Technician / System Administrator</p></center>
 
-📧 Email: [Eldon Gabriel](mailto:eldongbrl@proton.me) | 🌐 Portfolio:[MCSI Portfolio](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) | 🔗 LinkedIn: [Eldon Gabriel](http://www.linkedin.com/eldongabriel)  
+📧 Email: [Eldon Gabriel](mailto:eldongbrl@proton.me) | 🌐 Portfolio: [MCSI Portfolio](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) | 🔗 LinkedIn: [Eldon Gabriel](http://www.linkedin.com/eldongabriel)
+
 ---
 
 ## Professional Summary  
@@ -49,26 +50,24 @@ Cybersecurity professional with hands-on experience in system hardening, inciden
 ## Hands-On Projects & Technical Experience
 
 **Governance, Risk & Compliance (GRC)**
-- **Professional Reporting** – Authored professional cybersecurity reports and structured reporting templates.* 
+- **Professional Reporting** – Authored professional cybersecurity reports and structured reporting templates.
 
-- **Risk Analysis** – Identified, ranked, and analyzed threats for a simulated banking environment to produce a detailed risk register.*
+- **Risk Analysis** – Identified, ranked, and analyzed threats for a simulated banking environment to produce a detailed risk register.
 
 **Digital Forensics & Incident Response**
-- **Forensic Analysis** – Utilized tools like Dumpzilla to extract and analyze browser forensics logs during investigations.*
+- **Forensic Analysis** – Utilized tools like Dumpzilla to extract and analyze browser forensics logs during investigations.
 
-- **Threat Hunting & Malware Analysis** – Designed and applied YARA rules to detect and analyze suspicious files, including portable executables. Verified and documented rules for proactive threat detection.*
+- **Threat Hunting & Malware Analysis** – Designed and applied YARA rules to detect and analyze suspicious files, including portable executables. Verified and documented rules for proactive threat detection.
   
 **Passive Network Reconnaissance & OSINT**
-- **External Asset Mapping & OSINT Collection** – Used dnsdumpster.com and shodan.io to map public-facing assets, searched code repositories for information leaks, created covert social media accounts, and built mindmaps of collected data across platforms and communities.*
+- **External Asset Mapping & OSINT Collection** – Used dnsdumpster.com and shodan.io to map public-facing assets, searched code repositories for information leaks, created covert social media accounts, and built mindmaps of collected data across platforms and communities.
 
 **Offensive & Defensive Security**
-- **Vulnerability Scanning** – Conducted TCP/UDP port scans using Nmap and vulnerability assessments with OpenVAS.*
+- **Vulnerability Scanning** – Conducted TCP/UDP port scans using Nmap and vulnerability assessments with OpenVAS.
 
-- **Web Application Security** – Performed website reconnaissance with Burp Suite, including crawling sites and testing login pages for brute-force vulnerabilities.*
+- **Web Application Security** – Performed website reconnaissance with Burp Suite, including crawling sites and testing login pages for brute-force vulnerabilities.
 
-- **System Hardening** – Strengthened Windows and Linux systems through firewall configuration and file permission enforcement. *(Details and labs available upon request)*
-
-> **ℹ️ Note: Details and labs available upon request
+- **System Hardening** – Strengthened Windows and Linux systems through firewall configuration and file permission enforcement. 
 
 ### Cybersecurity Reports & Case Studies  
 - **Access Control Incident** – Investigated and resolved access control incident – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Access%20Control%20Incident%20-%20v1.2.0.pdf)  
