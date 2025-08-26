@@ -136,7 +136,7 @@ Currently, I am advancing my System Administration skills through _Mossé Cyber 
   </tbody>
 </table>
 
-> ⭐**Note: _Mossé Cyber Security Institute (MCSI)_ certifications are mapped to NIST NICE, US Military MOS, and ASD Cyber Skills Framework.
+> ⭐**Note:** _Mossé Cyber Security Institute (MCSI)_ certifications are mapped to NIST NICE, US Military MOS, and ASD Cyber Skills Framework.
 
 <img src="/assets/images/fnlogo.png" alt="Field Notes Banner">
 
