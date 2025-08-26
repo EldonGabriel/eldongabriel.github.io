@@ -125,4 +125,5 @@ ISC2 Certified in Cybersecurity with extensive hands-on experience as a Cybersec
 - **Google** – IT Support, Cybersecurity Professional
 - **InfoSec** – NIST Cybersecurity Risk Management, NIST 800-171, NIST DoD RMF, NIST CSF
 - **Duke University** – Decentralized Finance (DeFi) Infrastructure
+
 ---
