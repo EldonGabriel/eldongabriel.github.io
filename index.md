@@ -8,11 +8,11 @@ image:
 
 <center><h1>Overview</h1></center>
 
-Hi, I'm Eldon, approaching cybersecurity as both a technical craft and a business-critical discipline, focused on its foundations with the understanding that no computer network is ever truly secure. 
+I'm Eldon, an ISC2 Certified in Cybersecurity professional specializing in system administration and security operations. I approach cybersecurity as both a technical craft and a business-critical discipline, focusing on its foundations with the understanding that no computer network is ever truly secure.
 
-I am earning hands-on real-world project experience in risk assessments, incident investigations, system hardening, and digital forensics, covering areas such as **Governance, Risk, and Compliance (GRC)**, **Threat Hunting**, **Penetration Testing**, and **Digital Investigations**. My work includes security operations, social media intelligence, threat hunting with YARA and automation scripts, penetration testing with Nmap, OpenVAS, Burp Suite, and Fierce, and virtualized lab environments.
+Through my hands-on work, I’ve gained practical experience in risk assessment, incident investigation, system hardening, and digital forensics. My projects cover key areas like Governance, Risk, and Compliance (GRC), Threat Hunting, and Penetration Testing. I apply these skills using tools like Nmap, Wireshark, YARA, OpenVAS, and Burp Suite in real-world virtualized lab environments.
 
-Currently, I am advancing my System Administration skills through _Mossé Cyber Security Institute_, with MOIS - Certified OSINT Expert as my next focus, aiming to bring practical insight and a risk-focused mindset to strengthen organizational defenses.
+I'm currently advancing my skills through the MSAF course at the Mossé Cyber Security Institute, aiming to bring a risk-focused mindset and practical insight to strengthen organizational defenses.
 
 <center><h1>Cybersecurity Projects</h1></center>
 
