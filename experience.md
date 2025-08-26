@@ -13,7 +13,8 @@ image:
 ---
 
 ## Professional Summary  
-Cybersecurity professional with hands-on experience in system hardening, incident investigations, digital forensics, and risk assessment. Skilled in Governance, Risk, and Compliance (GRC), penetration testing, threat hunting, OSINT, and secure network administration. Experienced in documenting actionable findings, producing structured reports, and managing technical operations in both enterprise and startup environments.  
+ISC2 Certified in Cybersecurity with extensive hands-on experience as a Cybersecurity Technician and training from the Mossé Cyber Security Institute (MCSI). Skilled in Windows/Linux system administration, network security, and Python automation. Proven ability to conduct GRC assessments, penetration testing, OSINT, and digital forensics. Experienced in documenting actionable findings, producing structured reports, and managing technical operations. Seeking to apply my practical skills and experience to an entry-level role in security operations, threat analysis, or system administration.
+ 
 
 ## Core Competencies  
 - **SysAdmin & Security**: Windows Server, Linux CLI, GPO, Firewall, Backup, System Hardening  
@@ -109,26 +110,19 @@ Cybersecurity professional with hands-on experience in system hardening, inciden
 
 ## Education & Certifications  
 
-**Mossé Cyber Security Institute (MCSI) | Remote**  
-- MSAF – System Administration Fundamentals *(In Progress)*  
-- MICS – Introduction to Cyber Security *(2025)*  
+**Mossé Cyber Security Institute (MCSI)** | Remote  
+- **MSAF** – System Administration Fundamentals *(In Progress)*  
+- **MICS** – Introduction to Cyber Security
+- **KCCS** – Knowledge of Cybersecurity Skills
+- **KCIS** – Knowledge of Core IT Skills
 
-**University of Colorado | Remote**  
-- Computer Security & Systems Management Specialization  
-- Enterprise System Management and Security *(Aug 2025)*  
-- Windows Server Management and Security *(Aug 2025)*  
-- Linux Server Management and Security *(In Progress)*  
-- Planning, Auditing & Maintaining Enterprise Systems *(In Progress)*  
+**University of Colorado** | Remote  
+- Computer Security & Systems Management Specialization (In Progress) 
 
-### Certifications
+### Completed Certifications
 
-- **MICS** – Introduction to Cyber Security *(2025)*  
-- **KCIS** – Knowledge of Core IT Skills *(MCSI 2025)*
-- **KCCS** – Knowledge of Cybersecurity Skills *(MCSI 2025)* 
-- **ISC²** – Certified in Cybersecurity (CC) *(2025)*
-- **Google** – Cybersecurity Professional *(2025)*
-- **Google** – IT Support Professional *(2025)* 
-- **InfoSec** – NIST Cybersecurity Risk Management, NIST 800-171, NIST DoD RMF, NIST CSF *(2025)*
-- **Duke University** – Decentralized Finance (DeFi) Infrastructure *(2025)*
-
+- **ISC²** – Certified in Cybersecurity (CC)
+- **Google** – IT Support, Cybersecurity Professional
+- **InfoSec** – NIST Cybersecurity Risk Management, NIST 800-171, NIST DoD RMF, NIST CSF
+- **Duke University** – Decentralized Finance (DeFi) Infrastructure
 ---
