@@ -30,15 +30,15 @@ Each subnet now has a network address, first and last usable hosts, and broadcas
 
 I wanted to include my original ISC² CC exam prep notes. These images show how I manually calculated and wrote out the subnets.  
 
-![Subnetting and CIDR Notation Notes](/assets/images/subnetting-and-cidr-notation-1..JPG)  
-![Private IP Address Ranges Notes](/assets/images/private-ip-address-ranges-binary-conversion_2.JPG)  
-![Subnetting Breakdown Reference Table Notes](/assets/images/subnetting-breakdown-reference-table-3.JPG)
-![/25 and /26 Subnet Calculations Notes](/assets/images/25-26-subnet-calculations-4.JPG)  
-![/26 Subnet Address Ranges Notes](/assets/images/26-subnet-address-ranges-5.jpg)  
-![/27 Subnet Address Ranges Notes](/assets/images/27-subnet-address-ranges-6.JPG) 
-![/28 Subnet Address Ranges Notes](/assets/images/28-subnet-address-ranges-7.JPG)  
-![/29 Subnet Address Ranges Notes](/assets/images/29-subnet-address-ranges-8.JPG)  
-![Key Subnetting Takeaways Notes](/assets/images/key-subnetting-takeaways-9.jpg) 
+![Subnetting and CIDR Notation Notes](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/notes/subnetting-and-cidr-notation-1..JPG)  
+![Private IP Address Ranges Notes](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/notes/private-ip-address-ranges-binary-conversion_2.JPG)  
+![Subnetting Breakdown Reference Table Notes](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/notes/subnetting-breakdown-reference-table-3.JPG)
+![/25 and /26 Subnet Calculations Notes](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/notes/25-26-subnet-calculations-4.JPG)  
+![/26 Subnet Address Ranges Notes](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/notes/26-subnet-address-ranges-5.jpg)  
+![/27 Subnet Address Ranges Notes](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/notes/27-subnet-address-ranges-6.JPG) 
+![/28 Subnet Address Ranges Notes](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/notes/28-subnet-address-ranges-7.JPG)  
+![/29 Subnet Address Ranges Notes](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/notes/29-subnet-address-ranges-8.JPG)  
+![Key Subnetting Takeaways Notes]([/assets/images/key-subnetting-takeaways-9.jpg](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/notes/key-subnetting-takeaways-9.jpg)) 
 
 <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20IP%20Subnetting%20Fundamentals%20%E2%80%93%20v1.0.0.pdf" target="_blank">REPORT – IP Subnetting Fundamentals – v1.0.0</a>. 
 ---
