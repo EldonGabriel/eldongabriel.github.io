@@ -1,6 +1,6 @@
 ---
 title: "Refreshing My Subnetting Skills: From Handwritten Notes to a Full Class C Subnet Report"
-date: 2025-08-27
+date: 2025-08-26
 author: Eldon Gabriel
 tags: [Subnetting, Networking, Cybersecurity, ISC2]
 excerpt: "Turning my old handwritten subnet notes into a complete Class C subnet report and a useful reference for labs and exercises."
