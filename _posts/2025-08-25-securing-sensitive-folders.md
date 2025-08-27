@@ -1,6 +1,6 @@
 ---
 title: "Securing Sensitive Folders: Lessons in Access Rights and Permissions"
-date: 2025-08-26
+date: 2025-08-25
 author: Eldon Gabriel
 tags: [Windows Security, Access Control, PowerShell, Cybersecurity]
 excerpt: "Hands-on lab experience in securing sensitive folders and restricting PowerShell, applying least privilege and defense-in-depth strategies in Windows environments."
