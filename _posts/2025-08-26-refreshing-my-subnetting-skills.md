@@ -30,7 +30,7 @@ Each subnet now has a network address, first and last usable hosts, and broadcas
 
 I wanted to include my original ISC² CC exam prep notes. These images show how I manually calculated and wrote out the subnets.  
 
-<ol>
+<ul>
   <li>
     <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/subnetting-and-cidr-notation-1..JPG" alt="Subnetting Notes" width="400">
     <div style="font-size:0.8em; color:#555; margin-top:2px;">Figure 1: Subnetting and CIDR Notation Notes screenshot. 2025. eldongabriel.github.io</div>
@@ -75,7 +75,7 @@ I wanted to include my original ISC² CC exam prep notes. These images show how 
     <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/key-subnetting-takeaways-9.jpg" alt="Key Takeaways Notes" width="400">
     <div style="font-size:0.8em; color:#555; margin-top:2px;">Figure 9: Key Subnetting Takeaways Notes screenshot. 2025. eldongabriel.github.io</div>
   </li>
-</ol>
+</ul>
 
 <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20IP%20Subnetting%20Fundamentals%20%E2%80%93%20v1.0.0.pdf" target="_blank">REPORT – IP Subnetting Fundamentals – v1.0.0</a>. 
 ---
