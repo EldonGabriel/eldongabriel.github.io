@@ -5,70 +5,79 @@ permalink: /experience/
 image:
   path: /assets/images/banner.png
 ---
-<center><h1 style="font-size:300%;">Eldon Gabriel</h1>
-<p style="font-size:160%;">Cybersecurity Technician / System Administrator</p></center>
+<center>
+<h1 style="font-size:300%;">Eldon Gabriel</h1>
+<p style="font-size:160%;">Cybersecurity Technician / System Administrator</p>
+</center>
 
 📧 Email: [Eldon Gabriel](mailto:eldongbrl@proton.me) | 🌐 Portfolio: [MCSI Portfolio](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) | 🔗 LinkedIn: [Eldon Gabriel](http://www.linkedin.com/eldongabriel)
 
 ---
 
-## Professional Summary  
-ISC2 Certified in Cybersecurity with extensive hands-on experience as a Cybersecurity Technician and training from the Mossé Cyber Security Institute (MCSI). Skilled in Windows/Linux system administration, network security, and Python automation. Proven ability to conduct GRC assessments, penetration testing, OSINT, and digital forensics. Experienced in documenting actionable findings, producing structured reports, and managing technical operations. Seeking to apply my practical skills and experience to an entry-level role in security operations, threat analysis, or system administration.
- 
+## Professional Summary
+ISC² Certified in Cybersecurity with extensive hands-on experience as a Cybersecurity Technician, currently advancing skills through the MSAF course at the Mossé Cyber Security Institute (MCSI). Skilled in Windows/Linux system administration, network security, and Python automation. Experienced in GRC assessments, penetration testing, OSINT, and digital forensics.  
 
-## Core Competencies  
-- **SysAdmin & Security**: Windows Server, Linux CLI, GPO, Firewall, Backup, System Hardening  
-- **Networking & Tools**: VPNs, Cisco Packet Tracer, Nmap, Wireshark, IDS/IPS, NAT, ACLs  
-- **GRC & Reporting**: NIST, Risk Assessment, Technical Documentation, Compliance Audits  
-- **Forensics & OSINT**: Malware Analysis (YARA), Digital Artifacts, Social Media Mapping, Threat Intelligence  
+Proven ability to document actionable findings, produce structured reports, and manage technical operations. Seeking to apply practical skills to entry-level roles in security operations, threat analysis, or system administration.
 
-## Professional Experience  
+---
+
+## Core Competencies
+- **System Administration & Security:** Windows Server, Linux CLI, GPO, Firewall, Backup, System Hardening.  
+- **Networking & Tools:** VPNs, Cisco Packet Tracer, Nmap, Wireshark, IDS/IPS, NAT, ACLs. 
+- **Governance, Risk & Compliance:** NIST frameworks, Risk Assessment, Technical Documentation, Compliance Audits.  
+- **Forensics & OSINT:** Malware Analysis (YARA), Digital Artifacts, Social Media Mapping, Threat Intelligence.  
+- **Programming & Automation:** Python scripting for cybersecurity tasks.
+
+---
+
+## Professional Experience
 
 **Mossé Cyber Security Institute (MCSI) | Remote**  
 *System Administration Specialist* | Jul 2025 – Present  
-- Designed secure lab environments simulating enterprise networks  
-- Produced professional cybersecurity documentation and reports  
+- Engineered secure lab environments simulating enterprise networks.  
+- Produced professional cybersecurity documentation and structured reports.
 
 *Cybersecurity Technician* | Feb 2025 – Jul 2025  
-- Conducted reconnaissance and malware analysis (YARA) for threat detection  
-- Practiced operational defense through real-world incident simulations  
+- Conducted reconnaissance and malware analysis using YARA for threat detection.  
+- Practiced operational defense through simulated real-world incidents.
 
 **Land Property Partners | Remote**  
-*Client Support Specialist / IT & Web Manager* | Mar 2020 – Present  
-- Built and maintained company websites, implementing SEO and technical fixes  
-- Configured and managed digital contract workflows and CRM lead distribution  
-- Provided technical support to buyers, sellers, and staff  
+*Land Acquisition Specialist / Owner* | Mar 2020 – Present  
+- Managed sensitive property data and performed risk analysis.  
+- Built and maintained the company website, implementing SEO and technical improvements.  
+- Configured digital contract workflows and CRM lead distribution.  
+- Provided technical support to buyers, sellers, and staff.
 
 **Nutrition Outlet | Remote**  
 *Owner* | Mar 2015 – Present  
-- Oversaw online transaction security and operational risk mitigation  
+- Led multi-channel retail business operations, transitioning fully online.  
+- Built and maintained a WordPress-based e-commerce platform with secure payment systems.  
+- Oversaw customer data protection, financial system security, and operational risk mitigation.  
+- Directed end-to-end operations aligning business goals with IT and security requirements.
 
 **Secure Host Inc. | Hybrid**  
 *Security Operations Manager* | 2007 – 2014  
-- Led security operations, risk assessments, and incident response  
-- Supervised security teams and developed process documentation  
+- Led security operations, risk assessments, and incident response.  
+- Supervised security teams and developed operational process documentation.
+
+---
 
 ## Hands-On Projects & Technical Experience
 
-**Governance, Risk & Compliance (GRC)**
-- **Professional Reporting** – Authored professional cybersecurity reports and structured reporting templates.
+**Governance, Risk & Compliance (GRC)**  
+- **Professional Reporting:** Authored structured cybersecurity reports and templates.  
+- **Risk Analysis:** Identified, ranked, and analyzed threats in a simulated banking environment.
 
-- **Risk Analysis** – Identified, ranked, and analyzed threats for a simulated banking environment to produce a detailed risk register.
+**Digital Forensics & Incident Response**  
+- **Forensic Analysis:** Used Dumpzilla to extract and analyze browser forensics logs.  
+- **Threat Hunting & Malware Analysis:** Created and verified YARA rules to detect and analyze suspicious files, including PE files.
 
-**Digital Forensics & Incident Response**
-- **Forensic Analysis** – Utilized tools like Dumpzilla to extract and analyze browser forensics logs during investigations.
+**Passive Network Reconnaissance & OSINT**  
+- **External Asset Mapping:** Utilized dnsdumpster.com and shodan.io to map public-facing assets.  
+- **OSINT Collection:** Gathered information from code repositories, social media, and community sources.  
+- **Analysis:** Built mindmaps and actionable intelligence reports from collected data.
 
-- **Threat Hunting & Malware Analysis** – Designed and applied YARA rules to detect and analyze suspicious files, including portable executables. Verified and documented rules for proactive threat detection.
-  
-**Passive Network Reconnaissance & OSINT**
-- **External Asset Mapping & OSINT Collection** – Used dnsdumpster.com and shodan.io to map public-facing assets, searched code repositories for information leaks, created covert social media accounts, and built mindmaps of collected data across platforms and communities.
-
-**Offensive & Defensive Security**
-- **Vulnerability Scanning** – Conducted TCP/UDP port scans using Nmap and vulnerability assessments with OpenVAS.
-
-- **Web Application Security** – Performed website reconnaissance with Burp Suite, including crawling sites and testing login pages for brute-force vulnerabilities.
-
-- **System Hardening** – Strengthened Windows and Linux systems through firewall configuration and file permission enforcement. 
+---
 
 ### Cybersecurity Reports & Case Studies  
 - **Access Control Incident** – Investigated and resolved access control incident – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Access%20Control%20Incident%20-%20v1.2.0.pdf)  
