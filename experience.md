@@ -35,11 +35,15 @@ Proven ability to document actionable findings, produce structured reports, and 
 **Mossé Cyber Security Institute (MCSI) | Remote**  
 *System Administration Specialist* | Jul 2025 – Present  
 - Engineered secure lab environments simulating enterprise networks.  
-- Produced professional cybersecurity documentation and structured reports.
+- Produced professional cybersecurity documentation and structured reports.  
+- Completed Networking Fundamentals labs including OSI/TCP-IP research, Draw.io network diagrams, and Cisco Packet Tracer setups.  
+- Implemented Windows system hardening and firewall rules, including SMB access restrictions.
 
 *Cybersecurity Technician* | Feb 2025 – Jul 2025  
 - Conducted reconnaissance and malware analysis using YARA for threat detection.  
-- Practiced operational defense through simulated real-world incidents.
+- Practiced operational defense through simulated real-world incidents.  
+- Created mindmaps of OSINT data collected from social media platforms and communities.  
+- Developed and professionally documented YARA rules for detecting suspicious files and executables.
 
 **Land Property Partners | Remote**  
 *Land Acquisition Specialist* | Mar 2020 – Present  
