@@ -211,6 +211,8 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 > ⭐**Note:** _Mossé Cyber Security Institute (MCSI)_ certifications are mapped to NIST NICE, US Military MOS, and ASD Cyber Skills Framework.
 
+***
+
 ---
 <img src="/assets/images/fnlogo.png" alt="Field Notes Banner">
 
