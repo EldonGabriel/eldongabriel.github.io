@@ -42,7 +42,7 @@ Proven ability to document actionable findings, produce structured reports, and 
 - Practiced operational defense through simulated real-world incidents.
 
 **Land Property Partners | Remote**  
-*Land Acquisition Specialist / Owner* | Mar 2020 – Present  
+*Land Acquisition Specialist* | Mar 2020 – Present  
 - Managed sensitive property data and performed risk analysis.  
 - Built and maintained the company website, implementing SEO and technical improvements.  
 - Configured digital contract workflows and CRM lead distribution.  
