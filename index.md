@@ -15,7 +15,7 @@ Through my hands-on work, I’ve gained practical experience in risk assessment,
 I'm currently advancing my skills through the MSAF course at the Mossé Cyber Security Institute, aiming to bring a risk-focused mindset and practical insight to strengthen organizational defenses.
 
 
-# About Me – Cybersecurity Technician
+<center><h1>About Me</h1></center>
 
 <p>My journey from business to cybersecurity has been shaped by hands-on technical work and lessons learned from remarkable people along the way. These experiences taught me leadership, resilience, and strategic thinking—skills I now apply to building secure networks, hunting threats, and developing proactive defenses.</p>
 
