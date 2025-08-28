@@ -154,27 +154,28 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets/images/george.png" alt="George H. Ross" width="50"/> <strong>George H. Ross</strong></td>
+      <div style="display: flex; align-items: center;">
+      <td><img src="assets/images/george.png" alt="George H. Ross" width="50" style="margin-right: 8px;"/> <strong>George H. Ross</strong></td>
       <td>NBC’s ‘The Apprentice’ Judge & Mentor</td>
       <td>Instilled disciplined evaluation of risks, persistence, and thorough investigative practices essential for threat hunting and incident response.</td>
     </tr>
     <tr>
-      <td><img src="assets/images/bruny.png" alt="Bruny Surin" width="50"/> <strong>Bruny Surin</strong></td>
+      <td><img src="assets/images/bruny.png" alt="Bruny Surin" width="50" style="margin-right: 8px;"/> <strong>Bruny Surin</strong></td>
       <td>Olympic Gold Medalist</td>
       <td>Taught discipline, focus, and composure under pressure—applied to high-stakes incident handling and complex security investigations.</td>
     </tr>
     <tr>
-      <td><img src="assets/images/wahida.png" alt="Wahida Clark" width="50"/> <strong>Wahida Clark</strong></td>
+      <td><img src="assets/images/wahida.png" alt="Wahida Clark" width="50" style="margin-right: 8px;"/> <strong>Wahida Clark</strong></td>
       <td>4x NYT Bestselling Author</td>
       <td>Reinforced the importance of clear communication and storytelling to explain complex technical risks to non-technical audiences.</td>
     </tr>
     <tr>
-      <td><img src="assets/images/alex.png" alt="Alex Clark" width="50"/> <strong>Alex Clark</strong></td>
+      <td><img src="assets/images/alex.png" alt="Alex Clark" width="50" style="margin-right: 8px;"/> <strong>Alex Clark</strong></td>
       <td>CEO, Quantum Pigeon Technologies Inc.</td>
       <td>Highlighted the value of forward-thinking innovation and staying ahead of emerging technology trends, crucial for proactive cybersecurity defenses.</td>
     </tr>
     <tr>
-      <td><img src="assets/images/stedman.png" alt="Stedman Graham" width="50"/> <strong>Stedman Graham</strong></td>
+      <td><img src="assets/images/stedman.png" alt="Stedman Graham" width="50" style="margin-right: 8px;"/> <strong>Stedman Graham</strong></td>
       <td>Businessman & Author</td>
       <td>Emphasized clarity of purpose and strategic thinking, helping to stay focused and intentional in building cybersecurity expertise and projects.</td>
     </tr>
