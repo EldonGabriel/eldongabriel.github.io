@@ -15,11 +15,11 @@ Through my hands-on work, I’ve gained practical experience in risk assessment,
 I'm currently advancing my skills through the MSAF course at the Mossé Cyber Security Institute, aiming to bring a risk-focused mindset and practical insight to strengthen organizational defenses.
 
 
-<center><h1>About Me</h1></center>
+<center><h1>Professional Insights</h1></center>
 
 <p>My journey from business to cybersecurity has been shaped by hands-on technical work and lessons learned from remarkable people along the way. These experiences taught me leadership, resilience, and strategic thinking—skills I now apply to building secure networks, hunting threats, and developing proactive defenses.</p>
 
-<h2>Key Influences and Lessons</h2>
+<center><h2>Key Influences and Lessons</h2></center>
 <table>
   <thead>
     <tr>
@@ -84,7 +84,7 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 <p><em>I’ve also learned from other leaders across industries, each shaping my approach to cybersecurity with lessons in strategic thinking, innovation, and resilience.</em></p>
 
-<h2>My Approach</h2>
+<center><h2>My Approach</h2></center>
 <p>I bring to every challenge technical rigor, strategic insight, and clear communication. Whether investigating incidents, hardening systems, or assessing risks, I apply a mindset shaped by practical experience, mentorship, and continuous learning.</p>
 
 <center><h1>Cybersecurity Projects</h1></center>
