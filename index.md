@@ -213,7 +213,6 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 ***
 
----
 <img src="/assets/images/fnlogo.png" alt="Field Notes Banner">
 
 Field Notes documents my journey in cybersecurity, highlighting real-world projects, technical problem-solving, and applied skills that showcase my ability to bridge IT fundamentals with security operations.
