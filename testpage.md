@@ -21,7 +21,7 @@ image:
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets/images/george.png" alt="George H. Ross" width="50"/> <strong>George H. Ross</strong></td>
+      <td><img src="assets/images/george.png" alt="George H. Ross" width="50" style="vertical-align: middle; margin-right: 8px;"/> <strong>George H. Ross</strong></td>
       <td>NBC’s ‘The Apprentice’ Judge & Mentor</td>
       <td>Instilled disciplined evaluation of risks, persistence, and thorough investigative practices essential for threat hunting and incident response.</td>
     </tr>
