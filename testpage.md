@@ -52,3 +52,17 @@ image:
 
 <h2>My Approach</h2>
 <p>I bring to every challenge technical rigor, strategic insight, and clear communication. Whether investigating incidents, hardening systems, or assessing risks, I apply a mindset shaped by practical experience, mentorship, and continuous learning.</p>
+
+
+
+<tr>
+  <td>
+    <div style="display: flex; align-items: center;">
+      <img src="images/george.jpg" alt="George H. Ross" width="50" style="margin-right: 8px;">
+      <strong>George H. Ross</strong>
+    </div>
+  </td>
+  <td>NBC’s ‘The Apprentice’ Judge & Mentor</td>
+  <td>Instilled disciplined evaluation of risks, persistence, and thorough investigative practices essential for threat hunting and incident response.</td>
+</tr>
+
