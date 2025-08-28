@@ -66,3 +66,6 @@ image:
   <td>Instilled disciplined evaluation of risks, persistence, and thorough investigative practices essential for threat hunting and incident response.</td>
 </tr>
 
+<img src="assets/images/fnlogo.png" alt="Banner" style="width:100%; height:auto;">
+
+
