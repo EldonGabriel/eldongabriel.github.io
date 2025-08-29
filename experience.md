@@ -94,8 +94,8 @@ Proven ability to document actionable findings, produce structured reports, and 
 - **SQL Query Analysis Incident** – Analyzed database queries for suspicious activity – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20SQL%20Query%20Analysis%20Incident%20%E2%80%93%20v1.0.2.pdf)  
 
 ### Windows Security Best Practices Guides
-- **Using Access Permissions and Rights to Secure a Folder** - Secures folder access with local users and groups – [View Document](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Using%20Access%20Permissions%20and%20Rights%20to%20Secure%20a%20Folder%20%E2%80%93%20v1.0.0.pdf)
-- **Monitoring Windows Processes with Procmon** – Captures and analyzes Windows process activity with filters and export - [View Document](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Using%20Access%20Permissions%20and%20Rights%20to%20Secure%20a%20Folder%20%E2%80%93%20v1.0.0.pdf)
+- **Using Access Permissions and Rights to Secure a Folder** - Folder access management – [View Document](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Using%20Access%20Permissions%20and%20Rights%20to%20Secure%20a%20Folder%20%E2%80%93%20v1.0.0.pdf)
+- **Monitoring Windows Processes with Procmon** – Process monitoring - [View Document](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Using%20Access%20Permissions%20and%20Rights%20to%20Secure%20a%20Folder%20%E2%80%93%20v1.0.0.pdf)
 
 ### System Hardening & Development  
 - **Linux File Permissions Management** – Secured Linux systems via permission enforcement – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Linux%20File%20Permissions%20Management%20-%20v1.0.2.pdf)  
