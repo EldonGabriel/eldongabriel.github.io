@@ -93,6 +93,13 @@ Proven ability to document actionable findings, produce structured reports, and 
 - **Post-Breach Security Recommendations** – Recommended security measures after breach – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Post-Breach%20Security%20Recommendations%20%E2%80%93%20v1.0.1.pdf)  
 - **SQL Query Analysis Incident** – Analyzed database queries for suspicious activity – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20SQL%20Query%20Analysis%20Incident%20%E2%80%93%20v1.0.2.pdf)  
 
+### Independent Practice Guides
+
+These guides are based on my independent practice and understanding of lessons learned from MCSI exercises, rewritten in a generic format for portfolio demonstration.
+
+- **GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0** – [View Document](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Using%20Access%20Permissions%20and%20Rights%20to%20Secure%20a%20Folder%20%E2%80%93%20v1.0.0.pdf)
+- **GUIDE – Monitoring Windows Processes with Procmon – v1.0.0** – [View Document](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Using%20Access%20Permissions%20and%20Rights%20to%20Secure%20a%20Folder%20%E2%80%93%20v1.0.0.pdf)
+
 ### System Hardening & Development  
 - **Linux File Permissions Management** – Secured Linux systems via permission enforcement – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Linux%20File%20Permissions%20Management%20-%20v1.0.2.pdf)  
 - **Python Algorithm for IP Access Control** – Automated IP access restrictions – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Python%20Algorithm%20for%20Managing%20IP%20Access%20%E2%80%93%20v1.0.1.pdf)  
