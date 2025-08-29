@@ -106,7 +106,8 @@ Proven ability to document actionable findings, produce structured reports, and 
 ### Investigations & Analysis  
 - **DNS Analysis with dig** – Conducted DNS lookups and troubleshooting – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20DNS%20Analysis%20with%20dig%20%E2%80%93%20v1.0.0.pdf)  
 - **DNS Outage & Port 53 Failure** – Diagnosed simulated outage – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20DNS%20Outage%20and%20Port%2053%20Failure%20Analysis%20%E2%80%93%20v1.0.1.pdf)  
-- **Network Attack Analysis** – Analyzed traffic patterns for malicious activity – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Network%20Attack%20Analysis%20%E2%80%93%20v1.0.1.pdf)  
+- **Network Attack Analysis** – Analyzed traffic patterns for malicious activity – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Network%20Attack%20Analysis%20%E2%80%93%20v1.0.1.pdf)
+- **IP Subnetting Fundamentals** – IP addressing and subnetting – [View Document](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20IP%20Subnetting%20Fundamentals%20%E2%80%93%20v1.0.0.pdf)
 
 ### Technical Demonstrations & Guides  
 
