@@ -10,7 +10,7 @@ image:
 <p style="font-size:160%;">Cybersecurity Technician / System Administrator</p>
 </center>
 
-📧 [Email](mailto:eldongbrl@proton.me) | 🌐 [MCSI Portfolio](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) | 🔗 [LinkedIn](http://www.linkedin.com/eldongabriel)
+<center>📧 [Email](mailto:eldongbrl@proton.me) | 🌐 [MCSI Portfolio](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) | 🔗 [LinkedIn](http://www.linkedin.com/eldongabriel)</center>
 ---
 
 ## Professional Summary
