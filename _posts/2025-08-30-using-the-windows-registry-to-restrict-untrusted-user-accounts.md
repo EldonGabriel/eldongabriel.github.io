@@ -21,6 +21,6 @@ Completing this exercise helped me understand not only the structure and functio
 
 <p align="center">
   <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Endpoint%20Security%20with%20the%20Windows%20Registry%20%E2%80%93%20v1.0.0.pdf" target="_blank">
-    VIEW: GUIDE – Endpoint Security with the Windows Registry – v1.0.0
+    Full Guide: GUIDE – Endpoint Security with the Windows Registry – v1.0.0
   </a>
 </p>
