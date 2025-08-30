@@ -11,9 +11,9 @@ image:
 (http://www.linkedin.com/eldongabriel) 
 </center>
 
-<div align="center">
-📧 [Email](mailto:eldongbrl@proton.me) | 🌐 [MCSI Portfolio](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) | 🔗 [LinkedIn]
-</div>
+<p align="center">
+📧 <a href="mailto:eldongbrl@proton.me">Email</a> | 🌐 <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832">MCSI Portfolio</a> | 🔗 <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a>
+</p>
 ---
 
 ## Professional Summary
