@@ -118,7 +118,7 @@ Proven ability to document actionable findings, produce structured reports, and 
 **SQL for Cybersecurity**  
 - **Investigating Database Activity** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=TUqYto8EDJ4)  
 - **Investigate Security Incidents with SQL** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=bhTHXhE6kTk)  
-- **Using AND, OR, NOT  – A video demonstration** – [Watch Video](https://www.youtube.com/watch?v=5qCjwenE-Z0)  
+- **Using AND, OR, NOT** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=5qCjwenE-Z0)  
 - **SQL Joins for Security Investigation** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=ynxJ1go-Cc8)  
 
 ## Cybersecurity Resources & Templates  
