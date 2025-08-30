@@ -116,7 +116,7 @@ Proven ability to document actionable findings, produce structured reports, and 
 - **Windows Firewall Configuration** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=U_4TeohPNQ4)
 - **Domain Join & GPO Setup** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=JE3jutqyI4Q)
 
-### Technical Guides  
+## Technical Guides  
 **SQL for Cybersecurity**  
 - **Investigating Database Activity** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=TUqYto8EDJ4)  
 - **Investigate Security Incidents with SQL** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=bhTHXhE6kTk)  
@@ -138,7 +138,7 @@ Proven ability to document actionable findings, produce structured reports, and 
 **University of Colorado** | Remote  
 - Computer Security & Systems Management Specialization (In Progress) 
 
-### Completed Certifications
+## Completed Certifications
 
 - **ISC²** – Certified in Cybersecurity (CC)
 - **Google** – IT Support, Cybersecurity Professional
