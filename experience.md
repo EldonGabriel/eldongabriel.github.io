@@ -11,7 +11,6 @@ image:
 </center>
 
 📧 [Email](mailto:eldongbrl@proton.me) | 🌐 [MCSI Portfolio](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) | 🔗 [LinkedIn](http://www.linkedin.com/eldongabriel)
-
 ---
 
 ## Professional Summary
@@ -96,6 +95,7 @@ Proven ability to document actionable findings, produce structured reports, and 
 - **SMB Protocol** – SMB functions, uses, and security – [View Document](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20SMB%20Protocol_%20Function%20and%20Security%20Risks%20%E2%80%93%20v1.0.0.pdf)
 - **Access Permissions and Rights** – Folder access management – [View Document](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Using%20Access%20Permissions%20and%20Rights%20to%20Secure%20a%20Folder%20%E2%80%93%20v1.0.0.pdf)
 - **Monitoring Windows Processes with Procmon** – Process monitoring – [View Document](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Monitoring%20Windows%20Processes%20with%20Procmon%20%E2%80%93%20v1.0.0.pdf)
+- **Endpoint Registry Controls** – Blocking Untrusted User Accounts – [View Document](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Endpoint%20Security%20with%20the%20Windows%20Registry%20%E2%80%93%20v1.0.0.pdf)
 
 ### System Hardening & Development  
 - **Linux File Permissions Management** – Secured Linux systems via permission enforcement – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Linux%20File%20Permissions%20Management%20-%20v1.0.2.pdf)  
