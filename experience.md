@@ -95,33 +95,31 @@ Proven ability to document actionable findings, produce structured reports, and 
 ### Windows Security Best Practices Guides
 - **SMB Protocol** – SMB functions, uses, and security – [View Document](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20SMB%20Protocol_%20Function%20and%20Security%20Risks%20%E2%80%93%20v1.0.0.pdf)
 - **Access Permissions and Rights** – Folder access management – [View Document](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Using%20Access%20Permissions%20and%20Rights%20to%20Secure%20a%20Folder%20%E2%80%93%20v1.0.0.pdf)
-- **Monitoring Windows Processes with Procmon** – Process monitoring – [View Document](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Using%20Access%20Permissions%20and%20Rights%20to%20Secure%20a%20Folder%20%E2%80%93%20v1.0.0.pdf)
+- **Monitoring Windows Processes with Procmon** – Process monitoring – [View Document](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Monitoring%20Windows%20Processes%20with%20Procmon%20%E2%80%93%20v1.0.0.pdf)
 
 ### System Hardening & Development  
 - **Linux File Permissions Management** – Secured Linux systems via permission enforcement – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Linux%20File%20Permissions%20Management%20-%20v1.0.2.pdf)  
 - **Python Algorithm for IP Access Control** – Automated IP access restrictions – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Python%20Algorithm%20for%20Managing%20IP%20Access%20%E2%80%93%20v1.0.1.pdf)  
 - **Server Security Evaluation** – Assessed exposed database server and recommended fixes – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Server%20Security%20Evaluation%20%E2%80%93%20v1.2.0.pdf)  
 
-### Investigations & Analysis  
+### Network Fundamentals  
+- **IP Subnetting Fundamentals** – IP addressing and subnetting – [View Document](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20IP%20Subnetting%20Fundamentals%20%E2%80%93%20v1.0.0.pdf)
+- **Kerberos Authentication Protocol** – Documented TGT & ST lifecycles – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.0.pdf)
+- **Network Attack Analysis** – Analyzed traffic patterns for malicious activity – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Network%20Attack%20Analysis%20%E2%80%93%20v1.0.1.pdf)
 - **DNS Analysis with dig** – Conducted DNS lookups and troubleshooting – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20DNS%20Analysis%20with%20dig%20%E2%80%93%20v1.0.0.pdf)  
 - **DNS Outage & Port 53 Failure** – Diagnosed simulated outage – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20DNS%20Outage%20and%20Port%2053%20Failure%20Analysis%20%E2%80%93%20v1.0.1.pdf)  
-- **Network Attack Analysis** – Analyzed traffic patterns for malicious activity – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Network%20Attack%20Analysis%20%E2%80%93%20v1.0.1.pdf)
-- **Kerberos Authentication Protocol** – Documented TGT & ST lifecycles – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.0.pdf)
-- **IP Subnetting Fundamentals** – IP addressing and subnetting – [View Document](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20IP%20Subnetting%20Fundamentals%20%E2%80%93%20v1.0.0.pdf)
+- **Enterprise IPsec VPN Troubleshooting** - A guide to troubleshooting an enterprise IPsec VPN - [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Enterprise%20IPsec%20VPN%20Troubleshooting%20%E2%80%93%20v1.0.0.pdf)
+- **Windows Setup for Secure Networking** – A video demonstration – [Watch Video](https://youtu.be/m4MngVs_bmM)
+- **Network Adapter Installation & Testing** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=5lywwd1MQRo) 
+- **Windows Firewall Configuration** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=U_4TeohPNQ4)
+- **Domain Join & GPO Setup** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=JE3jutqyI4Q)
 
 ### Technical Demonstrations & Guides  
-
-**IT & Network Setup**  
-- Windows Setup for Secure Networking – [Watch Video](https://youtu.be/m4MngVs_bmM)  
-- Network Adapter Installation & Testing – [Watch Video](https://www.youtube.com/watch?v=5lywwd1MQRo)  
-- Domain Join & GPO Setup – [Watch Video](https://www.youtube.com/watch?v=JE3jutqyI4Q)  
-- Windows Firewall Configuration – [Watch Video](https://www.youtube.com/watch?v=U_4TeohPNQ4)  
-
 **SQL for Cybersecurity**  
-- Investigating Database Activity – [Watch Video](https://www.youtube.com/watch?v=TUqYto8EDJ4)  
-- Investigate Security Incidents with SQL – [Watch Video](https://www.youtube.com/watch?v=bhTHXhE6kTk)  
-- Using AND, OR, NOT – [Watch Video](https://www.youtube.com/watch?v=5qCjwenE-Z0)  
-- SQL Joins for Security Investigation – [Watch Video](https://www.youtube.com/watch?v=ynxJ1go-Cc8)  
+- Investigating Database Activity  – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=TUqYto8EDJ4)  
+- Investigate Security Incidents with SQL  – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=bhTHXhE6kTk)  
+- Using AND, OR, NOT  – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=5qCjwenE-Z0)  
+- SQL Joins for Security Investigation  – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=ynxJ1go-Cc8)  
 
 ## Cybersecurity Resources & Templates  
 - **Professional Cybersecurity Report Template Guide** – [View Document](https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?usp=sharing)  
