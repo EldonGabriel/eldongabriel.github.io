@@ -53,8 +53,7 @@ This exercise took over **10 hours** of intensive hands-on work and led me to cr
   <li>Built a **dynamic network** in Cisco Packet Tracer.</li>
   <li>Configured **LANs, VLANs, ACLs, NAT, and IPSec VPNs**.</li>
 </ul>
-
-> **ℹ️ Note:** Full lab reports and video submissions are available upon request.
+**ℹ️ Note:** Full lab reports and video submissions are available upon request.
 
 <center><h2>Conclusion</h2></center>
 
