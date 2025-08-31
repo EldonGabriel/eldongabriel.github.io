@@ -7,7 +7,7 @@ image:
 ---
 <center>
 <h1 style="font-size:300%;">Eldon Gabriel</h1>
-<p style="font-size:160%;">Cybersecurity Technician / System Administrator</p>
+<p style="font-size:160%;">Cybersecurity Technician | IT Operations</p>
 </center>
 
 <h4 align="center">
