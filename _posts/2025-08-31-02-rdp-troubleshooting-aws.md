@@ -1,6 +1,6 @@
 ---
 title: "RDP Troubleshooting for AWS Users"
-date: 2025-08-31
+date: 2025-08-31 09:00:00
 author: Eldon Gabriel
 tags: [Windows, RDP, AWS, Cybersecurity]
 excerpt: "A hands-on guide to troubleshooting Remote Desktop access for new user accounts on AWS-hosted Windows 10 VMs."
