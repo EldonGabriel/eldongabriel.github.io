@@ -1,6 +1,6 @@
 ---
 title: "File Ownership Recovery in Windows"
-date: 2025-08-31
+date: 2025-08-31 08:00:00
 author: Eldon Gabriel
 tags: [Windows, NTFS, File Permissions]
 excerpt: "A concise overview of how to recover file ownership in Windows using built-in tools."
