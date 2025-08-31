@@ -7,11 +7,11 @@ excerpt: "Hands-on lab experience in securing sensitive folders and restricting 
 image: "/assets/images/fnlogo.png"
 ---
 
-## Introduction
+## <center>Introduction</center
 
 Today's lab focused on two main goals: locking down sensitive folders and restricting PowerShell. I practiced Windows security controls to prevent unauthorized access. This involved working with accounts, permissions, and group policies. The exercise demonstrated how least privilege and defense-in-depth operate in real Windows environments.
 
-## What I Studied
+## <center>What I Studied</center>
 
 - **Command-line tools:** `icacls` and `takeown` for managing file permissions.  
 - **Local Group Policy Editor:** blocking applications like PowerShell.  
@@ -19,19 +19,19 @@ Today's lab focused on two main goals: locking down sensitive folders and restri
 - **Auditing:** reviewing permissions and access logs to maintain security.  
 - **Least privilege:** assigning only the necessary rights to each group.  
 
-## What I Learned
+## <center>What I Learned</center>
 
-- File permissions control access — knowing a folder path isn’t enough without the correct ACLs.  
+- File Permissions Control Access: knowing a folder path isn’t enough without the correct ACLs.  
 - Software restriction policies can stop programs like PowerShell. Misconfigurations, like accidentally blocking Admin, show why testing is critical.  
 - There’s a thin line between keeping systems secure and keeping them usable.  
 - A structured testing process is essential before applying new restrictions.  
 
-## Why It Matters
+## <center>Why It Matters</center>
 
 - PowerShell is often used in cyberattacks to run malicious scripts. Restricting or monitoring it helps defend against fileless malware and advanced threats.  
 - Proper file permissions and group policies protect confidential data and support compliance requirements.  
 - Tools like AppLocker and Windows Defender Application Control give administrators more control. Logging PowerShell activity provides visibility and faster response.  
 
-## Reflection & Next Steps
+## <center>Reflection & Next Steps</center>
 
 I’ll wait for results and review feedback to identify gaps. In the meantime, I’ll research my next exercise on using access permissions to block unauthorized access to sensitive folders. This builds on the lessons from this lab and sharpens my skills in access control and data security.
