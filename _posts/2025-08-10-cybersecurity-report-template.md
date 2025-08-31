@@ -56,7 +56,7 @@ A strong report starts with a **title and naming structure** that makes sense at
   </tbody>
 </table>
 </div>
-
+<br>
 
 <center><h2>Why This Matters in Cybersecurity?</h2></center>
 <ol>
@@ -79,6 +79,7 @@ A strong report starts with a **title and naming structure** that makes sense at
     Figure 1: Cybersecurity Report Template Diagram. 2025, @eldongbrl
   </div>
 </div>
+<br>
 
 Through my research and the MCSI exercise, I learned that a professional report must be structured for both clarity and traceability. The **core components** include:  
 
@@ -88,8 +89,7 @@ Through my research and the MCSI exercise, I learned that a professional report 
   <li><strong>Revision History:</strong> Tracks edits, authors, and dates for accountability.</li>
   <li><strong>Citations & References:</strong> Ensures proper crediting of sources.</li>
   <li><strong>Images with Captions:</strong> Adds visual clarity and supports findings.</li>
-</ul>
- <br> 
+</ul> 
 
 <center><h2>The Challenge and the Outcomes</h2></center>
 
@@ -102,8 +102,13 @@ The MCSI task required me to integrate all these components into a single, funct
 
 The final result was a professional-grade template I can now adapt for any future cybersecurity report—whether for academic work, lab documentation, or professional engagements.  
 
-<center><a href="https://students.mosse-institute.com/exercise/yL7qdP5eE4OI4rFJrxIg" target="_blank">View Certification</a></center>
-<br>
+<div style="text-align:center; margin: 15px 0;">
+  <a href="https://students.mosse-institute.com/exercise/yL7qdP5eE4OI4rFJrxIg" target="_blank">
+    <img src="https://students.mosse-institute.com/exercise/yL7qdP5eE4OI4rFJrxIg/thumbnail.png" 
+         alt="View Certification" 
+         width="400">
+  </a>
+</div>
 
 <center><h2>Free Resource: Cybersecurity Report Template</h2></center>
 
@@ -122,4 +127,4 @@ When I built this template, my goal was to create something I could use repeated
 
 A clear naming convention might seem like a small detail, but in cybersecurity, **small details often make the biggest difference.** Combined with a well-structured template, it helps ensure your reports are not only informative but also credible, consistent, and ready for real-world use.  
 
-> **ℹ️ Note:** Originally completed in Feb 2025 at MCSI; updated for clarity and template refinements.
+**ℹ️ Note:** Originally completed in Feb 2025 at MCSI; updated for clarity and template refinements.
