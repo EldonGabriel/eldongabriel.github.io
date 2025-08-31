@@ -22,7 +22,7 @@ My report includes a complete table of subnet addresses, usable hosts, and broad
 - **Subnet increment** = 2<sup>(n)</sup>  
 - **Usable hosts per subnet** = 2<sup>(n)</sup> – 2
 
->**Note:** <sub>n</sub> = number of host bits
+>**Note:** _n_ = number of host bits
 
 Each subnet now has a network address, first and last usable hosts, and broadcast address—making it easy to reference when designing networks or completing exercises.
 
