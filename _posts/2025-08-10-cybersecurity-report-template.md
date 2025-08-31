@@ -103,11 +103,12 @@ The MCSI task required me to integrate all these components into a single, funct
 The final result was a professional-grade template I can now adapt for any future cybersecurity report—whether for academic work, lab documentation, or professional engagements.  
 
 <div style="text-align:center; margin: 15px 0;">
-  <a href="https://students.mosse-institute.com/exercise/yL7qdP5eE4OI4rFJrxIg" target="_blank">
-    <img src="https://students.mosse-institute.com/exercise/yL7qdP5eE4OI4rFJrxIg/thumbnail.png" 
-         alt="View Certification" 
-         width="400">
-  </a>
+  <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/certifications/Create%20A%20Template%20For%20A%20Professional%20Document%20.png" 
+       alt="Create A Template For A Professional Document" 
+       width="600">
+  <div style="font-size:0.85em; margin-top:5px;">
+    Figure 2: Create A Template For A Professional Document. 2025, www.mosse-institute.com
+  </div>
 </div>
 
 <center><h2>Free Resource: Cybersecurity Report Template</h2></center>
@@ -120,8 +121,11 @@ When I built this template, my goal was to create something I could use repeated
 - Deliver reports that look clean, credible, and consistent.  
 <br>
 
-<center>📥 <a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?tab=t.0#heading=h.oxc6p4pln7ek" target="_blank">View Report Template</a></center>
-<br>
+<p align="center">
+  <a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?tab=t.0#heading=h.oxc6p4pln7ek" target="_blank">
+    Full Report: GUIDE – RDP Troubleshooting – AWS VM Access – v1.0.0
+  </a>
+</p>
 
 <center><h2>Final Thought</h2></center>
 
