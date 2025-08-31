@@ -82,7 +82,7 @@ Proven ability to document actionable findings, produce structured reports, and 
 - **OSINT Collection:** Gathered information from code repositories, social media, and community sources.  
 - **Analysis:** Built mindmaps and actionable intelligence reports from collected data.
 
-## Security Reports  
+### Security Reports  
 - **Access Control Incident** – Investigated and resolved access control incident – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Access%20Control%20Incident%20-%20v1.2.0.pdf)  
 - **BYOD in Organizations** – Analyzed security risks of BYOD policies – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20BYOD%20in%20Organizations_%20Security%2C%20Challenges%2C%20and%20Strategies%20%E2%80%93%20v1.0.0.pdf)  
 - **Bank Risk Register Analysis** – Identified and ranked simulated bank threats – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Bank%20Risk%20Register%20Analysis%20%E2%80%93%20v1.0.2.pdf)  
