@@ -1,5 +1,5 @@
 ---
-title: "RDP Troubleshooting for AWS Users"
+title: "Part 2: RDP Troubleshooting for AWS Users"
 date: 2025-08-31 09:00:00
 author: Eldon Gabriel
 tags: [Windows, RDP, AWS, Cybersecurity]
