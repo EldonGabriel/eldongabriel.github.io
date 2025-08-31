@@ -13,8 +13,9 @@ When I first attempted to switch users on an AWS-hosted Windows 10 VM, I noticed
 
 With the RDP profile configured, I verified the account could log in by running `whoami` and checking its group memberships. I also added the user to the Remote Desktop Users group both through the GUI and via the command line with:  
 
-{: .notice}
-net localgroup "Remote Desktop Users" Eldon /add
+```
+net localgroup "Remote Desktop Users" Eldon /add`
+```
 
 Completing this exercise highlighted the importance of understanding how remote access is managed in virtualized environments. It reinforced the practical steps needed to configure secure RDP access, verify user permissions, and troubleshoot unexpected behaviors unique to cloud-hosted VMs.  
 
