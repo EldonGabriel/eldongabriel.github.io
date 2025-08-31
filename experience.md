@@ -82,7 +82,7 @@ Proven ability to document actionable findings, produce structured reports, and 
 - **OSINT Collection:** Gathered information from code repositories, social media, and community sources.  
 - **Analysis:** Built mindmaps and actionable intelligence reports from collected data.
 
-### Security Reports  
+## Security Reports  
 - **Access Control Incident** – Investigated and resolved access control incident – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Access%20Control%20Incident%20-%20v1.2.0.pdf)  
 - **BYOD in Organizations** – Analyzed security risks of BYOD policies – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20BYOD%20in%20Organizations_%20Security%2C%20Challenges%2C%20and%20Strategies%20%E2%80%93%20v1.0.0.pdf)  
 - **Bank Risk Register Analysis** – Identified and ranked simulated bank threats – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Bank%20Risk%20Register%20Analysis%20%E2%80%93%20v1.0.2.pdf)  
@@ -91,19 +91,19 @@ Proven ability to document actionable findings, produce structured reports, and 
 - **Post-Breach Security Recommendations** – Recommended security measures after breach – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Post-Breach%20Security%20Recommendations%20%E2%80%93%20v1.0.1.pdf)  
 - **SQL Query Analysis Incident** – Analyzed database queries for suspicious activity – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20SQL%20Query%20Analysis%20Incident%20%E2%80%93%20v1.0.2.pdf)  
 
-### Windows Guides
+**Windows Guides**
 - **SMB Protocol** – SMB functions, uses, and security – [View Guide](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20SMB%20Protocol_%20Function%20and%20Security%20Risks%20%E2%80%93%20v1.0.0.pdf)
 - **Access Permissions and Rights** – Folder access management – [View Guide](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Using%20Access%20Permissions%20and%20Rights%20to%20Secure%20a%20Folder%20%E2%80%93%20v1.0.0.pdf)
 - **Monitoring Windows Processes with Procmon** – Process monitoring – [View Guide](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Monitoring%20Windows%20Processes%20with%20Procmon%20%E2%80%93%20v1.0.0.pdf)
 - **Endpoint Registry Controls** – Blocking Untrusted User Accounts – [View Guide](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Endpoint%20Security%20with%20the%20Windows%20Registry%20%E2%80%93%20v1.0.0.pdf)
 - **RDP Troubleshooting** – AWS VM Access – [View Guide](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Endpoint%20Security%20with%20the%20Windows%20Registry%20%E2%80%93%20v1.0.0.pdf)
 
-### System Development  
+**System Development**  
 - **Linux File Permissions Management** – Secured Linux systems via permission enforcement – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Linux%20File%20Permissions%20Management%20-%20v1.0.2.pdf)  
 - **Python Algorithm for IP Access Control** – Automated IP access restrictions – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Python%20Algorithm%20for%20Managing%20IP%20Access%20%E2%80%93%20v1.0.1.pdf)  
 - **Server Security Evaluation** – Assessed exposed database server and recommended fixes – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Server%20Security%20Evaluation%20%E2%80%93%20v1.2.0.pdf)  
 
-### Network Fundamentals  
+**Network Fundamentals**
 - **IP Subnetting Fundamentals** – IP addressing and subnetting – [View Guide](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20IP%20Subnetting%20Fundamentals%20%E2%80%93%20v1.0.0.pdf)
 - **Kerberos Authentication Protocol** – Documented TGT & ST lifecycles – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.0.pdf)
 - **Network Attack Analysis** – Analyzed traffic patterns for malicious activity – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Network%20Attack%20Analysis%20%E2%80%93%20v1.0.1.pdf)
@@ -115,14 +115,14 @@ Proven ability to document actionable findings, produce structured reports, and 
 - **Windows Firewall Configuration** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=U_4TeohPNQ4)
 - **Domain Join & GPO Setup** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=JE3jutqyI4Q)
 
-## Technical Guides  
+### Technical Guides  
 **SQL for Cybersecurity**  
 - **Investigating Database Activity** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=TUqYto8EDJ4)  
 - **Investigate Security Incidents with SQL** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=bhTHXhE6kTk)  
 - **Using AND, OR, NOT** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=5qCjwenE-Z0)  
 - **SQL Joins for Security Investigation** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=ynxJ1go-Cc8)  
 
-## Security Templates  
+### Security Templates  
 - **Professional Cybersecurity Report Template Guide** – [View Template](https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?usp=sharing)  
 - **BYOD Policy & Agreement Template** – [View Template](https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing)  
 
