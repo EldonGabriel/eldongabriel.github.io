@@ -21,7 +21,7 @@ Today's lab focused on two main goals: locking down sensitive folders and restri
 
 ## <center>What I Learned</center>
 
-- File Permissions Control Access: knowing a folder path isn’t enough without the correct ACLs.  
+- File permissions control access: knowing a folder path isn’t enough without the correct ACLs.  
 - Software restriction policies can stop programs like PowerShell. Misconfigurations, like accidentally blocking Admin, show why testing is critical.  
 - There’s a thin line between keeping systems secure and keeping them usable.  
 - A structured testing process is essential before applying new restrictions.  
