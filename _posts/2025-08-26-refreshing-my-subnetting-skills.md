@@ -13,11 +13,11 @@ I realized this was a good chance to refresh my memory and practice subnetting i
 
 ---
 
-## REPORT – IP Subnetting Fundamentals – v1.0.0
+## <center>From Handwritten Notes to Subnet Reference</center>
 
 **Focus:** Class C subnets /25–/29  
 
-This report includes a complete table of subnet addresses, usable hosts, and broadcast addresses for the 192.168.1.0/24 network. The math follows standard formulas:
+My report includes a complete table of subnet addresses, usable hosts, and broadcast addresses for the 192.168.1.0/24 network. The math follows standard formulas:
 
 - **Subnet increment** = 2^(number of host bits)  
 - **Usable hosts per subnet** = 2^(number of host bits) - 2  
@@ -26,7 +26,7 @@ Each subnet now has a network address, first and last usable hosts, and broadcas
 
 ---
 
-## Handwritten Notes
+## <center> Handwritten Notes</center>
 
 I wanted to include my original ISC² CC exam prep notes. These images show how I manually calculated and wrote out the subnets.  
 
@@ -108,7 +108,7 @@ I wanted to include my original ISC² CC exam prep notes. These images show how 
 <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20IP%20Subnetting%20Fundamentals%20%E2%80%93%20v1.0.0.pdf" target="_blank">REPORT – IP Subnetting Fundamentals – v1.0.0</a>. 
 ---
 
-## Key Takeaways
+## <center>Key Takeaways</center>
 
 - Reviewing old notes can spark useful exercises and refresh critical skills.  
 - Subnetting isn’t just memorization; structured practice helps reinforce understanding.  
