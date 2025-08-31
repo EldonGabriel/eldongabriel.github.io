@@ -19,8 +19,10 @@ I realized this was a good chance to refresh my memory and practice subnetting i
 
 My report includes a complete table of subnet addresses, usable hosts, and broadcast addresses for the `192.168.1.0/24` network. The math follows standard formulas:
 
-- **Subnet increment** = 2<sup>(number of host bits)</sup>  
-- **Usable hosts per subnet** = 2<sup>(number of host bits)</sup> – 2  
+- **Subnet increment** = 2<sup>(n)</sup>  
+- **Usable hosts per subnet** = 2<sup>(n)</sup> – 2
+
+>**Note:** <sub>n</sub> = number of host bits
 
 Each subnet now has a network address, first and last usable hosts, and broadcast address—making it easy to reference when designing networks or completing exercises.
 
