@@ -31,6 +31,6 @@ Many people use Windows, making it a frequent target for hackers. Knowing how to
 - **Governance, Risk, Compliance (GRC):** Standard security baselines support compliance and improve risk management.  
 - **Cybersecurity Roles:** This knowledge is essential for SysAdmins, Security Engineers, and Auditors.
 
-## Next Steps
+## <center>Next Steps</center>
 
 I will apply these principles in upcoming labs and document my hands-on results in my portfolio. Proactive security measures are key to protecting both organizational and personal data.
