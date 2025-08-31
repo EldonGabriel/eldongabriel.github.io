@@ -7,7 +7,7 @@ excerpt: "Hands-on lab experience in securing sensitive folders and restricting 
 image: "/assets/images/fnlogo.png"
 ---
 
-## <center>Introduction</center
+## <center>Introduction</center>
 
 Today's lab focused on two main goals: locking down sensitive folders and restricting PowerShell. I practiced Windows security controls to prevent unauthorized access. This involved working with accounts, permissions, and group policies. The exercise demonstrated how least privilege and defense-in-depth operate in real Windows environments.
 
