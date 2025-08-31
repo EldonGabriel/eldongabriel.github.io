@@ -104,8 +104,6 @@ I wanted to include my original ISC² CC exam prep notes. These images show how 
   </tbody>
 </table>
 
-
-<a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20IP%20Subnetting%20Fundamentals%20%E2%80%93%20v1.0.0.pdf" target="_blank">REPORT – IP Subnetting Fundamentals – v1.0.0</a>. 
 ---
 
 ## <center>Key Takeaways</center>
@@ -113,3 +111,8 @@ I wanted to include my original ISC² CC exam prep notes. These images show how 
 - Reviewing old notes can spark useful exercises and refresh critical skills.  
 - Subnetting isn’t just memorization; structured practice helps reinforce understanding.  
 - Creating formal documentation from practice exercises builds knowledge and portfolio assets.
+
+<p align="center">
+  <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20IP%20Subnetting%20Fundamentals%20%E2%80%93%20v1.0.0.pdf" target="_blank">
+    Full Report: REPORT – IP Subnetting Fundamentals – v1.0.0
+  </a>
