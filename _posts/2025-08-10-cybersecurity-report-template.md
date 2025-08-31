@@ -12,7 +12,7 @@ In this post, I’ll walk you through how I created a professional document temp
 
 The goal was to develop a clear, structured, and reusable template suitable for different types of cybersecurity reports—whether it’s malware analysis, incident response, or vulnerability assessments.  
 
-<center><h2>Cybersecurity Professionals Judge Your Reports by the Cover</h2></center>
+<center><h2>First Impressions Matter</h2></center>
 
 I had just completed my **Google Cybersecurity Professional Certification**, where I wrote several reports using Google’s own templates. That experience reinforced an important truth: **in cybersecurity, your reports are judged long before someone reads the details.**
 
@@ -57,6 +57,17 @@ A strong report starts with a **title and naming structure** that makes sense at
 </table>
 </div>
 
+<center><h2>Why This Matters in Cybersecurity?</h2></center>
+<ol>
+  <li>Improves organization and retrieval speed.</li>
+  <li>Supports collaboration by clearly indicating document status.</li>
+  <li>Strengthens security posture by reducing the risk of working from outdated files.</li>
+  <li>Helps with compliance, especially in regulated environments.</li>
+</ol>
+<br>
+
+<center><h2>Professional Template Essentials</h2></center>
+
 <div style="text-align:center; margin: 15px 0;">
   <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/images/cybersecurity-report-template-diagram.png" target="_blank">
     <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/images/cybersecurity-report-template-diagram.png" 
@@ -67,18 +78,6 @@ A strong report starts with a **title and naming structure** that makes sense at
     Figure 1: Cybersecurity Report Template Diagram. 2025, @eldongbrl
   </div>
 </div>
-
-<center><h2>Why This Matters in Cybersecurity?</h2></center>
-<ol>
-  <li>Improves organization and retrieval speed.</li>
-  <li>Supports collaboration by clearly indicating document status.</li>
-  <li>Strengthens security posture by reducing the risk of working from outdated files.</li>
-  <li>Helps with compliance, especially in regulated environments.</li>
-</ol>
-<br>
-
-<center><h2>What Makes a Professional Cybersecurity Document Template?  
-</h2></center>
 
 Through my research and the MCSI exercise, I learned that a professional report must be structured for both clarity and traceability. The **core components** include:  
 
