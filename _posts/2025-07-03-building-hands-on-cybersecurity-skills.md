@@ -73,7 +73,7 @@ I’ve attached my official **Confirmation of Enrolment** from Mossé Cyber Secu
           height="600px" 
           style="border:1px solid #ccc;">
   </iframe>
-  <figcaption>Figure 4: MSAF - Confirmation of Enrolment. 2025. www.mosse-institute.com</figcaption>
+  <figcaption style="text-align:center;">Figure 4: MSAF - Confirmation of Enrolment. 2025. www.mosse-institute.com</figcaption>
 </figure>
 
 <center><h2>What MSAF Will Help Me Master</h2></center>
