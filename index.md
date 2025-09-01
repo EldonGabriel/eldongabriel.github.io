@@ -118,7 +118,7 @@ I bring to every challenge technical rigor, strategic insight, and clear communi
   <!-- Slide 1 -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 10</div>
-    <img src="{{ '/assets/certifications/isc2-certified-in-cybersecurity-certification.pdf' | relative_url }}">
+    <img src="{{ '/assets/certifications/ISC2-CC.jpg' | relative_url }}">
     <div class="text">Figure 1: ISC² Certified in Cybersecurity (CC). 2025. www.mosse-institute.com</div>
   </div>
 
@@ -153,7 +153,7 @@ I bring to every challenge technical rigor, strategic insight, and clear communi
   <!-- Slide 6 -->
   <div class="mySlides fade">
     <div class="numbertext">6 / 10</div>
-    <img src="{{ '/assets/certifications/Cybersecurity-Risk-Management-Framework .pdf' | relative_url }}">
+    <img src="{{ '/assets/certifications/Cybersecurity-RMF.jpg' | relative_url }}">
     <div class="text">Figure 6: Cybersecurity Risk Management Framework. 2025. www.mosse-institute.com</div>
   </div>
 
