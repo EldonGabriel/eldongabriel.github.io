@@ -33,173 +33,94 @@ Each subnet now has a network address, first and last usable hosts, and broadcas
 
 I wanted to include my original ISC² CC exam prep notes. These images show how I manually calculated and wrote out the subnets.  
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center;">Screenshot</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center;">
-        <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/subnetting-and-cidr-notation-1..JPG" alt="Subnetting Notes" width="200"><br>
-        <strong>Figure 1</strong>
-      </td>
-      <td>Subnetting and CIDR Notation Notes screenshot. 2025.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">
-        <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/private-ip-address-ranges-binary-conversion_2.JPG" alt="Private IP Notes" width="200"><br>
-        <strong>Figure 2</strong>
-      </td>
-      <td>Private IP Address Ranges Notes screenshot. 2025.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">
-        <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/subnetting-breakdown-reference-table-3.JPG" alt="Subnet Table Notes" width="200"><br>
-        <strong>Figure 3</strong>
-      </td>
-      <td>Subnetting Breakdown Reference Table Notes screenshot. 2025.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">
-        <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/25-26-subnet-calculations-4.JPG" alt="/25 and /26 Notes" width="200"><br>
-        <strong>Figure 4</strong>
-      </td>
-      <td>/25 and /26 Subnet Calculations Notes screenshot. 2025.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">
-        <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/26-subnet-address-ranges-5.jpg" alt="/26 Notes" width="200"><br>
-        <strong>Figure 5</strong>
-      </td>
-      <td>/26 Subnet Address Ranges Notes screenshot. 2025.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">
-        <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/27-subnet-address-ranges-6.JPG" alt="/27 Notes" width="200"><br>
-        <strong>Figure 6</strong>
-      </td>
-      <td>/27 Subnet Address Ranges Notes screenshot. 2025.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">
-        <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/28-subnet-address-ranges-7.JPG" alt="/28 Notes" width="200"><br>
-        <strong>Figure 7</strong>
-      </td>
-      <td>/28 Subnet Address Ranges Notes screenshot. 2025.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">
-        <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/29-subnet-address-ranges-8.JPG" alt="/29 Notes" width="200"><br>
-        <strong>Figure 8</strong>
-      </td>
-      <td>/29 Subnet Address Ranges Notes screenshot. 2025.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">
-        <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/key-subnetting-takeaways-9.jpg" alt="Key Takeaways Notes" width="200"><br>
-        <strong>Figure 9</strong>
-      </td>
-      <td>Key Subnetting Takeaways Notes screenshot. 2025.</td>
-    </tr>
-  </tbody>
-</table>
-
 <div class="slideshow-container">
 
   <!-- Slide 1 -->
   <div class="mySlides3 fade">
     <div class="numbertext">1 / 9</div>
     <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/subnetting-and-cidr-notation-1..JPG" 
-         style="width:100%; height:400px; object-fit:contain;">
-    <div class="text">Figure 1: Subnetting and CIDR Notation Notes screenshot. 2025.</div>
+         style="width:100%; height:500px; object-fit:contain;">
+    <div class="text" style="text-align:center;">Figure 1: Subnetting and CIDR Notation Notes screenshot. 2025.</div>
   </div>
 
   <!-- Slide 2 -->
   <div class="mySlides3 fade">
     <div class="numbertext">2 / 9</div>
     <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/private-ip-address-ranges-binary-conversion_2.JPG" 
-         style="width:100%; height:400px; object-fit:contain;">
-    <div class="text">Figure 2: Private IP Address Ranges Notes screenshot. 2025.</div>
+         style="width:100%; height:500px; object-fit:contain;">
+    <div class="text" style="text-align:center;">Figure 2: Private IP Address Ranges Notes screenshot. 2025.</div>
   </div>
 
   <!-- Slide 3 -->
   <div class="mySlides3 fade">
     <div class="numbertext">3 / 9</div>
     <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/subnetting-breakdown-reference-table-3.JPG" 
-         style="width:100%; height:400px; object-fit:contain;">
-    <div class="text">Figure 3: Subnetting Breakdown Reference Table Notes screenshot. 2025.</div>
+         style="width:100%; height:500px; object-fit:contain;">
+    <div class="text" style="text-align:center;">Figure 3: Subnetting Breakdown Reference Table Notes screenshot. 2025.</div>
   </div>
 
   <!-- Slide 4 -->
   <div class="mySlides3 fade">
     <div class="numbertext">4 / 9</div>
     <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/25-26-subnet-calculations-4.JPG" 
-         style="width:100%; height:400px; object-fit:contain;">
-    <div class="text">Figure 4: /25 and /26 Subnet Calculations Notes screenshot. 2025.</div>
+         style="width:100%; height:500px; object-fit:contain;">
+    <div class="text" style="text-align:center;">Figure 4: /25 and /26 Subnet Calculations Notes screenshot. 2025.</div>
   </div>
 
   <!-- Slide 5 -->
   <div class="mySlides3 fade">
     <div class="numbertext">5 / 9</div>
     <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/26-subnet-address-ranges-5.jpg" 
-         style="width:100%; height:400px; object-fit:contain;">
-    <div class="text">Figure 5: /26 Subnet Address Ranges Notes screenshot. 2025.</div>
+         style="width:100%; height:500px; object-fit:contain;">
+    <div class="text" style="text-align:center;">Figure 5: /26 Subnet Address Ranges Notes screenshot. 2025.</div>
   </div>
 
   <!-- Slide 6 -->
   <div class="mySlides3 fade">
     <div class="numbertext">6 / 9</div>
     <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/27-subnet-address-ranges-6.JPG" 
-         style="width:100%; height:400px; object-fit:contain;">
-    <div class="text">Figure 6: /27 Subnet Address Ranges Notes screenshot. 2025.</div>
+         style="width:100%; height:500px; object-fit:contain;">
+    <div class="text" style="text-align:center;">Figure 6: /27 Subnet Address Ranges Notes screenshot. 2025.</div>
   </div>
 
   <!-- Slide 7 -->
   <div class="mySlides3 fade">
     <div class="numbertext">7 / 9</div>
     <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/28-subnet-address-ranges-7.JPG" 
-         style="width:100%; height:400px; object-fit:contain;">
-    <div class="text">Figure 7: /28 Subnet Address Ranges Notes screenshot. 2025.</div>
+         style="width:100%; height:500px; object-fit:contain;">
+    <div class="text" style="text-align:center;">Figure 7: /28 Subnet Address Ranges Notes screenshot. 2025.</div>
   </div>
 
   <!-- Slide 8 -->
   <div class="mySlides3 fade">
     <div class="numbertext">8 / 9</div>
     <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/29-subnet-address-ranges-8.JPG" 
-         style="width:100%; height:400px; object-fit:contain;">
-    <div class="text">Figure 8: /29 Subnet Address Ranges Notes screenshot. 2025.</div>
+         style="width:100%; height:500px; object-fit:contain;">
+    <div class="text" style="text-align:center;">Figure 8: /29 Subnet Address Ranges Notes screenshot. 2025.</div>
   </div>
 
   <!-- Slide 9 -->
   <div class="mySlides3 fade">
     <div class="numbertext">9 / 9</div>
     <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/key-subnetting-takeaways-9.jpg" 
-         style="width:100%; height:400px; object-fit:contain;">
-    <div class="text">Figure 9: Key Subnetting Takeaways Notes screenshot. 2025.</div>
+         style="width:100%; height:500px; object-fit:contain;">
+    <div class="text" style="text-align:center;">Figure 9: Key Subnetting Takeaways Notes screenshot. 2025.</div>
   </div>
 
 </div>
 
 <br>
-
-<div style="text-align:center">
+<div style="text-align:center;">
   <span class="dot3"></span> 
   <span class="dot3"></span> 
-  <span class="dot3"></span>
-  <span class="dot3"></span>
-  <span class="dot3"></span>
-  <span class="dot3"></span>
-  <span class="dot3"></span>
-  <span class="dot3"></span>
-  <span class="dot3"></span>
+  <span class="dot3"></span> 
+  <span class="dot3"></span> 
+  <span class="dot3"></span> 
+  <span class="dot3"></span> 
+  <span class="dot3"></span> 
+  <span class="dot3"></span> 
+  <span class="dot3"></span> 
 </div>
-
-<style>
-.mySlides3 {display: none;}
-</style>
 
 <script>
 let slideIndex3 = 0;
@@ -219,9 +140,10 @@ function showSlides3() {
   }
   slides[slideIndex3-1].style.display = "block";  
   dots[slideIndex3-1].className += " active";
-  setTimeout(showSlides3, 3000); // Change every 3 seconds
+  setTimeout(showSlides3, 2000); // Change image every 2 seconds
 }
 </script>
+
 
 ## <center>Key Takeaways</center>
 
