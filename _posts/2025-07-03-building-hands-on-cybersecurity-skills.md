@@ -40,6 +40,125 @@ That’s exactly what I found when I enrolled in the **MICS – Introduction to 
   </figcaption>
 </figure>
 
+
+<div class="slideshow-container">
+
+  <!-- Slide 1 -->
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 3</div>
+    <img src="{{ '/assets/certifications/level1.png' | relative_url }}" style="width:100%">
+    <div class="text">Figure 1: Cybersecurity Learner - Level 1. 2025. www.mosse-institute.com</div>
+  </div>
+
+  <!-- Slide 2 -->
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 3</div>
+    <img src="{{ '/assets/certifications/level2.png' | relative_url }}" style="width:100%">
+    <div class="text">Figure 2: Cybersecurity Learner - Level 2. 2025. www.mosse-institute.com</div>
+  </div>
+
+  <!-- Slide 3 -->
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 3</div>
+    <img src="{{ '/assets/certifications/level3.png' | relative_url }}" style="width:100%">
+    <div class="text">Figure 3: Cybersecurity Learner - Level 3. 2025. www.mosse-institute.com</div>
+  </div>
+
+</div>
+
+<br>
+
+<!-- Dots navigation -->
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+<style>
+* {box-sizing: border-box;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+  border: 1px solid #ccc;
+}
+
+/* Caption text */
+.text {
+  color: #000;
+  background: rgba(255, 255, 255, 0.8);
+  font-size: 14px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #000;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 12px;
+  width: 12px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+</style>
+
+<script>
+let slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 3000); // Change image every 3 seconds
+}
+</script>
+
+
 These certificates are more than titles—they’re earned through real labs, real tools, and real problem-solving. The MICS course helped me build foundational skills across multiple domains of cybersecurity and gave me the confidence to move into more advanced operations and system-level thinking.
 
 <center><h2>What I Gained from MICS</h2></center>
