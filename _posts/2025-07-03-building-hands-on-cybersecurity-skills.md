@@ -18,19 +18,19 @@ That’s exactly what I found when I enrolled in the **MICS – Introduction to 
     <tr>
       <td style="text-align:center;">
         <img src="{{ '/assets/certifications/level1.png' | relative_url }}" alt="MICS Level 1" style="width:300px; height:200px;"><br>
-        Figure 1: Cybersecurity Learner - Level 1  2025. www.mosse-institute.com
+        Figure 1: Cybersecurity Learner - Level 1.  2025. www.mosse-institute.com
       </td>
     </tr>
     <tr>
       <td style="text-align:center;">
         <img src="{{ '/assets/certifications/level2.png' | relative_url }}" alt="MICS Level 2" style="width:300px; height:200px;"><br>
-        Figure 2: Cybersecurity Learner - Level 2  2025. www.mosse-institute.com
+        Figure 2: Cybersecurity Learner - Level 2.  2025. www.mosse-institute.com
       </td>
     </tr>
     <tr>
       <td style="text-align:center;">
         <img src="{{ '/assets/certifications/level3.png' | relative_url }}" alt="MICS Level 3" style="width:300px; height:200px;"><br>
-        Figure 3: Cybersecurity Learner - Level 3  2025. www.mosse-institute.com
+        Figure 3: Cybersecurity Learner - Level 3.  2025. www.mosse-institute.com
       </td>
     </tr>
   </tbody>
@@ -40,7 +40,7 @@ These certificates are more than titles—they’re earned through real labs, re
 
 <center><h2>What I Gained from MICS</h2></center>
 
-The MICS experience was a **realistic cyber training**. There were no pre-written answers—only, just open source curriculum learning through trial-and-error. This approach helped me develop real-world practical skills in key areas like:
+The MICS experience was a one-of-a-kind **realistic cyber training** program. There were no pre-written answers—only—just open source curriculum and hands-on trial-and-error learning. This approach helped me develop real-world practical skills in key areas like:
 
 ### OSINT & Reconnaissance
 - Created covert accounts and mindmaps from social media data  
@@ -67,8 +67,14 @@ After earning my Level 3 certification and completing the MICS course, I knew it
 
 I’ve attached my official **Confirmation of Enrolment** from Mossé Cyber Security Institute, verifying that I’m actively enrolled and progressing through the course.
 
-<center><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-confirmation-of-enrolment.pdf" target="_blank">Download Confirmation of Enrolment</a></center>
-<br>
+<figure>
+  <iframe src="{{ '/assets/certifications/msaf-confirmation-of-enrolment.pdf' | relative_url }}" 
+          width="100%" 
+          height="600px" 
+          style="border:1px solid #ccc;">
+  </iframe>
+  <figcaption>Figure 4: MSAF - Confirmation of Enrolment. 2025. www.mosse-institute.com</figcaption>
+</figure>
 
 <center><h2>What MSAF Will Help Me Master</h2></center>
 
