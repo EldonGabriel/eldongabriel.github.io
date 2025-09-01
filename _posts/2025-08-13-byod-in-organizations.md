@@ -4,7 +4,9 @@ date: 2025-08-13
 author: Eldon Gabriel
 tags: [cybersecurity, BYOD, enterprise security, MDM, mobile devices, portfolio]
 excerpt: "A hands-on exploration of BYOD security, challenges, and practical strategies for organizations, combining MCSI labs with University of Colorado coursework."
-image: "/assets/images/fnlogo.png"
+image:
+  path: "/assets/images/byod.png"
+  thumbnail: "/assets/images/byod.png"
 layout: post
 ---
 
