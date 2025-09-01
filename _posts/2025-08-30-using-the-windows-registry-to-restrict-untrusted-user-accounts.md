@@ -4,7 +4,9 @@ date: 2025-08-30
 author: Eldon Gabriel
 tags: [cybersecurity, windows, registry, endpoint-security]
 excerpt: "Hands-on exercise in securing Windows endpoints by restricting untrusted user accounts via the DisallowRun registry key."
-image: "/assets/images/fnlogo.png"
+image:
+  path: "/assets/images/registry.png"
+  thumbnail: "/assets/images/registry.png"
 ---
 
 # Using the Windows Registry to Restrict Untrusted User Accounts
