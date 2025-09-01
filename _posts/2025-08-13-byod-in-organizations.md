@@ -48,7 +48,9 @@ This dual-path approach turns every concept into something I can immediately put
   </tbody>
 </table>
 
-That’s exactly how my BYOD report, *“BYOD in Organizations: Security, Challenges, and Strategies,”* came to life. What started as a graded assignment evolved into a professional, governance-ready guide. In it, I examine:
+That’s exactly how my BYOD report, <p> <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20BYOD%20in%20Organizations_%20Security%2C%20Challenges%2C%20and%20Strategies%20%E2%80%93%20v1.0.1.pdf" target="_blank">
+    REPORT – BYOD in Organizations_ Security, Challenges, and Strategies – v1.0.1.pdf
+</p> came to life. What started as a graded assignment evolved into a professional, governance-ready guide. In it, I examine:
 
 - The evolution of BYOD and how organizations respond  
 - Security risks introduced by personal devices, malware, and lost hardware  
