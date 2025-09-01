@@ -4,7 +4,9 @@ date: 2025-08-24
 author: Eldon Gabriel
 tags: [cybersecurity, portfolio, SMB, firewall, network-security]
 excerpt: "A hands-on guide to turning on Windows Firewall, blocking SMB traffic, and understanding protocol security risks."
-image: "/assets/images/fnlogo.png"
+image:
+  path: "/assets/images/smb.png"
+  thumbnail: "/assets/images/smb.png"
 ---
 
 <p>As a Cybersecurity Technician, I focus on building practical skills that can be directly applied to securing systems. I configured Windows Firewall to create a custom rule blocking Server Message Block (SMB) access, demonstrating how host-based controls can reduce exposure to network-level attacks. This hands-on work ties into my report, <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20SMB%20Protocol_%20Function%20and%20Security%20Risks%20%E2%80%93%20v1.0.0.pdf" target="_blank" rel="noopener noreferrer">"<strong>REPORT – SMB Protocol: Function and Security Risks – v1.0.0</strong>"</a> which examines SMB’s role in file sharing, its common use cases, and the security challenges it introduces in modern environments.</p>
