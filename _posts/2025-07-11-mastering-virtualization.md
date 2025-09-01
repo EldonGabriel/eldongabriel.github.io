@@ -210,27 +210,7 @@ I’ve successfully finished the last 2 labs since my last update, completing th
 
 - **Create a Snapshot of a Virtual Machine:** Mastered rollback and recovery methods to guarantee safe testing environments.  
 - **Install and Configure VMware ESXi with vSphere:** Deployed enterprise-grade hypervisors, managing Windows and Linux VMs for advanced virtualization.
-<table align="center" border="1" cellspacing="0" cellpadding="5">
-  <thead>
-    <tr style="background-color: #73b4d5; text-align: center;">
-      <th style="padding: 10px; border: 1px solid #ddd;">Certification Name</th>
-      <th style="padding: 10px; border: 1px solid #ddd;">Issuing Organization</th>
-      <th style="padding: 10px; border: 1px solid #ddd;">Certification</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Create a Snapshot of a Virtual Machine</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-virtualization-fundamentals/Create%20a%20Snapshot%20of%20a%20Virtual%20Machine%20to%20recover%20the%20OS%20to%20a%20safe%20state.png" target="_blank">View Certification</a></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Install and Configure VMware ESXi with vSphere</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-virtualization-fundamentals/Install%20and%20configure%20VM%20Ware%20ESXi%20with%20Vsphere%20in%20Windows%20and%20Linux%20VMs.png" target="_blank">View Certification</a></td>
-    </tr>
-  </tbody>
-</table>
+<br>
 
 <div class="slideshow-container">
 
