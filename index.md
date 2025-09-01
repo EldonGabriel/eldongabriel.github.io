@@ -199,7 +199,7 @@ I bring to every challenge technical rigor, strategic insight, and clear communi
   </tbody>
 </table>
 
-> ⭐**Note:** _Mossé Cyber Security Institute (MCSI)_ certifications are mapped to NIST NICE, US Military MOS, and ASD Cyber Skills Framework.
+⭐**Note:** _Mossé Cyber Security Institute (MCSI)_ certifications are mapped to NIST NICE, US Military MOS, and ASD Cyber Skills Framework.
 
 ***
 
