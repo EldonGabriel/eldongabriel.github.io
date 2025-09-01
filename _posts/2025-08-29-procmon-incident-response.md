@@ -45,3 +45,9 @@ Procmon allows the captured information to be saved to a file, such as CSV forma
 
 ## Wrap-Up
 In summary, Procmon gives a clear and practical behind-the-scenes view of what’s happening with Windows processes. I practiced capturing, filtering, and saving system events. This helped me spot strange events. I gained hands-on skills. These skills help find problems, look into them, and follow rules.
+
+<p align="center">
+  <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Monitoring%20Windows%20Processes%20with%20Procmon%20%E2%80%93%20v1.0.1.pdf" target="_blank">
+    Full Guide: GUIDE – Monitoring Windows Processes with Procmon – v1.0.0
+  </a>
+</p>
