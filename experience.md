@@ -83,13 +83,14 @@ Proven ability to document actionable findings, produce structured reports, and 
 - **Analysis:** Built mindmaps and actionable intelligence reports from collected data.
 
 ### Cybersecurity Reports  
-- **Access Control Incident** – Investigated and resolved access control incident – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Access%20Control%20Incident%20-%20v1.2.0.pdf)  
-- **BYOD in Organizations** – Analyzed security risks of BYOD policies – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20BYOD%20in%20Organizations_%20Security%2C%20Challenges%2C%20and%20Strategies%20%E2%80%93%20v1.0.0.pdf)  
-- **Bank Risk Register Analysis** – Identified and ranked simulated bank threats – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Bank%20Risk%20Register%20Analysis%20%E2%80%93%20v1.0.2.pdf)  
-- **Botium Security Audit** – Conducted security audit on application – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Botium%20Security%20Audit%E2%80%93%20v1.1.0.pdf)  
-- **Payroll Access Investigation** – Traced breach to contractor account – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Investigation%20of%20Unauthorized%20Payroll%20Access%20Incident%20-%20v1.2.0.pdf)    
-- **Post-Breach Security Recommendations** – Recommended security measures after breach – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Post-Breach%20Security%20Recommendations%20%E2%80%93%20v1.0.1.pdf)  
-- **SQL Query Analysis Incident** – Analyzed database queries for suspicious activity – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20SQL%20Query%20Analysis%20Incident%20%E2%80%93%20v1.0.2.pdf)  
+- **Access Control Incident** – Investigated and resolved access control incident – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Access%20Control%20Incident%20-%20v1.2.0.pdf" target="_blank">View Report</a>  
+- **BYOD in Organizations** – Analyzed security risks of BYOD policies – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20BYOD%20in%20Organizations_%20Security%2C%20Challenges%2C%20and%20Strategies%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Report</a>  
+- **Bank Risk Register Analysis** – Identified and ranked simulated bank threats – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Bank%20Risk%20Register%20Analysis%20%E2%80%93%20v1.0.2.pdf" target="_blank">View Report</a>  
+- **Botium Security Audit** – Conducted security audit on application – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Botium%20Security%20Audit%E2%80%93%20v1.1.0.pdf" target="_blank">View Report</a>  
+- **Payroll Access Investigation** – Traced breach to contractor account – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Investigation%20of%20Unauthorized%20Payroll%20Access%20Incident%20-%20v1.2.0.pdf" target="_blank">View Report</a>  
+- **Post-Breach Security Recommendations** – Recommended security measures after breach – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Post-Breach%20Security%20Recommendations%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Report</a> 
+- **SQL Query Analysis Incident** – Analyzed database queries for suspicious activity – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20SQL%20Query%20Analysis%20Incident%20%E2%80%93%20v1.0.2.pdf" target="_blank">View Report</a>  
+
 
 **Windows Security Guides**
 - **SMB Protocol** – SMB functions, uses, and security – [View Guide](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20SMB%20Protocol_%20Function%20and%20Security%20Risks%20%E2%80%93%20v1.0.0.pdf)
@@ -106,8 +107,8 @@ Proven ability to document actionable findings, produce structured reports, and 
 - **Server Security Evaluation** – Assessed exposed database server and recommended fixes – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Server%20Security%20Evaluation%20%E2%80%93%20v1.2.0.pdf)  
 
 **Network Fundamentals**
-- **IP Subnetting Fundamentals** – IP addressing and subnetting – [View Guide](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20IP%20Subnetting%20Fundamentals%20%E2%80%93%20v1.0.0.pdf)
-- **Kerberos Authentication Protocol** – Documented TGT & ST lifecycles – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.0.pdf)
+- **IP Subnetting Fundamentals** – IP addressing and subnetting – [View Guide](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20IP%20Subnetting%20Fundamentals%20%E2%80%93%20v1.0.0.pdf)
+- **Kerberos Authentication Protocol** – Documented TGT & ST lifecycles – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.1.pdf)
 - **Network Attack Analysis** – Analyzed traffic patterns for malicious activity – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Network%20Attack%20Analysis%20%E2%80%93%20v1.0.1.pdf)
 - **DNS Analysis with dig** – Conducted DNS lookups and troubleshooting – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20DNS%20Analysis%20with%20dig%20%E2%80%93%20v1.0.0.pdf)  
 - **DNS Outage & Port 53 Failure** – Diagnosed simulated outage – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20DNS%20Outage%20and%20Port%2053%20Failure%20Analysis%20%E2%80%93%20v1.0.1.pdf)  
