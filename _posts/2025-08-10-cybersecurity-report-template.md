@@ -4,7 +4,9 @@ date: 2025-08-10
 author: Eldon Gabriel
 tags: [cybersecurity, reporting, documentation, MCSI, professional-template]
 excerpt: "Building a reusable cybersecurity report template was more than formatting—it was about credibility, clarity, and professionalism."
-image: "/assets/images/fnlogo.png"
+image:
+  path: "/assets/images/template.png"
+  thumbnail: "/assets/images/template.png"
 layout: post
 ---
 
@@ -122,9 +124,8 @@ When I built this template, my goal was to create something I could use repeated
 <br>
 
 <p align="center">
-  <a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?tab=t.0#heading=h.oxc6p4pln7ek" target="_blank">
-    Full Report: GUIDE – RDP Troubleshooting – AWS VM Access – v1.0.0
-  </a>
+  <a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?tab=t.0" target="_blank">
+    Free Template: TEMPLATE - [KEYWORD] - [Title] -[Version] - v1.0.0
 </p>
 
 <center><h2>Final Thought</h2></center>
