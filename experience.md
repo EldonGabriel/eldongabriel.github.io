@@ -91,43 +91,42 @@ Proven ability to document actionable findings, produce structured reports, and 
 - **Post-Breach Security Recommendations** – Recommended security measures after breach – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Post-Breach%20Security%20Recommendations%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Report</a> 
 - **SQL Query Analysis Incident** – Analyzed database queries for suspicious activity – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20SQL%20Query%20Analysis%20Incident%20%E2%80%93%20v1.0.2.pdf" target="_blank">View Report</a>  
 
-
-**Windows Security Guides**
-- **SMB Protocol** – SMB functions, uses, and security – [View Guide](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20SMB%20Protocol_%20Function%20and%20Security%20Risks%20%E2%80%93%20v1.0.0.pdf)
-- **Access Permissions and Rights** – Folder access management – [View Guide](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Using%20Access%20Permissions%20and%20Rights%20to%20Secure%20a%20Folder%20%E2%80%93%20v1.0.0.pdf)
-- **Monitoring Windows Processes with Procmon** – Process monitoring – [View Guide](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Monitoring%20Windows%20Processes%20with%20Procmon%20%E2%80%93%20v1.0.1.pdf)
-- **Endpoint Registry Controls** – Blocking untrusted user accounts – [View Guide](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Endpoint%20Security%20with%20the%20Windows%20Registry%20%E2%80%93%20v1.0.0.pdf)
-- **RDP Troubleshooting** – AWS VM Access – [View Guide](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Endpoint%20Security%20with%20the%20Windows%20Registry%20%E2%80%93%20v1.0.0.pdf)
-- **File Ownership Recovery** – Recovering permissions and ownership for secured files – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20File%20Ownership%20Recovery%20%E2%80%93%20v1.0.0.pdf)
-- **Password Managers** – Secure configuration and management of credential storage – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%20%E2%80%93%20Password%20Managers%20%E2%80%93%20v1.0.0.pdf)
+**Windows Security Guides**  
+- **SMB Protocol** – SMB functions, uses, and security – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20SMB%20Protocol_%20Function%20and%20Security%20Risks%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Guide</a>  
+- **Access Permissions and Rights** – Folder access management – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Using%20Access%20Permissions%20and%20Rights%20to%20Secure%20a%20Folder%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Guide</a>  
+- **Monitoring Windows Processes with Procmon** – Process monitoring – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Monitoring%20Windows%20Processes%20with%20Procmon%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Guide</a>  
+- **Endpoint Registry Controls** – Blocking untrusted user accounts – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Endpoint%20Security%20with%20the%20Windows%20Registry%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Guide</a>  
+- **RDP Troubleshooting** – AWS VM Access – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Endpoint%20Security%20with%20the%20Windows%20Registry%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Guide</a>  
+- **File Ownership Recovery** – Recovering permissions and ownership for secured files – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20File%20Ownership%20Recovery%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Report</a>  
+- **Password Managers** – Secure configuration and management of credential storage – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%20%E2%80%93%20Password%20Managers%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Report</a>  
 
 **System Development & Hardening**  
-- **Linux File Permissions Management** – Secured Linux systems via permission enforcement – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Linux%20File%20Permissions%20Management%20-%20v1.0.2.pdf)  
-- **Python Algorithm for IP Access Control** – Automated IP access restrictions – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Python%20Algorithm%20for%20Managing%20IP%20Access%20%E2%80%93%20v1.0.1.pdf)  
-- **Server Security Evaluation** – Assessed exposed database server and recommended fixes – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Server%20Security%20Evaluation%20%E2%80%93%20v1.2.0.pdf)  
+- **Linux File Permissions Management** – Secured Linux systems via permission enforcement – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Linux%20File%20Permissions%20Management%20-%20v1.0.2.pdf" target="_blank">View Report</a>  
+- **Python Algorithm for IP Access Control** – Automated IP access restrictions – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Python%20Algorithm%20for%20Managing%20IP%20Access%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Report</a>  
+- **Server Security Evaluation** – Assessed exposed database server and recommended fixes – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Server%20Security%20Evaluation%20%E2%80%93%20v1.2.0.pdf" target="_blank">View Report</a>  
 
-**Network Fundamentals**
-- **IP Subnetting Fundamentals** – IP addressing and subnetting – [View Guide](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20IP%20Subnetting%20Fundamentals%20%E2%80%93%20v1.0.0.pdf)
-- **Kerberos Authentication Protocol** – Documented TGT & ST lifecycles – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.1.pdf)
-- **Network Attack Analysis** – Analyzed traffic patterns for malicious activity – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Network%20Attack%20Analysis%20%E2%80%93%20v1.0.1.pdf)
-- **DNS Analysis with dig** – Conducted DNS lookups and troubleshooting – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20DNS%20Analysis%20with%20dig%20%E2%80%93%20v1.0.0.pdf)  
-- **DNS Outage & Port 53 Failure** – Diagnosed simulated outage – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20DNS%20Outage%20and%20Port%2053%20Failure%20Analysis%20%E2%80%93%20v1.0.1.pdf)  
-- **Enterprise IPsec VPN Troubleshooting** - A guide to troubleshooting an enterprise IPsec VPN - [View Guide](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Enterprise%20IPsec%20VPN%20Troubleshooting%20%E2%80%93%20v1.0.0.pdf)
-- **Windows Setup for Secure Networking** – A video demonstration – [Watch Video](https://youtu.be/m4MngVs_bmM)
-- **Network Adapter Installation & Testing** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=5lywwd1MQRo) 
-- **Windows Firewall Configuration** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=U_4TeohPNQ4)
-- **Domain Join & GPO Setup** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=JE3jutqyI4Q)
+**Network Fundamentals**  
+- **IP Subnetting Fundamentals** – IP addressing and subnetting – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20IP%20Subnetting%20Fundamentals%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Guide</a>  
+- **Kerberos Authentication Protocol** – Documented TGT & ST lifecycles – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Report</a>  
+- **Network Attack Analysis** – Analyzed traffic patterns for malicious activity – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Network%20Attack%20Analysis%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Report</a>  
+- **DNS Analysis with dig** – Conducted DNS lookups and troubleshooting – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20DNS%20Analysis%20with%20dig%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Report</a>  
+- **DNS Outage & Port 53 Failure** – Diagnosed simulated outage – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20DNS%20Outage%20and%20Port%2053%20Failure%20Analysis%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Report</a>  
+- **Enterprise IPsec VPN Troubleshooting** – A guide to troubleshooting an enterprise IPsec VPN – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Enterprise%20IPsec%20VPN%20Troubleshooting%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Guide</a>  
+- **Windows Setup for Secure Networking** – A video demonstration – <a href="https://youtu.be/m4MngVs_bmM" target="_blank">Watch Video</a>  
+- **Network Adapter Installation & Testing** – A video demonstration – <a href="https://www.youtube.com/watch?v=5lywwd1MQRo" target="_blank">Watch Video</a>  
+- **Windows Firewall Configuration** – A video demonstration – <a href="https://www.youtube.com/watch?v=U_4TeohPNQ4" target="_blank">Watch Video</a>  
+- **Domain Join & GPO Setup** – A video demonstration – <a href="https://www.youtube.com/watch?v=JE3jutqyI4Q" target="_blank">Watch Video</a>  
 
 ### Technical Guides  
 **SQL for Cybersecurity**  
-- **Investigating Database Activity** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=TUqYto8EDJ4)  
-- **Investigate Security Incidents with SQL** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=bhTHXhE6kTk)  
-- **Using AND, OR, NOT** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=5qCjwenE-Z0)  
-- **SQL Joins for Security Investigation** – A video demonstration – [Watch Video](https://www.youtube.com/watch?v=ynxJ1go-Cc8)  
+- **Investigating Database Activity** – A video demonstration – <a href="https://www.youtube.com/watch?v=TUqYto8EDJ4" target="_blank">Watch Video</a>  
+- **Investigate Security Incidents with SQL** – A video demonstration – <a href="https://www.youtube.com/watch?v=bhTHXhE6kTk" target="_blank">Watch Video</a>  
+- **Using AND, OR, NOT** – A video demonstration – <a href="https://www.youtube.com/watch?v=5qCjwenE-Z0" target="_blank">Watch Video</a>  
+- **SQL Joins for Security Investigation** – A video demonstration – <a href="https://www.youtube.com/watch?v=ynxJ1go-Cc8" target="_blank">Watch Video</a>  
 
 ### Cybersecurity Templates  
-- **Professional Cybersecurity Report Template Guide** – [View Template](https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?usp=sharing)  
-- **BYOD Policy & Agreement Template** – [View Template](https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing)  
+- **Professional Cybersecurity Report Template Guide** – <a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?usp=sharing" target="_blank">View Template</a>  
+- **BYOD Policy & Agreement Template** – <a href="https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing" target="_blank">View Template</a>  
 
 ---
 
