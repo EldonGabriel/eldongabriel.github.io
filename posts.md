@@ -5,5 +5,5 @@ permalink: /posts/
 show_excerpts: true
 entries_layout: list
 image:
-  path: /assets/images/banner.png
+  path: /assets/images/fnlogo.png
 ---
