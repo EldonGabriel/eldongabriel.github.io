@@ -13,4 +13,7 @@ image: "/assets/images/fnlogo.png"
 
 <p>Understanding how ownership works is critical for <strong>system security and administration</strong>. Proper access control ensures sensitive data is protected, while knowing how to correctly recover ownership helps maintain operational continuity.</p>
 
-<p>Full Report: <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20File%20Ownership%20Recovery%20%E2%80%93%20v1.0.0.pdf">REPORT – File Ownership Recovery – v1.0.0</a></p>
+<p align="center">
+  <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20File%20Ownership%20Recovery%20%E2%80%93%20v1.0.0.pdf" target="_blank">
+    Full Report: REPORT – File Ownership Recovery – v1.0.0
+  </a>
