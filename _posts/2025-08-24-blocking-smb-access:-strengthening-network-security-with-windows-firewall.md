@@ -14,12 +14,11 @@ image: "/assets/images/fnlogo.png"
 <p>During this exercise, I turned on Windows Firewall and created a rule to prevent SMB access to the machine, specifically blocking TCP ports 139 and 445. This hands-on experience reinforced the importance of controlling protocol access and the practical application of network security principles.</p>
 
 <center><h3>Lessons Learned</h3></center>
-<ul>
-  <li><strong>Firewall Configuration Matters:</strong> Enabling Windows Firewall and creating custom rules allows precise control over which protocols and ports are accessible, reducing the attack surface.</li>
-  <li><strong>Understanding Protocol Risks:</strong> Blocking SMB demonstrates awareness of the vulnerabilities in outdated protocols like SMBv1 and the importance of limiting exposure to public networks.</li>
-  <li><strong>Practical Application:</strong> This exercise connected theory from my SMB report to real-world network defense, illustrating how system administrators and security engineers implement protective measures.</li>
-  <li><strong>Documentation Skills:</strong> Writing the report and documenting firewall configuration steps helps communicate technical concepts clearly and supports portfolio-building efforts.</li>
-</ul>
+
+**Firewall Configuration Matters:** Enabling Windows Firewall and creating custom rules allows precise control over which protocols and ports are accessible, reducing the attack surface.
+**Understanding Protocol Risks:** Blocking SMB demonstrates awareness of the vulnerabilities in outdated protocols like SMBv1 and the importance of limiting exposure to public networks.
+**Practical Application:** This exercise connected theory from my SMB report to real-world network defense, illustrating how system administrators and security engineers implement protective measures.
+**Documentation Skills:** Writing the report and documenting firewall configuration steps helps communicate technical concepts clearly and supports portfolio-building efforts.
 
 <center><h3>Final Thoughts</h3></center>
 <p>Blocking SMB access through Windows Firewall is a small but impactful step in securing a network. This exercise, paired with my <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20SMB%20Protocol_%20Function%20and%20Security%20Risks%20%E2%80%93%20v1.0.0.pdf" target="_blank" rel="noopener noreferrer">full SMB report</a>, shows the practical application of cybersecurity concepts, from protocol understanding to defensive implementation. It reflects my commitment to building a strong, hands-on portfolio and developing the skills necessary to protect modern network environments.</p>
