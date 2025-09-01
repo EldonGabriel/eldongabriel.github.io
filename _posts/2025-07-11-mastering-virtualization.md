@@ -4,7 +4,9 @@ date: 2025-07-11
 author: Eldon Gabriel
 tags: [cybersecurity, virtualization, VMware, WSL, GCP, AWS, labs, portfolio]
 excerpt: "Hands-on virtualization labs across VMware, WSL, GCP, and AWS are building foundational skills for offensive and defensive cybersecurity operations."
-image: "/assets/images/fnlogo.png"
+image:
+  path: "/assets/images/virtualization.jpeg"
+  thumbnail: "/assets/images/virtualization.jpeg"
 layout: post
 ---
 
@@ -12,22 +14,22 @@ I’m nearing the end of the Virtualization Fundamentals module, with 7 out of 9
 
 <center><h2>What I’ve Accomplished</h2></center>
 
-🔹 **Network Modes in VirtualBox**  
+**Network Modes in VirtualBox**  
 I studied different VirtualBox network configurations like NAT, Bridged, Internal, and Host-only. Learned how they affect VM isolation, traffic routing, and lab containment.
 
-🔹 **Role of Virtualization in Cybersecurity**  
+**Role of Virtualization in Cybersecurity**  
 Looked into how virtualization helps with malware analysis, attack simulation, secure sandboxing, and business continuity. This tied technical setups to real-world security goals.
 
-🔹 **Lab Setup: Deploy Virtual Machines**  
+**Lab Setup: Deploy Virtual Machines**  
 Set up multiple virtual machines on different platforms and hypervisors. This created secure baselines for testing malware, patch verification, and access control audits.
 
-🔹 **Lab Setup: Install Windows Subsystem for Linux (WSL2)**  
+**Lab Setup: Install Windows Subsystem for Linux (WSL2)**  
 Installed and configured WSL2 to combine Windows and Linux workflows, boosting workflow efficiency.
 
-🔹 **Lab Setup: Create a Virtual Machine in VMware**  
+**Lab Setup: Create a Virtual Machine in VMware**  
 Created VMs with Kali Linux and Windows 11 ARM64 on macOS M2. Configured NAT networking and resolved compatibility issues using VirtIO drivers and firewall tuning.
 
-🔹 **Lab Setup: Deploy a Virtual Machine in GCP and AWS**  
+**Lab Setup: Deploy a Virtual Machine in GCP and AWS**  
 Built scalable cloud-based VMs on Google Cloud Platform and AWS. Learned how to manage SSH keys, firewall rules, and VM access controls.
 
 <center><h2>Research & Explanation</h2></center>
