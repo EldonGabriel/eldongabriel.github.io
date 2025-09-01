@@ -35,3 +35,10 @@ Today's lab focused on two main goals: locking down sensitive folders and restri
 ## <center>Reflection & Next Steps</center>
 
 I’ll wait for results and review feedback to identify gaps. In the meantime, I’ll research my next exercise on using access permissions to block unauthorized access to sensitive folders. This builds on the lessons from this lab and sharpens my skills in access control and data security.
+
+<p align="center">
+  <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Using%20Access%20Permissions%20and%20Rights%20to%20Secure%20a%20Folder%20%E2%80%93%20v1.0.0.pdf" target="_blank">
+    Full Guide: GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0
+  </a>
+</p>
+
