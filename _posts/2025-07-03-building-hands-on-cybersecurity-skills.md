@@ -13,9 +13,29 @@ That’s exactly what I found when I enrolled in the **MICS – Introduction to 
 
 ### My Certifications
 
-![MICS Level 1]({{ '/assets/certifications/level1.png' | relative_url }}){: .align-left style="width:300px; height:200px;" }
-![MICS Level 2]({{ '/assets/certifications/level2.png' | relative_url }}){: .align-center style="width:300px; height:200px;" }
-![MICS Level 3]({{ '/assets/certifications/level3.png' | relative_url }}){: .align-right style="width:300px; height:200px;" }
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="{{ '/assets/certifications/level1.png' | relative_url }}" alt="MICS Level 1" style="width:300px; height:200px;"><br>
+        Figure 1: Cybersecurity Learner - Level 1  2025. www.mosse-institute.com
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="{{ '/assets/certifications/level2.png' | relative_url }}" alt="MICS Level 2" style="width:300px; height:200px;"><br>
+        Figure 2: Cybersecurity Learner - Level 2  2025. www.mosse-institute.com
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="{{ '/assets/certifications/level3.png' | relative_url }}" alt="MICS Level 3" style="width:300px; height:200px;"><br>
+        Figure 3: Cybersecurity Learner - Level 3  2025. www.mosse-institute.com
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 <table>
   <thead>
