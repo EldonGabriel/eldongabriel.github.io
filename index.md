@@ -19,7 +19,7 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 <p>My journey from business to cybersecurity has been shaped by hands-on technical work and lessons learned from remarkable people along the way. These experiences taught me leadership, resilience, and strategic thinking—skills I now apply to building secure networks, hunting threats, and developing proactive defenses.</p>
 
-<center><h2>Key Influences and Lessons</h2></center>
+<center><h1>Key Influences and Lessons</h1></center>
 
 <table>
   <thead>
@@ -112,6 +112,178 @@ I bring to every challenge technical rigor, strategic insight, and clear communi
 </table>
 
 <center><h1>Certifications</h1></center>
+
+<div class="slideshow-container">
+
+  <!-- Slide 1 -->
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 10</div>
+    <img src="{{ '/assets/certifications/isc2-certified-in-cybersecurity-certification.pdf' | relative_url }}">
+    <div class="text">Figure 1: ISC² Certified in Cybersecurity (CC). 2025. www.mosse-institute.com</div>
+  </div>
+
+  <!-- Slide 2 -->
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 10</div>
+    <img src="{{ '/assets/certifications/Google Cybersecurity Certificate.jpg' | relative_url }}">
+    <div class="text">Figure 2: Google Cybersecurity Professional. 2025. www.mosse-institute.com</div>
+  </div>
+
+  <!-- Slide 3 -->
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 10</div>
+    <img src="{{ '/assets/certifications/Google IT Support Certificate Coursera .jpg' | relative_url }}">
+    <div class="text">Figure 3: Google IT Support Professional. 2025. www.mosse-institute.com</div>
+  </div>
+
+  <!-- Slide 4 -->
+  <div class="mySlides fade">
+    <div class="numbertext">4 / 10</div>
+    <img src="{{ '/assets/certifications/MICS-introduction-to-cyber-security-cybersecurity-level-3.png' | relative_url }}">
+    <div class="text">Figure 4: MICS – Introduction to Cyber Security⭐. 2025. www.mosse-institute.com</div>
+  </div>
+
+  <!-- Slide 5 -->
+  <div class="mySlides fade">
+    <div class="numbertext">5 / 10</div>
+    <img src="{{ '/assets/certifications/Automate-with-Python.jpg' | relative_url }}">
+    <div class="text">Figure 5: Automate Cybersecurity Tasks with Python. 2025. www.mosse-institute.com</div>
+  </div>
+
+  <!-- Slide 6 -->
+  <div class="mySlides fade">
+    <div class="numbertext">6 / 10</div>
+    <img src="{{ '/assets/certifications/Cybersecurity-Risk-Management-Framework .pdf' | relative_url }}">
+    <div class="text">Figure 6: Cybersecurity Risk Management Framework. 2025. www.mosse-institute.com</div>
+  </div>
+
+  <!-- Slide 7 -->
+  <div class="mySlides fade">
+    <div class="numbertext">7 / 10</div>
+    <img src="{{ '/assets/certifications/NIST-800-171.jpg' | relative_url }}">
+    <div class="text">Figure 7: NIST 800-171. 2025. www.mosse-institute.com</div>
+  </div>
+
+  <!-- Slide 8 -->
+  <div class="mySlides fade">
+    <div class="numbertext">8 / 10</div>
+    <img src="{{ '/assets/certifications/NIST-DoD-RMF.jpg' | relative_url }}">
+    <div class="text">Figure 8: NIST DoD Risk Management Framework. 2025. www.mosse-institute.com</div>
+  </div>
+
+  <!-- Slide 9 -->
+  <div class="mySlides fade">
+    <div class="numbertext">9 / 10</div>
+    <img src="{{ '/assets/certifications/NIST-CSF.jpg' | relative_url }}">
+    <div class="text">Figure 9: NIST Cybersecurity Framework (CSF). 2025. www.mosse-institute.com</div>
+  </div>
+
+  <!-- Slide 10 -->
+  <div class="mySlides fade">
+    <div class="numbertext">10 / 10</div>
+    <img src="{{ '/assets/certifications/Duke-Decentralized-Finance-DeFi.jpg' | relative_url }}">
+    <div class="text">Figure 10: Decentralized Finance (DeFi). 2025. www.mosse-institute.com</div>
+  </div>
+
+</div>
+
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+<style>
+* {box-sizing: border-box;}
+.mySlides {display: none;}
+img {vertical-align: middle; width:100%;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+  border: 1px solid #ccc;
+}
+
+/* Caption text */
+.text {
+  color: #000;
+  background: rgba(255, 255, 255, 0.8);
+  font-size: 14px;
+  padding: 8px 12px;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Number text (1/10 etc) */
+.numbertext {
+  color: #000;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 12px;
+  width: 12px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+</style>
+
+<script>
+let slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 3000);
+}
+</script>
 
 <table align="center" border="1" cellspacing="0" cellpadding="5">
   <thead>
