@@ -40,7 +40,7 @@ These certificates are more than titles—they’re earned through real labs, re
 
 <center><h2>What I Gained from MICS</h2></center>
 
-The MICS experience was a one-of-a-kind **realistic cyber training** program. There were no pre-written answers—only—just open source curriculum and hands-on trial-and-error learning. This approach helped me develop real-world practical skills in key areas like:
+The MICS experience was a one-of-a-kind **realistic cyber training** program. There were no pre-written answers—just open source curriculum and hands-on trial-and-error learning. This approach helped me develop real-world practical skills in key areas like:
 
 ### OSINT & Reconnaissance
 - Created covert accounts and mindmaps from social media data  
