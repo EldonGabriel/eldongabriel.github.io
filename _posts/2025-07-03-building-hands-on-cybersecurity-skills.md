@@ -13,9 +13,9 @@ That’s exactly what I found when I enrolled in the **MICS – Introduction to 
 
 ### My Certifications
 
-![MICS Level 1]({{ '/assets/certifications/level1.png' | relative_url }}){: .align-left }
-![MICS Level 2]({{ '/assets/certifications/level2.png' | relative_url }}){: .align-center }
-![MICS Level 3]({{ '/assets/certifications/level3.png' | relative_url }}){: .align-right }
+![MICS Level 1]({{ '/assets/certifications/level1.png' | relative_url }}){: .align-left style="width:300px; height:200px;" }
+![MICS Level 2]({{ '/assets/certifications/level2.png' | relative_url }}){: .align-center style="width:300px; height:200px;" }
+![MICS Level 3]({{ '/assets/certifications/level3.png' | relative_url }}){: .align-right style="width:300px; height:200px;" }
 
 <table>
   <thead>
