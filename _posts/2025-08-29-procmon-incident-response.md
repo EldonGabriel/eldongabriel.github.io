@@ -4,7 +4,9 @@ date: 2025-08-29
 author: Eldon Gabriel
 tags: [Windows, Procmon, Incident Response, Threat Hunting, Cybersecurity Tools]
 excerpt: "A step-by-step guide to using Procmon to capture, filter, and analyze Windows process activity for threat hunting, incident response, and compliance."
-image: "/assets/images/fnlogo.png"
+image:
+  path: "/assets/images/procmon.png"
+  thumbnail: "/assets/images/procmon.png"
 ---
 
 ## <center>Introduction</center>
