@@ -285,68 +285,6 @@ function showSlides() {
 }
 </script>
 
-<table align="center" border="1" cellspacing="0" cellpadding="5">
-  <thead>
-    <tr style="background-color: #73b4d5; color: #000000; text-align: center;">
-      <th style="text-align: center;">Certification Name</th>
-      <th style="text-align: center;">Issuing Organization</th>
-      <th style="text-align: center;">Certification</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center;">ISC² Certified in Cybersecurity (CC)</td>
-      <td style="text-align: center;">(ISC)²</td>
-      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/isc2-certified-in-cybersecurity-certification.pdf" target="_blank">View Certificate</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">Google Cybersecurity Professional</td>
-      <td style="text-align: center;">Google</td>
-      <td style="text-align: center;"><a href="https://coursera.org/share/7c3bcf0faa50aa1119f88179103c03c0" target="_blank">View Certificate</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">Google IT Support Professional</td>
-      <td style="text-align: center;">Google</td>
-      <td style="text-align: center;"><a href="https://coursera.org/share/24974875606de08e51eaf1c75765dd3f" target="_blank">View Certificate</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">MICS – Introduction to Cyber Security⭐</td>
-      <td style="text-align: center;">Mossé Cyber Security Institute</td>
-      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/MICS-introduction-to-cyber-security-cybersecurity-level-3.png" target="_blank">View Certificate</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">Automate Cybersecurity Tasks with Python</td>
-      <td style="text-align: center;">Google</td>
-      <td style="text-align: center;"><a href="https://coursera.org/share/3595ecfbd5127b500c93148940fd0edf" target="_blank">View Certificate</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">Cybersecurity Risk Management Framework</td>
-      <td style="text-align: center;">Infosec</td>
-      <td style="text-align: center;"><a href="https://coursera.org/share/eed1ef723476b973d0a2b41e56d76706" target="_blank">View Certificate</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">NIST 800-171</td>
-      <td style="text-align: center;">Infosec</td>
-      <td style="text-align: center;"><a href="https://coursera.org/share/1194fd730e7254f24a77b29bbcfabd60" target="_blank">View Certificate</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">NIST DoD Risk Management Framework</td>
-      <td style="text-align: center;">Infosec</td>
-      <td style="text-align: center;"><a href="https://coursera.org/share/4ee7fee2831b47e3409d5f1dd55fc033" target="_blank">View Certificate</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">NIST Cybersecurity Framework (CSF)</td>
-      <td style="text-align: center;">Infosec</td>
-      <td style="text-align: center;"><a href="https://coursera.org/share/239c0a98787e7acb3392f5af9a849cb4" target="_blank">View Certificate</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">Decentralized Finance (DeFi)</td>
-      <td style="text-align: center;">Duke University</td>
-      <td style="text-align: center;"><a href="https://coursera.org/share/82bb58772fdca44cc62d2e148b1baa6d" target="_blank">View Certificate</a></td>
-    </tr>
-  </tbody>
-</table>
-
 <center><h1>Future Certifications</h1></center>
 
 <table align="center" border="1" cellspacing="0" cellpadding="5">
