@@ -26,15 +26,15 @@ Cybersecurity depends on this. When you know how programs usually work, you can 
 
 ## <center>Cybersecurity Implications & Applications</center>
 
-- **Threat Hunting:** Examining process actions can uncover warning signs such as odd registry usage or unfamiliar programs starting up.  
-- **Incident Response:** In a forensic review, Procmon can help trace the sequence of actions taken by suspicious software or malware.  
-- **System Defense:** Learning what “normal” activity looks like makes it easier to detect when something is out of place.  
+**Threat Hunting:** Examining process actions can uncover warning signs such as odd registry usage or unfamiliar programs starting up.  
+**Incident Response:** In a forensic review, Procmon can help trace the sequence of actions taken by suspicious software or malware.  
+**System Defense:** Learning what “normal” activity looks like makes it easier to detect when something is out of place.  
 
 ## <center>Mapping to Industry Frameworks</center>
 
-- **NIST Cybersecurity Framework:** Procmon helps with the *Detect* function by catching strange or unacceptable computer events.  
-- **Governance, Risk, and Compliance (GRC):** Having visibility into what processes are doing helps prove compliance, supports change control, and reduces the risk of missed threats.  
-- **Cybersecurity Roles:** Analysts, forensic investigators, and malware researchers all use tools like Procmon to troubleshoot, investigate, and validate what’s happening on Windows systems.  
+**NIST Cybersecurity Framework:** Procmon helps with the *Detect* function by catching strange or unacceptable computer events.  
+**Governance, Risk, and Compliance (GRC):** Having visibility into what processes are doing helps prove compliance, supports change control, and reduces the risk of missed threats.  
+**Cybersecurity Roles:** Analysts, forensic investigators, and malware researchers all use tools like Procmon to troubleshoot, investigate, and validate what’s happening on Windows systems.  
 
 ## <center>Wrap-Up</center>
 In summary, Procmon gives a clear and practical behind-the-scenes view of what’s happening with Windows processes. I practiced capturing, filtering, and saving system events. This helped me spot strange events. I gained hands-on skills. These skills help find problems, look into them, and follow rules.
