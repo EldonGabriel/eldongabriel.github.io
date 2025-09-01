@@ -4,7 +4,9 @@ date: 2025-09-01
 author: Eldon Gabriel
 tags: [Cybersecurity, Password Management, Portfolio]
 excerpt: "A professional overview of password managers, their importance, types, and relevance to enterprise security."
-image: "/assets/images/fnlogo.png"
+image:
+  path: "/assets/images/password.png"
+  thumbnail: "/assets/images/password.png"
 ---
 
 Password managers keep your login details safe and organized. They store them in a locked digital vault. You don't have to relying on your memory to recall every one. By using a single master password, you unlock all your other accounts safely. Modern tools often leverage end-to-end encryption and zero-knowledge architecture to ensure that only you can see your data.
