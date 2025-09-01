@@ -13,28 +13,32 @@ That’s exactly what I found when I enrolled in the **MICS – Introduction to 
 
 ### My Certifications
 
-<table>
-  <tbody>
-    <tr>
-      <td style="text-align:center;">
-        <img src="{{ '/assets/certifications/level1.png' | relative_url }}" alt="MICS Level 1" style="width:300px; height:200px;"><br>
-        Figure 1: Cybersecurity Learner - Level 1.  2025. www.mosse-institute.com
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">
-        <img src="{{ '/assets/certifications/level2.png' | relative_url }}" alt="MICS Level 2" style="width:300px; height:200px;"><br>
-        Figure 2: Cybersecurity Learner - Level 2.  2025. www.mosse-institute.com
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">
-        <img src="{{ '/assets/certifications/level3.png' | relative_url }}" alt="MICS Level 3" style="width:300px; height:200px;"><br>
-        Figure 3: Cybersecurity Learner - Level 3.  2025. www.mosse-institute.com
-      </td>
-    </tr>
-  </tbody>
-</table>
+<figure style="width:100%; border:1px solid #ccc; margin-bottom:20px;">
+  <img src="{{ '/assets/certifications/level1.png' | relative_url }}" 
+       alt="MICS Certificate Level 1" 
+       style="width:100%; height:auto; display:block; margin:0 auto;">
+  <figcaption style="text-align:center;">
+    Figure 1: Cybersecurity Learner - Level 1. 2025. www.mosse-institute.com
+  </figcaption>
+</figure>
+
+<figure style="width:100%; border:1px solid #ccc; margin-bottom:20px;">
+  <img src="{{ '/assets/certifications/level2.png' | relative_url }}" 
+       alt="MICS Certificate Level 2" 
+       style="width:100%; height:auto; display:block; margin:0 auto;">
+  <figcaption style="text-align:center;">
+    Figure 2: Cybersecurity Learner - Level 2. 2025. www.mosse-institute.com
+  </figcaption>
+</figure>
+
+<figure style="width:100%; border:1px solid #ccc; margin-bottom:20px;">
+  <img src="{{ '/assets/certifications/level3.png' | relative_url }}" 
+       alt="MICS Certificate Level 3" 
+       style="width:100%; height:auto; display:block; margin:0 auto;">
+  <figcaption style="text-align:center;">
+    Figure 3: Cybersecurity Learner - Level 3. 2025. www.mosse-institute.com
+  </figcaption>
+</figure>
 
 These certificates are more than titles—they’re earned through real labs, real tools, and real problem-solving. The MICS course helped me build foundational skills across multiple domains of cybersecurity and gave me the confidence to move into more advanced operations and system-level thinking.
 
