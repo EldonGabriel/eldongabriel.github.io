@@ -11,6 +11,12 @@ image:
 My cybersecurity journey began with a mindset: don’t just collect theory—build skills that work in the real world.
 That’s exactly what I found when I enrolled in the **MICS – Introduction to Cyber Security** course through Mossé Cyber Security Institute. After completing **_39 practical exercises_**, I’ve officially earned:
 
+### My Certifications
+
+![MICS Level 1]({{ '/assets/certifications/level1.png' | relative_url }}){: .align-left }
+![MICS Level 2]({{ '/assets/certifications/level2.png' | relative_url }}){: .align-center }
+![MICS Level 3]({{ '/assets/certifications/level3.png' | relative_url }}){: .align-right }
+
 <table>
   <thead>
     <tr>
