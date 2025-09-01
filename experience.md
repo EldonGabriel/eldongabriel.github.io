@@ -98,6 +98,7 @@ Proven ability to document actionable findings, produce structured reports, and 
 - **Endpoint Registry Controls** – Blocking untrusted user accounts – [View Guide](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Endpoint%20Security%20with%20the%20Windows%20Registry%20%E2%80%93%20v1.0.0.pdf)
 - **RDP Troubleshooting** – AWS VM Access – [View Guide](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Endpoint%20Security%20with%20the%20Windows%20Registry%20%E2%80%93%20v1.0.0.pdf)
 - **File Ownership Recovery** – Recovering permissions and ownership for secured files – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20File%20Ownership%20Recovery%20%E2%80%93%20v1.0.0.pdf)
+- **Password Managers** – Secure configuration and management of credential storage – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%20%E2%80%93%20Password%20Managers%20%E2%80%93%20v1.0.0.pdf)
 
 **System Development & Hardening**  
 - **Linux File Permissions Management** – Secured Linux systems via permission enforcement – [View Report](https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Linux%20File%20Permissions%20Management%20-%20v1.0.2.pdf)  
