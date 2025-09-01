@@ -37,53 +37,6 @@ Built scalable cloud-based VMs on Google Cloud Platform and AWS. Learned how to 
 - Explored the different types of VirtualBox network configurations.  
 - Researched the role of virtualization and its benefits for cybersecurity.
 
-<table align="center" border="1" cellspacing="0" cellpadding="5">
-  <thead>
-    <tr style="background-color: #73b4d5; text-align: center;">
-      <th style="padding: 10px; border: 1px solid #ddd;">Certification Name</th>
-      <th style="padding: 10px; border: 1px solid #ddd;">Issuing Organization</th>
-      <th style="padding: 10px; border: 1px solid #ddd;">Certification</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Research: VirtualBox Network Configurations</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-virtualization-fundamentals/Research%20and%20explain%20the%20different%20types%20of%20Virtualbox%20network%20configurations.png" target="_blank">View Certificate</a></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Research: Role and Benefits of Virtualization</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-virtualization-fundamentals/Research%20and%20explain%20role%20of%20virtualization%20and%20explain%20its%20benefits%20for%20cybersecurity.png" target="_blank">View Certificate</a></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Lab Setup: Deploy Virtual Machines</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-virtualization-fundamentals/Lab%20Setup%20-%20Deploy%20Virtual%20Machines.png" target="_blank">View Certificate</a></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Lab Setup: Install Windows Subsystem for Linux</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-virtualization-fundamentals/Lab%20Setup%20-%20Install%20Windows%20Subsystem%20for%20Linux.png" target="_blank">View Certificate</a></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Lab Setup: Create a Virtual Machine in VMware</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-virtualization-fundamentals/Lab%20Setup-%20Create%20a%20Virtual%20Machine%20in%20VMWare.png" target="_blank">View Certificate</a></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Lab Setup: Deploy a Virtual Machine in GCP</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-virtualization-fundamentals/Lab%20Setup%20-%20Deploy%20a%20Virtual%20Machine%20in%20GCP.png" target="_blank">View Certificate</a></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Lab Setup: Deploy a Virtual Machine in AWS</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Mossé Cyber Security Institute</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-virtualization-fundamentals/Lab%20Setup-%20Deploy%20a%20Virtual%20Machine%20in%20AWS.png" target="_blank">View Certificate</a></td>
-    </tr>
-  </tbody>
-</table>
-
 <div class="slideshow-container">
 
   <!-- Slide 1 -->
@@ -232,8 +185,7 @@ function showSlides() {
   setTimeout(showSlides, 3000); // Change image every 3 seconds
 }
 </script>
-
-
+<br>
 
 <center><h2>Up Next Research & Explanation</h2></center>
 
@@ -279,6 +231,60 @@ I’ve successfully finished the last 2 labs since my last update, completing th
     </tr>
   </tbody>
 </table>
+
+<div class="slideshow-container">
+
+  <!-- Slide 1 -->
+  <div class="mySlides2 fade">
+    <div class="numbertext">1 / 2</div>
+    <img src="{{ '/assets/certifications/msaf-virtualization-fundamentals/Create a Snapshot of a Virtual Machine to recover the OS to a safe state.png' | relative_url }}" style="width:100%">
+    <div class="text">Figure 8: Create a Snapshot of a Virtual Machine. 2025. www.mosse-institute.com</div>
+  </div>
+
+  <!-- Slide 2 -->
+  <div class="mySlides2 fade">
+    <div class="numbertext">2 / 2</div>
+    <img src="{{ '/assets/certifications/msaf-virtualization-fundamentals/Install and configure VM Ware ESXi with Vsphere in Windows and Linux VMs.png' | relative_url }}" style="width:100%">
+    <div class="text">Figure 9: Install and Configure VMware ESXi with vSphere. 2025. www.mosse-institute.com</div>
+  </div>
+
+</div>
+
+<br>
+
+<!-- Dots navigation -->
+<div style="text-align:center">
+  <span class="dot2"></span> 
+  <span class="dot2"></span> 
+</div>
+
+<style>
+/* Reuse base slideshow styles */
+.mySlides2 {display: none;}
+</style>
+
+<script>
+let slideIndex2 = 0;
+showSlides2();
+
+function showSlides2() {
+  let i;
+  let slides = document.getElementsByClassName("mySlides2");
+  let dots = document.getElementsByClassName("dot2");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex2++;
+  if (slideIndex2 > slides.length) {slideIndex2 = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex2-1].style.display = "block";  
+  dots[slideIndex2-1].className += " active";
+  setTimeout(showSlides2, 3000); // Change image every 3 seconds
+}
+</script>
+
 
 Completing this full section has solidified my virtualization skills across local, cloud, and enterprise platforms. These fundamental capabilities are crucial for both offensive and defensive cybersecurity roles. They provide safe, flexible, and efficient environments for testing, threat hunting, and incident response.
 
