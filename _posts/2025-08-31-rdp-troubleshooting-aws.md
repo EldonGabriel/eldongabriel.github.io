@@ -4,7 +4,9 @@ date: 2025-08-31
 author: Eldon Gabriel
 tags: [Windows, RDP, AWS, Cybersecurity]
 excerpt: "A hands-on guide to troubleshooting Remote Desktop access for new user accounts on AWS-hosted Windows 10 VMs."
-image: "/assets/images/fnlogo.png"
+image:
+  path: "/assets/images/rdp.png"
+  thumbnail: "/assets/images/rdp.png"
 ---
 
 Following up on my work with registry restrictions for untrusted accounts, I encountered another aspect of endpoint security: ensuring remote access works correctly for new Windows user accounts on cloud-hosted VMs. While registry keys help enforce application restrictions, users still need proper RDP access to perform their tasks safely.  
