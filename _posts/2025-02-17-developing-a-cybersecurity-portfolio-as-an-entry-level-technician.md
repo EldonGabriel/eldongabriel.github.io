@@ -37,6 +37,8 @@ I’ve attached my official Confirmation of Enrolment from Mossé Cyber Security
 
 <center><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/mics-confirmation-of-enrolment.pdf" target="_blank">Download Confirmation of Enrolment</a></center>
 
+<iframe src="{{ '/assets/certifications/mics-confirmation-of-enrolment.pdf' | relative_url }}" width="100%" height="600px"></iframe>
+
 <h2>Next Steps</h2>
 
 After completing the coursework, I plan to:
