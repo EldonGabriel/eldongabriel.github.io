@@ -1,10 +1,12 @@
 ---
-title: "Building Hands-On Cybersecurity Skills: From MICS to MSAF with MCSI Labs"
+title: "Building Hands-On Cybersecurity Skills: From MICS to MSAF with MCSI"
 date: 2025-07-03
 author: Eldon Gabriel
 tags: [cybersecurity, MICS, MSAF, portfolio, hands-on, training]
 excerpt: "MCSI labs provide scenario-based exercises that bridge IT fundamentals with advanced cybersecurity practices, building a portfolio of applied skills."
-image: "/assets/images/fnlogo.png"
+image:
+  path: "/assets/images/msaf.png"
+  Thumbnail: "/assets/images/msaf.png"
 --- 
 My cybersecurity journey began with a mindset: don’t just collect theory—build skills that work in the real world.
 That’s exactly what I found when I enrolled in the **MICS – Introduction to Cyber Security** course through Mossé Cyber Security Institute. After completing **_39 practical exercises_**, I’ve officially earned:
