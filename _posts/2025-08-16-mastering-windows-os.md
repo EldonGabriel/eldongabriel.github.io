@@ -4,8 +4,10 @@ date: 2025-08-16
 author: Eldon Gabriel
 tags: [cybersecurity, WindowsSecurity, SystemHardening, MCSI, portfolio]
 excerpt: "A hands-on guide to Windows OS hardening, covering best practices for system configuration, network protection, and registry security."
-image: "/assets/images/banner.png"
-layout: post
+image:
+  path: "/assets/images/windowsos.png"
+  thumbnail: "/assets/images/windowsos.png"
+  layout: post
 ---
 
 Today, I want to share how I recently completed a project on Windows security hardening. This report covers best practices for the Windows operating system. This was a hands-on exercise from my **MCSI** exercises. I looked into system configuration, network protection, and registry security.  
