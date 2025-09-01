@@ -4,7 +4,9 @@ date: 2025-08-26
 author: Eldon Gabriel
 tags: [Subnetting, Networking, Cybersecurity, ISC2]
 excerpt: "Turning my old handwritten subnet notes into a complete Class C subnet report and a useful reference for labs and exercises."
-image: "/assets/images/fnlogo.png"
+image:
+  path: "/assets/images/subnetting.png"
+  thumbnail: "/assets/images/subnetting.png"
 ---
 
 While reviewing my old handwritten notes from my ISC² CC exam prep, I found a section where I had written out subnet ranges for Class C networks. It reminded me of late-night study sessions and the challenge of memorizing network and host address ranges.
