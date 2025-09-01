@@ -112,63 +112,72 @@ I wanted to include my original ISC² CC exam prep notes. These images show how 
   <!-- Slide 1 -->
   <div class="mySlides3 fade">
     <div class="numbertext">1 / 9</div>
-    <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/subnetting-and-cidr-notation-1..JPG" style="width:100%">
+    <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/subnetting-and-cidr-notation-1..JPG" 
+         style="width:100%; height:400px; object-fit:contain;">
     <div class="text">Figure 1: Subnetting and CIDR Notation Notes screenshot. 2025.</div>
   </div>
 
   <!-- Slide 2 -->
   <div class="mySlides3 fade">
     <div class="numbertext">2 / 9</div>
-    <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/private-ip-address-ranges-binary-conversion_2.JPG" style="width:100%">
+    <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/private-ip-address-ranges-binary-conversion_2.JPG" 
+         style="width:100%; height:400px; object-fit:contain;">
     <div class="text">Figure 2: Private IP Address Ranges Notes screenshot. 2025.</div>
   </div>
 
   <!-- Slide 3 -->
   <div class="mySlides3 fade">
     <div class="numbertext">3 / 9</div>
-    <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/subnetting-breakdown-reference-table-3.JPG" style="width:100%">
+    <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/subnetting-breakdown-reference-table-3.JPG" 
+         style="width:100%; height:400px; object-fit:contain;">
     <div class="text">Figure 3: Subnetting Breakdown Reference Table Notes screenshot. 2025.</div>
   </div>
 
   <!-- Slide 4 -->
   <div class="mySlides3 fade">
     <div class="numbertext">4 / 9</div>
-    <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/25-26-subnet-calculations-4.JPG" style="width:100%">
+    <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/25-26-subnet-calculations-4.JPG" 
+         style="width:100%; height:400px; object-fit:contain;">
     <div class="text">Figure 4: /25 and /26 Subnet Calculations Notes screenshot. 2025.</div>
   </div>
 
   <!-- Slide 5 -->
   <div class="mySlides3 fade">
     <div class="numbertext">5 / 9</div>
-    <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/26-subnet-address-ranges-5.jpg" style="width:100%">
+    <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/26-subnet-address-ranges-5.jpg" 
+         style="width:100%; height:400px; object-fit:contain;">
     <div class="text">Figure 5: /26 Subnet Address Ranges Notes screenshot. 2025.</div>
   </div>
 
   <!-- Slide 6 -->
   <div class="mySlides3 fade">
     <div class="numbertext">6 / 9</div>
-    <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/27-subnet-address-ranges-6.JPG" style="width:100%">
+    <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/27-subnet-address-ranges-6.JPG" 
+         style="width:100%; height:400px; object-fit:contain;">
     <div class="text">Figure 6: /27 Subnet Address Ranges Notes screenshot. 2025.</div>
   </div>
 
   <!-- Slide 7 -->
   <div class="mySlides3 fade">
     <div class="numbertext">7 / 9</div>
-    <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/28-subnet-address-ranges-7.JPG" style="width:100%">
+    <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/28-subnet-address-ranges-7.JPG" 
+         style="width:100%; height:400px; object-fit:contain;">
     <div class="text">Figure 7: /28 Subnet Address Ranges Notes screenshot. 2025.</div>
   </div>
 
   <!-- Slide 8 -->
   <div class="mySlides3 fade">
     <div class="numbertext">8 / 9</div>
-    <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/29-subnet-address-ranges-8.JPG" style="width:100%">
+    <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/29-subnet-address-ranges-8.JPG" 
+         style="width:100%; height:400px; object-fit:contain;">
     <div class="text">Figure 8: /29 Subnet Address Ranges Notes screenshot. 2025.</div>
   </div>
 
   <!-- Slide 9 -->
   <div class="mySlides3 fade">
     <div class="numbertext">9 / 9</div>
-    <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/key-subnetting-takeaways-9.jpg" style="width:100%">
+    <img src="https://raw.githubusercontent.com/EldonGabriel/eldongabriel.github.io/main/assets/notes/key-subnetting-takeaways-9.jpg" 
+         style="width:100%; height:400px; object-fit:contain;">
     <div class="text">Figure 9: Key Subnetting Takeaways Notes screenshot. 2025.</div>
   </div>
 
@@ -176,7 +185,6 @@ I wanted to include my original ISC² CC exam prep notes. These images show how 
 
 <br>
 
-<!-- Dots navigation -->
 <div style="text-align:center">
   <span class="dot3"></span> 
   <span class="dot3"></span> 
@@ -214,7 +222,6 @@ function showSlides3() {
   setTimeout(showSlides3, 3000); // Change every 3 seconds
 }
 </script>
-
 
 ## <center>Key Takeaways</center>
 
