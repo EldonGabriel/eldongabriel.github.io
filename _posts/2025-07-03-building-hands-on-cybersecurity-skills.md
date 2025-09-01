@@ -16,50 +16,22 @@ That’s exactly what I found when I enrolled in the **MICS – Introduction to 
 <table>
   <tbody>
     <tr>
-      <td>
+      <td style="text-align:center;">
         <img src="{{ '/assets/certifications/level1.png' | relative_url }}" alt="MICS Level 1" style="width:300px; height:200px;"><br>
         Figure 1: Cybersecurity Learner - Level 1  2025. www.mosse-institute.com
       </td>
     </tr>
     <tr>
-      <td>
+      <td style="text-align:center;">
         <img src="{{ '/assets/certifications/level2.png' | relative_url }}" alt="MICS Level 2" style="width:300px; height:200px;"><br>
         Figure 2: Cybersecurity Learner - Level 2  2025. www.mosse-institute.com
       </td>
     </tr>
     <tr>
-      <td>
+      <td style="text-align:center;">
         <img src="{{ '/assets/certifications/level3.png' | relative_url }}" alt="MICS Level 3" style="width:300px; height:200px;"><br>
         Figure 3: Cybersecurity Learner - Level 3  2025. www.mosse-institute.com
       </td>
-    </tr>
-  </tbody>
-</table>
-
-
-<table>
-  <thead>
-    <tr>
-      <th>Certification Name</th>
-      <th>Issuing Organization</th>
-      <th>Certification Level</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://storage.googleapis.com/cyber-platform-prod.appspot.com/milestone-certificates/SB6kNYfrf4Z9gg4Zz8T5LixXI832-mics-introduction-to-cyber-security.png?timestamp=1755512762902" target="_blank">MICS - Introduction to Cyber Security</a></td>
-      <td>Mossé Cyber Security Institute</td>
-      <td>Level 1</td>
-    </tr>
-    <tr>
-      <td><a href="https://storage.googleapis.com/cyber-platform-prod.appspot.com/milestone-certificates/SB6kNYfrf4Z9gg4Zz8T5LixXI832-mics-introduction-to-cyber-security.png?timestamp=1755512818599" target="_blank">MICS - Introduction to Cyber Security</a></td>
-      <td>Mossé Cyber Security Institute</td>
-      <td>Level 2</td>
-    </tr>
-    <tr>
-      <td><a href="https://storage.googleapis.com/cyber-platform-prod.appspot.com/milestone-certificates/SB6kNYfrf4Z9gg4Zz8T5LixXI832-mics-introduction-to-cyber-security.png?timestamp=1755512838856" target="_blank">MICS - Introduction to Cyber Security</a></td>
-      <td>Mossé Cyber Security Institute</td>
-      <td>Level 3</td>
     </tr>
   </tbody>
 </table>
@@ -70,20 +42,20 @@ These certificates are more than titles—they’re earned through real labs, re
 
 The MICS experience was **100% hands-on**. There were no pre-written answers—only guided learning through testing, research, and trial-and-error. This approach helped me develop real-world fluency in key areas like:
 
-### 🔹 OSINT & Reconnaissance
+### OSINT & Reconnaissance
 - Created covert accounts and mindmaps from social media data  
 - Used `dnsdumpster.com`, Shodan, and `dnstwist.py` to detect asset exposure and phishing campaigns  
 
-### 🔹 Vulnerability & Penetration Testing
+### Vulnerability & Penetration Testing
 - Performed **TCP/UDP** scans using **Nmap**  
 - Ran web app scans using **Burp Suite Spider** and **Intruder**  
 - Used **OpenVAS** to identify vulnerabilities in a virtual environment  
 
-### 🔹 Threat Hunting & Malware Detection
+### Threat Hunting & Malware Detection
 - Built **custom YARA rules** for identifying binaries and strings  
 - Documented and tested rules to match professional standards  
 
-### 🔹 Digital Forensics
+### Digital Forensics
 - Used **Dumpzilla** to analyze browser artifacts  
 - Performed static malware analysis using **PEStudio** 
 
@@ -93,7 +65,7 @@ These exercises were supported by a focus on **professional writing and technica
 
 After earning my Level 3 certification and completing the MICS course, I knew it was time to dive deeper. That’s why I enrolled in **MSAF – System Administration Fundamentals**, a course designed to build mastery in the systems that power and secure enterprise environments.
 
-📄 I’ve attached my official **Confirmation of Enrolment** from Mossé Cyber Security Institute, verifying that I’m actively enrolled and progressing through the course.
+I’ve attached my official **Confirmation of Enrolment** from Mossé Cyber Security Institute, verifying that I’m actively enrolled and progressing through the course.
 
 <center><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/certifications/msaf-confirmation-of-enrolment.pdf" target="_blank">Download Confirmation of Enrolment</a></center>
 <br>
@@ -102,22 +74,22 @@ After earning my Level 3 certification and completing the MICS course, I knew it
 
 The MSAF course goes beyond concepts—it teaches how to **build, secure, and recover real systems**. Here’s a preview of what I’m working on:
 
-### 🔹 Virtualization
+### Virtualization
 - Deploying virtual machines (VMs) in VirtualBox, VMware, GCP, and AWS  
 - Creating snapshots and restoring safe system states  
 - Installing and configuring VMware ESXi and managing via vSphere  
 
-### 🔹 Windows & Linux Hardening
+### Windows & Linux Hardening
 - Creating and deploying GPOs to enforce password policies, exploit protection, UAC, and patch management  
 - Locking down user rights, folders, and remote access  
 - Securing _Windows Defender_ and configuring SMB and WinRM  
 
-### 🔹 Network Security & Firewalls
+### Network Security & Firewalls
 - Designing network architectures in Draw.io and Cisco Packet Tracer  
 - Creating and testing firewall rules with pfSense  
 - Secure VPN tunneling and traffic filtering  
 
-### 🔹 Backup & Recovery
+### Backup & Recovery
 - Using Duplicati and Windows tools to build backup and restoration workflows  
 - Backing up and restoring Active Directory  
 - Simulating server migrations from on-prem to cloud  
