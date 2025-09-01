@@ -189,16 +189,14 @@ function showSlides() {
 
 <center><h2>Up Next Research & Explanation</h2></center>
 
-**Create a Snapshot of a Virtual Machine:** Master rollback and recovery methods for safe testing.  
-
-**Install and Configure VMware ESXi with vSphere:** Set up enterprise-grade hypervisors for advanced virtualization, server consolidation, and cloud-like management.
+- **Create a Snapshot of a Virtual Machine:** Master rollback and recovery methods for safe testing.  
+- **Install and Configure VMware ESXi with vSphere:** Set up enterprise-grade hypervisors for advanced - virtualization, server consolidation, and cloud-like management.
 
 <center><h2>Why Virtualization Skills Matter</h2></center>
 
-**Red Teams** rely on isolated, disposable environments to safely test tools and techniques.  
-
-**Blue Teams** use VMs to simulate attacks, analyze data, and quickly recover systems.  
-Virtualization is a must-have skill for security pros handling sandboxes or regulated setups.
+- **Red Teams** rely on isolated, disposable environments to safely test tools and techniques.  
+- **Blue Teams** use VMs to simulate attacks, analyze data, and quickly recover systems.  
+- Virtualization is a must-have skill for security pros handling sandboxes or regulated setups.
 
 <center><h2>What’s Next on My Journey</h2></center>
 
