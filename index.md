@@ -144,70 +144,70 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
   <div class="mySlides fade">
     <div class="numbertext">1 / 10</div>
     <img src="{{ '/assets/certifications/ISC2-CC.jpg' | relative_url }}">
-    <div class="text">Figure 1: ISC² Certified in Cybersecurity (CC). 2025. www.isc2.org</div>
+    <div class="text"></div>
   </div>
 
   <!-- Slide 2 -->
   <div class="mySlides fade">
     <div class="numbertext">2 / 10</div>
     <img src="{{ '/assets/certifications/Google Cybersecurity Certificate.jpg' | relative_url }}">
-    <div class="text">Figure 2: Google Cybersecurity Professional. 2025. www.coursea.org</div>
+    <div class="text"></div>
   </div>
 
   <!-- Slide 3 -->
   <div class="mySlides fade">
     <div class="numbertext">3 / 10</div>
     <img src="{{ '/assets/certifications/Google IT Support Certificate Coursera .jpg' | relative_url }}">
-    <div class="text">Figure 3: Google IT Support Professional. 2025. www.coursera.org</div>
+    <div class="text"></div>
   </div>
 
   <!-- Slide 4 -->
   <div class="mySlides fade">
     <div class="numbertext">4 / 10</div>
     <img src="{{ '/assets/certifications/MICS-introduction-to-cyber-security-cybersecurity-level-3.png' | relative_url }}">
-    <div class="text">Figure 4: MICS – Introduction to Cyber Security⭐. 2025. www.mosse-institute.com</div>
+    <div class="text"></div>
   </div>
 
   <!-- Slide 5 -->
   <div class="mySlides fade">
     <div class="numbertext">5 / 10</div>
     <img src="{{ '/assets/certifications/Automate-with-Python.jpg' | relative_url }}">
-    <div class="text">Figure 5: Automate Cybersecurity Tasks with Python. 2025. www.coursera.org</div>
+    <div class="text"></div>
   </div>
 
   <!-- Slide 6 -->
   <div class="mySlides fade">
     <div class="numbertext">6 / 10</div>
     <img src="{{ '/assets/certifications/Cybersecurity-RMF.jpg' | relative_url }}">
-    <div class="text">Figure 6: Cybersecurity Risk Management Framework. 2025. www.coursera.org</div>
+    <div class="text"></div>
   </div>
 
   <!-- Slide 7 -->
   <div class="mySlides fade">
     <div class="numbertext">7 / 10</div>
     <img src="{{ '/assets/certifications/NIST-800-171.jpg' | relative_url }}">
-    <div class="text">Figure 7: NIST 800-171. 2025. www.coursera.org</div>
+    <div class="text"></div>
   </div>
 
   <!-- Slide 8 -->
   <div class="mySlides fade">
     <div class="numbertext">8 / 10</div>
     <img src="{{ '/assets/certifications/NIST-DoD-RMF.jpg' | relative_url }}">
-    <div class="text">Figure 8: NIST DoD Risk Management Framework. 2025. www.coursera.org</div>
+    <div class="text"></div>
   </div>
 
   <!-- Slide 9 -->
   <div class="mySlides fade">
     <div class="numbertext">9 / 10</div>
     <img src="{{ '/assets/certifications/NIST-CSF.jpg' | relative_url }}">
-    <div class="text">Figure 9: NIST Cybersecurity Framework (CSF). 2025. www.coursera.org</div>
+    <div class="text"></div>
   </div>
 
   <!-- Slide 10 -->
   <div class="mySlides fade">
     <div class="numbertext">10 / 10</div>
     <img src="{{ '/assets/certifications/Duke-Decentralized-Finance-DeFi.jpg' | relative_url }}">
-    <div class="text">Figure 10: Decentralized Finance (DeFi). 2025. www.coursera.org</div>
+    <div class="text"></div>
   </div>
 
 </div>
