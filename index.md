@@ -121,7 +121,7 @@ I bring to every challenge technical rigor, strategic insight, and clear communi
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
    <iframe src="{{ '/assets/reports/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" 
             width="100%" 
-            height=800px" 
+            height="800px" 
             style="border:1px solid #ccc;">
     </iframe>
     <figcaption>GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf</figcaption>
