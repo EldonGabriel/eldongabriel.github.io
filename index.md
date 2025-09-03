@@ -82,9 +82,7 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 </div>
 
 
-<p>I’ve also learned from other leaders across industries, each shaping my approach to cybersecurity with lessons in strategic thinking, innovation, and resilience.
-
-I bring to every challenge technical rigor, strategic insight, and clear communication. Whether investigating incidents, hardening systems, or assessing risks, I apply a mindset shaped by practical experience, mentorship, and continuous learning.</p>
+<p>I’ve also learned from other leaders across industries, each shaping my approach to cybersecurity with lessons in strategic thinking, innovation, and resilience. I bring to every challenge technical rigor, strategic insight, and clear communication. Whether investigating incidents, hardening systems, or assessing risks, I apply a mindset shaped by practical experience, mentorship, and continuous learning.</p>
 
 <center><h1>Cybersecurity Reports</h1></center>
 
