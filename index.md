@@ -21,8 +21,6 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 <center><h1>Key Influences and Lessons</h1></center>
 
-<center><h1>Key Influences and Lessons</h1></center>
-
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1; text-align: center;">
     <img src="assets/images/Eldon-George.jpg" alt="George H. Ross" width="120" style="border-radius: 50%;"><br>
