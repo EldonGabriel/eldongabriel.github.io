@@ -67,7 +67,7 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1; text-align: center;">
-    <img src="assets/images/Stedman.jpg" alt="Stedman Graham" width="120" style="border-radius: 50%;"><br>
+    <img src="assets/images/Stedman.png" alt="Stedman Graham" width="120" style="border-radius: 50%;"><br>
     <strong>Stedman Graham</strong><br>
     <em>Businessman & Author</em>
   </div>
