@@ -77,6 +77,8 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 I bring to every challenge technical rigor, strategic insight, and clear communication. Whether investigating incidents, hardening systems, or assessing risks, I apply a mindset shaped by practical experience, mentorship, and continuous learning.</p>
 
+<center><h1>Cybersecurity Reports</h1></center>
+
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- Left PDF -->
@@ -96,7 +98,7 @@ I bring to every challenge technical rigor, strategic insight, and clear communi
             height="800px" 
             style="border:1px solid #ccc;">
     </iframe>
-    <figcaption>REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdfm</figcaption>
+    <figcaption>REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf</figcaption>
   </figure>
 
 </div>
