@@ -7,7 +7,7 @@ image:
 ---
 
 <center>
-  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Overview</h1>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Overview</h1>
 </center>
 
 I'm Eldon, an ISC2 Certified in Cybersecurity professional specializing in system administration and security operations. I approach cybersecurity as both a technical craft and a business-critical discipline, focusing on its foundations with the understanding that no computer network is ever truly secure.
@@ -16,17 +16,13 @@ Through my hands-on work, I’ve gained practical experience in risk assessment,
 
 I'm currently advancing my skills through the MSAF course at the Mossé Cyber Security Institute, aiming to bring a risk-focused mindset and practical insight to strengthen organizational defenses.
 
---- <br>
-
+--- 
+<br>
 <center>
-  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Professional Insights</h1>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Key Influences and Lessons</h1>
 </center>
 
 <p>My journey from business to cybersecurity has been shaped by hands-on technical work and lessons learned from remarkable people along the way. These experiences taught me leadership, resilience, and strategic thinking—skills I now apply to building secure networks, hunting threats, and developing proactive defenses.</p>
-
-<center>
-  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Key Influences and Lessons</h2>
-</center>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1; text-align: center;">
