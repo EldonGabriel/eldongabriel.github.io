@@ -352,7 +352,7 @@ function showSlides() {
   </table>
 </center>
 
-<p style="font-size: 0.9em; color: #555;">⭐Note: Mossé Cyber Security Institute (MCSI) certifications are mapped to NIST NICE, US Military MOS, and ASD Cyber Skills Framework.</p>
+<p style="font-size: 0.9em; color: #fff;">⭐Note: Mossé Cyber Security Institute (MCSI) certifications are mapped to NIST NICE, US Military MOS, and ASD Cyber Skills Framework.</p>
 
 ***
 <br>
