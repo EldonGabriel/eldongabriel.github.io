@@ -90,7 +90,7 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 --- 
 <br>
 <center>
-  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Cybersecurity Reports</h2>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Cybersecurity Reports</h1>
 </center>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -146,7 +146,7 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 --- 
 <br>
 <center>
-  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Certifications</h2>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Certifications</h1>
 </center>
 
 <div class="slideshow-container">
@@ -325,7 +325,7 @@ function showSlides() {
 <br>
 
 <center>
-  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Future Certifications</h2>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Future Certifications</h1>
 </center>
 
 <center>
