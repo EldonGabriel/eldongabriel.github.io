@@ -77,39 +77,55 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 I bring to every challenge technical rigor, strategic insight, and clear communication. Whether investigating incidents, hardening systems, or assessing risks, I apply a mindset shaped by practical experience, mentorship, and continuous learning.</p>
 
-<center><h1>Cybersecurity Projects</h1></center>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<table align="center" border="1" cellspacing="0" cellpadding="5">
-  <thead>
-    <tr style="background-color: #73b4d5; color: #000000; text-align: center;">
-      <th style="text-align: center;">Resource</th>
-      <th style="text-align: center;">Description</th>
-      <th style="text-align: center;">Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center;">Bank Risk Register Analysis</td>
-      <td style="text-align: center;">Top risks identified and ranked</td>
-      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Bank%20Risk%20Register%20Analysis%20%E2%80%93%20v1.0.2.pdf" target="_blank">View Report</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">Investigation of Unauthorized Payroll Access Incident</td>
-      <td style="text-align: center;">Breach traced to contractor admin account</td>
-      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Investigation%20of%20Unauthorized%20Payroll%20Access%20Incident%20-%20v1.2.0.pdf" target="_blank">View Report</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">Server Security Evaluation</td>
-      <td style="text-align: center;">Exposed DB server found, remediation advised</td>
-      <td style="text-align: center;"><a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Server%20Security%20Evaluation%20%E2%80%93%20v1.2.0.pdf" target="_blank">View Report</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">MCSI Portfolio</td>
-      <td style="text-align: center;">Progress tracked: milestones, domains, tools</td>
-      <td style="text-align: center;"><a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832" target="_blank">View Report</a></td>
-    </tr>
-  </tbody>
-</table>
+  <!-- Left PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>REPORT – Bank Risk Register Analysis – v1.0.2.pdf</figcaption>
+  </figure>
+
+  <!-- Right PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdfm</figcaption>
+  </figure>
+
+</div>
+
+<br>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- Left PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>REPORT – Server Security Evaluation – v1.2.0.pdf</figcaption>
+  </figure>
+
+  <!-- Right PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Enterprise%20IPsec%20VPN%20Troubleshooting%20%E2%80%93%20v1.0.0.pdf"
+            width="100%" 
+            height=800px" 
+            style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf</figcaption>
+  </figure>
+
+</div>
 
 <center><h1>Certifications</h1></center>
 
