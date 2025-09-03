@@ -25,7 +25,7 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1; text-align: center;">
-    <img src="assets/images/george.png" alt="George H. Ross" width="120" style="border-radius: 50%;"><br>
+    <img src="assets/images/Eldon-George.jpg" alt="George H. Ross" width="120" style="border-radius: 50%;"><br>
     <strong>George H. Ross</strong><br>
     <em>NBC’s ‘The Apprentice’ Judge & Mentor</em>
   </div>
@@ -36,7 +36,7 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 <div style="display: flex; align-items: center; flex-direction: row-reverse; margin-bottom: 40px;">
   <div style="flex: 1; text-align: center;">
-    <img src="assets/images/bruny.png" alt="Bruny Surin" width="120" style="border-radius: 50%;"><br>
+    <img src="assets/images/Eldon-Bruny.jpg" alt="Bruny Surin" width="120" style="border-radius: 50%;"><br>
     <strong>Bruny Surin</strong><br>
     <em>Olympic Gold Medalist</em>
   </div>
@@ -47,7 +47,7 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1; text-align: center;">
-    <img src="assets/images/wahida.png" alt="Wahida Clark" width="120" style="border-radius: 50%;"><br>
+    <img src="assets/images/Eldon-Wahida.jpg" alt="Wahida Clark" width="120" style="border-radius: 50%;"><br>
     <strong>Wahida Clark</strong><br>
     <em>4x NYT Bestselling Author</em>
   </div>
@@ -58,7 +58,7 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 <div style="display: flex; align-items: center; flex-direction: row-reverse; margin-bottom: 40px;">
   <div style="flex: 1; text-align: center;">
-    <img src="assets/images/alex.png" alt="Alex Clark" width="120" style="border-radius: 50%;"><br>
+    <img src="assets/images/Eldon-Alex.jpg" alt="Alex Clark" width="120" style="border-radius: 50%;"><br>
     <strong>Alex Clark</strong><br>
     <em>CEO, Quantum Pigeon Technologies Inc.</em>
   </div>
@@ -69,7 +69,7 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1; text-align: center;">
-    <img src="assets/images/stedman.png" alt="Stedman Graham" width="120" style="border-radius: 50%;"><br>
+    <img src="assets/images/Stedman.jpg" alt="Stedman Graham" width="120" style="border-radius: 50%;"><br>
     <strong>Stedman Graham</strong><br>
     <em>Businessman & Author</em>
   </div>
