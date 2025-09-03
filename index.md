@@ -6,7 +6,10 @@ image:
   path: /assets/images/banner.png
 ---
 
-<center><h1>Overview</h1></center>
+<center>
+  <h1>Overview</h1>
+  <hr style="width: 50%; border: 2px solid #000;">
+</center>
 
 I'm Eldon, an ISC2 Certified in Cybersecurity professional specializing in system administration and security operations. I approach cybersecurity as both a technical craft and a business-critical discipline, focusing on its foundations with the understanding that no computer network is ever truly secure.
 
@@ -16,11 +19,17 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 ---
 
-<center><h1>Professional Insights</h1></center>
+ <center>
+  <h1>Professional Insights</h1>
+  <hr style="width: 50%; border: 2px solid #000;">
+</center>
 
 <p>My journey from business to cybersecurity has been shaped by hands-on technical work and lessons learned from remarkable people along the way. These experiences taught me leadership, resilience, and strategic thinking—skills I now apply to building secure networks, hunting threats, and developing proactive defenses.</p>
 
-<center><h1>Key Influences and Lessons</h1></center>
+ <center>
+  <h2>Key Influences and Lessons</h2>
+  <hr style="width: 50%; border: 2px solid #000;">
+</center>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1; text-align: center;">
@@ -87,7 +96,10 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 ---
 
-<center><h1>Cybersecurity Reports</h1></center>
+<center>
+  <h1>Cybersecurity Reports</h1>
+  <hr style="width: 50%; border: 2px solid #000;">
+</center>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
@@ -141,7 +153,10 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 ---
 
-<center><h1>Certifications</h1></center>
+<center>
+  <h1>Certifications</h1>
+  <hr style="width: 50%; border: 2px solid #000;">
+</center>
 
 <div class="slideshow-container">
 
@@ -317,7 +332,10 @@ function showSlides() {
 
 ---
 
-<center><h1>Future Certifications</h1></center>
+<center>
+  <h1>Future Certifications</h1>
+  <hr style="width: 50%; border: 2px solid #000;">
+</center>
 
 <table align="center" border="1" cellspacing="0" cellpadding="5">
   <thead>
