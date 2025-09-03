@@ -21,57 +21,63 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 <center><h1>Key Influences and Lessons</h1></center>
 
-<table>
-  <thead>
-    <tr>
-      <th>Mentor</th>
-      <th>Role</th>
-      <th>Impact on My Cybersecurity Journey</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center;">
-        <img src="assets/images/george.png" alt="George H. Ross" width="80"><br>
-        <strong>George H. Ross</strong>
-      </td>
-      <td>NBC’s ‘The Apprentice’ Judge & Mentor</td>
-      <td>Instilled disciplined evaluation of risks, persistence, and thorough investigative practices essential for threat hunting and incident response.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">
-        <img src="assets/images/bruny.png" alt="Bruny Surin" width="80"><br>
-        <strong>Bruny Surin</strong>
-      </td>
-      <td>Olympic Gold Medalist</td>
-      <td>Taught discipline, focus, and composure under pressure—applied to high-stakes incident handling and complex security investigations.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">
-        <img src="assets/images/wahida.png" width="80" alt="Wahida Clark"><br>
-        <strong>Wahida Clark</strong>
-      </td>
-      <td>4x NYT Bestselling Author</td>
-      <td>Reinforced the importance of clear communication and storytelling to explain complex technical risks to non-technical audiences.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">
-        <img src="assets/images/alex.png" width="80" alt="Alex Clark"><br>
-        <strong>Alex Clark</strong>
-      </td>
-      <td>CEO, Quantum Pigeon Technologies Inc.</td>
-      <td>Highlighted the value of forward-thinking innovation and staying ahead of emerging technology trends, crucial for proactive cybersecurity defenses.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">
-        <img src="assets/images/stedman.png" width="80" alt="Stedman Graham"><br>
-        <strong>Stedman Graham</strong>
-      </td>
-      <td>Businessman & Author</td>
-      <td>Emphasized clarity of purpose and strategic thinking, helping to stay focused and intentional in building cybersecurity expertise and projects.</td>
-    </tr>
-  </tbody>
-</table>
+<center><h1>Key Influences and Lessons</h1></center>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="assets/images/george.png" alt="George H. Ross" width="120" style="border-radius: 50%;"><br>
+    <strong>George H. Ross</strong><br>
+    <em>NBC’s ‘The Apprentice’ Judge & Mentor</em>
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <p>Instilled disciplined evaluation of risks, persistence, and thorough investigative practices essential for threat hunting and incident response.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; flex-direction: row-reverse; margin-bottom: 40px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="assets/images/bruny.png" alt="Bruny Surin" width="120" style="border-radius: 50%;"><br>
+    <strong>Bruny Surin</strong><br>
+    <em>Olympic Gold Medalist</em>
+  </div>
+  <div style="flex: 2; padding-right: 20px;">
+    <p>Taught discipline, focus, and composure under pressure—applied to high-stakes incident handling and complex security investigations.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="assets/images/wahida.png" alt="Wahida Clark" width="120" style="border-radius: 50%;"><br>
+    <strong>Wahida Clark</strong><br>
+    <em>4x NYT Bestselling Author</em>
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <p>Reinforced the importance of clear communication and storytelling to explain complex technical risks to non-technical audiences.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; flex-direction: row-reverse; margin-bottom: 40px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="assets/images/alex.png" alt="Alex Clark" width="120" style="border-radius: 50%;"><br>
+    <strong>Alex Clark</strong><br>
+    <em>CEO, Quantum Pigeon Technologies Inc.</em>
+  </div>
+  <div style="flex: 2; padding-right: 20px;">
+    <p>Highlighted the value of forward-thinking innovation and staying ahead of emerging technology trends, crucial for proactive cybersecurity defenses.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="assets/images/stedman.png" alt="Stedman Graham" width="120" style="border-radius: 50%;"><br>
+    <strong>Stedman Graham</strong><br>
+    <em>Businessman & Author</em>
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <p>Emphasized clarity of purpose and strategic thinking, helping to stay focused and intentional in building cybersecurity expertise and projects.</p>
+  </div>
+</div>
+
 
 <p>I’ve also learned from other leaders across industries, each shaping my approach to cybersecurity with lessons in strategic thinking, innovation, and resilience.
 
