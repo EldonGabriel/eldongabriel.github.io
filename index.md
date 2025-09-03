@@ -109,22 +109,22 @@ I bring to every challenge technical rigor, strategic insight, and clear communi
 
   <!-- Left PDF -->
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0' | relative_url }}" 
+    <iframe src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" 
             width="100%" 
             height="800px" 
             style="border:1px solid #ccc;">
     </iframe>
-    <figcaption>REPORT – Server Security Evaluation – v1.2.0.pdf</figcaption>
+    <figcaption>REPORT – Server Security Evaluation – v1.2.0</figcaption>
   </figure>
 
   <!-- Right PDF -->
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
-   <iframe src="{{ '/aassets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0' | relative_url }}" 
+   <iframe src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" 
             width="100%" 
             height="800px" 
             style="border:1px solid #ccc;">
     </iframe>
-    <figcaption>GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf</figcaption>
+    <figcaption>GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0</figcaption>
   </figure>
 
 </div>
