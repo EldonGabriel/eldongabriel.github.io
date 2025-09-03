@@ -332,9 +332,9 @@ function showSlides() {
   <table cellspacing="10" cellpadding="5" style="border-collapse: collapse; width: 100%; text-align: center;">
     <thead>
       <tr style="background-color: #73b4d5; color: #000000;">
-        <th>Certification Name</th>
-        <th>Issuing Organization</th>
-        <th>Status</th>
+        <th style="text-align: center;">Certification Name</th>
+        <th style="text-align: center;">Issuing Organization</th>
+        <th style="text-align: center;">Status</th>
       </tr>
     </thead>
     <tbody>
@@ -352,8 +352,7 @@ function showSlides() {
   </table>
 </center>
 
-
-⭐**Note:** _Mossé Cyber Security Institute (MCSI)_ certifications are mapped to NIST NICE, US Military MOS, and ASD Cyber Skills Framework.
+<p style="font-size: 0.9em; color: #555;">⭐Note: Mossé Cyber Security Institute (MCSI) certifications are mapped to NIST NICE, US Military MOS, and ASD Cyber Skills Framework.</p>
 
 ***
 <br>
