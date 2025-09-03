@@ -19,7 +19,7 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 --- 
 <br>
 <center>
-  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Key Influences and Lessons</h1>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Key Influences and Lessons</h1>
 </center>
 
 <p>My journey from business to cybersecurity has been shaped by hands-on technical work and lessons learned from remarkable people along the way. These experiences taught me leadership, resilience, and strategic thinking—skills I now apply to building secure networks, hunting threats, and developing proactive defenses.</p>
@@ -87,8 +87,8 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 <p>I’ve also learned from other leaders across industries, each shaping my approach to cybersecurity with lessons in strategic thinking, innovation, and resilience. I bring to every challenge technical rigor, strategic insight, and clear communication. Whether investigating incidents, hardening systems, or assessing risks, I apply a mindset shaped by practical experience, mentorship, and continuous learning.</p>
 
---- <br>
-
+--- 
+<br>
 <center>
   <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Cybersecurity Reports</h2>
 </center>
@@ -143,8 +143,8 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 </div>
 
---- <br>
-
+--- 
+<br>
 <center>
   <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Certifications</h2>
 </center>
@@ -321,7 +321,8 @@ function showSlides() {
 }
 </script>
 
---- <br>
+--- 
+<br>
 
 <center>
   <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Future Certifications</h2>
