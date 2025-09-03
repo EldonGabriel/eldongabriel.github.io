@@ -309,7 +309,7 @@ function showSlides() {
   setTimeout(showSlides, 3000);
 }
 </script>
-
+<br>
 <center><h1>Future Certifications</h1></center>
 
 <table align="center" border="1" cellspacing="0" cellpadding="5">
