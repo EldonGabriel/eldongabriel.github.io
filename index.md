@@ -7,8 +7,7 @@ image:
 ---
 
 <center>
-  <h1>Overview</h1>
-  <hr style="width: 50%; border: 2px solid #000;">
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Overview</h1>
 </center>
 
 I'm Eldon, an ISC2 Certified in Cybersecurity professional specializing in system administration and security operations. I approach cybersecurity as both a technical craft and a business-critical discipline, focusing on its foundations with the understanding that no computer network is ever truly secure.
@@ -17,18 +16,16 @@ Through my hands-on work, I’ve gained practical experience in risk assessment,
 
 I'm currently advancing my skills through the MSAF course at the Mossé Cyber Security Institute, aiming to bring a risk-focused mindset and practical insight to strengthen organizational defenses.
 
----
+--- <br>
 
- <center>
-  <h1>Professional Insights</h1>
-  <hr style="width: 50%; border: 2px solid #000;">
+<center>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Professional Insights</h1>
 </center>
 
 <p>My journey from business to cybersecurity has been shaped by hands-on technical work and lessons learned from remarkable people along the way. These experiences taught me leadership, resilience, and strategic thinking—skills I now apply to building secure networks, hunting threats, and developing proactive defenses.</p>
 
- <center>
-  <h2>Key Influences and Lessons</h2>
-  <hr style="width: 50%; border: 2px solid #000;">
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Key Influences and Lessons</h2>
 </center>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
@@ -94,11 +91,10 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 <p>I’ve also learned from other leaders across industries, each shaping my approach to cybersecurity with lessons in strategic thinking, innovation, and resilience. I bring to every challenge technical rigor, strategic insight, and clear communication. Whether investigating incidents, hardening systems, or assessing risks, I apply a mindset shaped by practical experience, mentorship, and continuous learning.</p>
 
----
+--- <br>
 
 <center>
-  <h1>Cybersecurity Reports</h1>
-  <hr style="width: 50%; border: 2px solid #000;">
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Cybersecurity Reports</h2>
 </center>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -151,11 +147,10 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 </div>
 
----
+--- <br>
 
 <center>
-  <h1>Certifications</h1>
-  <hr style="width: 50%; border: 2px solid #000;">
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Certifications</h2>
 </center>
 
 <div class="slideshow-container">
@@ -330,11 +325,10 @@ function showSlides() {
 }
 </script>
 
----
+--- <br>
 
 <center>
-  <h1>Future Certifications</h1>
-  <hr style="width: 50%; border: 2px solid #000;">
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Future Certifications</h2>
 </center>
 
 <table align="center" border="1" cellspacing="0" cellpadding="5">
