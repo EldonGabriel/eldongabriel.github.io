@@ -329,7 +329,7 @@ function showSlides() {
 </center>
 
 <center>
-  <table cellspacing="10" cellpadding="5" style="border-collapse: collapse; width: 80%; text-align: center;">
+  <table cellspacing="10" cellpadding="5" style="border-collapse: collapse; width: 100%; text-align: center;">
     <thead>
       <tr style="background-color: #73b4d5; color: #000000;">
         <th>Certification Name</th>
