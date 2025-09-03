@@ -328,27 +328,30 @@ function showSlides() {
   <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Future Certifications</h2>
 </center>
 
-<table align="center" border="1" cellspacing="0" cellpadding="5">
-  <thead>
-    <tr style="background-color: #73b4d5; color: #000000; text-align: center;">
-      <th style="text-align: center;">Certification Name</th>
-      <th style="text-align: center;">Issuing Organization</th>
-      <th style="text-align: center;">Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center;">MSAF – System Administration Fundamentals⭐</td>
-      <td style="text-align: center;">Mossé Cyber Security Institute</td>
-      <td style="text-align: center;">In Progress</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">Enterprise System Management and Security</td>
-      <td style="text-align: center;">University of Colorado</td>
-      <td style="text-align: center;">In Progress</td>
-    </tr>
-  </tbody>
-</table>
+<center>
+  <table cellspacing="10" cellpadding="5" style="border-collapse: collapse; width: 80%; text-align: center;">
+    <thead>
+      <tr style="background-color: #73b4d5; color: #000000;">
+        <th>Certification Name</th>
+        <th>Issuing Organization</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>MSAF – System Administration Fundamentals⭐</td>
+        <td>Mossé Cyber Security Institute</td>
+        <td>In Progress</td>
+      </tr>
+      <tr>
+        <td>Enterprise System Management and Security</td>
+        <td>University of Colorado</td>
+        <td>In Progress</td>
+      </tr>
+    </tbody>
+  </table>
+</center>
+
 
 ⭐**Note:** _Mossé Cyber Security Institute (MCSI)_ certifications are mapped to NIST NICE, US Military MOS, and ASD Cyber Skills Framework.
 
