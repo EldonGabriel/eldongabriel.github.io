@@ -14,6 +14,7 @@ Through my hands-on work, I’ve gained practical experience in risk assessment,
 
 I'm currently advancing my skills through the MSAF course at the Mossé Cyber Security Institute, aiming to bring a risk-focused mindset and practical insight to strengthen organizational defenses.
 
+---
 
 <center><h1>Professional Insights</h1></center>
 
@@ -84,6 +85,8 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 <p>I’ve also learned from other leaders across industries, each shaping my approach to cybersecurity with lessons in strategic thinking, innovation, and resilience. I bring to every challenge technical rigor, strategic insight, and clear communication. Whether investigating incidents, hardening systems, or assessing risks, I apply a mindset shaped by practical experience, mentorship, and continuous learning.</p>
 
+---
+
 <center><h1>Cybersecurity Reports</h1></center>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -135,6 +138,8 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
   </figure>
 
 </div>
+
+---
 
 <center><h1>Certifications</h1></center>
 
@@ -309,7 +314,9 @@ function showSlides() {
   setTimeout(showSlides, 3000);
 }
 </script>
-<br>
+
+---
+
 <center><h1>Future Certifications</h1></center>
 
 <table align="center" border="1" cellspacing="0" cellpadding="5">
@@ -337,7 +344,7 @@ function showSlides() {
 ⭐**Note:** _Mossé Cyber Security Institute (MCSI)_ certifications are mapped to NIST NICE, US Military MOS, and ASD Cyber Skills Framework.
 
 ***
-
+<br>
 <img src="assets/images/fnlogo.png" alt="Banner" style="width:100%; height:auto;">
 
 Field Notes documents my journey in cybersecurity, highlighting real-world projects, technical problem-solving, and applied skills that showcase my ability to bridge IT fundamentals with security operations.
