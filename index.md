@@ -88,7 +88,7 @@ I bring to every challenge technical rigor, strategic insight, and clear communi
             height="800px" 
             style="border:1px solid #ccc;">
     </iframe>
-    <figcaption>REPORT – Bank Risk Register Analysis – v1.0.2.pdf</figcaption>
+    <figcaption>REPORT – Bank Risk Register Analysis – v1.0.2</figcaption>
   </figure>
 
   <!-- Right PDF -->
@@ -98,7 +98,7 @@ I bring to every challenge technical rigor, strategic insight, and clear communi
             height="800px" 
             style="border:1px solid #ccc;">
     </iframe>
-    <figcaption>REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf</figcaption>
+    <figcaption>REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0</figcaption>
   </figure>
 
 </div>
@@ -109,7 +109,7 @@ I bring to every challenge technical rigor, strategic insight, and clear communi
 
   <!-- Left PDF -->
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" 
+    <iframe src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0' | relative_url }}" 
             width="100%" 
             height="800px" 
             style="border:1px solid #ccc;">
@@ -119,7 +119,7 @@ I bring to every challenge technical rigor, strategic insight, and clear communi
 
   <!-- Right PDF -->
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
-   <iframe src="{{ '/assets/reports/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" 
+   <iframe src="{{ '/aassets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0' | relative_url }}" 
             width="100%" 
             height="800px" 
             style="border:1px solid #ccc;">
