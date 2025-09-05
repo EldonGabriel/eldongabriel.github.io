@@ -5,8 +5,8 @@ author: Eldon Gabriel
 tags: [Windows, System Administration, Cybersecurity, Labs, AWS, Virtualization]
 excerpt: "A collection of 11 hands-on labs designed to build Windows administration skills, covering maintenance, troubleshooting, security, and automation — all tested in an AWS-hosted Windows 10 VM."
 image:
-  path:"/assets/images/11labs.png"
-  thumbnail:"/assets/images/11labs.png"
+  path: "/assets/images/11labs.png"
+  thumbnail: "/assets/images/11labs.png"
 ---
 
 As part of my cybersecurity and system administration journey, I designed 11 independent labs focused on Windows 10. Each lab highlights one tool or feature and shows how it applies to real administration work. I built and tested everything inside an AWS-hosted Windows 10 VM for hands-on cloud experience.  
