@@ -101,8 +101,6 @@ Proven ability to document actionable findings, produce structured reports, and 
 - **Password Managers** – Secure configuration and management of credential storage – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%20%E2%80%93%20Password%20Managers%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Report</a>  
 
 **Windows Administration Labs**
-A collection of 11 hands-on Windows labs showcasing practical system administration skills in an AWS-hosted Windows 10 VM.  
-
 1. **Windows Disk Cleanup – System Maintenance & Admin Skills** – [View Demo](https://youtu.be/HeSARWF3F58)  
 2. **Defragment & Optimize Drives – System Maintenance & Admin Skills** – [View Demo](https://youtu.be/G7riXJI8w4U)  
 3. **Task Scheduler – Automate System Tasks & Maintenance** – [View Demo](https://youtu.be/z8nXF2OleGo)  
