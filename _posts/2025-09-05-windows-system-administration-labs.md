@@ -7,8 +7,6 @@ excerpt: "A collection of 11 hands-on labs designed to build Windows administrat
 image: "/assets/images/11labs.png"
 ---
 
-## Mastering Windows System Administration: 11 Independent Labs  
-
 As part of my cybersecurity and system administration journey, I designed 11 independent labs focused on Windows 10. Each lab highlights one tool or feature and shows how it applies to real administration work. I built and tested everything inside an AWS-hosted Windows 10 VM for hands-on cloud experience.  
 
 The goal of these labs is simple: build practical skills in system maintenance, troubleshooting, and secure administration. Below is a summary of the labs with direct demo links.  
@@ -17,7 +15,7 @@ The goal of these labs is simple: build practical skills in system maintenance, 
 
 <div align="center">
 
-## 1. Windows Disk Cleanup – System Maintenance & Admin Skills  
+<h2>1. Windows Disk Cleanup – System Maintenance & Admin Skills</h2>  
 Focused on freeing space, removing temporary files, and improving performance.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HeSARWF3F58" frameborder="0" allowfullscreen></iframe>  
@@ -28,7 +26,7 @@ Focused on freeing space, removing temporary files, and improving performance.
 
 <div align="center">
 
-## 2. Defragment & Optimize Drives – System Maintenance & Admin Skills  
+<h2>2. Defragment & Optimize Drives – System Maintenance & Admin Skills</h2>  
 Showed how to optimize both HDDs and SSDs for better system response.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G7riXJI8w4U" frameborder="0" allowfullscreen></iframe>  
@@ -39,7 +37,7 @@ Showed how to optimize both HDDs and SSDs for better system response.
 
 <div align="center">
 
-## 3. Task Scheduler – Automate System Tasks & Maintenance  
+<h2>3. Task Scheduler – Automate System Tasks & Maintenance</h2>
 Created and tested automated jobs to reduce manual steps.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WZtkpKxr9xE" frameborder="0" allowfullscreen></iframe>  
@@ -50,7 +48,7 @@ Created and tested automated jobs to reduce manual steps.
 
 <div align="center">
 
-## 4. Windows Defender Firewall – Network Security & Control  
+<h2>4. Windows Defender Firewall – Network Security & Control</h2>  
 Configured rules, blocked traffic, and tested connectivity for security control.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z8nXF2OleGo" frameborder="0" allowfullscreen></iframe>  
@@ -61,7 +59,7 @@ Configured rules, blocked traffic, and tested connectivity for security control.
 
 <div align="center">
 
-## 5. Registry Editor – Advanced System Configuration  
+<h2>5. Registry Editor – Advanced System Configuration</h2>  
 Demonstrated safe edits, backups, and restorations of registry keys.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g9A2faHgWWs" frameborder="0" allowfullscreen></iframe>  
@@ -72,7 +70,7 @@ Demonstrated safe edits, backups, and restorations of registry keys.
 
 <div align="center">
 
-## 6. Event Viewer – Monitoring System Events & Troubleshooting  
+<h2>6. Event Viewer – Monitoring System Events & Troubleshooting</h2>  
 Reviewed logs, identified warnings, and applied filters to trace system issues.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rw7QL5BgQgI" frameborder="0" allowfullscreen></iframe>  
@@ -83,7 +81,7 @@ Reviewed logs, identified warnings, and applied filters to trace system issues.
 
 <div align="center">
 
-## 7. System Information – Hardware & Software Overview  
+<h2>7. System Information – Hardware & Software Overview</h2>
 Gathered and exported system details for auditing and troubleshooting.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-AfFdEs_sTY" frameborder="0" allowfullscreen></iframe>  
@@ -94,7 +92,7 @@ Gathered and exported system details for auditing and troubleshooting.
 
 <div align="center">
 
-## 8. Programs and Features – Software Management  
+<h2>8. Programs and Features – Software Management</h2> 
 Installed and removed applications to maintain system stability.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQAwuYjr_b0" frameborder="0" allowfullscreen></iframe>  
@@ -105,7 +103,7 @@ Installed and removed applications to maintain system stability.
 
 <div align="center">
 
-## 9. Network and Sharing Center – Connectivity & Troubleshooting  
+<h2>9. Network and Sharing Center – Connectivity & Troubleshooting</h2> 
 Checked active connections, ran diagnostics, and documented results.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qyRWBM-w-1s" frameborder="0" allowfullscreen></iframe>  
@@ -116,7 +114,7 @@ Checked active connections, ran diagnostics, and documented results.
 
 <div align="center">
 
-## 10. BitLocker Drive Encryption – Data Security Planning  
+<h2>10. BitLocker Drive Encryption – Data Security Planning</h2> 
 Configured NTFS permissions and planned encryption steps for drive security.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wlgnNwbKe3w" frameborder="0" allowfullscreen></iframe>  
@@ -127,7 +125,7 @@ Configured NTFS permissions and planned encryption steps for drive security.
 
 <div align="center">
 
-## 11. Credential Manager – Secure Login & Password Management  
+<h2>11. Credential Manager – Secure Login & Password Management</h2>  
 Created, edited, and removed Windows credentials for secure authentication.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8UPRuS-ZZ3s" frameborder="0" allowfullscreen></iframe>  
