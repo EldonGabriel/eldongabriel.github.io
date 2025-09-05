@@ -15,7 +15,7 @@ The goal of these labs is simple: build practical skills in system maintenance, 
 
 <div align="center">
 
-<h3>1. Windows Disk Cleanup – System Maintenance & Admin Skills</h3>  
+<h3>1. Windows Disk Cleanup</h3>  
 Focused on freeing space, removing temporary files, and improving performance.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HeSARWF3F58" frameborder="0" allowfullscreen></iframe>  
@@ -26,7 +26,7 @@ Focused on freeing space, removing temporary files, and improving performance.
 
 <div align="center">
 
-<h3>2. Defragment & Optimize Drives – System Maintenance & Admin Skills</h3>  
+<h3>2. Defragment & Optimize Drives</h3>  
 Showed how to optimize both HDDs and SSDs for better system response.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G7riXJI8w4U" frameborder="0" allowfullscreen></iframe>  
@@ -37,7 +37,7 @@ Showed how to optimize both HDDs and SSDs for better system response.
 
 <div align="center">
 
-<h3>3. Task Scheduler – Automate System Tasks & Maintenance</h3>
+<h3>3. Task Scheduler</h3>
 Created and tested automated jobs to reduce manual steps.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WZtkpKxr9xE" frameborder="0" allowfullscreen></iframe>  
@@ -48,7 +48,7 @@ Created and tested automated jobs to reduce manual steps.
 
 <div align="center">
 
-<h3>4. Windows Defender Firewall – Network Security & Control</h3>  
+<h3>4. Windows Defender Firewall</h3>  
 Configured rules, blocked traffic, and tested connectivity for security control.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z8nXF2OleGo" frameborder="0" allowfullscreen></iframe>  
@@ -59,7 +59,7 @@ Configured rules, blocked traffic, and tested connectivity for security control.
 
 <div align="center">
 
-<h3>5. Registry Editor – Advanced System Configuration</h3>  
+<h3>5. Registry Editor</h3>  
 Demonstrated safe edits, backups, and restorations of registry keys.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g9A2faHgWWs" frameborder="0" allowfullscreen></iframe>  
@@ -70,7 +70,7 @@ Demonstrated safe edits, backups, and restorations of registry keys.
 
 <div align="center">
 
-<h3>6. Event Viewer – Monitoring System Events & Troubleshooting</h3>  
+<h3>6. Event Viewer</h3>  
 Reviewed logs, identified warnings, and applied filters to trace system issues.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rw7QL5BgQgI" frameborder="0" allowfullscreen></iframe>  
@@ -81,7 +81,7 @@ Reviewed logs, identified warnings, and applied filters to trace system issues.
 
 <div align="center">
 
-<h3>7. System Information – Hardware & Software Overview</h3>
+<h3>7. System Information</h3>
 Gathered and exported system details for auditing and troubleshooting.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-AfFdEs_sTY" frameborder="0" allowfullscreen></iframe>  
@@ -92,7 +92,7 @@ Gathered and exported system details for auditing and troubleshooting.
 
 <div align="center">
 
-<h3>8. Programs and Features – Software Management</h3> 
+<h3>8. Programs and Features</h3> 
 Installed and removed applications to maintain system stability.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQAwuYjr_b0" frameborder="0" allowfullscreen></iframe>  
@@ -103,7 +103,7 @@ Installed and removed applications to maintain system stability.
 
 <div align="center">
 
-<h3>9. Network and Sharing Center – Connectivity & Troubleshooting</h3> 
+<h3>9. Network and Sharing Center</h3> 
 Checked active connections, ran diagnostics, and documented results.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qyRWBM-w-1s" frameborder="0" allowfullscreen></iframe>  
@@ -114,7 +114,7 @@ Checked active connections, ran diagnostics, and documented results.
 
 <div align="center">
 
-<h3>10. BitLocker Drive Encryption – Data Security Planning</h3> 
+<h3>10. BitLocker Drive Encryption</h3> 
 Configured NTFS permissions and planned encryption steps for drive security.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wlgnNwbKe3w" frameborder="0" allowfullscreen></iframe>  
@@ -125,7 +125,7 @@ Configured NTFS permissions and planned encryption steps for drive security.
 
 <div align="center">
 
-<h3>11. Credential Manager – Secure Login & Password Management</h3>  
+<h3>11. Credential Manager</h3>  
 Created, edited, and removed Windows credentials for secure authentication.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8UPRuS-ZZ3s" frameborder="0" allowfullscreen></iframe>  
