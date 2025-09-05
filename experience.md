@@ -16,15 +16,13 @@ image:
 ---
 
 ## Professional Summary
-ISC² Certified in Cybersecurity with extensive hands-on experience as a Cybersecurity Technician, currently advancing skills through the MSAF course at the Mossé Cyber Security Institute (MCSI). Skilled in Windows/Linux system administration, network security, and Python automation. Experienced in GRC assessments, penetration testing, OSINT, and digital forensics.  
-
-Proven ability to document actionable findings, produce structured reports, and manage technical operations. Seeking to apply practical skills to entry-level roles in security operations, threat analysis, or system administration.
+ISC² Certified Cybersecurity Technician with hands-on experience in system administration, network security, and ethical hacking. Skilled in Windows/Linux administration, Python automation, Kali Linux, penetration testing, OSINT, threat hunting, and digital forensics using Nmap, Dumpzilla, PE Studio, and virtual labs. Known for producing clear documentation, automation scripts, and practical solutions. Seeking entry-level roles in security operations, investigative projects, or system administration.
 
 ---
 
 ## Core Competencies
 - **System Administration & Security:** Windows Server, Linux CLI, GPO, Firewall, Backup, System Hardening.  
-- **Networking & Tools:** VPNs, Cisco Packet Tracer, Nmap, Wireshark, IDS/IPS, NAT, ACLs. 
+- **Networking & Tools:** VPNs, Cisco Packet Tracer, Nmap, Wireshark, IDS/IPS, NAT, ACLs, Kali Linux. 
 - **Governance, Risk & Compliance:** NIST frameworks, Risk Assessment, Technical Documentation, Compliance Audits.  
 - **Forensics & OSINT:** Malware Analysis (YARA), Digital Artifacts, Social Media Mapping, Threat Intelligence.  
 - **Programming & Automation:** Python scripting for cybersecurity tasks.
@@ -41,7 +39,7 @@ Proven ability to document actionable findings, produce structured reports, and 
 - Implemented Windows system hardening and firewall rules, including SMB access restrictions.
 
 *Cybersecurity Technician* | Feb 2025 – Jul 2025  
-- Conducted reconnaissance and malware analysis using YARA for threat detection.  
+- Conducted penetration testing and threat analysis using Kaili Linux, Nmap and other tools.  
 - Practiced operational defense through simulated real-world incidents.  
 - Created mindmaps of OSINT data collected from social media platforms and communities.  
 - Developed and professionally documented YARA rules for detecting suspicious files and executables.
@@ -159,4 +157,5 @@ Proven ability to document actionable findings, produce structured reports, and 
 - **ISC²** – Certified in Cybersecurity (CC)
 - **Google** – IT Support, Cybersecurity Professional
 - **InfoSec** – NIST Cybersecurity Risk Management, NIST 800-171, NIST DoD RMF, NIST CSF
+- **Board Infinity / Coursera** – Kali Linux Fundamentals (Ethical Hacking & Penetration Testing)
 - **Duke University** – Decentralized Finance (DeFi) Infrastructure
