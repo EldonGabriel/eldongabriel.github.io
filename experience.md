@@ -110,7 +110,8 @@ Proven ability to document actionable findings, produce structured reports, and 
 - **System Information – Hardware & Software Overview** – [View Demo](https://youtu.be/-AfFdEs_sTY)  
 - **Programs and Features – Software Management** – [View Demo](https://youtu.be/cQAwuYjr_b0)  
 - **Network and Sharing Center – Connectivity & Troubleshooting** – [View Demo](https://youtu.be/qyRWBM-w-1s)  
-- **BitLocker Drive Encryption – Data Security Planning** – [View Demo](https://youtu.be/wlgnNwbKe3w) - **Credential Manager – Secure Login & Password Management** – [View Demo](https://youtu.be/8UPRuS-ZZ3s)  
+- **BitLocker Drive Encryption – Data Security Planning** – [View Demo](https://youtu.be/wlgnNwbKe3w)
+- **Credential Manager – Secure Login & Password Management** – [View Demo](https://youtu.be/8UPRuS-ZZ3s)  
 
 **System Development & Hardening**  
 - **Linux File Permissions Management** – Secured Linux systems via permission enforcement – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Linux%20File%20Permissions%20Management%20-%20v1.0.2.pdf" target="_blank">View Report</a>  
