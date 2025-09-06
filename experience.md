@@ -44,21 +44,21 @@ ISC² Certified Cybersecurity Technician with hands-on experience in system admi
 - Created mindmaps of OSINT data collected from social media platforms and communities.  
 - Developed and professionally documented YARA rules for detecting suspicious files and executables.
 
-**Land Property Partners | Remote**  
+**Land Property Partners** | Remote
 *Land Acquisition Specialist* | Mar 2020 – Present  
 - Managed sensitive property data and performed risk analysis.  
 - Built and maintained the company website, implementing SEO and technical improvements.  
 - Configured digital contract workflows and CRM lead distribution.  
 - Provided technical support to buyers, sellers, and staff.
 
-**Nutrition Outlet | Remote**  
+**Nutrition Outlet** | Remote 
 *Owner* | Mar 2015 – Present  
 - Led multi-channel retail business operations, transitioning fully online.  
 - Built and maintained a WordPress-based e-commerce platform with secure payment systems.  
 - Oversaw customer data protection, financial system security, and operational risk mitigation.  
 - Directed end-to-end operations aligning business goals with IT and security requirements.
 
-**Secure Host Inc. | Hybrid**  
+**Secure Host Inc.** | Hybrid 
 *Security Operations Manager* | 2007 – 2014  
 - Led security operations, risk assessments, and incident response.  
 - Supervised security teams and developed operational process documentation.
