@@ -33,42 +33,42 @@ My professional journey combines entrepreneurial experience with technical roles
   <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Cybersecurity Reports</h2>
 </center>
 
-<div style="display:flex; flex-wrap:wrap; gap:20px;">
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
 
-<div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/reports/REPORT – Access Control Incident - v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-  <p><strong>REPORT – Access Control Incident – v1.2.0</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Access Control Incident - v1.2.0.pdf' | relative_url }}"></iframe>
+    <p><strong>REPORT – Access Control Incident – v1.2.0</strong></p>
+  </div>
 
-<div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/reports/REPORT – BYOD in Organizations_ Security, Challenges, and Strategies – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-  <p><strong>REPORT – BYOD in Organizations – v1.0.1</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – BYOD in Organizations_ Security, Challenges, and Strategies – v1.0.1.pdf' | relative_url }}"></iframe>
+    <p><strong>REPORT – BYOD in Organizations – v1.0.1</strong></p>
+  </div>
 
-<div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-  <p><strong>REPORT – Bank Risk Register Analysis – v1.0.2</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}"></iframe>
+    <p><strong>REPORT – Bank Risk Register Analysis – v1.0.2</strong></p>
+  </div>
 
-<div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/reports/REPORT – Botium Security Audit– v1.1.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-  <p><strong>REPORT – Botium Security Audit – v1.1.0</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Botium Security Audit– v1.1.0.pdf' | relative_url }}"></iframe>
+    <p><strong>REPORT – Botium Security Audit – v1.1.0</strong></p>
+  </div>
 
-<div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-  <p><strong>REPORT – Investigation of Unauthorized Payroll Access Incident – v1.2.0</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}"></iframe>
+    <p><strong>REPORT – Investigation of Unauthorized Payroll Access Incident – v1.2.0</strong></p>
+  </div>
 
-<div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/reports/REPORT – Post-Breach Security Recommendations – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-  <p><strong>REPORT – Post-Breach Security Recommendations – v1.0.1</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Post-Breach Security Recommendations – v1.0.1.pdf' | relative_url }}"></iframe>
+    <p><strong>REPORT – Post-Breach Security Recommendations – v1.0.1</strong></p>
+  </div>
 
-<div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/reports/REPORT – SQL Query Analysis Incident – v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-  <p><strong>REPORT – SQL Query Analysis Incident – v1.0.2</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – SQL Query Analysis Incident – v1.0.2.pdf' | relative_url }}"></iframe>
+    <p><strong>REPORT – SQL Query Analysis Incident – v1.0.2</strong></p>
+  </div>
 
 </div>
 
@@ -78,41 +78,43 @@ My professional journey combines entrepreneurial experience with technical roles
   <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Windows Security Guides</h2>
 </center>
 
-<div style="display:flex; flex-wrap:wrap; gap:20px;">
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
 
-<div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/guides/GUIDE – SMB Protocol_ Function and Security Risks – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-  <p><strong>GUIDE – SMB Protocol – v1.0.0</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/guides/GUIDE – SMB Protocol_ Function and Security Risks – v1.0.0.pdf' | relative_url }}"></iframe>
+    <p><strong>GUIDE – SMB Protocol – v1.0.0</strong></p>
+  </div>
 
-<div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/guides/GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-  <p><strong>GUIDE – Access Permissions and Rights – v1.0.0</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/guides/GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0.pdf' | relative_url }}"></iframe>
+    <p><strong>GUIDE – Access Permissions and Rights – v1.0.0</strong></p>
+  </div>
 
-<div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/guides/GUIDE – Monitoring Windows Processes with Procmon – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-  <p><strong>GUIDE – Monitoring Windows Processes with Procmon – v1.0.1</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/guides/GUIDE – Monitoring Windows Processes with Procmon – v1.0.1.pdf' | relative_url }}"></iframe>
+    <p><strong>GUIDE – Monitoring Windows Processes with Procmon – v1.0.1</strong></p>
+  </div>
 
-<div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/guides/GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-  <p><strong>GUIDE – Endpoint Registry Controls – v1.0.0</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/guides/GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf' | relative_url }}"></iframe>
+    <p><strong>GUIDE – Endpoint Registry Controls – v1.0.0</strong></p>
+  </div>
 
-<div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/guides/GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-  <p><strong>GUIDE – RDP Troubleshooting – v1.0.0</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/guides/GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf' | relative_url }}"></iframe>
+    <p><strong>GUIDE – RDP Troubleshooting – v1.0.0</strong></p>
+  </div>
 
-<div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/reports/REPORT – File Ownership Recovery – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-  <p><strong>REPORT – File Ownership Recovery – v1.0.0</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – File Ownership Recovery – v1.0.0.pdf' | relative_url }}"></iframe>
+    <p><strong>REPORT – File Ownership Recovery – v1.0.0</strong></p>
+  </div>
 
-<div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/reports/REPORT  – Password Managers – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-  <p><strong>REPORT – Password Managers – v1.0.0</strong></p>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT  – Password Managers – v1.0.0.pdf' | relative_url }}"></iframe>
+    <p><strong>REPORT – Password Managers – v1.0.0</strong></p>
+  </div>
+
 </div>
 
 </div>
@@ -194,21 +196,23 @@ My professional journey combines entrepreneurial experience with technical roles
   <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">System Development & Hardening</h2>
 </center>
 
-<div style="display:flex; flex-wrap:wrap; gap:20px;">
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
 
-<div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/reports/REPORT – Linux File Permissions Management - v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-  <p><strong>REPORT – Linux File Permissions Management – v1.0.2</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Linux File Permissions Management - v1.0.2.pdf' | relative_url }}"></iframe>
+    <p><strong>REPORT – Linux File Permissions Management – v1.0.2</strong></p>
+  </div>
 
-<div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/reports/REPORT – Python Algorithm for Managing IP Access – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-  <p><strong>REPORT – Python Algorithm for IP Access – v1.0.1</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Python Algorithm for Managing IP Access – v1.0.1.pdf' | relative_url }}"></iframe>
+    <p><strong>REPORT – Python Algorithm for IP Access – v1.0.1</strong></p>
+  </div>
 
-<div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-  <p><strong>REPORT – Server Security Evaluation – v1.2.0</strong></p>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}"></iframe>
+    <p><strong>REPORT – Server Security Evaluation – v1.2.0</strong></p>
+  </div>
+
 </div>
 
 </div>
@@ -219,64 +223,56 @@ My professional journey combines entrepreneurial experience with technical roles
   <h2 style="display: inline-block; width: 60%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Network Fundamentals</h2>
 </center>
 
-<div style="display:flex; flex-wrap:wrap; gap:20px;">
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
 
-  <!-- IP Subnetting Fundamentals -->
-  <div style="width:48%; text-align:center;">
-    <iframe src="{{ '/assets/reports/REPORT – IP Subnetting Fundamentals – v1.0.0.pdf' | relative_url }}" width="100%" height="800" style="border:1px solid #ccc;"></iframe>
+  <!-- PDFs -->
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – IP Subnetting Fundamentals – v1.0.0.pdf' | relative_url }}"></iframe>
     <p><strong>REPORT – IP Subnetting Fundamentals – v1.0.0.pdf</strong></p>
   </div>
 
-  <!-- Kerberos Authentication Protocol -->
-  <div style="width:48%; text-align:center;">
-    <iframe src="{{ '/assets/reports/REPORT – Kerberos Authentication Protocol – v1.0.1.pdf' | relative_url }}" width="100%" height="800" style="border:1px solid #ccc;"></iframe>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Kerberos Authentication Protocol – v1.0.1.pdf' | relative_url }}"></iframe>
     <p><strong>REPORT – Kerberos Authentication Protocol – v1.0.1.pdf</strong></p>
   </div>
 
-  <!-- Network Attack Analysis -->
-  <div style="width:48%; text-align:center;">
-    <iframe src="{{ '/assets/reports/REPORT – Network Attack Analysis – v1.0.1.pdf' | relative_url }}" width="100%" height="800" style="border:1px solid #ccc;"></iframe>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Network Attack Analysis – v1.0.1.pdf' | relative_url }}"></iframe>
     <p><strong>REPORT – Network Attack Analysis – v1.0.1.pdf</strong></p>
   </div>
 
-  <!-- DNS Analysis with dig -->
-  <div style="width:48%; text-align:center;">
-    <iframe src="{{ '/assets/reports/REPORT – DNS Analysis with dig – v1.0.1.pdf' | relative_url }}" width="100%" height="800" style="border:1px solid #ccc;"></iframe>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – DNS Analysis with dig – v1.0.1.pdf' | relative_url }}"></iframe>
     <p><strong>REPORT – DNS Analysis with dig – v1.0.1.pdf</strong></p>
   </div>
 
-  <!-- DNS Outage & Port 53 Failure -->
-  <div style="width:48%; text-align:center;">
-    <iframe src="{{ '/assets/reports/REPORT – DNS Outage and Port 53 Failure Analysis – v1.0.1.pdf' | relative_url }}" width="100%" height="800" style="border:1px solid #ccc;"></iframe>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – DNS Outage and Port 53 Failure Analysis – v1.0.1.pdf' | relative_url }}"></iframe>
     <p><strong>REPORT – DNS Outage and Port 53 Failure Analysis – v1.0.1.pdf</strong></p>
   </div>
 
-  <!-- Enterprise IPsec VPN Troubleshooting -->
-  <div style="width:48%; text-align:center;">
-    <iframe src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" width="100%" height="800" style="border:1px solid #ccc;"></iframe>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe class="pdf-embed" src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}"></iframe>
     <p><strong>GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf</strong></p>
   </div>
 
-  <!-- Windows Setup for Secure Networking -->
-  <div style="width:48%; text-align:center;">
+  <!-- Videos -->
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/m4MngVs_bmM" title="Windows Setup for Secure Networking" frameborder="0" allowfullscreen></iframe>
     <p><strong>Windows Setup for Secure Networking</strong></p>
   </div>
 
-  <!-- Network Adapter Installation & Testing -->
-  <div style="width:48%; text-align:center;">
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/5lywwd1MQRo" title="Network Adapter Installation & Testing" frameborder="0" allowfullscreen></iframe>
     <p><strong>Network Adapter Installation & Testing</strong></p>
   </div>
 
-  <!-- Windows Firewall Configuration -->
-  <div style="width:48%; text-align:center;">
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/U_4TeohPNQ4" title="Windows Firewall Configuration" frameborder="0" allowfullscreen></iframe>
     <p><strong>Windows Firewall Configuration</strong></p>
   </div>
 
-  <!-- Domain Join & GPO Setup -->
-  <div style="width:48%; text-align:center;">
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/JE3jutqyI4Q" title="Domain Join & GPO Setup" frameborder="0" allowfullscreen></iframe>
     <p><strong>Domain Join & GPO Setup</strong></p>
   </div>
@@ -289,27 +285,27 @@ My professional journey combines entrepreneurial experience with technical roles
   <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">SQL for Cybersecurity</h2>
 </center>
 
-<div style="display:flex; flex-wrap:wrap; gap:20px;">
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
 
-<div style="width:48%; text-align:center;">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/TUqYto8EDJ4" title="Investigating Database Activity" frameborder="0" allowfullscreen></iframe>
-  <p><strong>Investigating Database Activity</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/TUqYto8EDJ4" title="Investigating Database Activity" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Investigating Database Activity</strong></p>
+  </div>
 
-<div style="width:48%; text-align:center;">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/bhTHXhE6kTk" title="Investigate Security Incidents with SQL" frameborder="0" allowfullscreen></iframe>
-  <p><strong>Investigate Security Incidents with SQL</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/bhTHXhE6kTk" title="Investigate Security Incidents with SQL" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Investigate Security Incidents with SQL</strong></p>
+  </div>
 
-<div style="width:48%; text-align:center;">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/5qCjwenE-Z0" title="Using AND, OR, NOT" frameborder="0" allowfullscreen></iframe>
-  <p><strong>Using AND, OR, NOT</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/5qCjwenE-Z0" title="Using AND, OR, NOT" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Using AND, OR, NOT</strong></p>
+  </div>
 
-<div style="width:48%; text-align:center;">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/ynxJ1go-Cc8" title="SQL Joins for Security Investigation" frameborder="0" allowfullscreen></iframe>
-  <p><strong>SQL Joins for Security Investigation</strong></p>
-</div>
+  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/ynxJ1go-Cc8" title="SQL Joins for Security Investigation" frameborder="0" allowfullscreen></iframe>
+    <p><strong>SQL Joins for Security Investigation</strong></p>
+  </div>
 
 </div>
 
@@ -319,16 +315,16 @@ My professional journey combines entrepreneurial experience with technical roles
   <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Cybersecurity Templates</h2>
 </center>
 
-<div style="display:flex; gap:20px; flex-wrap:wrap;">
+<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
 
-  <div style="flex:1; min-width:400px; text-align:center;">
+  <div style="flex:1; min-width:300px; max-width:500px; text-align:center;">
     <a href="https://docs.google.com/document/d/e/2PACX-1vSDsQTUCRoz0gKbLHZA1PpmvA62tsR7l7T6V67L2DGKoEYU2tExpanNV4szw2cZNswpv8D-8MwYIjc7/pub" target="_blank">
       <img src="/assets/images/CSRTcover.png" alt="Professional Cybersecurity Report Template Guide" style="width:100%; height:auto;">
     </a>
     <p><strong><a href="https://docs.google.com/document/d/e/2PACX-1vSDsQTUCRoz0gKbLHZA1PpmvA62tsR7l7T6V67L2DGKoEYU2tExpanNV4szw2cZNswpv8D-8MwYIjc7/pub" target="_blank">Professional Cybersecurity Report Template Guide</a></strong></p>
   </div>
 
-  <div style="flex:1; min-width:400px; text-align:center;">
+  <div style="flex:1; min-width:300px; max-width:500px; text-align:center;">
     <a href="https://docs.google.com/document/d/e/2PACX-1vRfW464qr10tFcRD4WLPVRVKa1W4UDaodRk_Haakfr3rqwcwRgd-d4k3J9Es6uMlH62XSU87a10aINc/pub" target="_blank">
       <img src="/assets/images/BYODcover.png" alt="BYOD Policy & Agreement Template" style="width:100%; height:auto;">
     </a>
