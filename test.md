@@ -17,15 +17,21 @@ image:
 
 ---
 
-<center><h2>About Me</h2></center>
+<center>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">About Me</h1>
+</center>
 
 My professional journey combines entrepreneurial experience with technical roles, culminating in a focus on cybersecurity operations. Below are some of my most impactful projects and roles that showcase hands-on skills in system administration, network security, incident response, and digital forensics.
 
 ---
+<br>
+<center>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Work & Projects</h1>
+</center>
 
-<center><h2>Work & Projects</h2></center>
-
-<center><h3>Cybersecurity Reports</h3></center>
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Cybersecurity Reports</h2>
+</center>
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
@@ -66,10 +72,11 @@ My professional journey combines entrepreneurial experience with technical roles
 
 </div>
 
-
 ---
-
-<center><h3>Windows Security Guides</h3></center>
+<br>
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Windows Security Guides</h2>
+</center>
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
@@ -109,10 +116,11 @@ My professional journey combines entrepreneurial experience with technical roles
 </div>
 
 </div>
-
 ---
-
-<center><h3>Windows Administration Labs</h3></center>
+<br>
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Windows Administration Labs</h2>
+</center>
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
@@ -147,8 +155,11 @@ My professional journey combines entrepreneurial experience with technical roles
 </div>
 
 </div>
-
-<center><h3>System Development & Hardening</h3></center>
+---
+<br>
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">System Development & Hardening</h2>
+</center>
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
@@ -169,7 +180,11 @@ My professional journey combines entrepreneurial experience with technical roles
 
 </div>
 
-<center><h3>Network Fundamentals</h3></center>
+---
+<br>
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Network Fundamentals</h2>
+</center>
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
@@ -205,7 +220,11 @@ My professional journey combines entrepreneurial experience with technical roles
 
 </div>
 
-<center><h3>SQL for Cybersecurity</h3></center>
+---
+<br>
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">SQL for Cybersecurity</h2>
+</center>
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
@@ -231,33 +250,41 @@ My professional journey combines entrepreneurial experience with technical roles
 
 </div>
 
-<center><h3>Cybersecurity Templates</h3></center>
+---
+<br>
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Cybersecurity Templates</h2>
+</center>
 
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
 
   <div style="flex:1; min-width:400px; text-align:center;">
-    <iframe src="https://docs.google.com/document/d/e/2PACX-1vSDsQTUCRoz0gKbLHZA1PpmvA62tsR7l7T6V67L2DGKoEYU2tExpanNV4szw2cZNswpv8D-8MwYIjc7/pub?embedded=true"></iframe>
+    <iframe src="https://docs.google.com/document/d/e/2PACX-1vSDsQTUCRoz0gKbLHZA1PpmvA62tsR7l7T6V67L2DGKoEYU2tExpanNV4szw2cZNswpv8D-8MwYIjc7/pub?embedded=true" width="100%" height="800px"></iframe>
     <p><strong>Professional Cybersecurity Report Template Guide</strong></p>
   </div>
 
   <div style="flex:1; min-width:400px; text-align:center;">
-    <iframe src="https://docs.google.com/document/d/e/2PACX-1vRfW464qr10tFcRD4WLPVRVKa1W4UDaodRk_Haakfr3rqwcwRgd-d4k3J9Es6uMlH62XSU87a10aINc/pub?embedded=true"></iframe>
+    <iframe src="https://docs.google.com/document/d/e/2PACX-1vRfW464qr10tFcRD4WLPVRVKa1W4UDaodRk_Haakfr3rqwcwRgd-d4k3J9Es6uMlH62XSU87a10aINc/pub?embedded=true" width="100%" height="800px"></iframe>
     <p><strong>BYOD Policy & Agreement Template</strong></p>
   </div>
 
 </div>
 
 ---
-
-<center><h3>Professional Journey</h3></center>
+<br>
+<center>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Professional Journey</h1>
+</center>
 
 - **Cybersecurity & System Administration:** Hands-on labs and simulations at MCSI, including networking fundamentals, Windows hardening, and threat detection.  
 - **IT & Risk Management:** Managed sensitive data and technical support for Land Property Partners and Nutrition Outlet, focusing on secure operations.  
 - **Security Operations:** Led security teams and incident response at Secure Host Inc., documenting processes and risk mitigation strategies.  
 
 ---
-
-<center><h3>Contact</h3></center>
+<br>
+<center>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Contact</h1>
+</center>
 
 To explore my full portfolio of projects, reports, and demos, feel free to reach out:  
 📧 <a href="mailto:eldongbrl@proton.me">Email Me</a>  
