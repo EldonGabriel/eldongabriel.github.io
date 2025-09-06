@@ -4,7 +4,9 @@ date: 2025-09-06
 author: Eldon Gabriel
 tags: [Windows, GCP, Virtualization, Cybersecurity, Cloud]
 excerpt: "An independent lab demonstrating deployment of a Windows 10 virtual machine on Google Cloud Platform, showcasing cloud virtualization, secure configuration, and system administration skills."
-image: "/assets/images/gcpblog.png"
+image: 
+  path: "/assets/images/gcpblog.png"
+  thumbnail: "/assets/images/gcpblog.png"
 ---
 
 # Mastering GCP: Windows 10 VM Deployment
