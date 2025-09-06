@@ -340,9 +340,13 @@ My professional journey combines entrepreneurial experience with technical roles
   <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Professional Journey</h1>
 </center>
 
-- **Cybersecurity & System Administration:** Completed hands-on labs at MCSI—networking fundamentals, Windows hardening, and threat detection.  
-- **IT & Risk Management:** Managed sensitive data and technical support for Land Property Partners and Nutrition Outlet, ensuring secure operations.
-- **Security Operations:** Led teams and incident response at Secure Host Inc., documenting processes and implementing risk mitigation.  
+**Cybersecurity & System Administration** 
+Completed hands-on labs at MCSI—networking fundamentals, Windows hardening, and threat detection. 
+
+**IT & Risk Management** 
+Managed sensitive data and technical support for Land Property Partners and Nutrition Outlet, ensuring secure operations.
+**Security Operations** 
+Led teams and incident response at Secure Host Inc., documenting processes and implementing risk mitigation.  
 
 ---
 <br>
