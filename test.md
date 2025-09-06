@@ -68,7 +68,7 @@ My professional journey combines entrepreneurial experience with technical roles
 
 ---
 
-#### Windows Security Guides
+### Windows Security Guides
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
@@ -110,7 +110,7 @@ My professional journey combines entrepreneurial experience with technical roles
 </div>
 
 ---
-#### Windows Administration Labs
+### Windows Administration Labs
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
@@ -146,7 +146,7 @@ My professional journey combines entrepreneurial experience with technical roles
 
 </div>
 
-#### System Development & Hardening
+### System Development & Hardening
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
@@ -203,7 +203,7 @@ My professional journey combines entrepreneurial experience with technical roles
 
 </div>
 
-#### SQL for Cybersecurity
+### SQL for Cybersecurity
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
@@ -229,21 +229,19 @@ My professional journey combines entrepreneurial experience with technical roles
 
 </div>
 
-#### Cybersecurity Templates
+### Cybersecurity Templates
 
-<div style="display:flex; flex-wrap:wrap; gap:20px;">
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
 
-<div style="width:48%; text-align:center;">
-  <a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?usp=sharing" target="_blank">
+  <div style="flex:1; min-width:400px; text-align:center;">
+    <iframe src="https://docs.google.com/document/d/e/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/pub?embedded=true" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <p><strong>Professional Cybersecurity Report Template Guide</strong></p>
-  </a>
-</div>
+  </div>
 
-<div style="width:48%; text-align:center;">
-  <a href="https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing" target="_blank">
+  <div style="flex:1; min-width:400px; text-align:center;">
+    <iframe src="https://docs.google.com/document/d/e/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/pub?embedded=true" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <p><strong>BYOD Policy & Agreement Template</strong></p>
-  </a>
-</div>
+  </div>
 
 </div>
 
