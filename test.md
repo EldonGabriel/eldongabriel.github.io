@@ -117,44 +117,74 @@ My professional journey combines entrepreneurial experience with technical roles
 
 </div>
 ---
-<br>
 <center>
   <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Windows Administration Labs</h2>
 </center>
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-<div style="width:48%; text-align:center;">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/HeSARWF3F58" title="Windows Disk Cleanup" frameborder="0" allowfullscreen></iframe>
-  <p><strong>Windows Disk Cleanup</strong> – System Maintenance & Admin Skills</p>
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/HeSARWF3F58" title="Windows Disk Cleanup" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Windows Disk Cleanup</strong> – System Maintenance & Admin Skills</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/G7riXJI8w4U" title="Defragment & Optimize Drives" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Defragment & Optimize Drives</strong> – System Maintenance & Admin Skills</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/z8nXF2OleGo" title="Task Scheduler" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Task Scheduler</strong> – Automate System Tasks & Maintenance</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/WZtkpKxr9xE" title="Windows Defender Firewall" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Windows Defender Firewall</strong> – Network Security & Control</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/g9A2faHgWWs" title="Registry Editor" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Registry Editor</strong> – Advanced System Configuration</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/rw7QL5BgQgI" title="Event Viewer" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Event Viewer</strong> – Monitoring System Events & Troubleshooting</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/-AfFdEs_sTY" title="System Information" frameborder="0" allowfullscreen></iframe>
+    <p><strong>System Information</strong> – Hardware & Software Overview</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/cQAwuYjr_b0" title="Programs and Features" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Programs and Features</strong> – Software Management</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/qyRWBM-w-1s" title="Network and Sharing Center" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Network and Sharing Center</strong> – Connectivity & Troubleshooting</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/wlgnNwbKe3w" title="BitLocker Drive Encryption" frameborder="0" allowfullscreen></iframe>
+    <p><strong>BitLocker Drive Encryption</strong> – Data Security Planning</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/8UPRuS-ZZ3s" title="Credential Manager" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Credential Manager</strong> – Secure Login & Password Management</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/rNI50WIqZWc" title="Windows 10 VM on GCP" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Windows 10 VM on GCP</strong> – Cloud Virtualization & Admin Skills</p>
+  </div>
+
 </div>
 
-<div style="width:48%; text-align:center;">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/G7riXJI8w4U" title="Defragment & Optimize Drives" frameborder="0" allowfullscreen></iframe>
-  <p><strong>Defragment & Optimize Drives</strong> – System Maintenance & Admin Skills</p>
-</div>
-
-<div style="width:48%; text-align:center;">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/z8nXF2OleGo" title="Task Scheduler" frameborder="0" allowfullscreen></iframe>
-  <p><strong>Task Scheduler</strong> – Automate System Tasks & Maintenance</p>
-</div>
-
-<div style="width:48%; text-align:center;">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/WZtkpKxr9xE" title="Windows Defender Firewall" frameborder="0" allowfullscreen></iframe>
-  <p><strong>Windows Defender Firewall</strong> – Network Security & Control</p>
-</div>
-
-<div style="width:48%; text-align:center;">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/g9A2faHgWWs" title="Registry Editor" frameborder="0" allowfullscreen></iframe>
-  <p><strong>Registry Editor</strong> – Advanced System Configuration</p>
-</div>
-
-<div style="width:48%; text-align:center;">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/rw7QL5BgQgI" title="Event Viewer" frameborder="0" allowfullscreen></iframe>
-  <p><strong>Event Viewer</strong> – Monitoring System Events & Troubleshooting</p>
-</div>
-
-</div>
 ---
 <br>
 <center>
