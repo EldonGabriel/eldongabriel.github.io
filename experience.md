@@ -132,8 +132,7 @@ ISC² Certified Cybersecurity Technician with hands-on experience in system admi
 - **Windows Firewall Configuration** – A video demonstration – <a href="https://www.youtube.com/watch?v=U_4TeohPNQ4" target="_blank">Watch Video</a>  
 - **Domain Join & GPO Setup** – A video demonstration – <a href="https://www.youtube.com/watch?v=JE3jutqyI4Q" target="_blank">Watch Video</a>  
 
-#### Technical Guides  
-**SQL for Cybersecurity**  
+#### SQL for Cybersecurity  
 - **Investigating Database Activity** – A video demonstration – <a href="https://www.youtube.com/watch?v=TUqYto8EDJ4" target="_blank">Watch Video</a>  
 - **Investigate Security Incidents with SQL** – A video demonstration – <a href="https://www.youtube.com/watch?v=bhTHXhE6kTk" target="_blank">Watch Video</a>  
 - **Using AND, OR, NOT** – A video demonstration – <a href="https://www.youtube.com/watch?v=5qCjwenE-Z0" target="_blank">Watch Video</a>  
