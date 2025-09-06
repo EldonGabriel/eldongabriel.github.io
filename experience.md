@@ -183,8 +183,8 @@ My professional journey combines entrepreneurial experience with technical roles
 </div>
 
 ---
-
 <br>
+
 <center>
   <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Windows Administration Labs</h2>
 </center>
@@ -255,6 +255,7 @@ My professional journey combines entrepreneurial experience with technical roles
 
 ---
 <br>
+
 <center>
   <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">System Development & Hardening</h1>
 </center>
@@ -301,6 +302,7 @@ My professional journey combines entrepreneurial experience with technical roles
 
 ---
 <br>
+
 <center>
   <h1 style="display: inline-block; width: 60%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Network Fundamentals</h1>
 </center>
@@ -403,6 +405,7 @@ My professional journey combines entrepreneurial experience with technical roles
 
 ---
 <br>
+
 <center>
   <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">SQL for Cybersecurity</h2>
 </center>
@@ -433,6 +436,7 @@ My professional journey combines entrepreneurial experience with technical roles
 
 ---
 <br>
+
 <center>
   <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Cybersecurity Templates</h2>
 </center>
@@ -457,6 +461,7 @@ My professional journey combines entrepreneurial experience with technical roles
 
 ---
 <br>
+
 <center>
   <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Professional Journey</h1>
 </center>
@@ -475,6 +480,7 @@ Led teams and incident response at Secure Host Inc., documenting processes and i
 
 ---
 <br>
+
 <center>
   <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Contact</h1>
 </center>
