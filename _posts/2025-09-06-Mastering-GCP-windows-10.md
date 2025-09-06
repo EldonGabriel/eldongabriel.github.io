@@ -9,16 +9,20 @@ image:
   thumbnail: "/assets/images/posts/gcpblog.png"
 ---
 
-# Mastering GCP: Windows 10 VM Deployment
+<center>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Introduction</h1>
+</center>
 
-## Introduction
 Cloud computing is a core part of modern IT and cybersecurity. To strengthen my virtualization and system administration skills, I created an **independent lab project**: deploying a Windows 10 virtual machine on Google Cloud Platform (GCP).
 
 This project demonstrates my ability to work with cloud infrastructure, configure secure access, and manage a Windows environment outside of traditional on-premises setups.
 
 You can watch the full lab demonstration here: [Watch Video](https://youtu.be/rNI50WIqZWc)
 
-## Lab Objectives
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Lab Objectives</h2>
+</center>
+
 The main goals of this lab were:
 
 - Deploy a Windows 10 VM in GCP.
@@ -26,7 +30,9 @@ The main goals of this lab were:
 - Connect to the system and validate functionality.
 - Document the process for professional development.
 
-## Steps Taken
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Steps Taken</h2>
+</center>
 
 ### 1. Provisioning the VM
 I logged into the GCP Console and used **Compute Engine** to create a new instance.
@@ -49,18 +55,26 @@ Once inside the VM, I:
 
 > I did not check CPU, RAM, or OS details, as exposing these values is unnecessary and follows **cybersecurity best practices**.
 
-## Key Skills Demonstrated
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Key Skills Demonstrated</h2>
+</center>
 
 - **Cloud Virtualization:** Deploying and managing Windows environments in GCP.  
 - **System Administration:** Performing setup and validation of virtual systems.  
 - **Secure Networking:** Configuring firewall rules and controlling RDP access.  
 
-## Practical Applications
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Practical Applications</h2>
+</center>
+
 Organizations use this type of deployment to:
 
 - Provide remote desktops for employees.  
 - Test applications in isolated environments.  
 - Support hybrid infrastructures combining cloud and on-premises resources.  
 
-## Conclusion
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Conclusion</h2>
+</center>
+
 This independent lab reinforced my ability to apply Windows administration skills in a **cloud environment**. By deploying a Windows 10 VM on GCP, I demonstrated hands-on experience in **virtualization, secure configuration, and system management** — all essential skills for modern IT and cybersecurity roles.
