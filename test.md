@@ -44,7 +44,7 @@ My professional journey combines entrepreneurial experience with technical roles
 </div>
 
 <div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/reports/REPORT – Botium Security Audit – v1.1.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <iframe src="{{ '/assets/reports/REPORT – Botium Security Audit– v1.1.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
   <p><strong>REPORT – Botium Security Audit – v1.1.0</strong></p>
 </div>
 
@@ -68,32 +68,181 @@ My professional journey combines entrepreneurial experience with technical roles
 
 ---
 
-### Windows Security Guides
+#### Windows Security Guides
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-<div style="width:300px; text-align:center;">
-  <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20SMB%20Protocol_%20Function%20and%20Security%20Risks%20%E2%80%93%20v1.0.0.pdf" target="_blank">
-    <img src="/assets/images/guides/smb-thumb.png" alt="SMB Protocol Guide" style="width:100%; border-radius:8px;">
-    <p><strong>SMB Protocol</strong></p>
-  </a>
-  <p>SMB functions, uses, and security risks</p>
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/guides/GUIDE – SMB Protocol_ Function and Security Risks – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>GUIDE – SMB Protocol – v1.0.0</strong></p>
 </div>
 
-<div style="width:300px; text-align:center;">
-  <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Using%20Access%20Permissions%20and%20Rights%20to%20Secure%20a%20Folder%20%E2%80%93%20v1.0.0.pdf" target="_blank">
-    <img src="/assets/images/guides/permissions-thumb.png" alt="Access Permissions Guide" style="width:100%; border-radius:8px;">
-    <p><strong>Access Permissions & Rights</strong></p>
-  </a>
-  <p>Folder access management and security enforcement</p>
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/guides/GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>GUIDE – Access Permissions and Rights – v1.0.0</strong></p>
 </div>
 
-<div style="width:300px; text-align:center;">
-  <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Monitoring%20Windows%20Processes%20with%20Procmon%20%E2%80%93%20v1.0.1.pdf" target="_blank">
-    <img src="/assets/images/guides/procmon-thumb.png" alt="Procmon Monitoring Guide" style="width:100%; border-radius:8px;">
-    <p><strong>Process Monitoring with Procmon</strong></p>
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/guides/GUIDE – Monitoring Windows Processes with Procmon – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>GUIDE – Monitoring Windows Processes with Procmon – v1.0.1</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/guides/GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>GUIDE – Endpoint Registry Controls – v1.0.0</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/guides/GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>GUIDE – RDP Troubleshooting – v1.0.0</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – File Ownership Recovery – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – File Ownership Recovery – v1.0.0</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Password Managers – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Password Managers – v1.0.0</strong></p>
+</div>
+
+</div>
+
+---
+#### Windows Administration Labs
+
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
+
+<div style="width:48%; text-align:center;">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/HeSARWF3F58" title="Windows Disk Cleanup" frameborder="0" allowfullscreen></iframe>
+  <p><strong>Windows Disk Cleanup</strong> – System Maintenance & Admin Skills</p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/G7riXJI8w4U" title="Defragment & Optimize Drives" frameborder="0" allowfullscreen></iframe>
+  <p><strong>Defragment & Optimize Drives</strong> – System Maintenance & Admin Skills</p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/z8nXF2OleGo" title="Task Scheduler" frameborder="0" allowfullscreen></iframe>
+  <p><strong>Task Scheduler</strong> – Automate System Tasks & Maintenance</p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/WZtkpKxr9xE" title="Windows Defender Firewall" frameborder="0" allowfullscreen></iframe>
+  <p><strong>Windows Defender Firewall</strong> – Network Security & Control</p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/g9A2faHgWWs" title="Registry Editor" frameborder="0" allowfullscreen></iframe>
+  <p><strong>Registry Editor</strong> – Advanced System Configuration</p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/rw7QL5BgQgI" title="Event Viewer" frameborder="0" allowfullscreen></iframe>
+  <p><strong>Event Viewer</strong> – Monitoring System Events & Troubleshooting</p>
+</div>
+
+</div>
+
+#### System Development & Hardening
+
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
+
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Linux File Permissions Management – v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Linux File Permissions Management – v1.0.2</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Python Algorithm for Managing IP Access – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Python Algorithm for IP Access – v1.0.1</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Server Security Evaluation – v1.2.0</strong></p>
+</div>
+
+</div>
+
+#### Network Fundamentals
+
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
+
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – IP Subnetting Fundamentals – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – IP Subnetting Fundamentals – v1.0.0</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Kerberos Authentication Protocol – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Kerberos Authentication Protocol – v1.0.1</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Network Attack Analysis – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Network Attack Analysis – v1.0.1</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – DNS Analysis with dig – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – DNS Analysis with dig – v1.0.1</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – DNS Outage and Port 53 Failure Analysis – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – DNS Outage & Port 53 Failure – v1.0.1</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0</strong></p>
+</div>
+
+</div>
+
+#### SQL for Cybersecurity
+
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
+
+<div style="width:48%; text-align:center;">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/TUqYto8EDJ4" title="Investigating Database Activity" frameborder="0" allowfullscreen></iframe>
+  <p><strong>Investigating Database Activity</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/bhTHXhE6kTk" title="Investigate Security Incidents with SQL" frameborder="0" allowfullscreen></iframe>
+  <p><strong>Investigate Security Incidents with SQL</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/5qCjwenE-Z0" title="Using AND, OR, NOT" frameborder="0" allowfullscreen></iframe>
+  <p><strong>Using AND, OR, NOT</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/ynxJ1go-Cc8" title="SQL Joins for Security Investigation" frameborder="0" allowfullscreen></iframe>
+  <p><strong>SQL Joins for Security Investigation</strong></p>
+</div>
+
+</div>
+
+#### Cybersecurity Templates
+
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
+
+<div style="width:48%; text-align:center;">
+  <a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?usp=sharing" target="_blank">
+    <p><strong>Professional Cybersecurity Report Template Guide</strong></p>
   </a>
-  <p>Monitored Windows processes for security incidents</p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <a href="https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing" target="_blank">
+    <p><strong>BYOD Policy & Agreement Template</strong></p>
+  </a>
 </div>
 
 </div>
