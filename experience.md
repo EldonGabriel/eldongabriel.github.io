@@ -35,7 +35,7 @@ ISC² Certified Cybersecurity Technician with hands-on experience in system admi
 *System Administration Specialist* | Jul 2025 – Present  
 - Engineered secure lab environments simulating enterprise networks.  
 - Produced professional cybersecurity documentation and structured reports.  
-- Completed Networking Fundamentals labs including OSI/TCP-IP research, Draw.io network diagrams, and Cisco Packet Tracer setups.  
+- Completed Networking Fundamentals labs on OSI/TCP-IP, Draw.io diagrams, and Cisco Packet Tracer setups.  
 - Implemented Windows system hardening and firewall rules, including SMB access restrictions.
 
 *Cybersecurity Technician* | Feb 2025 – Jul 2025  
