@@ -103,7 +103,7 @@ My professional journey combines entrepreneurial experience with technical roles
 </div>
 
 <div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/reports/REPORT – Password Managers – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <iframe src="{{ '/assets/reports/REPORT  – Password Managers – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
   <p><strong>REPORT – Password Managers – v1.0.0</strong></p>
 </div>
 
@@ -151,7 +151,7 @@ My professional journey combines entrepreneurial experience with technical roles
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
 <div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/reports/REPORT – Linux File Permissions Management – v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <iframe src="{{ '/assets/reports/REPORT – Linux File Permissions Management - v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
   <p><strong>REPORT – Linux File Permissions Management – v1.0.2</strong></p>
 </div>
 
@@ -234,12 +234,12 @@ My professional journey combines entrepreneurial experience with technical roles
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
 
   <div style="flex:1; min-width:400px; text-align:center;">
-    <iframe src="https://docs.google.com/document/d/e/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/pub?embedded=true" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <iframe src="https://docs.google.com/document/d/e/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/pub?embedded=true" width="640" height="480"></iframe>
     <p><strong>Professional Cybersecurity Report Template Guide</strong></p>
   </div>
 
   <div style="flex:1; min-width:400px; text-align:center;">
-    <iframe src="https://docs.google.com/document/d/e/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/pub?embedded=true" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <iframe src="https://docs.google.com/document/d/e/2PACX-1vR_s-z-1234567890abcdefghijklmnopqrstuvwxyz/pub?embedded=true" width="640" height="480"></iframe>
     <p><strong>BYOD Policy & Agreement Template</strong></p>
   </div>
 
