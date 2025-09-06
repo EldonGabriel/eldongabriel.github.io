@@ -23,7 +23,7 @@ ISC² Certified Cybersecurity Technician with hands-on experience in system admi
 ## Core Competencies
 - **System Administration & Security:** Windows Server, Linux CLI, GPO, Firewall, Backup, System Hardening.  
 - **Networking & Tools:** VPNs, Cisco Packet Tracer, Nmap, Wireshark, IDS/IPS, NAT, ACLs, Kali Linux. 
-- **Governance, Risk & Compliance:** NIST frameworks, Risk Assessment, Technical Documentation, Compliance Audits.  
+- **Governance, Risk & Compliance:** NIST frameworks, Risk Assessment, Documentation, Compliance Audits.  
 - **Forensics & OSINT:** Malware Analysis (YARA), Digital Artifacts, Social Media Mapping, Threat Intelligence.  
 - **Programming & Automation:** Python scripting for cybersecurity tasks.
 
