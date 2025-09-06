@@ -12,7 +12,7 @@ image:
 </center>
 
 <h4 align="center">
-📧 <a href="mailto:eldongbrl@proton.me">Email</a> | 🌐 <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832">MCSI Portfolio</a> | 🔗 <a href="https://www.linkedin.com/in/eldongabriel">LinkedIn</a>
+📧 <a href="mailto:eldongbrl@proton.me">Email</a> | 🌐 <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832">MCSI Cybersecurity Training Portfolio</a> | 🔗 <a href="https://www.linkedin.com/in/eldongabriel">LinkedIn</a>
 </h4>
 
 ---
@@ -259,13 +259,17 @@ My professional journey combines entrepreneurial experience with technical roles
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
 
   <div style="flex:1; min-width:400px; text-align:center;">
-    <iframe src="https://docs.google.com/document/d/e/2PACX-1vSDsQTUCRoz0gKbLHZA1PpmvA62tsR7l7T6V67L2DGKoEYU2tExpanNV4szw2cZNswpv8D-8MwYIjc7/pub?embedded=true" width="100%" height="800px"></iframe>
-    <p><strong>Professional Cybersecurity Report Template Guide</strong></p>
+    <a href="https://docs.google.com/document/d/e/2PACX-1vSDsQTUCRoz0gKbLHZA1PpmvA62tsR7l7T6V67L2DGKoEYU2tExpanNV4szw2cZNswpv8D-8MwYIjc7/pub" target="_blank">
+      <img src="assets/images/CSRTcover.png" alt="Professional Cybersecurity Report Template Guide" style="width:100%; height:auto;">
+    </a>
+    <p><strong><a href="https://docs.google.com/document/d/e/2PACX-1vSDsQTUCRoz0gKbLHZA1PpmvA62tsR7l7T6V67L2DGKoEYU2tExpanNV4szw2cZNswpv8D-8MwYIjc7/pub" target="_blank">Professional Cybersecurity Report Template Guide</a></strong></p>
   </div>
 
   <div style="flex:1; min-width:400px; text-align:center;">
-    <iframe src="https://docs.google.com/document/d/e/2PACX-1vRfW464qr10tFcRD4WLPVRVKa1W4UDaodRk_Haakfr3rqwcwRgd-d4k3J9Es6uMlH62XSU87a10aINc/pub?embedded=true" width="100%" height="800px"></iframe>
-    <p><strong>BYOD Policy & Agreement Template</strong></p>
+    <a href="https://docs.google.com/document/d/e/2PACX-1vRfW464qr10tFcRD4WLPVRVKa1W4UDaodRk_Haakfr3rqwcwRgd-d4k3J9Es6uMlH62XSU87a10aINc/pub" target="_blank">
+      <img src="[assets/images/BYODcover.png" alt="BYOD Policy & Agreement Template" style="width:100%; height:auto;">
+    </a>
+    <p><strong><a href="https://docs.google.com/document/d/e/2PACX-1vRfW464qr10tFcRD4WLPVRVKa1W4UDaodRk_Haakfr3rqwcwRgd-d4k3J9Es6uMlH62XSU87a10aINc/pub" target="_blank">BYOD Policy & Agreement Template</a></strong></p>
   </div>
 
 </div>
@@ -288,5 +292,5 @@ My professional journey combines entrepreneurial experience with technical roles
 
 To explore my full portfolio of projects, reports, and demos, feel free to reach out:  
 📧 <a href="mailto:eldongbrl@proton.me">Email Me</a>  
-🌐 <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832">View MCSI Portfolio</a>  
+🌐 <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832">View MCSI Cybersecurity Training Portfolio</a>  
 🔗 <a href="https://www.linkedin.com/in/eldongabriel">LinkedIn</a>
