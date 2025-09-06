@@ -30,45 +30,58 @@ My professional journey combines entrepreneurial experience with technical roles
 </center>
 
 <center>
-  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Cybersecurity Reports</h2>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Cybersecurity Reports</h1>
 </center>
 
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe src="{{ '/assets/reports/REPORT – Access Control Incident - v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <p><strong>REPORT – Access Control Incident – v1.2.0</strong></p>
-  </div>
+  <!-- Left PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>REPORT – Bank Risk Register Analysis – v1.0.2</figcaption>
+  </figure>
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe src="{{ '/assets/reports/REPORT – BYOD in Organizations_ Security, Challenges, and Strategies – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <p><strong>REPORT – BYOD in Organizations – v1.0.1</strong></p>
-  </div>
+  <!-- Right PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0</figcaption>
+  </figure>
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <p><strong>REPORT – Bank Risk Register Analysis – v1.0.2</strong></p>
-  </div>
+</div>
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe src="{{ '/assets/reports/REPORT – Botium Security Audit– v1.1.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <p><strong>REPORT – Botium Security Audit – v1.1.0</strong></p>
-  </div>
+<br>
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <p><strong>REPORT – Investigation of Unauthorized Payroll Access Incident – v1.2.0</strong></p>
-  </div>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe src="{{ '/assets/reports/REPORT – Post-Breach Security Recommendations – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <p><strong>REPORT – Post-Breach Security Recommendations – v1.0.1</strong></p>
-  </div>
+  <!-- Left PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>REPORT – Server Security Evaluation – v1.2.0</figcaption>
+  </figure>
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe src="{{ '/assets/reports/REPORT – SQL Query Analysis Incident – v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <p><strong>REPORT – SQL Query Analysis Incident – v1.0.2</strong></p>
-  </div>
+  <!-- Right PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+   <iframe src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0</figcaption>
+  </figure>
+
+</div>
 
 </div>
 
