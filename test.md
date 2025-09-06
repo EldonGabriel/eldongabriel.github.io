@@ -28,49 +28,43 @@ My professional journey combines entrepreneurial experience with technical roles
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-<div style="width:300px; text-align:center;">
-  <p><strong>Access Control Incident</strong></p>
-  <iframe src="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Access%20Control%20Incident%20-%20v1.2.0.pdf?raw=true" width="100%" height="400px" style="border:1px solid #ccc; border-radius:8px;"></iframe>
-  <p>Investigated and resolved an access control incident</p>
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Access Control Incident – v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Access Control Incident – v1.2.0</strong></p>
 </div>
 
-<div style="width:300px; text-align:center;">
-  <p><strong>BYOD in Organizations</strong></p>
-  <iframe src="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20BYOD%20in%20Organizations_%20Security%2C%20Challenges%2C%20and%20Strategies%20%E2%80%93%20v1.0.1.pdf?raw=true" width="100%" height="400px" style="border:1px solid #ccc; border-radius:8px;"></iframe>
-  <p>Analyzed security risks of BYOD policies</p>
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – BYOD in Organizations – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – BYOD in Organizations – v1.0.1</strong></p>
 </div>
 
-<div style="width:300px; text-align:center;">
-  <p><strong>Bank Risk Register Analysis</strong></p>
-  <iframe src="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Bank%20Risk%20Register%20Analysis%20%E2%80%93%20v1.0.2.pdf?raw=true" width="100%" height="400px" style="border:1px solid #ccc; border-radius:8px;"></iframe>
-  <p>Performed comprehensive risk assessment on simulated banking environment</p>
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Bank Risk Register Analysis – v1.0.2</strong></p>
 </div>
 
-<div style="width:300px; text-align:center;">
-  <p><strong>Botium Security Audit</strong></p>
-  <iframe src="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Botium%20Security%20Audit%E2%80%93%20v1.1.0.pdf?raw=true" width="100%" height="400px" style="border:1px solid #ccc; border-radius:8px;"></iframe>
-  <p>Conducted security audit on an application</p>
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Botium Security Audit – v1.1.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Botium Security Audit – v1.1.0</strong></p>
 </div>
 
-<div style="width:300px; text-align:center;">
-  <p><strong>Payroll Access Investigation</strong></p>
-  <iframe src="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Investigation%20of%20Unauthorized%20Payroll%20Access%20Incident%20-%20v1.2.0.pdf?raw=true" width="100%" height="400px" style="border:1px solid #ccc; border-radius:8px;"></iframe>
-  <p>Traced breach to contractor account</p>
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Investigation of Unauthorized Payroll Access Incident – v1.2.0</strong></p>
 </div>
 
-<div style="width:300px; text-align:center;">
-  <p><strong>Post-Breach Security Recommendations</strong></p>
-  <iframe src="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Post-Breach%20Security%20Recommendations%20%E2%80%93%20v1.0.1.pdf?raw=true" width="100%" height="400px" style="border:1px solid #ccc; border-radius:8px;"></iframe>
-  <p>Recommended security measures after breach</p>
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Post-Breach Security Recommendations – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Post-Breach Security Recommendations – v1.0.1</strong></p>
 </div>
 
-<div style="width:300px; text-align:center;">
-  <p><strong>SQL Query Analysis Incident</strong></p>
-  <iframe src="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20SQL%20Query%20Analysis%20Incident%20%E2%80%93%20v1.0.2.pdf?raw=true" width="100%" height="400px" style="border:1px solid #ccc; border-radius:8px;"></iframe>
-  <p>Analyzed database queries for suspicious activity</p>
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – SQL Query Analysis Incident – v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – SQL Query Analysis Incident – v1.0.2</strong></p>
 </div>
 
 </div>
+
 
 ---
 
