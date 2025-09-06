@@ -9,19 +9,26 @@ image:
   thumbnail: "/assets/images/posts/gcpblog.png"
 ---
 
-<center>
-  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Introduction</h1>
-</center>
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Introduction</h1>
+</div>
 
 Cloud computing is a core part of modern IT and cybersecurity. To strengthen my virtualization and system administration skills, I created an **independent lab project**: deploying a Windows 10 virtual machine on Google Cloud Platform (GCP).
 
 This project demonstrates my ability to work with cloud infrastructure, configure secure access, and manage a Windows environment outside of traditional on-premises setups.
 
-You can watch the full lab demonstration here: [Watch Video](https://youtu.be/rNI50WIqZWc)
+You can watch the full lab demonstration below:
 
-<center>
-  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Lab Objectives</h2>
-</center>
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+  <div style="width:100%; max-width:560px; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/rNI50WIqZWc" title="Windows 10 VM on GCP" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Windows 10 VM on GCP</strong> – Cloud Virtualization & Admin Skills</p>
+  </div>
+</div>
+
+<div style="text-align:center;">
+  <h2 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Lab Objectives</h2>
+</div>
 
 The main goals of this lab were:
 
@@ -30,9 +37,9 @@ The main goals of this lab were:
 - Connect to the system and validate functionality.
 - Document the process for professional development.
 
-<center>
-  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Steps Taken</h2>
-</center>
+<div style="text-align:center;">
+  <h2 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Steps Taken</h2>
+</div>
 
 ### 1. Provisioning the VM
 I logged into the GCP Console and used **Compute Engine** to create a new instance.
@@ -55,17 +62,17 @@ Once inside the VM, I:
 
 > I did not check CPU, RAM, or OS details, as exposing these values is unnecessary and follows **cybersecurity best practices**.
 
-<center>
-  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Key Skills Demonstrated</h2>
-</center>
+<div style="text-align:center;">
+  <h2 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Key Skills Demonstrated</h2>
+</div>
 
 - **Cloud Virtualization:** Deploying and managing Windows environments in GCP.  
 - **System Administration:** Performing setup and validation of virtual systems.  
 - **Secure Networking:** Configuring firewall rules and controlling RDP access.  
 
-<center>
-  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Practical Applications</h2>
-</center>
+<div style="text-align:center;">
+  <h2 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Practical Applications</h2>
+</div>
 
 Organizations use this type of deployment to:
 
@@ -73,8 +80,8 @@ Organizations use this type of deployment to:
 - Test applications in isolated environments.  
 - Support hybrid infrastructures combining cloud and on-premises resources.  
 
-<center>
-  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Conclusion</h2>
-</center>
+<div style="text-align:center;">
+  <h2 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Conclusion</h2>
+</div>
 
 This independent lab reinforced my ability to apply Windows administration skills in a **cloud environment**. By deploying a Windows 10 VM on GCP, I demonstrated hands-on experience in **virtualization, secure configuration, and system management** — all essential skills for modern IT and cybersecurity roles.
