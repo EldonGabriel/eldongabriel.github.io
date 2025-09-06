@@ -95,23 +95,17 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <!-- Left PDF -->
-  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" 
-            width="100%" 
-            height="800px" 
-            style="border:1px solid #ccc;">
-    </iframe>
+  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
+    <iframe class="pdf-embed" 
+            src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" 
+            width="100%" height="700px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – Bank Risk Register Analysis – v1.0.2</figcaption>
   </figure>
 
-  <!-- Right PDF -->
-  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" 
-            width="100%" 
-            height="800px" 
-            style="border:1px solid #ccc;">
-    </iframe>
+  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
+    <iframe class="pdf-embed" 
+            src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" 
+            width="100%" height="700px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0</figcaption>
   </figure>
 
@@ -121,28 +115,21 @@ I'm currently advancing my skills through the MSAF course at the Mossé Cyber Se
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <!-- Left PDF -->
-  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" 
-            width="100%" 
-            height="800px" 
-            style="border:1px solid #ccc;">
-    </iframe>
+  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
+    <iframe class="pdf-embed" 
+            src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" 
+            width="100%" height="700px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – Server Security Evaluation – v1.2.0</figcaption>
   </figure>
 
-  <!-- Right PDF -->
-  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
-   <iframe src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" 
-            width="100%" 
-            height="800px" 
-            style="border:1px solid #ccc;">
-    </iframe>
+  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
+    <iframe class="pdf-embed" 
+            src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" 
+            width="100%" height="700px" style="border:1px solid #ccc;"></iframe>
     <figcaption>GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0</figcaption>
   </figure>
 
 </div>
-
 --- 
 <br>
 <center>
