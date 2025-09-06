@@ -99,18 +99,18 @@ ISC² Certified Cybersecurity Technician with hands-on experience in system admi
 - **Password Managers** – Secure configuration and management of credential storage – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%20%E2%80%93%20Password%20Managers%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Report</a>  
 
 **Windows Administration Labs**
-- **Windows Disk Cleanup – System Maintenance & Admin Skills** – [View Demo](https://youtu.be/HeSARWF3F58)
-- **Defragment & Optimize Drives – System Maintenance & Admin Skills** – [View Demo](https://youtu.be/G7riXJI8w4U)  
-- **Task Scheduler – Automate System Tasks & Maintenance** – [View Demo](https://youtu.be/z8nXF2OleGo)  
-- **Windows Defender Firewall – Network Security & Control** – [View Demo](https://youtu.be/WZtkpKxr9xE)  
-- **Registry Editor – Advanced System Configuration** – [View Demo](https://youtu.be/g9A2faHgWWs)  
-- **Event Viewer – Monitoring System Events & Troubleshooting** – [View Demo](https://youtu.be/rw7QL5BgQgI)  
-- **System Information – Hardware & Software Overview** – [View Demo](https://youtu.be/-AfFdEs_sTY)  
-- **Programs and Features – Software Management** – [View Demo](https://youtu.be/cQAwuYjr_b0)  
-- **Network and Sharing Center – Connectivity & Troubleshooting** – [View Demo](https://youtu.be/qyRWBM-w-1s)  
-- **BitLocker Drive Encryption – Data Security Planning** – [View Demo](https://youtu.be/wlgnNwbKe3w)
-- **Credential Manager – Secure Login & Password Management** – [View Demo](https://youtu.be/8UPRuS-ZZ3s)
-- **Windows 10 VM on GCP – Cloud Virtualization & Admin Skills** – [View Demo](https://youtu.be/rNI50WIqZWc)
+- **Windows Disk Cleanup** – System Maintenance & Admin Skills – [View Demo](https://youtu.be/HeSARWF3F58)
+- **Defragment & Optimize Drives** – System Maintenance & Admin Skills – [View Demo](https://youtu.be/G7riXJI8w4U)  
+- **Task Scheduler** – Automate System Tasks & Maintenance – [View Demo](https://youtu.be/z8nXF2OleGo)  
+- **Windows Defender Firewall** – Network Security & Control – [View Demo](https://youtu.be/WZtkpKxr9xE)  
+- **Registry Editor** – Advanced System Configuration – [View Demo](https://youtu.be/g9A2faHgWWs)  
+- **Event Viewer** – Monitoring System Events & Troubleshooting – [View Demo](https://youtu.be/rw7QL5BgQgI)  
+- **System Information** – Hardware & Software Overview – [View Demo](https://youtu.be/-AfFdEs_sTY)  
+- **Programs and Features** – Software Management – [View Demo](https://youtu.be/cQAwuYjr_b0)  
+- **Network and Sharing Center** – Connectivity & Troubleshooting – [View Demo](https://youtu.be/qyRWBM-w-1s)  
+- **BitLocker Drive Encryption** – Data Security Planning – [View Demo](https://youtu.be/wlgnNwbKe3w)
+- **Credential Manager** – Secure Login & Password Management – [View Demo](https://youtu.be/8UPRuS-ZZ3s)
+- **Windows 10 VM on GCP** – Cloud Virtualization & Admin Skills – [View Demo](https://youtu.be/rNI50WIqZWc)
   
 **System Development & Hardening**  
 - **Linux File Permissions Management** – Secured Linux systems via permission enforcement – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Linux%20File%20Permissions%20Management%20-%20v1.0.2.pdf" target="_blank">View Report</a>  
