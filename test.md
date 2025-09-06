@@ -260,14 +260,14 @@ My professional journey combines entrepreneurial experience with technical roles
 
   <div style="flex:1; min-width:400px; text-align:center;">
     <a href="https://docs.google.com/document/d/e/2PACX-1vSDsQTUCRoz0gKbLHZA1PpmvA62tsR7l7T6V67L2DGKoEYU2tExpanNV4szw2cZNswpv8D-8MwYIjc7/pub" target="_blank">
-      <img src="assets/images/CSRTcover.png" alt="Professional Cybersecurity Report Template Guide" style="width:100%; height:auto;">
+      <img src="/assets/images/CSRTcover.png" alt="Professional Cybersecurity Report Template Guide" style="width:100%; height:auto;">
     </a>
     <p><strong><a href="https://docs.google.com/document/d/e/2PACX-1vSDsQTUCRoz0gKbLHZA1PpmvA62tsR7l7T6V67L2DGKoEYU2tExpanNV4szw2cZNswpv8D-8MwYIjc7/pub" target="_blank">Professional Cybersecurity Report Template Guide</a></strong></p>
   </div>
 
   <div style="flex:1; min-width:400px; text-align:center;">
     <a href="https://docs.google.com/document/d/e/2PACX-1vRfW464qr10tFcRD4WLPVRVKa1W4UDaodRk_Haakfr3rqwcwRgd-d4k3J9Es6uMlH62XSU87a10aINc/pub" target="_blank">
-      <img src="assets/images/BYODcover.png" alt="BYOD Policy & Agreement Template" style="width:100%; height:auto;">
+      <img src="/assets/images/BYODcover.png" alt="BYOD Policy & Agreement Template" style="width:100%; height:auto;">
     </a>
     <p><strong><a href="https://docs.google.com/document/d/e/2PACX-1vRfW464qr10tFcRD4WLPVRVKa1W4UDaodRk_Haakfr3rqwcwRgd-d4k3J9Es6uMlH62XSU87a10aINc/pub" target="_blank">BYOD Policy & Agreement Template</a></strong></p>
   </div>
