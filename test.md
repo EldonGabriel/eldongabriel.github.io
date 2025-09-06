@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Experience & Portfolio
-permalink: /experience/
+title: Test
+permalink: /test/
 image:
   path: /assets/images/banner.png
 ---
