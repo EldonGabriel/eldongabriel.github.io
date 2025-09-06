@@ -221,61 +221,61 @@ My professional journey combines entrepreneurial experience with technical roles
   <!-- IP Subnetting Fundamentals -->
   <div style="width:48%; text-align:center;">
     <iframe src="{{ '/assets/reports/REPORT – IP Subnetting Fundamentals – v1.0.0.pdf' | relative_url }}" width="100%" height="315" style="border:1px solid #ccc;"></iframe>
-    <p><strong>IP Subnetting Fundamentals</strong> – IP addressing and subnetting</p>
+    <p><strong>REPORT – IP Subnetting Fundamentals – v1.0.0.pdf</strong></p>
   </div>
 
   <!-- Kerberos Authentication Protocol -->
   <div style="width:48%; text-align:center;">
     <iframe src="{{ '/assets/reports/REPORT – Kerberos Authentication Protocol – v1.0.1.pdf' | relative_url }}" width="100%" height="315" style="border:1px solid #ccc;"></iframe>
-    <p><strong>Kerberos Authentication Protocol</strong> – Documented TGT & ST lifecycles</p>
+    <p><strong>REPORT – Kerberos Authentication Protocol – v1.0.1.pdf</strong></p>
   </div>
 
   <!-- Network Attack Analysis -->
   <div style="width:48%; text-align:center;">
     <iframe src="{{ '/assets/reports/REPORT – Network Attack Analysis – v1.0.1.pdf' | relative_url }}" width="100%" height="315" style="border:1px solid #ccc;"></iframe>
-    <p><strong>Network Attack Analysis</strong> – Analyzed traffic patterns for malicious activity</p>
+    <p><strong>REPORT – Network Attack Analysis – v1.0.1.pdf</strong></p>
   </div>
 
   <!-- DNS Analysis with dig -->
   <div style="width:48%; text-align:center;">
     <iframe src="{{ '/assets/reports/REPORT – DNS Analysis with dig – v1.0.1.pdf' | relative_url }}" width="100%" height="315" style="border:1px solid #ccc;"></iframe>
-    <p><strong>DNS Analysis with dig</strong> – Conducted DNS lookups and troubleshooting</p>
+    <p><strong>REPORT – DNS Analysis with dig – v1.0.1.pdf</strong></p>
   </div>
 
   <!-- DNS Outage & Port 53 Failure -->
   <div style="width:48%; text-align:center;">
     <iframe src="{{ '/assets/reports/REPORT – DNS Outage and Port 53 Failure Analysis – v1.0.1.pdf' | relative_url }}" width="100%" height="315" style="border:1px solid #ccc;"></iframe>
-    <p><strong>DNS Outage & Port 53 Failure</strong> – Diagnosed simulated outage</p>
+    <p><strong>REPORT – DNS Outage and Port 53 Failure Analysis – v1.0.1.pdf</strong></p>
   </div>
 
   <!-- Enterprise IPsec VPN Troubleshooting -->
   <div style="width:48%; text-align:center;">
     <iframe src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" width="100%" height="315" style="border:1px solid #ccc;"></iframe>
-    <p><strong>Enterprise IPsec VPN Troubleshooting</strong> – A guide to troubleshooting an enterprise IPsec VPN</p>
+    <p><strong>GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf</strong></p>
   </div>
 
   <!-- Windows Setup for Secure Networking -->
   <div style="width:48%; text-align:center;">
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/m4MngVs_bmM" title="Windows Setup for Secure Networking" frameborder="0" allowfullscreen></iframe>
-    <p><strong>Windows Setup for Secure Networking</strong> – A video demonstration</p>
+    <p><strong>Windows Setup for Secure Networking</strong></p>
   </div>
 
   <!-- Network Adapter Installation & Testing -->
   <div style="width:48%; text-align:center;">
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/5lywwd1MQRo" title="Network Adapter Installation & Testing" frameborder="0" allowfullscreen></iframe>
-    <p><strong>Network Adapter Installation & Testing</strong> – A video demonstration</p>
+    <p><strong>Network Adapter Installation & Testing</strong></p>
   </div>
 
   <!-- Windows Firewall Configuration -->
   <div style="width:48%; text-align:center;">
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/U_4TeohPNQ4" title="Windows Firewall Configuration" frameborder="0" allowfullscreen></iframe>
-    <p><strong>Windows Firewall Configuration</strong> – A video demonstration</p>
+    <p><strong>Windows Firewall Configuration</strong></p>
   </div>
 
   <!-- Domain Join & GPO Setup -->
   <div style="width:48%; text-align:center;">
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/JE3jutqyI4Q" title="Domain Join & GPO Setup" frameborder="0" allowfullscreen></iframe>
-    <p><strong>Domain Join & GPO Setup</strong> – A video demonstration</p>
+    <p><strong>Domain Join & GPO Setup</strong></p>
   </div>
 
 </div>
