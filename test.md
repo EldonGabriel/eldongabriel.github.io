@@ -220,37 +220,37 @@ My professional journey combines entrepreneurial experience with technical roles
 
   <!-- IP Subnetting Fundamentals -->
   <div style="width:48%; text-align:center;">
-    <iframe src="{{ '/assets/reports/REPORT – IP Subnetting Fundamentals – v1.0.0.pdf' | relative_url }}" width="100%" height="315" style="border:1px solid #ccc;"></iframe>
+    <iframe src="{{ '/assets/reports/REPORT – IP Subnetting Fundamentals – v1.0.0.pdf' | relative_url }}" width="100%" height="800" style="border:1px solid #ccc;"></iframe>
     <p><strong>REPORT – IP Subnetting Fundamentals – v1.0.0.pdf</strong></p>
   </div>
 
   <!-- Kerberos Authentication Protocol -->
   <div style="width:48%; text-align:center;">
-    <iframe src="{{ '/assets/reports/REPORT – Kerberos Authentication Protocol – v1.0.1.pdf' | relative_url }}" width="100%" height="315" style="border:1px solid #ccc;"></iframe>
+    <iframe src="{{ '/assets/reports/REPORT – Kerberos Authentication Protocol – v1.0.1.pdf' | relative_url }}" width="100%" height="800" style="border:1px solid #ccc;"></iframe>
     <p><strong>REPORT – Kerberos Authentication Protocol – v1.0.1.pdf</strong></p>
   </div>
 
   <!-- Network Attack Analysis -->
   <div style="width:48%; text-align:center;">
-    <iframe src="{{ '/assets/reports/REPORT – Network Attack Analysis – v1.0.1.pdf' | relative_url }}" width="100%" height="315" style="border:1px solid #ccc;"></iframe>
+    <iframe src="{{ '/assets/reports/REPORT – Network Attack Analysis – v1.0.1.pdf' | relative_url }}" width="100%" height="800" style="border:1px solid #ccc;"></iframe>
     <p><strong>REPORT – Network Attack Analysis – v1.0.1.pdf</strong></p>
   </div>
 
   <!-- DNS Analysis with dig -->
   <div style="width:48%; text-align:center;">
-    <iframe src="{{ '/assets/reports/REPORT – DNS Analysis with dig – v1.0.1.pdf' | relative_url }}" width="100%" height="315" style="border:1px solid #ccc;"></iframe>
+    <iframe src="{{ '/assets/reports/REPORT – DNS Analysis with dig – v1.0.1.pdf' | relative_url }}" width="100%" height="800" style="border:1px solid #ccc;"></iframe>
     <p><strong>REPORT – DNS Analysis with dig – v1.0.1.pdf</strong></p>
   </div>
 
   <!-- DNS Outage & Port 53 Failure -->
   <div style="width:48%; text-align:center;">
-    <iframe src="{{ '/assets/reports/REPORT – DNS Outage and Port 53 Failure Analysis – v1.0.1.pdf' | relative_url }}" width="100%" height="315" style="border:1px solid #ccc;"></iframe>
+    <iframe src="{{ '/assets/reports/REPORT – DNS Outage and Port 53 Failure Analysis – v1.0.1.pdf' | relative_url }}" width="100%" height="800" style="border:1px solid #ccc;"></iframe>
     <p><strong>REPORT – DNS Outage and Port 53 Failure Analysis – v1.0.1.pdf</strong></p>
   </div>
 
   <!-- Enterprise IPsec VPN Troubleshooting -->
   <div style="width:48%; text-align:center;">
-    <iframe src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" width="100%" height="315" style="border:1px solid #ccc;"></iframe>
+    <iframe src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" width="100%" height="800" style="border:1px solid #ccc;"></iframe>
     <p><strong>GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf</strong></p>
   </div>
 
