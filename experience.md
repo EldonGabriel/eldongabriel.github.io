@@ -5,168 +5,356 @@ permalink: /experience/
 image:
   path: /assets/images/banner.png
 ---
+
 <center>
 <h1 style="font-size:300%;">Eldon Gabriel</h1>
 <p style="font-size:160%;">Cybersecurity Technician & IT Operations</p>
 </center>
 
 <h4 align="center">
-📧 <a href="mailto:eldongbrl@proton.me">Email</a> | 🌐 <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832">MCSI Portfolio</a> | 🔗 <a href="https://www.linkedin.com/in/eldongabriel">LinkedIn</a>
+📧 <a href="mailto:eldongbrl@proton.me">Email</a> | 🌐 <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832">MCSI Cybersecurity Training Portfolio</a> | 🔗 <a href="https://www.linkedin.com/in/eldongabriel">LinkedIn</a>
 </h4>
----
-
-## Professional Summary
-ISC² Certified Cybersecurity Technician with hands-on experience in system administration, network security, and ethical hacking. Skilled in Windows/Linux administration, Python automation, Kali Linux, penetration testing, OSINT, threat hunting, and digital forensics using Nmap, Dumpzilla, PE Studio, and virtual labs. Known for producing clear documentation, automation scripts, and practical solutions. Seeking entry-level roles in security operations, investigative projects, or system administration.
 
 ---
 
-## Core Competencies
-- **System Administration & Security:** Windows Server, Linux CLI, GPO, Firewall, Backup, System Hardening.  
-- **Networking & Tools:** VPNs, Cisco Packet Tracer, Nmap, Wireshark, IDS/IPS, NAT, ACLs, Kali Linux. 
-- **Governance, Risk & Compliance:** NIST frameworks, Risk Assessment, Documentation, Compliance Audits.  
-- **Forensics & OSINT:** Malware Analysis (YARA), Digital Artifacts, Social Media Mapping, Threat Intelligence.  
-- **Programming & Automation:** Python scripting for cybersecurity tasks.
+<center>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">About Me</h1>
+</center>
+
+My professional journey combines entrepreneurial experience with technical roles, culminating in a focus on cybersecurity operations. Below are some of my most impactful projects and roles that showcase hands-on skills in system administration, network security, incident response, and digital forensics.
 
 ---
+<br>
+<center>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Work & Projects</h1>
+</center>
 
-## Professional Experience
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Cybersecurity Reports</h2>
+</center>
 
-**Mossé Cyber Security Institute (MCSI) | Remote**  
-*System Administration Specialist* | Jul 2025 – Present  
-- Engineered secure lab environments simulating enterprise networks.  
-- Produced professional cybersecurity documentation and structured reports.  
-- Completed Networking Fundamentals labs on OSI/TCP-IP, Draw.io diagrams, and Cisco Packet Tracer setups.  
-- Implemented Windows system hardening and firewall rules, including SMB access restrictions.
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-*Cybersecurity Technician* | Feb 2025 – Jul 2025  
-- Conducted penetration testing and threat analysis using Kaili Linux, Nmap and other tools.  
-- Practiced operational defense through simulated real-world incidents.  
-- Created mindmaps of OSINT data collected from social media platforms and communities.  
-- Developed and professionally documented YARA rules for detecting suspicious files and executables.
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Access Control Incident - v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Access Control Incident – v1.2.0</strong></p>
+</div>
 
-**Land Property Partners** | Remote
-*Land Acquisition Specialist* | Mar 2020 – Present  
-- Managed sensitive property data and performed risk analysis.  
-- Built and maintained the company website, implementing SEO and technical improvements.  
-- Configured digital contract workflows and CRM lead distribution.  
-- Provided technical support to buyers, sellers, and staff.
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – BYOD in Organizations_ Security, Challenges, and Strategies – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – BYOD in Organizations – v1.0.1</strong></p>
+</div>
 
-**Nutrition Outlet** | Remote 
-*Owner* | Mar 2015 – Present  
-- Led multi-channel retail business operations, transitioning fully online.  
-- Built and maintained a WordPress-based e-commerce platform with secure payment systems.  
-- Oversaw customer data protection, financial system security, and operational risk mitigation.  
-- Directed end-to-end operations aligning business goals with IT and security requirements.
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Bank Risk Register Analysis – v1.0.2</strong></p>
+</div>
 
-**Secure Host Inc.** | Hybrid 
-*Security Operations Manager* | 2007 – 2014  
-- Led security operations, risk assessments, and incident response.  
-- Supervised security teams and developed operational process documentation.
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Botium Security Audit– v1.1.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Botium Security Audit – v1.1.0</strong></p>
+</div>
 
----
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Investigation of Unauthorized Payroll Access Incident – v1.2.0</strong></p>
+</div>
 
-## Practical Experience
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Post-Breach Security Recommendations – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Post-Breach Security Recommendations – v1.0.1</strong></p>
+</div>
 
-#### Governance, Risk & Compliance (GRC) 
-- **Professional Reporting:** Authored structured cybersecurity reports and templates.  
-- **Risk Analysis:** Identified, ranked, and analyzed threats in a simulated banking environment.
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – SQL Query Analysis Incident – v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – SQL Query Analysis Incident – v1.0.2</strong></p>
+</div>
 
-#### Digital Forensics & Incident Response  
-- **Forensic Analysis:** Used Dumpzilla to extract and analyze browser forensics logs.  
-- **Threat Hunting & Malware Analysis:** Created and verified YARA rules to detect and analyze suspicious files, including PE files.
-
-#### Passive Network Reconnaissance & OSINT  
-- **External Asset Mapping:** Utilized dnsdumpster.com and shodan.io to map public-facing assets.  
-- **OSINT Collection:** Gathered information from code repositories, social media, and community sources.  
-- **Analysis:** Built mindmaps and actionable intelligence reports from collected data.
+</div>
 
 ---
-## Portfolio Highlights
+<br>
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Windows Security Guides</h2>
+</center>
 
-#### Cybersecurity Reports  
-- **Access Control Incident** – Investigated and resolved access control incident – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Access%20Control%20Incident%20-%20v1.2.0.pdf" target="_blank">View Report</a>  
-- **BYOD in Organizations** – Analyzed security risks of BYOD policies – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20BYOD%20in%20Organizations_%20Security%2C%20Challenges%2C%20and%20Strategies%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Report</a>  
-- **Bank Risk Register Analysis** – Identified and ranked simulated bank threats – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Bank%20Risk%20Register%20Analysis%20%E2%80%93%20v1.0.2.pdf" target="_blank">View Report</a>  
-- **Botium Security Audit** – Conducted security audit on application – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Botium%20Security%20Audit%E2%80%93%20v1.1.0.pdf" target="_blank">View Report</a>  
-- **Payroll Access Investigation** – Traced breach to contractor account – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Investigation%20of%20Unauthorized%20Payroll%20Access%20Incident%20-%20v1.2.0.pdf" target="_blank">View Report</a>  
-- **Post-Breach Security Recommendations** – Recommended security measures after breach – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Post-Breach%20Security%20Recommendations%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Report</a> 
-- **SQL Query Analysis Incident** – Analyzed database queries for suspicious activity – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20SQL%20Query%20Analysis%20Incident%20%E2%80%93%20v1.0.2.pdf" target="_blank">View Report</a>  
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-#### Windows Security Guides  
-- **SMB Protocol** – SMB functions, uses, and security – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20SMB%20Protocol_%20Function%20and%20Security%20Risks%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Guide</a>  
-- **Access Permissions and Rights** – Folder access management – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Using%20Access%20Permissions%20and%20Rights%20to%20Secure%20a%20Folder%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Guide</a>  
-- **Monitoring Windows Processes with Procmon** – Process monitoring – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Monitoring%20Windows%20Processes%20with%20Procmon%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Guide</a>  
-- **Endpoint Registry Controls** – Blocking untrusted user accounts – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Endpoint%20Security%20with%20the%20Windows%20Registry%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Guide</a>  
-- **RDP Troubleshooting** – AWS VM Access – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Endpoint%20Security%20with%20the%20Windows%20Registry%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Guide</a>  
-- **File Ownership Recovery** – Recovering permissions and ownership for secured files – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20File%20Ownership%20Recovery%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Report</a>  
-- **Password Managers** – Secure configuration and management of credential storage – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%20%E2%80%93%20Password%20Managers%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Report</a>  
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/guides/GUIDE – SMB Protocol_ Function and Security Risks – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>GUIDE – SMB Protocol – v1.0.0</strong></p>
+</div>
 
-#### Windows Administration Labs
-- **Windows Disk Cleanup** – System Maintenance & Admin Skills – [View Demo](https://youtu.be/HeSARWF3F58)
-- **Defragment & Optimize Drives** – System Maintenance & Admin Skills – [View Demo](https://youtu.be/G7riXJI8w4U)  
-- **Task Scheduler** – Automate System Tasks & Maintenance – [View Demo](https://youtu.be/z8nXF2OleGo)  
-- **Windows Defender Firewall** – Network Security & Control – [View Demo](https://youtu.be/WZtkpKxr9xE)  
-- **Registry Editor** – Advanced System Configuration – [View Demo](https://youtu.be/g9A2faHgWWs)  
-- **Event Viewer** – Monitoring System Events & Troubleshooting – [View Demo](https://youtu.be/rw7QL5BgQgI)  
-- **System Information** – Hardware & Software Overview – [View Demo](https://youtu.be/-AfFdEs_sTY)  
-- **Programs and Features** – Software Management – [View Demo](https://youtu.be/cQAwuYjr_b0)  
-- **Network and Sharing Center** – Connectivity & Troubleshooting – [View Demo](https://youtu.be/qyRWBM-w-1s)  
-- **BitLocker Drive Encryption** – Data Security Planning – [View Demo](https://youtu.be/wlgnNwbKe3w)
-- **Credential Manager** – Secure Login & Password Management – [View Demo](https://youtu.be/8UPRuS-ZZ3s)
-- **Windows 10 VM on GCP** – Cloud Virtualization & Admin Skills – [View Demo](https://youtu.be/rNI50WIqZWc)
-  
-#### System Development & Hardening  
-- **Linux File Permissions Management** – Secured Linux systems via permission enforcement – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Linux%20File%20Permissions%20Management%20-%20v1.0.2.pdf" target="_blank">View Report</a>  
-- **Python Algorithm for IP Access Control** – Automated IP access restrictions – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Python%20Algorithm%20for%20Managing%20IP%20Access%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Report</a>  
-- **Server Security Evaluation** – Assessed exposed database server and recommended fixes – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Server%20Security%20Evaluation%20%E2%80%93%20v1.2.0.pdf" target="_blank">View Report</a>  
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/guides/GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>GUIDE – Access Permissions and Rights – v1.0.0</strong></p>
+</div>
 
-#### Network Fundamentals 
-- **IP Subnetting Fundamentals** – IP addressing and subnetting – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20IP%20Subnetting%20Fundamentals%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Guide</a>  
-- **Kerberos Authentication Protocol** – Documented TGT & ST lifecycles – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Report</a>  
-- **Network Attack Analysis** – Analyzed traffic patterns for malicious activity – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Network%20Attack%20Analysis%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Report</a>  
-- **DNS Analysis with dig** – Conducted DNS lookups and troubleshooting – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20DNS%20Analysis%20with%20dig%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Report</a>  
-- **DNS Outage & Port 53 Failure** – Diagnosed simulated outage – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20DNS%20Outage%20and%20Port%2053%20Failure%20Analysis%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Report</a>  
-- **Enterprise IPsec VPN Troubleshooting** – A guide to troubleshooting an enterprise IPsec VPN – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Enterprise%20IPsec%20VPN%20Troubleshooting%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Guide</a>  
-- **Windows Setup for Secure Networking** – A video demonstration – <a href="https://youtu.be/m4MngVs_bmM" target="_blank">Watch Video</a>  
-- **Network Adapter Installation & Testing** – A video demonstration – <a href="https://www.youtube.com/watch?v=5lywwd1MQRo" target="_blank">Watch Video</a>  
-- **Windows Firewall Configuration** – A video demonstration – <a href="https://www.youtube.com/watch?v=U_4TeohPNQ4" target="_blank">Watch Video</a>  
-- **Domain Join & GPO Setup** – A video demonstration – <a href="https://www.youtube.com/watch?v=JE3jutqyI4Q" target="_blank">Watch Video</a>  
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/guides/GUIDE – Monitoring Windows Processes with Procmon – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>GUIDE – Monitoring Windows Processes with Procmon – v1.0.1</strong></p>
+</div>
 
-#### SQL for Cybersecurity  
-- **Investigating Database Activity** – A video demonstration – <a href="https://www.youtube.com/watch?v=TUqYto8EDJ4" target="_blank">Watch Video</a>  
-- **Investigate Security Incidents with SQL** – A video demonstration – <a href="https://www.youtube.com/watch?v=bhTHXhE6kTk" target="_blank">Watch Video</a>  
-- **Using AND, OR, NOT** – A video demonstration – <a href="https://www.youtube.com/watch?v=5qCjwenE-Z0" target="_blank">Watch Video</a>  
-- **SQL Joins for Security Investigation** – A video demonstration – <a href="https://www.youtube.com/watch?v=ynxJ1go-Cc8" target="_blank">Watch Video</a>  
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/guides/GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>GUIDE – Endpoint Registry Controls – v1.0.0</strong></p>
+</div>
 
-#### Cybersecurity Templates  
-- **Professional Cybersecurity Report Template Guide** – <a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?usp=sharing" target="_blank">View Template</a>  
-- **BYOD Policy & Agreement Template** – <a href="https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing" target="_blank">View Template</a>  
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/guides/GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>GUIDE – RDP Troubleshooting – v1.0.0</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – File Ownership Recovery – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – File Ownership Recovery – v1.0.0</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT  – Password Managers – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Password Managers – v1.0.0</strong></p>
+</div>
+
+</div>
+---
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Windows Administration Labs</h2>
+</center>
+
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/HeSARWF3F58" title="Windows Disk Cleanup" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Windows Disk Cleanup</strong> – System Maintenance & Admin Skills</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/G7riXJI8w4U" title="Defragment & Optimize Drives" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Defragment & Optimize Drives</strong> – System Maintenance & Admin Skills</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/z8nXF2OleGo" title="Task Scheduler" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Task Scheduler</strong> – Automate System Tasks & Maintenance</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/WZtkpKxr9xE" title="Windows Defender Firewall" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Windows Defender Firewall</strong> – Network Security & Control</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/g9A2faHgWWs" title="Registry Editor" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Registry Editor</strong> – Advanced System Configuration</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/rw7QL5BgQgI" title="Event Viewer" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Event Viewer</strong> – Monitoring System Events & Troubleshooting</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/-AfFdEs_sTY" title="System Information" frameborder="0" allowfullscreen></iframe>
+    <p><strong>System Information</strong> – Hardware & Software Overview</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/cQAwuYjr_b0" title="Programs and Features" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Programs and Features</strong> – Software Management</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/qyRWBM-w-1s" title="Network and Sharing Center" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Network and Sharing Center</strong> – Connectivity & Troubleshooting</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/wlgnNwbKe3w" title="BitLocker Drive Encryption" frameborder="0" allowfullscreen></iframe>
+    <p><strong>BitLocker Drive Encryption</strong> – Data Security Planning</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/8UPRuS-ZZ3s" title="Credential Manager" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Credential Manager</strong> – Secure Login & Password Management</p>
+  </div>
+
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/rNI50WIqZWc" title="Windows 10 VM on GCP" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Windows 10 VM on GCP</strong> – Cloud Virtualization & Admin Skills</p>
+  </div>
+
+</div>
 
 ---
+<br>
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">System Development & Hardening</h2>
+</center>
 
-## Education & Certifications  
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-**Mossé Cyber Security Institute (MCSI)** | Remote  
-- **MSAF** – System Administration Fundamentals *(In Progress)*  
-- **MICS** – Introduction to Cyber Security
-- **KCCS** – Knowledge of Cybersecurity Skills
-- **KCIS** – Knowledge of Core IT Skills
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Linux File Permissions Management - v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Linux File Permissions Management – v1.0.2</strong></p>
+</div>
 
-**University of Colorado** | Remote  
-- Computer Security & Systems Management Specialization (In Progress) 
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Python Algorithm for Managing IP Access – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Python Algorithm for IP Access – v1.0.1</strong></p>
+</div>
 
-## Completed Certifications
+<div style="width:48%; text-align:center;">
+  <iframe src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <p><strong>REPORT – Server Security Evaluation – v1.2.0</strong></p>
+</div>
 
-- **ISC²** – Certified in Cybersecurity (CC)
-- **Google** – IT Support, Cybersecurity Professional
-- **InfoSec** – NIST Cybersecurity Risk Management, NIST 800-171, NIST DoD RMF, NIST CSF
-- **Board Infinity** – Kali Linux Fundamentals (Ethical Hacking & Penetration Testing)
-- **Duke University** – Decentralized Finance (DeFi) Infrastructure
-
----
-
-## Portfolio Access
-
-Contact me to see my full portfolio and access detailed project reports, labs, and guides showcasing hands-on cybersecurity skills and real-world problem solving.
+</div>
 
 ---
+<br>
+<center>
+  <h2 style="display: inline-block; width: 60%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Network Fundamentals</h2>
+</center>
+
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
+
+  <!-- IP Subnetting Fundamentals -->
+  <div style="width:48%; text-align:center;">
+    <iframe src="{{ '/assets/reports/REPORT – IP Subnetting Fundamentals – v1.0.0.pdf' | relative_url }}" width="100%" height="800" style="border:1px solid #ccc;"></iframe>
+    <p><strong>REPORT – IP Subnetting Fundamentals – v1.0.0.pdf</strong></p>
+  </div>
+
+  <!-- Kerberos Authentication Protocol -->
+  <div style="width:48%; text-align:center;">
+    <iframe src="{{ '/assets/reports/REPORT – Kerberos Authentication Protocol – v1.0.1.pdf' | relative_url }}" width="100%" height="800" style="border:1px solid #ccc;"></iframe>
+    <p><strong>REPORT – Kerberos Authentication Protocol – v1.0.1.pdf</strong></p>
+  </div>
+
+  <!-- Network Attack Analysis -->
+  <div style="width:48%; text-align:center;">
+    <iframe src="{{ '/assets/reports/REPORT – Network Attack Analysis – v1.0.1.pdf' | relative_url }}" width="100%" height="800" style="border:1px solid #ccc;"></iframe>
+    <p><strong>REPORT – Network Attack Analysis – v1.0.1.pdf</strong></p>
+  </div>
+
+  <!-- DNS Analysis with dig -->
+  <div style="width:48%; text-align:center;">
+    <iframe src="{{ '/assets/reports/REPORT – DNS Analysis with dig – v1.0.1.pdf' | relative_url }}" width="100%" height="800" style="border:1px solid #ccc;"></iframe>
+    <p><strong>REPORT – DNS Analysis with dig – v1.0.1.pdf</strong></p>
+  </div>
+
+  <!-- DNS Outage & Port 53 Failure -->
+  <div style="width:48%; text-align:center;">
+    <iframe src="{{ '/assets/reports/REPORT – DNS Outage and Port 53 Failure Analysis – v1.0.1.pdf' | relative_url }}" width="100%" height="800" style="border:1px solid #ccc;"></iframe>
+    <p><strong>REPORT – DNS Outage and Port 53 Failure Analysis – v1.0.1.pdf</strong></p>
+  </div>
+
+  <!-- Enterprise IPsec VPN Troubleshooting -->
+  <div style="width:48%; text-align:center;">
+    <iframe src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" width="100%" height="800" style="border:1px solid #ccc;"></iframe>
+    <p><strong>GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf</strong></p>
+  </div>
+
+  <!-- Windows Setup for Secure Networking -->
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/m4MngVs_bmM" title="Windows Setup for Secure Networking" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Windows Setup for Secure Networking</strong></p>
+  </div>
+
+  <!-- Network Adapter Installation & Testing -->
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/5lywwd1MQRo" title="Network Adapter Installation & Testing" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Network Adapter Installation & Testing</strong></p>
+  </div>
+
+  <!-- Windows Firewall Configuration -->
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/U_4TeohPNQ4" title="Windows Firewall Configuration" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Windows Firewall Configuration</strong></p>
+  </div>
+
+  <!-- Domain Join & GPO Setup -->
+  <div style="width:48%; text-align:center;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/JE3jutqyI4Q" title="Domain Join & GPO Setup" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Domain Join & GPO Setup</strong></p>
+  </div>
+
+</div>
+
+---
+<br>
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">SQL for Cybersecurity</h2>
+</center>
+
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
+
+<div style="width:48%; text-align:center;">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/TUqYto8EDJ4" title="Investigating Database Activity" frameborder="0" allowfullscreen></iframe>
+  <p><strong>Investigating Database Activity</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/bhTHXhE6kTk" title="Investigate Security Incidents with SQL" frameborder="0" allowfullscreen></iframe>
+  <p><strong>Investigate Security Incidents with SQL</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/5qCjwenE-Z0" title="Using AND, OR, NOT" frameborder="0" allowfullscreen></iframe>
+  <p><strong>Using AND, OR, NOT</strong></p>
+</div>
+
+<div style="width:48%; text-align:center;">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/ynxJ1go-Cc8" title="SQL Joins for Security Investigation" frameborder="0" allowfullscreen></iframe>
+  <p><strong>SQL Joins for Security Investigation</strong></p>
+</div>
+
+</div>
+
+---
+<br>
+<center>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Cybersecurity Templates</h2>
+</center>
+
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+
+  <div style="flex:1; min-width:400px; text-align:center;">
+    <a href="https://docs.google.com/document/d/e/2PACX-1vSDsQTUCRoz0gKbLHZA1PpmvA62tsR7l7T6V67L2DGKoEYU2tExpanNV4szw2cZNswpv8D-8MwYIjc7/pub" target="_blank">
+      <img src="/assets/images/CSRTcover.png" alt="Professional Cybersecurity Report Template Guide" style="width:100%; height:auto;">
+    </a>
+    <p><strong><a href="https://docs.google.com/document/d/e/2PACX-1vSDsQTUCRoz0gKbLHZA1PpmvA62tsR7l7T6V67L2DGKoEYU2tExpanNV4szw2cZNswpv8D-8MwYIjc7/pub" target="_blank">Professional Cybersecurity Report Template Guide</a></strong></p>
+  </div>
+
+  <div style="flex:1; min-width:400px; text-align:center;">
+    <a href="https://docs.google.com/document/d/e/2PACX-1vRfW464qr10tFcRD4WLPVRVKa1W4UDaodRk_Haakfr3rqwcwRgd-d4k3J9Es6uMlH62XSU87a10aINc/pub" target="_blank">
+      <img src="/assets/images/BYODcover.png" alt="BYOD Policy & Agreement Template" style="width:100%; height:auto;">
+    </a>
+    <p><strong><a href="https://docs.google.com/document/d/e/2PACX-1vRfW464qr10tFcRD4WLPVRVKa1W4UDaodRk_Haakfr3rqwcwRgd-d4k3J9Es6uMlH62XSU87a10aINc/pub" target="_blank">BYOD Policy & Agreement Template</a></strong></p>
+  </div>
+
+</div>
+
+---
+<br>
+<center>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Professional Journey</h1>
+</center>
+
+**Cybersecurity & System Administration** 
+Completed hands-on labs at MCSI—networking fundamentals, Windows hardening, and threat detection. 
+
+**IT & Risk Management** 
+Managed sensitive data and technical support for Land Property Partners and Nutrition Outlet, ensuring secure operations.
+**Security Operations** 
+Led teams and incident response at Secure Host Inc., documenting processes and implementing risk mitigation.  
+
+---
+<br>
+<center>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Contact</h1>
+</center>
+
+To explore my full portfolio of projects, reports, and demos, feel free to reach out:  
+<h5 align="center">
+📧 <a href="mailto:eldongbrl@proton.me">Email</a> | 🌐 <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832">MCSI Cybersecurity Training Portfolio</a> | 🔗 <a href="https://www.linkedin.com/in/eldongabriel">LinkedIn</a>
+</h5>
