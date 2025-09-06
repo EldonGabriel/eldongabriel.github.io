@@ -352,7 +352,7 @@ function showSlides() {
   </table>
 </center>
 
-<p style="font-size: 0.9em; color: #fff;">⭐ MCSI certifications align with NIST National Initiative for Cybersecurity Education (NICE), US Military Occupational Specialties (MOS), and Australian Signals Directorate (ASD) Cyber Skills Framework.</p>
+<p style="font-size: 0.9em; color: #fff;">⭐ MCSI certifications align with **NIST National Initiative for Cybersecurity Education (NICE)**, **US Military Occupational Specialties (MOS)**, and **Australian Signals Directorate (ASD) Cyber Skills Framework**.</p>
 
 ***
 <br>
