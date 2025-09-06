@@ -109,8 +109,9 @@ ISC² Certified Cybersecurity Technician with hands-on experience in system admi
 - **Programs and Features – Software Management** – [View Demo](https://youtu.be/cQAwuYjr_b0)  
 - **Network and Sharing Center – Connectivity & Troubleshooting** – [View Demo](https://youtu.be/qyRWBM-w-1s)  
 - **BitLocker Drive Encryption – Data Security Planning** – [View Demo](https://youtu.be/wlgnNwbKe3w)
-- **Credential Manager – Secure Login & Password Management** – [View Demo](https://youtu.be/8UPRuS-ZZ3s)  
-
+- **Credential Manager – Secure Login & Password Management** – [View Demo](https://youtu.be/8UPRuS-ZZ3s)
+- **Windows 10 VM on GCP – Cloud Virtualization & Admin Skills** – [View Demo](https://youtu.be/rNI50WIqZWc)
+  
 **System Development & Hardening**  
 - **Linux File Permissions Management** – Secured Linux systems via permission enforcement – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Linux%20File%20Permissions%20Management%20-%20v1.0.2.pdf" target="_blank">View Report</a>  
 - **Python Algorithm for IP Access Control** – Automated IP access restrictions – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Python%20Algorithm%20for%20Managing%20IP%20Access%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Report</a>  
