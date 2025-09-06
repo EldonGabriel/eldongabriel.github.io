@@ -29,12 +29,12 @@ My professional journey combines entrepreneurial experience with technical roles
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
 <div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/reports/REPORT – Access Control Incident – v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <iframe src="{{ '/assets/reports/REPORT – Access Control Incident - v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
   <p><strong>REPORT – Access Control Incident – v1.2.0</strong></p>
 </div>
 
 <div style="width:48%; text-align:center;">
-  <iframe src="{{ '/assets/reports/REPORT – BYOD in Organizations – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <iframe src="{{ '/assets/reports/REPORT – BYOD in Organizations_ Security, Challenges, and Strategies – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
   <p><strong>REPORT – BYOD in Organizations – v1.0.1</strong></p>
 </div>
 
