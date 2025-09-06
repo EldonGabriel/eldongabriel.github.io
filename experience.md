@@ -89,7 +89,7 @@ ISC² Certified Cybersecurity Technician with hands-on experience in system admi
 - **Post-Breach Security Recommendations** – Recommended security measures after breach – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Post-Breach%20Security%20Recommendations%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Report</a> 
 - **SQL Query Analysis Incident** – Analyzed database queries for suspicious activity – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20SQL%20Query%20Analysis%20Incident%20%E2%80%93%20v1.0.2.pdf" target="_blank">View Report</a>  
 
-**Windows Security Guides**  
+### Windows Security Guides  
 - **SMB Protocol** – SMB functions, uses, and security – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20SMB%20Protocol_%20Function%20and%20Security%20Risks%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Guide</a>  
 - **Access Permissions and Rights** – Folder access management – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Using%20Access%20Permissions%20and%20Rights%20to%20Secure%20a%20Folder%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Guide</a>  
 - **Monitoring Windows Processes with Procmon** – Process monitoring – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Monitoring%20Windows%20Processes%20with%20Procmon%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Guide</a>  
@@ -98,7 +98,7 @@ ISC² Certified Cybersecurity Technician with hands-on experience in system admi
 - **File Ownership Recovery** – Recovering permissions and ownership for secured files – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20File%20Ownership%20Recovery%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Report</a>  
 - **Password Managers** – Secure configuration and management of credential storage – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%20%E2%80%93%20Password%20Managers%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Report</a>  
 
-**Windows Administration Labs**
+### Windows Administration Labs
 - **Windows Disk Cleanup** – System Maintenance & Admin Skills – [View Demo](https://youtu.be/HeSARWF3F58)
 - **Defragment & Optimize Drives** – System Maintenance & Admin Skills – [View Demo](https://youtu.be/G7riXJI8w4U)  
 - **Task Scheduler** – Automate System Tasks & Maintenance – [View Demo](https://youtu.be/z8nXF2OleGo)  
@@ -112,12 +112,12 @@ ISC² Certified Cybersecurity Technician with hands-on experience in system admi
 - **Credential Manager** – Secure Login & Password Management – [View Demo](https://youtu.be/8UPRuS-ZZ3s)
 - **Windows 10 VM on GCP** – Cloud Virtualization & Admin Skills – [View Demo](https://youtu.be/rNI50WIqZWc)
   
-**System Development & Hardening**  
+### System Development & Hardening  
 - **Linux File Permissions Management** – Secured Linux systems via permission enforcement – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Linux%20File%20Permissions%20Management%20-%20v1.0.2.pdf" target="_blank">View Report</a>  
 - **Python Algorithm for IP Access Control** – Automated IP access restrictions – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Python%20Algorithm%20for%20Managing%20IP%20Access%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Report</a>  
 - **Server Security Evaluation** – Assessed exposed database server and recommended fixes – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Server%20Security%20Evaluation%20%E2%80%93%20v1.2.0.pdf" target="_blank">View Report</a>  
 
-**Network Fundamentals**  
+### Network Fundamentals 
 - **IP Subnetting Fundamentals** – IP addressing and subnetting – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20IP%20Subnetting%20Fundamentals%20%E2%80%93%20v1.0.0.pdf" target="_blank">View Guide</a>  
 - **Kerberos Authentication Protocol** – Documented TGT & ST lifecycles – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Report</a>  
 - **Network Attack Analysis** – Analyzed traffic patterns for malicious activity – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Network%20Attack%20Analysis%20%E2%80%93%20v1.0.1.pdf" target="_blank">View Report</a>  
