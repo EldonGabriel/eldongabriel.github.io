@@ -83,52 +83,105 @@ My professional journey combines entrepreneurial experience with technical roles
 
 </div>
 
-</div>
 
 ---
 <br>
 <center>
-  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Windows Security Guides</h2>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Windows Security Guides</h1>
 </center>
 
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/guides/GUIDE – SMB Protocol_ Function and Security Risks – v1.0.0.pdf' | relative_url }}"></iframe>
-    <p><strong>GUIDE – SMB Protocol – v1.0.0</strong></p>
-  </div>
+  <!-- Left PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/guides/GUIDE – SMB Protocol_ Function and Security Risks – v1.0.0.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>GUIDE – SMB Protocol – v1.0.0</figcaption>
+  </figure>
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/guides/GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0.pdf' | relative_url }}"></iframe>
-    <p><strong>GUIDE – Access Permissions and Rights – v1.0.0</strong></p>
-  </div>
-
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/guides/GUIDE – Monitoring Windows Processes with Procmon – v1.0.1.pdf' | relative_url }}"></iframe>
-    <p><strong>GUIDE – Monitoring Windows Processes with Procmon – v1.0.1</strong></p>
-  </div>
-
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/guides/GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf' | relative_url }}"></iframe>
-    <p><strong>GUIDE – Endpoint Registry Controls – v1.0.0</strong></p>
-  </div>
-
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/guides/GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf' | relative_url }}"></iframe>
-    <p><strong>GUIDE – RDP Troubleshooting – v1.0.0</strong></p>
-  </div>
-
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – File Ownership Recovery – v1.0.0.pdf' | relative_url }}"></iframe>
-    <p><strong>REPORT – File Ownership Recovery – v1.0.0</strong></p>
-  </div>
-
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT  – Password Managers – v1.0.0.pdf' | relative_url }}"></iframe>
-    <p><strong>REPORT – Password Managers – v1.0.0</strong></p>
-  </div>
+  <!-- Right PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/guides/GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>GUIDE – Access Permissions and Rights – v1.0.0</figcaption>
+  </figure>
 
 </div>
+
+<br>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- Left PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/guides/GUIDE – Monitoring Windows Processes with Procmon – v1.0.1.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>GUIDE – Monitoring Windows Processes with Procmon – v1.0.1</figcaption>
+  </figure>
+
+  <!-- Right PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/guides/GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>GUIDE – Endpoint Registry Controls – v1.0.0</figcaption>
+  </figure>
+
+</div>
+
+<br>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- Left PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/guides/GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>GUIDE – RDP Troubleshooting – v1.0.0</figcaption>
+  </figure>
+
+  <!-- Right PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – File Ownership Recovery – v1.0.0.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>REPORT – File Ownership Recovery – v1.0.0</figcaption>
+  </figure>
+
+</div>
+
+<br>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- Left PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT  – Password Managers – v1.0.0.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>REPORT – Password Managers – v1.0.0</figcaption>
+  </figure>
+
+</div>
+
 ---
 
 <br>
@@ -203,91 +256,150 @@ My professional journey combines entrepreneurial experience with technical roles
 ---
 <br>
 <center>
-  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">System Development & Hardening</h2>
+  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">System Development & Hardening</h1>
 </center>
 
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Linux File Permissions Management - v1.0.2.pdf' | relative_url }}"></iframe>
-    <p><strong>REPORT – Linux File Permissions Management – v1.0.2</strong></p>
-  </div>
+  <!-- Left PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Linux File Permissions Management - v1.0.2.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>REPORT – Linux File Permissions Management – v1.0.2</figcaption>
+  </figure>
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Python Algorithm for Managing IP Access – v1.0.1.pdf' | relative_url }}"></iframe>
-    <p><strong>REPORT – Python Algorithm for IP Access – v1.0.1</strong></p>
-  </div>
-
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}"></iframe>
-    <p><strong>REPORT – Server Security Evaluation – v1.2.0</strong></p>
-  </div>
+  <!-- Right PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Python Algorithm for Managing IP Access – v1.0.1.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>REPORT – Python Algorithm for IP Access – v1.0.1</figcaption>
+  </figure>
 
 </div>
+
+<br>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- Single PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>REPORT – Server Security Evaluation – v1.2.0</figcaption>
+  </figure>
 
 </div>
 
 ---
 <br>
 <center>
-  <h2 style="display: inline-block; width: 60%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Network Fundamentals</h2>
+  <h1 style="display: inline-block; width: 60%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Network Fundamentals</h1>
 </center>
 
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+<!-- PDFs -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <!-- PDFs -->
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – IP Subnetting Fundamentals – v1.0.0.pdf' | relative_url }}"></iframe>
-    <p><strong>REPORT – IP Subnetting Fundamentals – v1.0.0.pdf</strong></p>
-  </div>
+  <!-- Left PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – IP Subnetting Fundamentals – v1.0.0.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – IP Subnetting Fundamentals – v1.0.0.pdf</figcaption>
+  </figure>
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Kerberos Authentication Protocol – v1.0.1.pdf' | relative_url }}"></iframe>
-    <p><strong>REPORT – Kerberos Authentication Protocol – v1.0.1.pdf</strong></p>
-  </div>
+  <!-- Right PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Kerberos Authentication Protocol – v1.0.1.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – Kerberos Authentication Protocol – v1.0.1.pdf</figcaption>
+  </figure>
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Network Attack Analysis – v1.0.1.pdf' | relative_url }}"></iframe>
-    <p><strong>REPORT – Network Attack Analysis – v1.0.1.pdf</strong></p>
-  </div>
+</div>
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – DNS Analysis with dig – v1.0.1.pdf' | relative_url }}"></iframe>
-    <p><strong>REPORT – DNS Analysis with dig – v1.0.1.pdf</strong></p>
-  </div>
+<br>
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – DNS Outage and Port 53 Failure Analysis – v1.0.1.pdf' | relative_url }}"></iframe>
-    <p><strong>REPORT – DNS Outage and Port 53 Failure Analysis – v1.0.1.pdf</strong></p>
-  </div>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}"></iframe>
-    <p><strong>GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf</strong></p>
-  </div>
+  <!-- Left PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Network Attack Analysis – v1.0.1.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – Network Attack Analysis – v1.0.1.pdf</figcaption>
+  </figure>
 
-  <!-- Videos -->
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+  <!-- Right PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – DNS Analysis with dig – v1.0.1.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – DNS Analysis with dig – v1.0.1.pdf</figcaption>
+  </figure>
+
+</div>
+
+<br>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- Left PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – DNS Outage and Port 53 Failure Analysis – v1.0.1.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – DNS Outage and Port 53 Failure Analysis – v1.0.1.pdf</figcaption>
+  </figure>
+
+  <!-- Right PDF -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" 
+            width="100%" 
+            height="800px" 
+            style="border:1px solid #ccc;"></iframe>
+    <figcaption>GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf</figcaption>
+  </figure>
+
+</div>
+
+<br>
+
+<!-- YouTube Videos -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <div style="flex:1; min-width:400px; max-width:600px; text-align:center;">
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/m4MngVs_bmM" title="Windows Setup for Secure Networking" frameborder="0" allowfullscreen></iframe>
     <p><strong>Windows Setup for Secure Networking</strong></p>
   </div>
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+  <div style="flex:1; min-width:400px; max-width:600px; text-align:center;">
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/5lywwd1MQRo" title="Network Adapter Installation & Testing" frameborder="0" allowfullscreen></iframe>
     <p><strong>Network Adapter Installation & Testing</strong></p>
   </div>
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+  <div style="flex:1; min-width:400px; max-width:600px; text-align:center;">
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/U_4TeohPNQ4" title="Windows Firewall Configuration" frameborder="0" allowfullscreen></iframe>
     <p><strong>Windows Firewall Configuration</strong></p>
   </div>
 
-  <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
+  <div style="flex:1; min-width:400px; max-width:600px; text-align:center;">
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/JE3jutqyI4Q" title="Domain Join & GPO Setup" frameborder="0" allowfullscreen></iframe>
     <p><strong>Domain Join & GPO Setup</strong></p>
   </div>
-
-</div>
 
 ---
 <br>
