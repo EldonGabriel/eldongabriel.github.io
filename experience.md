@@ -36,41 +36,42 @@ My professional journey combines entrepreneurial experience with technical roles
 <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
 
   <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Access Control Incident - v1.2.0.pdf' | relative_url }}" width="100%" height="450px" style="border:1px solid #ccc;"></iframe>
+    <iframe src="{{ '/assets/reports/REPORT – Access Control Incident - v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <p><strong>REPORT – Access Control Incident – v1.2.0</strong></p>
   </div>
 
   <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – BYOD in Organizations_ Security, Challenges, and Strategies – v1.0.1.pdf' | relative_url }}" width="100%" height="450px" style="border:1px solid #ccc;"></iframe>
+    <iframe src="{{ '/assets/reports/REPORT – BYOD in Organizations_ Security, Challenges, and Strategies – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <p><strong>REPORT – BYOD in Organizations – v1.0.1</strong></p>
   </div>
 
   <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" width="100%" height="450px" style="border:1px solid #ccc;"></iframe>
+    <iframe src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <p><strong>REPORT – Bank Risk Register Analysis – v1.0.2</strong></p>
   </div>
 
   <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Botium Security Audit– v1.1.0.pdf' | relative_url }}" width="100%" height="450px" style="border:1px solid #ccc;"></iframe>
+    <iframe src="{{ '/assets/reports/REPORT – Botium Security Audit– v1.1.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <p><strong>REPORT – Botium Security Audit – v1.1.0</strong></p>
   </div>
 
   <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" width="100%" height="450px" style="border:1px solid #ccc;"></iframe>
+    <iframe src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <p><strong>REPORT – Investigation of Unauthorized Payroll Access Incident – v1.2.0</strong></p>
   </div>
 
   <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – Post-Breach Security Recommendations – v1.0.1.pdf' | relative_url }}" width="100%" height="450px" style="border:1px solid #ccc;"></iframe>
+    <iframe src="{{ '/assets/reports/REPORT – Post-Breach Security Recommendations – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <p><strong>REPORT – Post-Breach Security Recommendations – v1.0.1</strong></p>
   </div>
 
   <div style="flex:1; min-width:300px; max-width:600px; text-align:center;">
-    <iframe class="pdf-embed" src="{{ '/assets/reports/REPORT – SQL Query Analysis Incident – v1.0.2.pdf' | relative_url }}" width="100%" height="450px" style="border:1px solid #ccc;"></iframe>
+    <iframe src="{{ '/assets/reports/REPORT – SQL Query Analysis Incident – v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <p><strong>REPORT – SQL Query Analysis Incident – v1.0.2</strong></p>
   </div>
 
 </div>
+
 ---
 <br>
 <center>
