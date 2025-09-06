@@ -116,7 +116,10 @@ My professional journey combines entrepreneurial experience with technical roles
 </div>
 
 </div>
+
 ---
+
+<br>
 <center>
   <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Windows Administration Labs</h2>
 </center>
