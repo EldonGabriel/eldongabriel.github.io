@@ -157,5 +157,5 @@ ISC² Certified Cybersecurity Technician with hands-on experience in system admi
 - **ISC²** – Certified in Cybersecurity (CC)
 - **Google** – IT Support, Cybersecurity Professional
 - **InfoSec** – NIST Cybersecurity Risk Management, NIST 800-171, NIST DoD RMF, NIST CSF
-- **Board Infinity / Coursera** – Kali Linux Fundamentals (Ethical Hacking & Penetration Testing)
+- **Board Infinity** – Kali Linux Fundamentals (Ethical Hacking & Penetration Testing)
 - **Duke University** – Decentralized Finance (DeFi) Infrastructure
