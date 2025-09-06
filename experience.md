@@ -67,18 +67,21 @@ ISC² Certified Cybersecurity Technician with hands-on experience in system admi
 
 ## Practical Experience
 
-**Governance, Risk & Compliance (GRC)**  
+### Governance, Risk & Compliance (GRC) 
 - **Professional Reporting:** Authored structured cybersecurity reports and templates.  
 - **Risk Analysis:** Identified, ranked, and analyzed threats in a simulated banking environment.
 
-**Digital Forensics & Incident Response**  
+### Digital Forensics & Incident Response  
 - **Forensic Analysis:** Used Dumpzilla to extract and analyze browser forensics logs.  
 - **Threat Hunting & Malware Analysis:** Created and verified YARA rules to detect and analyze suspicious files, including PE files.
 
-**Passive Network Reconnaissance & OSINT**  
+## Passive Network Reconnaissance & OSINT  
 - **External Asset Mapping:** Utilized dnsdumpster.com and shodan.io to map public-facing assets.  
 - **OSINT Collection:** Gathered information from code repositories, social media, and community sources.  
 - **Analysis:** Built mindmaps and actionable intelligence reports from collected data.
+
+---
+## Portfolio Highlights
 
 ### Cybersecurity Reports  
 - **Access Control Incident** – Investigated and resolved access control incident – <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Access%20Control%20Incident%20-%20v1.2.0.pdf" target="_blank">View Report</a>  
@@ -160,3 +163,11 @@ ISC² Certified Cybersecurity Technician with hands-on experience in system admi
 - **InfoSec** – NIST Cybersecurity Risk Management, NIST 800-171, NIST DoD RMF, NIST CSF
 - **Board Infinity** – Kali Linux Fundamentals (Ethical Hacking & Penetration Testing)
 - **Duke University** – Decentralized Finance (DeFi) Infrastructure
+
+---
+
+## Portfolio Access
+
+Contact me to see my full portfolio and access detailed project reports, labs, and guides showcasing hands-on cybersecurity skills and real-world problem solving.
+
+---
