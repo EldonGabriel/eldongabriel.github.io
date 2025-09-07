@@ -87,7 +87,7 @@ image:
     <figcaption>REPORT – File Ownership Recovery – v1.0.0</figcaption>
   </figure>
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Password Managers – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
+    <iframe src="{{ '/assets/reports/REPORT  – Password Managers – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
     </iframe>
     <figcaption>REPORT – Password Managers – v1.0.0</figcaption>
   </figure>
@@ -255,10 +255,10 @@ image:
 ---
 
 <div style="text-align:center;">
-  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Professional Journey</h2>
+  <h2>Professional Journey</h2>
 </div>
 
-<div style="text-align: center; max-width: 800px; margin: 0 auto;">
+<div style="max-width: 800px; margin: 0 auto;">
   <p><strong>Cybersecurity & System Administration</strong></p>
   <p>Completed hands-on labs at MCSI—networking fundamentals, Windows hardening, and threat detection.</p>
 
