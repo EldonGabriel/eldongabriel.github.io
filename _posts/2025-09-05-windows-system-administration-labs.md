@@ -136,7 +136,28 @@ Created, edited, and removed Windows credentials for secure authentication.
 
 ---
 
-## Final Thoughts  
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Instructor Feedback</h1>
+</div>
+
+> Feedback from instructor: Excellent work on the exercise. Your work is detailed and demonstrates a clear understanding of different components of Windows Control Panel. Including video demonstrations added practical context. Keep up the great work!
+
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Why This Matters</h1>
+</div>
+
+This set of labs provides practical experience in **Windows administration, troubleshooting, and security hardening**. It ensures that skills are not just theoretical, but **tested in real-world scenarios** using a cloud-hosted Windows 10 VM.  
+
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Final Thoughts</h1>
+</div>
+
 These 11 labs give a practical look at Windows administration from the ground up. The focus is on building repeatable skills that carry over into IT operations and cybersecurity work. Each lab was built independently, recorded, and documented — proving not just theory but practice.  
 
-This project shows how everyday Windows tools can be turned into professional exercises that strengthen troubleshooting, security, and system management skills.  
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Related Projects</h1>
+</div>
+
+- [Windows Control Panel Administration: Research, Labs, and Instructor Feedback](https://eldongabriel.github.io/wcp-administration/)  
+- [REPORT – GPO Hardening for Windows Application Control – v1.0.0](assets/reports/REPORT%20–%20GPO%20Hardening%20for%20Windows%20Application%20Control%20–%20v1.0.0.pdf)  
+- [Cybersecurity Report Template](https://eldongabriel.github.io/cybersecurity-report-template/)  
