@@ -69,7 +69,7 @@ This blog covers two practical exercises I completed in Windows system hardening
 
 
 <div style="text-align:center;">
-  <h3 style="display: inline-block; border-bottom: 3px solid #fff; padding-bottom: 5px;">Cybersecurity Reports</h3>
+  <h3 style="display: inline-block; border-bottom: 3px solid #fff; padding-bottom: 5px;">Related Projects</h3>
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
