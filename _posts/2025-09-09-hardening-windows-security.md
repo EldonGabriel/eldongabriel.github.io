@@ -74,7 +74,7 @@ This blog covers two practical exercises I completed in Windows system hardening
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/assets/reports/REPORT – GPO Hardening for Windows Application Control – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
+    <iframe src="{{ '/assets/reports/REPORT – GPO Hardening for Windows Application Control – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
     </iframe>
     <figcaption>REPORT – GPO Hardening for Windows Application Control – v1.0.0</figcaption>
   </figure>
