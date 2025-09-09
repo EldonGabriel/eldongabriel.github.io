@@ -24,7 +24,7 @@ image:
   <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">About Me</h2>
 </div>
 
-<p style="text-align: center; max-width: 800px; margin: 0 auto;">My professional journey combines entrepreneurial experience with technical roles, culminating in a focus on cybersecurity operations. Below are some of my most impactful projects and roles that showcase hands-on skills in system administration, network security, incident response, and digital forensics.</p>
+<p style="text-align: left; max-width: 800px; margin: 0 auto;">My professional journey combines entrepreneurial experience with technical roles, culminating in a focus on cybersecurity operations. Below are some of my most impactful projects and roles that showcase hands-on skills in system administration, network security, incident response, and digital forensics.</p>
 
 ---
 
