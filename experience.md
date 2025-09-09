@@ -255,7 +255,7 @@ image:
 ---
 
 <div style="text-align:center;">
-  <h2>Professional Journey</h2>
+  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Professional Journey</h2>
 </div>
 
 <div style="max-width: 800px; margin: 0 auto;">
