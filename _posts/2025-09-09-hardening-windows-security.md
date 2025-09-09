@@ -73,11 +73,11 @@ This blog covers two practical exercises I completed in Windows system hardening
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 0 1 45%; min-width: 400px; text-align: center;">
+  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – GPO Hardening for Windows Application Control – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – GPO Hardening for Windows Application Control – v1.0.0</figcaption>
   </div>
-  <div style="flex: 0 1 45%; min-width: 400px; text-align: center;">
+  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – Secure Credential Entry via Group Policy Objective (GPO) – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – Secure Credential Entry via GPO – v1.0.0</figcaption>
   </div>
