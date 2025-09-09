@@ -203,7 +203,21 @@ I’m seeking entry-level opportunities where I can apply my skills to security 
     <div class="text"></div>
   </div>
 
-  <!-- Slide 10 -->
+ <!-- Slide 10 -->
+  <div class="mySlides fade">
+    <div class="numbertext">10 / 10</div>
+    <img src="{{ '/assets/certifications/UoC-Enterprise-System-Management-Security.jpg' | relative_url }}">
+    <div class="text"></div>
+  </div>
+
+ <!-- Slide 11 -->
+  <div class="mySlides fade">
+    <div class="numbertext">10 / 10</div>
+    <img src="{{ '/assets/certifications/UoC-Windows-Server-Management-Security.jpeg' | relative_url }}">
+    <div class="text"></div>
+  </div>
+  
+  <!-- Slide 12 -->
   <div class="mySlides fade">
     <div class="numbertext">10 / 10</div>
     <img src="{{ '/assets/certifications/Duke-Decentralized-Finance-DeFi.jpg' | relative_url }}">
