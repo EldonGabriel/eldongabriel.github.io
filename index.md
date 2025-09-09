@@ -10,11 +10,13 @@ image:
   <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Overview</h1>
 </center>
 
-I'm Eldon, an ISC2 Certified in Cybersecurity professional specializing in system administration and security operations. I approach cybersecurity as both a technical craft and a business-critical discipline, focusing on its foundations with the understanding that no computer network is ever truly secure.
+I’m Eldon Gabriel, an ISC² Certified Cybersecurity professional with 90+ hands-on labs and reports completed. My training blends independent projects with Mossé Cyber Security Institute (MCSI) labs aligned to frameworks such as NIST NICE, US MOS, and the ASD Cyber Skills Framework.
 
-Through my hands-on work, I’ve gained practical experience in risk assessment, incident investigation, system hardening, and digital forensics. My projects cover key areas like Governance, Risk, and Compliance (GRC), Threat Hunting, and Penetration Testing. I apply these skills using tools like Nmap, Wireshark, YARA, OpenVAS, and Burp Suite in real-world virtualized lab environments.
+I focus on system administration, security operations, threat hunting, penetration testing, and digital forensics. My work turns technical research into practical solutions—clear documentation, automation scripts, and security processes that strengthen organizational defenses.
 
-I'm currently advancing my skills through the MSAF course at the Mossé Cyber Security Institute, aiming to bring a risk-focused mindset and practical insight to strengthen organizational defenses.
+Through real-world lab simulations, I’ve built experience analyzing vulnerabilities, investigating threats, and applying mitigation strategies with tools like YARA, Nmap, Wireshark, and Kali Linux.
+
+I’m seeking entry-level opportunities where I can apply my skills to security operations, GRC assessments, and investigative projects—bringing technical insight and a risk-focused mindset to help organizations stay secure.
 
 --- 
 <br>
