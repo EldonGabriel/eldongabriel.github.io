@@ -400,11 +400,18 @@ function showSlides(n) {
   </table>
 </center>
 
-<p style="font-size: 0.9em; color: #fff; font-weight: bold;">⭐ MCSI certifications align with NIST National Initiative for Cybersecurity Education (NICE), US Military Occupational Specialties (MOS), and Australian Signals Directorate (ASD) Cyber Skills Framework.</p>
+<p style="font-size: 0.9em; color: #fff;">
+  ⭐ MCSI certifications align with 
+  <strong>NIST National Initiative for Cybersecurity Education (NICE)</strong>, 
+  <strong>US Military Occupational Specialties (MOS)</strong>, and 
+  <strong>Australian Signals Directorate (ASD) Cyber Skills Framework</strong>.
+</p>
 
 ***
 <br>
 <!-- Field Notes Header -->
 <img src="assets/images/fnlogo.png" alt="Banner" style="width:100%; height:auto;">
 
-Field Notes documents my journey in cybersecurity, highlighting real-world projects, technical problem-solving, and applied skills that showcase my ability to bridge IT fundamentals with security operations.
+<h2 style="text-align:center; font-size:200%; font-weight:bold; color:#fff;">
+Bridging IT Fundamentals to Cybersecurity Mastery
+</h2>
