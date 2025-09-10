@@ -17,9 +17,13 @@ image:
   📧 <a href="mailto:eldongbrl@proton.me">Email</a> | 🌐 <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832">MCSI Cybersecurity Training Portfolio</a> | 🔗 <a href="https://www.linkedin.com/in/eldongabriel">LinkedIn</a>
 </h4>
 
-<center>
-  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Overview</h1>
-</center>
+<!-- Overview Header -->
+<section style="text-align:center; margin: 60px 0;">
+  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    Overview
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h2>
+</section>
 
 <p>I'm <strong>Eldon Gabriel</strong>, an <strong>ISC² Certified Cybersecurity professional</strong> with <strong>90+ hands-on labs and reports</strong> completed. My training blends <em>independent projects</em> with <em>Mossé Cyber Security Institute (MCSI) labs</em> aligned to frameworks such as <strong>NIST NICE</strong>, <strong>US MOS</strong>, and the <strong>ASD Cyber Skills Framework</strong>.</p>
 
@@ -106,9 +110,12 @@ image:
 --- 
 
 <!-- Cybersecurity Reports -->
-<center>
-  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Cybersecurity Reports</h1>
-</center>
+<section style="text-align:center; margin: 60px 0;">
+  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    Cybersecurity Reports
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h2>
+</section>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
@@ -362,9 +369,12 @@ function showSlides(n) {
 --- 
 
 <!-- Future Certifications Header -->
-<center>
-  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Future Certifications</h1>
-</center>
+<section style="text-align:center; margin: 60px 0;">
+  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    Future Certifications
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h2>
+</section>
 
 <center>
   <table cellspacing="10" cellpadding="5" style="border-collapse: collapse; width: 100%; text-align: center;">
