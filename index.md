@@ -151,101 +151,96 @@ image:
   <div class="mySlides fade">
     <div class="numbertext">1 / 12</div>
     <img src="{{ '/assets/certifications/ISC2-CC.jpg' | relative_url }}">
-    <div class="text"></div>
   </div>
 
   <!-- Slide 2 -->
   <div class="mySlides fade">
     <div class="numbertext">2 / 12</div>
     <img src="{{ '/assets/certifications/UoC-Enterprise-System-Management-Security.jpg' | relative_url }}">
-    <div class="text"></div>
   </div>
 
   <!-- Slide 3 -->
   <div class="mySlides fade">
     <div class="numbertext">3 / 12</div>
     <img src="{{ '/assets/certifications/UoC-Windows-Server-Management-Security.jpeg' | relative_url }}">
-    <div class="text"></div>
   </div>
 
   <!-- Slide 4 -->
   <div class="mySlides fade">
     <div class="numbertext">4 / 12</div>
     <img src="{{ '/assets/certifications/Google Cybersecurity Certificate.jpg' | relative_url }}">
-    <div class="text"></div>
   </div>
 
   <!-- Slide 5 -->
   <div class="mySlides fade">
     <div class="numbertext">5 / 12</div>
     <img src="{{ '/assets/certifications/Google IT Support Certificate Coursera .jpg' | relative_url }}">
-    <div class="text"></div>
   </div>
 
   <!-- Slide 6 -->
   <div class="mySlides fade">
     <div class="numbertext">6 / 12</div>
     <img src="{{ '/assets/certifications/MICS-introduction-to-cyber-security-cybersecurity-level-3.png' | relative_url }}">
-    <div class="text"></div>
   </div>
 
   <!-- Slide 7 -->
   <div class="mySlides fade">
     <div class="numbertext">7 / 12</div>
     <img src="{{ '/assets/certifications/Automate-with-Python.jpg' | relative_url }}">
-    <div class="text"></div>
   </div>
 
   <!-- Slide 8 -->
   <div class="mySlides fade">
     <div class="numbertext">8 / 12</div>
     <img src="{{ '/assets/certifications/Cybersecurity-RMF.jpg' | relative_url }}">
-    <div class="text"></div>
   </div>
 
   <!-- Slide 9 -->
   <div class="mySlides fade">
     <div class="numbertext">9 / 12</div>
     <img src="{{ '/assets/certifications/NIST-800-171.jpg' | relative_url }}">
-    <div class="text"></div>
   </div>
 
   <!-- Slide 10 -->
   <div class="mySlides fade">
     <div class="numbertext">10 / 12</div>
     <img src="{{ '/assets/certifications/NIST-DoD-RMF.jpg' | relative_url }}">
-    <div class="text"></div>
   </div>
 
   <!-- Slide 11 -->
   <div class="mySlides fade">
     <div class="numbertext">11 / 12</div>
     <img src="{{ '/assets/certifications/NIST-CSF.jpg' | relative_url }}">
-    <div class="text"></div>
   </div>
 
   <!-- Slide 12 -->
   <div class="mySlides fade">
     <div class="numbertext">12 / 12</div>
     <img src="{{ '/assets/certifications/Duke-Decentralized-Finance-DeFi.jpg' | relative_url }}">
-    <div class="text"></div>
   </div>
+
+  <!-- Navigation arrows -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
 </div>
 
 <br>
 
+<!-- Dots -->
 <div style="text-align:center">
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
+  <span class="dot" onclick="currentSlide(6)"></span> 
+  <span class="dot" onclick="currentSlide(7)"></span> 
+  <span class="dot" onclick="currentSlide(8)"></span> 
+  <span class="dot" onclick="currentSlide(9)"></span> 
+  <span class="dot" onclick="currentSlide(10)"></span>
+  <span class="dot" onclick="currentSlide(11)"></span>
+  <span class="dot" onclick="currentSlide(12)"></span>
 </div>
 
 <style>
@@ -261,19 +256,32 @@ img {vertical-align: middle; width:100%;}
   border: 1px solid #ccc;
 }
 
-/* Caption text */
-.text {
-  color: #000;
-  background: rgba(255, 255, 255, 0.8);
-  font-size: 14px;
-  padding: 8px 12px;
-  text-align: center;
+/* Navigation arrows */
+.prev, .next {
+  cursor: pointer;
   position: absolute;
-  bottom: 0;
-  width: 100%;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: #000;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  background: rgba(255,255,255,0.7);
 }
 
-/* Number text (1/10 etc) */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.2);
+}
+
+/* Number text */
 .numbertext {
   color: #000;
   font-size: 12px;
@@ -282,7 +290,7 @@ img {vertical-align: middle; width:100%;}
   top: 0;
 }
 
-/* The dots/bullets/indicators */
+/* Dots */
 .dot {
   height: 12px;
   width: 12px;
@@ -310,24 +318,31 @@ img {vertical-align: middle; width:100%;}
 </style>
 
 <script>
-let slideIndex = 0;
-showSlides();
+let slideIndex = 1;
+showSlides(slideIndex);
 
-function showSlides() {
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
   let i;
   let slides = document.getElementsByClassName("mySlides");
   let dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
     slides[i].style.display = "none";  
   }
-  slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1}    
   for (i = 0; i < dots.length; i++) {
     dots[i].className = dots[i].className.replace(" active", "");
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 3000);
 }
 </script>
 
