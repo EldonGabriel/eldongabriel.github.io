@@ -6,6 +6,15 @@ image:
   path: /assets/images/banner.png
 ---
 
+<div style="text-align:center;">
+  <h1 style="font-size:300%; margin-bottom: 0;">Eldon Gabriel</h1>
+  <p style="font-size:160%; margin-top: 0;">Cybersecurity & IT Operations Technician | ISC2 Certified</p>
+</div>
+
+<h4 style="text-align:center;">
+  📧 <a href="mailto:eldongbrl@proton.me">Email</a> | 🌐 <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832">MCSI Cybersecurity Training Portfolio</a> | 🔗 <a href="https://www.linkedin.com/in/eldongabriel">LinkedIn</a>
+</h4>
+
 <center>
   <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Overview</h1>
 </center>
