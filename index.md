@@ -14,9 +14,9 @@ I’m Eldon Gabriel, an ISC² Certified Cybersecurity professional with 90+ hand
 
 I focus on system administration, security operations, threat hunting, penetration testing, and digital forensics. My work turns technical research into practical solutions—clear documentation, automation scripts, and security processes that strengthen organizational defenses.
 
-Through real-world lab simulations, I’ve built experience analyzing vulnerabilities, investigating threats, and applying mitigation strategies with tools like YARA, Nmap, Wireshark, and Kali Linux.
+Through real-world lab simulations, I’ve built experience analyzing vulnerabilities, investigating threats, and applying mitigation strategies using tools like YARA, Nmap, Wireshark, and Kali Linux.
 
-I’m seeking entry-level opportunities where I can apply my skills to security operations, GRC assessments, and investigative projects—bringing technical insight and a risk-focused mindset to help organizations stay secure.
+Currently, I contribute to AI research as a Multimodal AI Dataset Contributor at Mercor, while continuing to expand my cybersecurity skills and investigative capabilities through independent projects and professional contributions.
 
 --- 
 <br>
