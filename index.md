@@ -7,6 +7,7 @@ image:
   
 ---
 
+<!-- Section Header -->
 <div style="text-align:center;">
   <h1 style="font-size:300%; margin-bottom: 0;">Eldon Gabriel</h1>
   <p style="font-size:160%; margin-top: 0;">Cybersecurity & IT Operations Technician | ISC2 Certified</p>
@@ -28,11 +29,15 @@ image:
 
 <p>Currently, I contribute to AI research as a <strong>Multimodal AI Dataset Contributor at Mercor</strong>, while continuing to expand my cybersecurity skills and investigative capabilities through independent projects and professional contributions.</p>
 
-<hr>
+---
 
-<center>
-  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Key Influences and Lessons</h1>
-</center>
+<!-- Key Influences and Lessons Header -->
+<section style="text-align:center; margin: 60px 0;">
+  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    Key Influences and Lessons
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h2>
+</section>
 
 <p>My journey from business to cybersecurity has been shaped by hands-on technical work and lessons learned from remarkable people along the way. These experiences taught me <strong>leadership</strong>, <strong>resilience</strong>, and <strong>strategic thinking</strong>—skills I now apply to building secure networks, hunting threats, and developing proactive defenses.</p>
 
@@ -99,8 +104,8 @@ image:
 <p>I’ve also learned from other leaders across industries, each shaping my approach to cybersecurity with lessons in <strong>strategic thinking</strong>, <strong>innovation</strong>, and <strong>resilience</strong>. I bring to every challenge <strong>technical rigor</strong>, <strong>strategic insight</strong>, and <strong>clear communication</strong>. Whether investigating incidents, hardening systems, or assessing risks, I apply a mindset shaped by <em>practical experience, mentorship, and continuous learning</em>.</p>
 
 --- 
-<br>
 
+<!-- Cybersecurity Reports -->
 <center>
   <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Cybersecurity Reports</h1>
 </center>
@@ -145,9 +150,13 @@ image:
 
 --- 
 
-<center>
-  <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Certifications</h1>
-</center>
+<!-- Certifications Header -->
+<section style="text-align:center; margin:60px 0;">
+  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    Certifications
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h2>
+</section>
 
 <div class="slideshow-container">
 
@@ -351,8 +360,8 @@ function showSlides(n) {
 </script>
 
 --- 
-<br>
 
+<!-- Future Certifications Header -->
 <center>
   <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Future Certifications</h1>
 </center>
@@ -385,6 +394,7 @@ function showSlides(n) {
 
 ***
 <br>
+<!-- Field Notes Header -->
 <img src="assets/images/fnlogo.png" alt="Banner" style="width:100%; height:auto;">
 
 Field Notes documents my journey in cybersecurity, highlighting real-world projects, technical problem-solving, and applied skills that showcase my ability to bridge IT fundamentals with security operations.
