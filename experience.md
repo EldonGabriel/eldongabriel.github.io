@@ -8,7 +8,7 @@ image:
 
 <div style="text-align:center;">
   <h1 style="font-size:300%; margin-bottom: 0;">Eldon Gabriel</h1>
-  <p style="font-size:160%; margin-top: 0;">Certified Cybersecurity Professional</p>
+  <p style="font-size:160%; margin-top: 0;">Cybersecurity & IT Operations Technician | ISC2 Certified</p>
 </div>
 
 <h4 style="text-align:center;">
