@@ -4,6 +4,7 @@ title: Cybersecurity Portfolio
 permalink: /
 image:
   path: /assets/images/banner.png
+  
 ---
 
 <div style="text-align:center;">
@@ -99,6 +100,7 @@ image:
 
 --- 
 <br>
+
 <center>
   <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Cybersecurity Reports</h1>
 </center>
@@ -140,7 +142,9 @@ image:
   </figure>
 
 </div>
+
 --- 
+
 <center>
   <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Certifications</h1>
 </center>
