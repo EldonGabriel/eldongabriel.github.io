@@ -19,21 +19,21 @@ image:
   <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Overview</h1>
 </center>
 
-I’m Eldon Gabriel, an ISC² Certified Cybersecurity professional with 90+ hands-on labs and reports completed. My training blends independent projects with Mossé Cyber Security Institute (MCSI) labs aligned to frameworks such as NIST NICE, US MOS, and the ASD Cyber Skills Framework.
+<p>I'm <strong>Eldon Gabriel</strong>, an <strong>ISC² Certified Cybersecurity professional</strong> with <strong>90+ hands-on labs and reports</strong> completed. My training blends <em>independent projects</em> with <em>Mossé Cyber Security Institute (MCSI) labs</em> aligned to frameworks such as <strong>NIST NICE</strong>, <strong>US MOS</strong>, and the <strong>ASD Cyber Skills Framework</strong>.</p>
 
-I focus on system administration, security operations, threat hunting, penetration testing, and digital forensics. My work turns technical research into practical solutions—clear documentation, automation scripts, and security processes that strengthen organizational defenses.
+<p>I focus on <strong>system administration</strong>, <strong>security operations</strong>, <strong>threat hunting</strong>, <strong>penetration testing</strong>, and <strong>digital forensics</strong>. My work turns technical research into practical solutions—<strong>clear documentation</strong>, <strong>automation scripts</strong>, and <strong>security processes</strong> that strengthen organizational defenses.</p>
 
-Through real-world lab simulations, I’ve built experience analyzing vulnerabilities, investigating threats, and applying mitigation strategies using tools like YARA, Nmap, Wireshark, and Kali Linux.
+<p>Through real-world lab simulations, I’ve built experience analyzing vulnerabilities, investigating threats, and applying mitigation strategies using tools like <strong>YARA</strong>, <strong>Nmap</strong>, <strong>Wireshark</strong>, and <strong>Kali Linux</strong>.</p>
 
-Currently, I contribute to AI research as a Multimodal AI Dataset Contributor at Mercor, while continuing to expand my cybersecurity skills and investigative capabilities through independent projects and professional contributions.
+<p>Currently, I contribute to AI research as a <strong>Multimodal AI Dataset Contributor at Mercor</strong>, while continuing to expand my cybersecurity skills and investigative capabilities through independent projects and professional contributions.</p>
 
---- 
-<br>
+<hr>
+
 <center>
   <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Key Influences and Lessons</h1>
 </center>
 
-<p>My journey from business to cybersecurity has been shaped by hands-on technical work and lessons learned from remarkable people along the way. These experiences taught me leadership, resilience, and strategic thinking—skills I now apply to building secure networks, hunting threats, and developing proactive defenses.</p>
+<p>My journey from business to cybersecurity has been shaped by hands-on technical work and lessons learned from remarkable people along the way. These experiences taught me <strong>leadership</strong>, <strong>resilience</strong>, and <strong>strategic thinking</strong>—skills I now apply to building secure networks, hunting threats, and developing proactive defenses.</p>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1; text-align: center;">
@@ -43,7 +43,7 @@ Currently, I contribute to AI research as a Multimodal AI Dataset Contributor at
     <em>NBC’s ‘The Apprentice’ Judge & Mentor</em>
   </div>
   <div style="flex: 2; padding-left: 20px;">
-    <p>Instilled disciplined evaluation of risks, persistence, and thorough investigative practices essential for threat hunting and incident response.</p>
+    <p>Instilled <strong>disciplined evaluation of risks</strong>, persistence, and thorough investigative practices essential for <strong>threat hunting</strong> and <strong>incident response</strong>.</p>
   </div>
 </div>
 
@@ -55,7 +55,7 @@ Currently, I contribute to AI research as a Multimodal AI Dataset Contributor at
     <em>Canadian Olympic Gold Medalist</em>
   </div>
   <div style="flex: 2; padding-right: 20px;">
-    <p>Taught discipline, focus, and composure under pressure—applied to high-stakes incident handling and complex security investigations.</p>
+    <p>Taught <strong>discipline, focus, and composure under pressure</strong>—applied to high-stakes <strong>incident handling</strong> and complex <strong>security investigations</strong>.</p>
   </div>
 </div>
 
@@ -67,7 +67,7 @@ Currently, I contribute to AI research as a Multimodal AI Dataset Contributor at
     <em>4x NYT Bestselling Author</em>
   </div>
   <div style="flex: 2; padding-left: 20px;">
-    <p>Reinforced the importance of clear communication and storytelling to explain complex technical risks to non-technical audiences.</p>
+    <p>Reinforced the importance of <strong>clear communication</strong> and <strong>storytelling</strong> to explain complex technical risks to non-technical audiences.</p>
   </div>
 </div>
 
@@ -79,7 +79,7 @@ Currently, I contribute to AI research as a Multimodal AI Dataset Contributor at
     <em>CEO, Quantum Pigeon Technologies Inc.</em>
   </div>
   <div style="flex: 2; padding-right: 20px;">
-    <p>Highlighted the value of forward-thinking innovation and staying ahead of emerging technology trends, crucial for proactive cybersecurity defenses.</p>
+    <p>Highlighted the value of <strong>forward-thinking innovation</strong> and staying ahead of emerging technology trends, crucial for proactive cybersecurity defenses.</p>
   </div>
 </div>
 
@@ -91,12 +91,11 @@ Currently, I contribute to AI research as a Multimodal AI Dataset Contributor at
     <em>Businessman & Author</em>
   </div>
   <div style="flex: 2; padding-left: 20px;">
-    <p>Emphasized clarity of purpose and strategic thinking, helping to stay focused and intentional in building cybersecurity expertise and projects.</p>
+    <p>Emphasized <strong>clarity of purpose</strong> and <strong>strategic thinking</strong>, helping to stay focused and intentional in building cybersecurity expertise and projects.</p>
   </div>
 </div>
 
-
-<p>I’ve also learned from other leaders across industries, each shaping my approach to cybersecurity with lessons in strategic thinking, innovation, and resilience. I bring to every challenge technical rigor, strategic insight, and clear communication. Whether investigating incidents, hardening systems, or assessing risks, I apply a mindset shaped by practical experience, mentorship, and continuous learning.</p>
+<p>I’ve also learned from other leaders across industries, each shaping my approach to cybersecurity with lessons in <strong>strategic thinking</strong>, <strong>innovation</strong>, and <strong>resilience</strong>. I bring to every challenge <strong>technical rigor</strong>, <strong>strategic insight</strong>, and <strong>clear communication</strong>. Whether investigating incidents, hardening systems, or assessing risks, I apply a mindset shaped by <em>practical experience, mentorship, and continuous learning</em>.</p>
 
 --- 
 <br>
@@ -142,7 +141,6 @@ Currently, I contribute to AI research as a Multimodal AI Dataset Contributor at
 
 </div>
 --- 
-<br>
 <center>
   <h1 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Certifications</h1>
 </center>
@@ -151,84 +149,84 @@ Currently, I contribute to AI research as a Multimodal AI Dataset Contributor at
 
   <!-- Slide 1 -->
   <div class="mySlides fade">
-    <div class="numbertext">1 / 10</div>
+    <div class="numbertext">1 / 12</div>
     <img src="{{ '/assets/certifications/ISC2-CC.jpg' | relative_url }}">
     <div class="text"></div>
   </div>
 
   <!-- Slide 2 -->
   <div class="mySlides fade">
-    <div class="numbertext">2 / 10</div>
-    <img src="{{ '/assets/certifications/Google Cybersecurity Certificate.jpg' | relative_url }}">
+    <div class="numbertext">2 / 12</div>
+    <img src="{{ '/assets/certifications/UoC-Enterprise-System-Management-Security.jpg' | relative_url }}">
     <div class="text"></div>
   </div>
 
   <!-- Slide 3 -->
   <div class="mySlides fade">
-    <div class="numbertext">3 / 10</div>
-    <img src="{{ '/assets/certifications/Google IT Support Certificate Coursera .jpg' | relative_url }}">
+    <div class="numbertext">3 / 12</div>
+    <img src="{{ '/assets/certifications/UoC-Windows-Server-Management-Security.jpeg' | relative_url }}">
     <div class="text"></div>
   </div>
 
   <!-- Slide 4 -->
   <div class="mySlides fade">
-    <div class="numbertext">4 / 10</div>
-    <img src="{{ '/assets/certifications/MICS-introduction-to-cyber-security-cybersecurity-level-3.png' | relative_url }}">
+    <div class="numbertext">4 / 12</div>
+    <img src="{{ '/assets/certifications/Google Cybersecurity Certificate.jpg' | relative_url }}">
     <div class="text"></div>
   </div>
 
   <!-- Slide 5 -->
   <div class="mySlides fade">
-    <div class="numbertext">5 / 10</div>
-    <img src="{{ '/assets/certifications/Automate-with-Python.jpg' | relative_url }}">
+    <div class="numbertext">5 / 12</div>
+    <img src="{{ '/assets/certifications/Google IT Support Certificate Coursera .jpg' | relative_url }}">
     <div class="text"></div>
   </div>
 
   <!-- Slide 6 -->
   <div class="mySlides fade">
-    <div class="numbertext">6 / 10</div>
-    <img src="{{ '/assets/certifications/Cybersecurity-RMF.jpg' | relative_url }}">
+    <div class="numbertext">6 / 12</div>
+    <img src="{{ '/assets/certifications/MICS-introduction-to-cyber-security-cybersecurity-level-3.png' | relative_url }}">
     <div class="text"></div>
   </div>
 
   <!-- Slide 7 -->
   <div class="mySlides fade">
-    <div class="numbertext">7 / 10</div>
-    <img src="{{ '/assets/certifications/NIST-800-171.jpg' | relative_url }}">
+    <div class="numbertext">7 / 12</div>
+    <img src="{{ '/assets/certifications/Automate-with-Python.jpg' | relative_url }}">
     <div class="text"></div>
   </div>
 
   <!-- Slide 8 -->
   <div class="mySlides fade">
-    <div class="numbertext">8 / 10</div>
-    <img src="{{ '/assets/certifications/NIST-DoD-RMF.jpg' | relative_url }}">
+    <div class="numbertext">8 / 12</div>
+    <img src="{{ '/assets/certifications/Cybersecurity-RMF.jpg' | relative_url }}">
     <div class="text"></div>
   </div>
 
   <!-- Slide 9 -->
   <div class="mySlides fade">
-    <div class="numbertext">9 / 10</div>
+    <div class="numbertext">9 / 12</div>
+    <img src="{{ '/assets/certifications/NIST-800-171.jpg' | relative_url }}">
+    <div class="text"></div>
+  </div>
+
+  <!-- Slide 10 -->
+  <div class="mySlides fade">
+    <div class="numbertext">10 / 12</div>
+    <img src="{{ '/assets/certifications/NIST-DoD-RMF.jpg' | relative_url }}">
+    <div class="text"></div>
+  </div>
+
+  <!-- Slide 11 -->
+  <div class="mySlides fade">
+    <div class="numbertext">11 / 12</div>
     <img src="{{ '/assets/certifications/NIST-CSF.jpg' | relative_url }}">
     <div class="text"></div>
   </div>
 
- <!-- Slide 10 -->
-  <div class="mySlides fade">
-    <div class="numbertext">10 / 10</div>
-    <img src="{{ '/assets/certifications/UoC-Enterprise-System-Management-Security.jpg' | relative_url }}">
-    <div class="text"></div>
-  </div>
-
- <!-- Slide 11 -->
-  <div class="mySlides fade">
-    <div class="numbertext">10 / 10</div>
-    <img src="{{ '/assets/certifications/UoC-Windows-Server-Management-Security.jpeg' | relative_url }}">
-    <div class="text"></div>
-  </div>
-  
   <!-- Slide 12 -->
   <div class="mySlides fade">
-    <div class="numbertext">10 / 10</div>
+    <div class="numbertext">12 / 12</div>
     <img src="{{ '/assets/certifications/Duke-Decentralized-Finance-DeFi.jpg' | relative_url }}">
     <div class="text"></div>
   </div>
