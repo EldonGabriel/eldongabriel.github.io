@@ -1,5 +1,5 @@
 ---
-title: All Notes
+title: Bridging IT Fundamentals to Cybersecurity Mastery
 layout: posts
 permalink: /posts/
 show_excerpts: true
