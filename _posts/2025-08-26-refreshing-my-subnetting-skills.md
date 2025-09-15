@@ -15,7 +15,9 @@ I realized this was a good chance to refresh my memory and practice subnetting i
 
 ---
 
-## <center>From Handwritten Notes to Subnet Reference</center>
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">From Handwritten Notes to Subnet Reference</h1>
+</div>
 
 **Focus:** Class C subnets /25–/29  
 
@@ -29,7 +31,9 @@ Each subnet now has a network address, first and last usable hosts, and broadcas
 
 ---
 
-## <center> Handwritten Notes</center>
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Handwritten Notes</h1>
+</div>
 
 I wanted to include my original ISC² CC exam prep notes. These images show how I manually calculated and wrote out the subnets.  
 
@@ -145,13 +149,21 @@ function showSlides3() {
 </script>
 
 
-## <center>Key Takeaways</center>
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Key Takeaways</h1>
+</div>
 
 - Reviewing old notes can spark useful exercises and refresh critical skills.  
 - Subnetting isn’t just memorization; structured practice helps reinforce understanding.  
 - Creating formal documentation from practice exercises builds knowledge and portfolio assets.
 
-<p align="center">
-  <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20IP%20Subnetting%20Fundamentals%20%E2%80%93%20v1.0.0.pdf" target="_blank">
-    Full Report: REPORT – IP Subnetting Fundamentals – v1.0.0
-  </a>
+
+  <div style="text-align:center;">
+  <h1 style="display: inline-block; border-bottom: 3px solid #fff; padding-bottom: 5px;">Related Projects</h1>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – IP Subnetting Fundamentals – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – IP Subnetting Fundamentals – v1.0.0</figcaption>
+  </div>
