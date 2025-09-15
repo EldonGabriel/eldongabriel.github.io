@@ -23,8 +23,12 @@ Completing this exercise highlighted the importance of understanding how remote 
 
 By ensuring that only authorized accounts can log in via RDP, and by combining this with proper group membership and firewall validation, I strengthened the VM’s operational security posture. This hands-on experience complements my previous work with registry restrictions, showing how layered controls—both endpoint and remote access—can reduce attack surfaces and enforce the principle of least privilege.  
 
-<p align="center">
-  <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Endpoint%20Security%20with%20the%20Windows%20Registry%20%E2%80%93%20v1.0.0.pdf" target="_blank">
-    Full Guide: GUIDE – RDP Troubleshooting – AWS VM Access – v1.0.0
-  </a>
-</p>
+
+ <div style="text-align:center;">
+  <h1 style="display: inline-block; border-bottom: 3px solid #fff; padding-bottom: 5px;">Related Projects</h1>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/guides/GUIDE – RDP Troubleshooting for AWS Users – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>GUIDE – RDP Troubleshooting – AWS VM Access – v1.0.0</figcaption>
+  </div>
