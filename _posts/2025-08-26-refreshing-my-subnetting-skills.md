@@ -30,7 +30,7 @@ My report includes a complete table of subnet addresses, usable hosts, and broad
 Each subnet now has a network address, first and last usable hosts, and broadcast address—making it easy to reference when designing networks or completing exercises.
 
 ---
-
+<br>
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Handwritten Notes</h1>
 </div>
