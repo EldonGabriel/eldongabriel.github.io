@@ -43,7 +43,6 @@ From this project, a few clear lessons have emerged:
 
 This was not an academic review. This study demonstrates how critical thinking and attention to detail can help create safer and stronger systems. For a deeper dive, I’ve documented the full analysis in my report below:
 
-</div>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 0 1 45%; min-width: 600px; text-align: center;">
