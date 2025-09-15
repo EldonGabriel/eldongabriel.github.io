@@ -14,7 +14,7 @@ While reviewing my old handwritten notes from my ISC² CC exam prep, I found a s
 I realized this was a good chance to refresh my memory and practice subnetting in a hands-on way. I decided to turn those notes into a full, structured report—a reference I could use for future labs, exercises, and real-world projects.
 
 ---
-
+<br>
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">From Handwritten Notes to Subnet Reference</h1>
 </div>
