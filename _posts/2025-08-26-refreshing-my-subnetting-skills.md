@@ -160,7 +160,6 @@ function showSlides3() {
 
   <div style="text-align:center;">
   <h1 style="display: inline-block; border-bottom: 3px solid #fff; padding-bottom: 5px;">Related Projects</h1>
-</div>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 0 1 45%; min-width: 600px; text-align: center;">
