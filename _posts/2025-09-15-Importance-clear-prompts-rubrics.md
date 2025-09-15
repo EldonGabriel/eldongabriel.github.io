@@ -1,5 +1,5 @@
 ---
-title: "The Importance of Clear Prompts and Rubrics in Cybersecurity Training"
+title: "The Importance of Clear Prompts and Rubrics in Cybersecurity"
 date: 2025-09-15
 author: Eldon Gabriel
 tags: [cybersecurity, training, rubrics, clarity]
