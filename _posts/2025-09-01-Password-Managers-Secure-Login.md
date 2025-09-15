@@ -17,14 +17,21 @@ Password managers make everyone safer in both personal and enterprise environmen
 
 Skills with password managers reinforce roles in **Identity and Access Management** and **Governance, Risk, and Compliance (GRC)**. Knowing how to deploy, configure, and enforce secure password practices is directly applicable to protecting enterprise systems and maintaining regulatory compliance.
 
-## Key Takeaways
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Key Takeaways</h1>
+</div>
 
 - Centralized, encrypted credential storage reduces human error and password reuse  
 - Modern password managers provide both security and convenience for users  
 - Understanding different types of password managers helps balance control, risk, and accessibility  
 - Adoption of password managers aligns with cybersecurity best practices and regulatory frameworks  
 
-<p align="center">
-  <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%20%E2%80%93%20Password%20Managers%20%E2%80%93%20v1.0.0.pdf" target="_blank">
-    Full Report: REPORT – Password Managers – v1.0.0
-  </a>
+  <div style="text-align:center;">
+  <h1 style="display: inline-block; border-bottom: 3px solid #fff; padding-bottom: 5px;">Related Projects</h1>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT  – Password Managers – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT  – Password Managers – v1.0.0.pdf</figcaption>
+  </div>
