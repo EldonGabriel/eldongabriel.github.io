@@ -14,20 +14,26 @@ When learning new technical skills, the clarity of the instructions can determin
 
 In a recent project, I analyzed prompts and rubrics to identify weaknesses and suggest improvements. This task was not about configuring firewalls or deploying systems. However, the key skill—**critical assessment of vague instructions**—is vital for enterprise security operations.
 
-## The Value of Clarity in Technical Work
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">The Value of Clarity in Technical Work</h1>
+</div>
 
 One observation stood out: instructions such as **configure access rules** may seem complete, but they can be vague. Without clear guidelines, a system administrator may set firewall rules that allow excessive access. This could unintentionally expose sensitive systems to external threats.
 
 This exercise highlights the need for precision in the field. Clear, measurable, and structured rubrics are useful for training. They demonstrate the discipline required for IT operations, incident response, and compliance reporting.
 
-## Why This Skill Matters in Security
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Why This Skill Matters in Security</h1>
+</div>
 
 Cybersecurity focuses on preventing human error and stopping bad actors from exploiting system weaknesses. Vague requirements raise the risk of misconfigurations, which are a major cause of security breaches. By learning to critique and improve unclear instructions, I am developing the analytical skills needed to:
 
 - **Infrastructure Security**: Designing and implementing rules that are specific, testable, and defensible.  
 - **Governance and Compliance**: Ensuring that policies and procedures are clear to avoid misuse or misinterpretation.  
 
-## Lessons Learned
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Lessons Learned</h1>
+</div>
 
 From this project, a few clear lessons have emerged:
 
