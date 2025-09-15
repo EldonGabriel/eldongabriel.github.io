@@ -21,6 +21,6 @@ image:
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 0 1 45%; min-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT-File-Ownership-Recovery-v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <iframe src="{{ '/assets/reports/REPORT – File Ownership Recovery – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – File Ownership Recovery – v1.0.0.pdf</figcaption>
   </div>
