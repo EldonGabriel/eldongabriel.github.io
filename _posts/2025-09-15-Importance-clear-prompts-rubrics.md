@@ -12,11 +12,11 @@ image:
 
 When learning new technical skills, the clarity of the instructions can determine the outcome. Vague prompts and unclear rubrics slow progress and lead to errors. In the real world, these errors can create security risks.
 
-In a recent project, I analyzed prompts and rubrics to identify weaknesses and suggest improvements. This task was not about configuring firewalls or deploying systems. However, the key skill—critical assessment of vague instructions—is vital for enterprise security operations.
+In a recent project, I analyzed prompts and rubrics to identify weaknesses and suggest improvements. This task was not about configuring firewalls or deploying systems. However, the key skill—**critical assessment of vague instructions**—is vital for enterprise security operations.
 
 ## The Value of Clarity in Technical Work
 
-One observation stood out: instructions such as *configure access rules* may seem complete, but they can be vague. Without clear guidelines, a system administrator may set firewall rules that allow excessive access. This could unintentionally expose sensitive systems to external threats.
+One observation stood out: instructions such as **configure access rules** may seem complete, but they can be vague. Without clear guidelines, a system administrator may set firewall rules that allow excessive access. This could unintentionally expose sensitive systems to external threats.
 
 This exercise highlights the need for precision in the field. Clear, measurable, and structured rubrics are useful for training. They demonstrate the discipline required for IT operations, incident response, and compliance reporting.
 
