@@ -35,6 +35,9 @@ From this project, a few clear lessons have emerged:
 - Strong rubrics ensure consistency, measurability, and accountability.  
 - Turning unclear requirements into clear tasks is a key skill in IT and security operations.  
 
-This was not an academic review. This study demonstrates how critical thinking and attention to detail can help create safer and stronger systems.  
+This was not an academic review. This study demonstrates how critical thinking and attention to detail can help create safer and stronger systems. For a deeper dive, I’ve documented the full analysis in my report.
 
-For a deeper dive, I’ve documented the full analysis in my (assets/reports/REPORT%20–%20Prompt%20&%20Rubric%20Evaluation%20Exercises%20–%20v1.0.0.pdf).
+<p align="center">
+  <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20–%20Prompt%20&%20Rubric%20Evaluation%20Exercises%20–%20v1.0.0.pdf" target="_blank">
+    Full Report: REPORT – Rubric Evaluation Exercises – v1.0.0
+  </a>
