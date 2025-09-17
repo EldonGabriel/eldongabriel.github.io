@@ -12,8 +12,9 @@ image:
 </p>
 
 <p style="text-align: left; max-width: 800px; margin: 20px auto 40px auto; font-size: 0.95em; color: #ddd;">
-  In addition to these featured projects, I also publish my latest reports in the blog section of this site. 
-  These entries document ongoing labs, troubleshooting scenarios, and applied research—offering a continuous record of my hands-on cybersecurity journey.
+  In addition to these featured projects, I regularly publish my latest reports in the blog section of this site, documenting ongoing labs, troubleshooting scenarios, and applied research. 
+  While only a curated selection of my work is public, my complete body of experience includes 60+ additional hands-on labs and reports completed through the Mossé Cyber Security Institute (MCSI), 
+  further demonstrating my expertise in system administration, threat hunting, network security, and incident response.
 </p>
 
 
