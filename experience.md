@@ -6,15 +6,6 @@ image:
   path: /assets/images/banner.png
 ---
 
-<!-- Section Header -->
-<div style="text-align:center;">
-  <h1 style="font-size:300%; margin-bottom: 0;">Eldon Gabriel</h1>
-  <p style="font-size:160%; margin-top: 0;">Cybersecurity & IT Ops Technician | ISC2 Certified</p>
-</div>
-
-<h4 style="text-align:center;">
-  📧 <a href="mailto:eldongbrl@proton.me">Email</a> | 🔗 <a href="https://www.linkedin.com/in/eldongabriel">LinkedIn</a>
-</h4>
 
 <!-- About Me Header -->
 <section style="text-align:center; margin: 60px 0;">
@@ -35,9 +26,14 @@ image:
   </h2>
 </section>
 
-<div style="text-align:center;">
-  <h3 style="display: inline-block; border-bottom: 3px solid #fff; padding-bottom: 5px;">Cybersecurity Reports</h3>
-</div>
+
+<!-- Cybersecurity Reports SubHeader -->
+<section style="text-align:center; margin: 60px 0;">
+  <h3 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    Cybersecurity Reports
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h3>
+</section>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
@@ -62,9 +58,14 @@ image:
   </figure>
 </div>
 
-<div style="text-align:center;">
-  <h3 style="display: inline-block; border-bottom: 3px solid #fff; padding-bottom: 5px;">Windows Security Guides</h3>
-</div>
+
+<!-- Windows Security Guides SubHeader -->
+<section style="text-align:center; margin: 60px 0;">
+  <h3 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    Windows Security Guides
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h3>
+</section>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
@@ -99,9 +100,14 @@ image:
   </figure>
 </div>
 
-<div style="text-align:center;">
-  <h3 style="display: inline-block; border-bottom: 3px solid #fff; padding-bottom: 5px;">Windows Administration Labs</h3>
-</div>
+
+<!-- Windows Administration Labs SubHeader -->
+<section style="text-align:center; margin: 60px 0;">
+  <h3 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    Windows Administration Labs
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h3>
+</section>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; min-width: 400px; max-width: 600px; text-align:center;">
@@ -178,9 +184,14 @@ image:
   </div>
 </div>
 
-<div style="text-align:center;">
-  <h3 style="display: inline-block; border-bottom: 3px solid #fff; padding-bottom: 5px;">System Development & Hardening</h3>
-</div>
+
+<!-- System Development & Hardening SubHeader -->
+<section style="text-align:center; margin: 60px 0;">
+  <h3 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    System Development & Hardening
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h3>
+</section>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
@@ -200,9 +211,14 @@ image:
   </figure>
 </div>
 
-<div style="text-align:center;">
-  <h3 style="display: inline-block; border-bottom: 3px solid #fff; padding-bottom: 5px;">Network Fundamentals</h3>
-</div>
+
+<!-- Network Fundamentals SubHeader -->
+<section style="text-align:center; margin: 60px 0;">
+  <h3 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    Network Fundamentals
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h3>
+</section>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
@@ -258,11 +274,14 @@ image:
   </div>
 </div>
 
----
 
-<div style="text-align:center;">
-  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Professional Journey</h2>
-</div>
+<!-- Professional Journey Header -->
+<section style="text-align:center; margin: 60px 0;">
+  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    Professional Journey
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h2>
+</section>
 
 <div style="max-width: 800px; margin: 0 auto;">
   <p><strong>Cybersecurity & System Administration</strong></p>
@@ -275,11 +294,14 @@ image:
   <p>Led teams and incident response at Secure Host Inc., documenting processes and implementing risk mitigation.</p>
 </div>
 
----
 
-<div style="text-align:center;">
-  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">Contact</h2>
-</div>
+<!-- Contact Header -->
+<section style="text-align:center; margin: 60px 0;">
+  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    Contact
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h2>
+</section>
 
 <div style="text-align: center;">
   <p>To explore my full portfolio of projects, reports, and demos, feel free to reach out:</p>
