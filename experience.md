@@ -6,14 +6,23 @@ image:
   path: /assets/images/banner.png
 ---
 
+<!-- Section Header -->
 <div style="text-align:center;">
   <h1 style="font-size:300%; margin-bottom: 0;">Eldon Gabriel</h1>
-  <p style="font-size:160%; margin-top: 0;">Cybersecurity & IT Operations Technician | ISC2 Certified</p>
+  <p style="font-size:160%; margin-top: 0;">Cybersecurity & IT Ops Technician | ISC2 Certified</p>
 </div>
 
 <h4 style="text-align:center;">
-  📧 <a href="mailto:eldongbrl@proton.me">Email</a> | 🌐 <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832">MCSI Cybersecurity Training Portfolio</a> | 🔗 <a href="https://www.linkedin.com/in/eldongabriel">LinkedIn</a>
+  📧 <a href="mailto:eldongbrl@proton.me">Email</a> | 🔗 <a href="https://www.linkedin.com/in/eldongabriel">LinkedIn</a>
 </h4>
+
+<!-- Overview Header -->
+<section style="text-align:center; margin: 60px 0;">
+  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    Overview
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h2>
+</section>
 
 ---
 
