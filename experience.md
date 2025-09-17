@@ -6,7 +6,15 @@ image:
   path: /assets/images/banner.png
 ---
 
-<p style="text-align: left; max-width: 800px; margin: 0 auto;">My professional journey combines entrepreneurial experience with technical roles, culminating in a focus on cybersecurity operations. Below are some of my most impactful projects and roles that showcase hands-on skills in system administration, network security, incident response, and digital forensics.</p>
+<p style="text-align: left; max-width: 800px; margin: 0 auto;">
+  My professional journey combines entrepreneurial experience with technical roles, culminating in a focus on cybersecurity operations. 
+  Below are some of my most impactful projects and roles that showcase hands-on skills in system administration, network security, incident response, and digital forensics.
+</p>
+
+<p style="text-align: left; max-width: 800px; margin: 20px auto 40px auto; font-size: 0.95em; color: #ddd;">
+  In addition to these featured projects, I also publish my latest reports in the blog section of this site. 
+  These entries document ongoing labs, troubleshooting scenarios, and applied research—offering a continuous record of my hands-on cybersecurity journey.
+</p>
 
 
 <!-- Cybersecurity Reports Header -->
@@ -288,6 +296,6 @@ image:
 <div style="text-align: center;">
   <p>To explore my full portfolio of projects, reports, and demos, feel free to reach out:</p>
   <h5 style="text-align:center; margin: 0;">
-    📧 <a href="mailto:eldongbrl@proton.me">Email</a> | 🌐 <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832">MCSI Cybersecurity Training Portfolio</a> | 🔗 <a href="https://www.linkedin.com/in/eldongabriel">LinkedIn</a>
+    📧 <a href="mailto:eldongbrl@proton.me">Email</a> | 🔗 <a href="https://www.linkedin.com/in/eldongabriel">LinkedIn</a>
   </h5>
 </div>
