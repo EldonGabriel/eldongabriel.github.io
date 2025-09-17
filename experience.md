@@ -6,28 +6,10 @@ image:
   path: /assets/images/banner.png
 ---
 
-
-<!-- About Me Header -->
-<section style="text-align:center; margin: 60px 0;">
-  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
-    About Me
-    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
-  </h2>
-</section>
-
 <p style="text-align: left; max-width: 800px; margin: 0 auto;">My professional journey combines entrepreneurial experience with technical roles, culminating in a focus on cybersecurity operations. Below are some of my most impactful projects and roles that showcase hands-on skills in system administration, network security, incident response, and digital forensics.</p>
 
 
-<!-- Work & Projects Header -->
-<section style="text-align:center; margin: 60px 0;">
-  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
-    Work & Projects
-    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
-  </h2>
-</section>
-
-
-<!-- Cybersecurity Reports SubHeader -->
+<!-- Cybersecurity Reports Header -->
 <section style="text-align:center; margin: 60px 0;">
   <h3 style="display:inline-block; position:relative; font-size:2.0em; margin:0; padding-bottom:10px;">
     Cybersecurity Reports
