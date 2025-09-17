@@ -274,29 +274,12 @@ image:
   </h2>
 </section>
 
-<div style="max-width: 800px; margin: 0 auto;">
-  <p><strong>Cybersecurity & System Administration</strong></p>
-  <p>Completed hands-on labs at MCSI—networking fundamentals, Windows hardening, and threat detection.</p>
+<div style="max-width: 800px; margin: 0 auto; font-size: 1em; color: #ddd;">
+  <p><strong>Cybersecurity & System Administration</strong> – Completed 60+ hands-on labs and practical exercises at MCSI, including networking fundamentals, Windows hardening, and threat detection.</p>
 
-  <p><strong>IT & Risk Management</strong></p>
-  <p>Managed sensitive data and technical support for Land Property Partners and Nutrition Outlet, ensuring secure operations.</p>
+  <p><strong>IT & Risk Management</strong> – Managed sensitive data and technical operations at Land Property Partners and Nutrition Outlet, ensuring secure workflows and compliance.</p>
 
-  <p><strong>Security Operations</strong></p>
-  <p>Led teams and incident response at Secure Host Inc., documenting processes and implementing risk mitigation.</p>
-</div>
+  <p><strong>Security Operations</strong> – Led incident response and process documentation at Secure Host Inc., implementing risk mitigation strategies and operational improvements.</p>
 
-
-<!-- Contact Header -->
-<section style="text-align:center; margin: 60px 0;">
-  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
-    Contact
-    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
-  </h2>
-</section>
-
-<div style="text-align: center;">
-  <p>To explore my full portfolio of projects, reports, and demos, feel free to reach out:</p>
-  <h5 style="text-align:center; margin: 0;">
-    📧 <a href="mailto:eldongbrl@proton.me">Email</a> | 🔗 <a href="https://www.linkedin.com/in/eldongabriel">LinkedIn</a>
-  </h5>
+  <p>While this page showcases a curated selection of my work, my full portfolio includes extensive MCSI labs, private reports, and live project demonstrations. Reach out to explore more.</p>
 </div>
