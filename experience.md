@@ -7,14 +7,14 @@ image:
 ---
 
 <p style="text-align: left; max-width: 800px; margin: 0 auto;">
-  My professional journey combines entrepreneurial experience with technical roles, culminating in a focus on cybersecurity operations. 
-  Below are some of my most impactful projects and roles that showcase hands-on skills in system administration, network security, incident response, and digital forensics.
+  My professional journey combines **entrepreneurial experience** with **technical roles**, culminating in a focus on *cybersecurity operations*. 
+  Below are some of my most impactful projects and roles that showcase hands-on skills in **system administration**, **network security**, **incident response**, and **digital forensics**.
 </p>
 
-<p style="text-align: left; max-width: 800px; margin: 20px auto 40px auto; font-size: 0.95em; color: #ddd;">
-  In addition to these featured projects, I regularly publish my latest reports in the blog section of this site, documenting ongoing labs, troubleshooting scenarios, and applied research. 
-  While only a curated selection of my work is public, my complete body of experience includes 60+ additional hands-on labs and reports completed through the Mossé Cyber Security Institute (MCSI), 
-  further demonstrating my expertise in system administration, threat hunting, network security, and incident response.
+<p style="text-align: left; max-width: 800px; margin: 20px auto 40px auto;">
+  In addition to these featured projects, I regularly publish my latest reports in the **blog section** of this site, documenting ongoing *labs*, *troubleshooting scenarios*, and applied **research**. 
+  While only a curated selection of my work is public, my complete body of experience includes **60+ additional hands-on labs and reports** completed through the *Mossé Cyber Security Institute (MCSI)*, 
+  further demonstrating my expertise in **system administration**, **threat hunting**, **network security**, and **incident response**.
 </p>
 
 
