@@ -16,27 +16,24 @@ image:
   📧 <a href="mailto:eldongbrl@proton.me">Email</a> | 🔗 <a href="https://www.linkedin.com/in/eldongabriel">LinkedIn</a>
 </h4>
 
-<!-- Overview Header -->
+<!-- About Me Header -->
 <section style="text-align:center; margin: 60px 0;">
   <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
-    Overview
+    About Me
     <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
   </h2>
 </section>
 
----
-
-<div style="text-align:center;">
-  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 4px;">About Me</h2>
-</div>
-
 <p style="text-align: left; max-width: 800px; margin: 0 auto;">My professional journey combines entrepreneurial experience with technical roles, culminating in a focus on cybersecurity operations. Below are some of my most impactful projects and roles that showcase hands-on skills in system administration, network security, incident response, and digital forensics.</p>
 
----
 
-<div style="text-align:center;">
-  <h2 style="display: inline-block; width: 50%; border-bottom: 3px solid #fff; padding-bottom: 5px;">Work & Projects</h2>
-</div>
+<!-- Work & Projects Header -->
+<section style="text-align:center; margin: 60px 0;">
+  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    Work & Projects
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h2>
+</section>
 
 <div style="text-align:center;">
   <h3 style="display: inline-block; border-bottom: 3px solid #fff; padding-bottom: 5px;">Cybersecurity Reports</h3>
