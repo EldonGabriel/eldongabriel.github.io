@@ -29,7 +29,7 @@ image:
 
 <!-- Cybersecurity Reports SubHeader -->
 <section style="text-align:center; margin: 60px 0;">
-  <h3 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+  <h3 style="display:inline-block; position:relative; font-size:2.0em; margin:0; padding-bottom:10px;">
     Cybersecurity Reports
     <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
   </h3>
@@ -61,7 +61,7 @@ image:
 
 <!-- Windows Security Guides SubHeader -->
 <section style="text-align:center; margin: 60px 0;">
-  <h3 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+  <h3 style="display:inline-block; position:relative; font-size:2.0em; margin:0; padding-bottom:10px;">
     Windows Security Guides
     <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
   </h3>
@@ -103,7 +103,7 @@ image:
 
 <!-- Windows Administration Labs SubHeader -->
 <section style="text-align:center; margin: 60px 0;">
-  <h3 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+  <h3 style="display:inline-block; position:relative; font-size:2.0em; margin:0; padding-bottom:10px;">
     Windows Administration Labs
     <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
   </h3>
@@ -187,7 +187,7 @@ image:
 
 <!-- System Development & Hardening SubHeader -->
 <section style="text-align:center; margin: 60px 0;">
-  <h3 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+  <h3 style="display:inline-block; position:relative; font-size:2.0em; margin:0; padding-bottom:10px;">
     System Development & Hardening
     <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
   </h3>
@@ -214,7 +214,7 @@ image:
 
 <!-- Network Fundamentals SubHeader -->
 <section style="text-align:center; margin: 60px 0;">
-  <h3 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+  <h3 style="display:inline-block; position:relative; font-size:2.0em; margin:0; padding-bottom:10px;">
     Network Fundamentals
     <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
   </h3>
