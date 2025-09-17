@@ -10,11 +10,11 @@ image:
 <!-- Section Header -->
 <div style="text-align:center;">
   <h1 style="font-size:300%; margin-bottom: 0;">Eldon Gabriel</h1>
-  <p style="font-size:160%; margin-top: 0;">Cybersecurity & IT Operations Technician | ISC2 Certified</p>
+  <p style="font-size:160%; margin-top: 0;">Cybersecurity & IT Ops Technician | ISC2 Certified</p>
 </div>
 
 <h4 style="text-align:center;">
-  📧 <a href="mailto:eldongbrl@proton.me">Email</a> | 🌐 <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832">MCSI Cybersecurity Training Portfolio</a> | 🔗 <a href="https://www.linkedin.com/in/eldongabriel">LinkedIn</a>
+  📧 <a href="mailto:eldongbrl@proton.me">Email</a> | 🔗 <a href="https://www.linkedin.com/in/eldongabriel">LinkedIn</a>
 </h4>
 
 <!-- Overview Header -->
@@ -31,7 +31,7 @@ image:
 
 <p>Through real-world lab simulations, I’ve built experience analyzing vulnerabilities, investigating threats, and applying mitigation strategies using tools like <strong>YARA</strong>, <strong>Nmap</strong>, <strong>Wireshark</strong>, and <strong>Kali Linux</strong>.</p>
 
-<p>Currently, I contribute to AI research as a <strong>Multimodal AI Dataset Contributor at Mercor</strong>, while continuing to expand my cybersecurity skills and investigative capabilities through independent projects and professional contributions.</p>
+<p>Currently, I contribute to AI research as a <strong>Multimodal AI Dataset Trainer at Mercor</strong>, while continuing to expand my cybersecurity skills and investigative capabilities through independent projects and professional contributions.</p>
 
 ---
 
