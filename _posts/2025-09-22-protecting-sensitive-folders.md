@@ -1,4 +1,4 @@
- ---
+---
 title: "Protecting Sensitive Folders with Controlled Folder Access via Local Group Policy"
 date: 2025-09-22
 author: Eldon Gabriel
