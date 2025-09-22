@@ -6,7 +6,8 @@ tags: [Windows, Security, GPO, Controlled Folder Access, Endpoint Security]
 excerpt: "Hands-on experience configuring Controlled Folder Access (CFA) on Windows 10 to protect against ransomware using Local Group Policy."
 image:
   path: "assets/images/posts/CFA.png"
-  thumbnail: "assets/images/posts/CFA.png"
+  thumbnail: "assets/images/posts/CFA.png" 
+  
 ---
 
 <div style="text-align:center;">
