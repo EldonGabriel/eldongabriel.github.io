@@ -17,7 +17,7 @@ image:
   In addition to these featured projects, I regularly publish my latest reports in the <strong>blog section</strong> of this site, 
   documenting ongoing <em>labs</em>, <em>troubleshooting scenarios</em>, and applied <strong>research</strong>. 
   While only a curated selection of my work is public, my complete body of experience includes 
-  <strong>60+ additional hands-on labs and reports</strong> completed through the <em>Mossé Cyber Security Institute (MCSI)</em>, 
+  <strong>90+ additional hands-on labs and reports</strong> completed through the <em>Mossé Cyber Security Institute (MCSI)</em>, 
   further demonstrating my expertise in <strong>system administration</strong>, <strong>threat hunting</strong>, 
   <strong>network security</strong>, and <strong>incident response</strong>.
 </p>
@@ -280,7 +280,7 @@ image:
 </section>
 
 <div style="max-width: 800px; margin: 0 auto; font-size: 1em; color: #ddd;">
-  <p><strong>Cybersecurity & System Administration</strong> – Completed 60+ hands-on labs and practical exercises at MCSI, including networking fundamentals, Windows hardening, and threat detection.</p>
+  <p><strong>Cybersecurity & System Administration</strong> – Completed 90+ hands-on labs and practical exercises at MCSI, including networking fundamentals, Windows hardening, and threat detection.</p>
 
   <p><strong>IT & Risk Management</strong> – Managed sensitive data and technical operations at Land Property Partners and Nutrition Outlet, ensuring secure workflows and compliance.</p>
 
