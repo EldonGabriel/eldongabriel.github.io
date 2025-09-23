@@ -6,6 +6,7 @@ image:
   path: /assets/images/banner.png
 ---
 
+<!-- Section Header -->
 <section style="text-align:center; margin: 60px 0;">
   <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
     Overview
@@ -16,7 +17,7 @@ image:
 My learning journey as a Cybersecurity & IT Operations Technician is grounded in hands-on, practical application. This page serves as a comprehensive record of my verified certifications and 90+ hands-on labs, showcasing my proficiency in key areas of security operations, system administration, and network security. Each credential represents a practical exercise and a step toward mastering the skills required to build and defend secure systems. My training and certifications align with industry-recognized frameworks such as the NIST NICE Framework, US Military Occupations (MOS), and the Australian Signals Directorate (ASD) Cyber Skills Framework.
 
 ---
-
+<!-- Section Header -->
 <section style="text-align:center; margin: 60px 0;">
   <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
     Featured Certifications & Hands-On Labs
@@ -57,13 +58,17 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
     * *Showcased advanced system administration skills by directly modifying the Windows Registry to enforce granular access controls.*
 
 ---
-
+<!-- Section Header -->
 <section style="text-align:center; margin: 60px 0;">
   <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
     Mossé Cyber Security Institute (MCSI)
     <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
   </h2>
 </section>
+
+<h4 style="text-align:center;">
+  📧 <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832">Career Development Milestones</a>
+</h4>
 
 ### MICS – Introduction to Cyber Security
 **Number of training exercises:** 40
@@ -134,7 +139,7 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 * Use PE Studio to analyze 5 files on your computer
 
 ---
-
+<!-- Section Header -->
 ### MSAF – System Administration Fundamentals
 **Number of Training Exercises:** 106
 **Current Progress:** 22/84.5 pts (26%)
@@ -190,7 +195,7 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 * **Procedures (0/1)**
 
 ---
-
+<!-- Section Header -->
 <section style="text-align:center; margin: 60px 0;">
   <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
     Additional Certifications
