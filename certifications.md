@@ -66,9 +66,11 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
   </h2>
 </section>
 
-<h4 style="text-align:center;">
-   <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832">Career Development Milestones</a>
-</h4>
+<p style="text-align:center; margin-top: 40px;">
+  <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832" style="text-decoration: none; display: inline-block; padding: 12px 24px; font-weight: bold; border-radius: 5px; background-color: #73b4d5; color: #000; border: 2px solid #73b4d5; transition: background-color 0.3s, color 0.3s;">
+    View Career Development Milestones
+  </a>
+</p>
 
 ### MICS – Introduction to Cyber Security
 **Number of training exercises:** 40
