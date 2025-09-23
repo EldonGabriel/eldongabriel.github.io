@@ -14,8 +14,7 @@ image:
   </h2>
 </section>
 
-My learning journey as a Cybersecurity & IT Operations Technician is grounded in hands-on, practical application. This page serves as a comprehensive record of my verified certifications and 90+ hands-on labs, showcasing my proficiency in key areas of security operations, system administration, and network security. Each credential represents a practical exercise and a step toward mastering the skills required to build and defend secure systems. My training and certifications align with industry-recognized frameworks such as the NIST NICE Framework, US Military Occupations (MOS), and the Australian Signals Directorate (ASD) Cyber Skills Framework.
-
+My learning journey as a **Cybersecurity & IT Operations Technician** is grounded in *hands-on, practical application*. This page serves as a comprehensive record of my **verified certifications** and **90+ hands-on labs**, showcasing my proficiency in key areas of **security operations**, **system administration**, and **network security**. Each credential represents a practical exercise and a step toward mastering the skills required to build and defend secure systems. My training and certifications align with industry-recognized frameworks such as the **NIST NICE Framework**, **US Military Occupations (MOS)**, and the **Australian Signals Directorate (ASD) Cyber Skills Framework**.
 ---
 <!-- Section Header -->
 <section style="text-align:center; margin: 60px 0;">
@@ -134,11 +133,6 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 * Use Dumpzilla to extract forensics browser logs
 * Use PE Studio to analyze 5 files on your computer
 
-<p style="text-align:center; margin-top: 40px;">
-  <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832" style="text-decoration: none; display: inline-block; padding: 12px 24px; font-weight: bold; border-radius: 5px; background-color: #73b4d5; color: #000; border: 2px solid #73b4d5; transition: background-color 0.3s, color 0.3s;">
-    View Career Development Milestones
-  </a>
-</p>
 
 ---
 <!-- Section Header -->
@@ -196,6 +190,11 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 * **Linux Server 101 – Hardening (0/8)**
 * **Procedures (0/1)**
 
+<p style="text-align:center; margin-top: 40px;">
+  <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832" style="text-decoration: none; display: inline-block; padding: 12px 24px; font-weight: bold; border-radius: 5px; background-color: #73b4d5; color: #000; border: 2px solid #73b4d5; transition: background-color 0.3s, color 0.3s;">
+    View Career Development Milestones
+  </a>
+</p>
 ---
 <!-- Section Header -->
 <section style="text-align:center; margin: 60px 0;">
