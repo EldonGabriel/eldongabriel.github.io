@@ -66,42 +66,72 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 </section>
 
 ### MICS – Introduction to Cyber Security
+**Number of training exercises:** 40
+**Current Progress:** 39 out of 39 pts (100%)
+
+#### Lab Setup
+* Lab Setup: Screen Recording
+* Create a template for a professional document
 
 #### Professional Writing
-* Improve spelling and grammar using Grammarly
-* Enhance readability using the Hemingway App
-* Polish writing with Quillbot and AI tools for professional quality
+* Use Grammarly to improve the spelling and grammar of your writing
+* Use the Hemingway App to make your writing easier to read
+* Use Quillbot to improve the quality of your writing
+* Use AI to polish your writing and make it more professional
 
-#### Internet Searching & Research
-* Search academic papers with Elicit.org
-* Access cybersecurity feeds in specific languages
-* Analyze webpage changes (current, cached, archived)
-* Construct complex Google queries to find sensitive or public documents
-* Research penetration testing tools, enterprise security software types, and common network protocols
-* Understand models like the Cyber Kill Chain & MITRE ATT&CK
+#### Internet Searching
+* Use Elicit.org to search academic papers
+* Use Bing to find cybersecurity feeds in a specific language
+* Analyze changes to a webpage by comparing its current, cached and archived versions
+* Construct complex Google Search queries to identify publicly available sensitive information
+* Create Google search queries to identify webpages and publicly available documents
 
-#### OSINT & Reconnaissance
-* Create covert social media accounts for research purposes
-* Build mindmaps of social media data points
-* Map external assets using dnsdumpster.com and shodan.io
-* Search for exposed code repositories
+#### Technical Concepts
+* Research the top penetration testing tools
+* Research the Cyber Kill Chain Model and the MITRE Matrix
+* Research the major types of enterprise security software
+* Research the most common network protocols
+
+#### Open Source Intelligence (OSINT)
+* Create covert social media accounts
+* Create Mindmaps of all data points available on social media platforms and communities
+
+#### Passive Network Reconnaissance
+* Use dnsdumpster.com to passively map an organization's external facing assets
+* Use shodan.io to passively map an organization's external facing assets
+* Search for information leaks on code repositories
 
 #### Discovering Attack Campaigns
-* Detect typosquatting and phishing with dnstwist.py
-* Identify phishing websites via urlscan.io
-* Search for open malware sandboxes
+* Detect typo squatting and phishing with dnstwist.py
+* Use urlscan.io to identify phishing and spear-phishing websites
+* Create Google searches to find open malware sandboxes
 
 #### Security Tools
-* Assess SSL configurations using sslscan
-* Conduct TCP and UDP port scanning with Nmap
+* Use sslscan to assess the SSL configuration settings of HTTPS websites
+* Perform a TCP port scan using Nmap
+* Perform a UDP port scan using Nmap
 
-#### Threat Hunting with YARA
-* Write and document YARA rules
-* Detect executables, strings, and custom patterns
+#### Threat Hunting using YARA
+* Lab Setup: Threat Hunting with YARA
+* Write a YARA rule that can find itself
+* Write a YARA rule that can find small portable executables
+* Write a YARA rule that is professionally documented
+* Write a YARA rule that searches for files with a given set of strings
+
+#### Security Lab Setup
+* Lab Setup: Deploy Virtual Machines
+* Lab Setup: Software Development
+* Lab Setup: OpenVAS
+
+#### Penetration Testing with Tools
+* Perform a vulnerability scan with OpenVAS
+* Use Burp Suite's Spider to crawl a website
+* Use Burp Suite's Intruder feature to brute force a login page
+* Perform DNS scans using Fierce
 
 #### Digital Investigations
-* Extract forensic browser logs with Dumpzilla
-* Analyze binaries using PE Studio
+* Use Dumpzilla to extract forensics browser logs
+* Use PE Studio to analyze 5 files on your computer
 
 ---
 
@@ -168,6 +198,8 @@ These modules are comprised of multi-step projects that simulate real-world IT a
   </h2>
 </section>
 
+* **KCCS - Knowledge of Cybersecurity Skills:** This certification affirms my theoretical knowledge of essential cybersecurity concepts, including network security, threat analysis, and incident response, providing a strong foundation for professional development.
+* **KCIS - Knowledge of Core IT Skills:** This certification validates my understanding of fundamental IT principles, encompassing hardware, software, networking, and troubleshooting, serving as a solid stepping stone for further technical learning.
 * **Google Cybersecurity:** Completed exercises and hands-on labs in cybersecurity fundamentals, threat detection, and IT operations.
 * **Google IT Support:** Completed practical labs in system administration, troubleshooting, and IT infrastructure management.
 * **Windows Server Management and Security:** Implemented exercises in server configuration, Active Directory, and Windows security hardening.
