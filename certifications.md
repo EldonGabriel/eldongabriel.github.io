@@ -14,8 +14,7 @@ image:
   </h2>
 </section>
 
-My learning journey as a **Cybersecurity & IT Operations Technician** is grounded in *hands-on, practical application*. This page serves as a comprehensive record of my **verified certifications** and **90+ hands-on labs**, showcasing my proficiency in key areas of **security operations**, **system administration**, and **network security**. Each credential represents a practical exercise and a step toward mastering the skills required to build and defend secure systems. My training and certifications align with industry-recognized frameworks such as the **NIST NICE Framework**, **US Military Occupations (MOS)**, and the **Australian Signals Directorate (ASD) Cyber Skills Framework**.
----
+My learning journey as a **Cybersecurity & IT Operations Technician** is grounded in ***hands-on, practical application***. This page serves as a comprehensive record of my **verified certifications** and **90+ hands-on labs**, showcasing my proficiency in key areas of **security operations**, **system administration**, and **network security**. Each credential represents a practical exercise and a step toward mastering the skills required to build and defend secure systems. My training and certifications align with industry-recognized frameworks such as the **NIST NICE Framework**, **US Military Occupations (MOS)**, and the **Australian Signals Directorate (ASD) Cyber Skills Framework**.---
 <!-- Section Header -->
 <section style="text-align:center; margin: 60px 0;">
   <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
