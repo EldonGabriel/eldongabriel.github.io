@@ -205,6 +205,7 @@ These modules are comprised of multi-step projects that simulate real-world IT a
   </h2>
 </section>
 
+* **ISC2 Certified in Cybersecurity (CC):** This globally-recognized certification validates my foundational knowledge in key cybersecurity domains, including security principles, business continuity, and risk management.
 * **KCCS - Knowledge of Cybersecurity Skills:** This certification affirms my theoretical knowledge of essential cybersecurity concepts, including network security, threat analysis, and incident response, providing a strong foundation for professional development.
 * **KCIS - Knowledge of Core IT Skills:** This certification validates my understanding of fundamental IT principles, encompassing hardware, software, networking, and troubleshooting, serving as a solid stepping stone for further technical learning.
 * **Google Cybersecurity:** Completed exercises and hands-on labs in cybersecurity fundamentals, threat detection, and IT operations.
