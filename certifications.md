@@ -67,7 +67,7 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 </section>
 
 <h4 style="text-align:center;">
-  📧 <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832">Career Development Milestones</a>
+   <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832">Career Development Milestones</a>
 </h4>
 
 ### MICS – Introduction to Cyber Security
