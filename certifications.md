@@ -137,7 +137,7 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 <!-- Section Header -->
 ### MSAF – System Administration Fundamentals
 **Number of Training Exercises:** 106
-**Current Progress:** 22/84.5 pts (26%)
+**Current Progress:** 24/84.5 pts (28%)
 
 #### Practical Scenarios
 These modules are comprised of multi-step projects that simulate real-world IT and cybersecurity tasks in a live enterprise environment.
@@ -178,7 +178,7 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 * **Virtualization Fundamentals (9/9)**
 * **Networking Fundamentals (4/4)**
 * **Windows System Security and Administration – Part 1 (7/7)**
-* **Windows System Security and Administration – Part 2 (4/9)**
+* **Windows System Security and Administration – Part 2 (5/9)**
 * **Windows System Security and Administration – Part 3 (0/8)**
 * **Firewall Fundamentals (0/6)**
 * **System Security and Administration: Linux (0/5)**
