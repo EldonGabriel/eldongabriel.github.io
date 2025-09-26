@@ -1,6 +1,6 @@
 ---
 title: "Enforcing Windows Patching Policies with Local Group Policy"
-date: 2025-09-27
+date: 2025-09-26
 author: Eldon Gabriel
 tags: [Windows10, GroupPolicy, Patching, Cybersecurity, SystemHardening]
 excerpt: "A simple walkthrough showing how to use Local Group Policy to keep Windows 10 patched and protected against new threats."
