@@ -1,6 +1,6 @@
 ---
 title: "Enforcing Windows Patching Policies with Local Group Policy"
-date: 2025-09-26
+date: 2025-09-27
 author: Eldon Gabriel
 tags: [Windows10, GroupPolicy, Patching, Cybersecurity, SystemHardening]
 excerpt: "A simple walkthrough showing how to use Local Group Policy to keep Windows 10 patched and protected against new threats."
@@ -53,6 +53,6 @@ For the full step-by-step process and deeper insights, see my **full report** be
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 0 1 45%; min-width: 600px; text-align: center;">
     <iframe src="{{ 'assets/reports/REPORT – Enforcing Operating System Patching Policy via Local GPO – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – Enforcing Operating System Patching Policy via Local GPO – v1.0.0.pdf</figcaption>
+    <figcaption>REPORT – Enforcing Operating System Patching Policy via Local GPO – v1.0.0</figcaption>
   </div>
 </div>
