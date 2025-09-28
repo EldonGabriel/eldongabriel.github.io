@@ -18,24 +18,23 @@ Strengthening authentication controls is one of the most effective ways to stop 
 
 I used **Local Group Policy** paths to configure three main areas:  
 
-- **Logon Policy**  
-  Disabled **convenience PIN sign-in** to remove weaker authentication fallbacks.  
-<br>
-- **Password Policy**  
-  - Minimum password length: **10 characters**  
-  - Password complexity: **Enabled** (uppercase, lowercase, numbers, symbols)  
-  - Password history: **5 remembered passwords**  
-  - Maximum password age: **90 days**  
-  - Minimum password age: **24 hours**  
-  - Reversible encryption: **Disabled**
-<br>
-- **Account Lockout Policy**  
-  - Threshold: **5 failed logon attempts**  
-  - Lockout duration: **15 minutes**  
-  - Reset counter after: **15 minutes**  
+**Logon Policy**
+    - Disabled **convenience PIN sign-in** to remove weaker authentication fallbacks.
+
+**Password Policy**
+    - Minimum password length: **10 characters**
+    - Password complexity: **Enabled** (uppercase, lowercase, numbers, symbols)
+    - Password history: **5 remembered passwords**
+    - Maximum password age: **90 days**
+    - Minimum password age: **24 hours**
+    - Reversible encryption: **Disabled**
+
+**Account Lockout Policy**
+    - Threshold: **5 failed logon attempts**
+    - Lockout duration: **15 minutes**
+    - Reset counter after: **15 minutes**  
 
 Verification steps included forcing policy updates with `gpupdate /force`, reviewing settings in **secpol.msc**, and simulating failed login attempts to confirm lockout behavior.  
-
 
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Why This Matters</h1>
