@@ -27,7 +27,8 @@ I used **Local Group Policy** paths to configure three main areas:
   - Password history: **5 remembered passwords**  
   - Maximum password age: **90 days**  
   - Minimum password age: **24 hours**  
-  - Reversible encryption: **Disabled**  <br>
+  - Reversible encryption: **Disabled**
+  
 
 - **Account Lockout Policy**  
   - Threshold: **5 failed logon attempts**  
