@@ -11,7 +11,6 @@ image:
 
 Strengthening authentication controls is one of the most effective ways to stop attackers before they ever get inside a system. In this exercise, I configured a Windows 10 machine with **strict password and account lockout settings** using the Local Group Policy Editor (`gpedit.msc`). The goal: defend against **password guessing** and **brute-force attacks** by eliminating weak sign-in options and enforcing strong password rules.  
 
----
 
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Applying the Policy</h1>
@@ -37,7 +36,6 @@ I used **Local Group Policy** paths to configure three main areas:
 
 Verification steps included forcing policy updates with `gpupdate /force`, reviewing settings in **secpol.msc**, and simulating failed login attempts to confirm lockout behavior.  
 
----
 
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Why This Matters</h1>
@@ -49,7 +47,6 @@ Even in a single-machine lab, these principles scale directly to enterprise envi
 
 For non-technical readers: imagine a door that automatically bolts itself after someone tries the wrong key too many times. That’s what account lockout policies do for user accounts.  
 
----
 
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Professional Relevance</h1>
@@ -62,7 +59,6 @@ This exercise reinforces skills aligned to:
 
 These tasks directly map to the work of **IT Operations Technicians** and **junior Security Administrators** responsible for day-to-day system defense.  
 
----
 
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Key Takeaways</h1>
