@@ -20,7 +20,7 @@ I used **Local Group Policy** paths to configure three main areas:
 
 - **Logon Policy**  
   Disabled **convenience PIN sign-in** to remove weaker authentication fallbacks.  
-
+<br>
 - **Password Policy**  
   - Minimum password length: **10 characters**  
   - Password complexity: **Enabled** (uppercase, lowercase, numbers, symbols)  
@@ -28,7 +28,7 @@ I used **Local Group Policy** paths to configure three main areas:
   - Maximum password age: **90 days**  
   - Minimum password age: **24 hours**  
   - Reversible encryption: **Disabled**
-
+<br>
 - **Account Lockout Policy**  
   - Threshold: **5 failed logon attempts**  
   - Lockout duration: **15 minutes**  
