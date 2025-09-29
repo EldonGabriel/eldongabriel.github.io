@@ -56,7 +56,7 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
     * *Showcased advanced system administration skills by directly modifying the Windows Registry to enforce granular access controls.*
 
 ---
-<!-- Section Header -->
+<!-- Mossé Cyber Security Institute (MCSI) Section Header -->
 <section style="text-align:center; margin: 60px 0;">
   <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
     Mossé Cyber Security Institute (MCSI)
@@ -64,6 +64,7 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
   </h2>
 </section>
 
+<!-- MICS – Introduction to Cyber Security Section Header -->
 ### MICS – Introduction to Cyber Security
 **Number of training exercises:** 40
 **Current Progress:** 39 out of 39 pts (100%)
@@ -134,10 +135,10 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 
 
 ---
-<!-- Section Header -->
+<!-- MSAF – System Administration Fundamentals Section Header -->
 ### MSAF – System Administration Fundamentals
 **Number of Training Exercises:** 106
-**Current Progress:** 25/84.5 pts (30%)
+**Current Progress:** 28/84.5 pts (33%)
 
 #### Practical Scenarios
 These modules are comprised of multi-step projects that simulate real-world IT and cybersecurity tasks in a live enterprise environment.
@@ -178,7 +179,7 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 * **Virtualization Fundamentals (9/9)**
 * **Networking Fundamentals (4/4)**
 * **Windows System Security and Administration – Part 1 (7/7)**
-* **Windows System Security and Administration – Part 2 (6/9)**
+* **Windows System Security and Administration – Part 2 (9/9)**
 * **Windows System Security and Administration – Part 3 (0/8)**
 * **Firewall Fundamentals (0/6)**
 * **System Security and Administration: Linux (0/5)**
