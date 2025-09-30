@@ -68,4 +68,4 @@ Local hardening methods scale to enterprise-wide policies via Active Directory G
 
 For the full step-by-step process and deeper insights, see my full report below:
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> <div style="flex: 0 1 45%; min-width: 600px; text-align: center;"> <iframe src="{{ 'assets/reports/REPORT – System Hardening via Local GPO: Restricting Anonymous Connections – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe> <figcaption>REPORT – System Hardening via Local GPO: Restricting Anonymous Connections – v1.0.0</figcaption> </div> </div>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> <div style="flex: 0 1 45%; min-width: 600px; text-align: center;"> <iframe src="{{ 'assets/reports/REPORT – System Hardening via Local GPO_ Restricting Anonymous Connections – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe> <figcaption>REPORT – System Hardening via Local GPO: Restricting Anonymous Connections – v1.0.0</figcaption> </div> </div>
