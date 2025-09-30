@@ -35,7 +35,6 @@ I used **Local Group Policy** paths to configure two main areas:
 I verified the settings with the following command:  
 
 ~~~
-cmd
 reg query HKLM\SYSTEM\CurrentControlSet\Services\LanManServer\Parameters /v RestrictNullSessAccess
 ~~~
 The output confirmed a DWORD value of 0x1, proving the restrictions were successfully applied.
