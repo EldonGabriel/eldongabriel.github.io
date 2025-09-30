@@ -5,8 +5,8 @@ author: Eldon Gabriel
 tags: [Windows10, GPO, AnonymousAccess, NullSession, Cybersecurity, SystemHardening]
 excerpt: "A practical walkthrough on hardening Windows 10 by restricting anonymous connections through Local Group Policy, blocking null session enumeration of shares and named pipes."
 image:
-  path: "assets/images/posts/ nt.png"
-  thumbnail: "assets/images/posts/ nt.png"
+  path: "assets/images/posts/nt.png"
+  thumbnail: "assets/images/posts/nt.png"
 ---
 
 Anonymous access has long been a way for attackers to silently enumerate users, groups, and shares on a Windows system. In this exercise, I hardened a standalone Windows 10 machine by configuring **Local Group Policy** settings that restrict null session access and deny anonymous logons. The goal: remove unauthenticated pathways into the system and reduce exposure to common enumeration attacks.  
