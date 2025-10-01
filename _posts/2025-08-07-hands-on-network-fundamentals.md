@@ -26,7 +26,7 @@ Next, I researched **common networking hardware** used in enterprise networks:
 - **Hubs:** “Dumb” devices that broadcast traffic to all ports.
 - **Switches:** Targeted traffic delivery, more efficient than hubs.
 - **Routers:** Manage traffic between networks.
-- Firewalls:** Protect sensitive data by controlling access and segmenting networks. 
+- **Firewalls:** Protect sensitive data by controlling access and segmenting networks. 
 
 <center><h2>Putting Knowledge into Practice: Static & Dynamic Network Design</h2></center>
 
