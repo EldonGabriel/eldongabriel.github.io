@@ -16,7 +16,7 @@ Even more, MCSI provides **_100 hours of free training_** with their **(MICS) - 
 
 <center><h2>Why MCSI Stands Out</h2></center>
 
-MCSI’s training feels like a true apprenticeship. Even within my first lessons, I received custom cybersecurity report templates and constructive feedback from tutors on each submission. This approach not only builds technical knowledge but also improves essential skills like written communication.
+MCSI’s training feels like a true apprenticeship. Even within my first lessons, I created my first lab setup, then my own personal cybersecurity report template, and received constructive feedback from instructors on each submission. This approach not only builds technical knowledge but also improves essential skills like written communication.
 
 Unlike traditional courses, MCSI challenges me with real-world cybersecurity problems while providing personalized feedback to help me improve. Their focus on hands-on training and measurable outcomes makes it clear where my strengths are and where I need more practice.
 
