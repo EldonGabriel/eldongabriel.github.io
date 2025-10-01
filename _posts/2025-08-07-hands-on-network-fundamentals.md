@@ -32,9 +32,9 @@ Next, I researched **common networking hardware** used in enterprise networks:
 
 To test my knowledge, I designed a visual network with **Draw.io** for a 100-employee business. Every PC, switch, and server placement built the network; adding firewalls and a DMZ protected it. The result: a complete network diagram with secure segmentation and proper security controls.
 
-The final challenge involved **Cisco Packet Tracer** to create a dynamic network for a 1,000-employee organization. Tasks included:
+The final challenge involved **Cisco Packet Tracer** to create a dynamic network for a 1,000-employee organization
 
-## Tasks Included
+### Tasks Included
 
 - Building WANs, LANs, and VLANs.
 - Configuring **Access Control Lists (ACLs)** and **Network Address Translation (NAT)**.
@@ -42,7 +42,7 @@ The final challenge involved **Cisco Packet Tracer** to create a dynamic network
 
 This exercise took over **10 hours** of intensive hands-on work and led me to create a troubleshooting guide for the final diagram.
 
-## Key Tasks Completed
+### Key Tasks Completed
 
 - Researched the **OSI and TCP/IP models** and cybersecurity implications.
 - Researched common **networking hardware** for enterprise networks.
@@ -56,7 +56,7 @@ This exercise took over **10 hours** of intensive hands-on work and led me to cr
 
 Textbook learning alone does not prepare you for advanced hands-on exercises like this. I gained practical, real-world skills and produced a complete two-part network project suitable for my cybersecurity portfolio.
 
-## Key Takeaways
+### Key Takeaways
 - Hands-on experience designing static and dynamic networks.
 - Learned to set up **LANs, VLANs, ACLs, NAT, and VPNs**.
 - Built **troubleshooting and documentation skills** under real-world conditions.
