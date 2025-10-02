@@ -17,20 +17,20 @@ Anonymous access has long been a way for attackers to silently enumerate users, 
 
 I used **Local Group Policy** paths to configure two main areas:
 
-### Anonymous Access Restrictions
+#### Anonymous Access Restrictions
 
 - **Path:** `Computer Configuration → Windows Settings → Security Settings → Local Policies → Security Options`  
 - **Policies Configured:**  
   - *Network access: Do not allow anonymous enumeration of SAM accounts and shares* → **Enabled**  
   - *Network access: Restrict anonymous access to Named Pipes and Shares* → **Enabled**  
 
-### User Rights Assignment
+#### User Rights Assignment
 
 - **Path:** `Computer Configuration → Windows Settings → Security Settings → Local Policies → User Rights Assignment`  
 - **Policy Configured:**  
   - *Deny access to this computer from the network* → **Guests, Local account**  
 
-### Verification  
+#### Verification  
 
 I verified the settings with the following command:  
 
