@@ -5,6 +5,7 @@ image:
   path: /assets/images/headers/mics.png
   thumbnail: /assets/images/headers/mics.png
   caption: ""
+  order: 1
 ---
 
 <!-- MICS – Introduction to Cyber Security Section Header -->
