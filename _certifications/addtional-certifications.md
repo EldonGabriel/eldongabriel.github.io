@@ -2,6 +2,8 @@
 title: "Additional Certifications"
 layout: page 
 slug: addtional-certifications
+collection: certifications
+order: 1
 image:
   path: /assets/images/headers/addcert.png
   thumbnail: /assets/images/headers/addcert.png
