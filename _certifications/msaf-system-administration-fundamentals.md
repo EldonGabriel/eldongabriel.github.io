@@ -1,5 +1,5 @@
 ---
-title: "MSAF – System Administration Fundamentals"
+title: "System Administration Fundamentals"
 layout: page  # <-- must be 'page' or a layout that loads your CSS/skin
 slug: msaf-system-administration-fundamentals
 image:
