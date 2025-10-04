@@ -2,11 +2,12 @@
 title: "System Administration Fundamentals"
 layout: page  # <-- must be 'page' or a layout that loads your CSS/skin
 slug: msaf-system-administration-fundamentals
+collection: certifications
+order: 4
 image:
   path: /assets/images/headers/msafsysadmin.png
   thumbnail: /assets/images/headers/msafsysadmin.png
   caption: ""
-order: 2
 ---
 
 <!-- MSAF – System Administration Fundamentals Section Header -->
