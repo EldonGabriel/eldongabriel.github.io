@@ -83,8 +83,7 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 
 <!-- MICS – Introduction to Cyber Security Section Header -->
 ### MICS – Introduction to Cyber Security
-**Number of Training Exercises:** 40
-**Current Progress:** 39 out of 39 pts (100%)
+**Number of Training Exercises:** 40 | **Current Progress:** 39 out of 39 pts (100%)
 
 #### Lab Setup
 * Lab Setup: Screen Recording
@@ -155,8 +154,7 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 <br>
 <!-- MSAF – System Administration Fundamentals Section Header -->
 ### MSAF – System Administration Fundamentals
-**Number of Training Exercises:** 106
-**Current Progress:** 28/84.5 pts (33%)
+**Number of Training Exercises:** 106 | **Current Progress:** 28/84.5 pts (33%)
 
 ### MSAF Scenarios
 
@@ -228,8 +226,7 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 <br>
 <!-- MOIS – Certified OSINT Expert Section Header -->
 ### MOIS – Certified OSINT Expert
-**Number of Training Exercises:** 64  
-**Current Progress:** 8/56 pts (14%)
+**Number of Training Exercises:** 64 | **Current Progress:** 8/56 pts (14%)
 
 ### MOSINT Scenarios
 
