@@ -14,8 +14,10 @@ image:
   </h2>
 </section>
 
-My learning journey as a **Cybersecurity & IT Operations Technician** is grounded in ***hands-on, practical application***. This page serves as a comprehensive record of my **verified certifications** and **90+ hands-on labs**, showcasing my proficiency in key areas of **security operations**, **system administration**, and **network security**. Each credential represents a practical exercise and a step toward mastering the skills required to build and defend secure systems. My training and certifications align with industry-recognized frameworks such as the **NIST NICE Framework**, **US Military Occupations (MOS)**, and the **Australian Signals Directorate (ASD) Cyber Skills Framework**.---
-<!-- Section Header -->
+My learning journey as a **Cybersecurity & IT Operations Technician** is grounded in ***hands-on, practical application***. This page serves as a comprehensive record of my **verified certifications** and **90+ hands-on labs**, showcasing my proficiency in key areas of **security operations**, **system administration**, **network security** and **open-source intelligence (OSINT)**. Each credential represents a practical exercise and a step toward mastering the skills required to build and defend secure systems. My training and certifications align with industry-recognized frameworks such as the **NIST NICE Framework**, **US Military Occupations (MOS)**, and the **Australian Signals Directorate (ASD) Cyber Skills Framework**.
+
+---
+<!-- Featured Certifications & Hands-On Labs Section Header -->
 <section style="text-align:center; margin: 60px 0;">
   <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
     Featured Certifications & Hands-On Labs
@@ -25,37 +27,52 @@ My learning journey as a **Cybersecurity & IT Operations Technician** is grounde
 
 Here is a curated selection of my most impactful, job-relevant credentials and hands-on labs. These projects demonstrate my ability to apply practical skills in real-world security scenarios.
 
-* **Harden a Windows Machine with GPO to Restrict Application Installations**
-    * *Demonstrated applied endpoint hardening by configuring Group Policy Objects to prevent unauthorized software installations.*
+#### Endpoint Security & System Hardening
+* **Harden a Windows Machine with GPO to Restrict Application Installations**  
+  Demonstrated applied endpoint hardening by configuring Group Policy Objects to prevent unauthorized software installations.
 
-* **Deploy a GPO to Ensure Credentials Are Entered Securely**
-    * *Implemented access control management by using Group Policy to enforce secure login practices and protect sensitive credentials.*
+* **Deploy a GPO to Ensure Credentials Are Entered Securely**  
+  Implemented access control management by using Group Policy to enforce secure login practices and protect sensitive credentials.
 
-* **Use Cisco Packet Tracer to Create a Dynamic Network for a 1,000-User Organization**
-    * *Applied network architecture and design principles to build a secure enterprise-level network, employing cybersecurity best practices.*
+* **Turn on Windows Firewall and Create a Sample Firewall Rule to Prevent SMB Access**  
+  Applied network security and endpoint hardening by creating a firewall rule to block SMB traffic, a common vector for lateral movement attacks.
 
-* **Use PE Studio To Analyze 5 Files On Your Computer**
-    * *Performed static malware analysis by using PE Studio to examine binary files for suspicious traits, building foundational threat hunting skills.*
+* **Use Access Permissions and Rights to Prevent Unauthorized Users from Viewing a Folder**  
+  Demonstrated data protection and access control management by configuring file system permissions to protect sensitive information.
 
-* **Turn on Windows Firewall and Create a Sample Firewall Rule to Prevent SMB Access**
-    * *Applied network security and endpoint hardening by creating a firewall rule to block SMB traffic, a common vector for lateral movement attacks.*
+* **Use the Windows Registry to Restrict the Permissions of Untrusted User Accounts**  
+  Showcased advanced system administration skills by directly modifying the Windows Registry to enforce granular access controls.
 
-* **Lab Setup: OpenVAS**
-    * *Successfully deployed and configured a containerized vulnerability scanning environment, demonstrating proficiency with an industry-standard security tool.*
+#### Network Security & Architecture
+* **Use Cisco Packet Tracer to Create a Dynamic Network for a 1,000-User Organization**  
+  Applied network architecture and design principles to build a secure enterprise-level network, employing cybersecurity best practices.
 
-* **Create a Snapshot of a Virtual Machine to Recover the OS to a Safe State**
-    * *Applied security operations principles to ensure system resilience by creating a snapshot for a secure and repeatable recovery baseline.*
+* **Lab Setup: OpenVAS**  
+  Successfully deployed and configured a containerized vulnerability scanning environment, demonstrating proficiency with an industry-standard security tool.
 
-* **Use Access Permissions and Rights to Prevent Unauthorized Users from Viewing a Folder**
-    * *Demonstrated data protection and access control management by configuring file system permissions to protect sensitive information.*
+* **Create a Snapshot of a Virtual Machine to Recover the OS to a Safe State**  
+  Applied security operations principles to ensure system resilience by creating a snapshot for a secure and repeatable recovery baseline.
 
-* **Use Procmon to View, Analyze and Monitor Running Processes on a Windows Machine**
-    * *Applied digital forensics and SecOps skills to monitor and analyze system processes for potential malicious activity.*
+* **Use Procmon to View, Analyze and Monitor Running Processes on a Windows Machine**  
+  Applied digital forensics and SecOps skills to monitor and analyze system processes for potential malicious activity.
 
-* **Use the Windows Registry to Restrict the Permissions of Untrusted User Accounts**
-    * *Showcased advanced system administration skills by directly modifying the Windows Registry to enforce granular access controls.*
+#### Open-Source Intelligence (OSINT)
+* **Search for Information Leaks on Code Repositories**  
+  Performed OSINT research on publicly available code repositories to identify potential sensitive data exposures, building foundational investigative skills.
+
+* **Create Covert Social Media Accounts**  
+  Demonstrated operational security and investigative setup by creating covert accounts for use in open-source intelligence collection.
+
+* **Construct Complex Google Search Queries**  
+  Applied advanced search techniques to locate publicly available sensitive information across multiple online sources.
+
+* **Create Mindmaps of Social Media Data Points**  
+  Organized and visualized data gathered from social media platforms to aid in structured OSINT analysis and reporting.
+
 
 ---
+
+
 <!-- Mossé Cyber Security Institute (MCSI) Section Header -->
 <section style="text-align:center; margin: 60px 0;">
   <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
@@ -135,6 +152,7 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 
 
 ---
+
 <!-- MSAF – System Administration Fundamentals Section Header -->
 ### MSAF – System Administration Fundamentals
 **Number of Training Exercises:** 106
@@ -190,13 +208,68 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 * **Linux Server 101 – Hardening (0/8)**
 * **Procedures (0/1)**
 
+---
+
+<!-- MOIS – Certified OSINT Expert Section Header -->
+### MOIS – Certified OSINT Expert
+**Number of Training Exercises:** 64  
+**Current Progress:** 8/56 pts (14%)
+
+### MOSINT Scenarios
+
+#### SOCMINT Challenges
+* **Description:** These scenarios focus on gathering and analyzing intelligence from social media platforms to investigate individuals, organizations, and events.  
+- Construct search queries using standard operators on X  
+- Investigate an individual using their Facebook account  
+- Use Facebook’s search feature to investigate an event  
+- Investigate a target organization on Facebook  
+- Use OSINT to retrieve data about an individual that is exclusive to the LinkedIn platform  
+- Validate information found in publicly posted content on X  
+- Use OSINT to investigate Instagram Reels posted in foreign languages  
+
+#### Dark Web
+* **Description:** These tasks involve setting up tools and performing investigations on the Dark Web to uncover leaked data and APT activity.  
+- Lab Setup: Tor Browser  
+- Use Search Engines on the Dark Web to find leaked data  
+- Gather intelligence on the Dark Web about an active Advanced Persistent Threat (APT)  
+
+#### Documentation, Reports and Procedures
+* **Description:** These exercises focus on structuring OSINT findings into professional outputs such as mindmaps, report templates, and workflows.  
+- Create Mindmaps of all data points available on social media platforms and communities  
+- Develop an OSINT Report Template  
+- Develop Workflow Diagrams to guide OSINT Investigations  
+
+#### Completed Modules
+* **Quickstarter (1/6)**
+* **Key Concepts (0/2)**
+* **IT Environment Setup (1/2)**
+* **Search Engines (4/10)**
+* **Usernames (0/1)**
+* **Email Addresses (0/3)**
+* **Telephone Numbers (0/1)**
+* **Documents (0/3)**
+* **IP Addresses and Domain Names (0/2)**
+* **Images and Videos (0/4)**
+* **Online Maps (0/3)**
+* **Generative AI and Deep Fakes (0/3)**
+* **Online Communities (0/2)**
+* **Software Code (1/2)**
+* **Dark Web (0/3)**
+* **Social Media Intelligence – SOCMINT (0/7)**
+* **Documentation, Reports and Procedures (1/3)**
+
+
 <p style="text-align:center; margin-top: 40px;">
   <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832" style="text-decoration: none; display: inline-block; padding: 12px 24px; font-weight: bold; border-radius: 5px; background-color: #73b4d5; color: #000; border: 2px solid #73b4d5; transition: background-color 0.3s, color 0.3s;">
     View Career Development Milestones
   </a>
 </p>
+
+
 ---
-<!-- Section Header -->
+
+
+<!-- Additional Certifications Section Header -->
 <section style="text-align:center; margin: 60px 0;">
   <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
     Additional Certifications
