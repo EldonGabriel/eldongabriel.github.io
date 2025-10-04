@@ -1,7 +1,7 @@
 ---
 title: "Additional Certifications"
 layout: page 
-slug: addtional-certifications
+slug: additional-certifications
 collection: certifications
 order: 1
 image:
