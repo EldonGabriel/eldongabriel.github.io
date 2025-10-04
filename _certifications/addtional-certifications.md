@@ -1,4 +1,5 @@
 ---
+slug: addtional-certifications
 title: "Additional Certifications"
 image: 
   path: /assets/images/headers/addcert.png
