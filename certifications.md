@@ -5,7 +5,7 @@ permalink: /certifications/
 collection: certifications
 entries_layout: grid
 show_excerpts: false
-sort_by: order
+sort_by: date
 sort_order: random
 image:
   path: /assets/images/banner.png
