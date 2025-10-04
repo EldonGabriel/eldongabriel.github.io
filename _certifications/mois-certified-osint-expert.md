@@ -1,5 +1,5 @@
 ---
-title: "MOIS – Certified OSINT Expert"
+title: "Certified OSINT Expert"
 layout: page 
 slug: mois-certified-osint-expert
 image:
