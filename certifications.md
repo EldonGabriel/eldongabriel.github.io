@@ -68,8 +68,7 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 
 * **Create Mindmaps of Social Media Data Points**  
   Organized and visualized data gathered from social media platforms to aid in structured OSINT analysis and reporting.
-
-
+<br>
 ---
 
 
@@ -149,8 +148,7 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 #### Digital Investigations
 * Use Dumpzilla to extract forensics browser logs
 * Use PE Studio to analyze 5 files on your computer
-
-
+<br>
 ---
 <br>
 <!-- MSAF – System Administration Fundamentals Section Header -->
@@ -219,8 +217,8 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 * **Linux Server 101 – Networking (0/5)**
 * **Linux Server 101 – Hardening (0/8)**
 * **Procedures (0/1)**
-
---- 
+<br>
+---
 <br>
 <!-- MOIS – Certified OSINT Expert Section Header -->
 ### MOIS – Certified OSINT Expert
