@@ -163,7 +163,8 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 
 These modules are comprised of multi-step projects that simulate real-world IT and cybersecurity tasks in a live enterprise environment.
 
-<h5><strong>Windows Server 101</strong></h5>
+#### Windows Server 101
+
 <p><strong>Description:</strong> This scenario involves building a complete Windows enterprise environment from scratch, including a Domain Controller, file server, and web server.</p>
 
 <p><strong>Key Skills Demonstrated:</strong> Enterprise System Administration, Active Directory Management, GPO Deployment, Network Infrastructure Services.</p>
@@ -184,7 +185,8 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 <li>Deploy a GPO that applies security best practices across the fleet of computers</li>
 </ul>
 
-<h5><strong>Introduction to Exchange Server Administration</strong></h5>
+#### Introduction to Exchange Server Administration
+
 <p><strong>Description:</strong> This scenario focuses on the installation, configuration, and security of an Exchange server, including digital forensics and SIEM integration.</p>
 
 <p><strong>Key Skills Demonstrated:</strong> Mail Server Administration, Digital Forensics, SIEM Integration, Email Security.</p>
