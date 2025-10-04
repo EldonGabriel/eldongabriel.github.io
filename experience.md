@@ -101,7 +101,7 @@ image:
 
   <!-- Optional Row 4 if needed -->
   <figure style="flex: 1 1 100%; min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/guides/GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <iframe src="{{ '/assets/guides/GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe>
     <figcaption>GUIDE – Endpoint Registry Controls – v1.0.0</figcaption>
   </figure>
 </div>
