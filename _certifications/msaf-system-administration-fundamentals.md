@@ -1,4 +1,5 @@
 ---
+slug: msaf-system-administration-fundamentals
 title: "MSAF – System Administration Fundamentals"
 image: 
   path: /assets/images/headers/msafsysadmin.png
