@@ -1,6 +1,6 @@
 ---
 slug: mics-intro-cyber-security
-title: "MICS -Introduction to Cyber Security"
+title: "MICS – Introduction to Cyber Security"
 image: 
   path: /assets/images/headers/mics.png
   thumbnail: /assets/images/headers/mics.png
