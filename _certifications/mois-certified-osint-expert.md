@@ -5,6 +5,7 @@ image:
   path: /assets/images/headers/mois.png
   thumbnail: /assets/images/headers/mois.png
   caption: ""
+  order: 3
 ---
 
 <!-- MOIS – Certified OSINT Expert Section Header -->
