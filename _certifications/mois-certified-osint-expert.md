@@ -2,6 +2,8 @@
 title: "Certified OSINT Expert"
 layout: page 
 slug: mois-certified-osint-expert
+collection: certifications
+order: 3
 image:
   path: /assets/images/headers/mois.png
   thumbnail: /assets/images/headers/mois.png
