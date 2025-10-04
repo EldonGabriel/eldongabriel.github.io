@@ -12,10 +12,6 @@ Below are featured projects and roles that showcase my practical expertise in **
 
 This featured work is supported by an extensive, verified portfolio:
 
-I regularly publish my latest reports, documenting ongoing independent labs, troubleshooting scenarios, and applied research in the blog section of this site.
-
-While only a curated selection of my work is public, my complete body of experience includes **90+ hands-on labs and reports.** This full scope of training—developed through independent study and advanced coursework with the Mossé Cyber Security Institute (MCSI)—demonstrates my expertise in **system administration**, **network security**, **incident response**, **digital forensics**, and **open-source intelligence (OSINT).**
-
 
 <!-- Cybersecurity Reports Header -->
 <section style="text-align:center; margin: 60px 0;">
@@ -283,12 +279,6 @@ While only a curated selection of my work is public, my complete body of experie
   </h2>
 </section>
 
-<div style="max-width: 800px; margin: 0 auto; font-size: 1em; color: #ddd;">
-  <p><strong>Cybersecurity & System Administration</strong> – Completed 90+ hands-on labs and practical exercises at MCSI, including networking fundamentals, Windows hardening, and threat detection.</p>
+I regularly publish my latest reports, documenting ongoing independent labs, troubleshooting scenarios, and applied research in the blog section of this site.
 
-  <p><strong>IT & Risk Management</strong> – Managed sensitive data and technical operations at Land Property Partners and Nutrition Outlet, ensuring secure workflows and compliance.</p>
-
-  <p><strong>Security Operations</strong> – Led incident response and process documentation at Secure Host Inc., implementing risk mitigation strategies and operational improvements.</p>
-
-  <p>While this page showcases a curated selection of my work, my full portfolio includes extensive MCSI labs, private reports, and live project demonstrations. Reach out to explore more.</p>
-</div>
+While only a curated selection of my work is public, my complete body of experience includes **90+ hands-on labs and reports.** This full scope of training—developed through independent study and advanced coursework with the Mossé Cyber Security Institute (MCSI)—demonstrates my expertise in **system administration**, **network security**, **incident response**, **digital forensics**, and **open-source intelligence (OSINT).**
