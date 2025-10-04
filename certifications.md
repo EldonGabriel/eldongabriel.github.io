@@ -152,8 +152,7 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 
 
 ---
-
-
+<br>
 <!-- MSAF – System Administration Fundamentals Section Header -->
 ### MSAF – System Administration Fundamentals
 **Number of Training Exercises:** 106
@@ -169,7 +168,7 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 
 <p><strong>Key Skills Demonstrated:</strong> Enterprise System Administration, Active Directory Management, GPO Deployment, Network Infrastructure Services.</p>
 
-<p><strong>Tasks:</strong></p>
+<p><strong>Tasks</strong></p>
 <ul>
 <li>Setup a Domain Controller in a cloud ICT environment</li>
 <li>Install a Squid proxy and force all Internet traffic through it</li>
@@ -222,8 +221,7 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 * **Procedures (0/1)**
 
 --- 
-
-
+<br>
 <!-- MOIS – Certified OSINT Expert Section Header -->
 ### MOIS – Certified OSINT Expert
 **Number of Training Exercises:** 64  
@@ -239,7 +237,7 @@ These modules are comprised of multi-step projects that simulate real-world OSIN
 
 <p><strong>Key Skills Demonstrated:</strong> Social media intelligence gathering, investigative research, data validation, critical thinking.</p>
 
-<p><strong>Tasks:</strong></p>
+<p><strong>Tasks</strong></p>
 <ul>
 <li>Construct search queries using standard operators on X</li>
 <li>Investigate an individual using their Facebook account</li>
@@ -256,7 +254,7 @@ These modules are comprised of multi-step projects that simulate real-world OSIN
 
 <p><strong>Key Skills Demonstrated:</strong> Dark Web navigation, threat intelligence collection, covert investigation, analytical reasoning.</p>
 
-<p><strong>Tasks:</strong></p>
+<p><strong>Tasks</strong></p>
 <ul>
 <li>Lab Setup: Tor Browser</li>
 <li>Use Search Engines on the Dark Web to find leaked data</li>
@@ -269,7 +267,7 @@ These modules are comprised of multi-step projects that simulate real-world OSIN
 
 <p><strong>Key Skills Demonstrated:</strong> Data organization, reporting, workflow design, professional documentation.</p>
 
-<p><strong>Tasks:</strong></p>
+<p><strong>Tasks</strong></p>
 <ul>
 <li>Create Mindmaps of all data points available on social media platforms and communities</li>
 <li>Develop an OSINT Report Template</li>
