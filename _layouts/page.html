@@ -18,8 +18,44 @@ layout: default
           <h1 id="page-title" class="page-title">{{ title }}</h1>
         {% endif %}
       </header>
+
       <div class="page-content">
         {{ content }}
+
+        {% if page.collection %}
+          <nav class="page-nav">
+            {% assign collection_docs = site[page.collection] | sort: "order" %}
+            {% assign current_index = 0 %}
+
+            {% for doc in collection_docs %}
+              {% if doc.url == page.url %}
+                {% break %}
+              {% endif %}
+              {% assign current_index = current_index | plus: 1 %}
+            {% endfor %}
+
+            {% assign prev_index = current_index | minus: 1 %}
+            {% assign next_index = current_index | plus: 1 %}
+
+            {% if prev_index >= 0 %}
+              <div class="prev-page">
+                &larr; Previous: 
+                <a href="{{ collection_docs[prev_index].url | relative_url }}">
+                  {{ collection_docs[prev_index].title }}
+                </a>
+              </div>
+            {% endif %}
+
+            {% if next_index < collection_docs.size %}
+              <div class="next-page">
+                Next: 
+                <a href="{{ collection_docs[next_index].url | relative_url }}">
+                  {{ collection_docs[next_index].title }}
+                </a> &rarr;
+              </div>
+            {% endif %}
+          </nav>
+        {% endif %}
 
         {% if page.share %}
           {% include social-share.html %}
@@ -28,3 +64,4 @@ layout: default
     </div>
   </article>
 </main>
+
