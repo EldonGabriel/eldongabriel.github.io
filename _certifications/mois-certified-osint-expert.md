@@ -1,16 +1,17 @@
 ---
-slug: mois-certified-osint-expert.md
 title: "MOIS – Certified OSINT Expert"
-image: 
-  path: /assets/images/headers/mois.png
-  thumbnail: /assets/images/headers/mois.png
+layout: page 
+slug: mois-certified-osint-expert
+image:
+  path: /assets/images/headers/msafsysadmin.png
+  thumbnail: /assets/images/headers/msafsysadmin.png
   caption: ""
-  order: 3
 ---
 
 <!-- MOIS – Certified OSINT Expert Section Header -->
-### MOIS – Certified OSINT Expert
-**Number of Training Exercises:** 64 | **Current Progress:** 8/56 pts (14%)
+<div style="text-align:center; margin: 20px 0;">
+  <strong>Number of Training Exercises:</strong> 64 | <strong>Current Progress:</strong> 8/56 pts (14%)
+</div>
 
 ### MOSINT Scenarios
 
