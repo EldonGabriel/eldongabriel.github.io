@@ -15,13 +15,14 @@ image:
   </h2>
 </section>
 
-<p>I'm <strong>Eldon Gabriel</strong>, an <strong>ISC² Certified Cybersecurity professional</strong> with <strong>90+ hands-on labs and reports</strong> completed. My training blends <em>independent projects</em> with <em>Mossé Cyber Security Institute (MCSI) labs</em> aligned to frameworks such as <strong>NIST NICE</strong>, <strong>US MOS</strong>, and the <strong>ASD Cyber Skills Framework</strong>.</p>
+<p>I'm <strong>Eldon Gabriel</strong>, an <strong>ISC² Certified Cybersecurity Professional</strong> and an <strong>AI Dataset Trainer</strong> with a founder’s mindset. I focus on <strong>high performance</strong> and turning <strong>complex technical problems</strong> into <strong>simple, effective security solutions</strong>.</p>
 
-<p>I focus on <strong>system administration</strong>, <strong>security operations</strong>, <strong>threat hunting</strong>, <strong>penetration testing</strong>, and <strong>digital forensics</strong>. My work turns technical research into practical solutions—<strong>clear documentation</strong>, <strong>automation scripts</strong>, and <strong>security processes</strong> that strengthen organizational defenses.</p>
+<p>My main focus areas are <strong>System Administration (MSAF – System Administration Fundamentals)</strong> and <strong>Open-Source Intelligence (MOIS – Certified OSINT Expert)</strong>. With a strong <strong>Windows</strong> background, I’ve learned how to apply <strong>key security controls</strong> and <strong>investigative techniques</strong>. My work produces real results, such as <strong>clear reports</strong>, <strong>automation scripts</strong>, and <strong>improved processes</strong> that make systems safer.</p>
 
-<p>Through real-world lab simulations, I’ve built experience analyzing vulnerabilities, investigating threats, and applying mitigation strategies using tools like <strong>YARA</strong>, <strong>Nmap</strong>, <strong>Wireshark</strong>, and <strong>Kali Linux</strong>.</p>
+<p>Through <em>hands-on labs</em>, I practice finding <strong>weaknesses</strong>, <strong>investigating threats</strong>, and <strong>applying fixes</strong> using tools like <strong>YARA</strong>, <strong>Nmap</strong>, <strong>Wireshark</strong>, and <strong>Kali Linux</strong>. I’ve completed more than <strong>90 projects and reports</strong>, combining <em>independent work</em> with <em>advanced training</em> at the <strong>Mossé Cyber Security Institute (MCSI)</strong>. My studies follow major industry standards, including <strong>NIST NICE</strong> and the <strong>ASD Cyber Skills Framework</strong>.</p>
 
-<p>Currently, I contribute to AI research as a <strong>Multimodal AI Dataset Trainer at Mercor</strong>, while continuing to expand my cybersecurity skills and investigative capabilities through independent projects and professional contributions.</p>
+<p>Right now, I also contribute to <strong>AI research at Mercor</strong>, building my skills while showing the <strong>strong work ethic</strong> needed to deliver <strong>real impact</strong> in <strong>cybersecurity</strong>.</p>
+
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 40px;">
     <a href="/certifications/" style="text-decoration: none; display: inline-block; padding: 12px 24px; font-weight: bold; border-radius: 5px; background-color: #73b4d5; color: #000; border: 2px solid #73b4d5; transition: background-color 0.3s, color 0.3s;">
