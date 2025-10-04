@@ -5,13 +5,15 @@
 {% endif %}
 
 <article class="entry h-entry">
-    <h3 class="entry-title p-name">
-    {% if entry.link %}
-      <a class="u-bookmark-of" href="{{ entry.link }}">{{ title }}</a> <a href="{{ entry.url | relative_url }}" rel="bookmark"><span class="link-arrow">&rarr;</span></a>
-    {% else %}
-      <a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }}</a>
-    {% endif %}
-  </h3>
+    {% unless page.layout == 'collection' %}
+<h3 class="entry-title p-name">
+  {% if entry.link %}
+    <a class="u-bookmark-of" href="{{ entry.link }}">{{ title }}</a> <a href="{{ entry.url | relative_url }}" rel="bookmark"><span class="link-arrow">&rarr;</span></a>
+  {% else %}
+    <a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }}</a>
+  {% endif %}
+</h3>
+{% endunless %}
     {% if entry.image.thumbnail %}
       {% assign entry_image = entry.image.thumbnail %}
       {% unless entry_image contains '://' %}
