@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Cyber Security"
-layout: page  
+layout: collection-item  
 slug: mics-intro-cyber-security
 collection: certifications
 collection_item: true
