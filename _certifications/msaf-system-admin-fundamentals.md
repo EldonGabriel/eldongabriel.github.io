@@ -75,5 +75,9 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 * **Linux Server 101 – Hardening (0/8)**
 * **Procedures (0/1)**
 
-
+<p style="text-align:center; margin-top: 40px;">
+  <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832" style="text-decoration: none; display: inline-block; padding: 12px 24px; font-weight: bold; border-radius: 5px; background-color: #73b4d5; color: #000; border: 2px solid #73b4d5; transition: background-color 0.3s, color 0.3s;">
+    View Career Development Milestones
+  </a>
+</p>
 ---
