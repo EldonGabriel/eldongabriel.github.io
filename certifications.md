@@ -158,10 +158,12 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 **Number of Training Exercises:** 106
 **Current Progress:** 28/84.5 pts (33%)
 
-#### Practical Scenarios
+### MSAF Scenarios
+
 These modules are comprised of multi-step projects that simulate real-world IT and cybersecurity tasks in a live enterprise environment.
 
-**Windows Server 101**
+#### Windows Server 101
+
 * **Description:** This scenario involves building a complete Windows enterprise environment from scratch, including a Domain Controller, file server, and web server.
 * **Key Skills Demonstrated:** Enterprise System Administration, Active Directory Management, GPO Deployment, Network Infrastructure Services.
 * **Tasks:**
@@ -178,7 +180,8 @@ These modules are comprised of multi-step projects that simulate real-world IT a
     * Create and configure 4 different subnets for the AD environment
     * Deploy a GPO that applies security best practices across the fleet of computers
 
-**Introduction to Exchange Server Administration**
+#### Introduction to Exchange Server Administration
+
 * **Description:** This scenario focuses on the installation, configuration, and security of an Exchange server, including digital forensics and SIEM integration.
 * **Key Skills Demonstrated:** Mail Server Administration, Digital Forensics, SIEM Integration, Email Security.
 * **Tasks:**
@@ -194,6 +197,7 @@ These modules are comprised of multi-step projects that simulate real-world IT a
     * Install and configure AlienVault OSSIM (SIEM)
 
 #### Completed Modules
+
 * **Virtualization Fundamentals (9/9)**
 * **Networking Fundamentals (4/4)**
 * **Windows System Security and Administration – Part 1 (7/7)**
@@ -217,27 +221,58 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 
 ### MOSINT Scenarios
 
+These modules are comprised of multi-step projects that simulate real-world OSINT tasks in a live investigative environment.
+
 #### SOCMINT Challenges
-* **Description:** These scenarios focus on gathering and analyzing intelligence from social media platforms to investigate individuals, organizations, and events.  
-- Construct search queries using standard operators on X  
-- Investigate an individual using their Facebook account  
-- Use Facebook’s search feature to investigate an event  
-- Investigate a target organization on Facebook  
-- Use OSINT to retrieve data about an individual that is exclusive to the LinkedIn platform  
-- Validate information found in publicly posted content on X  
-- Use OSINT to investigate Instagram Reels posted in foreign languages  
+
+* **Description:** These scenarios focus on gathering and analyzing intelligence from social media platforms to investigate individuals, organizations, and events.
+* **Key Skills Demonstrated:** Social media intelligence gathering, investigative research, data validation, critical thinking.
+* **Tasks:**
+    * Construct search queries using standard operators on X
+    * Investigate an individual using their Facebook account
+    * Use Facebook’s search feature to investigate an event
+    * Investigate a target organization on Facebook
+    * Use OSINT to retrieve data about an individual that is exclusive to the LinkedIn platform
+    * Validate information found in publicly posted content on X
+    * Use OSINT to investigate Instagram Reels posted in foreign languages
 
 #### Dark Web
-* **Description:** These tasks involve setting up tools and performing investigations on the Dark Web to uncover leaked data and APT activity.  
-- Lab Setup: Tor Browser  
-- Use Search Engines on the Dark Web to find leaked data  
-- Gather intelligence on the Dark Web about an active Advanced Persistent Threat (APT)  
+
+* **Description:** These tasks involve setting up tools and performing investigations on the Dark Web to uncover leaked data and APT activity.
+* **Key Skills Demonstrated:** Dark Web navigation, threat intelligence collection, covert investigation, analytical reasoning.
+* **Tasks:**
+    * Lab Setup: Tor Browser
+    * Use Search Engines on the Dark Web to find leaked data
+    * Gather intelligence on the Dark Web about an active Advanced Persistent Threat (APT)
 
 #### Documentation, Reports and Procedures
-* **Description:** These exercises focus on structuring OSINT findings into professional outputs such as mindmaps, report templates, and workflows.  
-- Create Mindmaps of all data points available on social media platforms and communities  
-- Develop an OSINT Report Template  
-- Develop Workflow Diagrams to guide OSINT Investigations  
+
+* **Description:** These exercises focus on structuring OSINT findings into professional outputs such as mindmaps, report templates, and workflow diagrams.
+* **Key Skills Demonstrated:** Data organization, reporting, workflow design, professional documentation.
+* **Tasks:**
+    * Create Mindmaps of all data points available on social media platforms and communities
+    * Develop an OSINT Report Template
+    * Develop Workflow Diagrams to guide OSINT Investigations
+
+#### Completed Modules
+
+* **Quickstarter (1/6)**
+* **Key Concepts (0/2)**
+* **IT Environment Setup (1/2)**
+* **Search Engines (4/10)**
+* **Usernames (0/1)**
+* **Email Addresses (0/3)**
+* **Telephone Numbers (0/1)**
+* **Documents (0/3)**
+* **IP Addresses and Domain Names (0/2)**
+* **Images and Videos (0/4)**
+* **Online Maps (0/3)**
+* **Generative AI and Deep Fakes (0/3)**
+* **Online Communities (0/2)**
+* **Software Code (1/2)**
+* **Dark Web (0/3)**
+* **Social Media Intelligence – SOCMINT (0/7)**
+* **Documentation, Reports and Procedures (1/3)**
 
 #### Completed Modules
 * **Quickstarter (1/6)**
