@@ -235,40 +235,46 @@ These modules are comprised of multi-step projects that simulate real-world OSIN
 
 #### SOCMINT Challenges
 
-**Description:** These scenarios focus on gathering and analyzing intelligence from social media platforms to investigate individuals, organizations, and events.
+<p><strong>Description:</strong> These scenarios focus on gathering and analyzing intelligence from social media platforms to investigate individuals, organizations, and events.</p>
 
-**Key Skills Demonstrated:** Social media intelligence gathering, investigative research, data validation, critical thinking.
+<p><strong>Key Skills Demonstrated:</strong> Social media intelligence gathering, investigative research, data validation, critical thinking.</p>
 
-**Tasks:**
-    * Construct search queries using standard operators on X
-    * Investigate an individual using their Facebook account
-    * Use Facebook’s search feature to investigate an event
-    * Investigate a target organization on Facebook
-    * Use OSINT to retrieve data about an individual that is exclusive to the LinkedIn platform
-    * Validate information found in publicly posted content on X
-    * Use OSINT to investigate Instagram Reels posted in foreign languages
+<p><strong>Tasks:</strong></p>
+<ul>
+<li>Construct search queries using standard operators on X</li>
+<li>Investigate an individual using their Facebook account</li>
+<li>Use Facebook’s search feature to investigate an event</li>
+<li>Investigate a target organization on Facebook</li>
+<li>Use OSINT to retrieve data about an individual that is exclusive to the LinkedIn platform</li>
+<li>Validate information found in publicly posted content on X</li>
+<li>Use OSINT to investigate Instagram Reels posted in foreign languages</li>
+</ul>
 
 #### Dark Web
 
-**Description:** These tasks involve setting up tools and performing investigations on the Dark Web to uncover leaked data and APT activity.
+<p><strong>Description:</strong> These tasks involve setting up tools and performing investigations on the Dark Web to uncover leaked data and APT activity.</p>
 
-**Key Skills Demonstrated:** Dark Web navigation, threat intelligence collection, covert investigation, analytical reasoning.
+<p><strong>Key Skills Demonstrated:</strong> Dark Web navigation, threat intelligence collection, covert investigation, analytical reasoning.</p>
 
-**Tasks:**
-    * Lab Setup: Tor Browser
-    * Use Search Engines on the Dark Web to find leaked data
-    * Gather intelligence on the Dark Web about an active Advanced Persistent Threat (APT)
+<p><strong>Tasks:</strong></p>
+<ul>
+<li>Lab Setup: Tor Browser</li>
+<li>Use Search Engines on the Dark Web to find leaked data</li>
+<li>Gather intelligence on the Dark Web about an active Advanced Persistent Threat (APT)</li>
+</ul>
 
 #### Documentation, Reports and Procedures
 
-**Description:** These exercises focus on structuring OSINT findings into professional outputs such as mindmaps, report templates, and workflow diagrams.
+<p><strong>Description:</strong> These exercises focus on structuring OSINT findings into professional outputs such as mindmaps, report templates, and workflow diagrams.</p>
 
-**Key Skills Demonstrated:** Data organization, reporting, workflow design, professional documentation.
+<p><strong>Key Skills Demonstrated:</strong> Data organization, reporting, workflow design, professional documentation.</p>
 
-**Tasks:**
-    * Create Mindmaps of all data points available on social media platforms and communities
-    * Develop an OSINT Report Template
-    * Develop Workflow Diagrams to guide OSINT Investigations
+<p><strong>Tasks:</strong></p>
+<ul>
+<li>Create Mindmaps of all data points available on social media platforms and communities</li>
+<li>Develop an OSINT Report Template</li>
+<li>Develop Workflow Diagrams to guide OSINT Investigations</li>
+</ul>
 
 #### Completed Modules
 
