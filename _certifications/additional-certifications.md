@@ -1,6 +1,6 @@
 ---
 title: "Additional Certifications"
-layout: page 
+layout: collection-item 
 slug: additional-certifications
 collection: certifications
 collection_item: true
