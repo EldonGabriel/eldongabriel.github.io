@@ -1,5 +1,6 @@
 ---
-title: "MOIS – Certified OSINT Expert"
+slug: mois-certified-osint-expert.md
+title: ""
 image: 
   path: /assets/images/headers/mois.png
   thumbnail: /assets/images/headers/mois.png
