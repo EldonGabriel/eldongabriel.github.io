@@ -1,6 +1,6 @@
 ---
 title: "Certified OSINT Expert"
-layout: page 
+layout: collection-item 
 slug: mois-certified-osint-expert
 collection: certifications
 collection_item: true
