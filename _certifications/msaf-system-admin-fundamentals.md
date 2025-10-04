@@ -4,6 +4,7 @@ image:
   path: /assets/images/headers/msafsysadmin.png
   thumbnail: /assets/images/headers/msafsysadmin.png
   caption: ""
+  order: 2
 ---
 
 <!-- MSAF – System Administration Fundamentals Section Header -->
