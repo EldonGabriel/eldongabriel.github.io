@@ -170,18 +170,18 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 **Key Skills Demonstrated:** Enterprise System Administration, Active Directory Management, GPO Deployment, Network Infrastructure Services.
 
 **Tasks:**
-    - Setup a Domain Controller in a cloud ICT environment
-    - Install a Squid proxy and force all Internet traffic through it
-    - Create and link a GPO to a Domain Controller
-    - Create an Active Directory Forest
-    - Setup a file server and connect it to a domain
-    - Setup a Windows Exchange Server and expose relevant network services
-    - Setup a machine that will simulate a Windows workstation and connect it to the domain
-    - Setup a machine that will simulate a Print Server and connect it to the domain
-    - Set user permissions to allow/deny access to File Shares
-    - Deploy and configure an IIS webserver
-    - Create and configure 4 different subnets for the AD environment
-    -` Deploy a GPO that applies security best practices across the fleet of computers
+    * Setup a Domain Controller in a cloud ICT environment
+    * Install a Squid proxy and force all Internet traffic through it
+    * Create and link a GPO to a Domain Controller
+    * Create an Active Directory Forest
+    * Setup a file server and connect it to a domain
+    * Setup a Windows Exchange Server and expose relevant network services
+    * Setup a machine that will simulate a Windows workstation and connect it to the domain
+    * Setup a machine that will simulate a Print Server and connect it to the domain
+    * Set user permissions to allow/deny access to File Shares
+    * Deploy and configure an IIS webserver
+    * Create and configure 4 different subnets for the AD environment
+    * Deploy a GPO that applies security best practices across the fleet of computers
 
 #### Introduction to Exchange Server Administration
 
@@ -190,16 +190,16 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 **Key Skills Demonstrated:** Mail Server Administration, Digital Forensics, SIEM Integration, Email Security.
 
 **Tasks:**
-    - Install and configure an Exchange server and connect it to a domain
-    - Create 10 exchange mailbox accounts
-    - Research and explain Exchange server audit logs for digital forensics
-    - Enable Administration Audit logs on your exchange server
-    - Delegate a mailbox from one user to another
-    - Setup mail forwarding from one mailbox to another
-    - Create an Email distribution group
-    - Create an Email security group
-    - Run a mail trace on a user's mailbox
-    - Install and configure AlienVault OSSIM (SIEM)
+    * Install and configure an Exchange server and connect it to a domain
+    * Create 10 exchange mailbox accounts
+    * Research and explain Exchange server audit logs for digital forensics
+    * Enable Administration Audit logs on your exchange server
+    * Delegate a mailbox from one user to another
+    * Setup mail forwarding from one mailbox to another
+    * Create an Email distribution group
+    * Create an Email security group
+    * Run a mail trace on a user's mailbox
+    * Install and configure AlienVault OSSIM (SIEM)
 
 #### Completed Modules
 
