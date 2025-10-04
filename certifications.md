@@ -162,7 +162,7 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 
 These modules are comprised of multi-step projects that simulate real-world IT and cybersecurity tasks in a live enterprise environment.
 
-#### Windows Server 101
+### Windows Server 101
 
 <p><strong>Description:</strong> This scenario involves building a complete Windows enterprise environment from scratch, including a Domain Controller, file server, and web server.</p>
 
@@ -184,7 +184,7 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 <li>Deploy a GPO that applies security best practices across the fleet of computers</li>
 </ul>
 
-#### Introduction to Exchange Server Administration
+### Introduction to Exchange Server Administration
 
 <p><strong>Description:</strong> This scenario focuses on the installation, configuration, and security of an Exchange server, including digital forensics and SIEM integration.</p>
 
@@ -204,7 +204,7 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 <li>Install and configure AlienVault OSSIM (SIEM)</li>
 </ul>
 
-#### Completed Modules
+### Completed Modules
 
 * **Virtualization Fundamentals (9/9)**
 * **Networking Fundamentals (4/4)**
@@ -232,7 +232,7 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 
 These modules are comprised of multi-step projects that simulate real-world OSINT tasks in a live investigative environment.
 
-#### SOCMINT Challenges
+### SOCMINT Challenges
 
 <p><strong>Description:</strong> These scenarios focus on gathering and analyzing intelligence from social media platforms to investigate individuals, organizations, and events.</p>
 
@@ -249,7 +249,7 @@ These modules are comprised of multi-step projects that simulate real-world OSIN
 <li>Use OSINT to investigate Instagram Reels posted in foreign languages</li>
 </ul>
 
-#### Dark Web
+### Dark Web
 
 <p><strong>Description:</strong> These tasks involve setting up tools and performing investigations on the Dark Web to uncover leaked data and APT activity.</p>
 
@@ -262,7 +262,7 @@ These modules are comprised of multi-step projects that simulate real-world OSIN
 <li>Gather intelligence on the Dark Web about an active Advanced Persistent Threat (APT)</li>
 </ul>
 
-#### Documentation, Reports and Procedures
+### Documentation, Reports and Procedures
 
 <p><strong>Description:</strong> These exercises focus on structuring OSINT findings into professional outputs such as mindmaps, report templates, and workflow diagrams.</p>
 
@@ -275,7 +275,7 @@ These modules are comprised of multi-step projects that simulate real-world OSIN
 <li>Develop Workflow Diagrams to guide OSINT Investigations</li>
 </ul>
 
-#### Completed Modules
+### Completed Modules
 
 * **Quickstarter (1/6)**
 * **Key Concepts (0/2)**
