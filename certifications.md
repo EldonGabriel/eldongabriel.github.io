@@ -163,43 +163,45 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 
 These modules are comprised of multi-step projects that simulate real-world IT and cybersecurity tasks in a live enterprise environment.
 
-#### Windows Server 101
+<h5><strong>Windows Server 101</strong></h5>
+<p><strong>Description:</strong> This scenario involves building a complete Windows enterprise environment from scratch, including a Domain Controller, file server, and web server.</p>
 
-**Description:** This scenario involves building a complete Windows enterprise environment from scratch, including a Domain Controller, file server, and web server.
+<p><strong>Key Skills Demonstrated:</strong> Enterprise System Administration, Active Directory Management, GPO Deployment, Network Infrastructure Services.</p>
 
-**Key Skills Demonstrated:** Enterprise System Administration, Active Directory Management, GPO Deployment, Network Infrastructure Services.
+<p><strong>Tasks:</strong></p>
+<ul>
+<li>Setup a Domain Controller in a cloud ICT environment</li>
+<li>Install a Squid proxy and force all Internet traffic through it</li>
+<li>Create and link a GPO to a Domain Controller</li>
+<li>Create an Active Directory Forest</li>
+<li>Setup a file server and connect it to a domain</li>
+<li>Setup a Windows Exchange Server and expose relevant network services</li>
+<li>Setup a machine that will simulate a Windows workstation and connect it to the domain</li>
+<li>Setup a machine that will simulate a Print Server and connect it to the domain</li>
+<li>Set user permissions to allow/deny access to File Shares</li>
+<li>Deploy and configure an IIS webserver</li>
+<li>Create and configure 4 different subnets for the AD environment</li>
+<li>Deploy a GPO that applies security best practices across the fleet of computers</li>
+</ul>
 
-**Tasks:**
-    * Setup a Domain Controller in a cloud ICT environment
-    * Install a Squid proxy and force all Internet traffic through it
-    * Create and link a GPO to a Domain Controller
-    * Create an Active Directory Forest
-    * Setup a file server and connect it to a domain
-    * Setup a Windows Exchange Server and expose relevant network services
-    * Setup a machine that will simulate a Windows workstation and connect it to the domain
-    * Setup a machine that will simulate a Print Server and connect it to the domain
-    * Set user permissions to allow/deny access to File Shares
-    * Deploy and configure an IIS webserver
-    * Create and configure 4 different subnets for the AD environment
-    * Deploy a GPO that applies security best practices across the fleet of computers
+<h5><strong>Introduction to Exchange Server Administration</strong></h5>
+<p><strong>Description:</strong> This scenario focuses on the installation, configuration, and security of an Exchange server, including digital forensics and SIEM integration.</p>
 
-#### Introduction to Exchange Server Administration
+<p><strong>Key Skills Demonstrated:</strong> Mail Server Administration, Digital Forensics, SIEM Integration, Email Security.</p>
 
-**Description:** This scenario focuses on the installation, configuration, and security of an Exchange server, including digital forensics and SIEM integration.
- 
-**Key Skills Demonstrated:** Mail Server Administration, Digital Forensics, SIEM Integration, Email Security.
-
-**Tasks:**
-    * Install and configure an Exchange server and connect it to a domain
-    * Create 10 exchange mailbox accounts
-    * Research and explain Exchange server audit logs for digital forensics
-    * Enable Administration Audit logs on your exchange server
-    * Delegate a mailbox from one user to another
-    * Setup mail forwarding from one mailbox to another
-    * Create an Email distribution group
-    * Create an Email security group
-    * Run a mail trace on a user's mailbox
-    * Install and configure AlienVault OSSIM (SIEM)
+<p><strong>Tasks:</strong></p>
+<ul>
+<li>Install and configure an Exchange server and connect it to a domain</li>
+<li>Create 10 exchange mailbox accounts</li>
+<li>Research and explain Exchange server audit logs for digital forensics</li>
+<li>Enable Administration Audit logs on your exchange server</li>
+<li>Delegate a mailbox from one user to another</li>
+<li>Setup mail forwarding from one mailbox to another</li>
+<li>Create an Email distribution group</li>
+<li>Create an Email security group</li>
+<li>Run a mail trace on a user's mailbox</li>
+<li>Install and configure AlienVault OSSIM (SIEM)</li>
+</ul>
 
 #### Completed Modules
 
