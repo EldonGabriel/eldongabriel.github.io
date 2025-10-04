@@ -1,13 +1,12 @@
 ---
-slug: addtional-certifications
 title: "Additional Certifications"
-image: 
-  path: /assets/images/headers/addcert.png
-  thumbnail: /assets/images/headers/addcert.png
-  caption: "A curated list of additional certifications and hands-on labs that strengthen foundational IT and cybersecurity skills."
-  order: 4
+layout: page 
+slug: addtional-certifications
+image:
+  path: /assets/images/headers/msafsysadmin.png
+  thumbnail: /assets/images/headers/msafsysadmin.png
+  caption: ""
 ---
-
 <!-- Excerpt for collection page -->
 {% capture excerpt %}
 A curated list of additional certifications and hands-on labs that strengthen foundational IT and cybersecurity skills.
