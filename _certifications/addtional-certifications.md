@@ -6,14 +6,6 @@ image:
   caption: ""
 ---
 
-<!-- Additional Certifications Section Header -->
-<section style="text-align:center; margin: 60px 0;">
-  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
-    Additional Certifications
-    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
-  </h2>
-</section>
-
 * **ISC2 Certified in Cybersecurity (CC):** This globally-recognized certification validates my foundational knowledge in key cybersecurity domains, including security principles, business continuity, and risk management.
 * **KCCS - Knowledge of Cybersecurity Skills:** This certification affirms my theoretical knowledge of essential cybersecurity concepts, including network security, threat analysis, and incident response, providing a strong foundation for professional development.
 * **KCIS - Knowledge of Core IT Skills:** This certification validates my understanding of fundamental IT principles, encompassing hardware, software, networking, and troubleshooting, serving as a solid stepping stone for further technical learning.
