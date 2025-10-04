@@ -1,5 +1,5 @@
 ---
-title: "MICS – Introduction to Cyber Security"
+title: "Introduction to Cyber Security"
 layout: page  
 slug: mics-intro-cyber-security
 image:
