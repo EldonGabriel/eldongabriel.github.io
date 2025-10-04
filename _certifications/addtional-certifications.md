@@ -4,6 +4,7 @@ image:
   path: /assets/images/headers/addcert.png
   thumbnail: /assets/images/headers/addcert.png
   caption: ""
+  order: 4
 ---
 
 * **ISC2 Certified in Cybersecurity (CC):** This globally-recognized certification validates my foundational knowledge in key cybersecurity domains, including security principles, business continuity, and risk management.
