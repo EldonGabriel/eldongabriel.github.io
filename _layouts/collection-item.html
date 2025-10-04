@@ -5,21 +5,18 @@ layout: default
 <main id="main" class="main-content" aria-label="Content">
   <article class="h-entry">
     {% include page-image.html %}
+
     <div class="page-wrapper">
       <header class="page-header">
         {% assign title = page.title | markdownify | strip_html %}
         {% if page.link %}
-          <h1 id="page-title" class="page-title p-name"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
+          <h1 id="page-title" class="page-title p-name">
+            <a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a>
+          </h1>
         {% else %}
           <h1 id="page-title" class="page-title p-name">{{ title }}</h1>
         {% endif %}
       </header>
-
-      <div class="page-sidebar">
-        {% include page-author.html %}
-        {% include page-categories.html %}
-        {% include page-tags.html %}
-      </div>
 
       <div class="page-content">
         <div class="e-content">
@@ -29,13 +26,43 @@ layout: default
         {% if page.share %}
           {% include social-share.html %}
         {% endif %}
-
-        {% if site.disqus.shortname %}
-          {% include disqus-comments.html %}
-        {% endif %}
-
-        {% include page-pagination.html %}
       </div>
+
+      <!-- Collection Navigation -->
+      {% if page.collection %}
+        {% assign collection_docs = site[page.collection] | sort: "order" %}
+        {% assign current_index = 0 %}
+
+        {% for doc in collection_docs %}
+          {% if doc.url == page.url %}
+            {% break %}
+          {% endif %}
+          {% assign current_index = current_index | plus: 1 %}
+        {% endfor %}
+
+        {% assign prev_index = current_index | minus: 1 %}
+        {% assign next_index = current_index | plus: 1 %}
+
+        <nav class="page-pagination" role="navigation">
+          {% if prev_index >= 0 %}
+            <a class="page-previous" href="{{ collection_docs[prev_index].url | relative_url }}">
+              <h4 class="page-pagination-label">Previous</h4>
+              <span class="page-pagination-title">
+                <i class="fas fa-arrow-left"></i> {{ collection_docs[prev_index].title | markdownify | strip_html }}
+              </span>
+            </a>
+          {% endif %}
+
+          {% if next_index < collection_docs.size %}
+            <a class="page-next" href="{{ collection_docs[next_index].url | relative_url }}">
+              <h4 class="page-pagination-label">Next</h4>
+              <span class="page-pagination-title">
+                {{ collection_docs[next_index].title | markdownify | strip_html }} <i class="fas fa-arrow-right"></i>
+              </span>
+            </a>
+          {% endif %}
+        </nav>
+      {% endif %}
     </div>
   </article>
 </main>
