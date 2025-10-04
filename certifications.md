@@ -83,7 +83,7 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 
 <!-- MICS – Introduction to Cyber Security Section Header -->
 ### MICS – Introduction to Cyber Security
-**Number of training exercises:** 40
+**Number of Training Exercises:** 40
 **Current Progress:** 39 out of 39 pts (100%)
 
 #### Lab Setup
@@ -149,7 +149,7 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 #### Digital Investigations
 * Use Dumpzilla to extract forensics browser logs
 * Use PE Studio to analyze 5 files on your computer
-<br>
+
 
 ---
 <br>
@@ -219,7 +219,8 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 * **Linux Server 101 – Networking (0/5)**
 * **Linux Server 101 – Hardening (0/8)**
 * **Procedures (0/1)**
-<br>
+
+
 ---
 <br>
 <!-- MOIS – Certified OSINT Expert Section Header -->
