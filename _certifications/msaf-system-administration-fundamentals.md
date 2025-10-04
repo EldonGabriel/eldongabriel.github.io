@@ -1,6 +1,6 @@
 ---
 title: "System Administration Fundamentals"
-layout: page  # <-- must be 'page' or a layout that loads your CSS/skin
+layout: collection-item
 slug: msaf-system-administration-fundamentals
 collection: certifications
 collection_item: true
