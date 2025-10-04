@@ -3,9 +3,8 @@ title: "Additional Certifications"
 image: 
   path: /assets/images/headers/addcert.png
   thumbnail: /assets/images/headers/addcert.png
-  caption: ""
+  caption: "A curated list of additional certifications and hands-on labs that strengthen foundational IT and cybersecurity skills."
   order: 4
-  excerpt: "A curated list of additional certifications and hands-on labs that strengthen foundational IT and cybersecurity skills."
 ---
 
 <!-- Excerpt for collection page -->
