@@ -153,6 +153,7 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 
 ---
 
+
 <!-- MSAF – System Administration Fundamentals Section Header -->
 ### MSAF – System Administration Fundamentals
 **Number of Training Exercises:** 106
@@ -164,9 +165,11 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 
 #### Windows Server 101
 
-* **Description:** This scenario involves building a complete Windows enterprise environment from scratch, including a Domain Controller, file server, and web server.
-* **Key Skills Demonstrated:** Enterprise System Administration, Active Directory Management, GPO Deployment, Network Infrastructure Services.
-* **Tasks:**
+**Description:** This scenario involves building a complete Windows enterprise environment from scratch, including a Domain Controller, file server, and web server.
+
+**Key Skills Demonstrated:** Enterprise System Administration, Active Directory Management, GPO Deployment, Network Infrastructure Services.
+
+**Tasks:**
     * Setup a Domain Controller in a cloud ICT environment
     * Install a Squid proxy and force all Internet traffic through it
     * Create and link a GPO to a Domain Controller
@@ -182,9 +185,11 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 
 #### Introduction to Exchange Server Administration
 
-* **Description:** This scenario focuses on the installation, configuration, and security of an Exchange server, including digital forensics and SIEM integration.
-* **Key Skills Demonstrated:** Mail Server Administration, Digital Forensics, SIEM Integration, Email Security.
-* **Tasks:**
+**Description:** This scenario focuses on the installation, configuration, and security of an Exchange server, including digital forensics and SIEM integration.
+ 
+**Key Skills Demonstrated:** Mail Server Administration, Digital Forensics, SIEM Integration, Email Security.
+
+**Tasks:**
     * Install and configure an Exchange server and connect it to a domain
     * Create 10 exchange mailbox accounts
     * Research and explain Exchange server audit logs for digital forensics
@@ -212,7 +217,8 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 * **Linux Server 101 – Hardening (0/8)**
 * **Procedures (0/1)**
 
----
+--- 
+
 
 <!-- MOIS – Certified OSINT Expert Section Header -->
 ### MOIS – Certified OSINT Expert
@@ -225,9 +231,11 @@ These modules are comprised of multi-step projects that simulate real-world OSIN
 
 #### SOCMINT Challenges
 
-* **Description:** These scenarios focus on gathering and analyzing intelligence from social media platforms to investigate individuals, organizations, and events.
-* **Key Skills Demonstrated:** Social media intelligence gathering, investigative research, data validation, critical thinking.
-* **Tasks:**
+**Description:** These scenarios focus on gathering and analyzing intelligence from social media platforms to investigate individuals, organizations, and events.
+
+**Key Skills Demonstrated:** Social media intelligence gathering, investigative research, data validation, critical thinking.
+
+**Tasks:**
     * Construct search queries using standard operators on X
     * Investigate an individual using their Facebook account
     * Use Facebook’s search feature to investigate an event
@@ -238,43 +246,28 @@ These modules are comprised of multi-step projects that simulate real-world OSIN
 
 #### Dark Web
 
-* **Description:** These tasks involve setting up tools and performing investigations on the Dark Web to uncover leaked data and APT activity.
-* **Key Skills Demonstrated:** Dark Web navigation, threat intelligence collection, covert investigation, analytical reasoning.
-* **Tasks:**
+**Description:** These tasks involve setting up tools and performing investigations on the Dark Web to uncover leaked data and APT activity.
+
+**Key Skills Demonstrated:** Dark Web navigation, threat intelligence collection, covert investigation, analytical reasoning.
+
+**Tasks:**
     * Lab Setup: Tor Browser
     * Use Search Engines on the Dark Web to find leaked data
     * Gather intelligence on the Dark Web about an active Advanced Persistent Threat (APT)
 
 #### Documentation, Reports and Procedures
 
-* **Description:** These exercises focus on structuring OSINT findings into professional outputs such as mindmaps, report templates, and workflow diagrams.
-* **Key Skills Demonstrated:** Data organization, reporting, workflow design, professional documentation.
-* **Tasks:**
+**Description:** These exercises focus on structuring OSINT findings into professional outputs such as mindmaps, report templates, and workflow diagrams.
+
+**Key Skills Demonstrated:** Data organization, reporting, workflow design, professional documentation.
+
+**Tasks:**
     * Create Mindmaps of all data points available on social media platforms and communities
     * Develop an OSINT Report Template
     * Develop Workflow Diagrams to guide OSINT Investigations
 
 #### Completed Modules
 
-* **Quickstarter (1/6)**
-* **Key Concepts (0/2)**
-* **IT Environment Setup (1/2)**
-* **Search Engines (4/10)**
-* **Usernames (0/1)**
-* **Email Addresses (0/3)**
-* **Telephone Numbers (0/1)**
-* **Documents (0/3)**
-* **IP Addresses and Domain Names (0/2)**
-* **Images and Videos (0/4)**
-* **Online Maps (0/3)**
-* **Generative AI and Deep Fakes (0/3)**
-* **Online Communities (0/2)**
-* **Software Code (1/2)**
-* **Dark Web (0/3)**
-* **Social Media Intelligence – SOCMINT (0/7)**
-* **Documentation, Reports and Procedures (1/3)**
-
-#### Completed Modules
 * **Quickstarter (1/6)**
 * **Key Concepts (0/2)**
 * **IT Environment Setup (1/2)**
