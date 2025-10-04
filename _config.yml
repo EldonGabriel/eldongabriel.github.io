@@ -42,7 +42,7 @@ plugins:
 collections:
   certifications:
     output: true
-    permalink: /certifications/
+    permalink: /certifications/:slug/
 
 # Feed
 feed:
