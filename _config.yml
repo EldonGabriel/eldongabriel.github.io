@@ -42,7 +42,7 @@ plugins:
 collections:
   certifications:
     output: true
-    permalink: /certifications/:title/
+    permalink: /certifications/
 
 # Feed
 feed:
