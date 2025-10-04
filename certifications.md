@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Certifications
 layout: collection
 permalink: /certifications/
 collection: certifications
