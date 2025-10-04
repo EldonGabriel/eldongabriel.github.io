@@ -10,8 +10,7 @@ order: 2
 ---
 
 <!-- MSAF – System Administration Fundamentals Section Header -->
-### MSAF – System Administration Fundamentals
-**Number of Training Exercises:** 106 | **Current Progress:** 28/84.5 pts (33%)
+<center>**Number of Training Exercises:** 106 | **Current Progress:** 28/84.5 pts (33%)</center>
 
 ### MSAF Scenarios
 
