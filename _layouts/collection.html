@@ -1,44 +1,33 @@
 ---
-layout: page
+layout: default
 ---
 
-{{ content }}
+<main id="main" class="main-content" aria-label="Content">
+  <article>
+    {% include page-image.html %}
 
-<div class="entries-{{ page.entries_layout | default: 'list' }}">
-  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order %}
-</div>
+    <div class="page-wrapper">
+      <header class="page-header">
+        {% assign title = page.title | markdownify | strip_html %}
+        <h1 id="page-title" class="page-title">{{ title }}</h1>
+      </header>
 
-{% if page.collection %}
-  {% assign collection_docs = site[page.collection] | sort: "order" %}
-  {% assign current_index = 0 %}
+      <div class="page-content">
+        {{ content }}
 
-  {% for doc in collection_docs %}
-    {% if doc.url == page.url %}
-      {% break %}
-    {% endif %}
-    {% assign current_index = current_index | plus: 1 %}
-  {% endfor %}
+        <div class="entries-{{ page.entries_layout | default: 'list' }}">
+          {% include documents-collection.html 
+            collection=page.collection 
+            sort_by=page.sort_by 
+            sort_order=page.sort_order 
+          %}
+        </div>
 
-  {% assign prev_index = current_index | minus: 1 %}
-  {% assign next_index = current_index | plus: 1 %}
+        {% if page.share %}
+          {% include social-share.html %}
+        {% endif %}
+      </div>
+    </div>
+  </article>
+</main>
 
-  <nav class="page-pagination" role="navigation">
-    {% if prev_index >= 0 %}
-      <a class="page-previous" href="{{ collection_docs[prev_index].url | relative_url }}">
-        <h4 class="page-pagination-label">{{ site.data.text[site.locale].previous | default: 'Previous' }}</h4>
-        <span class="page-pagination-title">
-          <i class="fas fa-arrow-left"></i> {{ collection_docs[prev_index].title | markdownify | strip_html }}
-        </span>
-      </a>
-    {% endif %}
-
-    {% if next_index < collection_docs.size %}
-      <a class="page-next" href="{{ collection_docs[next_index].url | relative_url }}">
-        <h4 class="page-pagination-label">{{ site.data.text[site.locale].next | default: 'Next' }}</h4>
-        <span class="page-pagination-title">
-          {{ collection_docs[next_index].title | markdownify | strip_html }} <i class="fas fa-arrow-right"></i>
-        </span>
-      </a>
-    {% endif %}
-  </nav>
-{% endif %}
