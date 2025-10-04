@@ -3,6 +3,7 @@ title: "Introduction to Cyber Security"
 layout: page  
 slug: mics-intro-cyber-security
 collection: certifications
+collection_item: true
 order: 2
 image:
   path: /assets/images/headers/mics.png
