@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<main id="main" class="main-content" aria-label="Content">
+ <main id="main" class="main-content" aria-label="Content">
   <article>
     {% include page-image.html %}
     <div class="page-wrapper">
@@ -18,11 +18,45 @@ layout: default
           <h1 id="page-title" class="page-title">{{ title }}</h1>
         {% endif %}
       </header>
+
       <div class="page-content">
         {{ content }}
 
         {% if page.share %}
           {% include social-share.html %}
+        {% endif %}
+
+        {%- comment -%}
+        Only show pagination if this page is a collection document
+        (i.e., has a collection assigned AND it's not the landing page)
+        {%- endcomment -%}
+        {% if page.collection and page.layout != "collection" %}
+          <nav class="page-pagination" role="navigation">
+            {% assign collection_docs = site[page.collection] | sort: "order" %}
+            {% assign current_index = 0 %}
+
+            {% for doc in collection_docs %}
+              {% if doc.url == page.url %}
+                {% break %}
+              {% endif %}
+              {% assign current_index = current_index | plus: 1 %}
+            {% endfor %}
+
+            {% assign prev_index = current_index | minus: 1 %}
+            {% assign next_index = current_index | plus: 1 %}
+
+            {% if prev_index >= 0 %}
+              <a class="page-previous" href="{{ collection_docs[prev_index].url | relative_url }}">
+                &larr; {{ collection_docs[prev_index].title }}
+              </a>
+            {% endif %}
+
+            {% if next_index < collection_docs.size %}
+              <a class="page-next" href="{{ collection_docs[next_index].url | relative_url }}">
+                {{ collection_docs[next_index].title }} &rarr;
+              </a>
+            {% endif %}
+          </nav>
         {% endif %}
       </div>
     </div>
