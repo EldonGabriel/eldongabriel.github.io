@@ -3,8 +3,8 @@ title: "Additional Certifications"
 layout: page 
 slug: addtional-certifications
 image:
-  path: /assets/images/headers/msafsysadmin.png
-  thumbnail: /assets/images/headers/msafsysadmin.png
+  path: /assets/images/headers/addcert.png
+  thumbnail: /assets/images/headers/addcert.png
   caption: ""
 ---
 <!-- Excerpt for collection page -->
