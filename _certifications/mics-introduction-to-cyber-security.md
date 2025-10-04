@@ -1,5 +1,6 @@
 ---
-title: ""
+slug: mics-intro-cyber-security
+title: "MICS – Introduction to Cyber Security"
 image: 
   path: /assets/images/headers/mics.png
   thumbnail: /assets/images/headers/mics.png
@@ -8,7 +9,8 @@ image:
 
 <!-- MICS – Introduction to Cyber Security Section Header -->
 ### MICS – Introduction to Cyber Security
-**Number of Training Exercises:** 40 | **Current Progress:** 39 out of 39 pts (100%)
+**Number of Training Exercises:** 40  
+**Current Progress:** 39 out of 39 pts (100%)
 
 #### Lab Setup
 * Lab Setup: Screen Recording
