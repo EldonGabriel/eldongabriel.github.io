@@ -5,6 +5,7 @@ image:
   thumbnail: /assets/images/headers/addcert.png
   caption: ""
   order: 4
+  excerpt: "A curated list of additional certifications and hands-on labs that strengthen foundational IT and cybersecurity skills."
 ---
 
 * **ISC2 Certified in Cybersecurity (CC):** This globally-recognized certification validates my foundational knowledge in key cybersecurity domains, including security principles, business continuity, and risk management.
