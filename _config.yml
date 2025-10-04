@@ -39,7 +39,6 @@ plugins:
   - jekyll-paginate
   - jekyll-archives
   - jekyll-last-modified-at
-
 collections:
   certifications:
     output: true
