@@ -1,5 +1,5 @@
 ---
-title: "MICS – Introduction to Cyber Security"
+title: ""
 image: 
   path: /assets/images/headers/mics.png
   thumbnail: /assets/images/headers/mics.png
