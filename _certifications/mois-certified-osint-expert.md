@@ -3,8 +3,8 @@ title: "MOIS – Certified OSINT Expert"
 layout: page 
 slug: mois-certified-osint-expert
 image:
-  path: /assets/images/headers/msafsysadmin.png
-  thumbnail: /assets/images/headers/msafsysadmin.png
+  path: /assets/images/headers/mois.png
+  thumbnail: /assets/images/headers/mois.png
   caption: ""
 ---
 
