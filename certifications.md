@@ -68,7 +68,8 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 
 * **Create Mindmaps of Social Media Data Points**  
   Organized and visualized data gathered from social media platforms to aid in structured OSINT analysis and reporting.
-<br>
+
+
 ---
 
 
@@ -149,6 +150,7 @@ Here is a curated selection of my most impactful, job-relevant credentials and h
 * Use Dumpzilla to extract forensics browser logs
 * Use PE Studio to analyze 5 files on your computer
 <br>
+
 ---
 <br>
 <!-- MSAF – System Administration Fundamentals Section Header -->
