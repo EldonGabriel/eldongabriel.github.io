@@ -4,7 +4,7 @@ layout: collection-item
 slug: technical-guides-troubleshooting
 collection: experience
 collection_item: true
-order: 3
+order: 6
 image:
   path: /assets/images/headers/tgt.png
   thumbnail: /assets/images/headers/tgt.png
