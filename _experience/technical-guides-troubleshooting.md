@@ -12,7 +12,9 @@ image:
 ---
 In **Technical Guides & Troubleshooting**, I document step-by-step solutions for complex IT and cybersecurity issues. Each guide demonstrates systematic problem-solving, from diagnosing network problems to resolving system misconfigurations. This work emphasizes clear documentation, repeatable methodologies, and practical solutions that enhance operational efficiency.
 
-**Top Skills:** Troubleshooting · Documentation & Reporting · Problem-Solving
+<p style="text-align:center;">
+  <strong>Top Skills:</strong> Troubleshooting · Documentation & Reporting · Problem-Solving
+</p>
 
 <!-- Technical Guides & Troubleshooting Content -->
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
