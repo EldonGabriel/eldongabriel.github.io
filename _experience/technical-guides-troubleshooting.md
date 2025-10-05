@@ -1,7 +1,7 @@
-<!-- Guides SubHeader -->
+<!-- Technical Guides & Troubleshooting SubHeader -->
 <section style="text-align:center; margin: 60px 0;">
   <h3 style="display:inline-block; position:relative; font-size:2.0em; margin:0; padding-bottom:10px;">
-    Guides
+    Technical Guides & Troubleshooting
     <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
   </h3>
 </section>
