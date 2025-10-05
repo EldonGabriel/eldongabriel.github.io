@@ -34,9 +34,8 @@ In **Technical Guides & Troubleshooting**, I document step-by-step solutions for
     <iframe src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0</figcaption>
   </figure>
-   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/guides/GUIDE – Monitoring Windows Processes with Procmon – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>GUIDE – Monitoring Windows Processes with Procmon – v1.0.1</figcaption>
+  <iframe src="{{ '/assets/guides/GUIDE – SMB Protocol_ Function and Security Risks – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>GUIDE – SMB Protocol_ Function and Security Risks – v1.0.0</figcaption>
   </figure>
 
   <!-- Row 3 -->
@@ -45,8 +44,9 @@ In **Technical Guides & Troubleshooting**, I document step-by-step solutions for
     <figcaption>GUIDE – RDP Troubleshooting for AWS Users – v1.0.0</figcaption>
   </figure>
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/guides/GUIDE – SMB Protocol_ Function and Security Risks – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>GUIDE – SMB Protocol_ Function and Security Risks – v1.0.0</figcaption>
+      <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/guides/GUIDE – Monitoring Windows Processes with Procmon – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>GUIDE – Monitoring Windows Processes with Procmon – v1.0.1</figcaption>
   </figure>
 
   <!-- Row 4 -->
