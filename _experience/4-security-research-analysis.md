@@ -15,13 +15,7 @@ The **Security Research & Analysis** section showcases hands-on exercises in thr
 **Top Skills:** Incident Analysis · Threat Identification · Vulnerability Assessment
 
 
-<!-- Security Research & Analysis Header -->
-<section style="text-align:center; margin: 60px 0;">
-  <h3 style="display:inline-block; position:relative; font-size:2.0em; margin:0; padding-bottom:10px;">
-Security Research & Analysis
-    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
-  </h3>
-</section>
+<!-- Security Research & Analysis Content -->
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
