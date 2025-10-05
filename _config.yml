@@ -43,6 +43,9 @@ collections:
   certifications:
     output: true
     permalink: /certifications/:slug/
+  experience:
+    output: true
+    permalink: /experience/:slug/
 
 # Feed
 feed:
