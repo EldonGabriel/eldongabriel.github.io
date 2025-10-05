@@ -13,7 +13,7 @@ image:
 
 <!-- MOIS – Certified OSINT Expert Section Header -->
 <div style="text-align:center; margin: 20px 0;">
-  <strong>Number of Training Exercises:</strong> 64 | <strong>Current Progress:</strong> 8/56 pts (14%)
+  <strong>Number of Training Exercises:</strong> 64 | <strong>Current Progress:</strong> 9/56 pts (16%)
 </div>
 
 ### MOSINT Scenarios
@@ -69,7 +69,7 @@ These modules are comprised of multi-step projects that simulate real-world OSIN
 
 ### Completed Modules
 
-* **Quickstarter (1/6)**
+* **Quickstarter (2/6)**
 * **Key Concepts (0/2)**
 * **IT Environment Setup (1/2)**
 * **Search Engines (4/10)**
