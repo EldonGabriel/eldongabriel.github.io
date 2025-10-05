@@ -14,7 +14,7 @@ image:
 The **Security Research & Analysis** section showcases hands-on exercises in threat investigation, incident response, and intelligence gathering. Labs include analyzing vulnerabilities, monitoring security events, and producing actionable insights. This work strengthens my ability to identify risks, evaluate threats, and implement effective mitigations in both lab and real-world scenarios.
 
 <p style="text-align:center;">
-  <strong>Top Skills:</strong> Incident Analysis · Threat Identification · Vulnerability Assessment
+  <strong>Top Skills:</strong> ISecure System Configuration · Policy Enforcement · Automation & Hardening
 </p>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
