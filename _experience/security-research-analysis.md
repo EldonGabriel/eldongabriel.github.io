@@ -20,28 +20,72 @@ The **Security Research & Analysis** section showcases hands-on exercises in thr
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
-    </iframe>
+    <iframe src="{{ '/assets/reports/REPORT – Access Control Incident - v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – Access Control Incident - v1.2.0</figcaption>
+  </figure>
+
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – Bank Risk Register Analysis – v1.0.2</figcaption>
   </figure>
+
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
-    </iframe>
+    <iframe src="{{ '/assets/reports/REPORT – Botium Security Audit– v1.1.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – Botium Security Audit – v1.1.0</figcaption>
+  </figure>
+
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – DNS Analysis with dig – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – DNS Analysis with dig – v1.0.1</figcaption>
+  </figure>
+
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – DNS Outage and Port 53 Failure Analysis – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – DNS Outage and Port 53 Failure Analysis – v1.0.1</figcaption>
+  </figure>
+
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0</figcaption>
   </figure>
+
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
-    </iframe>
+    <iframe src="{{ '/assets/reports/REPORT – Kerberos Authentication Protocol – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – Kerberos Authentication Protocol – v1.0.1</figcaption>
+  </figure>
+
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Network Attack Analysis – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – Network Attack Analysis – v1.0.1</figcaption>
+  </figure>
+
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Post-Breach Security Recommendations – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – Post-Breach Security Recommendations – v1.0.1</figcaption>
+  </figure>
+
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Prompt & Rubric Evaluation Exercises – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – Prompt & Rubric Evaluation Exercises – v1.0.0</figcaption>
+  </figure>
+
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Python Algorithm for Managing IP Access – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – Python Algorithm for Managing IP Access – v1.0.1</figcaption>
+  </figure>
+
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – SQL Query Analysis Incident – v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – SQL Query Analysis Incident – v1.0.2</figcaption>
+  </figure>
+
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – Server Security Evaluation – v1.2.0</figcaption>
   </figure>
+
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – File Ownership Recovery – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
-    </iframe>
-    <figcaption>REPORT – File Ownership Recovery – v1.0.0</figcaption>
-  </figure>
-  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT  – Password Managers – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
-    </iframe>
-    <figcaption>REPORT – Password Managers – v1.0.0</figcaption>
+    <iframe src="{{ '/assets/reports/REPORT – USB Security Risk Assessment - v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – USB Security Risk Assessment - v1.2.0</figcaption>
   </figure>
 </div>
