@@ -18,8 +18,6 @@ My **Windows Administration Labs** provide hands-on experience configuring, mana
 
 
 <!-- Windows Systems Administration Content -->
-
-<!-- Windows Systems Administration Content -->
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
@@ -60,6 +58,11 @@ My **Windows Administration Labs** provide hands-on experience configuring, mana
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – Harden UAC via Local Group Policy – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – Harden UAC via Local Group Policy – v1.0.0</figcaption>
+  </figure>
+
+<figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – GPO Hardening for Windows Application Control – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – GPO Hardening for Windows Application Control – v1.0.0.pdf</figcaption>
   </figure>
 
 </div>
