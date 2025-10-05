@@ -1,10 +1,21 @@
-<!-- System Security & Hardening SubHeader -->
-<section style="text-align:center; margin: 60px 0;">
-  <h3 style="display:inline-block; position:relative; font-size:2.0em; margin:0; padding-bottom:10px;">
-    System Security & Hardening
-    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
-  </h3>
-</section>
+---
+title: "System Security & Hardening"
+layout: collection-item 
+slug: system-security-hardening
+collection: certifications
+collection_item: true
+order: 1
+image:
+  path: /assets/images/headers/ssh.png
+  thumbnail: /assets/images/headers/ssh.png
+  caption: ""
+---
+
+
+The **Security Research & Analysis** section showcases hands-on exercises in threat investigation, incident response, and intelligence gathering. Labs include analyzing vulnerabilities, monitoring security events, and producing actionable insights. This work strengthens my ability to identify risks, evaluate threats, and implement effective mitigations in both lab and real-world scenarios.
+
+**Top Skills:** Incident Analysis · Threat Identification · Vulnerability Assessment
+
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
