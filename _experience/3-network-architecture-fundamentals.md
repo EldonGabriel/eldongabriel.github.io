@@ -6,8 +6,8 @@ collection: experience
 collection_item: true
 order: 6
 image:
-  path: /assets/images/headers/network.png
-  thumbnail: /assets/images/headers/network.png
+  path: /assets/images/headers/naf.png
+  thumbnail: /assets/images/headers/naf.png
   caption: ""
 ---
 
@@ -16,14 +16,7 @@ My **Network Fundamentals Labs** explore the design, deployment, and management 
 
 **Top Skills:** Network Design & Implementation · Network Security Monitoring · Troubleshooting & Analysis
 
-<!-- Network Fundamentals SubHeader -->
-<section style="text-align:center; margin: 60px 0;">
-  <h3 style="display:inline-block; position:relative; font-size:2.0em; margin:0; padding-bottom:10px;">
-    Network Fundamentals
-    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
-  </h3>
-</section>
-
+<!-- Network Fundamentals Content -->
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – IP Subnetting Fundamentals – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
