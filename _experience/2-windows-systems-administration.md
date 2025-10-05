@@ -1,3 +1,20 @@
+---
+title: "Windows Systems Administration"
+layout: collection-item
+slug: windows-systems-administration
+collection: experience
+collection_item: true
+order: 4
+image:
+  path: /assets/images/headers/windows-admin.png
+  thumbnail: /assets/images/headers/windows-admin.png
+  caption: ""
+---
+My **Windows Administration Labs** provide hands-on experience configuring, managing, and securing Windows environments. Each lab mirrors real-world challenges, including user and group management, Group Policy Objects (GPOs), firewall configuration, and troubleshooting.
+
+**Top Skills:** System Administration · Endpoint Hardening · Troubleshooting & Diagnostics
+
+
 <!-- Windows Systems Administration SubHeader -->
 <section style="text-align:center; margin: 60px 0;">
   <h3 style="display:inline-block; position:relative; font-size:2.0em; margin:0; padding-bottom:10px;">
