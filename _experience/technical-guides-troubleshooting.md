@@ -18,14 +18,16 @@ In **Technical Guides & Troubleshooting**, I document step-by-step solutions for
 
 <!-- Technical Guides & Troubleshooting Content -->
 
+<<!-- Technical Guides & Troubleshooting Content -->
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
   <!-- Row 1 -->
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/guides/GUIDE – Risk Assessment Guide Adapted from NIST SP 800-30 Rev. 1– v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <iframe src="{{ '/assets/reports/GUIDE – Risk Assessment Guide Adapted from NIST SP 800-30 Rev. 1– v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>GUIDE – Risk Assessment Guide Adapted from NIST SP 800-30 Rev. 1– v1.0.1</figcaption>
   </figure>
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/guides/GUIDE – Risk Assessment Guide Adapted from NIST SP 800-53_ AC-6 – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <iframe src="{{ '/assets/reports/GUIDE – Risk Assessment Guide Adapted from NIST SP 800-53_ AC-6 – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>GUIDE – Risk Assessment Guide Adapted from NIST SP 800-53_ AC-6 – v1.0.1</figcaption>
   </figure>
 
@@ -34,7 +36,8 @@ In **Technical Guides & Troubleshooting**, I document step-by-step solutions for
     <iframe src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0</figcaption>
   </figure>
-  <iframe src="{{ '/assets/guides/GUIDE – SMB Protocol_ Function and Security Risks – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+  <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/guides/GUIDE – SMB Protocol_ Function and Security Risks – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>GUIDE – SMB Protocol_ Function and Security Risks – v1.0.0</figcaption>
   </figure>
 
@@ -44,7 +47,6 @@ In **Technical Guides & Troubleshooting**, I document step-by-step solutions for
     <figcaption>GUIDE – RDP Troubleshooting for AWS Users – v1.0.0</figcaption>
   </figure>
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-      <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/guides/GUIDE – Monitoring Windows Processes with Procmon – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>GUIDE – Monitoring Windows Processes with Procmon – v1.0.1</figcaption>
   </figure>
@@ -54,9 +56,9 @@ In **Technical Guides & Troubleshooting**, I document step-by-step solutions for
     <iframe src="{{ '/assets/guides/GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0</figcaption>
   </figure>
-  <figure style="flex: 1 1 100%; min-width: 400px; max-width: 600px; text-align: center;">
+  <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/guides/GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf</figcaption>
+    <figcaption>GUIDE – Endpoint Security with the Windows Registry – v1.0.0</figcaption>
   </figure>
-</div>
 
+</div>
