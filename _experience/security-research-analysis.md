@@ -41,7 +41,7 @@ The **Security Research & Analysis** section showcases hands-on exercises in thr
 
   <!-- Row 3 -->
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Password Managers – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – Password Managers – v1.0.0</figcaption>
+    <iframe src="{{ '/assets/reports/REPORT – Network Attack Analysis – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – Network Attack Analysis – v1.0.1.pdf</figcaption>
   </figure>
 </div>
