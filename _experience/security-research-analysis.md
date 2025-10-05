@@ -17,7 +17,7 @@ The **Security Research & Analysis** section showcases hands-on exercises in thr
 </p>
 
 <!-- Security Research & Analysis Content -->
-
+<!-- Row 1 -->
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
@@ -29,6 +29,8 @@ The **Security Research & Analysis** section showcases hands-on exercises in thr
     </iframe>
     <figcaption>REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0</figcaption>
   </figure>
+  
+  <!-- Row 2 -->
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
     </iframe>
@@ -38,6 +40,13 @@ The **Security Research & Analysis** section showcases hands-on exercises in thr
     <iframe src="{{ '/assets/reports/REPORT – File Ownership Recovery – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
     </iframe>
     <figcaption>REPORT – File Ownership Recovery – v1.0.0</figcaption>
+  </figure>
+
+  <!-- Row 3 -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Botium Security Audit– v1.1.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>REPORT – Botium Security Audit– v1.1.0.pdf</figcaption>
   </figure>
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT  – Password Managers – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
