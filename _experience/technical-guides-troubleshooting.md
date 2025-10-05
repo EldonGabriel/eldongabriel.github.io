@@ -52,16 +52,16 @@ In **Technical Guides & Troubleshooting**, I document step-by-step solutions for
   <!-- Row 4 -->
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/guides/GUIDE – SMB Protocol_ Function and Security Risks – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>GUIDE – SMB Protocol – v1.0.0</figcaption>
+    <figcaption>GUIDE – SMB Protocol_ Function and Security Risks – v1.0.0</figcaption>
   </figure>
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/guides/GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>GUIDE – Access Permissions and Rights – v1.0.0</figcaption>
+    <figcaption>GUIDE – GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0</figcaption>
   </figure>
 
   <!-- Row 5 (optional) -->
   <figure style="flex: 1 1 100%; min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/guides/GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>GUIDE – Endpoint Registry Controls – v1.0.0</figcaption>
+    <figcaption>GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf</figcaption>
   </figure>
 </div>
