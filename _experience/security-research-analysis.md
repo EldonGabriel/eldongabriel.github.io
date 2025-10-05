@@ -53,4 +53,18 @@ The **Security Research & Analysis** section showcases hands-on exercises in thr
     </iframe>
     <figcaption>REPORT – Password Managers – v1.0.0</figcaption>
   </figure>
+
+  <!-- Row 4 -->
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Post-Breach Security Recommendations – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>REPORT – Post-Breach Security Recommendations – v1.0.1.pdf</figcaption>
+  </figure>
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Prompt & Rubric Evaluation Exercises – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
+    </iframe>
+    <figcaption>Prompt & Rubric Evaluation Exercises – v1.0.0.pdf</figcaption>
+  </figure>
 </div>
+</div>
+
