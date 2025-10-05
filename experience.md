@@ -5,8 +5,6 @@ permalink: /experience/
 collection: experience
 entries_layout: grid
 show_excerpts: false
-sort_by: random
-sort_order: random
 image:
   path: /assets/images/banner.png
 ---
