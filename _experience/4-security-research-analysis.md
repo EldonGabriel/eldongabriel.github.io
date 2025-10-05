@@ -1,3 +1,20 @@
+---
+title: "Security Research & Analysis"
+layout: collection-item
+slug: security-research-analysis
+collection: experience
+collection_item: true
+order: 1
+image:
+  path: /assets/images/headers/sra.png
+  thumbnail: /assets/images/headers/sra.png
+  caption: ""
+---
+The **Security Research & Analysis** section showcases hands-on exercises in threat investigation, incident response, and intelligence gathering. Labs include analyzing vulnerabilities, monitoring security events, and producing actionable insights. This work strengthens my ability to identify risks, evaluate threats, and implement effective mitigations in both lab and real-world scenarios.
+
+**Top Skills:** Incident Analysis · Threat Identification · Vulnerability Assessment
+
+
 <!-- Security Research & Analysis Header -->
 <section style="text-align:center; margin: 60px 0;">
   <h3 style="display:inline-block; position:relative; font-size:2.0em; margin:0; padding-bottom:10px;">
