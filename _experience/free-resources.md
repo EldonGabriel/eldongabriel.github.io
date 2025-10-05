@@ -75,3 +75,6 @@ I provide fully anonymized templates for **system administration**, **security r
   </tbody>
 </table>
 
+| Professional Cybersecurity Report Template Guide | Bring Your Own Device (BYOD) Policy and Agreement |
+|-------------------------------------------------|--------------------------------------------------|
+| A template guide for creating structured, professional cybersecurity reports. [View Document](https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?usp=sharing) | Comprehensive BYOD policy and agreement template for organizational security. [View Document](https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing) |
