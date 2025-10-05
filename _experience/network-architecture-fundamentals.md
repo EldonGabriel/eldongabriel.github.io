@@ -14,7 +14,9 @@ image:
 
 My **Network Fundamentals Labs** explore the design, deployment, and management of secure network infrastructures. Using simulation tools and real-world scenarios, I configure routers, switches, firewalls, and monitor traffic to understand both connectivity and security principles.
 
-**Top Skills:** Network Design & Implementation · Network Security Monitoring · Troubleshooting & Analysis
+<p style="text-align:center;">
+  <strong>Top Skills:</strong> Network Design & Implementation · Network Security Monitoring · Troubleshooting & Analysis
+</p>
 
 <!-- Network Fundamentals Content -->
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
