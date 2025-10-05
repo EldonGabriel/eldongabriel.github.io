@@ -6,8 +6,8 @@ collection: experience
 collection_item: true
 order: 4
 image:
-  path: /assets/images/headers/windows-admin.png
-  thumbnail: /assets/images/headers/windows-admin.png
+  path: /assets/images/headers/wsa.png
+  thumbnail: /assets/images/headers/wsa.png
   caption: ""
 ---
 My **Windows Administration Labs** provide hands-on experience configuring, managing, and securing Windows environments. Each lab mirrors real-world challenges, including user and group management, Group Policy Objects (GPOs), firewall configuration, and troubleshooting.
