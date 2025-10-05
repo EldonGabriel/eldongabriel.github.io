@@ -1,14 +1,20 @@
 {% assign entries = site[include.collection] %}
 
-{% if include.sort_by %}
-  {% assign entries = entries | sort: include.sort_by %}
-  {% if include.sort_order == 'reverse' %}
-    {% assign entries = entries | reverse %}
+{% if entries %}
+  {% if include.sort_by %}
+    {% assign entries = entries | sort: include.sort_by %}
+    {% if include.sort_order == 'reverse' %}
+      {% assign entries = entries | reverse %}
+    {% endif %}
+  {% else %}
+    {% assign entries = entries | sort: "order" %}
   {% endif %}
+
+  {%- for entry in entries -%}
+    {% include entry.html %}
+  {%- endfor -%}
+
 {% else %}
-  {% assign entries = entries | sort: "order" %}
+  <p>No entries found for collection: {{ include.collection }}</p>
 {% endif %}
 
-{%- for entry in entries -%}
-  {% include entry.html %}
-{%- endfor -%}
