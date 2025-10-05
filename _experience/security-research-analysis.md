@@ -63,7 +63,7 @@ The **Security Research & Analysis** section showcases hands-on exercises in thr
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – Prompt & Rubric Evaluation Exercises – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
     </iframe>
-    <figcaption>Prompt & Rubric Evaluation Exercises – v1.0.0.pdf</figcaption>
+    <figcaption>REPORT – Prompt & Rubric Evaluation Exercises – v1.0.0.pdf</figcaption>
   </figure>
   
    <!-- Row 5 -->
