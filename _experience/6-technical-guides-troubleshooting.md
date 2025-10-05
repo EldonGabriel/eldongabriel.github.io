@@ -1,3 +1,21 @@
+---
+title: "Technical Guides & Troubleshooting"
+layout: collection-item
+slug: technical-guides-troubleshooting
+collection: experience
+collection_item: true
+order: 3
+image:
+  path: /assets/images/headers/tgt.png
+  thumbnail: /assets/images/headers/tgt.png
+  caption: ""
+---
+In **Technical Guides & Troubleshooting**, I document step-by-step solutions for complex IT and cybersecurity issues. Each guide demonstrates systematic problem-solving, from diagnosing network problems to resolving system misconfigurations. This work emphasizes clear documentation, repeatable methodologies, and practical solutions that enhance operational efficiency.
+
+**Top Skills:** Troubleshooting · Documentation & Reporting · Problem-Solving
+
+
+
 <!-- Technical Guides & Troubleshooting SubHeader -->
 <section style="text-align:center; margin: 60px 0;">
   <h3 style="display:inline-block; position:relative; font-size:2.0em; margin:0; padding-bottom:10px;">
