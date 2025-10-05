@@ -76,6 +76,7 @@ See my report below for the technical summary and validation of this OSINT trans
   </div> 
 </div>
 
+---
 
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Certificate Earned</h1>
