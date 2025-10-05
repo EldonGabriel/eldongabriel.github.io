@@ -4,7 +4,7 @@ layout: collection-item
 slug: mois-certified-osint-expert
 collection: certifications
 collection_item: true
-order: 3
+order: 2
 image:
   path: /assets/images/headers/mois.png
   thumbnail: /assets/images/headers/mois.png
