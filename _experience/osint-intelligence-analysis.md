@@ -21,4 +21,3 @@ image:
     <iframe src="{{ '/assets/reports/REPORT%20–%20Using%20Google%20Translate%20for%20OSINT%20–%20v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – Using Google Translate for OSINT – v1.0.0.pdf</figcaption>
   </figure>
-</div>
