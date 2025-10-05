@@ -4,7 +4,7 @@ layout: collection-item
 slug: additional-certifications
 collection: certifications
 collection_item: true
-order: 1
+order: 4
 image:
   path: /assets/images/headers/addcert.png
   thumbnail: /assets/images/headers/addcert.png
