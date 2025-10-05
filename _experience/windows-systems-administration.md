@@ -12,8 +12,9 @@ image:
 ---
 My **Windows Administration Labs** provide hands-on experience configuring, managing, and securing Windows environments. Each lab mirrors real-world challenges, including user and group management, Group Policy Objects (GPOs), firewall configuration, and troubleshooting.
 
-**Top Skills:** System Administration · Endpoint Hardening · Troubleshooting & Diagnostics
-
+<p style="text-align:center;">
+  <strong>Top Skills:</strong> System Administration · Endpoint Hardening · Troubleshooting & Diagnostics
+</p>
 
 <!-- Windows Systems Administration Content -->
 
