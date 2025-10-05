@@ -19,47 +19,50 @@ My **Windows Administration Labs** provide hands-on experience configuring, mana
 
 <!-- Windows Systems Administration Content -->
 
-  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <figure style="flex: 1 1 calc(33% - 20px); min-width: 300px; max-width: 400px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – Kerberos Authentication Protocol – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – Kerberos Authentication Protocol – v1.0.1</figcaption>
   </figure>
 
-  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+  <figure style="flex: 1 1 calc(33% - 20px); min-width: 300px; max-width: 400px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – File Ownership Recovery – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – File Ownership Recovery – v1.0.0</figcaption>
   </figure>
 
-  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+  <figure style="flex: 1 1 calc(33% - 20px); min-width: 300px; max-width: 400px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – System Hardening via Local GPO_ Restricting Anonymous Connections – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – System Hardening via Local GPO_ Restricting Anonymous Connections – v1.0.0</figcaption>
   </figure>
 
-  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+  <figure style="flex: 1 1 calc(33% - 20px); min-width: 300px; max-width: 400px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – System Hardening via Local GPO_ Windows Defender – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – System Hardening via Local GPO_ Windows Defender – v1.0.0</figcaption>
   </figure>
 
-  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+  <figure style="flex: 1 1 calc(33% - 20px); min-width: 300px; max-width: 400px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – Deploying Strict Password & Account Lockout GPO – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – Deploying Strict Password & Account Lockout GPO – v1.0.0</figcaption>
   </figure>
 
-  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+  <figure style="flex: 1 1 calc(33% - 20px); min-width: 300px; max-width: 400px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – Enforcing Operating System Patching Policy via Local GPO – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – Enforcing Operating System Patching Policy via Local GPO – v1.0.0</figcaption>
   </figure>
 
-  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+  <figure style="flex: 1 1 calc(33% - 20px); min-width: 300px; max-width: 400px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – Secure Credential Entry via Group Policy Objective (GPO) – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – Secure Credential Entry via Group Policy Objective (GPO) – v1.0.0</figcaption>
   </figure>
 
-  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
+  <figure style="flex: 1 1 calc(33% - 20px); min-width: 300px; max-width: 400px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – Harden UAC via Local Group Policy – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – Harden UAC via Local Group Policy – v1.0.0</figcaption>
   </figure>
 
 </div>
+
 
 <!-- Windows Systems Administration YouTube Content -->
 
