@@ -4,7 +4,7 @@ layout: collection-item
 slug: osint-intelligence-analysis
 collection: experience
 collection_item: true
-order: 2
+order: 5
 image:
   path: /assets/images/headers/oia.png
   thumbnail: /assets/images/headers/oia.png
