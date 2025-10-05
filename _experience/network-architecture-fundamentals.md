@@ -4,7 +4,7 @@ layout: collection-item
 slug: network-architecture-fundamentals
 collection: experience
 collection_item: true
-order: 6
+order: 3
 image:
   path: /assets/images/headers/naf.png
   thumbnail: /assets/images/headers/naf.png
