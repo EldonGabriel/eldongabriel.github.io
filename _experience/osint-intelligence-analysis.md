@@ -12,5 +12,6 @@ image:
 ---
 **OSINT & Intelligence Analysis** highlights practical skills in collecting, analyzing, and reporting open-source intelligence. Exercises include creating anonymous investigative profiles, analyzing social media and public records, performing pivot analysis, and generating actionable intelligence reports. This work strengthens my investigative capabilities and decision-making based on public and digital data sources.
 
-**Top Skills:** Open-Source Intelligence (OSINT) · Data Collection & Analysis · Investigative Reporting
-
+<p style="text-align:center;">
+  <strong>Top Skills:</strong> Open-Source Intelligence (OSINT) · Data Collection & Analysis · Investigative Reporting
+</p>
