@@ -14,8 +14,8 @@ image:
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/assets/certifications/ISC2-CC.jpg" 
        alt="ISC² Certified in Cybersecurity (CC)" 
-       style="max-width: 800px; width: 100%; height: auto; border-radius: 8px;">
-  <p style="font-size: 14px; color: #000;">ISC² Certified in Cybersecurity (CC)</p>
+       style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
+  <p style="font-size: 14px; color: #ffffff;">ISC² Certified in Cybersecurity (CC)</p>
 </div>
 
 **Number of Domains:** 5  
