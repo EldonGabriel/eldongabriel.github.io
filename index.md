@@ -7,10 +7,10 @@ image:
   
 ---
 
-<!-- Overview Header -->
+<!-- Insights Header -->
 <section style="text-align:center; margin: 60px 0;">
   <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
-    Overview
+    Insights
     <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
   </h2>
 </section>
