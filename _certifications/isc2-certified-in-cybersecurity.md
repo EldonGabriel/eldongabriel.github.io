@@ -12,7 +12,7 @@ image:
 ---
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <embed src="/assets/certificates/isc2-certified-in-cybersecurity-cc.pdf" 
+  <embed src="/assets/certifications/isc2-certified-in-cybersecurity-certification.pdf" 
          type="application/pdf" 
          width="100%" 
          height="600px" 
