@@ -72,7 +72,7 @@ See my report below for the technical summary and validation of this OSINT trans
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
   <div style="flex: 0 1 45%; min-width: 600px; text-align: center;"> 
     <iframe src="{{ 'assets/reports/REPORT – Using Google Translate for OSINT – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe> 
-    <figcaption>REPORT – OSINT Translation Workflow – v1.0.0.pdf</figcaption> 
+    <figcaption>REPORT – Using Google Translate for OSINT – v1.0.0.pdf</figcaption> 
   </div> 
 </div>
 
