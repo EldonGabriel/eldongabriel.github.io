@@ -11,6 +11,13 @@ image:
   caption: ""
 ---
 
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/assets/certifications/MICS-introduction-to-cyber-security-cybersecurity-level-3.png" 
+       alt="Level 4: Cybersecurity Learner - Level 3" 
+       style="max-width: 400px; width: 100%; height: auto; border-radius: 8px;">
+  <p style="font-size: 14px; color: #666;">Level 4: Cybersecurity Learner - Level 3</p>
+</div>
+
 <!-- MICS – Introduction to Cyber Security Section Header -->
 **Number of Training Exercises:** 40  
 **Current Progress:** 39 out of 39 pts (100%)
