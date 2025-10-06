@@ -18,14 +18,14 @@ A curated list of additional certifications and hands-on labs that strengthen fo
 {{ excerpt }}
 
 ### Core Cybersecurity Certifications
-* **ISC2 Certified in Cybersecurity (CC):** Validates foundational knowledge in security principles, business continuity, and risk management.
+* **Google Cybersecurity:** Completed exercises and hands-on labs in cybersecurity fundamentals, threat detection, and IT operations.
 * **KCCS - Knowledge of Cybersecurity Skills:** Covers network security, threat analysis, and incident response.
 * **Foundations of Cybersecurity:** Practical exercises covering cybersecurity fundamentals, threat modeling, and mitigation strategies.
 * **Detection and Response:** Applied exercises in threat detection, incident response, and logging analysis.
 * **Security Risk Management:** Exercises in identifying assets, threats, vulnerabilities, and implementing mitigation controls.
 * **Cybersecurity Risk Management Framework:** Applied concepts of enterprise cybersecurity governance, risk management, and compliance frameworks.
 * **NIST 800-171 & DoD RMF:** Applied cybersecurity standards for federal systems and implemented risk management exercises.
-* **Google Cybersecurity:** Completed exercises and hands-on labs in cybersecurity fundamentals, threat detection, and IT operations.
+
 
 ### IT & System Administration Certifications
 * **Google IT Support:** Completed practical labs in system administration, troubleshooting, and IT infrastructure management.
