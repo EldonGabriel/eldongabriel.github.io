@@ -11,6 +11,8 @@ image:
   caption: ""
 ---
 
+![ISC² Certified in Cybersecurity (CC)](/assets/certifications/isc2-certified-in-cybersecurity-certification.pdf){: width="400" }
+
 **Number of Domains:** 5  
 **Current Progress:** 5 out of 5 pts (100%)
 
