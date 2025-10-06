@@ -11,7 +11,7 @@ image:
   caption: ""
 ---
 
-# ISC² — Certified in Cybersecurity (CC)
+### ISC² — Certified in Cybersecurity (CC)
 
 **Number of Domains:** 5  
 **Current Progress:** 5 out of 5 pts (100%)
@@ -19,7 +19,7 @@ image:
 The ISC² **Certified in Cybersecurity (CC)** credential validates foundational cybersecurity knowledge for professionals entering the field. It demonstrates understanding of core security concepts, basic network and system protections, incident response awareness, and access control fundamentals — all backed by ISC²’s global professional community.
 
 
-## Examination Weights (Domains)
+### Examination Weights (Domains)
 
 - **Domain 1 — Security Principles:** 26%  
 - **Domain 2 — BC/DR & Incident Response Concepts:** 10%  
@@ -29,7 +29,7 @@ The ISC² **Certified in Cybersecurity (CC)** credential validates foundational 
 
 
 
-## Domains (Coverage & Key Topics)
+### Domains (Coverage & Key Topics)
 
 ### Domain 1 — Security Principles
 - CIA Triad: Confidentiality, Integrity, Availability  
@@ -62,7 +62,7 @@ The ISC² **Certified in Cybersecurity (CC)** credential validates foundational 
 
 
 
-## Value of the Certification
+### Value of the Certification
 
 The **ISC² CC** certification complements practical MCSI training by validating essential theory and establishing a baseline of cybersecurity knowledge employers expect from entry-level hires. It pairs strongly with the hands-on work in **MSAF** and **MOIS**, demonstrating both conceptual understanding and applied technical skills.
 
