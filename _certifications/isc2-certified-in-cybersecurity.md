@@ -11,8 +11,6 @@ image:
   caption: ""
 ---
 
-### ISC² — Certified in Cybersecurity (CC)
-
 **Number of Domains:** 5  
 **Current Progress:** 5 out of 5 pts (100%)
 
