@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Cyber Security"
+title: "MICS – Introduction to Cyber Security"
 layout: collection-item  
 slug: mics-intro-cyber-security
 collection: certifications
@@ -12,7 +12,6 @@ image:
 ---
 
 <!-- MICS – Introduction to Cyber Security Section Header -->
-### MICS – Introduction to Cyber Security
 **Number of Training Exercises:** 40  
 **Current Progress:** 39 out of 39 pts (100%)
 
