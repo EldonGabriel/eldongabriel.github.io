@@ -4,7 +4,7 @@ layout: collection-item
 slug: mics-intro-cyber-security
 collection: certifications
 collection_item: true
-order: 2
+order: 4
 image:
   path: /assets/images/headers/mics.png
   thumbnail: /assets/images/headers/mics.png
