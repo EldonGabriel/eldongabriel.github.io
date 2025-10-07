@@ -6,8 +6,8 @@ collection: certifications
 collection_item: true
 order: 2
 image:
-  path: /assets/images/headers/google-cybersecurity.png
-  thumbnail: /assets/images/headers/google-cybersecurity.png
+  path: /assets/images/headers/googlecs.png
+  thumbnail: /assets/images/headers/googlecs.png
   caption: ""
 ---
 
