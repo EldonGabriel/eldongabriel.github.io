@@ -78,6 +78,12 @@ My **Windows Administration Labs** provide hands-on experience configuring, mana
 </div>
 
 
+<h3 style="text-align:center;">Windows Systems Administration – Video Labs</h3>
+
+<p style="text-align:center;">
+A collection of <strong>hands-on video tutorials</strong> demonstrating key Windows administration skills, including system maintenance, security configuration, and troubleshooting in real-world scenarios.
+</p>
+
 <!-- Windows Systems Administration YouTube Content -->
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
