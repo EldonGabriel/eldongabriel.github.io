@@ -46,8 +46,6 @@ The **Google IT Support Professional Certificate** (Google / Coursera) provides 
 * **IT Security: Defense Against the Digital Dark Arts** — Completed Jan 23, 2025 — Grade: **93.20%**
 
 #### Completion Summary
-* **Total Courses:** 5  
-* **Estimated Duration:** 8–10 hours per module  
 * **Overall:** Practical, hands-on training that pairs well with system administration and security-focused coursework.
 
 <p style="text-align:center; margin-top: 40px;">
