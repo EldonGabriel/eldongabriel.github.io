@@ -24,13 +24,13 @@ image:
 #### Overview
 The **Cybersecurity Risk Management Framework** specialization (Infosec / Coursera) provides a comprehensive understanding of NIST’s RMF process and its application in managing organizational cybersecurity risks. The program focuses on identifying, assessing, and mitigating risks through policy-driven governance and control implementation aligned with NIST standards.
 
-#### What I learned
+#### What I Learned
 * Understand and apply the **NIST Cybersecurity Framework (CSF)** and **RMF process**.  
 * Identify and manage cybersecurity risks through assessment and control mapping.  
 * Implement and evaluate security controls aligned with **NIST SP 800-171** and **800-53**.  
 * Develop and maintain key compliance documents: **System Security Plan (SSP)**, **Plans of Action and Milestones (POAM)**, and **Body of Evidence (BOE)**.
 
-#### Skills gained
+#### Skills Gained
 * Risk Management & Security Governance  
 * NIST 800-53 / 800-171 Frameworks  
 * Continuous Monitoring & Security Controls  
