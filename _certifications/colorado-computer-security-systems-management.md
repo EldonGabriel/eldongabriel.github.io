@@ -1,5 +1,5 @@
 ---
-title: "University of Colorado — Computer Security and Systems Management Specialization"
+title: "University of Colorado Computer Security and Systems Management Specialization"
 layout: collection-item
 slug: colorado-computer-security-systems-management
 collection: certifications
