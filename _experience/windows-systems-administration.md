@@ -20,6 +20,7 @@ My **Windows Administration Labs** provide hands-on experience configuring, mana
 <!-- Windows Systems Administration Content -->
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
+<!-- Row 1 -->
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – Kerberos Authentication Protocol – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – Kerberos Authentication Protocol – v1.0.1</figcaption>
@@ -30,6 +31,7 @@ My **Windows Administration Labs** provide hands-on experience configuring, mana
     <figcaption>REPORT – File Ownership Recovery – v1.0.0</figcaption>
   </figure>
 
+<!-- Row 2 -->
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – System Hardening via Local GPO_ Restricting Anonymous Connections – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – System Hardening via Local GPO_ Restricting Anonymous Connections – v1.0.0</figcaption>
@@ -39,7 +41,8 @@ My **Windows Administration Labs** provide hands-on experience configuring, mana
     <iframe src="{{ '/assets/reports/REPORT – System Hardening via Local GPO_ Windows Defender – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – System Hardening via Local GPO_ Windows Defender – v1.0.0</figcaption>
   </figure>
-
+  
+<!-- Row 3 -->
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – Deploying Strict Password & Account Lockout GPO – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – Deploying Strict Password & Account Lockout GPO – v1.0.0</figcaption>
@@ -50,6 +53,7 @@ My **Windows Administration Labs** provide hands-on experience configuring, mana
     <figcaption>REPORT – Enforcing Operating System Patching Policy via Local GPO – v1.0.0</figcaption>
   </figure>
 
+<!-- Row 4 -->
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – Secure Credential Entry via Group Policy Objective (GPO) – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – Secure Credential Entry via Group Policy Objective (GPO) – v1.0.0</figcaption>
@@ -60,10 +64,16 @@ My **Windows Administration Labs** provide hands-on experience configuring, mana
     <figcaption>REPORT – Harden UAC via Local Group Policy – v1.0.0</figcaption>
   </figure>
 
+<!-- Row 5 -->
 <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – GPO Hardening for Windows Application Control – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – GPO Hardening for Windows Application Control – v1.0.0.pdf</figcaption>
   </figure>
+
+ <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – Layered Access Control Bypass & Cross-Platform Network Stabilization – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – Layered Access Control Bypass & Cross-Platform Network Stabilization – v1.0.0.pdf</figcaption>
+  </figure> 
 
 </div>
 
