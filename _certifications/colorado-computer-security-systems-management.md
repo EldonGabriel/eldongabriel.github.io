@@ -50,4 +50,4 @@ image:
 </ul>
 
 <h4>Completion Summary</h4>
-<strong>Outcome:</strong> Strengthened my ability to manage enterprise-grade environments, implement security policies, and maintain operational integrity through systematic auditing and proactive risk mitigation</li>
+<strong>Outcome:</strong> Strengthened my ability to manage enterprise-grade environments, implement security policies, and maintain operational integrity through systematic auditing and proactive risk mitigation
