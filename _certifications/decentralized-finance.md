@@ -24,14 +24,14 @@ image:
 #### Overview
 The **Decentralized Finance (DeFi): The Future of Finance** specialization (Duke University / Coursera) explores the technologies and mechanisms driving decentralized financial systems. Learners gain a comprehensive understanding of blockchain-based financial infrastructure, decentralized applications, and the evolving regulatory landscape of DeFi.
 
-#### What I learned
+#### What I Learned
 * Understand the **infrastructure and architecture** of decentralized finance.  
 * Analyze DeFi’s role in reshaping financial inclusion, lending, and governance.  
 * Explore the mechanisms of **blockchain, cryptography, and interoperability**.  
 * Evaluate leading **DeFi protocols** such as MakerDAO, Compound, Aave, Uniswap, and dYdX.  
 * Assess key **risks and compliance challenges** including smart contract vulnerabilities and regulatory considerations.
 
-#### Skills gained
+#### Skills Gained
 * Entrepreneurial Finance & FinTech  
 * Cryptography & Key Management  
 * Decentralized Lending & Underwriting  
