@@ -24,13 +24,13 @@ image:
 #### Overview
 The **Google IT Support Professional Certificate** (Google / Coursera) provides hands-on foundational skills for entry-level IT support roles. The program focuses on practical, lab-based learning that prepares learners for troubleshooting, operating-system administration, networking fundamentals, and basic IT security.
 
-#### What I learned
+#### What I Learned
 * Perform day-to-day IT support tasks: assembling computers, installing software, and wireless networking.  
 * Provide end-to-end customer support: identify problems, troubleshoot, and resolve issues.  
 * Use systems and tools: **Linux**, **DNS**, command-line interfaces, and core OS concepts.  
 * Apply basic information security practices and hardening for support contexts.
 
-#### Skills gained
+#### Skills Gained
 * Technical Support & Troubleshooting  
 * TCP/IP & Network Administration  
 * Operating Systems & File Systems  
