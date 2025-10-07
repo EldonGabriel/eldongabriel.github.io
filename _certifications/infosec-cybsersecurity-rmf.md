@@ -4,7 +4,7 @@ layout: collection-item
 slug: infosec-cybersecurity-risk-management-framework
 collection: certifications
 collection_item: true
-order: 4
+order: 2
 image:
   path: /assets/images/headers/infosec-crmf.png
   thumbnail: /assets/images/headers/infosec-crmf.png
