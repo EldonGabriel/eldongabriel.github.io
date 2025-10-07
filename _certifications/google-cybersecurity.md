@@ -24,13 +24,13 @@ image:
 #### Overview
 The **Google Cybersecurity Professional Certificate** (Google / Coursera) is an eight-course specialization designed to prepare learners for entry-level cybersecurity roles. The program emphasizes hands-on, practical experience with industry tools such as Linux, SQL, and Python, while covering foundational concepts in risk management, threat detection, and security operations.
 
-#### What I learned
+#### What I Learned
 * Understand cybersecurity principles and their organizational impact.  
 * Identify and mitigate risks, threats, and vulnerabilities.  
 * Protect networks, systems, and users with **SIEM tools** and access control techniques.  
 * Develop hands-on experience with **Linux**, **Python**, and **SQL** for automation and analysis.  
 
-#### Skills gained
+#### Skills Gained
 * Cyber Threat Intelligence & Incident Response  
 * Network Security & Vulnerability Management  
 * Cloud Security & System Hardening  
