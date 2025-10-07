@@ -4,7 +4,7 @@ layout: collection-item
 slug: google-cybersecurity
 collection: certifications
 collection_item: true
-order: 2
+order: 0
 image:
   path: /assets/images/headers/googlecs.png
   thumbnail: /assets/images/headers/googlecs.png
