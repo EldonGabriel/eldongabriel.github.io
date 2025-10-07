@@ -46,6 +46,14 @@ My **Network Fundamentals Labs** explore the design, deployment, and management 
   </figure>
 </div>
 
+
+<!-- Network Architecture & Fundamentals – Video Labs -->
+<h3 style="text-align:center;">Network Architecture & Fundamentals – Video Labs</h3>
+
+<p style="text-align:center;">
+A collection of <strong>hands-on video tutorials</strong> demonstrating key networking skills, including network design, secure deployment, firewall configuration, and traffic monitoring.
+</p>
+
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; min-width: 400px; max-width: 600px; text-align:center;">
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
