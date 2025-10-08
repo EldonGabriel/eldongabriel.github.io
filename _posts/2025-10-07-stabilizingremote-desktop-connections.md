@@ -71,6 +71,9 @@ See my report below for a complete technical summary and validation of this RDP 
 </div>
 
 
+---
+
+
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Certificate Earned</h1>
 </div>
