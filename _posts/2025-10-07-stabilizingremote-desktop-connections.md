@@ -1,6 +1,6 @@
 ---
 title: "Stabilizing Remote Desktop Connections Across Platforms"
-date: 2025-10-08
+date: 2025-10-07
 author: Eldon Gabriel
 tags: [Cybersecurity, Virtualization, RDP, NetworkStability, MCSI]
 excerpt: "Resolving complex RDP connectivity issues caused by Domain GPO restrictions and virtual network instability in a macOS UTM environment."
