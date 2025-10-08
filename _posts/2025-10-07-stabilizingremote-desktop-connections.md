@@ -71,7 +71,7 @@ See my report below for a complete technical summary and validation of this RDP 
 </div>
 
 
-I successfully completed the exercise titled **"LDeploy a Gpo on a Single Machine That Disables Remote Desktop Services to Prevent Unauthorised Remote Access"**. This certificate demonstrates practical proficiency in analyzing security policies, diagnosing virtual network instability, and implementing stable RDP connectivity solutions.
+I successfully completed the exercise titled **"Deploy a Gpo on a Single Machine That Disables Remote Desktop Services to Prevent Unauthorised Remote Access"**. This certificate demonstrates practical proficiency in analyzing security policies, diagnosing virtual network instability, and implementing stable RDP connectivity solutions.
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
   <div style="flex: 0 1 45%; min-width: 400px; text-align: center;"> 
