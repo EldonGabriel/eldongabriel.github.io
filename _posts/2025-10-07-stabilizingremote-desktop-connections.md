@@ -71,12 +71,16 @@ See my report below for a complete technical summary and validation of this RDP 
 </div>
 
 
-I successfully completed the exercise titled **"Deploy a Gpo on a Single Machine That Disables Remote Desktop Services to Prevent Unauthorised Remote Access"**. This certificate demonstrates practical proficiency in analyzing security policies, diagnosing virtual network instability, and implementing stable RDP connectivity solutions.
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Certificate Earned</h1>
+</div>
+
+I successfully completed the exercise titled **"Deploy a GPO on a Single Machine That Disables Remote Desktop Services to Prevent Unauthorised Remote Access"**. This certificate demonstrates practical proficiency in analyzing security policies, diagnosing virtual network instability, and implementing stable RDP connectivity solutions.
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
   <div style="flex: 0 1 45%; min-width: 400px; text-align: center;"> 
     <img src="{{ '/assets/certifications/msaf-system-admin-fundamentals/Windows System Security and Administration - Part 3/Deploy a GPO on a single machine that disables Remote Desktop Services to prevent unauthorised remote access.png' | relative_url }}" alt="Deploy a GPO on a single machine that disables Remote Desktop Services to prevent unauthorised remote access" style="width:100%; border:1px solid #ccc;"/>
-    <figcaption>Certificate - Deploy a Gpo on a Single Machine That Disables Remote Desktop Services to Prevent Unauthorised Remote Access
+    <figcaption>Certificate - Deploy a GPO on a Single Machine That Disables Remote Desktop Services to Prevent Unauthorised Remote Access
 </figcaption>
   </div> 
 </div>
