@@ -13,7 +13,7 @@ image:
 
 <!-- MSAF – System Administration Fundamentals Section Header -->
 <div style="text-align:center; margin: 20px 0;">
-  <strong>Number of Training Exercises:</strong> 106 | <strong>Current Progress:</strong> 28/84.5 pts (33%)
+  <strong>Number of Training Exercises:</strong> 106 | <strong>Current Progress:</strong> 31/84.5 pts (37%)
 </div>
 
 ### MSAF Scenarios
