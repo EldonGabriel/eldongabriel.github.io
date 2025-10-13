@@ -76,19 +76,3 @@ See my report below for the technical summary and validation of this OSINT trans
   </div> 
 </div>
 
----
-
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Certificate Earned</h1>
-</div>
-
-I successfully completed the exercise titled **"Use Google Translate to analyze messages written in foreign languages"**. This certificate demonstrates practical proficiency in applying translation tools to OSINT workflows and validating foreign-language intelligence for analysis.
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
-  <div style="flex: 0 1 45%; min-width: 400px; text-align: center;"> 
-    <img src="{{ 'assets/certifications/mois-certified-osint-specialist/Use Google Translate to analyze messages written in foreign languages.png' | relative_url }}" alt="Use Google Translate to analyze messages written in foreign languages" style="width:100%; border:1px solid #ccc;"/>
-    <figcaption>Certificate - Use Google Translate to analyze messages written in foreign languages
-</figcaption>
-  </div> 
-</div>
-
