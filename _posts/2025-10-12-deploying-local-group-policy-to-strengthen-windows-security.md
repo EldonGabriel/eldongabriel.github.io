@@ -66,18 +66,3 @@ See my report below for a complete technical summary and validation of this lab 
     <figcaption>REPORT – Deploy Local GPO for Windows Security Policies – v1.0.0.pdf</figcaption> 
   </div> 
 </div>
-
----
-
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Certificate Earned</h1>
-</div>
-
-I successfully completed the exercise titled **"Deploy Local Group Policy on a Single Machine to Strengthen Windows Security"**. This certificate demonstrates practical proficiency in applying endpoint security policies, validating configurations, and reinforcing system hardening practices.
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
-  <div style="flex: 0 1 45%; min-width: 400px; text-align: center;"> 
-    <img src="{{ 'assets/certifications/msaf-system-admin-fundamentals/Windows System Security and Administration - Part 3/Deploy a GPO on a single machine to apply and configure in-built Windows security policies.png' | relative_url }}" alt="Deploy Local GPO on Single Machine" style="width:100%; border:1px solid #ccc;"/>
-    <figcaption>Certificate – Deploy Local GPO on a Single Machine to Strengthen Windows Security</figcaption>
-  </div> 
-</div>
