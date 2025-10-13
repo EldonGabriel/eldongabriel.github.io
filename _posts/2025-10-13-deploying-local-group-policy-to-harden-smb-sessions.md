@@ -11,9 +11,9 @@ image:
 
 Securing SMB communications is a practical, high-impact control for stopping credential theft and session hijacking before attackers can move laterally. In this exercise I hardened a standalone Windows endpoint using **Local Group Policy (LGPO)** and a registry change to:
 
-- enforce SMB signing for both clients and servers,
-- disable the legacy **SMBv1** protocol, and
-- block unencrypted password exchanges while applying an idle session timeout.
+- Enforce SMB signing for both clients and servers,
+- Disable the legacy **SMBv1** protocol, and
+- Block unencrypted password exchanges while applying an idle session timeout.
 
 These steps close common attack vectors used by tools that capture or replay SMB authentication traffic.
 
