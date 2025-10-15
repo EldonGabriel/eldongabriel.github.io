@@ -9,43 +9,53 @@ image:
   thumbnail: "assets/images/posts/shield.png"
 ---
 
-Securing SMB communications is a practical, high-impact control for stopping credential theft and session hijacking before attackers can move laterally. In this exercise I hardened a standalone Windows endpoint using **Local Group Policy (LGPO)** and a registry change to:
-
-- Enforce SMB signing for both clients and servers,
-- Disable the legacy **SMBv1** protocol, and
-- Block unencrypted password exchanges while applying an idle session timeout.
-
-These steps close common attack vectors used by tools that capture or replay SMB authentication traffic.
-
 <div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Applying the Policy</h1>
-</div>  
-
-I used Local Group Policy paths and a registry edit to configure client and server SMB settings, and verified SMBv1 was disabled.  
-
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Why This Matters</h1>
-</div> 
-
-Unsigned or legacy SMB traffic can be intercepted, replayed, or manipulated by an attacker. Enforcing SMB signing ensures **data integrity** and **authentication**, while disabling SMBv1 removes an outdated attack surface. Together, these controls reduce the risk of credential theft and lateral movement.
-
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Professional Relevance</h1>
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Exercise Core Function</h1>
 </div>
+In this exercise, I focused on hardening SMB communication on a standalone Windows 10 workstation using Local Group Policy and a registry change. The goal was to enforce secure authentication, disable legacy protocols, and prevent credential theft in a controlled environment.
 
-This exercise maps to practical job tasks and industry frameworks:
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">What I Studied</h1>
+</div>
+The lab involved navigating the **Local Group Policy Editor** and registry paths to strengthen SMB client and server security.
 
-- **NICE (NIST):** *System Administration (OM-SA-001)* — configuring and validating OS security controls.  
-- **ASD Cyber Skills Framework:** *Secure System Configuration (SS-02)* — applying configuration standards to reduce exploitable features.
+Key tools and techniques applied:
+
+- Using **gpedit.msc** to apply SMB signing and protocol settings  
+- Editing the **Registry** to disable SMBv1  
+- Verifying policy application and system behavior through PowerShell and SMB diagnostics  
+
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">What I Learned</h1>
+</div>
+Key observations and lessons from this exercise:
+
+- **Hands-on configuration reinforces endpoint hardening skills**  
+- **Policy validation ensures intended security outcomes**  
+- **Disabling legacy protocols reduces exposure to real-world attack vectors**  
+
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Why It Matters</h1>
+</div>
+Securing SMB traffic is critical for enterprise security:
+
+- Prevents credential theft via packet capture or replay attacks  
+- Enforces **data integrity** and **authentication** through SMB signing  
+- Removes outdated attack surfaces by disabling SMBv1  
+
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">How It Maps to the Job/Framework</h1>
+</div>
+- **NICE (NIST):** *System Administration (OM-SA-001)* — configuring and validating OS security controls  
+- **ASD Cyber Skills Framework – Advanced Beginner:** *Secure System Configuration (SS-02)* — applying policy standards and baseline hardening  
 
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Key Takeaways</h1>
 </div>
-
-- **SMB signing enforces data integrity and authentication**, stopping packet tampering and replay attacks.  
-- **Disabling SMBv1 applies Least Functionality**, removing legacy attack surfaces exploited by real-world malware.  
-- **Idle session timeouts reduce exposure windows** for hijacked or abandoned sessions.  
-- **Local Group Policy demonstrates repeatable endpoint hardening** that scales into enterprise GPOs.
+- **SMB signing enforces integrity and authentication**, stopping replay and tampering attacks  
+- **Disabling SMBv1 removes legacy attack surfaces**, applying Least Functionality  
+- **Idle session timeouts reduce exposure windows** for abandoned sessions  
+- **Local Group Policy enables repeatable, scalable endpoint hardening**  
 
 ---
 
