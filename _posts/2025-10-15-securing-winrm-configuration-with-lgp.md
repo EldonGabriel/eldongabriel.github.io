@@ -9,66 +9,62 @@ image:
   thumbnail: "/assets/images/posts/winrm.png"
 ---
 
-### What I Studied  
-In this lab, I configured Windows Remote Management (WinRM) using Local Group Policy on a standalone Windows 10 machine.  
-The exercise focused on disabling weak authentication methods, enforcing encryption, and preventing storage of administrative credentials.  
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Exercise Core Function</h1>
+</div>
+In this exercise, I focused on securely configuring Windows Remote Management (WinRM) on a standalone Windows 10 workstation using Local Group Policy. The goal was to enforce encrypted communication, disable weak authentication methods, and prevent storage of administrative credentials for safe remote administration.
 
-**Tools and Commands Used:**  
-- `gpedit.msc`  
-- `winrm quickconfig`  
-- `winrm get winrm/config`  
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">What I Studied</h1>
+</div>
+The lab involved navigating the **Local Group Policy Editor** to apply security settings for WinRM.
 
-**Key Concepts/Frameworks Applied:**  
-- WS-Management protocol security  
-- Group Policy enforcement  
-- Defense in Depth and Least Privilege principles  
+Key tools and techniques applied:
 
----
+- Using **gpedit.msc** to configure WinRM Client and Service policies  
+- Running **winrm quickconfig** and **winrm get winrm/config** to validate settings  
+- Ensuring firewall and network profile configuration supports remote management  
 
-### What I Learned  
-I gained hands-on experience in enforcing secure WinRM configuration through Group Policy.  
-Observations included:  
-- `[Source="GPO"]` confirms policy enforcement  
-- Insecure connections were rejected after applying the configuration  
-- Proper firewall and network profile configuration is required for remote management  
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">What I Learned</h1>
+</div>
+Key observations and lessons from this exercise:
 
-**Troubleshooting Lessons:**  
-- Network profile must be Private or Domain for WinRM firewall exception to work  
-- Commands must match interface names exactly when changing profiles  
+- **Hands-on GPO configuration builds confidence** in endpoint security hardening  
+- **Verification through PowerShell** confirms policy enforcement (`[Source="GPO"]`)  
+- **Network profile and firewall settings** are critical for enabling remote management  
 
----
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Why It Matters</h1>
+</div>
+Securing WinRM is vital for enterprise defense and compliance:
 
-### Why It Matters  
-Securing WinRM prevents credential theft and unauthorized remote access, reducing attack surface for enterprise systems.  
-It ensures compliance with hardening standards and mitigates risks from lateral movement or exploitation of management protocols.  
+- Prevents unauthorized access and credential exposure  
+- Supports baseline endpoint hardening prior to deployment  
+- Reinforces operational understanding of secure remote administration  
 
-**Real-world Analogy:**  
-Think of WinRM like a secure front door—locking it properly ensures only trusted personnel can enter, and monitoring the locks prevents intruders.  
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">How It Maps to the Job/Framework</h1>
+</div>
+- **NICE (OM-ADM-001 / System Administration):** Strengthens policy enforcement and endpoint access control  
+- **ASD Cyber Skills Framework – Advanced Beginner:** Demonstrates practical application of secure system configuration and validation  
 
----
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Key Takeaways</h1>
+</div>
+- Disable Basic and Digest authentication to eliminate cleartext credentials  
+- Require encrypted traffic for all remote management  
+- Validate applied settings through PowerShell outputs  
+- Local Group Policy ensures consistent and repeatable endpoint hardening  
+- Skills learned are directly applicable to enterprise cybersecurity operations  
 
-### How It Maps to the Job / Framework  
-**NICE / MOS / ASD Mapping:**  
-- NIST NICE: *OM-ADM-001 – System Administration*  
-- ASD Cyber Skills Framework: *SS-02 – Secure Systems Administration*  
-
-**Practical Applicability:**  
-Skills in configuring and validating secure WinRM are essential for sysadmins, SOC operators, and enterprise security engineers to maintain hardened endpoints.  
-
----
-
-### Key Takeaways  
-1. Always enforce encryption and disable weak authentication for WinRM.  
-2. Verify policy enforcement via PowerShell outputs.  
-3. Local Group Policy provides repeatable and consistent system hardening.  
-4. Network profiles and firewall rules are crucial for enabling remote management.  
 ---
 
 See my report below for a complete technical summary and validation of this lab exercise:
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;">
-    <iframe src="{{ 'assets/reports/REPORT – WinRM Secure Configuration and Validation – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – WinRM Secure Configuration and Validation – v1.0.0</figcaption>
-  </div>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
+  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;"> 
+    <iframe src="{{ 'assets/reports/REPORT – WinRM Secure Configuration and Validation – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe> 
+    <figcaption>REPORT – WinRM Secure Configuration and Validation – v1.0.0</figcaption> 
+  </div> 
 </div>
+
