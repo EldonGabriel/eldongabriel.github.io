@@ -12,7 +12,7 @@ image:
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Exercise Core Function</h1>
 </div>
-In this exercise, I focused on securely configuring Windows Remote Management (WinRM) on a standalone Windows 10 workstation using Local Group Policy. The goal was to enforce encrypted communication, disable weak authentication methods, and prevent storage of administrative credentials for safe remote administration.
+In this exercise, I focused on securely configuring Windows Remote Management (WinRM) on a standalone Windows 10 virutal machine (VM) using Local Group Policy. The goal was to enforce encrypted communication, disable weak authentication methods, and prevent storage of administrative credentials for safe remote administration.
 
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">What I Studied</h1>
