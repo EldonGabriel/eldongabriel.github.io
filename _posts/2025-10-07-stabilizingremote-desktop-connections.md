@@ -24,8 +24,8 @@ The lab focused on identifying why RDP sessions repeatedly failed:
 
 Key tools and techniques applied:
 
-- Diagnosing Group Policy conflicts using **secpol.msc** and **RSoP.msc**  
-- Monitoring network connectivity and behavior with **ICMP pings**  
+- Diagnosing Group Policy conflicts using `**secpol.msc` and `RSoP.msc`  
+- Monitoring network connectivity and behavior with `ICMP pings` 
 - Implementing a **bidirectional ping method** to stabilize ARP entries and maintain virtual NIC activity  
 
 <div style="text-align:center;">
