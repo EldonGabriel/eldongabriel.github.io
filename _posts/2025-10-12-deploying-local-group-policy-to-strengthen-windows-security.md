@@ -21,7 +21,7 @@ The lab involved navigating the **Local Group Policy Editor** to configure polic
 
 Key tools and techniques applied:
 
-- Using **gpedit.msc** to locate and apply policy settings  
+- Using `gpedit.msc` to locate and apply policy settings  
 - Exploring **Administrative Templates** and **Security Settings** paths  
 - Verifying policy application and persistence on a standalone workstation  
 
