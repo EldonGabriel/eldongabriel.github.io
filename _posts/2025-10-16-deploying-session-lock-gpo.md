@@ -62,7 +62,7 @@ Enforcing session locks is critical for enterprise security and compliance:
 See my report below for a complete technical summary and validation of this lab exercise:
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
   <div style="flex: 0 1 45%; min-width: 600px; text-align: center;"> 
-    <iframe src="{{ 'assets/reports/REPORT – Hardening Windows User Rights via Local Group Policy – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe> 
-    <figcaption>REPORT – Hardening Windows User Rights via Local Group Policy – v1.0.0</figcaption> 
+    <iframe src="{{ 'assets/reports/REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe> 
+    <figcaption>REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0</figcaption> 
   </div> 
 </div>
