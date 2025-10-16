@@ -21,7 +21,7 @@ The lab involved navigating the **Local Group Policy Editor** and registry paths
 
 Key tools and techniques applied:
 
-- Using **gpedit.msc** to apply SMB signing and protocol settings  
+- Using `gpedit.msc` to apply SMB signing and protocol settings  
 - Editing the **Registry** to disable SMBv1  
 - Verifying policy application and system behavior through PowerShell and SMB diagnostics  
 
