@@ -19,9 +19,9 @@ In this exercise, I focused on hardening a standalone Windows 10 workstation usi
 </div>
 The lab involved navigating the **Local Group Policy Editor** to apply security settings for Windows User Rights:
 
-- Using **gpedit.msc** to configure User Rights Assignment policies  
-- Running **gpupdate /force** to apply changes immediately  
-- Verifying enforcement via **Local Security Policy (secpol.msc)**  
+- Using `gpedit.msc` to configure User Rights Assignment policies  
+- Running `gpupdate /force` to apply changes immediately  
+- Verifying enforcement via **Local Security Policy** `(secpol.msc)`  
 
 Key concepts reinforced include the **principle of least privilege**, **system hardening**, and **access control**.
 
