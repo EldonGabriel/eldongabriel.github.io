@@ -21,8 +21,8 @@ The lab involved navigating the **Local Group Policy Editor** to apply security 
 
 Key tools and techniques applied:
 
-- Using **gpedit.msc** to configure WinRM Client and Service policies  
-- Running **winrm quickconfig** and **winrm get winrm/config** to validate settings  
+- Using `gpedit.msc` to configure WinRM Client and Service policies  
+- Running `winrm quickconfig` and `winrm get winrm/config` to validate settings  
 - Ensuring firewall and network profile configuration supports remote management  
 
 <div style="text-align:center;">
