@@ -16,7 +16,7 @@ In **Technical Guides & Troubleshooting**, I document step-by-step solutions for
   <strong>Top Skills:</strong> Troubleshooting · Documentation & Reporting · Problem-Solving
 </p>
 
-<<!-- Technical Guides & Troubleshooting Content -->
+<!-- Technical Guides & Troubleshooting Content -->
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
   <!-- Row 1 -->
