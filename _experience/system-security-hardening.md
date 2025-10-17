@@ -37,10 +37,8 @@ The **System Security & Hardening** section focuses on building resilient IT sys
     <figcaption>REPORT – Server Security Evaluation – v1.2.0</figcaption>
   </figure>
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – BYOD in Organizations_ Security, Challenges, and Strategies – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
+    <iframe src="{{ '/assets/reports/REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
     </iframe>
-    <figcaption>REPORT – BYOD in Organizations_ Security, Challenges, and Strategies – v1.0.1.pdf</figcaption>
+    <figcaption>REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0.</figcaption>
   </figure>
 </div>
-
-
