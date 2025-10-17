@@ -72,4 +72,3 @@ See my full technical report for detailed configuration and validation steps:
     <figcaption>GUIDE – UTM Kali Linux Shared Folder Configuration – v1.0.0</figcaption> 
   </div> 
 </div>
-```
