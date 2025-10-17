@@ -29,15 +29,6 @@ image:
 </div>
 
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 40px;">
-    <a href="/certifications/" style="text-decoration: none; display: inline-block; padding: 12px 24px; font-weight: bold; border-radius: 5px; background-color: #73b4d5; color: #000; border: 2px solid #73b4d5; transition: background-color 0.3s, color 0.3s;">
-      View All Certifications
-    </a>
-    <a href="/experience/" style="text-decoration: none; display: inline-block; padding: 12px 24px; font-weight: bold; border-radius: 5px; background-color: #73b4d5; color: #000; border: 2px solid #73b4d5; transition: background-color 0.3s, color 0.3s;">
-      View Hands-On Labs
-    </a>
-</div>
-
 ---
 
 <!-- Key Influences and Lessons Header -->
