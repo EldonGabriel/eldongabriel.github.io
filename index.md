@@ -15,13 +15,18 @@ image:
   </h2>
 </section>
 
-<p>I'm <strong>Eldon Gabriel</strong>, an <strong>ISC² Certified Cybersecurity Professional</strong> and an <strong>AI Dataset Trainer</strong> with a founder’s mindset. I focus on <strong>high performance</strong> and turning <strong>complex technical problems</strong> into <strong>simple, effective security solutions</strong>.</p>
+<p style="text-align:center; max-width:800px; margin:auto;">
+  I'm <strong>Eldon Gabriel</strong>, an <strong>ISC² Certified Cybersecurity Professional</strong> and <strong>AI Dataset Trainer</strong>. I build, secure, and optimize IT systems through real-world labs, projects, and research. My expertise spans <strong>Windows/Linux administration, network architecture, incident response, and threat analysis</strong>, complemented by AI/ML dataset work that sharpens analytical precision. Over <strong>100+ labs and reports</strong> demonstrate my practical skills in defending modern IT environments.
+</p>
 
-<p>My main focus areas are <strong>System Administration (MSAF – System Administration Fundamentals)</strong> and <strong>Open-Source Intelligence (MOIS – Certified OSINT Expert)</strong>. With a strong <strong>Windows</strong> background, I’ve learned how to apply <strong>key security controls</strong> and <strong>investigative techniques</strong>. My work produces real results, such as <strong>clear reports</strong>, <strong>automation scripts</strong>, and <strong>improved processes</strong> that make systems safer.</p>
-
-<p>Through <em>hands-on labs</em>, I practice finding <strong>weaknesses</strong>, <strong>investigating threats</strong>, and <strong>applying fixes</strong> using tools like <strong>YARA</strong>, <strong>Nmap</strong>, <strong>Wireshark</strong>, and <strong>Kali Linux</strong>. I’ve completed more than <strong>100 projects and reports</strong>, combining <em>independent work</em> with <em>advanced training</em> at the <strong>Mossé Cyber Security Institute (MCSI)</strong>. My studies follow major industry standards, including <strong>NIST NICE</strong>, <strong>US MOS</strong> and the <strong>ASD Cyber Skills Framework</strong>.</p>
-
-<p>Right now, I also contribute to <strong>AI research at Mercor</strong>, building my skills while showing the <strong>strong work ethic</strong> needed to deliver <strong>real impact</strong> in <strong>cybersecurity</strong>.</p>
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 40px;">
+    <a href="/certifications/" style="text-decoration: none; display: inline-block; padding: 12px 24px; font-weight: bold; border-radius: 5px; background-color: #73b4d5; color: #000; border: 2px solid #73b4d5; transition: background-color 0.3s, color 0.3s;">
+      View All Certifications
+    </a>
+    <a href="/experience/" style="text-decoration: none; display: inline-block; padding: 12px 24px; font-weight: bold; border-radius: 5px; background-color: #73b4d5; color: #000; border: 2px solid #73b4d5; transition: background-color 0.3s, color 0.3s;">
+      View Hands-On Labs
+    </a>
+</div>
 
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 40px;">
@@ -109,10 +114,10 @@ image:
 
 --- 
 
-<!-- Cybersecurity Reports -->
+<!-- Cybersecurity Report Highlights -->
 <section style="text-align:center; margin: 60px 0;">
   <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
-    Cybersecurity Reports
+    Cybersecurity Report Highlights
     <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
   </h2>
 </section>
