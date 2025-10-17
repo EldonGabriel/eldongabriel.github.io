@@ -15,9 +15,7 @@ image:
   </h2>
 </section>
 
-<p style="text-align:center; max-width:800px; margin:auto;">
-  I'm <strong>Eldon Gabriel</strong>, an <strong>ISC² Certified Cybersecurity Professional</strong> and <strong>AI Dataset Trainer</strong>. I build, secure, and optimize IT systems through real-world labs, projects, and research. My expertise spans <strong>Windows/Linux administration, network architecture, incident response, and threat analysis</strong>, complemented by AI/ML dataset work that sharpens analytical precision. Over <strong>100+ labs and reports</strong> demonstrate my practical skills in defending modern IT environments.
-</p>
+<p>I'm <strong>Eldon Gabriel</strong>, an <strong>ISC² Certified Cybersecurity Professional</strong> and <strong>AI Dataset Trainer</strong>. I build, secure, and optimize IT systems through real-world labs, projects, and research. My expertise spans <strong>Windows/Linux administration, network architecture, incident response, and threat analysis</strong>, complemented by AI/ML dataset work that sharpens analytical precision. Over <strong>100+ labs and reports</strong> demonstrate my practical skills in defending modern IT environments.</p>
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 40px;">
     <a href="/certifications/" style="text-decoration: none; display: inline-block; padding: 12px 24px; font-weight: bold; border-radius: 5px; background-color: #73b4d5; color: #000; border: 2px solid #73b4d5; transition: background-color 0.3s, color 0.3s;">
