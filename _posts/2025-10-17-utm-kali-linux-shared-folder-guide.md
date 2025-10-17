@@ -63,7 +63,7 @@ This capability helps analysts securely transfer tools, logs, and reports betwee
 - Efficient file transfer supports productivity and secure operations  
 - Virtualization troubleshooting is a foundational skill for cybersecurity professionals  
 
- 
+---
 
 See my full technical report for detailed configuration and validation steps:
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
