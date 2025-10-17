@@ -17,7 +17,12 @@ image:
   <strong>Top Skills:</strong> Open-Source Intelligence (OSINT) · Data Collection & Analysis · Investigative Reporting
 </p>
 
+<!-- Row 1 -->
  <figure style="flex: 1 1 100%; min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT%20–%20Using%20Google%20Translate%20for%20OSINT%20–%20v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe>
     <figcaption>REPORT – Using Google Translate for OSINT – v1.0.0.pdf</figcaption>
+  </figure>
+<figure style="flex: 1 1 100%; min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/REPORT – OSINT Email Enumeration & Validation – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – OSINT Email Enumeration & Validation – v1.0.0.pdf</figcaption>
   </figure>
