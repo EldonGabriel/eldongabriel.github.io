@@ -23,7 +23,7 @@ A curated list of additional certifications and hands-on labs that strengthen fo
 
 ### IT & System Administration Certifications
 * **KCIS - Knowledge of Core IT Skills:** Validates understanding of fundamental IT principles, including hardware, software, networking, and troubleshooting.
-
+* **Packt – Linux Foundations and Basic System Administration:** Covers Linux history, architecture, installation, configuration, permissions, file systems, user management, and core security practices.
 
 ### Hands-on Labs & Technical Skills
 * **Kali Linux:** Hands-on exercises with penetration testing, vulnerability scanning, and network security assessment.
