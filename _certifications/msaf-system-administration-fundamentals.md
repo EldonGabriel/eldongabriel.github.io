@@ -71,8 +71,8 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 * **Networking Fundamentals (4/4)**
 * **Windows System Security and Administration – Part 1 (7/7)**
 * **Windows System Security and Administration – Part 2 (9/9)**
-* **Windows System Security and Administration – Part 3 (3/8)**
-* **Firewall Fundamentals (0/6)**
+* **Windows System Security and Administration – Part 3 (8/8)**
+* **Firewall Fundamentals (2/6)**
 * **System Security and Administration: Linux (0/5)**
 * **Backups and Recovery and Restoration 101 (0/9)**
 * **Introduction to Troubleshooting (0/4)**
