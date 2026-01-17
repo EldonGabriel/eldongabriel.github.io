@@ -17,5 +17,6 @@ Through hands-on configurations and independent reporting, I implement traffic r
 
 This section highlights **original reports, configuration analysis, and validation evidence** produced from my own work, rather than guided lab walkthroughs, demonstrating practical firewall administration and defensive network design skills.
 
-**Top Skills:**  
-- Firewall Rule Design & Validation - Network Segmentation & Access Control - Traffic Monitoring & Analysis - Secure Remote Access (VPN) - Defensive Network Architecture 
+<p style="text-align:center;">
+  <strong>Top Skills:</strong> Firewall Rule Design & Validation · Network Segmentation & Access Control · Traffic Monitoring & Analysis · Secure Remote Access (VPN) · Defensive Network Architecture 
+</p>
