@@ -25,7 +25,7 @@ The **Firewall Fundamentals** section focuses on configuring and validating fire
     <figcaption>REPORT – Troubleshooting Remote Access and Network Isolation  – v1.0.0</figcaption>
   </figure>
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
+    <iframe src="{{ 'assets/reports/REPORT – pfSense IDS Traffic Monitoring and EternalBlue Detection – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
     </iframe>
-    <figcaption></figcaption>
+    <figcaption>assets/reports/REPORT – pfSense IDS Traffic Monitoring and EternalBlue Detection – v1.0.0.pdf</figcaption>
   </figure>
