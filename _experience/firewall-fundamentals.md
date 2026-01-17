@@ -6,7 +6,7 @@ collection: experience
 collection_item: true
 order: 3
 image:
-  path: /assets/images/headers/naf.png
+  path: /assets/images/headers/fwfund.png
   thumbnail: /assets/images/headers/naf.png
   caption: ""
 ---
