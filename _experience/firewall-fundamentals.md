@@ -27,5 +27,5 @@ The **Firewall Fundamentals** section focuses on configuring and validating fire
   <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ 'assets/reports/REPORT – pfSense IDS Traffic Monitoring and EternalBlue Detection – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;">
     </iframe>
-    <figcaption>assets/reports/REPORT – pfSense IDS Traffic Monitoring and EternalBlue Detection – v1.0.0.pdf</figcaption>
+    <figcaption>REPORT – pfSense IDS Traffic Monitoring and EternalBlue Detection – v1.0.0.pdf</figcaption>
   </figure>
