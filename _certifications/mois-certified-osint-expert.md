@@ -11,10 +11,43 @@ image:
   caption: ""
 ---
 
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/assets/certifications/mois-certified-osint-specialist/MCSI Novice OSINT Practitioner.png" 
+       alt="MCSI Novice OSINT Practitioner" 
+       style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
+  <p style="font-size: 14px; color: #ffffff;">MCSI Novice OSINT Practitioner</p>
+</div>
+
 <!-- MOIS – Certified OSINT Expert Section Header -->
 <div style="text-align:center; margin: 20px 0;">
-  <strong>Number of Training Exercises:</strong> 64 | <strong>Current Progress:</strong> 9/56 pts (16%)
+  <strong>Number of Training Exercises:</strong> 64 | <strong>Current Progress:</strong> 11/56 pts (20%)
 </div>
+
+<!-- MOIS – Certified OSINT Expert Completed Focus Areas -->
+### Completed Focus Areas
+
+* **OSINT Quickstarter Techniques**  
+  Reverse image searching, foreign-language analysis using translation tools, email address pattern guessing, identification of information leaks in public code repositories, and basic individual investigations using social media platforms.
+
+* **OSINT Environment Setup**  
+  Deployment and configuration of an OSINT-focused virtual machine and hardened browser environment to support investigative workflows.
+
+* **Search Engine–Based Intelligence (Beginner)**  
+  Construction of advanced search queries, identification of publicly exposed sensitive information, use of web caches and archives, multilingual research, Google Alerts, and custom search engines for targeted collection.
+
+* **Email & Account Enumeration (Foundational)**  
+  Identification and validation of target email address formats and basic assessment of account exposure risks.
+
+* **Image-Based OSINT (Foundational)**  
+  Reverse image searches and basic visual analysis techniques to identify reused or publicly indexed imagery.
+
+* **Code & Repository Intelligence**  
+  Discovery of exposed information and intelligence artifacts within public code repositories, including initial GitHub profile analysis.
+
+* **OSINT Documentation & Reporting**  
+  Development of structured OSINT report templates, workflow diagrams, and investigative mindmaps to support repeatable and defensible intelligence processes.
+
+---
 
 ### MOSINT Scenarios
 
@@ -67,7 +100,7 @@ These modules are comprised of multi-step projects that simulate real-world OSIN
 </ul>
 
 
-### Completed Modules
+### Module Progress Snapshot
 
 * **Quickstarter (2/6)**
 * **Key Concepts (0/2)**
@@ -87,12 +120,9 @@ These modules are comprised of multi-step projects that simulate real-world OSIN
 * **Social Media Intelligence – SOCMINT (0/7)**
 * **Documentation, Reports and Procedures (1/3)**
 
-
 <p style="text-align:center; margin-top: 40px;">
   <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832" style="text-decoration: none; display: inline-block; padding: 12px 24px; font-weight: bold; border-radius: 5px; background-color: #73b4d5; color: #000; border: 2px solid #73b4d5; transition: background-color 0.3s, color 0.3s;">
     View Career Development Milestones
   </a>
 </p>
-
-
 ---
