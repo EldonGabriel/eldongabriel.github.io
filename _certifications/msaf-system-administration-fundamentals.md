@@ -25,26 +25,38 @@ image:
 <!-- MSAF – System Administration Fundamentals Completed Focus Areas (Level 2) -->
 
 ### Completed Focus Areas (Level 2)
+### Completed Modules
 
-- **Virtualization Fundamentals**  
-  VMware, VirtualBox, Hyper-V/WSL, AWS, and GCP virtual machine deployment, snapshot management, and system recovery workflows.
+**Virtualization Fundamentals (9/9)**
 
-- **Networking Fundamentals**  
-  OSI and TCP/IP models, enterprise networking equipment, and secure network design using static and dynamic diagrams.
+VMware, VirtualBox, Hyper-V/WSL, AWS, and GCP virtual machine deployment, snapshot management, and system recovery workflows.
 
-- **Windows System Security & Administration**  
-  Firewall configuration, registry-based security controls, access permissions, and process monitoring.
+**Networking Fundamentals (4/4)**
 
-- **Group Policy–Based Security Enforcement**  
-  Credential protection, exploit mitigation, OS patching, password and account lockout policies, and SMB hardening.
+OSI and TCP/IP models, enterprise networking equipment, and secure network design using static and dynamic diagrams.
 
-- **Endpoint Protection & System Hardening**  
-  Windows Defender configuration, UAC hardening, Controlled Folder Access, and secure browser configurations.
+**Windows System Security and Administration – Part 1 (7/7)**
 
-- **Firewall Fundamentals (pfSense)**  
-  Traffic monitoring, port filtering, port forwarding, firewall rule validation, and OpenVPN-based secure connectivity.
+Firewall configuration, registry-based security controls, access permissions, and process monitoring.
 
----
+**Windows System Security and Administration – Part 2 (9/9)**
+  
+Credential protection, exploit mitigation, OS patching, password and account lockout policies, and SMB hardening.
+
+**Windows System Security and Administration – Part 3 (8/8)**
+
+Windows Defender configuration, UAC hardening, Controlled Folder Access, and secure browser configurations.
+
+**Firewall Fundamentals (pfSense) (6/6)**
+
+Traffic monitoring, port filtering, port forwarding, firewall rule validation, and OpenVPN-based secure connectivity.
+* **System Security and Administration: Linux (1/5)**
+* **Backups and Recovery and Restoration 101 (0/9)**
+* **Introduction to Troubleshooting (0/4)**
+* **Linux Server 101 – General (0/9)**
+* **Linux Server 101 – Networking (0/5)**
+* **Linux Server 101 – Hardening (0/8)**
+* **Procedures (0/1)**
 
 ### MSAF Scenarios
 
@@ -93,23 +105,6 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 <li>Run a mail trace on a user's mailbox</li>
 <li>Install and configure AlienVault OSSIM (SIEM)</li>
 </ul>
-
-
-### Completed Modules
-
-* **Virtualization Fundamentals (9/9)**
-* **Networking Fundamentals (4/4)**
-* **Windows System Security and Administration – Part 1 (7/7)**
-* **Windows System Security and Administration – Part 2 (9/9)**
-* **Windows System Security and Administration – Part 3 (8/8)**
-* **Firewall Fundamentals (6/6)**
-* **System Security and Administration: Linux (1/5)**
-* **Backups and Recovery and Restoration 101 (0/9)**
-* **Introduction to Troubleshooting (0/4)**
-* **Linux Server 101 – General (0/9)**
-* **Linux Server 101 – Networking (0/5)**
-* **Linux Server 101 – Hardening (0/8)**
-* **Procedures (0/1)**
 
 <p style="text-align:center; margin-top: 40px;">
   <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832" style="text-decoration: none; display: inline-block; padding: 12px 24px; font-weight: bold; border-radius: 5px; background-color: #73b4d5; color: #000; border: 2px solid #73b4d5; transition: background-color 0.3s, color 0.3s;">
