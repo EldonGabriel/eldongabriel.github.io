@@ -19,8 +19,9 @@ image:
 </div>
 
 <!-- MICS – Introduction to Cyber Security Section Header -->
-**Number of Training Exercises:** 40  
-**Current Progress:** 39 out of 39 pts (100%)
+<div style="text-align:center; margin: 20px 0;">
+  <strong>Number of Training Exercises:</strong> 40 | <strong>Current Progress:</strong> 39/39 pts (100%)
+</div>
 
 #### Lab Setup
 * Lab Setup: Screen Recording
