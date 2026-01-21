@@ -22,8 +22,8 @@ image:
 <div style="text-align:center; margin: 20px 0;">
   <strong>Number of Training Exercises:</strong> 106 | <strong>Current Progress:</strong> 43.5/84.5 pts (51%)
 </div>
-<!-- MSAF – System Administration Fundamentals Completed Focus Areas (Level 2) -->
 
+<!-- MSAF – System Administration Fundamentals Completed Focus Areas (Level 2) -->
 ### Completed Focus Areas (Level 2)
 
 - **Virtualization Fundamentals**  
