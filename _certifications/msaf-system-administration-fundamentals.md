@@ -13,7 +13,7 @@ image:
 
 <!-- MSAF – System Administration Fundamentals Section Header -->
 <div style="text-align:center; margin: 20px 0;">
-  <strong>Number of Training Exercises:</strong> 106 | <strong>Current Progress:</strong> 31/84.5 pts (37%)
+  <strong>Number of Training Exercises:</strong> 106 | <strong>Current Progress:</strong> 43.5/84.5 pts (51%)
 </div>
 
 ### MSAF Scenarios
@@ -72,8 +72,8 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 * **Windows System Security and Administration – Part 1 (7/7)**
 * **Windows System Security and Administration – Part 2 (9/9)**
 * **Windows System Security and Administration – Part 3 (8/8)**
-* **Firewall Fundamentals (2/6)**
-* **System Security and Administration: Linux (0/5)**
+* **Firewall Fundamentals (6/6)**
+* **System Security and Administration: Linux (1/5)**
 * **Backups and Recovery and Restoration 101 (0/9)**
 * **Introduction to Troubleshooting (0/4)**
 * **Linux Server 101 – General (0/9)**
