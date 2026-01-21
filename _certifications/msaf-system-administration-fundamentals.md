@@ -11,6 +11,12 @@ image:
   caption: ""
 ---
 
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/assets/certifications/msaf-system-admin-fundamentals/MCSI Novice System Administrator – Level 2.png" 
+       alt="MCSI Novice System Administrator – Level 2" 
+       style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
+  <p style="font-size: 14px; color: #ffffff;">Level 4: Cybersecurity Learner - Level 3</p>
+</div>
 <!-- MSAF – System Administration Fundamentals Section Header -->
 <div style="text-align:center; margin: 20px 0;">
   <strong>Number of Training Exercises:</strong> 106 | <strong>Current Progress:</strong> 43.5/84.5 pts (51%)
