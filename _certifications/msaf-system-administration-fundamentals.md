@@ -27,12 +27,10 @@ image:
 ### Completed Focus Areas (Level 2)
 ### Completed Modules
 
-**Virtualization Fundamentals (9/9)**
-
+* **Virtualization Fundamentals (9/9)**
 VMware, VirtualBox, Hyper-V/WSL, AWS, and GCP virtual machine deployment, snapshot management, and system recovery workflows.
 
-**Networking Fundamentals (4/4)**
-
+* **Networking Fundamentals (4/4)**
 OSI and TCP/IP models, enterprise networking equipment, and secure network design using static and dynamic diagrams.
 
 **Windows System Security and Administration – Part 1 (7/7)**
