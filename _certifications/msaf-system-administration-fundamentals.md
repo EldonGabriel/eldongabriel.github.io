@@ -17,10 +17,34 @@ image:
        style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
   <p style="font-size: 14px; color: #ffffff;">MCSI Novice System Administrator – Level 2</p>
 </div>
+
 <!-- MSAF – System Administration Fundamentals Section Header -->
 <div style="text-align:center; margin: 20px 0;">
   <strong>Number of Training Exercises:</strong> 106 | <strong>Current Progress:</strong> 43.5/84.5 pts (51%)
 </div>
+<!-- MSAF – System Administration Fundamentals Completed Focus Areas (Level 2) -->
+
+### Completed Focus Areas (Level 2)
+
+- **Virtualization Fundamentals**  
+  VMware, VirtualBox, Hyper-V/WSL, AWS, and GCP virtual machine deployment, snapshot management, and system recovery workflows.
+
+- **Networking Fundamentals**  
+  OSI and TCP/IP models, enterprise networking equipment, and secure network design using static and dynamic diagrams.
+
+- **Windows System Security & Administration**  
+  Firewall configuration, registry-based security controls, access permissions, and process monitoring.
+
+- **Group Policy–Based Security Enforcement**  
+  Credential protection, exploit mitigation, OS patching, password and account lockout policies, and SMB hardening.
+
+- **Endpoint Protection & System Hardening**  
+  Windows Defender configuration, UAC hardening, Controlled Folder Access, and secure browser configurations.
+
+- **Firewall Fundamentals (pfSense)**  
+  Traffic monitoring, port filtering, port forwarding, firewall rule validation, and OpenVPN-based secure connectivity.
+
+---
 
 ### MSAF Scenarios
 
