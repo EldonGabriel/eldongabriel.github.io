@@ -65,8 +65,8 @@ In **Technical Guides & Troubleshooting**, I document step-by-step solutions for
     <figcaption>GUIDE – Webmin Secure Administration – v1.0.0</figcaption>
   </figure>
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption></figcaption>
+    <iframe src="{{ 'assets/guides/GUIDE – Cockpit Secure System Administration – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>GUIDE – Cockpit Secure System Administration – v1.0.0.pdf</figcaption>
   </figure>
 
 </div>
