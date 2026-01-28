@@ -71,7 +71,7 @@ In **Technical Guides & Troubleshooting**, I document step-by-step solutions for
 
    <!-- Row 6 -->
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '  assets/guides/GUIDE – System Activity Reporter (SAR) Performance Monitoring on Ubuntu 24.04.3 LTS – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <iframe src="{{ 'assets/guides/GUIDE – System Activity Reporter (SAR) Performance Monitoring on Ubuntu 24.04.3 LTS – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
     <figcaption>GUIDE – System Activity Reporter (SAR) Performance Monitoring on Ubuntu 24.04.3 LTS – v1.0.0</figcaption>
   </figure>
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
