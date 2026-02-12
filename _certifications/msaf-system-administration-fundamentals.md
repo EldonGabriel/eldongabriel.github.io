@@ -44,6 +44,8 @@ image:
 - **Firewall Fundamentals (pfSense)**  
   Traffic monitoring, port filtering, port forwarding, firewall rule validation, and OpenVPN-based secure connectivity.
 
+- **System Security and Administration (Linux)**  
+  Linux system administration fundamentals, command-line operations, SAR performance monitoring, secure Webmin/Cockpit deployment, and firewall hardening using  Shorewall with IP whitelisting controls.
 
 ### MSAF Scenarios
 
