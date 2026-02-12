@@ -101,13 +101,13 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 * **Windows System Security & Administration – Part 2 (9/9)** 
 * **Windows System Security & Administration – Part 3 (8/8)** 
 * **Firewall Fundamentals (6/6)**
+* **System Security and Administration: Linux (5/5)**
 
 ---
 
 ## Modules In Progress / Upcoming
 
-* **System Security and Administration: Linux (1/5)**
-* **Backups and Recovery and Restoration 101 (0/9)**
+* **Backups and Recovery and Restoration 101 (6/9)**
 * **Introduction to Troubleshooting (0/4)**
 * **Linux Server 101 – General (0/9)**
 * **Linux Server 101 – Networking (0/5)**
