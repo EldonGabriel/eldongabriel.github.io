@@ -6,8 +6,8 @@ collection: experience
 collection_item: true
 order: 3
 image:
-  path: /assets/images/headers/brr101.png
-  thumbnail: /assets/images/headers/brr101.png
+  path: /assets/images/headers/brr.png
+  thumbnail: /assets/images/headers/brr.png
   caption: ""
 ---
 
