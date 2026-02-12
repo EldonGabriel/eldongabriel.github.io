@@ -47,6 +47,26 @@ image:
 * **OSINT Documentation & Reporting**  
   Development of structured OSINT report templates, workflow diagrams, and investigative mindmaps to support repeatable and defensible intelligence processes.
 
+### Modules In Progress / Upcoming
+
+* **Quickstarter (2/6)**
+* **Key Concepts (0/2)**
+* **IT Environment Setup (1/2)**
+* **Search Engines (4/10)**
+* **Usernames (0/1)**
+* **Email Addresses (0/3)**
+* **Telephone Numbers (0/1)**
+* **Documents (0/3)**
+* **IP Addresses and Domain Names (0/2)**
+* **Images and Videos (0/4)**
+* **Online Maps (0/3)**
+* **Generative AI and Deep Fakes (0/3)**
+* **Online Communities (0/2)**
+* **Software Code (1/2)**
+* **Dark Web (0/3)**
+* **Social Media Intelligence – SOCMINT (0/7)**
+* **Documentation, Reports and Procedures (1/3)**
+
 ---
 
 ### MOSINT Scenarios
@@ -99,26 +119,6 @@ These modules are comprised of multi-step projects that simulate real-world OSIN
 <li>Develop Workflow Diagrams to guide OSINT Investigations</li>
 </ul>
 
-
-### Module Progress Snapshot
-
-* **Quickstarter (2/6)**
-* **Key Concepts (0/2)**
-* **IT Environment Setup (1/2)**
-* **Search Engines (4/10)**
-* **Usernames (0/1)**
-* **Email Addresses (0/3)**
-* **Telephone Numbers (0/1)**
-* **Documents (0/3)**
-* **IP Addresses and Domain Names (0/2)**
-* **Images and Videos (0/4)**
-* **Online Maps (0/3)**
-* **Generative AI and Deep Fakes (0/3)**
-* **Online Communities (0/2)**
-* **Software Code (1/2)**
-* **Dark Web (0/3)**
-* **Social Media Intelligence – SOCMINT (0/7)**
-* **Documentation, Reports and Procedures (1/3)**
 
 <p style="text-align:center; margin-top: 40px;">
   <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832" style="text-decoration: none; display: inline-block; padding: 12px 24px; font-weight: bold; border-radius: 5px; background-color: #73b4d5; color: #000; border: 2px solid #73b4d5; transition: background-color 0.3s, color 0.3s;">
