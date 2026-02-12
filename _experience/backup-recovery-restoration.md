@@ -1,7 +1,7 @@
 ---
-title: "Backups, Recovery, and Restoration"
+title: "Backup, Recovery, and Restoration"
 layout: collection-item
-slug: backups-recovery-restoration
+slug: backup-recovery-restoration
 collection: experience
 collection_item: true
 order: 3
