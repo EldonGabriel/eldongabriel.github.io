@@ -15,11 +15,11 @@ image:
   </h2>
 </section>
 
-<p>I'm <strong>Eldon Gabriel</strong>, an <strong>ISC² Certified Cybersecurity Professional</strong> with hands-on experience securing and managing Windows and Linux environments through real-world labs, projects, and structured training under the MSAF (System Administration Fundamentals) program. My work focuses on system hardening, network security, troubleshooting, and defensive security operations.
+<p>I'm <strong>Eldon Gabriel</strong>, an <strong>ISC² Certified Cybersecurity Professional</strong> with hands-on experience securing and managing Windows and Linux environments through real-world labs, projects, and structured training under the MSAF (System Administration Fundamentals) program. My work focuses on system hardening, network security, troubleshooting, and defensive security operations.</p>
 
-I also completed the Mercor Red Teaming Academy, where I gained experience in AI safety concepts, threat modeling, and practical red-teaming exercises, including a live evaluation-based red team assessment. In addition, I completed an AI dataset training project, which strengthened my attention to detail, analytical thinking, and ability to work with structured technical data.
+<p>I also completed the Mercor Red Teaming Academy, where I gained experience in AI safety concepts, threat modeling, and practical red-teaming exercises, including a live evaluation-based red team assessment. In addition, I completed an AI dataset training project, which strengthened my attention to detail, analytical thinking, and ability to work with structured technical data.</p>
 
-With 100+ labs and reports completed, I focus on practical skills that support secure IT operations, incident response readiness, and real-world cybersecurity problem solving.</p>
+<p>With 100+ labs and reports completed, I focus on practical skills that support secure IT operations, incident response readiness, and real-world cybersecurity problem solving.</p>
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 40px;">
     <a href="/certifications/" style="text-decoration: none; display: inline-block; padding: 12px 24px; font-weight: bold; border-radius: 5px; background-color: #73b4d5; color: #000; border: 2px solid #73b4d5; transition: background-color 0.3s, color 0.3s;">
