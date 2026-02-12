@@ -32,13 +32,13 @@ image:
 * **OSINT Environment Setup**  
   Deployment and configuration of an OSINT-focused virtual machine and hardened browser environment to support investigative workflows.
 
-* **Search Engine–Based Intelligence (Beginner)**  
+* **Search Engine–Based Intelligence**  
   Construction of advanced search queries, identification of publicly exposed sensitive information, use of web caches and archives, multilingual research, Google Alerts, and custom search engines for targeted collection.
 
-* **Email & Account Enumeration (Foundational)**  
+* **Email & Account Enumeration**  
   Identification and validation of target email address formats and basic assessment of account exposure risks.
 
-* **Image-Based OSINT (Foundational)**  
+* **Image-Based OSINT**  
   Reverse image searches and basic visual analysis techniques to identify reused or publicly indexed imagery.
 
 * **Code & Repository Intelligence**  
