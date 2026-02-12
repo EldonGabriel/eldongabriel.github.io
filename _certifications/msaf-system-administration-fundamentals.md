@@ -47,6 +47,27 @@ image:
 - **System Security and Administration (Linux)**  
   Linux system administration fundamentals, command-line operations, SAR performance monitoring, secure Webmin/Cockpit deployment, and firewall hardening using  Shorewall with IP whitelisting controls.
 
+## Completed Modules
+
+* **Virtualization Fundamentals (9/9)**
+* **Networking Fundamentals (4/4)**
+* **Windows System Security & Administration – Part 1 (7/7)** 
+* **Windows System Security & Administration – Part 2 (9/9)** 
+* **Windows System Security & Administration – Part 3 (8/8)** 
+* **Firewall Fundamentals (6/6)**
+* **System Security and Administration: Linux (5/5)**
+
+## Modules In Progress / Upcoming
+
+* **Backups and Recovery and Restoration 101 (6/9)**
+* **Introduction to Troubleshooting (0/4)**
+* **Linux Server 101 – General (0/9)**
+* **Linux Server 101 – Networking (0/5)**
+* **Linux Server 101 – Hardening (0/8)**
+* **Procedures (0/1)**
+
+---
+
 ### MSAF Scenarios
 
 These modules are comprised of multi-step projects that simulate real-world IT and cybersecurity tasks in a live enterprise environment.
@@ -94,27 +115,6 @@ These modules are comprised of multi-step projects that simulate real-world IT a
 <li>Run a mail trace on a user's mailbox</li>
 <li>Install and configure AlienVault OSSIM (SIEM)</li>
 </ul>
-
-## Completed Modules
-
-* **Virtualization Fundamentals (9/9)**
-* **Networking Fundamentals (4/4)**
-* **Windows System Security & Administration – Part 1 (7/7)** 
-* **Windows System Security & Administration – Part 2 (9/9)** 
-* **Windows System Security & Administration – Part 3 (8/8)** 
-* **Firewall Fundamentals (6/6)**
-* **System Security and Administration: Linux (5/5)**
-
----
-
-## Modules In Progress / Upcoming
-
-* **Backups and Recovery and Restoration 101 (6/9)**
-* **Introduction to Troubleshooting (0/4)**
-* **Linux Server 101 – General (0/9)**
-* **Linux Server 101 – Networking (0/5)**
-* **Linux Server 101 – Hardening (0/8)**
-* **Procedures (0/1)**
   
 <p style="text-align:center; margin-top: 40px;">
   <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832" style="text-decoration: none; display: inline-block; padding: 12px 24px; font-weight: bold; border-radius: 5px; background-color: #73b4d5; color: #000; border: 2px solid #73b4d5; transition: background-color 0.3s, color 0.3s;">
