@@ -23,13 +23,13 @@ My **Backup, Recovery, and Restoration (BRR) labs** provide hands-on experience 
 
 <!-- Row 1 -->
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Backup, Recovery, and Restoration (BRR) Plan – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – Backup, Recovery, and Restoration (BRR) Plan – v1.0.0</figcaption>
+    <iframe src="{{ '/assets/reports/REPORT – Active Directory Bare Metal Recovery (BMR) Backup and Restore – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption>REPORT – Active Directory Bare Metal Recovery (BMR) Backup and Restore – v1.0.0</figcaption>
   </figure>
 
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Backup Validation and Restore Testing – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – Backup Validation and Restore Testing – v1.0.0</figcaption>
+    <iframe src="{{ '' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+    <figcaption></figcaption>
   </figure>
 
 </div>
