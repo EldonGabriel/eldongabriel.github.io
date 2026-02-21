@@ -67,8 +67,6 @@ image:
   </h2>
 </section>
 
-<p>My approach to cybersecurity is shaped by lessons in <strong>leadership, resilience, and strategic thinking</strong> from industry leaders. This mentorship allows me to bridge the gap between complex technical data and high-level business risk.</p>
-
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1; text-align: center;">
     <img src="assets/images/Eldon-George.jpg" alt="George H. Ross" 
@@ -100,10 +98,12 @@ image:
     Technical Case Studies
     <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
   </h2>
-  <p>Independent Reports & Public Project Documentation</p>
-  <p style="font-size: 0.9em; color: #ccc; max-width: 800px; margin: 0 auto;">
-    To uphold academic integrity and non-disclosure pledges, proctored lab reports from the MCSI curriculum are excluded from this public platform. A comprehensive catalog of 100+ verified labs is available for review upon professional request.
-  </p>
+  <p><strong>Independent Reports & Public Project Documentation</strong></p>
+  <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 8px; border-left: 4px solid #fff; margin: 20px auto; max-width: 900px; text-align: left;">
+    <p style="font-size: 1em; color: #eee; margin: 0;">
+      My expertise is backed by 100+ verified technical labs and reports. Due to non-disclosure agreements and academic integrity pledges (MCSI), detailed lab reports for specific curriculum milestones are available only upon direct request for verified professional inquiries.
+    </p>
+  </div>
 </section>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
