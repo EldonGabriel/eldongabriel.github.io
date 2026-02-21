@@ -1,5 +1,5 @@
 ---
-title: Experience
+title: Experience & Capabilities
 layout: collection
 permalink: /experience/
 collection: experience
@@ -13,4 +13,4 @@ My professional journey is defined by a high-performance, hands-on approach to I
 
 Below are featured projects and roles that showcase my practical expertise in **system administration**, **network security**, **incident response**, **digital forensics**, and **investigative intelligence (OSINT).**
 
-This featured work is supported by an extensive, verified portfolio:
+This featured work is supported by an extensive, verified portfolio of independent research, labs, and client engagements:
