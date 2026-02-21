@@ -23,7 +23,7 @@ image:
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
     
     <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">System Hardening & Ops</h3>
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">System Hardening</h3>
       <p>Deployment and continuous securing of Windows and Linux environments. I implement NIST-aligned controls, GPO restrictions, and automated access policies to eliminate vulnerabilities.</p>
       <ul style="font-size: 0.9em; color: #ccc;">
         <li>Server Security Evaluations</li>
@@ -33,7 +33,7 @@ image:
     </div>
 
     <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Incident & Network Analysis</h3>
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Network Defense</h3>
       <p>Investigation of unauthorized access and network troubleshooting. I utilize deep-dive analysis to identify root causes and implement permanent remediation plans.</p>
       <ul style="font-size: 0.9em; color: #ccc;">
         <li>Unauthorized Access Investigation</li>
