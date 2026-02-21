@@ -6,13 +6,13 @@ collection: certifications
 collection_item: true
 order: 9
 image:
-  path: /assets/images/headers/msaf.png
-  thumbnail: /assets/images/headers/msaf.png
+  path: /assets/images/headers/msafsysadmin.png
+  thumbnail: /assets/images/headers/msafsysadmin.png
   caption: "Enterprise System Management & Infrastructure Defense"
 ---
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/assets/certifications/MSAF-system-administration-fundamentals-cybersecurity-level-3.png" 
+  <img src="/assets/certifications/msaf-system-admin-fundamentals/MCSI Novice System Administrator – Level 2.png" 
        alt="MSAF – System Administration Fundamentals - Level 3" 
        style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
   <p style="font-size: 14px; color: #ffffff;">Level 4: Cybersecurity Learner - Level 3</p>
