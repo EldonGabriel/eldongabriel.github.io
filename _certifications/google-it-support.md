@@ -34,11 +34,11 @@ The **Google IT Support Professional** credential serves as the technical backbo
 <div style="background: rgba(255,255,255,0.02); padding: 20px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1);">
   <p><strong>Status:</strong> Specialization Completed (Jan 23, 2025)</p>
   <ul style="list-style: none; padding-left: 0;">
-    <li>✅ <strong>Technical Support Fundamentals</strong> (Grade: 90.12%)</li>
-    <li>✅ <strong>The Bits and Bytes of Computer Networking</strong> (Grade: 89.90%)</li>
-    <li>✅ <strong>Operating Systems and You: Becoming a Power User</strong> (Grade: 89.16%)</li>
-    <li>✅ <strong>System Administration and IT Infrastructure Services</strong> (Grade: 91.77%)</li>
-    <li>✅ <strong>IT Security: Defense Against the Digital Dark Arts</strong> (Grade: 93.20%)</li>
+    <li>✅ <strong>Technical Support Fundamentals</strong></li>
+    <li>✅ <strong>The Bits and Bytes of Computer Networking</strong></li>
+    <li>✅ <strong>Operating Systems and You: Becoming a Power User</strong></li>
+    <li>✅ <strong>System Administration and IT Infrastructure Services</strong></li>
+    <li>✅ <strong>IT Security: Defense Against the Digital Dark Arts</strong></li>
   </ul>
 </div>
 
