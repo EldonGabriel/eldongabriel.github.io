@@ -1,10 +1,9 @@
 ---
 layout: home
-title: Cybersecurity Portfolio
-permalink: /Test.md
+title: Freelancer Portfolio TEST
+permalink: /test/
 image:
   path: /assets/images/banner.png
-  
 ---
 
 <!-- Insights Header -->
