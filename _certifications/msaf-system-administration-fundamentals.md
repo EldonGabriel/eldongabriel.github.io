@@ -13,7 +13,7 @@ image:
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/assets/certifications/msaf-system-admin-fundamentals/MCSI Novice System Administrator – Level 2.png" 
-       alt="MSAF – System Administration Fundamentals - Level 3" 
+       alt="Level 2: MCSI Novice System Administrator" 
        style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
   <p style="font-size: 14px; color: #ffffff;">Level 4: Cybersecurity Learner - Level 3</p>
 </div>
