@@ -27,7 +27,7 @@ I design and implement robust **Business Continuity and Disaster Recovery (BCDR)
   </figure>
 
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/guides/GUIDE – Data Backup and Recovery with Duplicati – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #333; border-radius: 8px;"></iframe>
+    <iframe src="{{ 'assets/guides/GUIDE – Backup and Restore Using Duplicati CLI – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #333; border-radius: 8px;"></iframe>
     <figcaption style="margin-top: 10px; font-weight: bold;">Deployment: Automated Offsite Data Protection</figcaption>
     <p style="font-size: 0.9em; color: #ccc;">Configuring encrypted, automated backup workflows to cloud storage providers using industry-standard tools like Duplicati.</p>
   </figure>
