@@ -1,124 +1,68 @@
 ---
-title: "MSAF System Administration Fundamentals"
+title: "MSAF: System Administration Fundamentals"
 layout: collection-item
 slug: msaf-system-administration-fundamentals
 collection: certifications
 collection_item: true
-order: 8
+order: 9
 image:
-  path: /assets/images/headers/msafsysadmin.png
-  thumbnail: /assets/images/headers/msafsysadmin.png
-  caption: ""
+  path: /assets/images/headers/msaf.png
+  thumbnail: /assets/images/headers/msaf.png
+  caption: "Enterprise System Management & Infrastructure Defense"
 ---
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/assets/certifications/msaf-system-admin-fundamentals/MCSI Novice System Administrator – Level 2.png" 
-       alt="MCSI Novice System Administrator – Level 2" 
+  <img src="/assets/certifications/MSAF-system-administration-fundamentals-cybersecurity-level-3.png" 
+       alt="MSAF – System Administration Fundamentals - Level 3" 
        style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
-  <p style="font-size: 14px; color: #ffffff;">MCSI Novice System Administrator – Level 2</p>
+  <p style="font-size: 14px; color: #ffffff;">Level 4: Cybersecurity Learner - Level 3</p>
 </div>
 
-<!-- MSAF – System Administration Fundamentals Section Header -->
-<div style="text-align:center; margin: 20px 0;">
-  <strong>Number of Training Exercises:</strong> 106 | <strong>Current Progress:</strong> 43.5/84.5 pts (51%)
-</div>
+The **MSAF (System Administration Fundamentals)** certification from Mossé Cyber Security Institute validates my proficiency in managing and securing enterprise-grade infrastructure. This lab-heavy program focuses on the "Secure by Design" philosophy, ensuring that systems are not just operational, but resilient against modern threats.
 
-<!-- MSAF – System Administration Fundamentals Completed Focus Areas (Level 2) -->
-### Completed Focus Areas (Level 2)
-
-- **Virtualization Fundamentals**  
-  VMware, VirtualBox, Hyper-V/WSL, AWS, and GCP virtual machine deployment, snapshot management, and system recovery workflows.
-
-- **Networking Fundamentals**  
-  OSI and TCP/IP models, enterprise networking equipment, and secure network design using static and dynamic diagrams.
-
-- **Windows System Security & Administration**  
-  Firewall configuration, registry-based security controls, access permissions, and process monitoring.
-
-- **Group Policy–Based Security Enforcement**  
-  Credential protection, exploit mitigation, OS patching, password and account lockout policies, and SMB hardening.
-
-- **Endpoint Protection & System Hardening**  
-  Windows Defender configuration, UAC hardening, Controlled Folder Access, and secure browser configurations.
-
-- **Firewall Fundamentals (pfSense)**  
-  Traffic monitoring, port filtering, port forwarding, firewall rule validation, and OpenVPN-based secure connectivity.
-
-- **System Security and Administration (Linux)**  
-  Linux system administration fundamentals, command-line operations, SAR performance monitoring, secure Webmin/Cockpit deployment, and firewall hardening using  Shorewall with IP whitelisting controls.
-
-## Completed Modules
-
-* **Virtualization Fundamentals (9/9)**
-* **Networking Fundamentals (4/4)**
-* **Windows System Security & Administration – Part 1 (7/7)** 
-* **Windows System Security & Administration – Part 2 (9/9)** 
-* **Windows System Security & Administration – Part 3 (8/8)** 
-* **Firewall Fundamentals (6/6)**
-* **System Security and Administration: Linux (5/5)**
-
-## Modules In Progress / Upcoming
-
-* **Backups and Recovery and Restoration 101 (6/9)**
-* **Introduction to Troubleshooting (0/4)**
-* **Linux Server 101 – General (0/9)**
-* **Linux Server 101 – Networking (0/5)**
-* **Linux Server 101 – Hardening (0/8)**
-* **Procedures (0/1)**
-
----
-
-### MSAF Scenarios
-
-These modules are comprised of multi-step projects that simulate real-world IT and cybersecurity tasks in a live enterprise environment.
-
-
-### Windows Server 101
-
-<p><strong>Description:</strong> This scenario involves building a complete Windows enterprise environment from scratch, including a Domain Controller, file server, and web server.</p>
-
-<p><strong>Key Skills Demonstrated:</strong> Enterprise System Administration, Active Directory Management, GPO Deployment, Network Infrastructure Services.</p>
-
-<p><strong>Tasks</strong></p>
-<ul>
-<li>Setup a Domain Controller in a cloud ICT environment</li>
-<li>Install a Squid proxy and force all Internet traffic through it</li>
-<li>Create and link a GPO to a Domain Controller</li>
-<li>Create an Active Directory Forest</li>
-<li>Setup a file server and connect it to a domain</li>
-<li>Setup a Windows Exchange Server and expose relevant network services</li>
-<li>Setup a machine that will simulate a Windows workstation and connect it to the domain</li>
-<li>Setup a machine that will simulate a Print Server and connect it to the domain</li>
-<li>Set user permissions to allow/deny access to File Shares</li>
-<li>Deploy and configure an IIS webserver</li>
-<li>Create and configure 4 different subnets for the AD environment</li>
-<li>Deploy a GPO that applies security best practices across the fleet of computers</li>
-</ul>
-
-
-### Introduction to Exchange Server Administration
-
-<p><strong>Description:</strong> This scenario focuses on the installation, configuration, and security of an Exchange server, including digital forensics and SIEM integration.</p>
-
-<p><strong>Key Skills Demonstrated:</strong> Mail Server Administration, Digital Forensics, SIEM Integration, Email Security.</p>
-
-<p><strong>Tasks:</strong></p>
-<ul>
-<li>Install and configure an Exchange server and connect it to a domain</li>
-<li>Create 10 exchange mailbox accounts</li>
-<li>Research and explain Exchange server audit logs for digital forensics</li>
-<li>Enable Administration Audit logs on your exchange server</li>
-<li>Delegate a mailbox from one user to another</li>
-<li>Setup mail forwarding from one mailbox to another</li>
-<li>Create an Email distribution group</li>
-<li>Create an Email security group</li>
-<li>Run a mail trace on a user's mailbox</li>
-<li>Install and configure AlienVault OSSIM (SIEM)</li>
-</ul>
-  
-<p style="text-align:center; margin-top: 40px;">
-  <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832" style="text-decoration: none; display: inline-block; padding: 12px 24px; font-weight: bold; border-radius: 5px; background-color: #73b4d5; color: #000; border: 2px solid #73b4d5; transition: background-color 0.3s, color 0.3s;">
-    View Career Development Milestones
-  </a>
+<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+  <strong>Primary Infrastructure Solutions:</strong> System Hardening · Directory Services Security · Enterprise Monitoring
 </p>
----
+
+
+
+#### **Strategic Administrative Capabilities**
+Leveraging the rigorous training from MSAF, I provide the following essential infrastructure services:
+
+* **Enterprise Hardening:** Implementing OS-level security baselines and reducing attack surfaces for Windows and Linux server environments.
+* **Identity Management:** Architecting secure Active Directory environments, including GPO deployment and robust Permission/Right management.
+* **Service Security:** Deploying and hardening business-critical services such as Webmin, Cockpit, and Secure Web Administration.
+* **Performance & Integrity:** Establishing continuous monitoring and performance analysis using SAR and automated system logging.
+
+#### **Technical Mastery & Lab Milestones**
+<div style="background: rgba(255,255,255,0.02); padding: 20px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1);">
+  <p><strong>Training Focus:</strong> 100% Practical, Hands-On Exercise Completion</p>
+  
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; font-size: 0.9em;">
+    <div>
+      <h5 style="margin-bottom: 10px; color: #73b4d5;">System & Service Security</h5>
+      <ul style="padding-left: 15px; color: #ccc;">
+        <li>Windows Registry Hardening</li>
+        <li>Folder Permissions & ACLs</li>
+        <li>Secure Webmin/Cockpit Admin</li>
+        <li>Multi-User Environment Security</li>
+      </ul>
+    </div>
+    <div>
+      <h5 style="margin-bottom: 10px; color: #73b4d5;">Operations & Resilience</h5>
+      <ul style="padding-left: 15px; color: #ccc;">
+        <li>Duplicati CLI Backup Workflows</li>
+        <li>SAR Performance Monitoring</li>
+        <li>System Activity Reporting</li>
+        <li>Infrastructure Documentation</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+***
+
+#### **Operational Integration**
+The competencies verified here are the engine for my **Windows Systems Administration** and **System Hardening** experience. My MSAF training ensures that I approach every administrative task with a security-first mindset.
+
+[View Career Development Milestones](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) | [Request Infrastructure Support](mailto:eldongbrl@gmail.com)
