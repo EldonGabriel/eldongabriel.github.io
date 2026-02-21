@@ -4,7 +4,7 @@ layout: collection-item
 slug: windows-systems-administration
 collection: experience
 collection_item: true
-order: 2
+order: 6
 image:
   path: /assets/images/headers/wsa.png
   thumbnail: /assets/images/headers/wsa.png
