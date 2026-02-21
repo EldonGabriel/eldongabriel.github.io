@@ -6,7 +6,7 @@ collection: experience
 collection_item: true
 order: 3
 image:
-  path: /assets/images/brr.png
+  path: /assets/images/bcbr.png
   thumbnail: /assets/images/bcbr.png
   caption: "Ensuring Operational Resilience"
 ---
