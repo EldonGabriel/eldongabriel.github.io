@@ -4,7 +4,7 @@ layout: collection-item
 slug: technical-solutions-troubleshooting
 collection: experience
 collection_item: true
-order: 8
+order: 4
 image:
   path: /assets/images/headers/tst.png
   thumbnail: /assets/images/headers/tst.png
