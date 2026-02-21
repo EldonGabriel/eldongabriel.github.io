@@ -8,157 +8,76 @@ order: 2
 image:
   path: /assets/images/headers/wsa.png
   thumbnail: /assets/images/headers/wsa.png
-  caption: ""
+  caption: "Optimizing Enterprise Windows Environments"
 ---
-My **Windows Administration Labs** provide hands-on experience configuring, managing, and securing Windows environments. Each lab mirrors real-world challenges, including user and group management, Group Policy Objects (GPOs), firewall configuration, and troubleshooting.
 
-<p style="text-align:center;">
-  <strong>Top Skills:</strong> System Administration · Endpoint Hardening · Troubleshooting & Diagnostics
+I provide comprehensive **Windows Administration Solutions** designed to ensure the stability and security of business-critical infrastructure. My approach combines proactive endpoint hardening, automated system maintenance, and deep-dive diagnostics to eliminate technical debt and prevent unauthorized access.
+
+<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+  <strong>Primary Solutions:</strong> GPO Security Engineering · Identity Management (IAM) · System Maintenance Automation
 </p>
 
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 40px;">
 
-<!-- Windows Systems Administration Content -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-
-<!-- Row 1 -->
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Kerberos Authentication Protocol – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – Kerberos Authentication Protocol – v1.0.1</figcaption>
+    <iframe src="{{ '/assets/reports/REPORT – Kerberos Authentication Protocol – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #333; border-radius: 8px;"></iframe>
+    <figcaption style="margin-top: 10px; font-weight: bold;">IAM: Kerberos Protocol Implementation</figcaption>
+    <p style="font-size: 0.9em; color: #ccc;">Strategic configuration of secure authentication protocols to prevent credential theft and replay attacks.</p>
   </figure>
 
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – File Ownership Recovery – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – File Ownership Recovery – v1.0.0</figcaption>
-  </figure>
-
-<!-- Row 2 -->
-  <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – System Hardening via Local GPO_ Restricting Anonymous Connections – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – System Hardening via Local GPO_ Restricting Anonymous Connections – v1.0.0</figcaption>
+    <iframe src="{{ '/assets/reports/REPORT – System Hardening via Local GPO_ Restricting Anonymous Connections – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #333; border-radius: 8px;"></iframe>
+    <figcaption style="margin-top: 10px; font-weight: bold;">Security: Restricting Anonymous Network Access</figcaption>
+    <p style="font-size: 0.9em; color: #ccc;">Closing critical network entry points by enforcing strict GPO policies on anonymous connections.</p>
   </figure>
 
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – System Hardening via Local GPO_ Windows Defender – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – System Hardening via Local GPO_ Windows Defender – v1.0.0</figcaption>
-  </figure>
-  
-<!-- Row 3 -->
-  <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Deploying Strict Password & Account Lockout GPO – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – Deploying Strict Password & Account Lockout GPO – v1.0.0</figcaption>
+    <iframe src="{{ '/assets/reports/REPORT – System Hardening via Local GPO_ Windows Defender – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #333; border-radius: 8px;"></iframe>
+    <figcaption style="margin-top: 10px; font-weight: bold;">Endpoint Defense: Managed Windows Defender</figcaption>
+    <p style="font-size: 0.9em; color: #ccc;">Centralized security management via GPO to ensure consistent antivirus protection across all endpoints.</p>
   </figure>
 
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Enforcing Operating System Patching Policy via Local GPO – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – Enforcing Operating System Patching Policy via Local GPO – v1.0.0</figcaption>
+    <iframe src="{{ '/assets/reports/REPORT – Deploying Strict Password & Account Lockout GPO – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #333; border-radius: 8px;"></iframe>
+    <figcaption style="margin-top: 10px; font-weight: bold;">Policy: Account Lockout & Password Security</figcaption>
+    <p style="font-size: 0.9em; color: #ccc;">Defending against brute-force attacks through the implementation of strict account lockout thresholds.</p>
   </figure>
-
-<!-- Row 4 -->
-  <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Secure Credential Entry via Group Policy Objective (GPO) – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – Secure Credential Entry via Group Policy Objective (GPO) – v1.0.0</figcaption>
-  </figure>
-
-  <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Harden UAC via Local Group Policy – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – Harden UAC via Local Group Policy – v1.0.0</figcaption>
-  </figure>
-
-<!-- Row 5 -->
-<figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – GPO Hardening for Windows Application Control – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – GPO Hardening for Windows Application Control – v1.0.0.pdf</figcaption>
-  </figure>
-
- <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Layered Access Control Bypass & Cross-Platform Network Stabilization – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – Layered Access Control Bypass & Cross-Platform Network Stabilization – v1.0.0.pdf</figcaption>
-  </figure> 
 
 </div>
 
+<hr style="margin: 60px 0; border: 0; border-top: 1px solid rgba(255,255,255,0.1);">
 
-<h3 style="text-align:center;">Windows Systems Administration – Video Labs</h3>
-
-<p style="text-align:center;">
-A collection of <strong>hands-on video tutorials</strong> demonstrating key Windows administration skills, including system maintenance, security configuration, and troubleshooting in real-world scenarios.
+<h2 style="text-align:center;">Managed Operations & Automation</h2>
+<p style="text-align:center; max-width: 800px; margin: 0 auto 40px;">
+I utilize advanced Windows management tools to automate recurring maintenance tasks, monitor system health, and secure data-at-rest. 
 </p>
 
-<!-- Windows Systems Administration YouTube Content -->
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1; min-width: 400px; max-width: 600px; text-align:center;">
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/HeSARWF3F58" title="Windows Disk Cleanup" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <p><strong>Windows Disk Cleanup</strong> – System Maintenance & Admin Skills</p>
-  </div>
-  <div style="flex: 1; min-width: 400px; max-width: 600px; text-align:center;">
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/G7riXJI8w4U" title="Defragment & Optimize Drives" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <p><strong>Defragment & Optimize Drives</strong> – System Maintenance & Admin Skills</p>
-  </div>
-  <div style="flex: 1; min-width: 400px; max-width: 600px; text-align:center;">
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/z8nXF2OleGo" title="Task Scheduler" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <p><strong>Task Scheduler</strong> – Automate System Tasks & Maintenance</p>
-  </div>
-  <div style="flex: 1; min-width: 400px; max-width: 600px; text-align:center;">
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/WZtkpKxr9xE" title="Windows Defender Firewall" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <p><strong>Windows Defender Firewall</strong> – Network Security & Control</p>
-  </div>
-  <div style="flex: 1; min-width: 400px; max-width: 600px; text-align:center;">
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/g9A2faHgWWs" title="Registry Editor" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <p><strong>Registry Editor</strong> – Advanced System Configuration</p>
-  </div>
-  <div style="flex: 1; min-width: 400px; max-width: 600px; text-align:center;">
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/rw7QL5BgQgI" title="Event Viewer" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <p><strong>Event Viewer</strong> – Monitoring System Events & Troubleshooting</p>
-  </div>
-  <div style="flex: 1; min-width: 400px; max-width: 600px; text-align:center;">
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/-AfFdEs_sTY" title="System Information" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <p><strong>System Information</strong> – Hardware & Software Overview</p>
-  </div>
-  <div style="flex: 1; min-width: 400px; max-width: 600px; text-align:center;">
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/cQAwuYjr_b0" title="Programs and Features" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <p><strong>Programs and Features</strong> – Software Management</p>
-  </div>
-  <div style="flex: 1; min-width: 400px; max-width: 600px; text-align:center;">
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/qyRWBM-w-1s" title="Network and Sharing Center" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <p><strong>Network and Sharing Center</strong> – Connectivity & Troubleshooting</p>
-  </div>
-  <div style="flex: 1; min-width: 400px; max-width: 600px; text-align:center;">
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <div style="flex: 1; min-width: 300px; max-width: 400px; text-align:center;">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
       <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/wlgnNwbKe3w" title="BitLocker Drive Encryption" frameborder="0" allowfullscreen></iframe>
     </div>
-    <p><strong>BitLocker Drive Encryption</strong> – Data Security Planning</p>
+    <p><strong>Data Security</strong> – BitLocker Planning & Deployment</p>
   </div>
-  <div style="flex: 1; min-width: 400px; max-width: 600px; text-align:center;">
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/8UPRuS-ZZ3s" title="Credential Manager" frameborder="0" allowfullscreen></iframe>
+  
+  <div style="flex: 1; min-width: 300px; max-width: 400px; text-align:center;">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/z8nXF2OleGo" title="Task Scheduler" frameborder="0" allowfullscreen></iframe>
     </div>
-    <p><strong>Credential Manager</strong> – Secure Login & Password Management</p>
+    <p><strong>Automation</strong> – Maintenance via Task Scheduler</p>
   </div>
-  <div style="flex: 1; min-width: 400px; max-width: 600px; text-align:center;">
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/rNI50WIqZWc" title="Windows 10 VM on GCP" frameborder="0" allowfullscreen></iframe>
+
+  <div style="flex: 1; min-width: 300px; max-width: 400px; text-align:center;">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/rw7QL5BgQgI" title="Event Viewer" frameborder="0" allowfullscreen></iframe>
     </div>
-    <p><strong>Windows 10 VM on GCP</strong> – Cloud Virtualization & Admin Skills</p>
+    <p><strong>Diagnostics</strong> – Monitoring & Troubleshooting</p>
   </div>
 </div>
 
-
+<div style="text-align:center; margin-top: 60px; padding: 40px; background: rgba(255,255,255,0.05); border-radius: 10px;">
+  <h3>Optimize Your Windows Infrastructure</h3>
+  <p>Need to automate your system maintenance or harden your endpoint security? I provide fixed-scope solutions and ongoing administration support.</p>
+  <a href="mailto:eldongbrl@gmail.com" style="display:inline-block; padding:12px 25px; background:#fff; color:#000; text-decoration:none; border-radius:5px; font-weight:bold;">Contact for Administration Services</a>
+</div>
