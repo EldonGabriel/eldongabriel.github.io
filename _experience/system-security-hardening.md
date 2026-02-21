@@ -4,7 +4,7 @@ layout: collection-item
 slug: system-security-hardening
 collection: certifications
 collection_item: true
-order: 1
+order: 3
 image:
   path: /assets/images/headers/ssh.png
   thumbnail: /assets/images/headers/ssh.png
