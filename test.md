@@ -146,10 +146,8 @@ image:
 
 --- 
 
-<img src="assets/images/fnlogo.png" alt="Field Notes" style="width:100%; height:auto;">
-
 <div style="text-align:center; padding: 60px 0;">
   <h2 style="font-size:2em; font-weight:bold; color:#fff;">Let's Secure Your Infrastructure</h2>
   <p>Ready to deploy NIST-aligned hardening or investigate complex technical failures? Let's connect.</p>
-  <a href="mailto:your-email@example.com" style="display:inline-block; padding:15px 30px; background:#fff; color:#000; text-decoration:none; border-radius:50px; font-weight:bold; margin-top:20px;">Contact Me for a Consultation</a>
+  <a href="mailto:your-eldongbrl@gmail.com" style="display:inline-block; padding:15px 30px; background:#fff; color:#000; text-decoration:none; border-radius:50px; font-weight:bold; margin-top:20px;">Contact Me for a Consultation</a>
 </div>
