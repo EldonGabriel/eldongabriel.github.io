@@ -1,7 +1,7 @@
 ---
 title: Experience & Capabilities
 layout: collection
-permalink: /experience/
+permalink: /test/
 collection: experience
 entries_layout: grid
 show_excerpts: false
