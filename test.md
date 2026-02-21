@@ -5,13 +5,6 @@ permalink: /test/
 image:
   path: /assets/images/banner.png
 ---
----
-layout: home
-title: Cybersecurity & IT Operations Specialist
-permalink: /
-image:
-  path: /assets/images/banner.png
----
 
 <section style="text-align:center; margin: 60px 0;">
   <h1 style="font-size:3em; margin:0; font-weight:bold;">Eldon Gabriel</h1>
@@ -116,14 +109,14 @@ image:
   <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
     <iframe class="pdf-embed" 
             src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" 
-            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
+            width="100%" height="750px" style="border:1px solid #333; border-radius:8px;"></iframe>
     <figcaption style="margin-top:10px;">Risk Management: Bank Register Analysis</figcaption>
   </figure>
 
   <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
     <iframe class="pdf-embed" 
             src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" 
-            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
+            width="100%" height="750px" style="border:1px solid #333; border-radius:8px;"></iframe>
     <figcaption style="margin-top:10px;">Incident Response: Unauthorized Access Case</figcaption>
   </figure>
 </div>
@@ -132,14 +125,14 @@ image:
   <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
     <iframe class="pdf-embed" 
             src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" 
-            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
+            width="100%" height="750px" style="border:1px solid #333; border-radius:8px;"></iframe>
     <figcaption style="margin-top:10px;">System Hardening: Server Security Audit</figcaption>
   </figure>
 
   <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
     <iframe class="pdf-embed" 
             src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" 
-            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
+            width="100%" height="750px" style="border:1px solid #333; border-radius:8px;"></iframe>
     <figcaption style="margin-top:10px;">Networking: IPsec VPN Solution Guide</figcaption>
   </figure>
 </div>
