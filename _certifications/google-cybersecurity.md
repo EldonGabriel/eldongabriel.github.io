@@ -1,14 +1,14 @@
 ---
-title: "Google Cybersecurity"
+title: "Google Cybersecurity Professional"
 layout: collection-item
 slug: google-cybersecurity
 collection: certifications
 collection_item: true
-order: 2
+order: 3
 image:
   path: /assets/images/headers/googlecs.png
   thumbnail: /assets/images/headers/googlecs.png
-  caption: ""
+  caption: "End-to-End Threat Detection & Incident Response"
 ---
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
@@ -18,35 +18,40 @@ image:
   <p style="font-size: 14px; color: #ffffff;">Google Cybersecurity Professional Certificate</p>
 </div>
 
-**Number of Courses:** 8  
-**Current Progress:** Completed (Mar 2, 2025)
+The **Google Cybersecurity Professional** program provides a high-fidelity foundation in modern security operations. My work within this specialization focuses on the practical application of the NIST Cybersecurity Framework, leveraging Python for security automation, SQL for database forensics, and Linux for advanced system administration.
 
-#### Overview
-The **Google Cybersecurity Professional Certificate** (Google / Coursera) is an eight-course specialization designed to prepare learners for entry-level cybersecurity roles. The program emphasizes hands-on, practical experience with industry tools such as Linux, SQL, and Python, while covering foundational concepts in risk management, threat detection, and security operations.
+<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+  <strong>Core Capabilities:</strong> Threat Detection (SIEM) · Security Automation (Python) · Vulnerability Management
+</p>
 
-#### What I Learned
-* Understand cybersecurity principles and their organizational impact.  
-* Identify and mitigate risks, threats, and vulnerabilities.  
-* Protect networks, systems, and users with **SIEM tools** and access control techniques.  
-* Develop hands-on experience with **Linux**, **Python**, and **SQL** for automation and analysis.  
 
-#### Skills Gained
-* Cyber Threat Intelligence & Incident Response  
-* Network Security & Vulnerability Management  
-* Cloud Security & System Hardening  
-* Threat Detection & SIEM Analysis  
-* Bash Scripting & Python Automation  
-* SQL for Security Operations  
 
-#### Course Certificates
-* **Foundations of Cybersecurity** — Completed Jan 26, 2025 — Grade: **91.48%**  
-* **Play It Safe: Manage Security Risks** — Completed Jan 29, 2025 — Grade: **93.46%**  
-* **Connect and Protect: Networks and Network Security** — Completed Feb 5, 2025 — Grade: **93.46%**  
-* **Tools of the Trade: Linux and SQL** — Completed Feb 11, 2025 — Grade: **95.97%**  
-* **Assets, Threats, and Vulnerabilities** — Completed Feb 16, 2025 — Grade: **93.75%**  
-* **Sound the Alarm: Detection and Response** — Completed Feb 21, 2025 — Grade: **98.21%**  
-* **Automate Cybersecurity Tasks with Python** — Completed Mar 1, 2025 — Grade: **89.90%**  
-* **Put It to Work: Prepare for Cybersecurity Jobs** — Completed Mar 2, 2025 — Grade: **98.10%**
+#### **Strategic Solutions & Security Operations**
+This professional credential enables me to provide the following defensive services:
+* **Incident Response & Management:** Developing structured playbooks to identify, contain, and recover from security breaches.
+* **Security Automation:** Building custom Python scripts and Bash workflows to automate repetitive monitoring and response tasks.
+* **Network Defense & SIEM:** Monitoring network traffic and analyzing security events using industry-standard SIEM tools.
 
-#### Completion Summary  
-* **Overall:** Hands-on cybersecurity training aligned with real-world defense and detection practices, integrating Python scripting, Linux operations, and SIEM analysis.
+#### **Technical Skill Summary**
+* **Threat Intelligence:** Analyzing the cyber threat landscape to harden organizational defenses.
+* **Linux & SQL:** Expert-level command-line operations and database querying for security diagnostics.
+* **Vulnerability Management:** Identifying security gaps through systematic auditing and prioritized remediation.
+
+#### **Certification Milestones**
+<div style="background: rgba(255,255,255,0.02); padding: 20px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1);">
+  <p><strong>Status:</strong> Specialization Completed (Mar 2, 2025)</p>
+  <ul style="list-style: none; padding-left: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+    <li>✅ Foundations of Cybersecurity</li>
+    <li>✅ Risk Management (NIST)</li>
+    <li>✅ Network Security</li>
+    <li>✅ Linux & SQL Fundamentals</li>
+    <li>✅ Assets & Vulnerabilities</li>
+    <li>✅ Detection & Response</li>
+    <li>✅ Python Automation</li>
+    <li>✅ Professional IR Prep</li>
+  </ul>
+</div>
+
+***
+
+[View Defensive Case Studies](/experience/) | [Request a Security Audit](mailto:eldongbrl@gmail.com)
