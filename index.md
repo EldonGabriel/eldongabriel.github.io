@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Cybersecurity Portfolio
+title: Cybersecurity & IT Operations Specialist
 permalink: /
 image:
   path: /assets/images/banner.png
