@@ -1,14 +1,14 @@
 ---
-title: "ISC² Certified in Cybersecurity (CC)"
+title: "ISC²: Certified in Cybersecurity (CC)"
 layout: collection-item
 slug: isc2-certified-in-cybersecurity-cc
 collection: certifications
 collection_item: true
-order: 5
+order: 6
 image:
   path: /assets/images/headers/isc2cc.png
   thumbnail: /assets/images/headers/isc2cc.png
-  caption: ""
+  caption: "Foundational Security Excellence & Ethics"
 ---
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
@@ -18,56 +18,15 @@ image:
   <p style="font-size: 14px; color: #ffffff;">ISC² Certified in Cybersecurity (CC)</p>
 </div>
 
-**Number of Domains:** 5  
-**Current Progress:** 5 out of 5 pts (100%)
+The **ISC² Certified in Cybersecurity (CC)** credential is a globally recognized validation of foundational security principles. This certification demonstrates my commitment to the ISC² Code of Ethics and confirms my proficiency in the core pillars of a professional security program, including risk management, incident response, and logical access control.
 
-The ISC² **Certified in Cybersecurity (CC)** credential validates foundational cybersecurity knowledge for professionals entering the field. It demonstrates understanding of core security concepts, basic network and system protections, incident response awareness, and access control fundamentals — all backed by ISC²’s global professional community.
+<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+  <strong>Core Capabilities:</strong> Security Principles · Access Control · Security Operations
+</p>
 
+[Image of the CIA Triad: Confidentiality, Integrity, and Availability]
 
-### Examination Weights (Domains)
-
-- **Domain 1 — Security Principles:** 26%  
-- **Domain 2 — BC/DR & Incident Response Concepts:** 10%  
-- **Domain 3 — Access Controls Concepts:** 22%  
-- **Domain 4 — Network Security:** 24%  
-- **Domain 5 — Security Operations:** 18%  
-
-
-
-### Domains (Coverage & Key Topics)
-
-### Domain 1 — Security Principles
-- CIA Triad: Confidentiality, Integrity, Availability  
-- Authentication, MFA, non-repudiation, privacy  
-- Risk management: identification, assessment, treatment  
-- Security controls: technical, administrative, physical  
-- ISC² Code of Ethics, policies, procedures, standards, and laws  
-
-### Domain 2 — Business Continuity, Disaster Recovery & Incident Response
-- Purpose and components of **Business Continuity (BC)** and **Disaster Recovery (DR)**  
-- Incident response fundamentals: roles, phases, purpose  
-
-### Domain 3 — Access Controls Concepts
-- Physical access controls (CCTV, guards, alarms)  
-- Logical access controls: least privilege, segregation of duties  
-- Models: DAC, MAC, RBAC  
-
-### Domain 4 — Network Security
-- Networking basics: OSI/TCP-IP, IPv4/IPv6, Wi-Fi, ports, services  
-- Network threats & detection: IDS/NIDS, HIDS  
-- Prevention tools: antivirus, IPS, firewalls  
-- Network design & infrastructure: segmentation (VLAN/DMZ), VPN, NAC, cloud considerations  
-
-### Domain 5 — Security Operations
-- Data security: encryption, handling, retention, labeling  
-- Logging, monitoring, and event handling  
-- System hardening & configuration management (baselines, patching)  
-- Security policies: password, BYOD, AUP, change management, privacy  
-- Security awareness training fundamentals  
-
-
-
-### Value of the Certification
-
-The **ISC² CC** certification complements practical MCSI training by validating essential theory and establishing a baseline of cybersecurity knowledge employers expect from entry-level hires. It pairs strongly with the hands-on work in **MSAF** and **MOIS**, demonstrating both conceptual understanding and applied technical skills.
-
+#### **Professional Solutions & Domain Expertise**
+Through this ISC² certification, I deliver the following standardized security services:
+* **Strategic Security Principles:** Implementing the CIA Triad, risk treatment strategies, and administrative controls aligned with organizational law and policy.
+* **Access Control Management:** Engineering logical access models (RBAC, MAC, DAC) and enforcing the Principle of Least Privilege to
