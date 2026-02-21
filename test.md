@@ -21,17 +21,17 @@ image:
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
     
     <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">System Hardening & Ops</h3>
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">System Hardening</h3>
       <p>Deployment and continuous securing of Windows and Linux environments. I implement NIST-aligned controls, GPO restrictions, and automated access policies to eliminate vulnerabilities.</p>
       <ul style="font-size: 0.9em; color: #ccc;">
         <li>Server Security Evaluations</li>
         <li>Least Privilege Implementation</li>
-        <li>Automated IP Access Control (Python)</li>
+        <li>Automated IP Access Control</li>
       </ul>
     </div>
 
     <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Incident & Network Analysis</h3>
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Network Defense</h3>
       <p>Investigation of unauthorized access and network troubleshooting. I utilize deep-dive analysis to identify root causes and implement permanent remediation plans.</p>
       <ul style="font-size: 0.9em; color: #ccc;">
         <li>Unauthorized Access Investigation</li>
@@ -41,7 +41,7 @@ image:
     </div>
 
     <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">GRC & Risk Strategy</h3>
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">GRC & Strategy</h3>
       <p>Developing robust security policies and risk frameworks to meet compliance requirements and secure organizational assets against insider and external threats.</p>
       <ul style="font-size: 0.9em; color: #ccc;">
         <li>Bank-Grade Risk Registers</li>
@@ -54,8 +54,8 @@ image:
 </section>
 
 <p align="center" style="margin-top: 40px;">
-  <a href="/certifications/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">Explore Verified Skills</a> | 
-  <a href="/experience/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">View Technical Portfolio</a>
+  <a href="/certifications/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">Explore Verified Skills</a> 
+| <a href="/experience/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">View Technical Portfolio</a>
 </p>
 
 ---
@@ -93,8 +93,6 @@ image:
   </div>
 </div>
 
-<p>Whether investigating unauthorized access, hardening enterprise servers, or assessing systemic risk, I apply a mindset built on <em>practical experience, technical rigor, and strategic mentorship</em>.</p>
-
 --- 
 
 <section style="text-align:center; margin: 60px 0;">
@@ -102,7 +100,10 @@ image:
     Technical Case Studies
     <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
   </h2>
-  <p>Verified Technical Reports & Incident Documentation</p>
+  <p>Independent Reports & Public Project Documentation</p>
+  <p style="font-size: 0.9em; color: #ccc; max-width: 800px; margin: 0 auto;">
+    To uphold academic integrity and non-disclosure pledges, proctored lab reports from the MCSI curriculum are excluded from this public platform. A comprehensive catalog of 100+ verified labs is available for review upon professional request.
+  </p>
 </section>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -140,7 +141,15 @@ image:
 --- 
 
 <div style="text-align:center; padding: 60px 0;">
-  <h2 style="font-size:2em; font-weight:bold; color:#fff;">Let's Secure Your Infrastructure</h2>
-  <p>Ready to deploy NIST-aligned hardening or investigate complex technical failures? Let's connect.</p>
-  <a href="mailto:your-eldongbrl@gmail.com" style="display:inline-block; padding:15px 30px; background:#fff; color:#000; text-decoration:none; border-radius:50px; font-weight:bold; margin-top:20px;">Contact Me for a Consultation</a>
+  <h2 style="font-size:2.5em; font-weight:bold; color:#fff;">Let's Secure Your Infrastructure</h2>
+  <p style="font-size:1.1em;">Ready to deploy NIST-aligned hardening or request a private technical review? Let's connect.</p>
+  <a href="mailto:eldongbrl@gmail.com" style="display:inline-block; padding:15px 35px; background:#fff; color:#000; text-decoration:none; border-radius:50px; font-weight:bold; margin-top:20px;">Contact Me for a Consultation</a>
 </div>
+
+--- 
+
+<img src="assets/images/fnlogo.png" alt="Banner" style="width:100%; height:auto;">
+
+<h2 style="text-align:center; font-size:200%; font-weight:bold; color:#fff;">
+  Bridging IT Fundamentals to Cybersecurity Mastery
+</h2>
