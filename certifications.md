@@ -1,5 +1,5 @@
 ---
-title: Certifications
+title: Verified Certifications & Technical Mastery
 layout: collection
 permalink: /certifications/
 collection: certifications
@@ -9,6 +9,6 @@ image:
   path: /assets/images/banner.png
 ---
 
-My learning journey as a **Cybersecurity & IT Operations Technician** is grounded in ***hands-on, practical application***. This page serves as a comprehensive record of my **verified certifications** and more than **100 hands-on labs**, showcasing my proficiency in key areas of **security operations**, **system administration**, **network security** and **open-source intelligence (OSINT)**. 
+My professional expertise is grounded in hands-on application and a commitment to industry-standard excellence. This record of verified credentials demonstrates my proficiency in building, managing, and defending enterprise systems. 
 
-Each credential represents a practical exercise and a step toward mastering the skills required to build and defend secure systems. My training and certifications align with industry-recognized frameworks such as the **NIST NICE Framework**, **US Military Occupations (MOS)**, and the **Australian Signals Directorate (ASD) Cyber Skills Framework**.
+Each certification is aligned with global frameworks, including the **NIST NICE Framework**, **US Military Occupations (MOS)**, and the **ASD Cyber Skills Framework**, ensuring my methodologies meet international professional standards.
