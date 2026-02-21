@@ -24,8 +24,6 @@ The **ISC² Certified in Cybersecurity (CC)** credential is a globally recognize
   <strong>Core Capabilities:</strong> Security Principles · Access Control · Security Operations
 </p>
 
-[Image of the CIA Triad: Confidentiality, Integrity, and Availability]
-
 #### **Professional Solutions & Domain Expertise**
 Through this ISC² certification, I deliver the following standardized security services:
 * **Strategic Security Principles:** Implementing the CIA Triad, risk treatment strategies, and administrative controls aligned with organizational law and policy.
