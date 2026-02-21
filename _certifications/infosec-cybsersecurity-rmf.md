@@ -24,8 +24,6 @@ This specialization provides a comprehensive mastery of the **NIST Risk Manageme
   <strong>Core Capabilities:</strong> NIST 800-53 Control Mapping · Risk Assessment · Compliance Documentation
 </p>
 
-[Image of the NIST Risk Management Framework steps: Prepare, Categorize, Select, Implement, Assess, Authorize, Monitor]
-
 #### **Governance, Risk, & Compliance (GRC) Solutions**
 The expertise developed through this program enables the delivery of the following strategic services:
 * **Risk Assessment & Mitigation:** Identifying organizational threats and mapping technical security controls to mitigate business-critical risks.
