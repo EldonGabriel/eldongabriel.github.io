@@ -4,7 +4,7 @@ layout: collection-item
 slug: security-research-analysis
 collection: experience
 collection_item: true
-order: 6
+order: 1
 image:
   path: /assets/images/headers/srsa.png
   thumbnail: /assets/images/headers/srsa.png
