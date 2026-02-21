@@ -1,155 +1,47 @@
 ---
-layout: page
-title: Freelancer Portfolio TEST
-permalink: /test/
+title: Experience & Capabilities
+layout: collection
+permalink: /experience/
+collection: experience
+entries_layout: grid
+show_excerpts: false
 image:
   path: /assets/images/banner.png
 ---
 
-<section style="text-align:center; margin: 60px 0;">
-  <h1 style="font-size:3em; margin:0; font-weight:bold;">Eldon Gabriel</h1>
-  <p style="font-size:1.5em; color:#ccc;">Secure Infrastructure | System Hardening | GRC Strategy</p>
-  <div style="margin-top:20px; height:4px; background:#fff; width:100px; display:inline-block; border-radius:2px;"></div>
-</section>
+My professional journey is defined by technical rigor and a high-performance approach to IT and security challenges. I blend foundational system administration with a proactive defensive mindset, focusing on infrastructure hardening and investigative intelligence.
 
-<p style="font-size:1.2em; line-height:1.6;">
-  I provide <strong>technical rigor</strong> and <strong>strategic insight</strong> to harden enterprise systems, investigate incidents, and ensure operational resilience. As an <strong>ISC² Certified Cybersecurity Professional</strong> with 100+ verified labs and technical reports, I specialize in transforming complex IT environments into secure, compliant, and high-performance infrastructures.
-</p>
+The services and competencies listed below are backed by **100+ verified technical labs** and independent project reports. 
 
-<section style="margin: 60px 0;">
-  <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">Services & Solutions</h2>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-    
-    <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">System Hardening</h3>
-      <p>Deployment and continuous securing of Windows and Linux environments. I implement NIST-aligned controls, GPO restrictions, and automated access policies to eliminate vulnerabilities.</p>
-      <ul style="font-size: 0.9em; color: #ccc;">
-        <li>Server Security Evaluations</li>
-        <li>Least Privilege Implementation</li>
-        <li>Automated IP Access Control</li>
-      </ul>
-    </div>
+***
 
-    <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Network Defense</h3>
-      <p>Investigation of unauthorized access and network troubleshooting. I utilize deep-dive analysis to identify root causes and implement permanent remediation plans.</p>
-      <ul style="font-size: 0.9em; color: #ccc;">
-        <li>Unauthorized Access Investigation</li>
-        <li>Enterprise IPSec VPN Troubleshooting</li>
-        <li>Network Traffic & DNS Diagnostics</li>
-      </ul>
-    </div>
+### **Service Domains & Technical Proficiency**
 
-    <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">GRC & Strategy</h3>
-      <p>Developing robust security policies and risk frameworks to meet compliance requirements and secure organizational assets against insider and external threats.</p>
-      <ul style="font-size: 0.9em; color: #ccc;">
-        <li>Bank-Grade Risk Registers</li>
-        <li>BYOD & Security Policy Design</li>
-        <li>Post-Breach Remediation Strategy</li>
-      </ul>
-    </div>
+#### **1. System Administration & Infrastructure Hardening**
+I specialize in deploying and securing resilient Windows and Linux environments. My work ensures that systems are not just operational, but defended against common attack vectors using NIST-aligned standards.
+* **Core Competencies:** Active Directory Management, GPO Security Templates, Least Privilege Implementation, and Server Security Evaluations.
+* **Independent Proof of Work:** [View Server Security Evaluation Report](/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf)
 
-  </div>
-</section>
+#### **2. Network Security & Defense Operations**
+Designing and troubleshooting secure connectivity for remote and enterprise environments. I focus on encrypted tunneling and proactive network monitoring.
+* **Core Competencies:** IPsec VPN Configuration, DNS Security, Firewall Rule Optimization, and Network Traffic Analysis.
+* **Independent Proof of Work:** [View IPsec VPN Troubleshooting Guide](/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf)
 
-<p align="center" style="margin-top: 40px;">
-  <a href="/certifications/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">Explore Verified Skills</a> 
-| <a href="/experience/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">View Technical Portfolio</a>
-</p>
+#### **3. Incident Response & Digital Forensics**
+Rapid investigation of security anomalies and unauthorized access. I provide structured reporting that identifies root causes and provides clear remediation paths.
+* **Core Competencies:** Forensic Artifact Extraction, Unauthorized Access Investigation, Log Analysis, and Post-Breach Strategy.
+* **Independent Proof of Work:** [View Unauthorized Payroll Access Incident Report](/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf)
 
----
+#### **4. GRC (Governance, Risk, & Compliance)**
+Bridging the gap between technical vulnerabilities and business risk. I develop the documentation necessary for startups and enterprises to pass audits and secure insurance.
+* **Core Competencies:** NIST CSF/RMF Assessments, Risk Register Development, BYOD Policy Drafting, and Security Awareness Strategy.
+* **Independent Proof of Work:** [View Bank Risk Register Analysis](/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf)
 
-<section style="text-align:center; margin: 60px 0;">
-  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
-    Foundational Mentorship
-    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
-  </h2>
-</section>
+***
 
-<div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <div style="flex: 1; text-align: center;">
-    <img src="assets/images/Eldon-George.jpg" alt="George H. Ross" 
-         style="width:200px; height:200px; object-fit: cover; border-radius:50%;"><br>
-    <strong>George H. Ross</strong><br>
-    <em>NBC’s ‘The Apprentice’ Judge & Mentor</em>
-  </div>
-  <div style="flex: 2; padding-left: 20px;">
-    <p>Instilled a <strong>disciplined evaluation of risks</strong> and thorough investigative practices essential for proactive threat hunting and forensic accuracy.</p>
-  </div>
-</div>
+### **The Verified Lab Catalog**
+My expertise is supported by an extensive library of proctored labs covering **PowerShell Automation**, **Threat Hunting (YARA)**, and **Cloud Security (AWS/GCP)**. 
 
-<div style="display: flex; align-items: center; flex-direction: row-reverse; margin-bottom: 40px;">
-  <div style="flex: 1; text-align: center;">
-    <img src="assets/images/eldon-wahida.png" alt="Wahida Clark" 
-         style="width:200px; height:200px; object-fit: cover; border-radius:50%;"><br>
-    <strong>Wahida Clark</strong><br>
-    <em>4x NYT Bestselling Author</em>
-  </div>
-  <div style="flex: 2; padding-right: 20px;">
-    <p>Reinforced the importance of <strong>clear communication</strong> and technical storytelling to translate critical risks into actionable business insights.</p>
-  </div>
-</div>
+**Academic Integrity Disclosure:** To adhere to the MCSI academic pledge of non-disclosure, detailed lab reports for specific curriculum milestones are not published on this open platform. A comprehensive list of verified competencies and specific lab results is available to potential clients and employers upon direct request.
 
---- 
-
-<section style="text-align:center; margin: 60px 0;">
-  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
-    Technical Case Studies
-    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
-  </h2>
-  <p><strong>Independent Reports & Public Project Documentation</strong></p>
-  <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 8px; border-left: 4px solid #fff; margin: 20px auto; max-width: 900px; text-align: left;">
-    <p style="font-size: 1em; color: #eee; margin: 0;">
-      My expertise is backed by 100+ verified technical labs and reports. Due to non-disclosure agreements and academic integrity pledges (MCSI), detailed lab reports for specific curriculum milestones are available only upon direct request for verified professional inquiries.
-    </p>
-  </div>
-</section>
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
-    <iframe class="pdf-embed" 
-            src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" 
-            width="100%" height="750px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;">Risk Management: Bank Register Analysis</figcaption>
-  </figure>
-
-  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
-    <iframe class="pdf-embed" 
-            src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" 
-            width="100%" height="750px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;">Incident Response: Unauthorized Access Case</figcaption>
-  </figure>
-</div>
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 40px;">
-  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
-    <iframe class="pdf-embed" 
-            src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" 
-            width="100%" height="750px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;">System Hardening: Server Security Audit</figcaption>
-  </figure>
-
-  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
-    <iframe class="pdf-embed" 
-            src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" 
-            width="100%" height="750px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;">Networking: IPsec VPN Solution Guide</figcaption>
-  </figure>
-</div>
-
---- 
-
-<div style="text-align:center; padding: 60px 0;">
-  <h2 style="font-size:2.5em; font-weight:bold; color:#fff;">Let's Secure Your Infrastructure</h2>
-  <p style="font-size:1.1em;">Ready to deploy NIST-aligned hardening or request a private technical review? Let's connect.</p>
-  <a href="mailto:eldongbrl@gmail.com" style="display:inline-block; padding:15px 35px; background:#fff; color:#000; text-decoration:none; border-radius:50px; font-weight:bold; margin-top:20px;">Contact Me for a Consultation</a>
-</div>
-
---- 
-
-<img src="assets/images/fnlogo.png" alt="Banner" style="width:100%; height:auto;">
-
-<h2 style="text-align:center; font-size:200%; font-weight:bold; color:#fff;">
-  Bridging IT Fundamentals to Cybersecurity Mastery
-</h2>
+[Request Full Technical Catalog via Email](mailto:eldongbrl@gmail.com)
