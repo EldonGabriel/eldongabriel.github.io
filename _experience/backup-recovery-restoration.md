@@ -4,7 +4,7 @@ layout: collection-item
 slug: backup-recovery-restoration
 collection: experience
 collection_item: true
-order: 3
+order: 8
 image:
   path: /assets/images/bcbr.png
   thumbnail: /assets/images/bcbr.png
