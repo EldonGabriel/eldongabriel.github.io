@@ -4,7 +4,7 @@ layout: collection-item
 slug: colorado-computer-security-systems-management
 collection: certifications
 collection_item: true
-order: 1
+order: 6
 image:
   path: /assets/images/headers/uoc-cssms.png
   thumbnail: /assets/images/headers/uoc-cssms.png
