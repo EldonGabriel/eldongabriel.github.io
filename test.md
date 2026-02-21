@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Cybersecurity Portfolio
-permalink: /
+permalink: /Test.md
 image:
   path: /assets/images/banner.png
   
