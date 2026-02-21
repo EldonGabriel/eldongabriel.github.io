@@ -1,53 +1,49 @@
 ---
-title: "University of Colorado Computer Security and Systems Management Specialization"
+title: "University of Colorado: Computer Security & Systems Management"
 layout: collection-item
 slug: colorado-computer-security-systems-management
 collection: certifications
 collection_item: true
-order: 0
+order: 1
 image:
   path: /assets/images/headers/uoc-cssms.png
   thumbnail: /assets/images/headers/uoc-cssms.png
-  caption: ""
+  caption: "Enterprise Infrastructure & Security Engineering"
 ---
 
+This specialization focuses on the high-level transition from home computing to **secure enterprise infrastructure**. My work in this program involves architecting, managing, and auditing complex systems to align with professional security standards and NIST-based best practices.
 
-<p><strong>Number of Courses:</strong> 4<br>
-<strong>Current Progress:</strong> 2 of 4 Completed</p>
+<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+  <strong>Core Capabilities:</strong> Windows/Linux Server Hardening · Active Directory Security · Enterprise Auditing
+</p>
 
-<h4>Overview</h4>
-<p>The <strong>Computer Security and Systems Management Specialization</strong> (University of Colorado / Coursera) focuses on the practical application of secure system design and enterprise-level administration. Through hands-on learning and scenario-based projects, I’ve been building, managing, and auditing systems that align with enterprise security standards and best practices.</p>
+#### **Professional Solutions & Value**
+The competencies developed here allow me to deliver the following infrastructure services:
+* **Infrastructure Design:** Architecting secure Windows and Linux server environments for business-critical operations.
+* **Identity & Access Management:** Implementing robust Active Directory and GPO frameworks to enforce the Principle of Least Privilege.
+* **Operational Integrity:** Developing automated patch management, system monitoring, and auditing workflows.
+* **Resilience Planning:** Creating contingency and business continuity strategies to mitigate the impact of system failures.
 
-<p>This specialization blends theory with real-world implementation, preparing me to operate securely across both Windows and Linux environments while integrating cybersecurity controls and governance strategies into system management workflows.</p>
+#### **Technical Skill Summary**
+* **Systems Administration:** Advanced management of Windows and Linux server fleets.
+* **Network Architecture:** Engineering secure connectivity within virtualized environments.
+* **Security Governance:** Aligning system configurations with organizational policies and compliance requirements.
+* **Security Controls:** Deploying and auditing technical controls across diverse operating systems.
 
-<h4>What I Learned</h4>
-<ul>
-  <li>How to <strong>design, configure, and secure enterprise computing environments</strong>.</li>
-  <li>The difference between <strong>home computing and enterprise infrastructure</strong>.</li>
-  <li>Practical implementation of <strong>Windows Server and Linux Server security controls</strong>.</li>
-  <li>Applying <strong>system hardening, auditing, and maintenance processes</strong> to ensure operational security.</li>
-  <li>How to align system management practices with <strong>organizational policies, compliance, and business continuity</strong>.</li>
-</ul>
+#### **Academic Progress**
+<div style="background: rgba(255,255,255,0.02); padding: 20px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1);">
+  <p><strong>Status:</strong> 2 of 4 Advanced Courses Completed</p>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>✅ <strong>Enterprise System Management and Security</strong></li>
+    <li>✅ <strong>Windows Server Management and Security</strong></li>
+    <li>⏳ <strong>Linux Server Management and Security</strong> (In Progress)</li>
+    <li>📅 <strong>Planning, Auditing, and Maintaining Enterprise Systems</strong> (Upcoming)</li>
+  </ul>
+</div>
 
-<h4>Skills I Gained</h4>
-<ul>
-  <li>Enterprise System Management & Security</li>
-  <li>Systems Administration (Windows & Linux)</li>
-  <li>Virtualization & Network Architecture</li>
-  <li>Active Directory & Group Policy Management</li>
-  <li>Authorization & Identity Access Management</li>
-  <li>Patch Management & Continuous Monitoring</li>
-  <li>Security Controls & Governance</li>
-  <li>Contingency Planning & Business Continuity</li>
-</ul>
+***
 
-<h4>Course Certificates</h4>
-<ul>
-  <li><strong>Enterprise System Management and Security</strong> — Completed — <em>Course 1 of 4</em></li>
-  <li><strong>Windows Server Management and Security</strong> — Completed — <em>Course 2 of 4</em></li>
-  <li><strong>Linux Server Management and Security</strong> — In Progress — <em>Course 3 of 4</em></li>
-  <li><strong>Planning, Auditing, and Maintaining Enterprise Systems</strong> — Upcoming — <em>Course 4 of 4</em></li>
-</ul>
+#### **Operational Integration**
+The expertise documented here directly informs my **System Hardening** and **Windows Administration** services. These standards ensure that every infrastructure project I handle is secure by design.
 
-<h4>Completion Summary</h4>
-<strong>Outcome:</strong> Strengthened my ability to manage enterprise-grade environments, implement security policies, and maintain operational integrity through systematic auditing and proactive risk mitigation
+[View Infrastructure Case Studies](/experience/) | [Inquire for Enterprise Support](mailto:eldongbrl@gmail.com)
