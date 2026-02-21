@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: 
 title: Cybersecurity & IT Operations Specialist
 permalink: /
 image:
