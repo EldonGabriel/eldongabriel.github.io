@@ -7,7 +7,7 @@ collection_item: true
 order: 3
 image:
   path: /assets/images/brr.png
-  thumbnail: /assets/images/brr.png
+  thumbnail: /assets/images/bcbr.png
   caption: "Ensuring Operational Resilience"
 ---
 
