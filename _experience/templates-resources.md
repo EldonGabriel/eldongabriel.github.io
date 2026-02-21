@@ -4,7 +4,7 @@ layout: collection-item
 slug: templates-resources
 collection: experience
 collection_item: true
-order: 9
+order: 2
 image:
   path: /assets/images/headers/sgtr.png
   thumbnail: /assets/images/headers/sgtr.png
