@@ -36,10 +36,10 @@ The expertise developed through this Duke University program enables the followi
 <div style="background: rgba(255,255,255,0.02); padding: 20px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1);">
   <p><strong>Status:</strong> Specialization Completed (Mar 6, 2025)</p>
   <ul style="list-style: none; padding-left: 0;">
-    <li>✅ <strong>DeFi Infrastructure</strong> (Grade: 92.22%)</li>
-    <li>✅ <strong>DeFi Primitives</strong> (Grade: 100.00%)</li>
-    <li>✅ <strong>DeFi Deep Dive</strong> (Grade: 92.50%)</li>
-    <li>✅ <strong>DeFi Opportunities and Risks</strong> (Grade: 95.83%)</li>
+    <li>✅ <strong>DeFi Infrastructure</strong></li>
+    <li>✅ <strong>DeFi Primitives</strong></li>
+    <li>✅ <strong>DeFi Deep Dive</strong></li>
+    <li>✅ <strong>DeFi Opportunities and Risks</strong></li>
   </ul>
 </div>
 
