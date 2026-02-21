@@ -4,7 +4,7 @@ layout: collection-item
 slug: google-it-support
 collection: certifications
 collection_item: true
-order: 4
+order: 7
 image:
   path: /assets/images/headers/googleit.png
   thumbnail: /assets/images/headers/googleit.png
