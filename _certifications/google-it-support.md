@@ -1,14 +1,14 @@
 ---
-title: "Google IT Support"
+title: "Google IT Support Professional"
 layout: collection-item
 slug: google-it-support
 collection: certifications
 collection_item: true
-order: 3
+order: 4
 image:
   path: /assets/images/headers/googleit.png
   thumbnail: /assets/images/headers/googleit.png
-  caption: ""
+  caption: "The Foundation of Reliable IT Operations"
 ---
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
@@ -18,33 +18,33 @@ image:
   <p style="font-size: 14px; color: #ffffff;">Google IT Support Professional Certificate</p>
 </div>
 
-**Number of Courses:** 5  
-**Current Progress:** Completed (Jan 23, 2025)
+The **Google IT Support Professional** credential serves as the technical backbone of my IT operations. It validates my proficiency in end-to-end troubleshooting, infrastructure management, and the deployment of secure, high-availability systems across mixed OS environments.
 
-#### Overview
-The **Google IT Support Professional Certificate** (Google / Coursera) provides hands-on foundational skills for entry-level IT support roles. The program focuses on practical, lab-based learning that prepares learners for troubleshooting, operating-system administration, networking fundamentals, and basic IT security.
+<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+  <strong>Core Capabilities:</strong> Network Troubleshooting · OS Administration · Multi-Platform Support
+</p>
 
-#### What I Learned
-* Perform day-to-day IT support tasks: assembling computers, installing software, and wireless networking.  
-* Provide end-to-end customer support: identify problems, troubleshoot, and resolve issues.  
-* Use systems and tools: **Linux**, **DNS**, command-line interfaces, and core OS concepts.  
-* Apply basic information security practices and hardening for support contexts.
+#### **Technical Proficiency & Solutions**
+* **Networking & Protocols:** Deep understanding of TCP/IP, DNS, DHCP, and the physical layers of network connectivity.
+* **Operating Systems:** Advanced administration of Windows and Linux, focusing on file systems, process management, and permissions.
+* **Infrastructure Services:** Deploying and managing directory services, cloud resources, and internal IT infrastructure.
+* **Security & Maintenance:** Implementing baseline security protocols, performing regular system audits, and managing software deployment.
 
-#### Skills Gained
-* Technical Support & Troubleshooting  
-* TCP/IP & Network Administration  
-* Operating Systems & File Systems  
-* System Administration Fundamentals (Windows & Linux)  
-* IT Security Basics & Encryption  
-* Customer Service & Documentation
+#### **Course Certificates**
+<div style="background: rgba(255,255,255,0.02); padding: 20px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1);">
+  <p><strong>Status:</strong> Specialization Completed (Jan 23, 2025)</p>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>✅ <strong>Technical Support Fundamentals</strong> (Grade: 90.12%)</li>
+    <li>✅ <strong>The Bits and Bytes of Computer Networking</strong> (Grade: 89.90%)</li>
+    <li>✅ <strong>Operating Systems and You: Becoming a Power User</strong> (Grade: 89.16%)</li>
+    <li>✅ <strong>System Administration and IT Infrastructure Services</strong> (Grade: 91.77%)</li>
+    <li>✅ <strong>IT Security: Defense Against the Digital Dark Arts</strong> (Grade: 93.20%)</li>
+  </ul>
+</div>
 
-#### Course Certificates
-* **Technical Support Fundamentals** — Completed Jan 19, 2025 — Grade: **90.12%**  
-* **The Bits and Bytes of Computer Networking** — Completed Jan 19, 2025 — Grade: **89.90%**  
-* **Operating Systems and You: Becoming a Power User** — Completed Jan 19, 2025 — Grade: **89.16%**  
-* **System Administration and IT Infrastructure Services** — Completed Jan 21, 2025 — Grade: **91.77%**  
-* **IT Security: Defense Against the Digital Dark Arts** — Completed Jan 23, 2025 — Grade: **93.20%**
+***
 
-#### Completion Summary
-* **Overall:** Practical, hands-on training that pairs well with system administration and security-focused coursework.
+#### **Operational Integration**
+The foundational skills verified here are critical to my work in **Network Architecture** and **Windows Systems Administration**. This training ensures that all technical resolutions are approached with a systematic, root-cause methodology.
 
+[View Technical Troubleshooting Guides](/experience/) | [Contact for IT Operations Support](mailto:eldongbrl@gmail.com)
