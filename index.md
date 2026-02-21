@@ -4,10 +4,8 @@ title: Cybersecurity & IT Operations Specialist
 permalink: /
 image:
   path: /assets/images/banner.png
-  
 ---
 
-<!-- Insights Header -->
 <section style="text-align:center; margin: 60px 0;">
   <h1 style="font-size:3em; margin:0; font-weight:bold;">Eldon Gabriel</h1>
   <p style="font-size:1.5em; color:#ccc;">Secure Infrastructure | System Hardening | GRC Strategy</p>
@@ -28,7 +26,7 @@ image:
       <ul style="font-size: 0.9em; color: #ccc;">
         <li>Server Security Evaluations</li>
         <li>Least Privilege Implementation</li>
-        <li>Automated IP Access Control (Python)</li>
+        <li>Automated IP Access Control</li>
       </ul>
     </div>
 
@@ -43,7 +41,7 @@ image:
     </div>
 
     <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">GRC & Risk Strategy</h3>
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">GRC & Strategy</h3>
       <p>Developing robust security policies and risk frameworks to meet compliance requirements and secure organizational assets against insider and external threats.</p>
       <ul style="font-size: 0.9em; color: #ccc;">
         <li>Bank-Grade Risk Registers</li>
@@ -69,8 +67,6 @@ image:
   </h2>
 </section>
 
-<p>My approach to cybersecurity is shaped by lessons in <strong>leadership, resilience, and strategic thinking</strong> from industry leaders. This mentorship allows me to bridge the gap between complex technical data and high-level business risk.</p>
-
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1; text-align: center;">
     <img src="assets/images/Eldon-George.jpg" alt="George H. Ross" 
@@ -95,8 +91,6 @@ image:
   </div>
 </div>
 
-<p>Whether investigating unauthorized access, hardening enterprise servers, or assessing systemic risk, I apply a mindset built on <em>practical experience, technical rigor, and strategic mentorship</em>.</p>
-
 --- 
 
 <section style="text-align:center; margin: 60px 0;">
@@ -104,7 +98,12 @@ image:
     Technical Case Studies
     <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
   </h2>
-  <p>Verified Technical Reports & Incident Documentation</p>
+  <p><strong>Independent Reports & Public Project Documentation</strong></p>
+  <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 8px; border-left: 4px solid #fff; margin: 20px auto; max-width: 900px; text-align: left;">
+    <p style="font-size: 1em; color: #eee; margin: 0;">
+      My expertise is backed by 100+ verified technical labs and reports. Due to non-disclosure agreements and academic integrity pledges (MCSI), detailed lab reports for specific curriculum milestones are available only upon direct request for verified professional inquiries.
+    </p>
+  </div>
 </section>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -142,9 +141,9 @@ image:
 --- 
 
 <div style="text-align:center; padding: 60px 0;">
-  <h2 style="font-size:2em; font-weight:bold; color:#fff;">Let's Secure Your Infrastructure</h2>
-  <p>Ready to deploy NIST-aligned hardening or investigate complex technical failures? Let's connect.</p>
-  <a href="mailto:your-eldongbrl@gmail.com" style="display:inline-block; padding:15px 30px; background:#fff; color:#000; text-decoration:none; border-radius:50px; font-weight:bold; margin-top:20px;">Contact Me for a Consultation</a>
+  <h2 style="font-size:2.5em; font-weight:bold; color:#fff;">Let's Secure Your Infrastructure</h2>
+  <p style="font-size:1.1em;">Ready to deploy NIST-aligned hardening or request a private technical review? Let's connect.</p>
+  <a href="mailto:eldongbrl@gmail.com" style="display:inline-block; padding:15px 35px; background:#fff; color:#000; text-decoration:none; border-radius:50px; font-weight:bold; margin-top:20px;">Contact Me for a Consultation</a>
 </div>
 
 --- 
