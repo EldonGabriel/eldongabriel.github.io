@@ -1,49 +1,51 @@
 ---
-title: "Duke University Decentralized Finance (DeFi)"
+title: "Duke University: Decentralized Finance (DeFi)"
 layout: collection-item
 slug: duke-defi-future-of-finance
 collection: certifications
 collection_item: true
-order: 1
+order: 2
 image:
   path: /assets/images/headers/duke-defi.png
   thumbnail: /assets/images/headers/duke-defi.png
-  caption: ""
+  caption: "Analyzing the Architecture of Future Financial Systems"
 ---
 
-<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/assets/certifications/Duke-Decentralized-Finance-DeFi.jpg"
-       alt="Duke University — Decentralized Finance (DeFi): The Future of Finance"
-       style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
-  <p style="font-size: 14px; color: #ffffff;">Duke University — Decentralized Finance (DeFi): The Future of Finance</p>
+This specialization explores the infrastructure and security mechanisms driving **Decentralized Finance (DeFi)**. My work focuses on the technical architecture of blockchain-based financial systems, the security of smart contract protocols, and the management of cryptographic risk within decentralized ecosystems.
+
+<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+  <strong>Core Capabilities:</strong> Cryptographic Key Management · Protocol Risk Assessment · Smart Contract Security
+</p>
+
+
+
+#### **Strategic Solutions & Insights**
+The expertise developed through this Duke University program enables the following specialized services:
+* **Protocol Risk Evaluation:** Comprehensive technical and operational auditing of DeFi protocols including MakerDAO, Compound, and Aave.
+* **Secure Asset Management:** Implementing robust cryptography and key management strategies to secure digital assets and decentralized identities.
+* **DeFi Compliance & Strategy:** Navigating the intersection of decentralized innovation and regulatory requirements to ensure secure, compliant financial operations.
+* **Infrastructure Analysis:** Evaluating the interoperability and security of blockchain-based lending, trading, and governance primitives.
+
+#### **Technical Skill Summary**
+* **Financial Cryptography:** Advanced understanding of hashing, digital signatures, and asymmetric encryption.
+* **DeFi Primitives:** Technical mastery of automated market makers (AMMs), decentralized lending, and algorithmic stablecoins.
+* **Risk Mitigation:** Identifying and addressing smart contract vulnerabilities, oracle risks, and flash loan attack vectors.
+* **Governance Systems:** Analyzing decentralized autonomous organizations (DAOs) and tokenomic incentive structures.
+
+#### **Certification Milestones**
+<div style="background: rgba(255,255,255,0.02); padding: 20px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1);">
+  <p><strong>Status:</strong> Specialization Completed (Mar 6, 2025)</p>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>✅ <strong>DeFi Infrastructure</strong> (Grade: 92.22%)</li>
+    <li>✅ <strong>DeFi Primitives</strong> (Grade: 100.00%)</li>
+    <li>✅ <strong>DeFi Deep Dive</strong> (Grade: 92.50%)</li>
+    <li>✅ <strong>DeFi Opportunities and Risks</strong> (Grade: 95.83%)</li>
+  </ul>
 </div>
 
-**Number of Courses:** 4  
-**Current Progress:** Completed (Mar 6, 2025)
+***
 
-#### Overview
-The **Decentralized Finance (DeFi): The Future of Finance** specialization (Duke University / Coursera) explores the technologies and mechanisms driving decentralized financial systems. Learners gain a comprehensive understanding of blockchain-based financial infrastructure, decentralized applications, and the evolving regulatory landscape of DeFi.
+#### **Operational Integration**
+My understanding of decentralized architecture strengthens my broader **Security Research & Analysis** portfolio, particularly in areas involving financial data integrity and cryptographic security.
 
-#### What I Learned
-* Understand the **infrastructure and architecture** of decentralized finance.  
-* Analyze DeFi’s role in reshaping financial inclusion, lending, and governance.  
-* Explore the mechanisms of **blockchain, cryptography, and interoperability**.  
-* Evaluate leading **DeFi protocols** such as MakerDAO, Compound, Aave, Uniswap, and dYdX.  
-* Assess key **risks and compliance challenges** including smart contract vulnerabilities and regulatory considerations.
-
-#### Skills Gained
-* Entrepreneurial Finance & FinTech  
-* Cryptography & Key Management  
-* Decentralized Lending & Underwriting  
-* Regulatory Compliance & Risk Management  
-* Financial Inclusion & Interoperability  
-* Entrepreneurship & Financial Strategy  
-
-#### Course Certificates
-* **Decentralized Finance (DeFi) Infrastructure** — Completed Jan 26, 2025 — Grade: **92.22%**  
-* **Decentralized Finance (DeFi) Primitives** — Completed Feb 14, 2025 — Grade: **100.00%**  
-* **Decentralized Finance (DeFi) Deep Dive** — Completed Mar 6, 2025 — Grade: **92.50%**  
-* **Decentralized Finance (DeFi) Opportunities and Risks** — Completed Mar 6, 2025 — Grade: **95.83%**
-
-#### Completion Summary  
-* **Overall:** In-depth exploration of decentralized financial ecosystems with a strong emphasis on security, compliance, and innovation. Gained the ability to evaluate the operational, technical, and regulatory aspects of emerging DeFi technologies.
+[View Security Research Reports](/experience/) | [Inquire for DeFi Security Consulting](mailto:eldongbrl@gmail.com)
