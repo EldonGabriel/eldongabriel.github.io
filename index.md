@@ -12,11 +12,12 @@ image:
   <div style="margin-top:20px; height:4px; background:#fff; width:100px; display:inline-block; border-radius:2px;"></div>
 </section>
 
-<p style="font-size:1.2em; line-height:1.6;">
-  I provide <strong>technical rigor</strong> and <strong>strategic insight</strong> to harden enterprise systems, investigate incidents, and ensure operational resilience. As an <strong>ISC² Certified Cybersecurity Professional</strong> with 100+ verified labs and technical reports, I specialize in transforming complex IT environments into secure, compliant, and high-performance infrastructures.
-</br>
-My work is grounded in a <strong>"Proof of Work"</strong> methodology—documenting the live execution of repeatable, enterprise-grade security processes designed to eliminate vulnerabilities and ensure audit-ready defense.
+<p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
+  I provide <strong>technical rigor</strong> and <strong>strategic insight</strong> to harden enterprise systems, investigate incidents, and ensure operational resilience. As an <strong>ISC² Certified Cybersecurity Professional</strong> with <strong>120+ verified technical demonstrations and reports</strong>, I specialize in transforming complex IT environments into secure, compliant, and high-performance infrastructures.
+</p>
 
+<p style="font-size:1.2em; line-height:1.6;">
+  My work is grounded in a <strong>"Proof of Work"</strong> methodology—documenting the live execution of repeatable, enterprise-grade security processes designed to eliminate vulnerabilities and ensure audit-ready defense.
 </p>
 
 <section style="margin: 60px 0;">
