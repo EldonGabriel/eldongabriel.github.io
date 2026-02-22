@@ -58,7 +58,7 @@ My work is grounded in a <strong>"Proof of Work"</strong> methodology—document
 
 <p align="center" style="margin-top: 40px;">
   <a href="/certifications/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">Explore Verified Skills</a> 
-| <a href="/experience/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">View Technical Portfolio</a>
+  <a href="/experience/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">View Technical Portfolio</a>
 </p>
 
 ---
