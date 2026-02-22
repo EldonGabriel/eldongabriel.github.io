@@ -5,8 +5,8 @@ author: Eldon Gabriel
 tags: [Virtualization, VMware, AMD, Troubleshooting, Infrastructure]
 excerpt: "A technical deep-dive into enabling nested virtualization on restricted AMD mobile platforms by bypassing OEM firmware locks and Windows 11 VBS."
 image:
-  path: /assets/images/headers/vsphere-amd-lab.png
-  thumbnail: /assets/images/thumbnails/vsphere-amd-lab-thumb.png
+  path: /assets/images/posts/vsphere-amd-lab.png
+  thumbnail: /assets/images/posts/vsphere-amd-lab.png
 ---
 
 ### The Challenge: Restricted Hardware
