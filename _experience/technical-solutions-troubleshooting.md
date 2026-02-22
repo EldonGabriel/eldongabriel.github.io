@@ -14,10 +14,16 @@ image:
 I provide **specialized technical troubleshooting** and high-fidelity documentation for complex IT and cybersecurity infrastructures. My methodology focuses on rapid root-cause analysis, implementing repeatable remediation workflows, and producing technical guides that enhance operational efficiency and reduce future downtime.
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Primary Solutions:</strong> Root Cause Analysis (RCA) · Cloud & VPN Diagnostics · Security Standard Operating Procedures (SOPs)
+  <strong>Primary Solutions:</strong> Root Cause Analysis (RCA) · Nested Virtualization & Hypervisor Enablement · Security Standard Operating Procedures (SOPs)
 </p>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 40px;">
+
+ <figure style="flex: 1 1 100%; max-width: 1220px; text-align: center; margin-bottom: 40px;">
+  <iframe src="{{ '/assets/guides/GUIDE – Building a vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #333; border-radius: 8px;"></iframe>
+  <figcaption style="margin-top: 10px; font-weight: bold;">Advanced Enablement: Nested Virtualization on Restricted AMD Platforms</figcaption>
+  <p style="font-size: 0.9em; color: #ccc;">Resolving OEM firmware locks and Windows 11 VBS conflicts to enable enterprise-grade vSphere labs on mobile hardware.</p>
+</figure>
 
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #333; border-radius: 8px;"></iframe>
