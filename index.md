@@ -20,12 +20,12 @@ My work is grounded in a <strong>"Proof of Work"</strong> methodology—document
 </p>
 
 <section style="margin: 60px 0;">
-  <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">Services & Solutions</h2>
+  <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">What I Bring to an Organization</h2>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
     
     <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
       <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">System Hardening</h3>
-      <p>Deployment and continuous securing of Windows and Linux environments. I implement NIST-aligned controls, GPO restrictions, and automated access policies to eliminate vulnerabilities.</p>
+      <p>Advanced Windows/Linux lockdown and automated IP access control. I engineer deep-level GPO and Registry restrictions to ensure security is baked into the OS.</p>
       <ul style="font-size: 0.9em; color: #ccc;">
         <li>Server Security Evaluations</li>
         <li>Least Privilege Implementation</li>
@@ -35,17 +35,17 @@ My work is grounded in a <strong>"Proof of Work"</strong> methodology—document
 
     <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
       <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Network Defense</h3>
-      <p>Investigation of unauthorized access and network troubleshooting. I utilize deep-dive analysis to identify root causes and implement permanent remediation plans.</p>
+      <p>pfSense orchestration and unauthorized access investigation. I utilize deep-dive analysis to move past symptoms and address root causes.</p>
       <ul style="font-size: 0.9em; color: #ccc;">
-        <li>Unauthorized Access Investigation</li>
         <li>Enterprise IPSec VPN Troubleshooting</li>
         <li>Network Traffic & DNS Diagnostics</li>
+        <li>Unauthorized Access Investigation</li>
       </ul>
     </div>
 
     <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">GRC & Strategy</h3>
-      <p>Developing robust security policies and risk frameworks to meet compliance requirements and secure organizational assets against insider and external threats.</p>
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Operational Resilience</h3>
+      <p>Permanent remediation of vulnerabilities based on NIST-aligned frameworks. I bridge the gap between GRC Strategy and ground-level implementation.</p>
       <ul style="font-size: 0.9em; color: #ccc;">
         <li>Bank-Grade Risk Registers</li>
         <li>BYOD & Security Policy Design</li>
