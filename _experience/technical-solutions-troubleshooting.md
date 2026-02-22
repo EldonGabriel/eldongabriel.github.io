@@ -19,7 +19,7 @@ I provide **specialized technical troubleshooting** and high-fidelity documentat
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 40px;">
 
- <figure style="flex: 1 1 100%; max-width: 1220px; text-align: center; margin-bottom: 40px;">
+ <figure style="flex: 1 1 calc(50% - 20px); max-width: 1220px; text-align: center; margin-bottom: 40px;">
   <iframe src="{{ '/assets/guides/GUIDE – Building a vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #333; border-radius: 8px;"></iframe>
   <figcaption style="margin-top: 10px; font-weight: bold;">Advanced Enablement: Nested Virtualization on Restricted AMD Platforms</figcaption>
   <p style="font-size: 0.9em; color: #ccc;">Resolving OEM firmware locks and Windows 11 VBS conflicts to enable enterprise-grade vSphere labs on mobile hardware.</p>
@@ -67,6 +67,12 @@ I provide **specialized technical troubleshooting** and high-fidelity documentat
     <iframe src="{{ 'assets/guides/GUIDE – Backup and Restore Using Duplicati CLI – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #333; border-radius: 8px;"></iframe>
     <figcaption style="margin-top: 10px; font-weight: bold;">Disaster Recovery: CLI-Based Backup Workflows</figcaption>
     <p style="font-size: 0.9em; color: #ccc;">Automating data protection tasks through the command line to ensure reliable and repeatable offsite backups.</p>
+  </figure>
+  
+  <figure style="flex: 1; min-width: 400px; max-width: 600px; text-align: center; border: 1px dashed #444; border-radius: 8px; display: flex; align-items: center; justify-content: center; background: rgba(0,0,0,0.2);">
+    <div style="padding: 40px;">
+      <p style="color: #666;">New Perimeter Defense Case Study Coming Soon</p>
+    </div>
   </figure>
 
 </div>
