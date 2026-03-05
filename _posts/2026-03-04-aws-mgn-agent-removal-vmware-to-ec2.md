@@ -50,8 +50,8 @@ The full process is documented in the complete report. It includes:
 * Cost analysis and removal of unused cloud resources  
 
 <figure style="text-align: center;">
-  <iframe src="{{ '/assets/guides/REPORT – VMware to AWS EC2 Migration – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #333; border-radius: 8px;"></iframe>
-  <figcaption><strong>Full Engineering Report: VMware to AWS EC2 Migration</strong></figcaption>
+  <iframe src="{{ '/assets/guides/assets/reports/IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #333; border-radius: 8px;"></iframe>
+  <figcaption><strong>IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.0</strong></figcaption>
 </figure>
 
 ---
