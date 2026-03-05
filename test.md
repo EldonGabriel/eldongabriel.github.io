@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Security Systems Specialist
-permalink: /test
+permalink: /
 image:
   path: /assets/images/banner.png
 ---
@@ -12,11 +12,12 @@ image:
   <div style="margin-top:20px; height:4px; background:#fff; width:100px; display:inline-block; border-radius:2px;"></div>
 </section>
 
-<p style="font-size:1.2em; line-height:1.6;">
-  I provide <strong>technical rigor</strong> and <strong>strategic insight</strong> to harden enterprise systems, investigate incidents, and ensure operational resilience. As an <strong>ISC² Certified Cybersecurity Professional</strong> with 100+ verified labs and technical reports, I specialize in transforming complex IT environments into secure, compliant, and high-performance infrastructures.
-</br>
-My work is grounded in a <strong>"Proof of Work"</strong> methodology—documenting the live execution of repeatable, enterprise-grade security processes designed to eliminate vulnerabilities and ensure audit-ready defense.
+<p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
+  I provide <strong>technical rigor</strong> and <strong>strategic insight</strong> to harden enterprise systems, investigate incidents, and ensure operational resilience. As an <strong>ISC² Certified Cybersecurity Professional</strong> with <strong>120+ verified technical demonstrations and reports</strong>, I specialize in transforming complex IT environments into secure, compliant, and high-performance infrastructures.
+</p>
 
+<p style="font-size:1.2em; line-height:1.6;">
+  My work is grounded in a <strong>"Proof of Work"</strong> methodology—documenting the live execution of repeatable, enterprise-grade security processes designed to eliminate vulnerabilities and ensure audit-ready defense.
 </p>
 
 <section style="margin: 60px 0;">
@@ -29,17 +30,17 @@ My work is grounded in a <strong>"Proof of Work"</strong> methodology—document
       <ul style="font-size: 0.9em; color: #ccc;">
         <li>Server Security Evaluations</li>
         <li>Least Privilege Implementation</li>
-        <li>Automated IP Access Control</li>
+        <li>Kernel-Level Driver Remediation</li>
       </ul>
     </div>
 
     <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
       <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Network Defense</h3>
-      <p>pfSense orchestration and unauthorized access investigation. I utilize deep-dive analysis to move past symptoms and address root causes.</p>
+      <p>pfSense orchestration and unauthorized access investigation. I utilize deep-dive analysis to move past symptoms and address root causes in hybrid environments.</p>
       <ul style="font-size: 0.9em; color: #ccc;">
+        <li>AWS MGN Infrastructure Cleanup</li>
         <li>Enterprise IPSec VPN Troubleshooting</li>
         <li>Network Traffic & DNS Diagnostics</li>
-        <li>Unauthorized Access Investigation</li>
       </ul>
     </div>
 
@@ -48,7 +49,7 @@ My work is grounded in a <strong>"Proof of Work"</strong> methodology—document
       <p>Permanent remediation of vulnerabilities based on NIST-aligned frameworks. I bridge the gap between GRC Strategy and ground-level implementation.</p>
       <ul style="font-size: 0.9em; color: #ccc;">
         <li>Bank-Grade Risk Registers</li>
-        <li>BYOD & Security Policy Design</li>
+        <li>Cloud Cost Mitigation & Variance Analysis</li>
         <li>Post-Breach Remediation Strategy</li>
       </ul>
     </div>
@@ -58,8 +59,48 @@ My work is grounded in a <strong>"Proof of Work"</strong> methodology—document
 
 <p align="center" style="margin-top: 40px;">
   <a href="/certifications/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">Explore Verified Skills</a> 
-| <a href="/experience/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">View Technical Portfolio</a>
+  <a href="/experience/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">View Technical Portfolio</a>
 </p>
+
+---
+
+<section style="text-align:center; margin: 60px 0;">
+  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    Technical Case Studies
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h2>
+  <p><strong>Independent Reports & Public Project Documentation</strong></p>
+  <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 8px; border-left: 4px solid #fff; margin: 20px auto; max-width: 900px; text-align: left;">
+    <p style="font-size: 1em; color: #eee; margin: 0;">
+      My expertise is backed by 120+ verified technical labs and reports. Due to non-disclosure agreements and academic integrity pledges (MCSI), detailed lab reports for specific curriculum milestones are available only upon direct request for verified professional inquiries.
+    </p>
+  </div>
+</section>
+
+<div style="display: flex; justify-content: center; margin-bottom: 40px;">
+  <figure style="flex: 1; max-width: 1220px; text-align: center;">
+    <iframe class="pdf-embed" 
+            src="{{ '/assets/reports/IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.0.pdf' | relative_url }}" 
+            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
+    <figcaption style="margin-top:10px;"><strong>Cloud Remediation:</strong> AWS MGN Agent Removal & Cost Mitigation (Reduced burn by 70%)</figcaption>
+  </figure>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
+    <iframe class="pdf-embed" 
+            src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" 
+            width="100%" height="500px" style="border:1px solid #333; border-radius:8px;"></iframe>
+    <figcaption style="margin-top:10px;">Risk Management: Bank Register Analysis</figcaption>
+  </figure>
+
+  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
+    <iframe class="pdf-embed" 
+            src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" 
+            width="100%" height="500px" style="border:1px solid #333; border-radius:8px;"></iframe>
+    <figcaption style="margin-top:10px;">Incident Response: Unauthorized Access Case</figcaption>
+  </figure>
+</div>
 
 ---
 
@@ -96,53 +137,6 @@ My work is grounded in a <strong>"Proof of Work"</strong> methodology—document
 
 --- 
 
-<section style="text-align:center; margin: 60px 0;">
-  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
-    Technical Case Studies
-    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
-  </h2>
-  <p><strong>Independent Reports & Public Project Documentation</strong></p>
-  <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 8px; border-left: 4px solid #fff; margin: 20px auto; max-width: 900px; text-align: left;">
-    <p style="font-size: 1em; color: #eee; margin: 0;">
-      My expertise is backed by 100+ verified technical labs and reports. Due to non-disclosure agreements and academic integrity pledges (MCSI), detailed lab reports for specific curriculum milestones are available only upon direct request for verified professional inquiries.
-    </p>
-  </div>
-</section>
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
-    <iframe class="pdf-embed" 
-            src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" 
-            width="100%" height="750px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;">Risk Management: Bank Register Analysis</figcaption>
-  </figure>
-
-  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
-    <iframe class="pdf-embed" 
-            src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" 
-            width="100%" height="750px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;">Incident Response: Unauthorized Access Case</figcaption>
-  </figure>
-</div>
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 40px;">
-  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
-    <iframe class="pdf-embed" 
-            src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" 
-            width="100%" height="750px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;">System Hardening: Server Security Audit</figcaption>
-  </figure>
-
-  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
-    <iframe class="pdf-embed" 
-            src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" 
-            width="100%" height="750px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;">Networking: IPsec VPN Solution Guide</figcaption>
-  </figure>
-</div>
-
---- 
-
 <div style="text-align:center; padding: 60px 0;">
   <h2 style="font-size:2.5em; font-weight:bold; color:#fff;">Let's Secure Your Infrastructure</h2>
   <p style="font-size:1.1em;">Ready to deploy NIST-aligned hardening or request a private technical review? Let's connect.</p>
@@ -151,7 +145,6 @@ My work is grounded in a <strong>"Proof of Work"</strong> methodology—document
 
 --- 
 
-<!-- Field Notes Header -->
 <img src="assets/images/fnlogo.png" alt="Banner" style="width:100%; height:auto;">
 
 <h2 style="text-align:center; font-size:200%; font-weight:bold; color:#fff;">
