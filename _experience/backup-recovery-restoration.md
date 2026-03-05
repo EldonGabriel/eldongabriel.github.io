@@ -14,11 +14,17 @@ image:
 I design and implement robust **Business Continuity and Disaster Recovery (BCDR)** strategies that protect critical organizational data from system failures, ransomware, and human error. My approach focuses on minimizing downtime through verified recovery workflows and automated restoration testing.
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Primary Solutions:</strong> Disaster Recovery Planning · Bare Metal Recovery · Data Integrity Verification
+  <strong>Primary Solutions:</strong> Cloud Resource Remediation · Bare Metal Recovery · Data Integrity Verification
 </p>
 
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 40px;">
+
+<figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
+    <iframe src="{{ '/assets/reports/IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #333; border-radius: 8px;"></iframe>
+    <figcaption style="margin-top: 10px; font-weight: bold;">Incident Report: AWS MGN Environment Cleanup</figcaption>
+    <p style="font-size: 0.9em; color: #ccc;">Documentation of infrastructure remediation, kernel-level driver removal, and cloud resource reclamation following a migration incident.</p>
+  </figure>
 
   <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
     <iframe src="{{ '/assets/reports/REPORT – Active Directory Bare Metal Recovery (BMR) Backup and Restore – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #333; border-radius: 8px;"></iframe>
