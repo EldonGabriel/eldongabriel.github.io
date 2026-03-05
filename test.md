@@ -57,11 +57,6 @@ image:
   </div>
 </section>
 
-<p align="center" style="margin-top: 40px;">
-  <a href="/certifications/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">Explore Verified Skills</a> 
-  <a href="/experience/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">View Technical Portfolio</a>
-</p>
-
 ---
 
 <section style="text-align:center; margin: 60px 0;">
@@ -77,21 +72,8 @@ image:
   </div>
 </section>
 
-<section style="text-align:center; margin: 60px 0;">
-  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
-    Technical Case Studies
-    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
-  </h2>
-  <p><strong>Independent Reports & Public Project Documentation</strong></p>
-  <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 8px; border-left: 4px solid #fff; margin: 20px auto; max-width: 900px; text-align: left;">
-    <p style="font-size: 1em; color: #eee; margin: 0;">
-      My expertise is backed by 120+ verified technical labs and reports. Due to non-disclosure agreements and academic integrity pledges (MCSI), detailed lab reports for specific curriculum milestones are available only upon direct request for verified professional inquiries.
-    </p>
-  </div>
-</section>
-
 <div style="display: flex; justify-content: center; margin-bottom: 40px;">
-  <figure style="flex: 1; max-width: 1220px; text-align: center;">
+  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
     <iframe class="pdf-embed" 
             src="{{ '/assets/reports/IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.0.pdf' | relative_url }}" 
             width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
