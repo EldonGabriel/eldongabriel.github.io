@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Security Systems Specialist
-permalink: /test
+permalink: /test/
 image:
   path: /assets/images/banner.png
 ---
@@ -77,6 +77,19 @@ image:
   </div>
 </section>
 
+<section style="text-align:center; margin: 60px 0;">
+  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    Technical Case Studies
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h2>
+  <p><strong>Independent Reports & Public Project Documentation</strong></p>
+  <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 8px; border-left: 4px solid #fff; margin: 20px auto; max-width: 900px; text-align: left;">
+    <p style="font-size: 1em; color: #eee; margin: 0;">
+      My expertise is backed by 120+ verified technical labs and reports. Due to non-disclosure agreements and academic integrity pledges (MCSI), detailed lab reports for specific curriculum milestones are available only upon direct request for verified professional inquiries.
+    </p>
+  </div>
+</section>
+
 <div style="display: flex; justify-content: center; margin-bottom: 40px;">
   <figure style="flex: 1; max-width: 1220px; text-align: center;">
     <iframe class="pdf-embed" 
@@ -86,7 +99,7 @@ image:
   </figure>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
   <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
     <iframe class="pdf-embed" 
             src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" 
@@ -99,6 +112,22 @@ image:
             src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" 
             width="100%" height="500px" style="border:1px solid #333; border-radius:8px;"></iframe>
     <figcaption style="margin-top:10px;">Incident Response: Unauthorized Access Case</figcaption>
+  </figure>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
+    <iframe class="pdf-embed" 
+            src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" 
+            width="100%" height="500px" style="border:1px solid #333; border-radius:8px;"></iframe>
+    <figcaption style="margin-top:10px;">System Hardening: Server Security Audit</figcaption>
+  </figure>
+
+  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
+    <iframe class="pdf-embed" 
+            src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" 
+            width="100%" height="500px" style="border:1px solid #333; border-radius:8px;"></iframe>
+    <figcaption style="margin-top:10px;">Networking: IPsec VPN Solution Guide</figcaption>
   </figure>
 </div>
 
