@@ -34,7 +34,7 @@ The complete end-to-end procedure is documented in the full report. It includes:
 * Post-lab security restoration
 
 <figure style="text-align: center;">
-  <iframe src="{{ '/assets/guides/GUIDE – Building a vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #333; border-radius: 8px;"></iframe>
+  <iframe src="{{ '/assets/guides/GUIDE – Building a vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #333; border-radius: 8px;"></iframe>
   <figcaption><strong>Full Engineering Report: vSphere 8 on AMD Ryzen 6000</strong></figcaption>
 </figure>
 
