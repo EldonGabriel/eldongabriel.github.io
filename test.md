@@ -1,5 +1,5 @@
 ---
-layout: defaul
+layout: default
 title: Security Systems Specialist
 permalink: /test
 image:
