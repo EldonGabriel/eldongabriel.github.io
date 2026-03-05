@@ -110,34 +110,43 @@ image:
   </div>
 </section>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; margin-bottom: 40px;">
+  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
+    <iframe class="pdf-embed" 
+            src="{{ '/assets/reports/IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.0.pdf' | relative_url }}" 
+            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
+    <figcaption style="margin-top:10px;"><strong>Cloud Remediation:</strong> AWS MGN Agent Removal & Cost Mitigation (Reduced burn by 70%)</figcaption>
+  </figure>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
   <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
     <iframe class="pdf-embed" 
             src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" 
-            width="100%" height="750px" style="border:1px solid #333; border-radius:8px;"></iframe>
+            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
     <figcaption style="margin-top:10px;">Risk Management: Bank Register Analysis</figcaption>
   </figure>
 
   <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
     <iframe class="pdf-embed" 
             src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" 
-            width="100%" height="750px" style="border:1px solid #333; border-radius:8px;"></iframe>
+            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
     <figcaption style="margin-top:10px;">Incident Response: Unauthorized Access Case</figcaption>
   </figure>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 40px;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
     <iframe class="pdf-embed" 
             src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" 
-            width="100%" height="750px" style="border:1px solid #333; border-radius:8px;"></iframe>
+            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
     <figcaption style="margin-top:10px;">System Hardening: Server Security Audit</figcaption>
   </figure>
 
   <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
     <iframe class="pdf-embed" 
             src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" 
-            width="100%" height="750px" style="border:1px solid #333; border-radius:8px;"></iframe>
+            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
     <figcaption style="margin-top:10px;">Networking: IPsec VPN Solution Guide</figcaption>
   </figure>
 </div>
