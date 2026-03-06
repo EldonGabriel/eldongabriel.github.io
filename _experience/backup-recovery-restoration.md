@@ -21,7 +21,7 @@ I design and implement robust **Business Continuity and Disaster Recovery (BCDR)
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 40px;">
 
 <figure style="flex: 1 1 calc(50% - 20px); min-width: 400px; max-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #333; border-radius: 8px;"></iframe>
+    <iframe src="{{ '/assets/reports/IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.1.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #333; border-radius: 8px;"></iframe>
     <figcaption style="margin-top: 10px; font-weight: bold;">Incident Report: AWS MGN Environment Cleanup</figcaption>
     <p style="font-size: 0.9em; color: #ccc;">Documentation of infrastructure remediation, kernel-level driver removal, and cloud resource reclamation following a migration incident.</p>
   </figure>
