@@ -1,5 +1,5 @@
 ---
-title: "Duke University: Decentralized Finance (DeFi)"
+title: "Decentralized Finance (DeFi)"
 layout: collection-item
 slug: duke-defi-future-of-finance
 collection: certifications
