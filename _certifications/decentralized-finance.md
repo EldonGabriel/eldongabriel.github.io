@@ -47,5 +47,3 @@ The expertise developed through this Duke University program enables the followi
 
 #### **Operational Integration**
 My understanding of decentralized architecture strengthens my broader **Security Research & Analysis** portfolio, particularly in areas involving financial data integrity and cryptographic security.
-
-[View Security Research Reports](/experience/) | [Inquire for DeFi Security Consulting](mailto:eldongbrl@gmail.com)
