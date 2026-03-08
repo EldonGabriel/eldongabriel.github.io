@@ -51,7 +51,3 @@ This professional credential enables me to provide the following defensive servi
     <li>✅ Professional IR Prep</li>
   </ul>
 </div>
-
-***
-
-[View Defensive Case Studies](/experience/) | [Request a Security Audit](mailto:eldongbrl@gmail.com)
