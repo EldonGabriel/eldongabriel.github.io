@@ -46,5 +46,3 @@ The **Google IT Support Professional** credential serves as the technical backbo
 
 #### **Operational Integration**
 The foundational skills verified here are critical to my work in **Network Architecture** and **Windows Systems Administration**. This training ensures that all technical resolutions are approached with a systematic, root-cause methodology.
-
-[View Technical Troubleshooting Guides](/experience/) | [Contact for IT Operations Support](mailto:eldongbrl@gmail.com)
