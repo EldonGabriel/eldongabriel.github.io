@@ -41,6 +41,12 @@ image:
   These capabilities support my primary focus areas in system hardening, security operations, and technical troubleshooting, ensuring a comprehensive approach to infrastructure security.
 </p>
 
-<p style="margin-top:30px;">
-  <a href="/experience/">View Technical Case Studies</a> | <a href="/contact/">Request Consultation)(mailto:eldongbrl@gmail.com)</a>
+<p align="center" style="margin-top: 40px;">
+  <a href="/experience/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    View Technical Case Studies
+  </a>
+
+  <a href="mailto:eldongbrl@gmail.com" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">
+    Request Consultation
+  </a>
 </p>
