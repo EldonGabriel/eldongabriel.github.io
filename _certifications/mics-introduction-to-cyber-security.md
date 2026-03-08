@@ -65,4 +65,4 @@ Through this intensive training, I have developed the following technical capabi
 #### **Operational Integration**
 The skills verified in this MICS certification are the engine behind my **Security Research & Analysis** work. This training ensures that my investigative methods are repeatable, documented, and aligned with the tactics used by modern threat actors.
 
-[View Career Development Milestones](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) | [Inquire for a Security Assessment](mailto:eldongbrl@gmail.com)
+[View Career Development Milestones](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) 
