@@ -1,5 +1,5 @@
 ---
-title: "System Administration Fundamentals"
+title: "System Admin Fundamentals"
 layout: collection-item
 slug: msaf-system-administration-fundamentals
 collection: certifications
