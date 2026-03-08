@@ -156,7 +156,7 @@ image:
 <div style="text-align:center; padding: 60px 0;">
   <h2 style="font-size:2.5em; font-weight:bold; color:#fff;">Let's Secure Your Infrastructure</h2>
   <p style="font-size:1.1em;">Ready to deploy NIST-aligned hardening or request a private technical review? Let's connect.</p>
-  <a href="mailto:eldongbrl@gmail.com" style="display:inline-block; padding:15px 35px; background:#fff; color:#000; text-decoration:none; border-radius:50px; font-weight:bold; margin-top:20px;">Contact Me for a Consultation</a>
+  <a href="mailto:test@gmail.com" style="display:inline-block; padding:15px 35px; background:#fff; color:#000; text-decoration:none; border-radius:50px; font-weight:bold; margin-top:20px;">Contact Me for a Consultation</a>
 </div>
 
 --- 
