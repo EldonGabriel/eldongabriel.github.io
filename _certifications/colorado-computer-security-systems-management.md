@@ -46,4 +46,3 @@ The competencies developed here allow me to deliver the following infrastructure
 #### **Operational Integration**
 The expertise documented here directly informs my **System Hardening** and **Windows Administration** services. These standards ensure that every infrastructure project I handle is secure by design.
 
-[View Infrastructure Case Studies](/experience/) | [Inquire for Enterprise Support](mailto:eldongbrl@gmail.com)
