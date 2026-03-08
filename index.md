@@ -13,11 +13,11 @@ image:
 </section>
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
-  I provide <strong>technical rigor</strong> and <strong>strategic insight</strong> to harden enterprise systems, investigate incidents, and ensure operational resilience. As an <strong>ISC² Certified Cybersecurity Professional</strong> with <strong>120+ verified technical demonstrations and reports</strong>, I specialize in transforming complex IT environments into secure, compliant, and high-performance infrastructures.
+  I provide <strong>hands-on security implementation</strong> and <strong>framework-aligned technical controls</strong> to harden enterprise systems, investigate incidents, and reduce organizational risk. As an <strong>ISC² Certified Cybersecurity Professional (CC)</strong> with <strong>120+ documented technical labs and reports</strong>, I specialize in transforming complex IT environments into secure, compliant, and resilient infrastructures.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6;">
-  My work is grounded in a <strong>"Proof of Work"</strong> methodology—documenting the live execution of repeatable, enterprise-grade security processes designed to eliminate vulnerabilities and ensure audit-ready defense.
+  My work is grounded in a <strong>"Proof of Work"</strong> methodology—executing repeatable, documented security processes that strengthen systems, mitigate vulnerabilities, and support compliance readiness.
 </p>
 
 <section style="margin: 60px 0;">
@@ -26,7 +26,7 @@ image:
     
     <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
       <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">System Hardening</h3>
-      <p>Advanced Windows/Linux lockdown and automated IP access control. I engineer deep-level GPO and Registry restrictions to ensure security is baked into the OS.</p>
+      <p>Advanced Windows and Linux lockdown with automated IP access control. I implement deep-level GPO and Registry restrictions to reduce attack surface and enforce least privilege.</p>
       <ul style="font-size: 0.9em; color: #ccc;">
         <li>Server Security Evaluations</li>
         <li>Least Privilege Implementation</li>
@@ -36,7 +36,7 @@ image:
 
     <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
       <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Network Defense</h3>
-      <p>pfSense orchestration and unauthorized access investigation. I utilize deep-dive analysis to move past symptoms and address root causes.</p>
+      <p>pfSense orchestration and root-cause network analysis. I identify misconfigurations and unauthorized access to improve perimeter and internal defenses.</p>
       <ul style="font-size: 0.9em; color: #ccc;">
         <li>Enterprise IPSec VPN Troubleshooting</li>
         <li>Network Traffic & DNS Diagnostics</li>
@@ -46,7 +46,7 @@ image:
 
     <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
       <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Operational Resilience</h3>
-      <p>Permanent remediation of vulnerabilities based on NIST-aligned frameworks. I bridge the gap between GRC Strategy and ground-level implementation.</p>
+      <p>Permanent remediation and risk reduction based on NIST-aligned frameworks. I connect GRC strategy with actionable technical safeguards.</p>
       <ul style="font-size: 0.9em; color: #ccc;">
         <li>Bank-Grade Risk Registers</li>
         <li>BYOD & Security Policy Design</li>
