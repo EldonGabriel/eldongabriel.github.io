@@ -1,10 +1,10 @@
 ---
-title: "Certified in Cybersecurity (CC)"
+title: "Certified in Cybersecurity"
 layout: collection-item
 slug: isc2-certified-in-cybersecurity-cc
 collection: certifications
 collection_item: true
-order: 2
+order: 1
 image:
   path: /assets/images/headers/isc2cc.png
   thumbnail: /assets/images/headers/isc2cc.png
