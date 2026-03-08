@@ -67,5 +67,3 @@ Through this intensive curriculum, I am developing the capability to deliver hig
 
 #### **Operational Integration**
 The methodologies trained in MOIS are critical for my **OSINT & Intelligence Analysis** experience section. This certification ensures that my investigative workflows are professional, ethical, and structured to withstand rigorous scrutiny.
-
-[View Career Development Milestones](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) | [Consult an Intelligence Specialist](mailto:eldongbrl@gmail.com)
