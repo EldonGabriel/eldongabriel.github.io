@@ -1,5 +1,5 @@
 ---
-title: "Google Cybersecurity Professional"
+title: "Cybersecurity Professional"
 layout: collection-item
 slug: google-cybersecurity
 collection: certifications
