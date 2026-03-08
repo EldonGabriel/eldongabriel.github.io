@@ -1,10 +1,10 @@
 ---
-title: "Cybersecurity Risk Management Framework"
+title: "Cybersecurity RMF"
 layout: collection-item
-slug: infosec-cybersecurity-risk-management-framework
+slug: cybersecurity-rmf
 collection: certifications
 collection_item: true
-order: 1
+order: 2
 image:
   path: /assets/images/headers/infosec-crmf.png
   thumbnail: /assets/images/headers/infosec-crmf.png
