@@ -68,5 +68,3 @@ Leveraging the rigorous technical training from MSAF, I provide the following es
 
 #### **Operational Integration**
 The competencies verified here serve as the foundation for my **Windows Systems Administration** and **Technical Troubleshooting** experience sections. Every administrative action I take is backed by the systematic hardening and monitoring standards developed during this 100+ lab series.
-
-[View Career Development Milestones](https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832) | [Request Infrastructure Support](mailto:eldongbrl@gmail.com)
