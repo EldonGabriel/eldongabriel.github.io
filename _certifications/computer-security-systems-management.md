@@ -1,7 +1,7 @@
 ---
-title: "Computer Security & Systems Management"
+title: "Computer Security & Systems Mgmt"
 layout: collection-item
-slug: colorado-computer-security-systems-management
+slug: computer-security-systems-mgnt
 collection: certifications
 collection_item: true
 order: 6
