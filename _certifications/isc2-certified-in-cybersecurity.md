@@ -1,5 +1,5 @@
 ---
-title: "ISC²: Certified in Cybersecurity (CC)"
+title: "Certified in Cybersecurity (CC)"
 layout: collection-item
 slug: isc2-certified-in-cybersecurity-cc
 collection: certifications
