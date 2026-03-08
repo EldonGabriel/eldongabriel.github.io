@@ -1,7 +1,7 @@
 ---
-title: "Computer Security & Systems Mgmt"
+title: "CS & SysMgmt"
 layout: collection-item
-slug: computer-security-systems-mgnt
+slug: cs-system-mgnt
 collection: certifications
 collection_item: true
 order: 6
