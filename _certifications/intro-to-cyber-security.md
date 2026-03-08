@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Cyber Security"
+title: "Intro to Cyber Security"
 layout: collection-item  
 slug: mics-intro-cyber-security
 collection: certifications
