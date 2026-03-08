@@ -1,5 +1,5 @@
 ---
-title: "INFOSEC: Cybersecurity Risk Management Framework"
+title: "Cybersecurity Risk Management Framework"
 layout: collection-item
 slug: infosec-cybersecurity-risk-management-framework
 collection: certifications
