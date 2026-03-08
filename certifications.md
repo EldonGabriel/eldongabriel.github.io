@@ -1,5 +1,5 @@
 ---
-title: Verified Certifications & Technical Mastery
+title: Certifications & Technical Training
 layout: collection
 permalink: /certifications/
 collection: certifications
@@ -9,6 +9,10 @@ image:
   path: /assets/images/banner.png
 ---
 
-My professional expertise is grounded in hands-on application and a commitment to industry-standard excellence. This record of verified credentials demonstrates my proficiency in building, managing, and defending enterprise systems. 
+<p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
+  My professional development is grounded in <strong>hands-on technical application</strong> and adherence to recognized industry standards. This portfolio of verified credentials reflects practical proficiency in <strong>securing, configuring, and managing enterprise systems</strong>.
+</p>
 
-Each certification is aligned with global frameworks, including the **NIST NICE Framework**, **US Military Occupations (MOS)**, and the **ASD Cyber Skills Framework**, ensuring my methodologies meet international professional standards.
+<p style="font-size:1.2em; line-height:1.6;">
+  My certifications and training align with globally recognized workforce and competency models, including the <strong>NIST NICE Framework</strong>, relevant <strong>U.S. DoD occupational standards</strong>, and the <strong>ASD Cyber Skills Framework</strong>, supporting structured skill development and professional best practices.
+</p>
