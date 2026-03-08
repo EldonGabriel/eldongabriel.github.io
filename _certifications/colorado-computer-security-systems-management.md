@@ -1,5 +1,5 @@
 ---
-title: "University of Colorado: Computer Security & Systems Management"
+title: "Computer Security & Systems Management"
 layout: collection-item
 slug: colorado-computer-security-systems-management
 collection: certifications
