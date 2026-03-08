@@ -1,7 +1,7 @@
 ---
 title: "Certified OSINT Expert"
 layout: collection-item 
-slug: mois-certified-osint-expert
+slug: certified-osint-expert
 collection: certifications
 collection_item: true
 order: 3
