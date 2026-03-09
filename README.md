@@ -1,38 +1,127 @@
-# Eldon Gabriel – Cybersecurity Portfolio  
+# Eldon Gabriel – Security Systems Specialist
 
-Welcome to my portfolio website repository! This site showcases my journey and skills as a cybersecurity professional, with a focus on hands-on labs, independent projects, and real-world security problem solving.  
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Portfolio-blue)
+![ISC2](https://img.shields.io/badge/ISC2-Certified-success)
+![Security](https://img.shields.io/badge/Security-Operations-informational)
+![OSINT](https://img.shields.io/badge/OSINT-Threat%20Intelligence-orange)
 
-## About Me  
+ISC² Certified Cybersecurity Professional  
+Defensive Security | System Hardening | Threat Detection
 
-I am **Eldon Gabriel**, an ISC² Certified cybersecurity professional. I build practical skills in:  
-- System Administration & Security Operations  
-- Threat Hunting & Digital Forensics  
-- Vulnerability Assessment & Penetration Testing  
-- Open Source Intelligence (OSINT)  
-- Governance, Risk, and Compliance (GRC)  
+This repository contains my cybersecurity portfolio documenting hands-on labs, security projects, and technical reports demonstrating practical security implementation.
 
-This site documents my independent labs, technical projects, and reports, providing transparency into my hands-on experience and technical growth.  
+The portfolio serves as a proof-of-work record showing how cybersecurity concepts translate into real-world system configuration, threat detection, and vulnerability assessment.
 
-## Features of This Portfolio  
+---
 
-- Lab walkthroughs with screenshots and documentation  
-- Security reports and project summaries  
-- Real-world simulations of threat analysis and mitigation  
-- Links to GitHub repositories and code samples  
+## Featured Security Projects
 
-## Purpose  
+### Windows Endpoint Hardening
+Implemented enterprise hardening controls using Group Policy, Exploit Guard, Windows Defender policies, and account lockout configurations to secure Windows endpoints against unauthorized access and exploitation.
 
-This repository is intended to:  
-- Showcase my skills and projects to potential employers  
-- Provide a transparent view of my cybersecurity journey  
-- Act as a living portfolio that grows with my experience  
+### Threat Hunting with YARA
+Developed custom YARA rules to detect suspicious executables and file patterns while documenting detection logic and repeatable threat-hunting workflows.
 
-## How to Explore  
+### Vulnerability Assessment
+Performed vulnerability scanning using OpenVAS to identify system weaknesses and prioritize remediation efforts based on risk exposure.
 
-1. Visit the live website: [eldongabriel.github.io](https://eldongabriel.github.io)  
-2. Browse projects, lab reports, and learning logs  
-3. View associated code repositories linked within each project  
+### Network Security & Firewall Configuration
+Configured pfSense firewall rules, traffic filtering, and secure VPN connectivity to enforce network security policies.
 
-## License  
+### Attack Surface Mapping with OSINT
+Mapped external-facing assets using Shodan and DNSDumpster to identify exposed services, misconfigurations, and potential information leaks.
 
-All content in this repository is created by me and intended for portfolio and professional demonstration purposes.  
+### Cloud & Virtualization Security
+Deployed and secured virtual machines across VMware, VirtualBox, AWS, and GCP environments while implementing snapshot recovery and disaster recovery practices.
+
+---
+
+## Technical Skills
+
+**Security Operations**
+- Threat hunting
+- IOC identification
+- Detection logic development
+
+**System Hardening**
+- Windows Group Policy (GPO)
+- Exploit Guard
+- Windows Defender security policies
+- User Access Control configuration
+- Procmon monitoring
+
+**Security Tools**
+- YARA
+- OpenVAS
+- Nmap
+- Burp Suite
+- Procmon
+- PE Studio
+
+**Network Security**
+- pfSense firewall configuration
+- VPN deployment
+- TCP/UDP port analysis
+- Network architecture diagrams
+
+**Cloud & Virtualization**
+- VMware
+- VirtualBox
+- AWS EC2
+- Google Cloud VMs
+- Snapshot recovery and disaster recovery planning
+
+**Threat Intelligence & OSINT**
+- Shodan
+- DNSDumpster
+- Domain reconnaissance
+- Phishing detection techniques
+
+---
+
+## Certifications & Training
+
+ISC² Certified in Cybersecurity (CC) – 2025  
+Google Cybersecurity Professional Certificate – 2025  
+Google IT Support Professional Certificate – 2025  
+Risk Management Framework Specialization (NIST CSF, SP 800-171, RMF) – 2025  
+
+Mossé Cyber Security Institute (MCSI)
+
+- MICS – Introduction to Cyber Security (Level 3)
+- MSAF – System Administration Fundamentals (In Progress)
+- MOIS – Certified OSINT Expert (In Progress)
+
+---
+
+## Portfolio Website
+
+Visit the live portfolio:
+
+https://eldongabriel.github.io
+
+The website includes:
+
+- detailed lab walkthroughs
+- security reports
+- project documentation
+- technical demonstrations
+
+---
+
+## Purpose of This Repository
+
+This repository exists to:
+
+- demonstrate practical cybersecurity skills
+- document hands-on security labs and research
+- provide transparency into technical experience
+- track continued growth in cybersecurity operations
+
+---
+
+## License
+
+All content in this repository was created by me and is provided for professional portfolio and demonstration purposes.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eldongabriel&show_icons=true)
