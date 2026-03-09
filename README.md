@@ -1,16 +1,15 @@
-# Eldon Gabriel – Security Systems Specialist
-
+# Eldon Gabriel – Cybersecurity Portfolio
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Portfolio-blue)
 ![ISC2](https://img.shields.io/badge/ISC2-Certified-success)
 ![Security](https://img.shields.io/badge/Security-Operations-informational)
 ![OSINT](https://img.shields.io/badge/OSINT-Threat%20Intelligence-orange)
 
-ISC² Certified Cybersecurity Professional  
-Defensive Security | System Hardening | Threat Detection
+### Security Systems Specialist  
+Secure Infrastructure | System Hardening | GRC Strategy
 
-This repository contains my cybersecurity portfolio documenting hands-on labs, security projects, and technical reports demonstrating practical security implementation.
+Welcome to my cybersecurity portfolio. This repository documents hands-on labs, security projects, and technical reports demonstrating practical implementation of defensive security controls across enterprise systems.
 
-The portfolio serves as a proof-of-work record showing how cybersecurity concepts translate into real-world system configuration, threat detection, and vulnerability assessment.
+The portfolio serves as a proof-of-work record showing how cybersecurity concepts translate into real-world system hardening, vulnerability assessment, threat detection, and infrastructure security.
 
 ---
 
