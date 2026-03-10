@@ -115,14 +115,14 @@ image:
     <iframe class="pdf-embed" 
             src="{{ '/assets/guides/GUIDE – Building a vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0.pdf' | relative_url }}" 
             width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;"><strong>Engineering a Nested vSphere 8 Environment on AMD Ryzen 6000</strong></figcaption>
+    <figcaption style="margin-top:10px;"><strong>Engineering:</strong> Nested vSphere 8 Environment</strong></figcaption>
   </figure>
 
   <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
     <iframe class="pdf-embed" 
             src="{{ '/assets/reports/IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.1.pdf' | relative_url }}" 
             width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;"><strong>Cloud Remediation:</strong> AWS MGN Agent Removal & Cost Mitigation</figcaption>
+    <figcaption style="margin-top:10px;"><strong>Incident Response:</strong> Cloud Remediation</figcaption>
   </figure>
 </div>
 
@@ -131,14 +131,14 @@ image:
     <iframe class="pdf-embed" 
             src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" 
             width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;">Risk Management: Bank Register Analysis</figcaption>
+    <figcaption style="margin-top:10px;"><strong>Risk Management:</strong> Bank Register Analysis</figcaption>
   </figure>
 
   <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
     <iframe class="pdf-embed" 
             src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" 
             width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;">Incident Response: Unauthorized Access Case</figcaption>
+    <figcaption style="margin-top:10px;"><strong>Incident Response:</strong> Unauthorized Access Case</figcaption>
   </figure>
 </div>
 
@@ -147,14 +147,14 @@ image:
     <iframe class="pdf-embed" 
             src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" 
             width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;">System Hardening: Server Security Audit</figcaption>
+    <figcaption style="margin-top:10px;"><strong>System Hardening:</strong> Server Security Audit</figcaption>
   </figure>
 
   <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
     <iframe class="pdf-embed" 
             src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" 
             width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;">Networking: IPsec VPN Solution Guide</figcaption>
+    <figcaption style="margin-top:10px;"><strong>Networking:</strong> IPsec VPN Solution Guide</figcaption>
   </figure>
 </div>
 
