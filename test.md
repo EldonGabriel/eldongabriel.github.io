@@ -43,5 +43,5 @@ I design and implement robust strategies for **Infrastructure Recovery and Opera
 <div style="text-align:center; padding: 40px; background: rgba(255,255,255,0.05); border-radius: 10px;">
   <h3>Harden Your Infrastructure Resilience</h3>
   <p>Is your infrastructure optimized for both recovery and cost? I provide comprehensive audits to ensure your systems are secure, recoverable, and financially lean.</p>
-  <a href="mailto:eldongbrl@gmail.com" style="display:inline-block; padding:12px 25px; background:#fff; color:#000; text-decoration:none; border-radius:5px; font-weight:bold;">Request a Resilience Audit</a>
+  <a href="mailto:test@gmail.com" style="display:inline-block; padding:12px 25px; background:#fff; color:#000; text-decoration:none; border-radius:5px; font-weight:bold;">Request a Resilience Audit</a>
 </div>
