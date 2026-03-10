@@ -113,7 +113,7 @@ image:
 <div style="display: flex; justify-content: center; margin-bottom: 40px;">
   <figure style="flex: 1; min-width: 300px; max-width: 900px; text-align: center;">
     <iframe class="pdf-embed" 
-            src="{{ '/assets/guides/GUIDE – Building a vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.1.0.pdf' | relative_url }}" 
+            src="{{ '/assets/guides/GUIDE – Building a vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0.pdf' | relative_url }}" 
             width="100%" height="800px" style="border:2px solid #fff; border-radius:8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);"></iframe>
     <figcaption style="margin-top:15px; font-size: 1.1em;">
       <strong>Featured Project:</strong> Engineering a Nested vSphere 8 Environment on AMD Ryzen 6000. 
