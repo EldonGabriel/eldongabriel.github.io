@@ -115,7 +115,7 @@ image:
     <iframe class="pdf-embed" 
             src="{{ '/assets/guides/GUIDE – Building a vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0.pdf' | relative_url }}" 
             width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;"><strong>Engineering:</strong> Nested vSphere 8 Environment</strong></figcaption>
+    <figcaption style="margin-top:10px;"><strong>Engineering:</strong> Nested VMware Infrastructure</figcaption>
   </figure>
 
   <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
