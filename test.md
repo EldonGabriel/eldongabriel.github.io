@@ -1,18 +1,12 @@
 ---
-layout: collection-item
-title: Security Systems Specialist
-permalink: /test/
-image:
-  path: /assets/images/banner.png
----
-
----
 title: "Infrastructure & Systems"
 layout: collection-item
 slug: infrastructure-systems
 collection: experience
 collection_item: true
-order: 2
+permalink: /test/
+image:
+  path: /assets/images/banner.png
 ---
 
 Modern IT infrastructure depends on stable operating systems, virtualization platforms, and reliable administrative processes. The labs and reports in this section demonstrate hands-on experience managing Windows and Linux systems, building virtual lab environments, and maintaining operational stability across infrastructure components.
@@ -36,6 +30,7 @@ Hands-on system administration tasks performed in Windows environments, focusing
 
 ---
 
+
 ## Linux Systems Administration
 
 Administration of Linux-based systems including user management, file permissions, system processes, and log analysis in server environments.
@@ -52,6 +47,7 @@ Administration of Linux-based systems including user management, file permission
   Monitoring system processes and managing services using system administration tools.
 
 ---
+
 
 ## Virtualization & Lab Infrastructure
 
