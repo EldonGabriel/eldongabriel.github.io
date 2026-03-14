@@ -1,226 +1,176 @@
 ---
-title: "Infrastructure & Systems"
-layout: collection-item
-slug: infrastructure-systems
-collection: experience
-collection_item: true
+layout: home
+title: Security Systems Specialist
 permalink: /test/
 image:
   path: /assets/images/banner.png
 ---
 
-Modern IT infrastructure depends on stable operating systems, virtualization platforms, and reliable administrative processes. The labs and reports in this section demonstrate hands-on experience managing Windows and Linux systems, building virtual lab environments, and maintaining operational stability across infrastructure components.
+<section style="text-align:center; margin: 60px 0;">
+  <h1 style="font-size:3em; margin:0; font-weight:bold;">Eldon Gabriel</h1>
+  <p style="font-size:1.5em; color:#ccc;">Secure Infrastructure | System Hardening | GRC Strategy</p>
+  <div style="margin-top:20px; height:4px; background:#fff; width:100px; display:inline-block; border-radius:2px;"></div>
+</section>
+
+<p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
+  I provide <strong>hands-on security implementation</strong> and <strong>framework-aligned technical controls</strong> to harden enterprise systems, investigate incidents, and reduce organizational risk. As an <strong>ISC² Certified Cybersecurity Professional (CC)</strong> with <strong>120+ documented technical labs and reports</strong>, I specialize in transforming complex IT environments into secure, compliant, and resilient infrastructures.
+</p>
+
+<p style="font-size:1.2em; line-height:1.6;">
+  My work is grounded in a <strong>"Proof of Work"</strong> methodology—executing repeatable, documented security processes that strengthen systems, mitigate vulnerabilities, and support compliance readiness.
+</p>
+
+<section style="margin: 60px 0;">
+  <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">What I Bring to an Organization</h2>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+    
+    <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">System Hardening</h3>
+      <p>Advanced Windows and Linux lockdown with automated IP access control. I implement deep-level GPO and Registry restrictions to reduce attack surface and enforce least privilege.</p>
+      <ul style="font-size: 0.9em; color: #ccc;">
+        <li>Server Security Evaluations</li>
+        <li>Least Privilege Implementation</li>
+        <li>Automated IP Access Control</li>
+      </ul>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Network Defense</h3>
+      <p>pfSense orchestration and root-cause network analysis. I identify misconfigurations and unauthorized access to improve perimeter and internal defenses.</p>
+      <ul style="font-size: 0.9em; color: #ccc;">
+        <li>Enterprise IPSec VPN Troubleshooting</li>
+        <li>Network Traffic & DNS Diagnostics</li>
+        <li>Unauthorized Access Investigation</li>
+      </ul>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Operational Resilience</h3>
+      <p>Permanent remediation and risk reduction based on NIST-aligned frameworks. I connect GRC strategy with actionable technical safeguards.</p>
+      <ul style="font-size: 0.9em; color: #ccc;">
+        <li>Bank-Grade Risk Registers</li>
+        <li>BYOD & Security Policy Design</li>
+        <li>Post-Breach Remediation Strategy</li>
+      </ul>
+    </div>
+
+  </div>
+</section>
+
+<p align="center" style="margin-top: 40px;">
+  <a href="/certifications/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">Explore Verified Skills</a> 
+  <a href="/experience/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">View Technical Portfolio</a>
+</p>
 
 ---
 
-## Windows Systems Administration
+<section style="text-align:center; margin: 60px 0;">
+  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    Foundational Mentorship
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h2>
+</section>
 
-Hands-on system administration tasks performed in Windows environments, focusing on system management, disk operations, service control, and operational troubleshooting.
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="assets/images/Eldon-George.jpg" alt="George H. Ross" 
+         style="width:200px; height:200px; object-fit: cover; border-radius:50%;"><br>
+    <strong>George H. Ross</strong><br>
+    <em>NBC’s ‘The Apprentice’ Judge & Mentor</em>
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <p>Instilled a <strong>disciplined evaluation of risks</strong> and thorough investigative practices essential for proactive threat hunting and forensic accuracy.</p>
+  </div>
+</div>
 
-**Lab Index**
-
-- **REPORT – Windows Disk Management Using Command Line – v1.0.0**  
-  Using command-line utilities such as `chkdsk` and `fsutil` to analyze disk health, repair file system errors, and manage Windows storage systems.
-
-- **REPORT – Windows Service Management – v1.0.0**  
-  Investigating and controlling Windows services using administrative tools and command-line utilities to maintain system stability.
-
-- **REPORT – Windows Event Log Analysis – v1.0.0**  
-  Examining system and security event logs to identify operational issues and potential security indicators.
-
----
-
-
-## Linux Systems Administration
-
-Administration of Linux-based systems including user management, file permissions, system processes, and log analysis in server environments.
-
-**Lab Index**
-
-- **REPORT – Linux User and Group Management – v1.0.0**  
-  Creating and managing user accounts and groups while enforcing proper privilege separation.
-
-- **REPORT – Linux File Permissions and Ownership – v1.0.0**  
-  Understanding and applying Linux permission models to secure system resources.
-
-- **REPORT – Linux Process and Service Management – v1.0.0**  
-  Monitoring system processes and managing services using system administration tools.
+<div style="display: flex; align-items: center; flex-direction: row-reverse; margin-bottom: 40px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="assets/images/eldon-wahida.png" alt="Wahida Clark" 
+         style="width:200px; height:200px; object-fit: cover; border-radius:50%;"><br>
+    <strong>Wahida Clark</strong><br>
+    <em>4x NYT Bestselling Author</em>
+  </div>
+  <div style="flex: 2; padding-right: 20px;">
+    <p>Reinforced the importance of <strong>clear communication</strong> and technical storytelling to translate critical risks into actionable business insights.</p>
+  </div>
+</div>
 
 ---
 
+<section style="text-align:center; margin: 60px 0;">
+  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    Technical Case Studies
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h2>
+  <p><strong>Independent Reports & Public Project Documentation</strong></p>
+  <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 8px; border-left: 4px solid #fff; margin: 20px auto; max-width: 900px; text-align: left;">
+    <p style="font-size: 1em; color: #eee; margin: 0;">
+      My expertise is backed by 100+ verified technical labs and reports. Due to non-disclosure agreements and academic integrity pledges (MCSI), detailed lab reports for specific curriculum milestones are available only upon direct request for verified professional inquiries.
+    </p>
+  </div>
+</section>
 
-## Virtualization & Lab Infrastructure
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
+  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
+    <iframe class="pdf-embed" 
+            src="{{ '/assets/guides/GUIDE – Building a vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0.pdf' | relative_url }}" 
+            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
+    <figcaption style="margin-top:10px;"><strong>Engineering:</strong> Nested VMware Infrastructure</figcaption>
+  </figure>
 
-Building and managing virtual environments used for cybersecurity research, testing, and infrastructure simulation.
+  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
+    <iframe class="pdf-embed" 
+            src="{{ '/assets/reports/IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.1.pdf' | relative_url }}" 
+            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
+    <figcaption style="margin-top:10px;"><strong>Incident Response:</strong> Cloud Remediation</figcaption>
+  </figure>
+</div>
 
-**Lab Index**
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
+  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
+    <iframe class="pdf-embed" 
+            src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" 
+            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
+    <figcaption style="margin-top:10px;"><strong>Risk Management:</strong> Bank Register Analysis</figcaption>
+  </figure>
 
-- **REPORT – VirtualBox Network Modes – v1.0.0**  
-  Exploring NAT, Bridged, Host-Only, and Internal networking configurations used to control virtual machine connectivity.
+  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
+    <iframe class="pdf-embed" 
+            src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" 
+            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
+    <figcaption style="margin-top:10px;"><strong>Incident Response:</strong> Unauthorized Access Case</figcaption>
+  </figure>
+</div>
 
-- **REPORT – System Administration Virtualization in Cybersecurity – v1.0.1**  
-  Demonstrating how virtualization enables isolated testing environments for system administration and security research.
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
+    <iframe class="pdf-embed" 
+            src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" 
+            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
+    <figcaption style="margin-top:10px;"><strong>System Hardening:</strong> Server Security Audit</figcaption>
+  </figure>
 
-- **REPORT – Virtual Lab Environment Deployment – v1.0.0**  
-  Designing and deploying virtual lab environments used to simulate real-world infrastructure and security scenarios.
-
----
-
-## Video Demonstrations
-
-The following videos demonstrate practical system administration, virtualization, cloud deployment, and security configuration tasks. These demonstrations complement the written technical reports within this portfolio and showcase hands-on lab execution in controlled environments.
-
----
-
-## Virtualization & Lab Infrastructure
-
-- **Install and Configure VMware ESXi with vSphere in Windows and Linux VMs**  
-  Demonstrates deploying virtual machines within VMware Hands-on Labs using ESXi and the vSphere client. The lab validates network connectivity between a Linux and Windows VM within the same subnet.
-
-  **Skills Demonstrated:** Virtual machine deployment, vSphere administration, network configuration, connectivity testing
-
-- **Create a Snapshot of a Virtual Machine to Recover the OS to a Safe State**  
-  Shows how to create and manage VM snapshots to preserve system state before making configuration changes or conducting security testing.
-
-  **Skills Demonstrated:** Snapshot management, virtualization safety practices, system rollback planning
-
-- **Lab Setup – Create a Virtual Machine in VMware**  
-  Demonstrates deploying Kali Linux and Windows 11 ARM virtual machines using VMware Fusion and configuring NAT networking to validate VM communication.
-
-  **Skills Demonstrated:** VM deployment, virtualization networking, OS installation
-
----
-
-## Cloud Infrastructure Labs
-
-- **Lab Setup – Deploy a Virtual Machine in AWS**  
-  Demonstrates launching an Ubuntu virtual machine in Amazon EC2, generating SSH keys, configuring security groups, and validating remote access from Kali Linux.
-
-  **Skills Demonstrated:** Cloud VM provisioning, SSH key management, firewall configuration
-
-- **Lab Setup – Deploy a Virtual Machine in Google Cloud Platform (GCP)**  
-  Shows how to deploy a Linux virtual machine using Google Compute Engine and configure secure SSH access.
-
-  **Skills Demonstrated:** Cloud infrastructure deployment, SSH authentication, firewall rules
-
-- **Windows 10 VM on Google Cloud Platform (GCP)**  
-  Demonstrates deploying and managing a Windows virtual machine in GCP and validating system functionality.
-
-  **Skills Demonstrated:** Cloud administration, Windows VM provisioning, secure remote access
-
----
-
-## Linux System Administration Labs
-
-- **Linux Firewall Configuration with Shorewall | Restricted SSH Access Lab**  
-  Demonstrates configuring a host-based firewall on Ubuntu to restrict SSH access to a trusted IP address using zone-based firewall rules.
-
-  **Skills Demonstrated:** Linux firewall configuration, access control, network security
-
-- **Linux Performance Monitoring with SAR (sysstat)**  
-  Shows installation and usage of SAR to monitor CPU, memory, disk activity, and network performance on Linux systems.
-
-  **Skills Demonstrated:** System monitoring, performance analysis, Linux administration
-
-- **Cockpit Linux Administration Lab | Multi-Host Management**  
-  Demonstrates installing Cockpit and managing multiple Linux hosts through a web-based administration interface.
-
-  **Skills Demonstrated:** Linux administration, remote system management, service control
-
-- **Webmin Linux Administration and Firewall Configuration**  
-  Shows how to install Webmin and configure firewall restrictions to control administrative access.
-
-  **Skills Demonstrated:** Linux server management, firewall configuration, remote administration
+  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
+    <iframe class="pdf-embed" 
+            src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" 
+            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
+    <figcaption style="margin-top:10px;"><strong>Networking:</strong> IPsec VPN Solution Guide</figcaption>
+  </figure>
+</div>
 
 ---
 
-## Windows System Administration Labs
+<div style="text-align:center; padding: 60px 0;">
+  <h2 style="font-size:2.5em; font-weight:bold; color:#fff;">Let's Secure Your Infrastructure</h2>
+  <p style="font-size:1.1em;">Ready to deploy NIST-aligned hardening or request a private technical review? Let's connect.</p>
+  <a href="mailto:test@gmail.com" style="display:inline-block; padding:15px 35px; background:#fff; color:#000; text-decoration:none; border-radius:50px; font-weight:bold; margin-top:20px;">Contact Me for a Consultation</a>
+</div>
 
-- **Use Procmon to View and Analyze Running Processes**  
-  Demonstrates capturing and analyzing system activity using Microsoft Process Monitor.
+--- 
 
-  **Skills Demonstrated:** Process monitoring, system analysis, troubleshooting
+<!-- Field Notes Header -->
+<img src="assets/images/fnlogo.png" alt="Banner" style="width:100%; height:auto;">
 
-- **Use a Password Manager to Protect Sensitive Credentials**  
-  Demonstrates secure credential storage using a password management tool.
-
-  **Skills Demonstrated:** credential protection, security hygiene
-
-- **Recover File Ownership Using the Windows Registry**  
-  Shows registry-based techniques for recovering ownership of protected files.
-
-  **Skills Demonstrated:** NTFS permissions management, registry administration
-
-- **Restrict Permissions of Untrusted Users via Windows Registry**  
-  Demonstrates preventing unauthorized execution of system utilities using registry-based restrictions.
-
-  **Skills Demonstrated:** system hardening, access control
-
-- **Securing Sensitive Folders with Windows Access Permissions**  
-  Demonstrates configuring NTFS permissions to protect sensitive directories.
-
-  **Skills Demonstrated:** access control, file security
-
-- **Configure Windows Firewall and Block SMB Access**  
-  Demonstrates creating firewall rules to prevent SMB traffic.
-
-  **Skills Demonstrated:** firewall administration, network hardening
-
----
-
-## Windows Administration & Maintenance Labs
-
-- **Network and Sharing Center – Connectivity Troubleshooting**  
-  Demonstrates reviewing network connections and diagnosing connectivity issues.
-
-  **Skills Demonstrated:** Windows networking, troubleshooting
-
-- **Windows Credential Manager Lab**  
-  Demonstrates managing stored credentials used for network resources.
-
-  **Skills Demonstrated:** credential management
-
-- **BitLocker Preparation – Disk Security Planning**  
-  Demonstrates preparing a Windows drive for encryption and configuring NTFS permissions.
-
-  **Skills Demonstrated:** disk management, encryption planning
-
-- **Programs and Features – Application Management**  
-  Demonstrates installing and uninstalling software using Windows administrative tools.
-
-  **Skills Demonstrated:** software lifecycle management
-
-- **Windows System Information (msinfo32)**  
-  Demonstrates collecting system information for auditing and troubleshooting.
-
-  **Skills Demonstrated:** system auditing, hardware inspection
-
-- **Windows Event Viewer – System Monitoring**  
-  Demonstrates reviewing system and security logs for operational issues.
-
-  **Skills Demonstrated:** log analysis, system monitoring
-
-- **Windows Registry Editor – Safe Configuration Changes**  
-  Demonstrates safely creating, editing, and deleting registry keys.
-
-  **Skills Demonstrated:** registry administration, configuration management
-
-- **Task Scheduler – Automated Maintenance Tasks**  
-  Demonstrates scheduling automated maintenance tasks using Windows Task Scheduler.
-
-  **Skills Demonstrated:** system automation, maintenance workflows
-
-- **Windows Defender Firewall Configuration**  
-  Demonstrates managing firewall rules to control network traffic.
-
-  **Skills Demonstrated:** network security, firewall configuration
-
-- **Windows Disk Optimization**  
-  Demonstrates analyzing and optimizing drive performance.
-
-  **Skills Demonstrated:** system maintenance
-
-- **Windows Disk Cleanup Utility**  
-  Demonstrates removing temporary files to improve system performance.
-
-  **Skills Demonstrated:** storage management
+<h2 style="text-align:center; font-size:200%; font-weight:bold; color:#fff;">
+Bridging IT Fundamentals to Cybersecurity Mastery
+</h2>
