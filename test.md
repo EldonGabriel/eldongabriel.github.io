@@ -7,7 +7,7 @@ image:
 ---
 
 <section style="margin: 60px 0;">
-  <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">Training Milestones – Mossé Cyber Security Institute</h2>
+  <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">MCSI Student Career Development Milestone</h2>
 
   <p style="text-align:center; font-size:1.1em; max-width:900px; margin:0 auto 40px auto; line-height:1.6;">
   The following milestones represent structured skill development completed through training pathways at the Mossé Cyber Security Institute. 
