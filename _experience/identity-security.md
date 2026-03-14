@@ -16,9 +16,9 @@ image:
 
 | Category | Labs |
 |--------|------|
-| Identity & Access Management | 3 |
+| Identity & Access Management | 2 |
 | Endpoint Security & Hardening | 1 |
-| **Total Identity Security Labs Documented** | **4** |
+| **Total Identity Security Labs Documented** | **3** |
 
 These labs highlight critical identity and access management (IAM) techniques, focusing on protecting user data, implementing least-privilege access, and ensuring administrative control over system resources.
 
