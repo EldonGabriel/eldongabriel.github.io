@@ -19,10 +19,10 @@ Modern IT infrastructure depends on stable operating systems, virtualization pla
 | Category | Labs |
 |--------|------|
 | Windows Systems Administration | 11 |
-| Linux Systems Administration | 3 |
+| Linux Systems Administration | 4 |
 | Virtualization & Lab Infrastructure | 3 |
 | Video Demonstration Labs | 27 |
-| **Total Infrastructure Labs Documented** | **44** |
+| **Total Infrastructure Labs Documented** | **45** |
 
 These labs represent hands-on work performed in controlled environments designed to simulate real-world infrastructure administration tasks. Activities include operating system management, virtualization deployment, cloud infrastructure provisioning, system hardening, and operational troubleshooting.
 
@@ -57,6 +57,11 @@ Hands-on system administration tasks performed in Windows environments, focusing
 Administration of Linux-based systems including user management, file permissions, system processes, and log analysis in server environments.
 
 **Lab Index**
+
+- **REPORT – Linux System Admin Commands – v1.0.0**  
+  Documentation of common Linux administrative commands including `grep`, `ps`, `lsof`, `df`, and `chmod`, along with additional utilities used for system monitoring, troubleshooting, and resource management.
+
+  **Skills Demonstrated:** Linux CLI administration, process monitoring, system diagnostics, file permission management
 
 - **REPORT – Linux User and Group Management – v1.0.0**  
   Creating and managing user accounts and groups while enforcing proper privilege separation.
