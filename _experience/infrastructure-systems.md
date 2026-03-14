@@ -56,9 +56,14 @@ Administration of Linux-based systems including user management, file permission
 ### Lab Index
 
 - **REPORT – Linux System Admin Commands – v1.0.0**  
-Documentation of common Linux administrative commands including `grep`, `ps`, `lsof`, `df`, and `chmod`, along with additional utilities used for system monitoring, troubleshooting, and resource management.
+Documentation of  essential Linux commands and tools for system monitoring, troubleshooting, and resource management.
 
-**Skills Demonstrated:** Linux CLI administration, process monitoring, system diagnostics, file permission management
+**Skills Demonstrated:** 
+
+- Linux CLI administration
+- Process monitoring
+- System diagnostics
+- File permission management
 
 - **REPORT – Linux User and Group Management – v1.0.0**
 
