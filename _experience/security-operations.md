@@ -18,9 +18,9 @@ Security operations focuses on protecting systems, monitoring infrastructure, an
 
 | Category | Labs |
 |--------|------|
-| System Security & Hardening | 4 |
+| System Security & Hardening | 7 |
 | Security Monitoring & Log Analysis | 4 |
-| **Total Security Operations Labs Documented** | **8** |
+| **Total Security Operations Labs Documented** | **11** |
 
 These labs demonstrate operational security practices including system hardening, VPN deployment, backup and recovery planning, and monitoring system activity through logs and operational security tools.
 
@@ -32,9 +32,6 @@ Hands-on configuration of system security controls designed to protect infrastru
 
 **Lab Index**
 
-- **GUIDE – Domain Controller Network Configuration – v1.0.0**  
-  Configuration guidance for securely integrating a Windows domain controller into a segmented enterprise network environment.
-
 - **SecureStack Solutions – Backup, Recovery, and Restoration (BRR) Plan – v1.0**  
   Disaster recovery planning document outlining procedures for system backup, restoration, and operational continuity.
 
@@ -43,6 +40,18 @@ Hands-on configuration of system security controls designed to protect infrastru
 
 - **REPORT – OpenVPN Remote Access VPN Deployment and Validation – v1.0.0**  
   Deployment and validation of an OpenVPN remote access solution to provide secure connectivity for remote systems.
+
+- **GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0**  
+  Demonstrates applying Windows access permissions and user rights to restrict unauthorized access to sensitive directories.
+
+- **GUIDE – Domain Controller Network Configuration – v1.0.0**
+  Configuration guidance for securely integrating a Windows domain controller into a segmented enterprise network environment.
+
+- **GUIDE – Monitoring Windows Processes with Procmon – v1.0.1**  
+  Demonstrates using Microsoft Process Monitor to observe system activity and analyze running processes for troubleshooting and security monitoring.
+
+- **GUIDE – Endpoint Security with the Windows Registry – v1.0.0**  
+  Demonstrates using Windows Registry configuration to restrict system utilities and strengthen endpoint security controls.
 
 ---
 
