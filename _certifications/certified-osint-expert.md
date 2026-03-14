@@ -28,8 +28,11 @@ The **MOIS (Certified OSINT Expert)** program from Mossé Cyber Security Institu
 Through this intensive curriculum, I am developing the capability to deliver high-value intelligence services:
 
 * **Corporate Due Diligence:** Uncovering information leaks in public code repositories and identifying organizational exposure risks through repository intelligence.
+
 * **Advanced Search Operations:** Constructing complex queries to identify publicly exposed sensitive information and using web archives to track digital changes.
+
 * **Email & Account Validation:** Identifying and validating target email formats and assessing account exposure risks non-intrusively.
+
 * **Global Intelligence Gathering:** Leveraging reverse image searching and foreign-language translation tools to conduct cross-border investigations.
 
 #### **Technical Progress & Completed Mastery**
