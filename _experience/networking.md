@@ -12,8 +12,6 @@ image:
   caption: "Networking Architecture, Protocol Analysis, and Security Labs"
 ---
 
-Reliable network infrastructure forms the backbone of modern computing environments. The labs and reports in this section demonstrate hands-on experience analyzing networking protocols, troubleshooting connectivity issues, and designing secure enterprise network architectures using industry-standard concepts and tools.
-
 ### Networking Lab Overview
 
 | Category | Labs |
@@ -21,6 +19,8 @@ Reliable network infrastructure forms the backbone of modern computing environme
 | Networking Fundamentals & Protocol Analysis | 6 |
 | Network Architecture & Security | 5 |
 | **Total Networking Labs Documented** | **11** |
+
+Reliable network infrastructure forms the backbone of modern computing environments. The labs and reports in this section demonstrate hands-on experience analyzing networking protocols, troubleshooting connectivity issues, and designing secure enterprise network architectures using industry-standard concepts and tools.
 
 These labs focus on understanding network communication models, analyzing protocols used in enterprise environments, and designing secure network architectures that support organizational infrastructure and cybersecurity requirements.
 
