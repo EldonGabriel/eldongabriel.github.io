@@ -36,12 +36,7 @@ Troubleshooting is a core operational skill within system administration and cyb
 
   This report examines the security challenges associated with Bring Your Own Device (BYOD) environments. It explores the risks introduced by unmanaged devices and outlines strategies organizations can implement to reduce exposure.
 
-  **Skills Demonstrated**
-
-  - Security risk analysis  
-  - Policy evaluation  
-  - Mobile device security considerations  
-  - Enterprise security strategy  
+  **Skills Demonstrated:** Security risk analysis, policy evaluation, mobile device security considerations, enterprise security strategy  
 
 ---
 
@@ -49,12 +44,7 @@ Troubleshooting is a core operational skill within system administration and cyb
 
   This guide demonstrates how to diagnose and resolve Remote Desktop Protocol (RDP) connection issues within AWS cloud environments. The exercise focuses on network configuration, access controls, and troubleshooting connectivity problems.
 
-  **Skills Demonstrated**
-
-  - Remote access troubleshooting  
-  - Cloud connectivity diagnostics  
-  - AWS environment configuration  
-  - Network access validation  
+  **Skills Demonstrated:** Remote access troubleshooting, cloud connectivity diagnostics, AWS environment configuration, network access validation  
 
 ---
 
@@ -62,12 +52,7 @@ Troubleshooting is a core operational skill within system administration and cyb
 
   This guide explains the role of the Server Message Block (SMB) protocol in network file sharing and examines common security risks associated with SMB exposure.
 
-  **Skills Demonstrated**
-
-  - Network protocol analysis  
-  - File sharing security risks  
-  - SMB service configuration  
-  - Security awareness and mitigation strategies  
+  **Skills Demonstrated:** Network protocol analysis, file sharing security risks, SMB service configuration, security awareness and mitigation strategies  
 
 ---
 
@@ -75,12 +60,7 @@ Troubleshooting is a core operational skill within system administration and cyb
 
   Incident response documentation detailing the removal of AWS MGN migration agents and cleanup of residual system configurations within a cloud environment.
 
-  **Skills Demonstrated**
-
-  - Cloud incident response  
-  - System cleanup procedures  
-  - AWS environment management  
-  - Security incident remediation  
+  **Skills Demonstrated:** Cloud incident response, system cleanup procedures, AWS environment management, security incident remediation  
 
 ---
 
