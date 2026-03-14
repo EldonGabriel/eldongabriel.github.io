@@ -1,10 +1,10 @@
 ---
 title: "Windows Systems Administration"
-layout: collection-item
-slug: windows-systems-administration
+layout: 
+slug: 
 collection: experience
 collection_item: true
-order: 6
+order:
 image:
   path: /assets/images/headers/wsa.png
   thumbnail: /assets/images/headers/wsa.png
