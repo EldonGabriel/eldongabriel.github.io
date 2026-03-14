@@ -27,4 +27,4 @@ The **ISC² Certified in Cybersecurity (CC)** credential is a globally recognize
 #### **Professional Solutions & Domain Expertise**
 Through this ISC² certification, I deliver the following standardized security services:
 * **Strategic Security Principles:** Implementing the CIA Triad, risk treatment strategies, and administrative controls aligned with organizational law and policy.
-* **Access Control Management:** Engineering logical access models (RBAC, MAC, DAC) and enforcing the Principle of Least Privilege to
+* **Access Control Management:** Engineering logical access models (RBAC, MAC, DAC) and enforcing the Principle of Least Privilege.
