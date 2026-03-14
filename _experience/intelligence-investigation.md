@@ -12,8 +12,6 @@ image:
   caption: "Investigative Intelligence, OSINT, and Threat Research Labs"
 ---
 
-Intelligence and investigative analysis are essential components of modern cybersecurity operations. The labs and research in this section demonstrate hands-on experience gathering open-source intelligence (OSINT), analyzing publicly available information, performing malware triage, and identifying potential security threats using investigative techniques.
-
 ### Intelligence & Investigation Lab Overview
 
 | Category | Labs |
@@ -21,6 +19,8 @@ Intelligence and investigative analysis are essential components of modern cyber
 | Investigative Intelligence & OSINT | 11 |
 | Intelligence Demonstration Videos | 10 |
 | **Total Intelligence Labs Documented** | **21** |
+
+Intelligence and investigative analysis are essential components of modern cybersecurity operations. The labs and research in this section demonstrate hands-on experience gathering open-source intelligence (OSINT), analyzing publicly available information, performing malware triage, and identifying potential security threats using investigative techniques.
 
 These exercises demonstrate practical intelligence gathering techniques including social media analysis, digital artifact investigation, malware triage, and passive reconnaissance used in threat intelligence and cybersecurity investigations.
 
