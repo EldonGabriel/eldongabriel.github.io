@@ -12,8 +12,6 @@ image:
   caption: "Security Operations, Hardening, and Monitoring Labs"
 ---
 
-Security operations focuses on protecting systems, monitoring infrastructure, and responding to operational security risks. The labs and documentation in this section demonstrate hands-on experience implementing system hardening techniques, deploying secure remote access solutions, and analyzing system activity to maintain a secure operating environment.
-
 ### Security Operations Lab Overview
 
 | Category | Labs |
@@ -21,6 +19,8 @@ Security operations focuses on protecting systems, monitoring infrastructure, an
 | System Security & Hardening | 7 |
 | Security Monitoring & Log Analysis | 4 |
 | **Total Security Operations Labs Documented** | **11** |
+
+Security operations focuses on protecting systems, monitoring infrastructure, and responding to operational security risks. The labs and documentation in this section demonstrate hands-on experience implementing system hardening techniques, deploying secure remote access solutions, and analyzing system activity to maintain a secure operating environment.
 
 These labs demonstrate operational security practices including system hardening, VPN deployment, backup and recovery planning, and monitoring system activity through logs and operational security tools.
 
