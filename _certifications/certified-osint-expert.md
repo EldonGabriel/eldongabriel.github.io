@@ -58,6 +58,8 @@ Through this intensive curriculum, I am developing the capability to deliver hig
   </div>
 </div>
 
+---
+
 #### **Key Professional Outcomes**
 * **Repeatable Methodology:** Developed workflow diagrams and report templates to guide defensible investigations.
 * **Digital Privacy Awareness:** Hardened investigative environments and browsers to ensure operational security during research.
