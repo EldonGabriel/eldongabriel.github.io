@@ -15,7 +15,7 @@ image:
   <img src="/assets/certifications/msaf-system-admin-fundamentals/MCSI Novice System Administrator – Level 2.png" 
        alt="Level 2: MCSI Novice System Administrator" 
        style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
-  <p style="font-size: 14px; color: #ffffff;">Level 4: Cybersecurity Learner - Level 3</p>
+  <p style="font-size: 14px; color: #ffffff;">MCSI Novice System Administrator</p>
 </div>
 
 The **MSAF (System Administration Fundamentals)** certification from Mossé Cyber Security Institute validates my ability to architect, manage, and defend enterprise infrastructure. With **104 training exercises** completed, this program emphasizes "Secure by Design" principles across Windows and Linux environments, virtualization, and disaster recovery.
