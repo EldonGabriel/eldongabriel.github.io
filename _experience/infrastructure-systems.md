@@ -36,11 +36,7 @@ Hands-on system administration tasks performed in Windows environments, focusing
 - **REPORT – Active Directory Bare Metal Recovery (BMR) Backup and Restore – v1.0.0**  
 Demonstrates performing a full system backup and recovery of an Active Directory domain controller using Bare Metal Recovery procedures.
 
-**Skills Demonstrated:** 
-
-- Active Directory administration
-- System backup
-- Disaster recovery
+**Skills Demonstrated:** Active Directory administration, system backup, disaster recovery
 
 - **REPORT – Windows Disk Management Using Command Line – v1.0.0**  
 Using command-line utilities such as `chkdsk` and `fsutil` to analyze disk health, repair file system errors, and manage Windows storage systems.
