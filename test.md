@@ -15,7 +15,7 @@ image:
 </p>
 
 <section style="margin: 60px 0;">
-  <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">MCSI Student Career Development Milestones</h2>
+  <h2 style="text-align:center; font-size:2.0em; margin-bottom:40px;">MCSI Student Career Development Milestones</h2>
 
   <p style="text-align:center; font-size:1.1em; max-width:900px; margin:0 auto 40px auto; line-height:1.6;">
     These milestones reflect my ongoing skill development through training at the Mossé Cyber Security Institute (MCSI). Each designation demonstrates hands-on work in cybersecurity and system administration.
