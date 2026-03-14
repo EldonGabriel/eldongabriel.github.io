@@ -120,9 +120,9 @@ The following videos demonstrate practical system administration, virtualization
 
 - **Linux Performance Monitoring with SAR (sysstat)**
 
-- **Cockpit Linux Administration**
+- **Linux System Administration with Cockpit**
 
-- **Webmin Linux Administration and Firewall Configuration**
+- **Secure Linux Administration with Webmin**
 
 ---
 
