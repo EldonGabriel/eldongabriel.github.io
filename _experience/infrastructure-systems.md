@@ -118,7 +118,7 @@ The following videos demonstrate practical system administration, virtualization
 
 ---
 
-## LinLinux Administration & Security
+## Linux Administration & Security
 
 - **VIDEO – Linux Firewall Configuration with Shorewall – v1.0.0**
   
@@ -135,7 +135,6 @@ The following videos demonstrate practical system administration, virtualization
 - **VIDEO – Linux File & Directory Management – v1.0.0**
 
 - **VIDEO – Filter Logs and User Data in Linux – v1.0.0**
-
 
 ---
 
