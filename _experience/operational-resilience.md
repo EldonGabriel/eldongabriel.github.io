@@ -35,13 +35,7 @@ Maintaining reliable backups and tested recovery procedures is a critical compon
 
   This guide demonstrates how to perform secure file backups using the Duplicati command-line interface. The lab covers backup creation, encryption configuration, remote storage options, and restoration procedures used to recover data after system loss.
 
-  **Skills Demonstrated**
-
-  - Backup automation
-  - Data encryption for backups
-  - Disaster recovery procedures
-  - Command-line backup management
-  - Backup verification and restore testing
+  **Skills Demonstrated:** Backup automation, data encryption for backups, disaster recovery procedures, command-line backup management, backup verification and restore testing
 
 ---
 
