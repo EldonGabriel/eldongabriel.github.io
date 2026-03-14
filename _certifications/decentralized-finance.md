@@ -4,7 +4,7 @@ layout: collection-item
 slug: duke-defi-future-of-finance
 collection: certifications
 collection_item: true
-order: 8
+order: 10
 image:
   path: /assets/images/headers/duke-defi.png
   thumbnail: /assets/images/headers/duke-defi.png
