@@ -54,7 +54,7 @@ Leveraging the rigorous technical training from MSAF, I provide the following es
         <li>VMware ESXi and vSphere Configuration</li>
         <li>Deploying Virtual Machines in Cloud Platforms (GCP and AWS)</li>
         <li>Network Design Using Cisco Packet Tracer</li>
-        <li>PFSenseFirewall Configuration</li>
+        <li>PFSense Firewall Configuration</li>
       </ul>
     </div>
   </div>
