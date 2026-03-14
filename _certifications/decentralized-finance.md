@@ -17,22 +17,29 @@ This specialization explores the infrastructure and security mechanisms driving 
   <strong>Core Capabilities:</strong> Cryptographic Key Management · Protocol Risk Assessment · Smart Contract Security
 </p>
 
-
-
 #### **Strategic Solutions & Insights**
 The expertise developed through this Duke University program enables the following specialized services:
+
 * **Protocol Risk Evaluation:** Comprehensive technical and operational auditing of DeFi protocols including MakerDAO, Compound, and Aave.
+
 * **Secure Asset Management:** Implementing robust cryptography and key management strategies to secure digital assets and decentralized identities.
+
 * **DeFi Compliance & Strategy:** Navigating the intersection of decentralized innovation and regulatory requirements to ensure secure, compliant financial operations.
+
 * **Infrastructure Analysis:** Evaluating the interoperability and security of blockchain-based lending, trading, and governance primitives.
 
 #### **Technical Skill Summary**
+
 * **Financial Cryptography:** Advanced understanding of hashing, digital signatures, and asymmetric encryption.
+
 * **DeFi Primitives:** Technical mastery of automated market makers (AMMs), decentralized lending, and algorithmic stablecoins.
+
 * **Risk Mitigation:** Identifying and addressing smart contract vulnerabilities, oracle risks, and flash loan attack vectors.
+
 * **Governance Systems:** Analyzing decentralized autonomous organizations (DAOs) and tokenomic incentive structures.
 
 #### **Certification Milestones**
+
 <div style="background: rgba(255,255,255,0.02); padding: 20px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1);">
   <p><strong>Status:</strong> Specialization Completed (Mar 6, 2025)</p>
   <ul style="list-style: none; padding-left: 0;">
