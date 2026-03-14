@@ -15,11 +15,11 @@ image:
 
 | Category | Labs |
 |--------|------|
-| Windows Systems Administration | 11 |
+| Windows Systems Administration | 4 |
 | Linux Systems Administration | 7 |
 | Virtualization & Lab Infrastructure | 3 |
 | Video Demonstration Labs | 27 |
-| **Total Infrastructure Labs Documented** | **48** |
+| **Total Infrastructure Labs Documented** | **41** |
 
 Modern IT infrastructure depends on stable operating systems, virtualization platforms, and reliable administrative processes. The labs and reports in this section demonstrate hands-on experience managing Windows and Linux systems, building virtual lab environments, and maintaining operational stability across infrastructure components.
 
@@ -94,7 +94,7 @@ The following videos demonstrate practical system administration, virtualization
 
 ---
 
-## Virtualization Infrastructure
+## Virtualization & Infrastructure
 
 - **Install and Configure VMware ESXi with vSphere in Windows and Linux VMs**
 
