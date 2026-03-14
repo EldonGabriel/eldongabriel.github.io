@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Security Systems Specialist
-permalink: /
+permalink: /test/
 image:
   path: /assets/images/banner.png
 ---
