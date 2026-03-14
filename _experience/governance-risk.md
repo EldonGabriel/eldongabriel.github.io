@@ -18,9 +18,9 @@ Security governance provides the strategic framework that guides how organizatio
 
 | Category | Labs |
 |--------|------|
-| Security Governance: Templates & Resources | 2 |
+| Security Governance: Templates & Resources | 4 |
 | Security Research & Strategic Analysis | 0 |
-| **Total Governance & Risk Labs Documented** | **2** |
+| **Total Governance & Risk Labs Documented** | **4** |
 
 These documents demonstrate familiarity with structured risk assessment methodologies and security governance frameworks used to evaluate organizational security posture and guide risk management decisions.
 
