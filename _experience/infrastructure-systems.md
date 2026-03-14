@@ -62,11 +62,21 @@ Administration of Linux-based systems including user management, file permission
 - **REPORT – Linux System Admin Commands – v1.0.0**  
   Documentation of essential Linux commands and tools for system monitoring, troubleshooting, and resource management.
 
-  **Skills Demonstrated:**
-  - Linux CLI administration
-  - Process monitoring
-  - System diagnostics
-  - File permission management
+  **Skills Demonstrated:** Linux CLI administration, Process monitoring, System diagnostics, File permission management
+
+- **REPORT – Linux User and Group Management – v1.0.0**
+
+- **REPORT – Linux File Permissions and Ownership – v1.0.0**
+
+- **REPORT – Linux Process and Service Management – v1.0.0**
+
+- **GUIDE – System Activity Reporter (SAR) Performance Monitoring on Ubuntu 24.04.3 LTS – v1.0.0**
+
+- **GUIDE – Cockpit Secure System Administration – v1.0.0**
+
+- **GUIDE – Webmin Secure Administration – v1.0.0**
+
+---
 
 # Virtualization & Lab Infrastructure
 
