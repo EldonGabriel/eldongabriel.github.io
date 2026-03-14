@@ -11,9 +11,6 @@ image:
   thumbnail: /assets/images/headers/is.png
   caption: "Infrastructure & Systems Administration Labs"
 ---
-
-Modern IT infrastructure depends on stable operating systems, virtualization platforms, and reliable administrative processes. The labs and reports in this section demonstrate hands-on experience managing Windows and Linux systems, building virtual lab environments, and maintaining operational stability across infrastructure components.
-
 ## Infrastructure Laboratory Overview
 
 | Category | Labs |
@@ -23,6 +20,8 @@ Modern IT infrastructure depends on stable operating systems, virtualization pla
 | Virtualization & Lab Infrastructure | 3 |
 | Video Demonstration Labs | 27 |
 | **Total Infrastructure Labs Documented** | **48** |
+
+Modern IT infrastructure depends on stable operating systems, virtualization platforms, and reliable administrative processes. The labs and reports in this section demonstrate hands-on experience managing Windows and Linux systems, building virtual lab environments, and maintaining operational stability across infrastructure components.
 
 These labs represent hands-on work performed in controlled environments designed to simulate real-world infrastructure administration tasks. Activities include operating system management, virtualization deployment, cloud infrastructure provisioning, system hardening, and operational troubleshooting.
 
