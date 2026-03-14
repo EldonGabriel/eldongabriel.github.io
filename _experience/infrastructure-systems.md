@@ -19,10 +19,10 @@ Modern IT infrastructure depends on stable operating systems, virtualization pla
 | Category | Labs |
 |--------|------|
 | Windows Systems Administration | 11 |
-| Linux Systems Administration | 4 |
+| Linux Systems Administration | 7 |
 | Virtualization & Lab Infrastructure | 3 |
 | Video Demonstration Labs | 27 |
-| **Total Infrastructure Labs Documented** | **45** |
+| **Total Infrastructure Labs Documented** | **48** |
 
 These labs represent hands-on work performed in controlled environments designed to simulate real-world infrastructure administration tasks. Activities include operating system management, virtualization deployment, cloud infrastructure provisioning, system hardening, and operational troubleshooting.
 
@@ -71,6 +71,15 @@ Administration of Linux-based systems including user management, file permission
 
 - **REPORT – Linux Process and Service Management – v1.0.0**  
   Monitoring system processes and managing services using system administration tools.
+
+  - **GUIDE – System Activity Reporter (SAR) Performance Monitoring on Ubuntu 24.04.3 LTS – v1.0.0**  
+  Demonstrates using the SAR utility from the sysstat package to monitor CPU, memory, disk, and network performance metrics on Ubuntu systems.
+
+- **GUIDE – Cockpit Secure System Administration – v1.0.0**  
+  Demonstrates installing and configuring Cockpit for secure web-based administration and monitoring of Linux systems.
+
+- **GUIDE – Webmin Secure Administration – v1.0.0**  
+  Demonstrates deploying Webmin for remote Linux system administration and configuring access controls to secure administrative operations.
 
 ---
 
