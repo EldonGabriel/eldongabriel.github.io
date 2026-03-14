@@ -62,7 +62,7 @@ The **KCIS (Knowledge of Core IT Skills)** certification demonstrates my grasp o
 ---
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/assets/certifications/kali.pdf" 
+  <img src="/assets/certifications/kali.png" 
        alt="Kali Linux" 
        style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
   <p style="font-size: 14px; color: #ffffff;">Kali Linux - Completed on March 15, 2025</p>
