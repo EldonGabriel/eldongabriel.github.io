@@ -4,7 +4,7 @@ layout: collection-item
 slug: msaf-system-administration-fundamentals
 collection: certifications
 collection_item: true
-order: 5
+order: 6
 image:
   path: /assets/images/headers/msafsysadmin.png
   thumbnail: /assets/images/headers/msafsysadmin.png
