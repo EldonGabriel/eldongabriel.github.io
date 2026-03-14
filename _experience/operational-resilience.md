@@ -12,18 +12,14 @@ image:
   caption: "Operational Resilience and Business Continuity Labs"
 ---
 
-Modern organizations depend on resilient infrastructure capable of maintaining operations during system failures, cyber incidents, or unexpected outages. The labs in this section demonstrate practical experience designing and implementing backup, recovery, and continuity strategies to protect critical systems and data.
-
-These exercises focus on validating backup integrity, performing restoration procedures, and ensuring that operational systems can be recovered quickly in the event of data loss or infrastructure disruption.
-
----
-
 ## Operational Resilience Laboratory Overview
 
 | Category | Labs |
 |--------|------|
 | Backup & Recovery | 1 |
 | **Total Labs Documented** | **1** |
+
+Modern organizations depend on resilient infrastructure capable of maintaining operations during system failures, cyber incidents, or unexpected outages. The labs in this section demonstrate practical experience designing and implementing backup, recovery, and continuity strategies to protect critical systems and data.
 
 These labs demonstrate practical backup administration, recovery validation, and resilience planning used in real-world system administration and cybersecurity operations.
 
