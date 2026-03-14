@@ -4,7 +4,7 @@ layout: collection-item
 slug: identity-security
 collection: experience
 collection_item: true
-order: 6
+order: 7
 permalink: /identity-security/
 image:
   path: /assets/images/headers/is.png
