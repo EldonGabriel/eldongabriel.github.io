@@ -18,6 +18,17 @@ These exercises focus on validating backup integrity, performing restoration pro
 
 ---
 
+## Operational Resilience Laboratory Overview
+
+| Category | Labs |
+|--------|------|
+| Backup & Recovery | 1 |
+| **Total Labs Documented** | **1** |
+
+These labs demonstrate practical backup administration, recovery validation, and resilience planning used in real-world system administration and cybersecurity operations.
+
+---
+
 ## Business Continuity: Backup & Recovery
 
 Maintaining reliable backups and tested recovery procedures is a critical component of operational resilience. These labs demonstrate the use of automated backup tools and command-line utilities to securely store and recover system data.
