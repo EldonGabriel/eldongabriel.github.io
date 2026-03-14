@@ -12,8 +12,6 @@ image:
   caption: "Security Governance, Risk Assessment, and Policy Research"
 ---
 
-Security governance provides the strategic framework that guides how organizations manage cybersecurity risk. The documentation in this section demonstrates applied research and analysis focused on security frameworks, risk assessment methodologies, and governance practices used to guide enterprise security programs.
-
 ### Governance & Risk Lab Overview
 
 | Category | Labs |
@@ -23,6 +21,8 @@ Security governance provides the strategic framework that guides how organizatio
 | **Total Governance & Risk Labs Documented** | **4** |
 
 These documents demonstrate familiarity with structured risk assessment methodologies and security governance frameworks used to evaluate organizational security posture and guide risk management decisions.
+
+Security governance provides the strategic framework that guides how organizations manage cybersecurity risk. The documentation in this section demonstrates applied research and analysis focused on security frameworks, risk assessment methodologies, and governance practices used to guide enterprise security programs.
 
 ---
 
