@@ -20,7 +20,7 @@ image:
       <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Cybersecurity Foundations</h3>
       <p style="color:#ccc;">Progression through foundational cybersecurity concepts and defensive security operations.</p>
       <ul style="font-size: 0.9em; color: #ccc;">
-        <li>Cybersecurity Learner – Level 3</li>
+        <p>Cybersecurity Learner – Level 3</p>
       </ul>
     </div>
 
