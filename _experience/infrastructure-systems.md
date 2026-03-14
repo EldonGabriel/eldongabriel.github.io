@@ -36,7 +36,11 @@ Hands-on system administration tasks performed in Windows environments, focusing
 - **REPORT – Active Directory Bare Metal Recovery (BMR) Backup and Restore – v1.0.0**  
 Demonstrates performing a full system backup and recovery of an Active Directory domain controller using Bare Metal Recovery procedures.
 
-**Skills Demonstrated:** Active Directory administration, system backup, disaster recovery
+**Skills Demonstrated:** 
+
+- Active Directory administration
+- System backup
+- Disaster recovery
 
 - **REPORT – Windows Disk Management Using Command Line – v1.0.0**  
 Using command-line utilities such as `chkdsk` and `fsutil` to analyze disk health, repair file system errors, and manage Windows storage systems.
@@ -56,14 +60,13 @@ Administration of Linux-based systems including user management, file permission
 ### Lab Index
 
 - **REPORT – Linux System Admin Commands – v1.0.0**  
-Documentation of  essential Linux commands and tools for system monitoring, troubleshooting, and resource management.
+  Documentation of essential Linux commands and tools for system monitoring, troubleshooting, and resource management.
 
-**Skills Demonstrated:** 
-
-- Linux CLI administration
-- Process monitoring
-- System diagnostics
-- File permission management
+  **Skills Demonstrated:**
+  - Linux CLI administration
+  - Process monitoring
+  - System diagnostics
+  - File permission management
 
 ---
 
