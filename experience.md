@@ -10,13 +10,13 @@ image:
 ---
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
-  My professional experience reflects a <strong>hands-on approach</strong> to IT infrastructure, system security, and operational problem-solving. My background combines foundational technical roles with independent security research, resulting in a focused capability set in cybersecurity operations and documented skill development.
+  My professional experience reflects a hands-on approach to IT infrastructure, system security, and operational problem-solving. My background combines foundational technical roles with independent cybersecurity research and structured lab development.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
-  The roles and projects below demonstrate practical experience in <strong>system administration</strong>, <strong>network security</strong>, <strong>incident response</strong>, <strong>digital forensics</strong>, and <strong>investigative intelligence (OSINT)</strong>.
+  The roles and projects below demonstrate practical experience in system administration, network security, incident response, digital forensics, and open-source intelligence (OSINT) investigations.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6;">
-  This work is supported by a structured portfolio of independent labs, technical documentation, and professional engagements.
+  This experience is supported by a portfolio of documented labs, technical reports, and real-world security analysis exercises.
 </p>
