@@ -4,9 +4,12 @@ layout: collection-item
 slug: infrastructure-systems
 collection: experience
 collection_item: true
+order: 1
 permalink: /infrastructure-systems/
 image:
   path: /assets/images/headers/is.png
+  thumbnail: /assets/images/headers/is.png
+  caption: "Infrastructure & Systems Administration Labs"
 ---
 
 Modern IT infrastructure depends on stable operating systems, virtualization platforms, and reliable administrative processes. The labs and reports in this section demonstrate hands-on experience managing Windows and Linux systems, building virtual lab environments, and maintaining operational stability across infrastructure components.
