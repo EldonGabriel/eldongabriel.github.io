@@ -22,7 +22,7 @@ image:
 <h4 style="margin-top:40px;">Certifications</h4>
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/assets/certifications/kcss.png" 
+  <img src="/assets/certifications/kccs.png" 
        alt="KCSS - Knowledge of Cybersecurity Skills" 
        style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
   <p style="font-size: 14px; color: #ffffff;">KCSS - Knowledge of Cybersecurity Skills</p>
@@ -58,8 +58,6 @@ The **KCIS (Knowledge of Core IT Skills)** certification demonstrates my grasp o
 * **IT Infrastructure:** Solid understanding of the core components of IT systems, ensuring effective and efficient management of hardware and software.
 * **Networking Fundamentals:** Understanding the foundational principles of networking, protocols, and IP addressing.
 * **Troubleshooting:** Diagnosing and resolving IT-related issues across both hardware and software layers.
-
----
 
 ---
 
