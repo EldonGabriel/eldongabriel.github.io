@@ -57,11 +57,6 @@ image:
   </div>
 </section>
 
-<p align="center" style="margin-top: 40px;">
-  <a href="/certifications/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">Explore Verified Skills</a> 
-  <a href="/experience/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">View Technical Portfolio</a>
-</p>
-
 ---
 
 <section style="text-align:center; margin: 60px 0;">
@@ -95,76 +90,19 @@ image:
   </div>
 </div>
 
---- 
+<p align="center" style="margin-top: 40px;">
+  <a href="/certifications/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">Explore Key Career Milestones & Certifications</a> 
+  <a href="/experience/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">See My Real-World Technical Experience</a>
+</p>
 
-<section style="text-align:center; margin: 60px 0;">
-  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
-    Technical Case Studies
-    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
-  </h2>
-  <p><strong>Independent Reports & Public Project Documentation</strong></p>
-  <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 8px; border-left: 4px solid #fff; margin: 20px auto; max-width: 900px; text-align: left;">
-    <p style="font-size: 1em; color: #eee; margin: 0;">
-      My expertise is backed by 100+ verified technical labs and reports. Due to non-disclosure agreements and academic integrity pledges (MCSI), detailed lab reports for specific curriculum milestones are available only upon direct request for verified professional inquiries.
-    </p>
-  </div>
-</section>
+---
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
-  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
-    <iframe class="pdf-embed" 
-            src="{{ '/assets/guides/GUIDE – Building a vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0.pdf' | relative_url }}" 
-            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;"><strong>Engineering:</strong> Nested VMware Infrastructure</figcaption>
-  </figure>
+<!-- Field Notes Header -->
+<img src="assets/images/fnlogo.png" alt="Banner" style="width:100%; height:auto;">
 
-  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
-    <iframe class="pdf-embed" 
-            src="{{ '/assets/reports/IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.1.pdf' | relative_url }}" 
-            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;"><strong>Incident Response:</strong> Cloud Remediation</figcaption>
-  </figure>
-</div>
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
-  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
-    <iframe class="pdf-embed" 
-            src="{{ '/assets/reports/REPORT – Bank Risk Register Analysis – v1.0.2.pdf' | relative_url }}" 
-            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;"><strong>Risk Management:</strong> Bank Register Analysis</figcaption>
-  </figure>
-
-  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
-    <iframe class="pdf-embed" 
-            src="{{ '/assets/reports/REPORT – Investigation of Unauthorized Payroll Access Incident - v1.2.0.pdf' | relative_url }}" 
-            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;"><strong>Incident Response:</strong> Unauthorized Access Case</figcaption>
-  </figure>
-</div>
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
-    <iframe class="pdf-embed" 
-            src="{{ '/assets/reports/REPORT – Server Security Evaluation – v1.2.0.pdf' | relative_url }}" 
-            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;"><strong>System Hardening:</strong> Server Security Audit</figcaption>
-  </figure>
-
-  <figure style="flex: 1; min-width: 300px; max-width: 600px; text-align: center;">
-    <iframe class="pdf-embed" 
-            src="{{ '/assets/guides/GUIDE – Enterprise IPsec VPN Troubleshooting – v1.0.0.pdf' | relative_url }}" 
-            width="100%" height="800px" style="border:1px solid #333; border-radius:8px;"></iframe>
-    <figcaption style="margin-top:10px;"><strong>Networking:</strong> IPsec VPN Solution Guide</figcaption>
-  </figure>
-</div>
-
---- 
-
-<div style="text-align:center; padding: 60px 0;">
-  <h2 style="font-size:2.5em; font-weight:bold; color:#fff;">Let's Secure Your Infrastructure</h2>
-  <p style="font-size:1.1em;">Ready to deploy NIST-aligned hardening or request a private technical review? Let's connect.</p>
-  <a href="mailto:test@gmail.com" style="display:inline-block; padding:15px 35px; background:#fff; color:#000; text-decoration:none; border-radius:50px; font-weight:bold; margin-top:20px;">Contact Me for a Consultation</a>
-</div>
+<h2 style="text-align:center; font-size:200%; font-weight:bold; color:#fff;">
+Bridging IT Fundamentals to Cybersecurity Mastery
+</h2>
 
 --- 
 
