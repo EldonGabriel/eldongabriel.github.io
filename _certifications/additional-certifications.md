@@ -1,5 +1,5 @@
 ---
-title: "Additional Certifications & Technical Milestones"
+title: "Additional Certifications"
 layout: collection-item
 slug: additional-certifications
 collection: certifications
