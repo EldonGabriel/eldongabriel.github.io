@@ -94,21 +94,25 @@ The following videos demonstrate practical system administration, virtualization
 
 ---
 
-## Virtualization
+## Virtualization Infrastructure
 
 - **Install and Configure VMware ESXi with vSphere in Windows and Linux VMs**
 
-- **Create a Snapshot of a Virtual Machine to Recover the OS to a Safe State**
+- **Create a VM Snapshot for System Recovery**
 
-- **Lab Setup – Create a Virtual Machine in VMware**
+- **VMware Lab Setup: Create a Virtual Machine**
+
+- **Install Windows Subsystem for Linux (WSL)**
+
+- **Build a Two-VM Cybersecurity Lab Environment**
 
 ---
 
 ## Cloud Infrastructure
 
-- **Lab Setup – Deploy a Virtual Machine in AWS**
-
-- **Lab Setup – Deploy a Virtual Machine in Google Cloud Platform (GCP)**
+- **AWS Lab Setup: Create a Virtual Machine**
+  
+- **GCP Lab Setup: Create a Virtual Machine**
 
 - **Windows 10 VM on Google Cloud Platform (GCP)**
 
@@ -139,6 +143,26 @@ The following videos demonstrate practical system administration, virtualization
 - **Securing Sensitive Folders with Windows Access Permissions**
 
 - **Configure Windows Firewall and Block SMB Access**
+
+---
+
+## Windows Administration & Hardening
+
+- **Deploying a GPO to Enforce Automatic Session Locks on Windows**
+  
+- **Deploy a GPO on a Single Machine to Configure User Rights Policies**
+  
+- **Securely Configure Windows Remote Management (WinRM) with Local Group Policy**
+  
+- **Harden SMB Sessions with Windows Local Group Policy**
+  
+- **Deploy a GPO on a Single Machine to Apply and Configure in Built Windows Security Policies**
+  
+- **Using Local Group Policy to Disable Remote Desktop (RDP)**
+  
+- **Deploying Windows Defender Hardening via Local GPO**
+  
+- **Restrict Anonymous Connections with Local GPO**
 
 ---
 
