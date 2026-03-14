@@ -38,12 +38,7 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 
   This guide demonstrates how Windows file system permissions can be configured to protect sensitive directories and enforce least-privilege access policies.
 
-  **Skills Demonstrated**
-
-  - NTFS permission management  
-  - Access control enforcement  
-  - Least-privilege implementation  
-  - File system security configuration  
+  **Skills Demonstrated:** NTFS permission management, access control enforcement, least-privilege implementation, file system security configuration  
 
 ---
 
@@ -51,12 +46,7 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 
   This guide demonstrates how Process Monitor can be used to observe system activity, track process behavior, and analyze interactions between applications and system resources.
 
-  **Skills Demonstrated**
-
-  - Process monitoring  
-  - System activity analysis  
-  - Windows diagnostics  
-  - Security troubleshooting  
+  **Skills Demonstrated:** Process monitoring, system activity analysis, windows diagnostics, security troubleshooting  
 
 ---
 
@@ -64,12 +54,7 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 
   This guide demonstrates how security configurations can be enforced through the Windows Registry to strengthen endpoint protection and restrict unauthorized changes.
 
-  **Skills Demonstrated**
-
-  - Registry security configuration  
-  - Endpoint hardening  
-  - System policy enforcement  
-  - Windows security administration  
+  **Skills Demonstrated:** Registry security configuration, endpoint hardening, system policy enforcement, windows security administration  
 
 ---
 
