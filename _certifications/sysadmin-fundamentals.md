@@ -18,7 +18,7 @@ image:
   <p style="font-size: 14px; color: #ffffff;">MCSI Novice System Administrator</p>
 </div>
 
-The **MSAF (System Administration Fundamentals)** certification from Mossé Cyber Security Institute validates my ability to architect, manage, and defend enterprise infrastructure. With **104 training exercises** completed, this program emphasizes "Secure by Design" principles across Windows and Linux environments, virtualization, and disaster recovery.
+The **MSAF (System Administration Fundamentals)** certification from Mossé Cyber Security Institute validates my ability to architect, manage, and defend enterprise infrastructure. With over **104 training exercises** to complete, this program emphasizes "Secure by Design" principles across Windows and Linux environments, virtualization, and disaster recovery.
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
   <strong>Primary Infrastructure Solutions:</strong> GPO Security Engineering · Linux/Windows Hardening · Business Continuity (BCDR)
