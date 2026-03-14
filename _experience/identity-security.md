@@ -28,18 +28,6 @@ These exercises emphasize enforcing least-privilege access, monitoring system be
 
 ---
 
-## Identity Security Lab Overview
-
-| Category | Labs |
-|--------|------|
-| Identity & Access Management | 3 |
-| Endpoint Security & Hardening | 1 |
-| **Total Identity Security Labs Documented** | **4** |
-
-These labs highlight critical identity and access management (IAM) techniques, focusing on protecting user data, implementing least-privilege access, and ensuring administrative control over system resources.
-
----
-
 ## Identity & Access Management
 
 Identity and Access Management (IAM) ensures that only authorized users can access systems and sensitive resources. These labs demonstrate how administrative controls, monitoring tools, and system configurations are used to protect identities and enforce secure access policies.
