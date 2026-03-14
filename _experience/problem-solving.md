@@ -12,12 +12,6 @@ image:
   caption: "Technical Solutions and Troubleshooting"
 ---
 
-Effective IT and cybersecurity operations require strong troubleshooting and analytical problem-solving skills. The work documented in this section demonstrates practical experience diagnosing technical issues, implementing solutions, and evaluating security risks across cloud services, network protocols, and enterprise systems.
-
-These exercises emphasize identifying root causes, applying corrective actions, and documenting technical resolutions used to maintain system stability and security.
-
----
-
 ## Problem Solving Laboratory Overview
 
 | Category | Labs |
@@ -26,7 +20,9 @@ These exercises emphasize identifying root causes, applying corrective actions, 
 | Incident Response | 1 |
 | **Total Labs Documented** | **4** |
 
-These labs demonstrate practical experience diagnosing system issues, analyzing protocol behavior, and responding to operational incidents in cloud and enterprise environments.
+Effective IT and cybersecurity operations require strong troubleshooting and analytical problem-solving skills. The work documented in this section demonstrates practical experience diagnosing technical issues, implementing solutions, and evaluating security risks across cloud services, network protocols, and enterprise systems.
+
+These exercises emphasize identifying root causes, applying corrective actions, and documenting technical resolutions used to maintain system stability and security.
 
 ---
 
