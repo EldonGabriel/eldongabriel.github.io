@@ -115,6 +115,7 @@ The following videos demonstrate practical system administration, virtualization
 - **VIDEO – GCP Lab Setup: Create a Virtual Machine – v1.0.0**
 
 - **VIDEO – Windows 10 VM on Google Cloud Platform (GCP) – v1.0.0**
+
 ---
 
 ## LinLinux Administration & Security
