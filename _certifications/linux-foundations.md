@@ -4,7 +4,7 @@ layout: collection-item
 slug: packt-linux-foundations
 collection: certifications
 collection_item: true
-order: 10
+order: 5
 image:
   path: /assets/images/headers/packt-lsbsa.png
   thumbnail: /assets/images/headers/packt-lsbsa.png
