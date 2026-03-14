@@ -24,12 +24,14 @@ The **Google Cybersecurity Professional** program provides a high-fidelity found
   <strong>Core Capabilities:</strong> Threat Detection (SIEM) · Security Automation (Python) · Vulnerability Management
 </p>
 
-
-
 #### **Strategic Solutions & Security Operations**
+
 This professional credential enables me to provide the following defensive services:
+
 * **Incident Response & Management:** Developing structured playbooks to identify, contain, and recover from security breaches.
+
 * **Security Automation:** Building custom Python scripts and Bash workflows to automate repetitive monitoring and response tasks.
+
 * **Network Defense & SIEM:** Monitoring network traffic and analyzing security events using industry-standard SIEM tools.
 
 #### **Technical Skill Summary**
