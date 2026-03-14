@@ -39,26 +39,27 @@ Leveraging the rigorous technical training from MSAF, I provide the following es
   
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; font-size: 0.9em;">
     <div>
-      <h5 style="margin-bottom: 10px; color: #73b4d5;">Windows & GRC Mastery</h5>
+      <h5 style="margin-bottom: 10px; color: #73b4d5;">Windows & Linux Systems</h5>
       <ul style="padding-left: 15px; color: #ccc;">
-        <li>Advanced Registry & ACL Hardening</li>
-        <li>NIST-Aligned Password Policies</li>
-        <li>SMB & Remote Management (WinRM) Security</li>
-        <li>Procmon Process Diagnostics</li>
+        <li>GPO Deployment for System Hardening</li>
+        <li>Windows Process Monitoring with Procmon</li>
+        <li>Installing and Configuring Webmin and Cockpit</li>
+        <li>Shorewall Firewall Configuration</li>
       </ul>
     </div>
     <div>
-      <h5 style="margin-bottom: 10px; color: #73b4d5;">Infrastructure & Linux</h5>
+      <h5 style="margin-bottom: 10px; color: #73b4d5;">Virtuialization & Infrastructure</h5>
       <ul style="padding-left: 15px; color: #ccc;">
-        <li>SAR Linux Performance Monitoring</li>
-        <li>PFSense Port Forwarding & Monitoring</li>
-        <li>ESXi & vSphere Virtualization</li>
-        <li>Shorewall Firewall Schemes</li>
+        <li>VMware ESXi and vSphere Configuration</li>
+        <li>Deploying Virtual Machines in Cloud Platforms (GCP and AWS)</li>
+        <li>Network Design Using Cisco Packet Tracer</li>
+        <li>PFSenseFirewall Configuration</li>
       </ul>
     </div>
   </div>
 </div>
 
+---
 #### **Key Investigative & Defense Labs**
 * **Active Directory Security:** Backing up and successfully restoring AD environments after simulated incidents.
 * **Secure Remote Access:** Disabling unauthorized RDP and enabling secure, encrypted administrative tunnels.
