@@ -6,8 +6,8 @@ collection: certifications
 collection_item: true
 order: 7
 image:
-  path: /assets/images/headers/googleit.png
-  thumbnail: /assets/images/headers/googleit.png
+  path: /assets/images/headers/google-it-support.png
+  thumbnail: /assets/images/headers/google-it-support.png
   caption: "The Foundation of Reliable IT Operations"
 ---
 
