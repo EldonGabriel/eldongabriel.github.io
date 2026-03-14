@@ -117,14 +117,24 @@ The following videos demonstrate practical system administration, virtualization
 - **VIDEO – Windows 10 VM on Google Cloud Platform (GCP) – v1.0.0**
 ---
 
-## Linux System Administration
+## LinLinux Administration & Security
 
 - **VIDEO – Linux Firewall Configuration with Shorewall – v1.0.0**
+  
 - **VIDEO – Linux Performance Monitoring with SAR (sysstat) – v1.0.0**
 
 - **VIDEO – Linux System Administration with Cockpit – v1.0.0**
 
 - **VIDEO – Secure Linux Administration with Webmin – v1.0.0**
+
+- **VIDEO – Essential Linux Commands for System Administration – v1.0.0**
+
+- **VIDEO – Linux User Management Basics – v1.0.0**
+
+- **VIDEO – Linux File & Directory Management – v1.0.0**
+
+- **VIDEO – Filter Logs and User Data in Linux – v1.0.0**
+
 
 ---
 
@@ -189,11 +199,6 @@ The following videos demonstrate practical system administration, virtualization
 - **VIDEO – Securing Sensitive Folders with Windows Access Permissions – v1.0.0**
 
 - **VIDEO – Block SMB Access with Windows Firewall – v1.0.0**
-
-
-
-
-
 
 ---
 
