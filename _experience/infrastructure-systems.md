@@ -116,11 +116,11 @@ The following videos demonstrate practical system administration, virtualization
 
 ## Linux System Administration
 
-- **Linux Firewall Configuration with Shorewall | Restricted SSH Access Lab**
+- **Linux Firewall Configuration with Shorewall**
 
 - **Linux Performance Monitoring with SAR (sysstat)**
 
-- **Cockpit Linux Administration Lab | Multi-Host Management**
+- **Cockpit Linux Administration**
 
 - **Webmin Linux Administration and Firewall Configuration**
 
