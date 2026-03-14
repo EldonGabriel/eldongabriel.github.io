@@ -96,73 +96,104 @@ The following videos demonstrate practical system administration, virtualization
 
 ## Virtualization & Infrastructure
 
-- **Install and Configure VMware ESXi with vSphere in Windows and Linux VMs**
+- **VIDEO – Install and Configure VMware ESXi with vSphere in Windows and Linux VMs – v1.0.0**
 
-- **Create a VM Snapshot for System Recovery**
+- **VIDEO – Create a VM Snapshot for System Recovery – v1.0.0**
 
-- **VMware Lab Setup: Create a Virtual Machine**
+- **VIDEO – VMware Lab Setup: Create a Virtual Machine – v1.0.0**
+  
+- **VIDEO – Install Windows Subsystem for Linux (WSL) – v1.0.0**
 
-- **Install Windows Subsystem for Linux (WSL)**
-
-- **Build a Two-VM Cybersecurity Lab Environment**
+- **VIDEO – Build a Two-VM Cybersecurity Lab Environment – v1.0.0**
 
 ---
 
 ## Cloud Infrastructure
 
-- **AWS Lab Setup: Create a Virtual Machine**
+- **VIDEO – AWS Lab Setup: Create a Virtual Machine – v1.0.0**
   
-- **GCP Lab Setup: Create a Virtual Machine**
+- **VIDEO – GCP Lab Setup: Create a Virtual Machine – v1.0.0**
 
-- **Windows 10 VM on Google Cloud Platform (GCP)**
-
+- **VIDEO – Windows 10 VM on Google Cloud Platform (GCP) – v1.0.0**
 ---
 
 ## Linux System Administration
 
-- **Linux Firewall Configuration with Shorewall**
+- **VIDEO – Linux Firewall Configuration with Shorewall – v1.0.0**
+- **VIDEO – Linux Performance Monitoring with SAR (sysstat) – v1.0.0**
 
-- **Linux Performance Monitoring with SAR (sysstat)**
+- **VIDEO – Linux System Administration with Cockpit – v1.0.0**
 
-- **Linux System Administration with Cockpit**
-
-- **Secure Linux Administration with Webmin**
+- **VIDEO – Secure Linux Administration with Webmin – v1.0.0**
 
 ---
 
 ## Windows System Administration
 
-- **Use Procmon to View and Analyze Running Processes**
+- **VIDEO – Use Procmon to View and Analyze Running Processes – v1.0.0**
 
-- **Use a Password Manager to Protect Sensitive Credentials**
+- **VIDEO – Use a Password Manager to Protect Sensitive Credentials – v1.0.0**
 
-- **Recover File Ownership Using the Windows Registry**
+- **VIDEO – Recover File Ownership Using the Windows Registry – v1.0.0**
 
-- **Restrict Permissions of Untrusted Users via Windows Registry**
+- **VIDEO – Restrict Permissions of Untrusted Users via Windows Registry – v1.0.0**
 
-- **Securing Sensitive Folders with Windows Access Permissions**
+- **VIDEO – Securing Sensitive Folders with Windows Access Permissions – v1.0.0**
 
-- **Configure Windows Firewall and Block SMB Access**
+- **VIDEO – Configure Windows Firewall and Block SMB Access – v1.0.0**
+
+- **VIDEO – Deploying a GPO for Strong Passwords & Account Lockout – v1.0.0**
 
 ---
 
 ## Windows Administration & Hardening
 
-- **Deploying a GPO to Enforce Automatic Session Locks on Windows**
+- **VIDEO – Deploying a GPO to Enforce Automatic Session Locks on Windows - v1.0.0**
   
-- **Deploy a GPO on a Single Machine to Configure User Rights Policies**
+- **VIDEO – Deploy a GPO on a Single Machine to Configure User Rights Policies - v1.0.0**
   
-- **Securely Configure Windows Remote Management (WinRM) with Local Group Policy**
+- **VIDEO – Securely Configure Windows Remote Management (WinRM) with Local Group Policy - v1.0.0**
   
-- **Harden SMB Sessions with Windows Local Group Policy**
+- **VIDEO – Harden SMB Sessions with Windows Local Group Policy - v1.0.0**
   
-- **Deploy a GPO on a Single Machine to Apply and Configure in Built Windows Security Policies**
+- **VIDEO – Deploy a GPO on a VM to Configure Built-in Windows Security Policies - v1.0.0**
   
-- **Using Local Group Policy to Disable Remote Desktop (RDP)**
+- **VIDEO – Using Local Group Policy to Disable Remote Desktop (RDP) - v1.0.0**
   
-- **Deploying Windows Defender Hardening via Local GPO**
+- **VIDEO – Deploying Windows Defender Hardening via Local GPO - v1.0.0**
   
-- **Restrict Anonymous Connections with Local GPO**
+- **VIDEO – Restrict Anonymous Connections with Local GPO - v1.0.0**
+
+- **VIDEO – Enforce OS Patch Policies with Local GPO – v1.0.0**
+
+- **VIDEO – Secure Microsoft Edge with Group Policy – v1.0.0**
+
+- **VIDEO – Deployed Exploit Guard via GPO on Windows 10 – v1.0.0**
+
+- **VIDEO – Deploy a GPO on a Single Machine to Harden UAC – v1.0.0**
+
+- **VIDEO – Deploy Controlled Folder Access with Local GPO – v1.0.0**
+
+- **VIDEO – Deploy a GPO on a Single Machine to Secure Credential Entry – v1.0.0**
+
+- **VIDEO – Restrict Application Installations with Local GPO – v1.0.0**
+
+- **VIDEO – Analyze Windows Processes with Procmon – v1.0.0**
+
+- **VIDEO – Secure Sensitive Credentials with a Password Manager – v1.0.0**
+
+- **VIDEO – Use the Windows Registry to Restore File Ownership – v1.0.0**
+
+- **VIDEO – Harden Windows by Restricting User Permissions via Registry – v1.0.0**
+
+- **VIDEO – Securing Sensitive Folders with Windows Access Permissions – v1.0.0**
+
+- **VIDEO – Block SMB Access with Windows Firewall – v1.0.0**
+
+
+
+
+
 
 ---
 
