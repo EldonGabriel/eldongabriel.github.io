@@ -4,7 +4,7 @@ layout: collection-item
 slug: certified-osint-expert
 collection: certifications
 collection_item: true
-order: 3
+order: 4
 image:
   path: /assets/images/headers/mois.png
   thumbnail: /assets/images/headers/mois.png
