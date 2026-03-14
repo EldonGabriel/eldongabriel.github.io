@@ -6,13 +6,13 @@ collection: certifications
 collection_item: true
 order: 7
 image:
-  path: /assets/images/headers/google-it-support.png
-  thumbnail: /assets/images/headers/google-it-support.png
+  path: /assets/images/headers/googleit.png
+  thumbnail: /assets/images/headers/googleit.png
   caption: "The Foundation of Reliable IT Operations"
 ---
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/assets/certifications/Google IT Support.jpg"
+  <img src="/assets/certifications/google-it-support.jpg"
        alt="Google IT Support Professional Certificate"
        style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
   <p style="font-size: 14px; color: #ffffff;">Google IT Support Professional Certificate</p>
