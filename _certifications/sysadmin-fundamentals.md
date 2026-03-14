@@ -35,7 +35,7 @@ Leveraging the rigorous technical training from MSAF, I provide the following es
 
 #### **Technical Mastery & Lab Milestones**
 <div style="background: rgba(255,255,255,0.02); padding: 20px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1);">
-  <p><strong>Training Metrics:</strong> 104 Exercises Completed | 65% Total Program Mastery</p>
+  <p><strong>Training Metrics:</strong> 104 Exercises Completed | 69% Total Program Mastery</p>
   
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; font-size: 0.9em;">
     <div>
