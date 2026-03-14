@@ -4,7 +4,7 @@ layout: collection-item
 slug: cs-system-mgnt
 collection: certifications
 collection_item: true
-order: 6
+order: 7
 image:
   path: /assets/images/headers/uoc-cssms.png
   thumbnail: /assets/images/headers/uoc-cssms.png
