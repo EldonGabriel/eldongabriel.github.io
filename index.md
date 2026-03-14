@@ -95,15 +95,6 @@ image:
   <a href="/experience/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">See My Real-World Technical Experience</a>
 </p>
 
----
-
-<!-- Field Notes Header -->
-<img src="assets/images/fnlogo.png" alt="Banner" style="width:100%; height:auto;">
-
-<h2 style="text-align:center; font-size:200%; font-weight:bold; color:#fff;">
-Bridging IT Fundamentals to Cybersecurity Mastery
-</h2>
-
 --- 
 
 <!-- Field Notes Header -->
