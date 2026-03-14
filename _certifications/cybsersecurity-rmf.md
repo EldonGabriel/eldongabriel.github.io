@@ -4,7 +4,7 @@ layout: collection-item
 slug: cybersecurity-rmf
 collection: certifications
 collection_item: true
-order: 2
+order: 3
 image:
   path: /assets/images/headers/infosec-crmf.png
   thumbnail: /assets/images/headers/infosec-crmf.png
