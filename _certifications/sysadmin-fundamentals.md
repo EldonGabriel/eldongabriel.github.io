@@ -28,10 +28,11 @@ The **MSAF (System Administration Fundamentals)** certification from Mossé Cybe
 #### **Strategic Administrative Capabilities**
 Leveraging the rigorous technical training from MSAF, I provide the following essential infrastructure services:
 
-* **Enterprise GPO Engineering:** Deploying advanced Group Policy Objects to enforce UAC hardening, Exploit Guard, and strict account lockout policies.
-* **Network & Perimeter Defense:** Designing organizational networks via Cisco Packet Tracer and securing perimeters using PFSense firewalls and OpenVPN links.
-* **Multi-Platform Administration:** Managing server fleets using secure administration tools like Webmin and Cockpit, restricted by granular IP whitelisting.
-* **Disaster Recovery & Resilience:** Engineering automated backup workflows using Duplicati and Active Directory restoration procedures to ensure business continuity.
+* **Enterprise GPO Engineering:** Deploying advanced Group Policy Objects to enforce UAC hardening, Exploit Guard, and strict account lockout policies for enhanced system security.
+* **Network & Perimeter Defense:**Designing organizational networks using **Cisco Packet Tracer**, securing perimeters with **PFSense** firewalls, and establishing secure OpenVPN links for remote connectivity.
+* **Multi-Platform Administration:** Managing server fleets through secure administration tools like Webmin and Cockpit, ensuring access is restricted via granular **IP whitelisting** for maximum security.
+* **Disaster Recovery & Resilience:** Engineering automated backup workflows with **Duplicati** and conducting **Active Directory restoration** procedures to ensure business continuity in case of system failure.
+
 
 #### **Technical Mastery & Lab Milestones**
 <div style="background: rgba(255,255,255,0.02); padding: 20px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1);">
