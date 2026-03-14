@@ -65,6 +65,8 @@ Documentation of  essential Linux commands and tools for system monitoring, trou
 - System diagnostics
 - File permission management
 
+---
+
 - **REPORT – Linux User and Group Management – v1.0.0**
 
 - **REPORT – Linux File Permissions and Ownership – v1.0.0**
