@@ -18,8 +18,8 @@ image:
 | Windows Systems Administration | 4 |
 | Linux Systems Administration | 7 |
 | Virtualization & Lab Infrastructure | 3 |
-| Video Demonstration Labs | 27 |
-| **Total Infrastructure Labs Documented** | **41** |
+| Video Demonstration Labs | 38 |
+| **Total Infrastructure Labs Documented** | **52** |
 
 Modern IT infrastructure depends on stable operating systems, virtualization platforms, and reliable administrative processes. The labs and reports in this section demonstrate hands-on experience managing Windows and Linux systems, building virtual lab environments, and maintaining operational stability across infrastructure components.
 
@@ -141,17 +141,17 @@ The following videos demonstrate practical system administration, virtualization
 
 ## Windows System Administration
 
-- **VIDEO – Use Procmon to View and Analyze Running Processes – v1.0.0**
+- **VIDEO – Analyze Windows Processes with Procmon – v1.0.0**
 
-- **VIDEO – Use a Password Manager to Protect Sensitive Credentials – v1.0.0**
+- **VIDEO – Secure Sensitive Credentials with a Password Manager – v1.0.0**
 
-- **VIDEO – Recover File Ownership Using the Windows Registry – v1.0.0**
+- **VIDEO – Use the Windows Registry to Restore File Ownership – v1.0.0**
 
-- **VIDEO – Restrict Permissions of Untrusted Users via Windows Registry – v1.0.0**
+- **VIDEO – Harden Windows by Restricting User Permissions via Registry – v1.0.0**
 
 - **VIDEO – Securing Sensitive Folders with Windows Access Permissions – v1.0.0**
 
-- **VIDEO – Configure Windows Firewall and Block SMB Access – v1.0.0**
+- **VIDEO – Block SMB Access with Windows Firewall – v1.0.0**
 
 - **VIDEO – Deploying a GPO for Strong Passwords & Account Lockout – v1.0.0**
 
@@ -188,18 +188,6 @@ The following videos demonstrate practical system administration, virtualization
 - **VIDEO – Deploy a GPO on a Single Machine to Secure Credential Entry – v1.0.0**
 
 - **VIDEO – Restrict Application Installations with Local GPO – v1.0.0**
-
-- **VIDEO – Analyze Windows Processes with Procmon – v1.0.0**
-
-- **VIDEO – Secure Sensitive Credentials with a Password Manager – v1.0.0**
-
-- **VIDEO – Use the Windows Registry to Restore File Ownership – v1.0.0**
-
-- **VIDEO – Harden Windows by Restricting User Permissions via Registry – v1.0.0**
-
-- **VIDEO – Securing Sensitive Folders with Windows Access Permissions – v1.0.0**
-
-- **VIDEO – Block SMB Access with Windows Firewall – v1.0.0**
 
 ---
 
