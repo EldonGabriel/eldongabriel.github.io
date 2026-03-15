@@ -28,8 +28,6 @@ Hands-on system administration tasks performed in Windows environments, focusing
   
 ## Windows Systems Administration Portfolio
 
-## Windows Systems Administration Portfolio
-
 ### 🛡️ Endpoint Security Engineering & GPO Hardening
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
