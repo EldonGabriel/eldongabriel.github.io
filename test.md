@@ -193,7 +193,4 @@ Hands-on system administration tasks performed in Windows environments, focusing
 </p>
 </div>
 
-</div>  
-</div>
-
 </div>
