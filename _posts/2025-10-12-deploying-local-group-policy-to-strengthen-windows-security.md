@@ -57,9 +57,14 @@ Applying local GPOs is important for enterprise security and compliance:
 - Baseline policy enforcement reduces the risk of exploits and misconfigurations  
 - Skills learned are directly transferable to professional enterprise security roles  
 
----
+ 
 
-See my report below for a complete technical summary and validation of this lab exercise:
+<div style="text-align:center;">
+<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
+Related Projects
+</h2>
+</div>
+
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
   <div style="flex: 0 1 45%; min-width: 600px; text-align: center;"> 
     <iframe src="{{ 'assets/reports/REPORT – Deploy Local GPO for Windows Security Policies – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe> 
