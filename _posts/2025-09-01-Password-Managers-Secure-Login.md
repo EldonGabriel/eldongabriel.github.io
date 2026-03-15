@@ -26,26 +26,27 @@ Skills with password managers reinforce roles in **Identity and Access Managemen
 - Understanding different types of password managers helps balance control, risk, and accessibility  
 - Adoption of password managers aligns with cybersecurity best practices and regulatory frameworks  
 
+
 <div style="text-align:center;">
 <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:5px;">
-Related Projects
+Password Security Report
 </h1>
 </div>
 
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
-<div style="flex:0 1 45%; min-width:500px; text-align:center;">
+<div style="flex:0 1 500px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
-<iframe 
-src="{{ '/assets/reports/REPORT  – Password Managers – v1.0.0.pdf' | relative_url }}" 
-width="100%" 
+<iframe
+src="{{ '/assets/reports/REPORT – Password Managers – v1.0.0.pdf' | relative_url }}"
+width="100%"
 height="580"
-style="border:1px solid #ccc; border-radius:8px;">
+style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
-<figcaption style="margin-top:10px;">
-REPORT – Password Managers – v1.0.0
-</figcaption>
+<p style="margin-top:12px; color:#aaa;">
+<strong>REPORT – Password Managers – v1.0.0</strong>
+</p>
 
 </div>
 
