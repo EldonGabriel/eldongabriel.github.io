@@ -62,7 +62,7 @@ This blog covers two practical exercises I completed in Windows system hardening
 - Small configuration changes, like secure logon enforcement and application restriction, greatly reduce risk.
 - Hands-on labs bridge theory with real-world cybersecurity application.
 
-<section>
+<section>  
 
 <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
 Related Projects
