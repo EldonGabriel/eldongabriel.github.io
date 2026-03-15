@@ -53,13 +53,31 @@ Cybersecurity depends on this. When you know how programs usually work, you can 
 
 In summary, Procmon gives a clear and practical behind-the-scenes view of what’s happening with Windows processes. I practiced capturing, filtering, and saving system events. This helped me spot strange events. I gained hands-on skills. These skills help find problems, look into them, and follow rules.
 
+<section>
 
 <div style="text-align:center;">
-  <h1 style="display: inline-block; border-bottom: 3px solid #fff; padding-bottom: 5px;">Related Projects</h1>
+<h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:5px;">
+Related Projects
+</h1>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/guides/GUIDE – Monitoring Windows Processes with Procmon – v1.0.1.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>GUIDE – Monitoring Windows Processes with Procmon – v1.0.1.pdf</figcaption>
-  </div>
+<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:25px;">
+
+<div style="width:650px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+
+<iframe
+src="{{ '/assets/guides/GUIDE – Monitoring Windows Processes with Procmon – v1.0.1.pdf' | relative_url }}"
+width="100%"
+height="580"
+style="border:1px solid #333; border-radius:8px;">
+</iframe>
+
+<p style="margin-top:12px; color:#aaa;">
+<strong>GUIDE – Monitoring Windows Processes with Procmon – v1.0.1</strong>
+</p>
+
+</div>
+
+</div>
+
+</section>
