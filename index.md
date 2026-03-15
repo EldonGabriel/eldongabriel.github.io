@@ -13,11 +13,13 @@ image:
 </section>
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
-  I provide <strong>hands-on security implementation</strong> and <strong>framework-aligned technical controls</strong> to harden enterprise systems, investigate incidents, and reduce organizational risk. As an <strong>ISC² Certified Cybersecurity Professional (CC)</strong> with <strong>120+ documented technical labs and reports</strong>, I specialize in transforming complex IT environments into secure, compliant, and resilient infrastructures.
+I implement practical security controls that harden enterprise systems, investigate operational issues, and reduce organizational risk. As an **ISC² Certified Cybersecurity Professional (CC)** with **100+ documented technical labs and reports**, my work focuses on securing real IT environments through repeatable system administration and defensive security practices.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6;">
-  My work is grounded in a <strong>"Proof of Work"</strong> methodology—executing repeatable, documented security processes that strengthen systems, mitigate vulnerabilities, and support compliance readiness.
+  My portfolio follows a **Proof of Work methodology**, where every security concept is demonstrated through hands-on implementation and documented technical analysis. These projects include system hardening, network security configuration, incident troubleshooting, and infrastructure protection using industry-aligned security frameworks.
+
+The goal is simple: convert security theory into **operational controls that are measurable, defensible, and ready for real-world environments**.
 </p>
 
 <section style="margin: 60px 0;">
