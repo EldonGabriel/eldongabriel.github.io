@@ -52,7 +52,7 @@ This project reflects my philosophy: **no shortcuts, no surface-level work. Alwa
     <iframe 
     src="{{ '/assets/reports/REPORT – GPO Hardening for Windows Application Control – v1.0.0.pdf' | relative_url }}" 
     width="100%" 
-    height="550"
+    height="570"
     style="border:1px solid #ccc; border-radius:8px;">
     </iframe>
 
