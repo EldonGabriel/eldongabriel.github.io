@@ -48,7 +48,7 @@ Enrollment Verification
 <iframe 
 src="{{ '/assets/certifications/mics-confirmation-of-enrolment.pdf' | relative_url }}" 
 width="100%" 
-height="400"
+height="600"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
@@ -58,7 +58,9 @@ style="border:1px solid #333; border-radius:8px;">
 
 </div>
 
-</section>>
+</div>
+
+</section>
 
 <h2>Next Steps</h2>
 
