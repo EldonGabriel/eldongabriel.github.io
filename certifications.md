@@ -1,5 +1,5 @@
 ---
-title: Certifications & Technical Training
+title: Key Career Milestones & Certifications
 layout: collection
 permalink: /certifications/
 collection: certifications
@@ -9,10 +9,14 @@ image:
   path: /assets/images/banner.png
 ---
 
-<p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
-  My professional development is grounded in <strong>hands-on technical application</strong> and adherence to recognized industry standards. This portfolio of verified credentials reflects practical proficiency in <strong>securing, configuring, and managing enterprise systems</strong>.
+<p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
+My professional development is built on hands-on technical practice and structured cybersecurity training. These certifications and learning milestones reflect practical experience securing, configuring, and managing enterprise systems.
+</p>
+
+<p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
+Each credential represents applied knowledge developed through technical labs, system administration exercises, and real-world security scenarios documented throughout this portfolio.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6;">
-  My certifications and training align with globally recognized workforce and competency models, including the <strong>NIST NICE Framework</strong>, relevant <strong>U.S. DoD occupational standards</strong>, and the <strong>ASD Cyber Skills Framework</strong>, supporting structured skill development and professional best practices.
+My training aligns with recognized workforce and competency frameworks including the <strong>NIST NICE Framework</strong>, relevant <strong>U.S. Department of Defense occupational standards</strong>, and the <strong>ASD Cyber Skills Framework</strong>, supporting structured skill development and professional best practices.
 </p>
