@@ -13,128 +13,94 @@ As part of my cybersecurity and system administration journey, I designed 11 ind
 
 The goal of these labs is simple: build practical skills in system maintenance, troubleshooting, and secure administration. Below is a summary of the labs with direct demo links.  
 
----
+<section>
 
-<div align="center">
+<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
+Windows Administration Demonstrations
+</h2>
 
-<h3>1. Windows Disk Cleanup</h3>  
-Focused on freeing space, removing temporary files, and improving performance.  
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(350px,1fr)); gap:25px;">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HeSARWF3F58" frameborder="0" allowfullscreen></iframe>  
+<!-- 1 -->
+<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
+<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Windows Disk Cleanup</h3>
+<p style="color:#ccc;">Freed disk space by removing temporary files and unnecessary system data.</p>
+<iframe width="100%" height="220" src="https://www.youtube.com/embed/HeSARWF3F58" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<!-- 2 -->
+<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
+<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Defragment & Optimize Drives</h3>
+<p style="color:#ccc;">Optimized HDD and SSD storage to improve system responsiveness.</p>
+<iframe width="100%" height="220" src="https://www.youtube.com/embed/G7riXJI8w4U" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<!-- 3 -->
+<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
+<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Task Scheduler</h3>
+<p style="color:#ccc;">Created automated tasks to reduce manual system maintenance.</p>
+<iframe width="100%" height="220" src="https://www.youtube.com/embed/WZtkpKxr9xE" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<!-- 4 -->
+<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
+<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Windows Defender Firewall</h3>
+<p style="color:#ccc;">Configured firewall rules and validated network access controls.</p>
+<iframe width="100%" height="220" src="https://www.youtube.com/embed/z8nXF2OleGo" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<!-- 5 -->
+<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
+<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Registry Editor</h3>
+<p style="color:#ccc;">Performed safe registry edits with backup and restoration procedures.</p>
+<iframe width="100%" height="220" src="https://www.youtube.com/embed/g9A2faHgWWs" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<!-- 6 -->
+<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
+<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Event Viewer</h3>
+<p style="color:#ccc;">Analyzed Windows logs to identify warnings, errors, and system events.</p>
+<iframe width="100%" height="220" src="https://www.youtube.com/embed/rw7QL5BgQgI" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<!-- 7 -->
+<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
+<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">System Information</h3>
+<p style="color:#ccc;">Collected system configuration details for auditing and troubleshooting.</p>
+<iframe width="100%" height="220" src="https://www.youtube.com/embed/-AfFdEs_sTY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<!-- 8 -->
+<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
+<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Programs and Features</h3>
+<p style="color:#ccc;">Installed and removed applications to maintain system stability.</p>
+<iframe width="100%" height="220" src="https://www.youtube.com/embed/cQAwuYjr_b0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<!-- 9 -->
+<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
+<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Network and Sharing Center</h3>
+<p style="color:#ccc;">Examined network connections and performed connectivity diagnostics.</p>
+<iframe width="100%" height="220" src="https://www.youtube.com/embed/qyRWBM-w-1s" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<!-- 10 -->
+<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
+<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">BitLocker Drive Encryption</h3>
+<p style="color:#ccc;">Planned encryption strategy and reviewed NTFS permission configuration.</p>
+<iframe width="100%" height="220" src="https://www.youtube.com/embed/wlgnNwbKe3w" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<!-- 11 -->
+<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
+<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Credential Manager</h3>
+<p style="color:#ccc;">Managed stored credentials used for authentication across Windows services.</p>
+<iframe width="100%" height="220" src="https://www.youtube.com/embed/8UPRuS-ZZ3s" frameborder="0" allowfullscreen></iframe>
+</div>
 
 </div>
 
----
-
-<div align="center">
-
-<h3>2. Defragment & Optimize Drives</h3>  
-Showed how to optimize both HDDs and SSDs for better system response.  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G7riXJI8w4U" frameborder="0" allowfullscreen></iframe>  
-
-</div>
-
----
-
-<div align="center">
-
-<h3>3. Task Scheduler</h3>
-Created and tested automated jobs to reduce manual steps.  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WZtkpKxr9xE" frameborder="0" allowfullscreen></iframe>  
-
-</div>
-
----
-
-<div align="center">
-
-<h3>4. Windows Defender Firewall</h3>  
-Configured rules, blocked traffic, and tested connectivity for security control.  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z8nXF2OleGo" frameborder="0" allowfullscreen></iframe>  
-
-</div>
-
----
-
-<div align="center">
-
-<h3>5. Registry Editor</h3>  
-Demonstrated safe edits, backups, and restorations of registry keys.  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g9A2faHgWWs" frameborder="0" allowfullscreen></iframe>  
-
-</div>
-
----
-
-<div align="center">
-
-<h3>6. Event Viewer</h3>  
-Reviewed logs, identified warnings, and applied filters to trace system issues.  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rw7QL5BgQgI" frameborder="0" allowfullscreen></iframe>  
-
-</div>
-
----
-
-<div align="center">
-
-<h3>7. System Information</h3>
-Gathered and exported system details for auditing and troubleshooting.  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-AfFdEs_sTY" frameborder="0" allowfullscreen></iframe>  
-
-</div>
-
----
-
-<div align="center">
-
-<h3>8. Programs and Features</h3> 
-Installed and removed applications to maintain system stability.  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cQAwuYjr_b0" frameborder="0" allowfullscreen></iframe>  
-
-</div>
-
----
-
-<div align="center">
-
-<h3>9. Network and Sharing Center</h3> 
-Checked active connections, ran diagnostics, and documented results.  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qyRWBM-w-1s" frameborder="0" allowfullscreen></iframe>  
-
-</div>
-
----
-
-<div align="center">
-
-<h3>10. BitLocker Drive Encryption</h3> 
-Configured NTFS permissions and planned encryption steps for drive security.  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wlgnNwbKe3w" frameborder="0" allowfullscreen></iframe>  
-
-</div>
-
----
-
-<div align="center">
-
-<h3>11. Credential Manager</h3>  
-Created, edited, and removed Windows credentials for secure authentication.  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8UPRuS-ZZ3s" frameborder="0" allowfullscreen></iframe>  
-
-</div>
-
----
+</section>
 
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Instructor Feedback</h1>
