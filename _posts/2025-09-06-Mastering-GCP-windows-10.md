@@ -23,7 +23,7 @@ This project demonstrates my ability to work with cloud infrastructure, configur
 Cloud Infrastructure Demonstration
 </h2>
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(650px,1fr)); gap:25px; max-width:800px; margin:auto;">
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(550px,1fr)); gap:25px; max-width:800px; margin:auto;">
 
 <div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 <h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Windows 10 VM on Google Cloud</h3>
