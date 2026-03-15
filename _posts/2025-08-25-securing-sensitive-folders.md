@@ -17,7 +17,7 @@ Today's lab focused on two main goals: locking down sensitive folders and restri
 
 - **Command-line tools:** `icacls` and `takeown` for managing file permissions.  
 - **Local Group Policy Editor:** blocking applications like PowerShell.  
-- **User and group management:** creating and modifying accounts in Computer Management, setting password policies, and expirations.  
+- **User and group management:** creating and modifying accounts in PowerShell, setting password policies, and expirations.  
 - **Auditing:** reviewing permissions and access logs to maintain security.  
 - **Least privilege:** assigning only the necessary rights to each group.  
 
@@ -38,9 +38,10 @@ Today's lab focused on two main goals: locking down sensitive folders and restri
 
 I’ll wait for results and review feedback to identify gaps. In the meantime, I’ll research my next exercise on using access permissions to block unauthorized access to sensitive folders. This builds on the lessons from this lab and sharpens my skills in access control and data security.
 
-<p align="center">
-  <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/guides/GUIDE%20%E2%80%93%20Using%20Access%20Permissions%20and%20Rights%20to%20Secure%20a%20Folder%20%E2%80%93%20v1.0.0.pdf" target="_blank">
-    Full Guide: GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0
-  </a>
-</p>
+For complete configuration and validation details, see the engineering report below:
 
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
+  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;"> 
+    <iframe src="{{ 'assets/guides/GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe> 
+    <figcaption>GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0.pdf'</figcaption> 
+  </div> 
