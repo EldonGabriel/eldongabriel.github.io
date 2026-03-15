@@ -159,5 +159,5 @@ These 11 labs give a practical look at Windows administration from the ground up
 </div>
 
 - [Windows Control Panel Administration: Research, Labs, and Instructor Feedback](https://eldongabriel.github.io/wcp-administration/)  
-- [REPORT – GPO Hardening for Windows Application Control – v1.0.0](assets/reports/REPORT%20–%20GPO%20Hardening%20for%20Windows%20Application%20Control%20–%20v1.0.0.pdf)  
 - [Cybersecurity Report Template](https://eldongabriel.github.io/cybersecurity-report-template/)  
+ 
