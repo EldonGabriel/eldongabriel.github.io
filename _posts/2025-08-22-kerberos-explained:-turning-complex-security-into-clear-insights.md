@@ -37,4 +37,3 @@ See my full technical report for detailed configuration and validation steps:
     <figcaption>REPORT – Kerberos Authentication Protocol – v1.0.0</figcaption> 
   </div> 
 </div>
-  </a>
