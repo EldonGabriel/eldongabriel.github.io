@@ -45,11 +45,23 @@ This project reflects my philosophy: **no shortcuts, no surface-level work. Alwa
   <h1 style="display: inline-block; border-bottom: 3px solid #fff; padding-bottom: 5px;">Related Projects</h1>
 </div>
 
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;">
-    <iframe src="{{ 'assets/reports/REPORT – GPO Hardening for Windows Application Control – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – GPO Hardening for Windows Application Control – v1.0.0</figcaption>
-  </div>
+ <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+
+  <figure style="flex:0 1 45%; min-width:400px; text-align:center;">
+
+    <iframe 
+    src="{{ '/assets/reports/REPORT – GPO Hardening for Windows Application Control – v1.0.0.pdf' | relative_url }}" 
+    width="100%" 
+    height="900"
+    style="border:1px solid #ccc; border-radius:8px;">
+    </iframe>
+
+    <figcaption style="margin-top:10px;">
+      <strong>REPORT – GPO Hardening for Windows Application Control – v1.0.0</strong>
+    </figcaption>
+
+  </figure>
+
 </div>
 
 - [Mastering Windows System Administration: 11 Independent Labs](https://eldongabriel.github.io/windows-system-administration-labs/)
