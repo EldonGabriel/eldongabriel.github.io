@@ -32,7 +32,7 @@ Cloud Infrastructure Demonstration
 Deployed and administered a Windows 10 virtual machine within Google Cloud Platform, demonstrating cloud infrastructure provisioning and remote system management.
 </p>
 
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/rNI50WIqZWc" title="Windows 10 VM on GCP" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="520" src="https://www.youtube.com/embed/rNI50WIqZWc" title="Windows 10 VM on GCP" frameborder="0" allowfullscreen></iframe>
 
 <p style="margin-top:10px; color:#aaa;">
 <strong>Focus:</strong> Cloud Virtualization • Infrastructure Provisioning • Remote Administration
