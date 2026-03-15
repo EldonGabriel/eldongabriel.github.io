@@ -71,7 +71,7 @@ Related Projects
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; max-width:1200px; margin:auto;">
 
 <!-- Report 1 -->
-<div style="width:480px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+<div style="width:380px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
 <h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">
 GPO Hardening for Windows Application Control
@@ -91,7 +91,7 @@ style="border:1px solid #333; border-radius:8px;">
 </div>
 
 <!-- Report 2 -->
-<div style="width:480px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+<div style="width:380px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
 <h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">
 Secure Credential Entry via Group Policy
@@ -110,9 +110,6 @@ style="border:1px solid #333; border-radius:8px;">
 
 </div>
 
-</div>
-
-</section>
 </div>
 
 </section>
