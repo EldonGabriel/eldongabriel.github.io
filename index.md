@@ -108,5 +108,5 @@ The goal is simple: convert security theory into <strong>operational controls th
 <img src="assets/images/fnlogo.png" alt="Banner" style="width:100%; height:auto;">
 
 <h2 style="text-align:center; font-size:200%; font-weight:bold; color:#fff;">
-Bridging IT Fundamentals to Cybersecurity Mastery
+Bridging IT, Security, and Risk Management into Cybersecurity Mastery
 </h2>
