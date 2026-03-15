@@ -35,12 +35,11 @@ The complete end-to-end procedure is documented in the full report. It includes:
 
 <h3>Full Engineering Report: vSphere 8 on AMD Ryzen 6000</h3>
 
-<iframe 
-  src="{{ '/assets/guides/GUIDE – Building a vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0.pdf' | relative_url }}" 
-  width="100%" 
-  height="900" 
-  style="border:1px solid #333; border-radius:8px;">
-</iframe>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
+  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;"> 
+    <iframe src="{{ 'assets/guides/GUIDE – Building a vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe> 
+    <figcaption>GUIDE – Building a vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0.pdf</figcaption> 
+  </div> 
 
 ---
 
