@@ -68,10 +68,10 @@ This blog covers two practical exercises I completed in Windows system hardening
 Related Projects
 </h2>
 
-<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; max-width:1200px; margin:auto;">
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(500px,1fr)); gap:25px; max-width:1400px; margin:auto;">
 
 <!-- Report 1 -->
-<div style="width:380px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
 <h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">
 GPO Hardening for Windows Application Control
@@ -80,18 +80,18 @@ GPO Hardening for Windows Application Control
 <iframe 
 src="{{ '/assets/reports/REPORT – GPO Hardening for Windows Application Control – v1.0.0.pdf' | relative_url }}" 
 width="100%" 
-height="900"
+height="800"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
-<p style="margin-top:10px; color:#aaa;">
+<p style="margin-top:12px; color:#aaa;">
 <strong>REPORT – GPO Hardening for Windows Application Control – v1.0.0</strong>
 </p>
 
 </div>
 
 <!-- Report 2 -->
-<div style="width:380px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
 <h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">
 Secure Credential Entry via Group Policy
@@ -100,11 +100,11 @@ Secure Credential Entry via Group Policy
 <iframe 
 src="{{ '/assets/reports/REPORT – Secure Credential Entry via Group Policy Objective (GPO) – v1.0.0.pdf' | relative_url }}" 
 width="100%" 
-height="900"
+height="800"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
-<p style="margin-top:10px; color:#aaa;">
+<p style="margin-top:12px; color:#aaa;">
 <strong>REPORT – Secure Credential Entry via GPO – v1.0.0</strong>
 </p>
 
