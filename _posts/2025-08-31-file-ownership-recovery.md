@@ -21,9 +21,9 @@ image:
 Related Projects
 </h2>
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(380px,1fr)); gap:25px; max-width:800px; margin:auto;">
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+<div style="flex:0 1 500px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
 <iframe
 src="{{ '/assets/reports/REPORT – File Ownership Recovery – v1.0.0.pdf' | relative_url }}"
