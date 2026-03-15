@@ -25,8 +25,13 @@ image:
 
   <center><h3>Final Thoughts</h3></center>
   <p>The Kerberos report is more than a document—it’s a foundational piece of my cybersecurity portfolio. It demonstrates my ability to learn complex systems, apply them practically, and communicate them clearly. Most importantly, it reflects my dedication to building a strong portfolio and my commitment to breaking into the cybersecurity industry.</p>
+    
+See my full technical report for detailed configuration and validation steps:
 
-  <p align="center">
-  <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.1.pdf" target="_blank">
-    Full Report: REPORT – Kerberos Authentication Protocol – v1.0.0
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
+  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;"> 
+    <iframe src="{{ 'assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.1.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe> 
+    <figcaption>REPORT – Kerberos Authentication Protocol – v1.0.0</figcaption> 
+  </div> 
+</div>
   </a>
