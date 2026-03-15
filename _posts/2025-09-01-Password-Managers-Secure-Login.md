@@ -28,9 +28,10 @@ Skills with password managers reinforce roles in **Identity and Access Managemen
 
 
 <div style="text-align:center;">
-<h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:5px;">
-Password Security Report
-</h1>
+<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
+Related Projects
+</h2>
+
 </div>
 
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
