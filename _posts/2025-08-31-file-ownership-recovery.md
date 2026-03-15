@@ -15,9 +15,15 @@ image:
 
 <p>Understanding how ownership works is critical for <strong>system security and administration</strong>. Proper access control ensures sensitive data is protected, while knowing how to correctly recover ownership helps maintain operational continuity.</p>
 
+<section>  
 
-<section>
+<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
+Related Projects
+</h2>
 
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(380px,1fr)); gap:25px; max-width:400px; margin:auto;">
+
+<!-- Report 1 -->
 <div style="text-align:center;">
 <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:5px;">
 Related Projects
@@ -44,5 +50,3 @@ style="border:1px solid #333; border-radius:8px;">
 </div>
 
 </section>
-
-</div>
