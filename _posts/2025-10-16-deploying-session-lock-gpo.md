@@ -57,12 +57,28 @@ Enforcing session locks is critical for enterprise security and compliance:
 - Hands-on configuration reinforces real-world endpoint security skills  
 - Small, simple policies can have a large impact on overall security posture  
 
----
+<div style="text-align:center;">
+<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
+Related Projects
+</h2>
+</div>
 
-See my report below for a complete technical summary and validation of this lab exercise:
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
-  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;"> 
-    <iframe src="{{ 'assets/reports/REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe> 
-    <figcaption>REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0</figcaption> 
-  </div> 
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+
+<!-- Project -->
+<div style="flex:0 1 500px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+
+<iframe
+src="{{ '/assets/reports/REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0.pdf' | relative_url }}"
+width="100%"
+height="680"
+style="border:1px solid #333; border-radius:8px;">
+</iframe>
+
+<p style="margin-top:12px; color:#aaa;">
+<strong>REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0</strong>
+</p>
+
+</div>
+
 </div>
