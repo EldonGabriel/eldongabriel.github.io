@@ -49,10 +49,30 @@ The full process is documented in the complete report. It includes:
 * Cloud launch configuration and EC2 access restoration  
 * Cost analysis and removal of unused cloud resources  
 
-<figure style="text-align: center;">
-  <iframe src="{{ '/assets/reports/IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.0.pdf'}}" width="100%" height="900px" style="border:1px solid #333; border-radius: 8px;"></iframe>
-  <figcaption><strong>Full Engineering Report: VMware to AWS EC2 Migration</strong></figcaption>
-</figure>
+<div style="text-align:center;">
+<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
+Engineering Report: VMware to AWS EC2 Migration</h2>
+</div>
+
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+
+<!-- Project -->
+<div style="flex:0 1 500px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+
+<iframe
+src="{{ '/assets/reports/IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.0.pdf' | relative_url }}"
+width="100%"
+height="680"
+style="border:1px solid #333; border-radius:8px;">
+</iframe>
+
+<p style="margin-top:12px; color:#aaa;">
+<strong>IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.0.pdf</strong>
+</p>
+
+</div>
+
+</div>
 
 ---
 
