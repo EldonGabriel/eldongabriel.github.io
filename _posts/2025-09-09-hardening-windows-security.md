@@ -68,7 +68,7 @@ This blog covers two practical exercises I completed in Windows system hardening
 Related Projects
 </h2>
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px,1fr)); gap:25px; max-width:1400px; margin:auto;">
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(380px,1fr)); gap:25px; max-width:1400px; margin:auto;">
 
 <!-- Report 1 -->
 <div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
