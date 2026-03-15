@@ -80,7 +80,7 @@ GPO Hardening for Windows Application Control
 <iframe 
 src="{{ '/assets/reports/REPORT – GPO Hardening for Windows Application Control – v1.0.0.pdf' | relative_url }}" 
 width="100%" 
-height="800"
+height="520"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
@@ -100,7 +100,7 @@ Secure Credential Entry via Group Policy
 <iframe 
 src="{{ '/assets/reports/REPORT – Secure Credential Entry via Group Policy Objective (GPO) – v1.0.0.pdf' | relative_url }}" 
 width="100%" 
-height="400"
+height="520"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
