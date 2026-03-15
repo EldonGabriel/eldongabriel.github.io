@@ -26,22 +26,14 @@ These labs represent hands-on work performed in controlled environments designed
 
 Hands-on system administration tasks performed in Windows environments, focusing on system management, disk operations, service control, and operational troubleshooting.
 
-### Lab Index
+Endpoint Security Engineering & GPO Hardening
+Focuses on proactive defense, attack surface reduction, and enforcing security baselines through Group Policy.
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:30px;">
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>Active Directory Bare Metal Recovery (BMR)</h4>
-<p>Performed full system backup and restoration of an Active Directory Domain Controller using Bare Metal Recovery procedures.</p>
-<p><strong>Skills:</strong> AD Backup · Disaster Recovery · Infrastructure Resilience</p>
-<p align="center" style="margin-top:20px;">
-<a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
-</p>
-</div>
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>Deploy Local GPO for Windows Security Policies</h4>
-<p>Configured Local Group Policy settings to enforce baseline Windows security protections.</p>
+<h4>Deploy Local GPO for Security Policies</h4>
+<p>Configured Local Group Policy settings to enforce baseline Windows security protections and system hardening.</p>
 <p><strong>Skills:</strong> GPO Engineering · Endpoint Hardening</p>
 <p align="center" style="margin-top:20px;">
 <a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
@@ -49,145 +41,129 @@ Hands-on system administration tasks performed in Windows environments, focusing
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>SMB Hardening for Credential Theft Protection</h4>
-<p>Applied SMB security policies to reduce exposure to credential harvesting and lateral movement attacks.</p>
-<p><strong>Skills:</strong> SMB Security · Credential Protection</p>
-<p align="center" style="margin-top:20px;">
-<a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
-</p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>SMB Protocol: Function and Security Risks</h4>
-<p>Analyzed the SMB protocol architecture and documented operational and security risks.</p>
-<p><strong>Skills:</strong> Network Protocols · Threat Analysis</p>
-<p align="center" style="margin-top:20px;">
-<a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
-</p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>WinRM Secure Configuration and Validation</h4>
-<p>Configured and validated secure Windows Remote Management settings.</p>
-<p><strong>Skills:</strong> WinRM · Secure Remote Administration</p>
-<p align="center" style="margin-top:20px;">
-<a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
-</p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>Hardening Windows User Rights via Local Group Policy</h4>
-<p>Restricted administrative privileges and enforced least-privilege access policies.</p>
-<p><strong>Skills:</strong> Access Control · Privilege Hardening</p>
-<p align="center" style="margin-top:20px;">
-<a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
-</p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>Local GPO Session Lock Enforcement</h4>
-<p>Configured automatic workstation locking to prevent unauthorized physical access.</p>
-<p><strong>Skills:</strong> Endpoint Security · Policy Enforcement</p>
-<p align="center" style="margin-top:20px;">
-<a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
-</p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>GPO Hardening for Windows Application Control</h4>
-<p>Configured application execution restrictions through Group Policy.</p>
-<p><strong>Skills:</strong> Application Control · Windows Hardening</p>
+<h4>GPO Application Control Hardening</h4>
+<p>Implemented execution restrictions and application whitelisting logic via Group Policy Objects.</p>
+<p><strong>Skills:</strong> Application Control · Threat Surface Reduction</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/wcp-administration/" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>Secure Credential Entry via GPO</h4>
-<p>Configured secure credential entry protections through Windows security policy controls.</p>
-<p><strong>Skills:</strong> Credential Protection · GPO Security</p>
+<h4>UAC Hardening via Local GPO</h4>
+<p>Strengthened User Account Control (UAC) prompts to prevent unauthorized privilege escalation and silent elevation.</p>
+<p><strong>Skills:</strong> Privilege Management · UAC Secuirty</p>
+<p align="center" style="margin-top:20px;">
+<a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>Windows Defender GPO Orchestration</h4>
+<p>Deployed centralized AV configurations to ensure real-time protection and cloud-delivered MAPS telemetry.</p>
+<p><strong>Skills:</strong> Endpoint Protection · Windows Defender</p>
+<p align="center" style="margin-top:20px;">
+<a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
+</div>
+
+🔑 Identity & Access Management (IAM)
+Focuses on protecting credentials, managing user rights, and ensuring disaster recovery of identity infrastructure.
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>AD Bare Metal Recovery (BMR)</h4>
+<p>Performed full system backup and restoration of an Active Directory Domain Controller to ensure business continuity.</p>
+<p><strong>Skills:</strong> AD Administration · Disaster Recovery · BMR</p>
+<p align="center" style="margin-top:20px;">
+<a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>Credential Entry Protection via GPO</h4>
+<p>Configured secure credential entry protections to mitigate cleartext password exposure in memory.</p>
+<p><strong>Skills:</strong> Credential Security · Memory Hardening</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/hardening-windows-security/" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>Harden UAC via Local Group Policy</h4>
-<p>Strengthened User Account Control configuration to prevent unauthorized privilege escalation.</p>
-<p><strong>Skills:</strong> UAC Hardening · Privilege Security</p>
+<h4>SMB Credential Theft Mitigation</h4>
+<p>Hardened SMB settings (signing/encryption) to prevent Pass-the-Hash and lateral movement attacks.</p>
+<p><strong>Skills:</strong> Lateral Movement Prevention · SMB Hardening</p>
 <p align="center" style="margin-top:20px;">
 <a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>Windows Disk Management Using Command Line</h4>
-<p>Used chkdsk and fsutil to analyze disk health, repair file system errors, and manage storage.</p>
-<p><strong>Skills:</strong> Disk Diagnostics · CLI Administration</p>
+<h4>Password & Account Lockout Policy</h4>
+<p>Enforced strict password complexity and account lockout thresholds to mitigate automated brute-force attacks.</p>
+<p><strong>Skills:</strong> Identity Policy · NIST Password Standards</p>
+<p align="center" style="margin-top:20px;">
+<a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
+</div>
+
+🛠️ Infrastructure Operations & Diagnostics
+Focuses on the core "keep-the-lights-on" skills including disk management, service auditing, and patch compliance.
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>CLI Disk Management & Health</h4>
+<p>Utilized chkdsk and fsutil to analyze disk health, repair file systems, and manage storage volumes via CLI.</p>
+<p><strong>Skills:</strong> Storage Admin · CLI Troubleshooting</p>
 <p align="center" style="margin-top:20px;">
 <a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>Windows Service Management</h4>
-<p>Investigated and controlled Windows services to maintain system stability.</p>
-<p><strong>Skills:</strong> Service Control · System Operations</p>
+<h4>Windows Service & Event Analysis</h4>
+<p>Investigated service dependencies and analyzed Event Logs to diagnose operational failures.</p>
+<p><strong>Skills:</strong> Root Cause Analysis · Event Log Auditing</p>
 <p align="center" style="margin-top:20px;">
 <a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>Windows Event Log Analysis</h4>
-<p>Analyzed system and security logs to identify operational errors and security indicators.</p>
-<p><strong>Skills:</strong> Event Viewer · Incident Investigation</p>
+<h4>OS Patching Policy Enforcement</h4>
+<p>Configured Windows Update for Business policies via GPO to ensure system compliance and vulnerability mitigation.</p>
+<p><strong>Skills:</strong> Vulnerability Management · Patching Operations</p>
+<p align="center" style="margin-top:20px;">
+<a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
+</div>
+
+Network Protocol Security
+Analysis and hardening of remote management and file-sharing protocols.
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>WinRM Secure Configuration</h4>
+<p>Configured and validated secure Windows Remote Management settings, ensuring encrypted administrative traffic.</p>
+<p><strong>Skills:</strong> WinRM · Secure Remote Admin</p>
 <p align="center" style="margin-top:20px;">
 <a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>File Ownership Recovery</h4>
-<p>Recovered NTFS file ownership and restored proper permission controls.</p>
-<p><strong>Skills:</strong> NTFS Permissions · Access Recovery</p>
-<p align="center" style="margin-top:20px;">
-<a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
-</p>
-
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:30px;">
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>Enforcing OS Patching Policy via Local GPO</h4>
-<p>Configured Windows Update policies through GPO to ensure timely security patching and system compliance.</p>
-<p><strong>Skills:</strong> Vulnerability Management · Patch Compliance · GPO Engineering</p>
-<p align="center" style="margin-top:20px;">
-<a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
-</p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>Strict Password & Account Lockout GPO</h4>
-<p>Implemented enterprise-grade password complexity and lockout thresholds to mitigate brute-force attempts.</p>
-<p><strong>Skills:</strong> Identity Security · Password Policy · Bruteforce Mitigation</p>
-<p align="center" style="margin-top:20px;">
-<a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
-</p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>Restricting Anonymous Connections via GPO</h4>
-<p>Hardened the OS by restricting null sessions and anonymous enumeration of SAM accounts and shares.</p>
-<p><strong>Skills:</strong> System Hardening · Information Leakage Prevention · Windows Security</p>
-<p align="center" style="margin-top:20px;">
-<a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
-</p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>System Hardening: Windows Defender GPO</h4>
-<p>Deployed centralized configurations for Windows Defender Antivirus to ensure real-time protection and cloud-delivered protection.</p>
-<p><strong>Skills:</strong> Endpoint Protection · Windows Defender · Antivirus Orchestration</p>
+<h4>SMB Architecture & Risk Analysis</h4>
+<p>Analyzed the evolution of the SMB protocol and documented common security risks including Relay attacks.</p>
+<p><strong>Skills:</strong> Protocol Analysis · Threat Modeling</p>
 <p align="center" style="margin-top:20px;">
 <a href="#" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
