@@ -13,13 +13,15 @@ image:
 </section>
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
-I implement practical security controls that harden enterprise systems, investigate operational issues, and reduce organizational risk. As an **ISC² Certified Cybersecurity Professional (CC)** with **100+ documented technical labs and reports**, my work focuses on securing real IT environments through repeatable system administration and defensive security practices.
+I implement practical security controls that harden enterprise systems, investigate operational issues, and reduce organizational risk. As an <strong>ISC² Certified Cybersecurity Professional (CC)</strong> with <strong>100+ documented technical labs and reports</strong>, my work focuses on securing real IT environments through repeatable system administration and defensive security practices.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6;">
-  My portfolio follows a **Proof of Work methodology**, where every security concept is demonstrated through hands-on implementation and documented technical analysis. These projects include system hardening, network security configuration, incident troubleshooting, and infrastructure protection using industry-aligned security frameworks.
+My portfolio follows a <strong>Proof of Work methodology</strong>, where every security concept is demonstrated through hands-on implementation and documented technical analysis. These projects include system hardening, network security configuration, incident troubleshooting, and infrastructure protection using industry-aligned security frameworks.
+</p>
 
-The goal is simple: convert security theory into **operational controls that are measurable, defensible, and ready for real-world environments**.
+<p style="font-size:1.2em; line-height:1.6;">
+The goal is simple: convert security theory into <strong>operational controls that are measurable, defensible, and ready for real-world environments</strong>.
 </p>
 
 <section style="margin: 60px 0;">
