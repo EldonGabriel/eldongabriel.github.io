@@ -15,29 +15,20 @@ image:
 
 <p>Understanding how ownership works is critical for <strong>system security and administration</strong>. Proper access control ensures sensitive data is protected, while knowing how to correctly recover ownership helps maintain operational continuity.</p>
 
-<section>  
+<section>
 
 <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
 Related Projects
 </h2>
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(380px,1fr)); gap:25px; max-width:400px; margin:auto;">
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(380px,1fr)); gap:25px; max-width:800px; margin:auto;">
 
-<!-- Report 1 -->
-<div style="text-align:center;">
-<h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:5px;">
-Related Projects
-</h1>
-</div>
-
-<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:25px;">
-
-<div style="width:650px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
 <iframe
 src="{{ '/assets/reports/REPORT – File Ownership Recovery – v1.0.0.pdf' | relative_url }}"
 width="100%"
-height="50"
+height="580"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
