@@ -40,7 +40,7 @@ Password Security Report
 <iframe
 src="{{ '/assets/reports/REPORT  – Password Managers – v1.0.0.pdf' | relative_url }}"
 width="100%"
-height="620"
+height="680"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
