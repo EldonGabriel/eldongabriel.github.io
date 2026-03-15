@@ -21,23 +21,21 @@ After setting up the user account, I edited the registry to add the **DisallowRu
 
 Completing this exercise helped me understand not only the structure and functions of the Windows Registry but also the operational steps needed to secure endpoints in a real-world environment. By controlling what untrusted users can access, I reduced potential avenues for LOTL attacks and strengthened overall system security.
 
-
-<section>
-
 <div style="text-align:center;">
-<h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:5px;">
+<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
 Related Projects
-</h1>
+</h2>
 </div>
 
-<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:25px;">
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
-<div style="width:650px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+<!-- Project -->
+<div style="flex:0 1 500px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
 <iframe
 src="{{ '/assets/guides/GUIDE – Endpoint Security with the Windows Registry – v1.0.0.pdf' | relative_url }}"
 width="100%"
-height="580"
+height="680"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
@@ -48,5 +46,3 @@ style="border:1px solid #333; border-radius:8px;">
 </div>
 
 </div>
-
-</section>
