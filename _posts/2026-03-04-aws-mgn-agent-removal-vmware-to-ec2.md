@@ -60,7 +60,7 @@ Engineering Report: VMware to AWS EC2 Migration</h2>
 <div style="flex:0 1 500px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
 <iframe
-src="{{ '/assets/reports/IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.0.pdf' | relative_url }}"
+src="{{ '/assets/reports/IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.1.pdf' | relative_url }}"
 width="100%"
 height="680"
 style="border:1px solid #333; border-radius:8px;">
