@@ -17,9 +17,11 @@ image:
 
 <section>
 
+<div style="text-align:center;">
 <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
 Related Projects
 </h2>
+</div>
 
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
@@ -28,7 +30,7 @@ Related Projects
 <iframe
 src="{{ '/assets/reports/REPORT – File Ownership Recovery – v1.0.0.pdf' | relative_url }}"
 width="100%"
-height="580"
+height="680"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
