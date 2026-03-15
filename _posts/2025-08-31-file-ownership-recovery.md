@@ -37,7 +37,7 @@ Related Projects
 <iframe
 src="{{ '/assets/reports/REPORT – File Ownership Recovery – v1.0.0.pdf' | relative_url }}"
 width="100%"
-height="580"
+height="50"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
