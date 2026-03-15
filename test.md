@@ -25,8 +25,9 @@ These labs represent hands-on work performed in controlled environments designed
 # Windows Systems Administration
 
 Hands-on system administration tasks performed in Windows environments, focusing on system management, disk operations, service control, and operational troubleshooting.
+  
+## 🛡️ Endpoint Security Engineering & GPO Hardening
 
-🛡️ Endpoint Security Engineering & GPO Hardening
 Focuses on proactive defense, attack surface reduction, and enforcing security baselines through Group Policy.
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
@@ -69,7 +70,8 @@ Focuses on proactive defense, attack surface reduction, and enforcing security b
 
 </div>
 
-🔑 Identity & Access Management (IAM)
+## 🔑 Identity & Access Management (IAM)
+
 Focuses on protecting credentials, managing user rights, and ensuring disaster recovery of identity infrastructure.
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
@@ -112,7 +114,8 @@ Focuses on protecting credentials, managing user rights, and ensuring disaster r
 
 </div>
 
-🛠️ Infrastructure Operations & Diagnostics
+##  🛠️ Infrastructure Operations & Diagnostics
+
 Focuses on the core "keep-the-lights-on" skills including disk management, service auditing, and patch compliance.
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
@@ -146,7 +149,8 @@ Focuses on the core "keep-the-lights-on" skills including disk management, servi
 
 </div>
 
-📡 Network Protocol Security
+## 📡 Network Protocol Security
+
 Analysis and hardening of remote management and file-sharing protocols.
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px;">
