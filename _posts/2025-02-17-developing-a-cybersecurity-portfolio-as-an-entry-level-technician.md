@@ -45,6 +45,9 @@ Enrollment Verification
 
 <div style="width:380px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
+<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">
+Letter of Enrolment</h3>
+
 <iframe 
 src="{{ '/assets/certifications/mics-confirmation-of-enrolment.pdf' | relative_url }}" 
 width="100%" 
