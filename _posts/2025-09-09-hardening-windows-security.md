@@ -63,17 +63,54 @@ This blog covers two practical exercises I completed in Windows system hardening
 - Hands-on labs bridge theory with real-world cybersecurity application.
 
 
-<div style="text-align:center;">
-  <h1 style="display: inline-block; border-bottom: 3px solid #fff; padding-bottom: 5px;">Related Projects</h1>
+<section>
+
+<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
+Related Projects
+</h2>
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(500px,1fr)); gap:25px; max-width:1400px; margin:auto;">
+
+<!-- Report 1 -->
+<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+
+<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">
+GPO Hardening for Windows Application Control
+</h3>
+
+<iframe 
+src="{{ '/assets/reports/REPORT – GPO Hardening for Windows Application Control – v1.0.0.pdf' | relative_url }}" 
+width="100%" 
+height="800"
+style="border:1px solid #333; border-radius:8px;">
+</iframe>
+
+<p style="margin-top:12px; color:#aaa;">
+<strong>REPORT – GPO Hardening for Windows Application Control – v1.0.0</strong>
+</p>
+
 </div>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – GPO Hardening for Windows Application Control – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – GPO Hardening for Windows Application Control – v1.0.0</figcaption>
-  </div>
-  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – Secure Credential Entry via Group Policy Objective (GPO) – v1.0.0.pdf' | relative_url }}" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – Secure Credential Entry via GPO – v1.0.0</figcaption>
-  </div>
+<!-- Report 2 -->
+<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+
+<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">
+Secure Credential Entry via Group Policy
+</h3>
+
+<iframe 
+src="{{ '/assets/reports/REPORT – Secure Credential Entry via Group Policy Objective (GPO) – v1.0.0.pdf' | relative_url }}" 
+width="100%" 
+height="800"
+style="border:1px solid #333; border-radius:8px;">
+</iframe>
+
+<p style="margin-top:12px; color:#aaa;">
+<strong>REPORT – Secure Credential Entry via GPO – v1.0.0</strong>
+</p>
+
 </div>
+
+</div>
+
+</section>
