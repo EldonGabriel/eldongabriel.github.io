@@ -61,6 +61,10 @@ The goal is simple: convert security theory into <strong>operational controls th
   </div>
 </section>
 
+<p align="center" style="margin-top: 40px;">
+  <a href="/certifications/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">Explore Key Career Milestones & Certifications</a> 
+</p>
+
 ---
 
 <section style="text-align:center; margin: 60px 0;">
@@ -95,7 +99,6 @@ The goal is simple: convert security theory into <strong>operational controls th
 </div>
 
 <p align="center" style="margin-top: 40px;">
-  <a href="/certifications/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">Explore Key Career Milestones & Certifications</a> 
   <a href="/experience/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">See My Real-World Technical Experience</a>
 </p>
 
