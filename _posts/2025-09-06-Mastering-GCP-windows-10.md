@@ -17,16 +17,34 @@ Cloud computing is a core part of modern IT and cybersecurity. To strengthen my 
 
 This project demonstrates my ability to work with cloud infrastructure, configure secure access, and manage a Windows environment outside of traditional on-premises setups.
 
-You can watch the full lab demonstration below:
+<section>
 
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
-  <div style="width:100%; max-width:560px; text-align:center;">
-    <iframe width="100%" height="315" src="https://www.youtube.com/embed/rNI50WIqZWc" title="Windows 10 VM on GCP" frameborder="0" allowfullscreen></iframe>
-    <p><strong>Windows 10 VM on GCP</strong> – Cloud Virtualization & Admin Skills</p>
-  </div>
+<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
+Cloud Infrastructure Demonstration
+</h2>
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(350px,1fr)); gap:25px; max-width:800px; margin:auto;">
+
+<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Windows 10 VM on Google Cloud</h3>
+
+<p style="color:#ccc;">
+Deployed and administered a Windows 10 virtual machine within Google Cloud Platform, demonstrating cloud infrastructure provisioning and remote system management.
+</p>
+
+<iframe width="100%" height="220" src="https://www.youtube.com/embed/rNI50WIqZWc" title="Windows 10 VM on GCP" frameborder="0" allowfullscreen></iframe>
+
+<p style="margin-top:10px; color:#aaa;">
+<strong>Focus:</strong> Cloud Virtualization • Infrastructure Provisioning • Remote Administration
+</p>
+
 </div>
 
-<div style="text-align:center;">
+</div>
+
+</section>
+
+  
   <h2 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Lab Objectives</h2>
 </div>
 
