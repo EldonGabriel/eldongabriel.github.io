@@ -60,12 +60,30 @@ Reliable remote access is essential in enterprise environments, but security res
 - Maintaining detailed documentation and stepwise validation ensures reproducible results and professional reporting  
 - Hands-on troubleshooting reinforces critical problem-solving skills for cybersecurity operations  
 
----
 
-See my report below for a complete technical summary and validation of this RDP lab exercise:
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
-  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;"> 
-    <iframe src="{{ 'assets/reports/REPORT – Layered Access Control Bypass & Cross-Platform Network Stabilization – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe> 
-    <figcaption>REPORT – Layered Access Control Bypass & Cross-Platform Network Stabilization – v1.0.0.pdf</figcaption> 
-  </div> 
+
+<div style="text-align:center;">
+<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
+Related Projects
+</h2>
+</div>
+
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+
+<!-- Project -->
+<div style="flex:0 1 500px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+
+<iframe
+src="{{ '/assets/reports/REPORT – Layered Access Control Bypass & Cross-Platform Network Stabilization – v1.0.0.pdf' | relative_url }}"
+width="100%"
+height="680"
+style="border:1px solid #333; border-radius:8px;">
+</iframe>
+
+<p style="margin-top:12px; color:#aaa;">
+<strong>REPORT – Layered Access Control Bypass & Cross-Platform Network Stabilization – v1.0.0</strong>
+</p>
+
+</div>
+
 </div>
