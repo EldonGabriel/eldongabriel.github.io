@@ -9,7 +9,7 @@ image:
   thumbnail: "/assets/images/smb.png"
 ---
 
-<p>As a Cybersecurity Technician, I focus on building practical skills that can be directly applied to securing systems. I configured Windows Firewall to create a custom rule blocking Server Message Block (SMB) access, demonstrating how host-based controls can reduce exposure to network-level attacks. This hands-on work ties into my report, which examines SMB’s role in file sharing, its common use cases, and the security challenges it introduces in modern environments.</p>
+<p>As a Security Systems Specialist, I focus on building practical skills that can be directly applied to securing systems. I configured Windows Firewall to create a custom rule blocking Server Message Block (SMB) access, demonstrating how host-based controls can reduce exposure to network-level attacks. This hands-on work ties into my report, which examines SMB’s role in file sharing, its common use cases, and the security challenges it introduces in modern environments.</p>
 
 <center><h3>Foundational Knowledge</h3></center>
 
