@@ -47,7 +47,7 @@ Deployed and administered a Windows 10 virtual machine within Google Cloud Platf
 ---
   
   <h2 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Lab Objectives</h2>
-</div>
+ 
 
 The main goals of this lab were:
 
