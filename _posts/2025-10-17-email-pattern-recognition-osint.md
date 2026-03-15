@@ -59,12 +59,28 @@ The exercise highlights real-world implications:
 - Understanding naming conventions helps anticipate potential data exposure  
 - Portfolio documentation reinforces both practical skills and professional communication  
 
----
+<div style="text-align:center;">
+<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
+Related Projects
+</h2>
+</div>
 
-See my portfolio report for a detailed technical summary and methodology section.
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
-  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;"> 
-    <iframe src="{{ 'assets/reports/REPORT – OSINT Email Enumeration & Validation – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe> 
-    <figcaption>REPORT – OSINT Email Enumeration & Validation – v1.0.0</figcaption> 
-  </div> 
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+
+<!-- Project -->
+<div style="flex:0 1 500px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+
+<iframe
+src="{{ '/assets/reports/REPORT – OSINT Email Enumeration & Validation – v1.0.0.pdf' | relative_url }}"
+width="100%"
+height="680"
+style="border:1px solid #333; border-radius:8px;">
+</iframe>
+
+<p style="margin-top:12px; color:#aaa;">
+<strong>REPORT – OSINT Email Enumeration & Validation – v1.0.0</strong>
+</p>
+
+</div>
+
 </div>
