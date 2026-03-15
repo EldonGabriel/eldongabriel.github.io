@@ -6,68 +6,76 @@ image:
   path: /assets/images/banner.png
 ---
 
-<section>
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:30px;">
 
-<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">Windows Administration Demonstrations</h2>
-
-<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap:25px;">
-
-<!-- 1 -->
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
-<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Windows Disk Cleanup</h3>
-<p style="color:#ccc;">Freed disk space by removing temporary files and unnecessary system data to improve performance.</p>
-
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/HeSARWF3F58" frameborder="0" allowfullscreen></iframe>
+<div style="background: rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>Active Directory Bare Metal Recovery</h4>
+<p><strong>Focus:</strong> Disaster Recovery</p>
+<p>Performed a full system backup and restoration of an Active Directory Domain Controller using Bare Metal Recovery procedures to simulate enterprise disaster recovery scenarios.</p>
+<p><strong>Skills:</strong> AD Administration · System Backup · Recovery Operations</p>
 </div>
 
-<!-- 2 -->
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
-<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Defragment & Optimize Drives</h3>
-<p style="color:#ccc;">Optimized both HDD and SSD storage to improve disk efficiency and system responsiveness.</p>
-
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/G7riXJI8w4U" frameborder="0" allowfullscreen></iframe>
+<div style="background: rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>Windows Local GPO Security Policies</h4>
+<p><strong>Focus:</strong> System Hardening</p>
+<p>Implemented Local Group Policy configurations to enforce security baselines and strengthen workstation security posture.</p>
+<p><strong>Skills:</strong> Group Policy · Windows Security Configuration</p>
 </div>
 
-<!-- 3 -->
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
-<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Task Scheduler</h3>
-<p style="color:#ccc;">Created automated system tasks to reduce manual maintenance and improve operational efficiency.</p>
-
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/WZtkpKxr9xE" frameborder="0" allowfullscreen></iframe>
+<div style="background: rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>SMB Credential Theft Protection</h4>
+<p><strong>Focus:</strong> Network Security</p>
+<p>Hardened SMB communication to mitigate credential theft risks through protocol security controls and access restrictions.</p>
+<p><strong>Skills:</strong> SMB Hardening · Credential Protection</p>
 </div>
 
-<!-- 4 -->
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
-<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Windows Defender Firewall</h3>
-<p style="color:#ccc;">Configured firewall rules, blocked unauthorized traffic, and validated connectivity controls.</p>
-
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/z8nXF2OleGo" frameborder="0" allowfullscreen></iframe>
+<div style="background: rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>WinRM Secure Configuration</h4>
+<p><strong>Focus:</strong> Remote Administration Security</p>
+<p>Configured and validated secure Windows Remote Management policies to support controlled remote administration while reducing attack surface.</p>
+<p><strong>Skills:</strong> WinRM · Secure Remote Management</p>
 </div>
 
-<!-- 5 -->
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
-<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Registry Editor</h3>
-<p style="color:#ccc;">Performed safe registry modifications including backup and restoration of configuration keys.</p>
-
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/g9A2faHgWWs" frameborder="0" allowfullscreen></iframe>
+<div style="background: rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>Windows User Rights Hardening</h4>
+<p><strong>Focus:</strong> Privilege Management</p>
+<p>Applied Local Group Policy settings to restrict administrative privileges and enforce least privilege access across system accounts.</p>
+<p><strong>Skills:</strong> Privilege Management · Security Policy Enforcement</p>
 </div>
 
-<!-- 6 -->
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
-<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Event Viewer</h3>
-<p style="color:#ccc;">Analyzed Windows event logs to identify warnings, errors, and system troubleshooting indicators.</p>
-
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/rw7QL5BgQgI" frameborder="0" allowfullscreen></iframe>
+<div style="background: rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>Session Lock Enforcement</h4>
+<p><strong>Focus:</strong> Workstation Security</p>
+<p>Configured Local Group Policy settings to enforce automatic session locking to reduce the risk of unauthorized workstation access.</p>
+<p><strong>Skills:</strong> Endpoint Hardening · Policy Enforcement</p>
 </div>
 
-<!-- 7 -->
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
-<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">System Information</h3>
-<p style="color:#ccc;">Collected and exported system configuration data for auditing and troubleshooting purposes.</p>
+<div style="background: rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>Windows Disk Management via CLI</h4>
+<p><strong>Focus:</strong> System Maintenance</p>
+<p>Used command-line utilities including <code>chkdsk</code> and <code>fsutil</code> to diagnose disk integrity issues and perform filesystem repairs.</p>
+<p><strong>Skills:</strong> Disk Diagnostics · CLI Administration</p>
+</div>
 
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/-AfFdEs_sTY" frameborder="0" allowfullscreen></iframe>
+<div style="background: rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>Windows Service Management</h4>
+<p><strong>Focus:</strong> System Operations</p>
+<p>Investigated and controlled Windows services to maintain system stability and troubleshoot operational issues.</p>
+<p><strong>Skills:</strong> Service Control · System Troubleshooting</p>
+</div>
+
+<div style="background: rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>Windows Event Log Analysis</h4>
+<p><strong>Focus:</strong> Diagnostics & Monitoring</p>
+<p>Analyzed Windows system and security logs to identify operational issues and potential indicators of compromise.</p>
+<p><strong>Skills:</strong> Event Viewer · Incident Diagnostics</p>
+</div>
+
+<div style="background: rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>File Ownership Recovery</h4>
+<p><strong>Focus:</strong> Access Control</p>
+<p>Recovered file ownership and restored proper access permissions using Windows security tools and administrative controls.</p>
+<p><strong>Skills:</strong> NTFS Permissions · Access Control Recovery</p>
 </div>
 
 </div>
-
-</section>
