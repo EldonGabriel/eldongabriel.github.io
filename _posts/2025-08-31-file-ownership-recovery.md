@@ -16,7 +16,9 @@ image:
 <p>Understanding how ownership works is critical for <strong>system security and administration</strong>. Proper access control ensures sensitive data is protected, while knowing how to correctly recover ownership helps maintain operational continuity.</p>
 
 
- <div style="text-align:center;">
+<section>
+
+<div style="text-align:center;">
 <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:5px;">
 Related Projects
 </h1>
@@ -29,7 +31,7 @@ Related Projects
 <iframe
 src="{{ '/assets/reports/REPORT – File Ownership Recovery – v1.0.0.pdf' | relative_url }}"
 width="100%"
-height="680"
+height="580"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
@@ -38,5 +40,9 @@ style="border:1px solid #333; border-radius:8px;">
 </p>
 
 </div>
+
+</div>
+
+</section>
 
 </div>
