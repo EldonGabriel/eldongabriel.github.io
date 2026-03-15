@@ -62,7 +62,7 @@ style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
 <p style="margin-top:12px; color:#aaa;">
-<strong>REPORT – Rubric Evaluation Exercises – v1.0.0</strong>
+<strong>REPORT – Prompt & Rubric Evaluation Exercises – v1.0.0</strong>
 </p>
 
 </div>
