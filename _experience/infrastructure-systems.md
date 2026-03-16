@@ -21,10 +21,10 @@ These labs represent hands-on work performed in controlled environments designed
 | Category | Labs |
 |--------|------|
 | Windows Systems Administration | 15 |
-| Linux Systems Administration | 8 |
+| Linux Systems Administration | 6 |
 | Virtualization & Infrastructure | 3 |
-| Video Demonstration Labs | 38 |
-| **Total Infrastructure Labs Documented** | **64** |
+| Video Demonstration Labs | 47 |
+| **Total Infrastructure Labs Documented** | **71** |
 
  
 
@@ -275,31 +275,31 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>VIDEO – Install/Configure VMware ESXi with vSphere – v1.0.0</h5>
+<h5>LAB – VMware ESXi and vSphere VM Deployment and Network Connectivity Test – v1.0.0</h5>
 <p>Hands-on setup of enterprise hypervisor environments using ESXi and vSphere management.</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>VIDEO – Create a VM Snapshot for System Recovery – v1.0.0</h5>
+<h5>LAB – Virtual Machine Snapshot Creation for System Rollback – v1.0.0</h5>
 <p>Demonstrating the use of snapshots to create point-in-time recovery marks before system changes.</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>VIDEO – VMware Lab Setup: Create a Virtual Machine – v1.0.0</h5>
+<h5>LAB – VMware Fusion VM Deployment and Inter-VM Network Connectivity – v1.0.0</h5>
 <p>Standardized workflow for provisioning new virtual hardware within a VMware environment.</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>VIDEO – Install Windows Subsystem for Linux (WSL) – v1.0.0</h5>
+<h5>LAB – Windows Subsystem for Linux Installation and Configuration – v1.0.0</h5>
 <p>Configuring WSL to enable a native Linux environment directly within Windows.</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>VIDEO – Build a Two-VM Cybersecurity Lab Environment – v1.0.0</h5>
+<h5>LAB – Two-VM Virtualized Cybersecurity Lab Environment – v1.0.0</h5>
 <p>Architecting a secure, isolated lab with a victim and attacker machine for security testing.</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
@@ -311,19 +311,19 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>VIDEO – AWS Lab Setup: Create a Virtual Machine – v1.0.0</h5>
-<p>Provisioning EC2 instances within AWS, including Security Group and Key Pair configuration.</p>
+<h5>LAB – AWS EC2 Virtual Machine Deployment and Secure SSH Access – v1.0.0</h5>
+<p>Provisioning EC2 instances within AWS, including Security Group and remote access validation.</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>VIDEO – GCP Lab Setup: Create a Virtual Machine – v1.0.0</h5>
+<h5>LAB – GCP Compute Engine Virtual Machine Deployment and SSH Access – v1.0.0</h5>
 <p>Deploying Compute Engine instances on Google Cloud Platform with VPC integration.</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>VIDEO – Windows 10 VM on Google Cloud Platform (GCP) – v1.0.0</h5>
+<h5>LAB – Windows 10 VM on Google Cloud Platform (GCP) - v1.0.0</h5>
 <p>Advanced deployment of a Windows 10 instance on GCP for remote desktop and management tasks.</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/Mastering-GCP-windows-10/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Watch Video</a></p>
 </div>
@@ -335,38 +335,61 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>VIDEO – Linux Firewall Configuration with Shorewall – v1.0.0</h5>
+<h5>LAB – Linux Command-Line Exploration and Documentation Lookup – v1.0.0</h5>
+<p>Hands-on exploration of Linux command documentation using built-in tools such as man and cat to understand command syntax and options.</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/FR4KFGZfAoE" frameborder="0" allowfullscreen></iframe>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">View Lab</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Linux User and Group Management – v1.0.0</h5>
+<p>Demonstration of Linux account lifecycle tasks including user creation, group assignment, ownership changes, and account removal.</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/uOdoAZIpx1M" frameborder="0" allowfullscreen></iframe>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">View Lab</span></p>
+</div> 
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Linux File Permission and Directory Access Control – v1.0.0</h5>
+<p>Practical demonstration of managing Linux file permissions and securing directories through user and group access control.</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/5qKJk-fID3g" frameborder="0" allowfullscreen></iframe>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">View Lab</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Linux File and Directory Management – v1.0.0</h5>
+<p>Hands-on file system management within a Linux environment, including directory organization and command-line file operations.</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/lhkrFbimQKg" frameborder="0" allowfullscreen></iframe>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">View Lab</span></p>
+</div> 
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Linux Log and Data Filtering with grep – v1.0.0</h5>
+<p>Demonstration of log analysis techniques using grep to filter server logs and extract relevant user and system data.</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/lUVLujgD4b4" frameborder="0" allowfullscreen></iframe>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">View Lab</span></p>
+</div> 
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Linux Firewall Configuration with Shorewall – v1.0.0</h5>
 <p>Configuring Shorewall to manage Netfilter and secure network traffic on Linux servers.</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>VIDEO – Linux Performance Monitoring with SAR – v1.0.0</h5>
+<h5>LAB – Linux Performance Monitoring with SAR (sysstat) – v1.0.0</h5>
 <p>Real-time and historical performance data collection using the System Activity Reporter.</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>VIDEO – Linux System Administration with Cockpit – v1.0.0</h5>
+<h5>LAB – Linux System Administration with Cockpit – v1.0.0</h5>
 <p>Using the Cockpit web console for graphical server management and system health monitoring.</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>VIDEO – Secure Linux Administration with Webmin – v1.0.0</h5>
+<h5>LAB – Secure Linux Administration with Webmin – v1.0.0</h5>
 <p>Centralized administration of users, services, and configs through the Webmin portal.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>VIDEO – Essential Linux Commands – v1.0.0</h5>
-<p>A comprehensive walkthrough of core CLI utilities for everyday administration tasks.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>VIDEO – Linux User Management Basics – v1.0.0</h5>
-<p>Demonstration of user creation, modification, and group management in a CLI environment.</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
