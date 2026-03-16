@@ -14,64 +14,146 @@ image:
 
 ### Security Operations Lab Overview
 
+Security operations focuses on protecting systems, monitoring infrastructure, and responding to operational security risks. The labs and documentation in this section demonstrate hands-on experience implementing system hardening techniques, deploying secure remote access solutions, and analyzing system activity to maintain a secure operating environment.
+
+These labs demonstrate operational security practices including system hardening, VPN deployment, backup and recovery planning, and monitoring system activity through logs and operational security tools.
+
 | Category | Labs |
 |--------|------|
 | System Security & Hardening | 7 |
 | Security Monitoring & Log Analysis | 4 |
 | **Total Security Operations Labs Documented** | **11** |
 
+---
+
+### Security Operations Lab Overview
+
 Security operations focuses on protecting systems, monitoring infrastructure, and responding to operational security risks. The labs and documentation in this section demonstrate hands-on experience implementing system hardening techniques, deploying secure remote access solutions, and analyzing system activity to maintain a secure operating environment.
 
 These labs demonstrate operational security practices including system hardening, VPN deployment, backup and recovery planning, and monitoring system activity through logs and operational security tools.
 
+| Category | Labs |
+|--------|------|
+| System Security & Hardening | 7 |
+| Security Monitoring & Log Analysis | 4 |
+| **Total Security Operations Labs Documented** | **11** |
+
 ---
 
-## System Security & Hardening
+# System Security & Hardening
 
 Hands-on configuration of system security controls designed to protect infrastructure, enforce access restrictions, and support disaster recovery capabilities.
 
-**Lab Index**
+## Hardening & Defense Portfolio
 
-- **SecureStack Solutions – Backup, Recovery, and Restoration (BRR) Plan – v1.0**  
-  Disaster recovery planning document outlining procedures for system backup, restoration, and operational continuity.
+### 🛡️ Perimeter Defense & Secure Connectivity
 
-- **REPORT – Perimeter Defense: Firewall Fundamentals – v1.0.0**  
-  Overview of firewall technologies and their role in enforcing network perimeter security.
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
-- **REPORT – OpenVPN Remote Access VPN Deployment and Validation – v1.0.0**  
-  Deployment and validation of an OpenVPN remote access solution to provide secure connectivity for remote systems.
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Perimeter Defense: Firewall Fundamentals – v.1.0.0</h5>
+<p>Overview of firewall technologies and their role in enforcing network perimeter security.</p>
+<p><strong>Skills:</strong> Network Security · Perimeter Defense · Firewall Logic</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
 
-- **GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0**  
-  Demonstrates applying Windows access permissions and user rights to restrict unauthorized access to sensitive directories.
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – OpenVPN Remote Access VPN Deployment and Validation – v.1.0.0</h5>
+<p>Deployment and validation of an OpenVPN remote access solution to provide secure connectivity for remote systems.</p>
+<p><strong>Skills:</strong> VPN Deployment · Encryption · Secure Remote Access</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
 
-- **GUIDE – Domain Controller Network Configuration – v1.0.0**
-  Configuration guidance for securely integrating a Windows domain controller into a segmented enterprise network environment.
+</div>
 
-- **GUIDE – Monitoring Windows Processes with Procmon – v1.0.1**  
-  Demonstrates using Microsoft Process Monitor to observe system activity and analyze running processes for troubleshooting and security monitoring.
+### 🔐 Endpoint Hardening & Access Control
 
-- **GUIDE – Endpoint Security with the Windows Registry – v1.0.0**  
-  Demonstrates using Windows Registry configuration to restrict system utilities and strengthen endpoint security controls.
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – SecureStack Solutions – Backup, Recovery, and Restoration (BRR) Plan – v.1.0.0</h5>
+<p>Disaster recovery planning document outlining procedures for system backup, restoration, and operational continuity.</p>
+<p><strong>Skills:</strong> DR Planning · Business Continuity · Risk Mitigation</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>GUIDE – Using Access Permissions and Rights to Secure a Folder – v.1.0.0</h5>
+<p>Applying Windows access permissions and user rights to restrict unauthorized access to sensitive directories.</p>
+<p><strong>Skills:</strong> NTFS Permissions · Access Control · Least Privilege</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>GUIDE – Domain Controller Network Configuration – v.1.0.0</h5>
+<p>Configuration guidance for securely integrating a Windows domain controller into a segmented enterprise network environment.</p>
+<p><strong>Skills:</strong> AD Networking · Infrastructure Hardening · Secure Config</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>GUIDE – Endpoint Security with the Windows Registry – v.1.0.0</h5>
+<p>Demonstrates using Windows Registry configuration to restrict system utilities and strengthen endpoint security controls.</p>
+<p><strong>Skills:</strong> Registry Hardening · Threat Surface Reduction · OS Security</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+</div>
 
 ---
 
-## Security Monitoring & Log Analysis
+# Security Monitoring & Log Analysis
 
 Demonstrations and technical walkthroughs focused on observing system behavior, validating security controls, and identifying operational issues through monitoring tools and recovery techniques.
 
-**Lab Index**
+## Monitoring & Recovery Portfolio
 
-- **VIDEO – Real-World Server Migration with VMware to AWS EC2 Using AWS Application Migration Service**  
-  Demonstrates migrating Windows systems from a VMware environment to AWS EC2 using AWS Application Migration Service.
+### 👁️ System Analysis & Observability
 
-- **VIDEO – Use System Restore on Windows to Revert the Machine to an Earlier State**  
-  Demonstrates using Windows System Restore to recover a virtual machine after system changes or software failures.
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
-- **VIDEO – Active Directory Backup and Restore Lab | Windows Server Backup**  
-  Demonstrates performing backup and recovery operations for an Active Directory environment using Windows Server Backup.
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>GUIDE – Monitoring Windows Processes with Procmon – v.1.0.1</h5>
+<p>Demonstrates using Microsoft Process Monitor to observe system activity and analyze running processes for troubleshooting and security monitoring.</p>
+<p><strong>Skills:</strong> Security Monitoring · Behavioral Analysis · Sysinternals</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
 
-- **VIDEO – Install Duplicati, Create Backup, and Recover Deleted Files (CLI Backup Lab)**  
-  Demonstrates installing and configuring the Duplicati command-line backup tool to create backups and restore deleted files.
+</div>
+
+### 💾 Backup, Recovery & Migration
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Active Directory Backup and Restore with Windows Server Backup – v.1.0.0</h5>
+<p>Demonstrates performing backup and recovery operations for an Active Directory environment using Windows Server Backup.</p>
+<p><strong>Skills:</strong> AD Administration · Disaster Recovery · Server Backup</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – VMware to AWS EC2 Migration Using AWS MGN – v.1.0.0</h5>
+<p>Demonstrates migrating Windows systems from a VMware environment to AWS EC2 using AWS Application Migration Service.</p>
+<p><strong>Skills:</strong> Cloud Migration · AWS MGN · Hybrid Infrastructure</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Restoring Windows System State with System Restore – v.1.0.0</h5>
+<p>Demonstrates using Windows System Restore to recover a virtual machine after system changes or software failures.</p>
+<p><strong>Skills:</strong> OS Recovery · Fault Tolerance · VM Management</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Backup and File Recovery with Duplicati CLI – v.1.0.0</h5>
+<p>Demonstrates installing and configuring the Duplicati command-line backup tool to create backups and restore deleted files.</p>
+<p><strong>Skills:</strong> CLI Backup · Encrypted Storage · Data Recovery</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+</div>
 
 ---
 
