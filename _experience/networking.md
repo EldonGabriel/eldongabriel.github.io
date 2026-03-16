@@ -65,7 +65,7 @@ Core networking concepts, protocol behavior, and diagnostic techniques used to u
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – OSI vs TCP/IP: A Security-Centric View</h5>
+<h5>REPORT – OSI vs TCP/IP: A Security-Centric View – v1.0.0</h5>
 <p>Analysis of networking models, their cybersecurity implications, and how each layer contributes to defense strategies.</p>
 <p><strong>Skills:</strong> Architecture Analysis · Security Layer Mapping</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
@@ -102,7 +102,7 @@ Designing and analyzing network topologies with a focus on segmentation, secure 
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Network Attack Analysis</h5>
+<h5>REPORT – Network Attack Analysis – v1.0.0</h5>
 <p>Examination of common network-based attack techniques and the infrastructure weaknesses they exploit.</p>
 <p><strong>Skills:</strong> Threat Analysis · Defensive Security</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
@@ -116,7 +116,7 @@ Designing and analyzing network topologies with a focus on segmentation, secure 
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – Enterprise IPsec VPN Troubleshooting Guide</h5>
+<h5>GUIDE – Enterprise IPsec VPN Troubleshooting Guide – v1.0.0</h5>
 <p>Structured methodology for diagnosing and resolving IPsec VPN connectivity issues in enterprise environments.</p>
 <p><strong>Skills:</strong> VPN Diagnostics · IPsec Analysis · Troubleshooting</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
