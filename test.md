@@ -76,7 +76,7 @@ Hands-on system administration tasks performed in Windows environments, focusing
 
 </div>
 
----
+
 
 ### 🔑 Identity & Access Management (IAM)
 
@@ -126,7 +126,7 @@ Hands-on system administration tasks performed in Windows environments, focusing
 
 </div>
 
----
+ 
 
 ### 🛠️ Infrastructure Operations & Diagnostics
 
@@ -138,7 +138,7 @@ Hands-on system administration tasks performed in Windows environments, focusing
 </div>
 
 
----
+ 
 
 ### 📡 Network Protocol Security
 
@@ -162,7 +162,7 @@ Hands-on system administration tasks performed in Windows environments, focusing
 </div>
 
 
----
+ 
  
 ### 🐧 Linux Systems Administration
 
@@ -224,8 +224,7 @@ Available Upon Request
 
 </div>
 
----
- 
+  
 ### 📑 Linux Administration Guides
 
 Practical guides demonstrating secure administration, monitoring, and management of Linux systems in server environments.
@@ -318,8 +317,7 @@ Available Upon Request
 
 </div>
 
---- 
-
+ 
 ### 🌐 Networking & Infrastructure
 
 Focuses on network architecture, subnetting logic, and the virtualization frameworks that support secure enterprise environments.
@@ -377,8 +375,7 @@ Available Upon Request
 
 </div>
  
----
- 
+  
 ### 📑 GUIDES
 
 Technical runbooks and procedural guides for cloud migration and infrastructure deployment.
@@ -397,7 +394,7 @@ Technical runbooks and procedural guides for cloud migration and infrastructure 
 
 </div>
  
----
+ 
  
 ## Video Demonstrations
 
@@ -444,7 +441,7 @@ The following videos demonstrate practical system administration, virtualization
 
 </div>
 
----
+ 
    
 ### ☁️ Cloud Infrastructure
 
@@ -473,7 +470,7 @@ The following videos demonstrate practical system administration, virtualization
 
 </div>
 
----
+ 
    
 ### 🐧 Linux Administration & Security
 
@@ -523,7 +520,7 @@ The following videos demonstrate practical system administration, virtualization
 
 </div>
 
----
+ 
  
 ### 🪟 Windows System Administration
 
@@ -559,7 +556,7 @@ The following videos demonstrate practical system administration, virtualization
 
 </div>
 
----
+ 
 
 ### 🛡️ Windows Administration & Hardening (GPO)
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px;">
@@ -594,7 +591,7 @@ The following videos demonstrate practical system administration, virtualization
 
 </div>
 
----
+ 
 
 ### ⚙️ Managed Operations & Automation
 
