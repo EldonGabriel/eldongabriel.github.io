@@ -7,11 +7,9 @@ collection_item: true
 order: 7
 permalink: /identity-security/
 image:
-  path: /assets/images/headers/is.png
-  thumbnail: /assets/images/headers/is.png
+  path: /assets/images/headers/idsec.png
+  thumbnail: /assets/images/headers/idsec.png
   caption: "Identity & Access Management Labs"
----
-
 ---
 
 ### Identity Security Lab Overview
@@ -20,13 +18,13 @@ Identity security focuses on protecting user identities, enforcing authenticatio
 
 The labs and guides in this section demonstrate hands-on experience implementing identity and access management (IAM) controls, enforcing least-privilege permissions, and securing administrative configurations within Windows environments.
 
-These exercises highlight how system administrators and security professionals manage permissions, monitor identity-related system behavior, and implement endpoint protections that prevent unauthorized changes or privilege misuse.
+These exercises demonstrate how administrators implement identity security controls, enforce least-privilege permissions, and monitor system activity to detect unauthorized access or configuration changes.
 
 | Category | Labs |
 |--------|------|
-| Identity & Access Management | 3 |
-| Endpoint Monitoring & Security | 1 |
-| **Total Identity Security Labs Documented** | **4** |
+| Identity & Access Management | 6 |
+| Monitoring & Security Analysis | 1 |
+| **Total Identity Security Labs Documented** | **7** |
 
 ---
 
@@ -52,23 +50,40 @@ Available Upon Request
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – Endpoint Security with the Windows Registry – v1.0.0</h5>
-<p>Demonstrates how security configurations can be enforced through the Windows Registry to strengthen endpoint protection and restrict unauthorized system changes.</p>
-<p><strong>Skills:</strong> Registry Security Configuration · Endpoint Hardening · Policy Enforcement</p>
-<p align="center" style="margin-top:20px;">
-<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Available Upon Request
-</span>
-</p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Password Managers – v1.0.0</h5>
 <p>Technical analysis of password manager technologies and their role in protecting user credentials through encrypted storage and zero-knowledge security models.</p>
 <p><strong>Skills:</strong> Identity Security · Credential Management · Authentication Controls</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/Password-Managers-Secure-Login/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Secure Credential Entry via GPO – v1.0.0</h5>
+<p>Configured secure credential entry protections through Windows security policy controls.</p>
+<p><strong>Skills:</strong> Credential Protection · GPO Security</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-windows-security/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Hardening Windows User Rights via Local Group Policy – v1.0.0</h5>
+<p>Restricted administrative privileges and enforced least-privilege access policies via GPO.</p>
+<p><strong>Skills:</strong> Access Control · Privilege Hardening</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/deploy-user-rights-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Deploying Strict Password & Account Lockout GPO – v1.0.0</h5>
+<p>Implemented enterprise-grade password complexity and lockout thresholds to mitigate brute-force attempts.</p>
+<p><strong>Skills:</strong> Identity Security · Password Policy</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-win10-password-account-lockout-policies/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – File Ownership Recovery – v1.0.0</h5>
+<p>Recovered NTFS file ownership and restored proper permission controls on secured systems.</p>
+<p><strong>Skills:</strong> NTFS Permissions · Access Recovery</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/file-ownership-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 </div>
