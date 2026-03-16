@@ -37,7 +37,7 @@ Core networking concepts, protocol behavior, and diagnostic techniques used to u
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>REPORT – IP Subnetting Fundamentals</h4>
+<h5>REPORT – IP Subnetting Fundamentals – v.1.0.0</h5>
 <p>Practical explanation of subnetting used to divide IP networks into logical segments for routing and security.</p>
 <p><strong>Skills:</strong> Subnet Design · IP Addressing</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/refreshing-my-subnetting-skills/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
@@ -47,8 +47,8 @@ Core networking concepts, protocol behavior, and diagnostic techniques used to u
 <h4>REPORT – Kerberos Authentication Protocol</h4>
 <p>Analysis of the Kerberos protocol and its role in secure identity verification within enterprise networks.</p>
 <p><strong>Skills:</strong> Authentication Protocols · Identity Security</p>
-[<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/kerberos-explained-turning-complex-security-into-clear-insights/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
-</div>]
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/kerberos-explained-turning-complex-security-into-clear-insights/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>]\
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h4>REPORT – Network Troubleshooting Framework</h4>
