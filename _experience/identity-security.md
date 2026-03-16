@@ -26,6 +26,10 @@ Identity security focuses on controlling how users authenticate to systems and h
 
 These exercises emphasize enforcing least-privilege access, monitoring system behavior, and protecting administrative control mechanisms used to manage users and permissions.
 
+| Category | Labs |
+|--------|------|
+| Identity & Access Management | 2 |
+| **Total Identity Security Labs Documented** | **2** |
 ---
 
 ## Identity & Access Management
