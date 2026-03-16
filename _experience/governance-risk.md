@@ -27,7 +27,7 @@ These documents demonstrate familiarity with structured risk assessment methodol
 
 ---
 
-# Security Governance: Templates & Resources
+# Governance & Policy Documentation
 
 Applied research and documentation focused on security governance frameworks and risk assessment methodologies used within enterprise cybersecurity programs.
 
@@ -39,7 +39,7 @@ Applied research and documentation focused on security governance frameworks and
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>GUIDE – Risk Assessment (NIST SP 800-53: AC-6) – v.1.0.1</h5>
-<p>Documentation analyzing the AC-6 control and demonstrating how least privilege principles are evaluated during risk assessments.</p>
+<p>Analysis of NIST SP 800-53 control AC-6 demonstrating how least-privilege principles are evaluated and validated during organizational risk assessments.</p>
 <p><strong>Skills:</strong> NIST SP 800-53 · Risk Assessment · Least Privilege</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
@@ -54,7 +54,7 @@ Applied research and documentation focused on security governance frameworks and
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>TEMPLATE – Corporate BYOD Policy & Agreement – v.1.0.0</h5>
 <p>A NIST-aligned policy framework to secure personal device usage within corporate networks, including employee legal agreements.</p>
-<p><strong>Skills:</strong> Policy Writing · NIST Alignment · Compliance</p>
+<p><strong>Skills:</strong> Policy Writing · Security Governance · NIST Alignment</p>
 <p align="center" style="margin-top:20px;"><a href="https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Download Template</a></p>
 </div>
 
@@ -73,7 +73,7 @@ Applied research and documentation focused on security governance frameworks and
 
 Research-oriented documentation examining cybersecurity frameworks, threat models, and strategic security planning concepts.
 
-## Strategic Research Portfolio
+## Security Strategy & Risk Research
 
 ### 📈 Enterprise Strategy & Threat Analysis
 
