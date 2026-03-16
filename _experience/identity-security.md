@@ -24,9 +24,9 @@ These exercises highlight how system administrators and security professionals m
 
 | Category | Labs |
 |--------|------|
-| Identity & Access Management | 2 |
+| Identity & Access Management | 3 |
 | Endpoint Monitoring & Security | 1 |
-| **Total Identity Security Labs Documented** | **3** |
+| **Total Identity Security Labs Documented** | **4** |
 
 ---
 
@@ -62,6 +62,15 @@ Available Upon Request
 </p>
 </div>
 
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Password Managers – v1.0.0</h5>
+<p>Technical analysis of password manager technologies and their role in protecting user credentials through encrypted storage and zero-knowledge security models.</p>
+<p><strong>Skills:</strong> Identity Security · Credential Management · Authentication Controls</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/Password-Managers-Secure-Login/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
 </div>
 
 ---
@@ -78,11 +87,7 @@ Monitoring system activity is an important part of identity security. By observi
 <h5>GUIDE – Monitoring Windows Processes with Procmon – v1.0.1</h5>
 <p>Demonstrates using Microsoft Process Monitor to observe Windows system activity, analyze process behavior, and investigate interactions with the file system and registry.</p>
 <p><strong>Skills:</strong> Security Monitoring · Process Analysis · Sysinternals Diagnostics</p>
-<p align="center" style="margin-top:20px;">
-<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Available Upon Request
-</span>
-</p>
+<a href="https://eldongabriel.github.io/procmon-incident-response/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </div>
 
 </div>
