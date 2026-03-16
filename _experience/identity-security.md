@@ -23,8 +23,7 @@ These exercises demonstrate how administrators implement identity security contr
 | Category | Labs |
 |--------|------|
 | Identity & Access Management | 6 |
-| Monitoring & Security Analysis | 1 |
-| **Total Identity Security Labs Documented** | **7** |
+| **Total Identity Security Labs Documented** | **6** |
 
 ---
 
@@ -84,25 +83,6 @@ Available Upon Request
 <p>Recovered NTFS file ownership and restored proper permission controls on secured systems.</p>
 <p><strong>Skills:</strong> NTFS Permissions · Access Recovery</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/file-ownership-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
-</div>
-
-</div>
-
----
-
-# Identity Monitoring & Security Analysis
-
-Monitoring system activity is an important part of identity security. By observing how processes interact with files, registry keys, and system resources, administrators can detect abnormal behavior and investigate potential security issues.
-
-### 🔎 Process Monitoring & System Activity Analysis
-
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – Monitoring Windows Processes with Procmon – v1.0.1</h5>
-<p>Demonstrates using Microsoft Process Monitor to observe Windows system activity, analyze process behavior, and investigate interactions with the file system and registry.</p>
-<p><strong>Skills:</strong> Security Monitoring · Process Analysis · Sysinternals Diagnostics</p>
-<a href="https://eldongabriel.github.io/procmon-incident-response/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </div>
 
 </div>
