@@ -22,9 +22,9 @@ These labs represent hands-on work performed in controlled environments designed
 |--------|------|
 | Windows Systems Administration | 15 |
 | Linux Systems Administration | 6 |
-| Virtualization & Infrastructure | 3 |
+| Virtualization & Infrastructure | 5 |
 | Video Demonstration Labs | 47 |
-| **Total Infrastructure Labs Documented** | **71** |
+| **Total Infrastructure Labs Documented** | **73** |
 
  
 
