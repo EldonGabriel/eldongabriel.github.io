@@ -325,7 +325,7 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Windows 10 VM on Google Cloud Platform (GCP) - v1.0.0</h5>
 <p>Advanced deployment of a Windows 10 instance on GCP for remote desktop and management tasks.</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/Mastering-GCP-windows-10/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Watch Video</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/Mastering-GCP-windows-10/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Watch Lab</a></p>
 </div>
 
 </div>
@@ -338,35 +338,35 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 <h5>LAB – Linux Command-Line Exploration and Documentation Lookup – v1.0.0</h5>
 <p>Hands-on exploration of Linux command documentation using built-in tools such as man and cat to understand command syntax and options.</p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/FR4KFGZfAoE" frameborder="0" allowfullscreen></iframe>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">View Lab</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Watch Lab</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Linux User and Group Management – v1.0.0</h5>
 <p>Demonstration of Linux account lifecycle tasks including user creation, group assignment, ownership changes, and account removal.</p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/uOdoAZIpx1M" frameborder="0" allowfullscreen></iframe>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">View Lab</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Watch Lab</span></p>
 </div> 
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Linux File Permission and Directory Access Control – v1.0.0</h5>
 <p>Practical demonstration of managing Linux file permissions and securing directories through user and group access control.</p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/5qKJk-fID3g" frameborder="0" allowfullscreen></iframe>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">View Lab</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Watch Lab</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Linux File and Directory Management – v1.0.0</h5>
 <p>Hands-on file system management within a Linux environment, including directory organization and command-line file operations.</p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/lhkrFbimQKg" frameborder="0" allowfullscreen></iframe>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">View Lab</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Watch Lab</span></p>
 </div> 
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Linux Log and Data Filtering with grep – v1.0.0</h5>
 <p>Demonstration of log analysis techniques using grep to filter server logs and extract relevant user and system data.</p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/lUVLujgD4b4" frameborder="0" allowfullscreen></iframe>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">View Lab</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Watch Lab</span></p>
 </div> 
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
