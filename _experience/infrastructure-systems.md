@@ -26,7 +26,7 @@ These labs represent hands-on work performed in controlled environments designed
 | Video Demonstration Labs | 38 |
 | **Total Infrastructure Labs Documented** | **64** |
 
----
+ 
 
 # Windows Systems Administration
 
