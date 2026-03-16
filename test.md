@@ -160,10 +160,9 @@ Hands-on system administration tasks performed in Windows environments, focusing
 
 </div>
 
-
+---
  
- 
-### 🐧 Linux Systems Administration
+ ### 🐧 Linux Systems Administration
 
 Administration of Linux-based systems including user management, file permissions, system processes, and log analysis in server environments.
 
@@ -316,7 +315,8 @@ Available Upon Request
 
 </div>
 
- 
+---
+
 ### 🌐 Networking & Infrastructure
 
 Focuses on network architecture, subnetting logic, and the virtualization frameworks that support secure enterprise environments.
@@ -393,7 +393,7 @@ Technical runbooks and procedural guides for cloud migration and infrastructure 
 
 </div>
  
- 
+---
  
 ## Video Demonstrations
 
