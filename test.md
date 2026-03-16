@@ -137,7 +137,9 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/enforcing-windows-patching-policies/" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
---- 
+
+</div>  
+
 
 ### 📡 Network Protocol Security
 
@@ -162,7 +164,7 @@ Hands-on system administration tasks performed in Windows environments, focusing
 
 ---
  
- ### 🐧 Linux Systems Administration
+### 🐧 Linux Systems Administration
 
 Administration of Linux-based systems including user management, file permissions, system processes, and log analysis in server environments.
 
