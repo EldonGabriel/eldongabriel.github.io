@@ -31,17 +31,24 @@ Hands-on investigative exercises focused on collecting and analyzing open-source
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – SecurityWeek OSINT Investigation – v.1.1.0</h5>
-<p>Investigation comparing current, cached, and archived versions of a target webpage to identify changes and removed content.</p>
-<p><strong>Skills:</strong> Web Archiving · Change Detection · Investigative Logic</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Using Google Translate for OSINT – v.1.1.0</h5>
 <p>Demonstrates translating foreign-language communications to support multilingual open-source intelligence investigations.</p>
 <p><strong>Skills:</strong> Multilingual OSINT · Translation Tools · Intelligence Analysis</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/translating-foreign-language-osint/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – OSINT Email Enumeration & Validation – v1.0.0</h5>
+<p>Investigation into identifying organizational email address patterns using open-source intelligence techniques and pattern analysis.</p>
+<p><strong>Skills:</strong> Email Pattern Analysis · OSINT Enumeration · Identity Mapping</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/email-pattern-recognition-osint/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – SecurityWeek OSINT Investigation – v.1.1.0</h5>
+<p>Investigation comparing current, cached, and archived versions of a target webpage to identify changes and removed content.</p>
+<p><strong>Skills:</strong> Web Archiving · Change Detection · Investigative Logic</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
