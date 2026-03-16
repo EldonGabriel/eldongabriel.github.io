@@ -6,186 +6,76 @@ image:
   path: /assets/images/banner.png
 ---
 
-### Security Operations Lab Overview
+### Operational Resilience Laboratory Overview
 
-Security operations focuses on protecting systems, monitoring infrastructure, and responding to operational security risks. The labs and documentation in this section demonstrate hands-on experience implementing system hardening techniques, deploying secure remote access solutions, and analyzing system activity to maintain a secure operating environment.
+Modern organizations depend on resilient infrastructure capable of maintaining operations during system failures, cyber incidents, or unexpected outages. The labs in this section demonstrate practical experience designing and implementing backup, recovery, and continuity strategies to protect critical systems and data.
 
-These labs demonstrate operational security practices including system hardening, VPN deployment, backup and recovery planning, and monitoring system activity through logs and operational security tools.
-
----
+These labs demonstrate practical backup administration, recovery validation, and resilience planning used in real-world system administration and cybersecurity operations.
 
 | Category | Labs |
 |--------|------|
-| OSINT Research & Investigations | 11 |
-| Intelligence Demonstration Labs | 11 |
-| **Total Intelligence Labs Documented** | **22** |
+| Backup, Recovery & Migration | 4 |
+| **Total Labs Documented** | **4** |
 
 ---
 
-# Investigative Intelligence & OSINT
+# Business Continuity: Backup & Recovery
 
-Hands-on investigative exercises focused on collecting and analyzing open-source intelligence from websites, social media platforms, and publicly accessible infrastructure.
+Maintaining reliable backups and tested recovery procedures is a critical component of operational resilience. These labs demonstrate the use of automated backup tools and command-line utilities to securely store and recover system data.
 
-## Intelligence & Investigation Portfolio
+## Operational Resilience Portfolio
 
-### 🔍 Technical Analysis & Platform Mapping
+### 💾 Data Protection & Recovery Testing
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – SecurityWeek OSINT Investigation – v.1.1.0</h5>
-<p>Investigation comparing current, cached, and archived versions of a target webpage to identify changes and removed content.</p>
-<p><strong>Skills:</strong> Web Archiving · Change Detection · Investigative Logic</p>
+<h5>GUIDE – Backup and Restore Using Duplicati CLI – v.1.0.0</h5>
+<p>Demonstrates how to perform secure file backups using the Duplicati command-line interface, covering encryption and restoration procedures.</p>
+<p><strong>Skills:</strong> Backup Automation · Data Encryption · Restore Testing · CLI Management</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
+
+</div>
+
+### 📋 Resilience & Recovery Planning
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Using Google Translate for OSINT – v.1.1.0</h5>
-<p>Demonstrates translating foreign-language communications to support multilingual open-source intelligence investigations.</p>
-<p><strong>Skills:</strong> Multilingual OSINT · Translation Tools · Intelligence Analysis</p>
+<h5>REPORT – SecureStack Solutions – Backup, Recovery, and Restoration (BRR) Plan – v.1.0.0</h5>
+<p>Disaster recovery planning document outlining procedures for system backup, restoration, and operational continuity.</p>
+<p><strong>Skills:</strong> DR Planning · Business Continuity · Risk Mitigation</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – PE File Analysis Using PEStudio – v.1.0.0</h5>
-<p>Analyzing Windows Portable Executable files to identify suspicious indicators, digital signatures, and metadata.</p>
-<p><strong>Skills:</strong> Static Analysis · Malware Triage · PEStudio</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>OSINT – X (Twitter) Mind Map – v.1.0.0</h5>
-<p>Mapping publicly accessible data points that can be collected from user profiles and activity on the X platform.</p>
-<p><strong>Skills:</strong> Social Media Mapping · Profile Analysis · SOCMINT</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>OSINT – Telegram Mind Map – v.1.0.0</h5>
-<p>Identifying and documenting investigative data points available through Telegram communities and public channels.</p>
-<p><strong>Skills:</strong> Messaging App OSINT · Community Investigation</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>OSINT – Reddit Mind Map – v.1.0.0</h5>
-<p>Mapping investigative artifacts and intelligence opportunities present within Reddit communities and user activity.</p>
-<p><strong>Skills:</strong> Forum Analysis · Metadata Extraction · Digital Footprinting</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>OSINT – LinkedIn Mind Map – v.1.0.0</h5>
-<p>Documenting professional intelligence indicators and publicly available data accessible through LinkedIn profiles.</p>
-<p><strong>Skills:</strong> Corporate Intelligence · Professional Profile Analysis</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>OSINT – Instagram Mind Map – v.1.0.0</h5>
-<p>Mapping investigative data points and metadata accessible through public Instagram profiles.</p>
-<p><strong>Skills:</strong> Visual Intelligence · Asset Mapping · Metadata</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>OSINT – Facebook Mind Map – v.1.0.0</h5>
-<p>Identifying open-source intelligence artifacts available through Facebook profiles and social interactions.</p>
-<p><strong>Skills:</strong> Social Interaction Mapping · Digital Footprinting</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>OSINT – Discord Mind Map – v.1.0.0</h5>
-<p>Documenting potential investigative intelligence sources within Discord servers and user activity.</p>
-<p><strong>Skills:</strong> Volatile Platform OSINT · Infrastructure Mapping</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>TEMPLATE – OSINT Investigation Corroborated Intelligence – v.1.0.0</h5>
-<p>Structured investigation template used to document and validate intelligence findings from multiple sources.</p>
-<p><strong>Skills:</strong> Intelligence Corroboration · Professional Reporting</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-</div>
-
----
-
-# Intelligence Demonstration Videos
-
-Practical demonstrations showing investigative OSINT techniques used to discover information, identify infrastructure, and analyze publicly available data sources.
-
-## Intelligence Demonstration Portfolio
-
-### 🏗️ Advanced Search & Reconnaissance
+### 💾 Backup, Recovery & Migration
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Reverse Image Search for OSINT Analysis – v.1.0.0</h5>
-<p>Demonstrates using reverse image search to identify related images and verify online sources during investigations.</p>
+<h5>LAB – Active Directory Backup and Restore with Windows Server Backup – v.1.0.0</h5>
+<p>Demonstrates performing backup and recovery operations for an Active Directory environment using Windows Server Backup.</p>
+<p><strong>Skills:</strong> AD Administration · Disaster Recovery · Server Backup</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Identifying and Verifying Email Addresses – v.1.0.0</h5>
-<p>Generating and validating potential email addresses using naming conventions and publicly available documents.</p>
+<h5>LAB – VMware to AWS EC2 Migration Using AWS MGN – v.1.0.0</h5>
+<p>Demonstrates migrating Windows systems from a VMware environment to AWS EC2 using AWS Application Migration Service.</p>
+<p><strong>Skills:</strong> Cloud Migration · AWS MGN · Hybrid Infrastructure</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Translating Foreign Language Content – v.1.0.0</h5>
-<p>Demonstrates translating foreign-language communications to support intelligence analysis and reporting.</p>
+<h5>LAB – Restoring Windows System State with System Restore – v.1.0.0</h5>
+<p>Demonstrates using Windows System Restore to recover a virtual machine after system changes or software failures.</p>
+<p><strong>Skills:</strong> OS Recovery · Fault Tolerance · VM Management</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Creating Covert Social Media Accounts – v.1.0.0</h5>
-<p>Demonstrates creating operational social media accounts for gathering intelligence while maintaining anonymity.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Advanced Google Dork Queries for OSINT – v.1.0.0</h5>
-<p>Demonstrates using advanced search operators to identify publicly accessible sensitive data and documents.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Information Leaks in Public Code Repositories – v.1.0.0</h5>
-<p>Investigating GitHub and similar repositories to identify exposed credentials or sensitive internal data.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Passive Mapping of Assets Using Shodan – v.1.0.0</h5>
-<p>Demonstrates passive reconnaissance techniques to identify internet-facing infrastructure associated with an organization.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Passive Mapping of Assets Using DNSDumpster – v.1.0.0</h5>
-<p>Using DNSDumpster to identify domains, subdomains, and related infrastructure during passive reconnaissance.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Targeted Search Queries for Documents – v.1.0.0</h5>
-<p>Demonstrates using targeted search queries to locate exposed internal documents and sensitive information online.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Analyzing Webpage Changes with Archives – v.1.0.0</h5>
-<p>Techniques for identifying modified or deleted web content through cached and archived page analysis.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Finding Cybersecurity Feeds by Language – v.1.0.0</h5>
-<p>Demonstrates using search filters to locate cybersecurity news and threat intelligence feeds in a specific language.</p>
+<h5>LAB – Backup and File Recovery with Duplicati CLI – v.1.0.0</h5>
+<p>Demonstrates installing and configuring the Duplicati command-line backup tool to create backups and restore deleted files.</p>
+<p><strong>Skills:</strong> CLI Backup · Encrypted Storage · Data Recovery</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
@@ -195,8 +85,4 @@ Practical demonstrations showing investigative OSINT techniques used to discover
 
 # Portfolio Documentation
 
-This section summarizes investigative intelligence gathering and analysis labs performed as part of my ongoing cybersecurity training. 
-
-While this page highlights representative investigations and technical demonstrations, it is supported by a larger collection of intelligence artifacts and case files maintained within my research archive.
-
-Complete reports, mind maps, and supporting intelligence materials are available upon request for professional or technical review.
+This section highlights hands-on work related to Security Operations. Additional lab documentation, configuration notes, and recovery testing records are maintained within the full research archive and are available upon request for professional review.
