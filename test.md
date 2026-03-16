@@ -9,19 +9,24 @@ image:
 ## Infrastructure Laboratory Overview
 
 | Category | Labs |
-|:---|:---:|
+|:--- |:---:|
 | Windows Systems Administration | 15 |
 | Linux Systems Administration | 7 |
 | Virtualization & Lab Infrastructure | 3 |
 | Video Demonstration Labs | 38 |
 | **Total Infrastructure Labs Documented** | **52** |
 
-Modern IT infrastructure depends on stable operating systems, virtualization platforms, and reliable administrative processes. These labs represent hands-on work performed in controlled environments designed to simulate real-world infrastructure administration tasks, including system hardening, cloud provisioning, and operational troubleshooting.
+Modern IT infrastructure depends on stable operating systems, virtualization platforms, and reliable administrative processes. The labs and reports in this section demonstrate hands-on experience managing Windows and Linux systems, building virtual lab environments, and maintaining operational stability across infrastructure components.
+
+These labs represent hands-on work performed in controlled environments designed to simulate real-world infrastructure administration tasks. Activities include operating system management, virtualization deployment, cloud infrastructure provisioning, system hardening, and operational troubleshooting.
 
 ---
 
-## 🪟 Windows Systems Administration
-*Hands-on system management, disk operations, service control, and operational troubleshooting.*
+# Windows Systems Administration
+
+Hands-on system administration tasks performed in Windows environments, focusing on system management, disk operations, service control, and operational troubleshooting.
+
+## Windows Systems Administration Portfolio
 
 ### 🛡️ Endpoint Security Engineering & GPO Hardening
 
@@ -55,6 +60,20 @@ Modern IT infrastructure depends on stable operating systems, virtualization pla
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-windows-defender-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>REPORT – Applying a Local GPO for Session Lock Enforcement</h4>
+<p>Configured automatic workstation locking to prevent unauthorized physical access to unattended systems.</p>
+<p><strong>Skills:</strong> Physical Security · Policy Enforcement</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/deploying-session-lock-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>REPORT – System Hardening via Local GPO: Restricting Anonymous Connections</h4>
+<p>Hardened the OS by restricting null sessions and anonymous enumeration of SAM accounts and shares.</p>
+<p><strong>Skills:</strong> Information Leakage · System Hardening</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-win10-restricting-anonymous-connections/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
 </div>
 
 ### 🔑 Identity & Access Management (IAM)
@@ -62,17 +81,38 @@ Modern IT infrastructure depends on stable operating systems, virtualization pla
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>REPORT – Active Directory BMR Backup and Restore</h4>
-<p>Demonstrates performing a full system backup and recovery of an AD Domain Controller using Bare Metal Recovery.</p>
+<h4>REPORT – Active Directory Bare Metal Recovery (BMR) Backup and Restore</h4>
+<p>Demonstrates performing a full system backup and recovery of an AD Domain Controller using BMR.</p>
 <p><strong>Skills:</strong> AD Administration · Disaster Recovery</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>REPORT – Hardening Windows User Rights via Local GPO</h4>
+<h4>REPORT – Secure Credential Entry via GPO</h4>
+<p>Configured secure credential entry protections through Windows security policy controls.</p>
+<p><strong>Skills:</strong> Credential Protection · GPO Security</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-windows-security/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>REPORT – SMB Hardening for Credential Theft Protection</h4>
+<p>Applied SMB security policies to reduce exposure to credential harvesting and lateral movement.</p>
+<p><strong>Skills:</strong> SMB Security · Credential Protection</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/deploying-local-group-policy-to-harden-smb-sessions/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>REPORT – Hardening Windows User Rights via Local Group Policy</h4>
 <p>Restricted administrative privileges and enforced least-privilege access policies via GPO.</p>
 <p><strong>Skills:</strong> Access Control · Privilege Hardening</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/deploy-user-rights-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>REPORT – Deploying Strict Password & Account Lockout GPO</h4>
+<p>Implemented enterprise-grade password complexity and lockout thresholds to mitigate brute-force attempts.</p>
+<p><strong>Skills:</strong> Identity Security · Password Policy</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-win10-password-account-lockout-policies/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -82,8 +122,14 @@ Modern IT infrastructure depends on stable operating systems, virtualization pla
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/file-ownership-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
+</div>
+
+### 🛠️ Infrastructure Operations & Diagnostics
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>REPORT – Enforcing OS Patching Policy via Local GPO</h4>
+<h4>REPORT – Enforcing Operating System Patching Policy via Local GPO</h4>
 <p>Configured Windows Update policies through GPO to ensure timely security patching.</p>
 <p><strong>Skills:</strong> Vulnerability Management · Patch Compliance</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/enforcing-windows-patching-policies/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
@@ -91,54 +137,130 @@ Modern IT infrastructure depends on stable operating systems, virtualization pla
 
 </div>
 
----
-
-## 🐧 Linux Systems Administration
-*Administration including user management, file permissions, and system monitoring in server environments.*
+### 📡 Network Protocol Security
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>GUIDE – Linux Performance Monitoring (SAR)</h4>
-<p>Implemented Linux performance monitoring using SAR to analyze CPU, memory, and disk utilization.</p>
-<p><strong>Skills:</strong> Linux Monitoring · sysstat · Performance Diagnostics</p>
+<h4>REPORT – WinRM Secure Configuration and Validation</h4>
+<p>Configured and validated secure Windows Remote Management settings for administrative traffic.</p>
+<p><strong>Skills:</strong> WinRM · Secure Remote Administration</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/securing-winrm-configuration-with-lgp/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>REPORT – SMB Protocol: Function and Security Risks</h4>
+<p>Analyzed the SMB protocol architecture and documented operational and security risks.</p>
+<p><strong>Skills:</strong> Network Protocols · Threat Analysis</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/blocking-smb-access-strengthening-network-security-with-windows-firewall/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+</div>
+
+---
+
+### 🐧 Linux Systems Administration
+
+Administration of Linux-based systems including user management, file permissions, system processes, and log analysis in server environments.
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>System Activity Reporter (SAR) Monitoring</h4>
+<p>Implemented Linux performance monitoring using SAR to analyze CPU, memory, disk, and network utilization.</p>
+<p><strong>Skills:</strong> Linux Monitoring · Performance Diagnostics</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>GUIDE – Cockpit Secure Administration</h4>
+<h4>Cockpit Secure System Administration</h4>
 <p>Configured Cockpit for secure browser-based Linux system management and service monitoring.</p>
-<p><strong>Skills:</strong> Linux Administration · Web Management</p>
+<p><strong>Skills:</strong> Linux Administration · Server Management</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>REPORT – Linux File Permissions Management</h4>
-<p>Managed file and directory permissions using chmod and chown to enforce strict access control.</p>
+<h4>Webmin Secure Administration</h4>
+<p>Deployed and secured Webmin to manage Linux services, users, and configuration through a web interface.</p>
+<p><strong>Skills:</strong> Linux Service Management · System Configuration</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>Linux File Permissions Management</h4>
+<p>Managed file and directory permissions using chmod, chown, and chgrp to enforce proper access control.</p>
 <p><strong>Skills:</strong> Linux Permissions · Access Control</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>Linux System Administration Commands</h4>
+<p>Documentation of essential Linux commands used for system monitoring, troubleshooting, and resource management.</p>
+<p><strong>Skills:</strong> Linux CLI Administration · Process Monitoring · System Diagnostics</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
----
+</div>
 
-## 🌐 Networking & Infrastructure
-*Network architecture, subnetting logic, and virtualization frameworks.*
+### 📑 Linux Administration Guides
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>REPORT – IP Subnetting Fundamentals</h4>
-<p>Explores subnetting principles used to divide networks for efficient routing and design.</p>
+<h4>SAR Performance Monitoring Guide</h4>
+<p>Implemented SAR to monitor CPU, memory, disk I/O, and network utilization on Ubuntu servers.</p>
+<p><strong>Skills:</strong> Linux Monitoring · Performance Diagnostics · System Analysis</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+</div>
+
+---
+
+### 🌐 Networking & Infrastructure
+
+Focuses on network architecture, subnetting logic, and the virtualization frameworks that support secure enterprise environments.
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>IP Subnetting Fundamentals</h4>
+<p>Explores subnetting principles used to divide networks into smaller, manageable segments for efficient routing and network design.</p>
 <p><strong>Skills:</strong> Subnetting · IP Addressing · Network Design</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/refreshing-my-subnetting-skills/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>GUIDE – VMware-to-AWS Migration Runbook</h4>
-<p>Step-by-step documentation for migrating VMware workloads to AWS EC2.</p>
-<p><strong>Skills:</strong> Cloud Migration · AWS · Infrastructure Runbooks</p>
+<h4>VirtualBox Network Modes</h4>
+<p>Analysis of VirtualBox networking configurations including NAT, Bridged, Host-Only, and Internal networking modes.</p>
+<p><strong>Skills:</strong> Virtual Networking · Lab Infrastructure · Network Configuration</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>System Administration Virtualization in Cybersecurity</h4>
+<p>Explains the role of virtualization platforms in building isolated environments for system administration and cybersecurity testing.</p>
+<p><strong>Skills:</strong> Virtualization · Lab Architecture · Security Testing Environments</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>Common Network Devices and OSI Layer Roles</h4>
+<p>Breakdown of common networking devices and the OSI layers where they operate within enterprise network infrastructure.</p>
+<p><strong>Skills:</strong> OSI Model · Network Architecture · Infrastructure Components</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+</div>
+
+### 📑 GUIDES
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VMware-to-AWS Migration Runbook</h4>
+<p>Step-by-step runbook documenting migration procedures from VMware environments to AWS EC2, including post-migration agent cleanup and validation.</p>
+<p><strong>Skills:</strong> Cloud Migration · AWS EC2 · Infrastructure Runbooks</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/aws-mgn-agent-removal-vmware-to-ec2/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Guide</a></p>
 </div>
 
@@ -146,10 +268,173 @@ Modern IT infrastructure depends on stable operating systems, virtualization pla
 
 ---
 
-## 🎥 Video Demonstrations
-*Practical execution of virtualization, cloud deployment, and system hardening.*
+## Video Demonstrations
 
-### 🛡️ Managed Operations & Automation
+### 🏗️ Virtualization & Infrastructure
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – Install/Configure VMware ESXi with vSphere – v1.0.0</h4>
+<p>Hands-on setup of enterprise hypervisor environments using ESXi and vSphere management.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – Create a VM Snapshot for System Recovery – v1.0.0</h4>
+<p>Demonstrating the use of snapshots to create point-in-time recovery marks before system changes.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – VMware Lab Setup: Create a Virtual Machine – v1.0.0</h4>
+<p>Standardized workflow for provisioning new virtual hardware within a VMware environment.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – Install Windows Subsystem for Linux (WSL) – v1.0.0</h4>
+<p>Configuring WSL to enable a native Linux environment directly within Windows.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – Build a Two-VM Cybersecurity Lab Environment – v1.0.0</h4>
+<p>Architecting a secure, isolated lab with a victim and attacker machine for security testing.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+</div>
+
+### ☁️ Cloud Infrastructure
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – AWS Lab Setup: Create a Virtual Machine – v1.0.0</h4>
+<p>Provisioning EC2 instances within AWS, including Security Group and Key Pair configuration.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – GCP Lab Setup: Create a Virtual Machine – v1.0.0</h4>
+<p>Deploying Compute Engine instances on Google Cloud Platform with VPC integration.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – Windows 10 VM on Google Cloud Platform (GCP) – v1.0.0</h4>
+<p>Advanced deployment of a Windows 10 instance on GCP for remote desktop and management tasks.</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/Mastering-GCP-windows-10/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Watch Video</a></p>
+</div>
+
+</div>
+
+### 🐧 Linux Administration & Security
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – Linux Firewall Configuration with Shorewall</h4>
+<p>Configuring Shorewall to manage Netfilter and secure network traffic on Linux servers.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – Linux Performance Monitoring with SAR</h4>
+<p>Real-time and historical performance data collection using the System Activity Reporter.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – Linux System Administration with Cockpit</h4>
+<p>Using the Cockpit web console for graphical server management and system health monitoring.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – Secure Linux Administration with Webmin</h4>
+<p>Centralized administration of users, services, and configs through the Webmin portal.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – Essential Linux Commands</h4>
+<p>A comprehensive walkthrough of core CLI utilities for everyday administration tasks.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – Linux User Management Basics</h4>
+<p>Demonstration of user creation, modification, and group management in a CLI environment.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+</div>
+
+### 🪟 Windows System Administration
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – Analyze Windows Processes with Procmon</h4>
+<p>Using Process Monitor to audit registry, file system, and network activity in real-time.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – Secure Credentials with a Password Manager</h4>
+<p>Best practices for credential hygiene using secure vaulting solutions.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – Use Registry to Restore File Ownership</h4>
+<p>Direct Registry manipulation to recover ownership and access permissions on critical files.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – Block SMB Access with Windows Firewall</h4>
+<p>Mitigating lateral movement by creating firewall rules to block SMB traffic on endpoints.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+</div>
+
+### 🛡️ Windows Administration & Hardening (GPO)
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – GPO to Enforce Session Locks</h4>
+<p>Configuring idle-time lockouts to protect physical security of endpoints.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – Securely Configure WinRM with GPO</h4>
+<p>Securing remote management traffic using encrypted listeners and policy enforcement.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – Windows Defender Hardening via GPO</h4>
+<p>Configuring advanced Defender settings, including real-time scanning and cloud protection.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VIDEO – Deployed Exploit Guard via GPO</h4>
+<p>Enabling Attack Surface Reduction (ASR) rules and memory protection through Exploit Guard.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+</div>
+
+### ⚙️ Managed Operations & Automation
+
+Utilizing advanced Windows management tools to automate recurring maintenance tasks, monitor system health, and secure data-at-rest.
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:30px;">
 
@@ -158,7 +443,7 @@ Modern IT infrastructure depends on stable operating systems, virtualization pla
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/wlgnNwbKe3w" title="BitLocker" frameborder="0" allowfullscreen></iframe>
 </div>
 <h4>🔐 Data Security</h4>
-<p>Planning and deployment of BitLocker Drive Encryption.</p>
+<p>Demonstrating the planning and deployment of BitLocker Drive Encryption to protect data-at-rest.</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); text-align:center;">
@@ -166,9 +451,23 @@ Modern IT infrastructure depends on stable operating systems, virtualization pla
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/z8nXF2OleGo" title="Task Scheduler" frameborder="0" allowfullscreen></iframe>
 </div>
 <h4>🤖 Automation</h4>
-<p>Automating maintenance via Windows Task Scheduler.</p>
+<p>Automating recurring system maintenance and cleanup tasks via the Windows Task Scheduler.</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); text-align:center;">
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom:15px;">
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/rw7QL5BgQgI" title="Event Viewer" frameborder="0" allowfullscreen></iframe>
+</div>
+<h4>🛠️ Diagnostics</h4>
+<p>Advanced monitoring and troubleshooting techniques using the Windows Event Viewer.</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); text-align:center;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom:15px;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/WZtkpKxr9xE" title="Firewall" frameborder="0" allowfullscreen></iframe>
+</div>
+<h4>🛡️ Network Hardening</h4>
+<p>Configuring host-based firewall rules to restrict unauthorized traffic and secure network entry points.</p>
+</div>
+
+</div>
