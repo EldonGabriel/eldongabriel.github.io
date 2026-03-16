@@ -597,27 +597,36 @@ Utilizing advanced Windows management tools to automate recurring maintenance ta
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom:15px;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/wlgnNwbKe3w" title="BitLocker Drive Encryption" frameborder="0" allowfullscreen></iframe>
 </div>
-<h4>Data Security</h4>
+<h4>🔐 Data Security</h4>
 <p>Demonstrating the planning and deployment of BitLocker Drive Encryption to protect data-at-rest.</p>
-<p><strong>Skills:</strong> BitLocker · Encryption · Data Integrity</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); text-align:center;">
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom:15px;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/z8nXF2OleGo" title="Task Scheduler" frameborder="0" allowfullscreen></iframe>
 </div>
-<h4>Automation</h4>
+<h4>🤖 Automation</h4>
 <p>Automating recurring system maintenance and cleanup tasks via the Windows Task Scheduler.</p>
-<p><strong>Skills:</strong> Task Automation · Windows Admin · Scripting</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); text-align:center;">
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom:15px;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/rw7QL5BgQgI" title="Event Viewer" frameborder="0" allowfullscreen></iframe>
 </div>
-<h4>Diagnostics</h4>
+<h4>🛠️ Diagnostics</h4>
 <p>Advanced monitoring and troubleshooting techniques using the Windows Event Viewer.</p>
-<p><strong>Skills:</strong> Log Analysis · Root Cause Analysis · Diagnostics</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); text-align:center;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom:15px;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/z8nXF2OleGo" title="Windows Defender Firewall" frameborder="0" allowfullscreen></iframe>
+</div>
+<h4>🛡️ Network Hardening</h4>
+<p>Configuring host-based firewall rules to restrict unauthorized traffic and secure network entry points.</p>
 </div>
 
 </div>
+
+</div>
+
+
