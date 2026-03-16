@@ -10,7 +10,7 @@ image:
 
 | Category | Labs |
 |--------|------|
-| Windows Systems Administration | 4 |
+| Windows Systems Administration | 15 |
 | Linux Systems Administration | 7 |
 | Virtualization & Lab Infrastructure | 3 |
 | Video Demonstration Labs | 38 |
@@ -395,7 +395,7 @@ Technical runbooks and procedural guides for cloud migration and infrastructure 
 
 The following videos demonstrate practical system administration, virtualization, cloud deployment, and security configuration tasks.
 
-🏗️ Virtualization & Infrastructure
+### 🏗️ Virtualization & Infrastructure
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -467,7 +467,7 @@ The following videos demonstrate practical system administration, virtualization
 
 ---
    
-###🐧 Linux Administration & Security
+### 🐧 Linux Administration & Security
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
