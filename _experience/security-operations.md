@@ -20,23 +20,9 @@ These labs demonstrate operational security practices including system hardening
 
 | Category | Labs |
 |--------|------|
-| System Security & Hardening | 7 |
-| Security Monitoring & Log Analysis | 4 |
-| **Total Security Operations Labs Documented** | **11** |
-
----
-
-### Security Operations Lab Overview
-
-Security operations focuses on protecting systems, monitoring infrastructure, and responding to operational security risks. The labs and documentation in this section demonstrate hands-on experience implementing system hardening techniques, deploying secure remote access solutions, and analyzing system activity to maintain a secure operating environment.
-
-These labs demonstrate operational security practices including system hardening, VPN deployment, backup and recovery planning, and monitoring system activity through logs and operational security tools.
-
-| Category | Labs |
-|--------|------|
-| System Security & Hardening | 7 |
-| Security Monitoring & Log Analysis | 4 |
-| **Total Security Operations Labs Documented** | **11** |
+| System Security & Hardening | 5 |
+| Security Monitoring & Log Analysis | 1 |
+| **Total Security Operations Labs Documented** | **6** |
 
 ---
 
@@ -69,13 +55,6 @@ Hands-on configuration of system security controls designed to protect infrastru
 ### 🔐 Endpoint Hardening & Access Control
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – SecureStack Solutions – Backup, Recovery, and Restoration (BRR) Plan – v.1.0.0</h5>
-<p>Disaster recovery planning document outlining procedures for system backup, restoration, and operational continuity.</p>
-<p><strong>Skills:</strong> DR Planning · Business Continuity · Risk Mitigation</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>GUIDE – Using Access Permissions and Rights to Secure a Folder – v.1.0.0</h5>
@@ -116,40 +95,6 @@ Demonstrations and technical walkthroughs focused on observing system behavior, 
 <h5>GUIDE – Monitoring Windows Processes with Procmon – v.1.0.1</h5>
 <p>Demonstrates using Microsoft Process Monitor to observe system activity and analyze running processes for troubleshooting and security monitoring.</p>
 <p><strong>Skills:</strong> Security Monitoring · Behavioral Analysis · Sysinternals</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-</div>
-
-### 💾 Backup, Recovery & Migration
-
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Active Directory Backup and Restore with Windows Server Backup – v.1.0.0</h5>
-<p>Demonstrates performing backup and recovery operations for an Active Directory environment using Windows Server Backup.</p>
-<p><strong>Skills:</strong> AD Administration · Disaster Recovery · Server Backup</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – VMware to AWS EC2 Migration Using AWS MGN – v.1.0.0</h5>
-<p>Demonstrates migrating Windows systems from a VMware environment to AWS EC2 using AWS Application Migration Service.</p>
-<p><strong>Skills:</strong> Cloud Migration · AWS MGN · Hybrid Infrastructure</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Restoring Windows System State with System Restore – v.1.0.0</h5>
-<p>Demonstrates using Windows System Restore to recover a virtual machine after system changes or software failures.</p>
-<p><strong>Skills:</strong> OS Recovery · Fault Tolerance · VM Management</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Backup and File Recovery with Duplicati CLI – v.1.0.0</h5>
-<p>Demonstrates installing and configuring the Duplicati command-line backup tool to create backups and restore deleted files.</p>
-<p><strong>Skills:</strong> CLI Backup · Encrypted Storage · Data Recovery</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
