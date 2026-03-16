@@ -22,9 +22,9 @@ These labs represent hands-on work performed in controlled environments designed
 |--------|------|
 | Windows Systems Administration | 15 |
 | Linux Systems Administration | 8 |
-| Networking & Infrastructure | 4 |
+| Virtualization & Infrastructure | 3 |
 | Video Demonstration Labs | 38 |
-| **Total Infrastructure Labs Documented** | **65** |
+| **Total Infrastructure Labs Documented** | **64** |
 
 ---
 
@@ -223,18 +223,12 @@ Administration of Linux-based systems including user management, file permission
 
 ---
 
-### 🌐 Networking & Infrastructure
+### 🌐 Virtualiztion & Infrastructure
 
-Focuses on network architecture, subnetting logic, and the virtualization frameworks that support secure enterprise environments.
+Focuses on the virtualization frameworks that support secure enterprise environments.
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>IP Subnetting Fundamentals</h4>
-<p>Explores subnetting principles used to divide networks into smaller, manageable segments for efficient routing and network design.</p>
-<p><strong>Skills:</strong> Subnetting · IP Addressing · Network Design</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/refreshing-my-subnetting-skills/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
-</div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h4>VirtualBox Network Modes</h4>
@@ -251,9 +245,9 @@ Focuses on network architecture, subnetting logic, and the virtualization framew
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>Common Network Devices and OSI Layer Roles</h4>
-<p>Breakdown of common networking devices and the OSI layers where they operate within enterprise network infrastructure.</p>
-<p><strong>Skills:</strong> OSI Model · Network Architecture · Infrastructure Components</p>
+<h4>AWS MGN Agent Removal & Environment Cleanup</h4>
+<p>Explains the role of virtualization platforms in building isolated environments for system administration and cybersecurity testing.</p>
+<p><strong>Skills:</strong> Virtualization · Lab Architecture · Security Testing Environments</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
