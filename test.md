@@ -124,6 +124,8 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/file-ownership-recovery/" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
+</div>
+
 ---
 
 ### 🛠️ Infrastructure Operations & Diagnostics
@@ -133,6 +135,8 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <p>Configured Windows Update policies through GPO to ensure timely security patching.</p>
 <p><strong>Skills:</strong> Vulnerability Management · Patch Compliance</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/enforcing-windows-patching-policies/" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
 </div>
 
 ---
