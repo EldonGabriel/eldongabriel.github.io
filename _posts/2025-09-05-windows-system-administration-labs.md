@@ -41,12 +41,12 @@ Windows Administration Demonstrations
 <p style="color:#ccc;">Created automated tasks to reduce manual system maintenance.</p>
 <iframe width="100%" height="220" src="https://www.youtube.com/embed/z8nXF2OleGo" frameborder="0" allowfullscreen></iframe>
 </div>
-https://www.youtube.com/embed/WZtkpKxr9xE
+
 <!-- 4 -->
 <div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
 <h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Windows Defender Firewall</h3>
 <p style="color:#ccc;">Configured firewall rules and validated network access controls.</p>
-<iframe width="100%" height="220" src="https://youtu.be/WZtkpKxr9xE?si=gY1wyQkOfwLq3FL4" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="220" src="https://www.youtube.com/embed/WZtkpKxr9xE" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <!-- 5 -->
