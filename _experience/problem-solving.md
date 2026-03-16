@@ -21,8 +21,7 @@ These exercises emphasize structured troubleshooting methodologies, root cause a
 | Category | Labs |
 |--------|------|
 | Technical Troubleshooting | 2 |
-| Incident Response | 1 |
-| **Total Labs Documented** | **3** |
+| **Total Labs Documented** | **2** |
 
 ---
 
@@ -48,25 +47,6 @@ Structured diagnostic investigations used to identify the source of operational 
 <p>Investigation into a multi-layered access control failure and the steps required to restore stable remote connectivity across systems.</p>
 <p><strong>Skills:</strong> Root Cause Analysis · Cross-System Troubleshooting · Access Control Diagnostics</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/stabilizingremote-desktop-connections/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
-</div>
-
-</div>
-
----
-
-# Incident Response
-
-Operational response and remediation activities performed to restore secure system states following configuration errors or infrastructure disruptions.
-
-### 🚨 Incident Investigation & Remediation
-
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.1</h5>
-<p>Incident response documentation detailing the removal of AWS Migration Agent components and the cleanup of residual system artifacts within a cloud environment.</p>
-<p><strong>Skills:</strong> Cloud Incident Response · System Cleanup · AWS Environment Management</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 </div>
