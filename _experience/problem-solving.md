@@ -14,76 +14,76 @@ image:
 
 ## Problem Solving Laboratory Overview
 
+Modern IT environments require the ability to rapidly diagnose failures, investigate abnormal system behavior, and restore operational stability. The labs and reports in this section demonstrate hands-on experience troubleshooting enterprise systems, resolving cloud connectivity problems, and responding to operational incidents.
+
+These exercises emphasize structured troubleshooting methodologies, root cause analysis, and the documentation of corrective actions used to restore system functionality and maintain secure infrastructure.
+
 | Category | Labs |
 |--------|------|
 | Technical Troubleshooting | 3 |
 | Incident Response | 1 |
 | **Total Labs Documented** | **4** |
 
-Effective IT and cybersecurity operations require strong troubleshooting and analytical problem-solving skills. The work documented in this section demonstrates practical experience diagnosing technical issues, implementing solutions, and evaluating security risks across cloud services, network protocols, and enterprise systems.
+---
 
-These exercises emphasize identifying root causes, applying corrective actions, and documenting technical resolutions used to maintain system stability and security.
+# Technical Troubleshooting
+
+Structured diagnostic investigations used to identify the source of operational failures, analyze system behavior, and implement corrective solutions across enterprise infrastructure.
+
+## Troubleshooting Portfolio
+
+### 🔧 System Diagnostics & Technical Resolution
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>GUIDE – RDP Troubleshooting – AWS VM Access – v1.0.0</h5>
+<p>Diagnostic walkthrough for identifying and resolving Remote Desktop Protocol (RDP) access failures in AWS-hosted virtual machines.</p>
+<p><strong>Skills:</strong> Remote Access Troubleshooting · AWS Connectivity Diagnostics · Network Access Validation</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/rdp-troubleshooting-aws/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Guide</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>GUIDE – SMB Protocol: Function and Security Risks – v1.0.0</h5>
+<p>Technical overview of the Server Message Block (SMB) protocol with analysis of common configuration risks and security exposure.</p>
+<p><strong>Skills:</strong> Protocol Analysis · File Sharing Security · Network Service Evaluation</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Layered Access Control Bypass & Cross-Platform Network Stabilization – v1.0.0</h5>
+<p>Investigation into a multi-layered access control failure and the steps required to restore stable remote connectivity across systems.</p>
+<p><strong>Skills:</strong> Root Cause Analysis · Cross-System Troubleshooting · Access Control Diagnostics</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/stabilizingremote-desktop-connections/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+</div>
 
 ---
 
-## Technical Solutions & Troubleshooting
+# Incident Response
 
-Troubleshooting is a core operational skill within system administration and cybersecurity. These labs demonstrate structured approaches to identifying issues, analyzing system behavior, and implementing effective solutions.
+Operational response and remediation activities performed to restore secure system states following configuration errors or infrastructure disruptions.
 
-### Lab Index
+### 🚨 Incident Investigation & Remediation
 
-- **REPORT – BYOD in Organizations: Security, Challenges, and Strategies – v1.0.1**
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
-  This report examines the security challenges associated with Bring Your Own Device (BYOD) environments. It explores the risks introduced by unmanaged devices and outlines strategies organizations can implement to reduce exposure.
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.1</h5>
+<p>Incident response documentation detailing the removal of AWS Migration Agent components and the cleanup of residual system artifacts within a cloud environment.</p>
+<p><strong>Skills:</strong> Cloud Incident Response · System Cleanup · AWS Environment Management</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
 
-  **Skills Demonstrated:** Security risk analysis, policy evaluation, mobile device security considerations, enterprise security strategy  
-
----
-
-- **GUIDE – RDP Troubleshooting for AWS Users – v1.0.0**
-
-  This guide demonstrates how to diagnose and resolve Remote Desktop Protocol (RDP) connection issues within AWS cloud environments. The exercise focuses on network configuration, access controls, and troubleshooting connectivity problems.
-
-  **Skills Demonstrated:** Remote access troubleshooting, cloud connectivity diagnostics, AWS environment configuration, network access validation  
-
----
-
-- **GUIDE – SMB Protocol: Function and Security Risks – v1.0.0**
-
-  This guide explains the role of the Server Message Block (SMB) protocol in network file sharing and examines common security risks associated with SMB exposure.
-
-  **Skills Demonstrated:** Network protocol analysis, file sharing security risks, SMB service configuration, security awareness and mitigation strategies  
-
----
-
-- **IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.1**
-
-  Incident response documentation detailing the removal of AWS MGN migration agents and cleanup of residual system configurations within a cloud environment.
-
-  **Skills Demonstrated:** Cloud incident response, system cleanup procedures, AWS environment management, security incident remediation  
-
----
-
-## Problem Solving Concepts Demonstrated
-
-The work in this section highlights key operational troubleshooting principles used by system administrators and cybersecurity professionals.
-
-- **Root Cause Analysis**  
-  Identifying underlying causes of system failures or security issues rather than only addressing symptoms.
-
-- **Protocol and System Diagnostics**  
-  Analyzing network services and system behavior to determine the source of operational problems.
-
-- **Incident Response and Recovery**  
-  Responding to operational incidents and restoring systems to a secure and functional state.
-
-- **Technical Documentation and Knowledge Sharing**  
-  Recording troubleshooting processes and solutions to support future investigations and operational learning.
+</div>
 
 ---
 
 ## Portfolio Documentation
 
-This section highlights hands-on work related to diagnosing technical issues, resolving system failures, and analyzing security risks across cloud and enterprise environments. These exercises simulate real-world operational scenarios where rapid troubleshooting and effective remediation are critical to maintaining secure and reliable systems.
+This section highlights technical investigations and remediation activities performed while troubleshooting enterprise systems and cloud infrastructure. The documented exercises demonstrate structured problem-solving approaches used to diagnose failures, restore services, and analyze security implications within operational environments.
 
-Additional lab documentation, technical notes, and troubleshooting records are maintained within the full research archive and are available upon request for professional review.
+While representative labs and reports are displayed here, they are supported by a larger archive of troubleshooting notes, investigative documentation, and operational lab exercises maintained within a private research repository.
+
+Additional documentation is available upon request for professional or technical review.
