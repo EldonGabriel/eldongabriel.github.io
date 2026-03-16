@@ -9,12 +9,12 @@ image:
 ## Infrastructure Laboratory Overview
 
 | Category | Labs |
-|:--- |:---:|
+|--------|------|
 | Windows Systems Administration | 15 |
-| Linux Systems Administration | 7 |
-| Virtualization & Lab Infrastructure | 3 |
+| Linux Systems Administration | 8 |
+| Networking & Infrastructure | 4 |
 | Video Demonstration Labs | 38 |
-| **Total Infrastructure Labs Documented** | **52** |
+| **Total Infrastructure Labs Documented** | **65** |
 
 Modern IT infrastructure depends on stable operating systems, virtualization platforms, and reliable administrative processes. The labs and reports in this section demonstrate hands-on experience managing Windows and Linux systems, building virtual lab environments, and maintaining operational stability across infrastructure components.
 
@@ -471,3 +471,16 @@ Utilizing advanced Windows management tools to automate recurring maintenance ta
 </div>
 
 </div>
+
+---
+
+# Portfolio Documentation
+
+This section summarizes hands-on infrastructure, virtualization, cloud, and operating system administration labs performed as part of my ongoing cybersecurity and systems administration training.
+
+While this page highlights representative reports and demonstrations, it is supported by a larger collection of technical documentation, lab notes, and system configuration records maintained within my research archive.
+
+To keep the site streamlined and focused on key projects, not all documentation artifacts are displayed directly.
+
+Complete reports, lab documentation, and supporting technical materials are available upon request for professional or technical review.
+
