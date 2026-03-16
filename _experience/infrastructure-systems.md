@@ -253,7 +253,7 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 
 </div>
 
-### 📑 GUIDES
+### 📑  Virtualiztion & Infrastructure Guides
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -264,13 +264,27 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/aws-mgn-agent-removal-vmware-to-ec2/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Guide</a></p>
 </div>
 
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>GUIDE – Building a vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0</h5>
+<p>Step-by-step runbook documenting migration procedures from VMware environments to AWS EC2, including post-migration agent cleanup and validation.</p>
+<p><strong>Skills:</strong> Cloud Migration · AWS EC2 · Infrastructure Runbooks</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/bypassing-firmware-locks-nested-vsphere-8/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Guide</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>GUIDE – UTM Kali Linux Shared Folder Configuration – v1.0.0</h5>
+<p>Step-by-step runbook documenting migration procedures from VMware environments to AWS EC2, including post-migration agent cleanup and validation.</p>
+<p><strong>Skills:</strong> Cloud Migration · AWS EC2 · Infrastructure Runbooks</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/utm-kali-linux-shared-folder-guide/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Guide</a></p>
+</div>
+
 </div>
 
 ---
 
 ## Video Demonstrations
 
-### 🏗️ Virtualization & Infrastructure
+### 🏗️ Virtualization & Infrastructure Labs
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -306,7 +320,7 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 
 </div>
 
-### ☁️ Cloud Infrastructure
+### ☁️ Cloud Infrastructure Labs
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -330,7 +344,7 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 
 </div>
 
-### 🐧 Linux Administration & Security
+### 🐧 Linux Administration & Security Labs
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -390,7 +404,7 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 
 </div>
 
-### 🪟 Windows System Administration
+### 🪟 Windows System Administration Labs
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -420,7 +434,7 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 
 </div>
 
-### 🛡️ Windows Administration & Hardening (GPO)
+### 🛡️ Windows Administration & Hardening (GPO) Labs
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -450,7 +464,7 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 
 </div>
 
-### ⚙️ Managed Operations & Automation
+### ⚙️ Managed Operations & Automation Labs
 
 Utilizing advanced Windows management tools to automate recurring maintenance tasks, monitor system health, and secure data-at-rest.
 
