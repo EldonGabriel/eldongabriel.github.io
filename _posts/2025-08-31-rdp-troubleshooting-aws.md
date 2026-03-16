@@ -40,7 +40,7 @@ By ensuring that only authorized accounts can log in via RDP, and by combining t
     </iframe>
 
     <figcaption style="margin-top:10px;">
-      <strong>GUIDE – RDP Troubleshooting – AWS VM Access – v1.0.0</strong>
+      <strong>GUIDE – RDP Troubleshooting for AWS Users – v1.0.0</strong>
     </figcaption>
 
   </figure>
