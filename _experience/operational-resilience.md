@@ -12,53 +12,91 @@ image:
   caption: "Operational Resilience and Business Continuity Labs"
 ---
 
-## Operational Resilience Laboratory Overview
-
-| Category | Labs |
-|--------|------|
-| Backup & Recovery | 1 |
-| **Total Labs Documented** | **1** |
+### Operational Resilience Laboratory Overview
 
 Modern organizations depend on resilient infrastructure capable of maintaining operations during system failures, cyber incidents, or unexpected outages. The labs in this section demonstrate practical experience designing and implementing backup, recovery, and continuity strategies to protect critical systems and data.
 
 These labs demonstrate practical backup administration, recovery validation, and resilience planning used in real-world system administration and cybersecurity operations.
 
+| Category | Labs |
+|--------|------|
+| Data Protection & Recovery | 1 |
+| Backup, Recovery & Migration | 4 |
+| Video Demonstration Labs | 4 |
+| **Total Operational Resilience Labs Documented** | **9** |
+
 ---
 
-## Business Continuity: Backup & Recovery
+# Business Continuity: Backup & Recovery
 
 Maintaining reliable backups and tested recovery procedures is a critical component of operational resilience. These labs demonstrate the use of automated backup tools and command-line utilities to securely store and recover system data.
 
-### Lab Index
+## Operational Resilience Portfolio
 
-- **GUIDE – Backup and Restore Using Duplicati CLI – v1.0.0**
+### 💾 Data Protection & Recovery Testing
 
-  This guide demonstrates how to perform secure file backups using the Duplicati command-line interface. The lab covers backup creation, encryption configuration, remote storage options, and restoration procedures used to recover data after system loss.
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
-  **Skills Demonstrated:** Backup automation, data encryption for backups, disaster recovery procedures, command-line backup management, backup verification and restore testing
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>GUIDE – Backup and Restore Using Duplicati CLI – v.1.0.0</h5>
+<p>Demonstrates how to perform secure file backups using the Duplicati command-line interface, covering encryption and restoration procedures.</p>
+<p><strong>Skills:</strong> Backup Automation · Data Encryption · Restore Testing · CLI Management</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
 
----
+</div>
 
-## Operational Resilience Concepts Demonstrated
+### 📋 Resilience & Recovery Planning
 
-The labs in this section emphasize core principles used in enterprise resilience planning.
-
-- **Data Protection**  
-  Ensuring critical system data is regularly backed up and securely stored.
-
-- **Disaster Recovery Procedures**  
-  Validating that systems and files can be restored quickly after data loss or system failure.
-
-- **Backup Integrity Verification**  
-  Testing backup archives to confirm successful recovery operations.
-
-- **Automated Backup Workflows**  
-  Using command-line tools and scheduled tasks to automate backup operations and reduce operational risk.
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – SecureStack Solutions – Backup, Recovery, and Restoration (BRR) Plan – v.1.0.0</h5>
+<p>Disaster recovery planning document outlining procedures for system backup, restoration, and operational continuity.</p>
+<p><strong>Skills:</strong> DR Planning · Business Continuity · Risk Mitigation</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
 
 ---
 
-## Portfolio Documentation
+### 🎥 Video Demonstrations
 
-This section highlights hands-on work related to backup strategy, system recovery, and infrastructure resilience. These exercises simulate real-world operational scenarios where maintaining data availability and service continuity is essential.
+These demonstrations walk through backup configuration, recovery procedures, and infrastructure migration scenarios. Each lab shows the tools used, the recovery workflow, and the validation process to ensure systems can be restored during operational failures.
 
-Additional lab documentation, configuration notes, and recovery testing records are maintained within the full research archive and are available upon request for professional review.
+### 💾 Backup, Recovery & Migration
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Active Directory Backup and Restore with Windows Server Backup – v.1.0.0</h5>
+<p>Demonstrates performing backup and recovery operations for an Active Directory environment using Windows Server Backup.</p>
+<p><strong>Skills:</strong> AD Administration · Disaster Recovery · Server Backup</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – VMware to AWS EC2 Migration Using AWS MGN – v.1.0.0</h5>
+<p>Demonstrates migrating Windows systems from a VMware environment to AWS EC2 using AWS Application Migration Service.</p>
+<p><strong>Skills:</strong> Cloud Migration · AWS MGN · Hybrid Infrastructure</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Restoring Windows System State with System Restore – v.1.0.0</h5>
+<p>Demonstrates using Windows System Restore to recover a virtual machine after system changes or software failures.</p>
+<p><strong>Skills:</strong> OS Recovery · Fault Tolerance · VM Management</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Backup and File Recovery with Duplicati CLI – v.1.0.0</h5>
+<p>Demonstrates installing and configuring the Duplicati command-line backup tool to create backups and restore deleted files.</p>
+<p><strong>Skills:</strong> CLI Backup · Encrypted Storage · Data Recovery</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+</div>
+
+---
+
+# Portfolio Documentation
+
+This section highlights hands-on work related to Operation Resilience. Additional lab documentation, configuration notes, and recovery testing records are maintained within the full research archive and are available upon request for professional review.
