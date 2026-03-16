@@ -42,37 +42,11 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 
 ---
 
-- **GUIDE – Monitoring Windows Processes with Procmon – v1.0.1**
-
-  This guide demonstrates how Process Monitor can be used to observe system activity, track process behavior, and analyze interactions between applications and system resources.
-
-  **Skills Demonstrated:** Process monitoring, system activity analysis, windows diagnostics, security troubleshooting  
-
----
-
 - **GUIDE – Endpoint Security with the Windows Registry – v1.0.0**
 
   This guide demonstrates how security configurations can be enforced through the Windows Registry to strengthen endpoint protection and restrict unauthorized changes.
 
   **Skills Demonstrated:** Registry security configuration, endpoint hardening, system policy enforcement, windows security administration  
-
----
-
-## Identity Security Concepts Demonstrated
-
-The labs in this section highlight several important principles used in enterprise identity security.
-
-- **Least Privilege Access Control**  
-  Ensuring users receive only the permissions required to perform their tasks.
-
-- **Identity Monitoring**  
-  Observing system activity and process behavior to detect unauthorized access or suspicious actions.
-
-- **Endpoint Hardening**  
-  Protecting authentication mechanisms and administrative controls through secure configuration.
-
-- **Administrative Security Controls**  
-  Managing system permissions and configuration settings to prevent privilege misuse.
 
 ---
 
