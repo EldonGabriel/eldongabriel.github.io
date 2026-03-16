@@ -458,6 +458,7 @@ The following videos demonstrate practical system administration, virtualization
 </div>
 
 🐧 Linux Administration & Security
+
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -475,7 +476,7 @@ The following videos demonstrate practical system administration, virtualization
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>⚙️ VIDEO – Linux System Administration with Cockpit – v1.0.0</h4>
+<h4>VIDEO – Linux System Administration with Cockpit – v1.0.0</h4>
 <p>Using the Cockpit web console for graphical server management and system health monitoring.</p>
 <p><strong>Skills:</strong> Cockpit · Web-Based Admin · Linux Ops</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
@@ -489,7 +490,7 @@ The following videos demonstrate practical system administration, virtualization
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4VIDEO – Essential Linux Commands for System Administration – v1.0.0</h4>
+<h4>VIDEO – Essential Linux Commands for System Administration – v1.0.0</h4>
 <p>A comprehensive walkthrough of core CLI utilities for everyday administration tasks.</p>
 <p><strong>Skills:</strong> Bash · Linux CLI · Diagnostics</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
