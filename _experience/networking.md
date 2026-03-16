@@ -30,15 +30,15 @@ These labs focus on understanding network communication models, analyzing protoc
 
 Core networking concepts, protocol behavior, and diagnostic techniques used to understand how systems communicate across enterprise networks.
 
-## Protocol Analysis Portfolio
+## Networking Protocol Analysis Portfolio
 
 ### 📡 Network Diagnostics & Communication Models
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – IP Subnetting Fundamentals – v.1.0.0</h5>
-<p>Practical explanation of subnetting used to divide IP networks into logical segments for routing and security.</p>
+<h5>REPORT – IP Subnetting Fundamentals – v1.0.0</h5>
+<p>Hands-on subnetting analysis demonstrating how IP address ranges are divided into logical network segments to support routing, segmentation, and enterprise network design.</p>
 <p><strong>Skills:</strong> Subnet Design · IP Addressing</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/refreshing-my-subnetting-skills/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
@@ -104,7 +104,7 @@ Designing and analyzing network topologies with a focus on segmentation, secure 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Network Attack Analysis – v1.0.0</h5>
 <p>Examination of common network-based attack techniques and the infrastructure weaknesses they exploit.</p>
-<p><strong>Skills:</strong> Threat Analysis · Defensive Security</p>
+<p><strong>Skills:</strong> Threat Analysis · Network Attack Surface · Defensive Architecture</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
