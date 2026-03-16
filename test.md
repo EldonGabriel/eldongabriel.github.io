@@ -438,7 +438,7 @@ The following videos demonstrate practical system administration, virtualization
 
 ---
    
-☁️ Cloud Infrastructure
+### ☁️ Cloud Infrastructure
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -467,7 +467,7 @@ The following videos demonstrate practical system administration, virtualization
 
 ---
    
-🐧 Linux Administration & Security
+###🐧 Linux Administration & Security
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -517,7 +517,7 @@ The following videos demonstrate practical system administration, virtualization
 
 ---
  
-🪟 Windows System Administration
+### 🪟 Windows System Administration
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -552,7 +552,7 @@ The following videos demonstrate practical system administration, virtualization
 
 ---
 
-🛡️ Windows Administration & Hardening (GPO)
+### 🛡️ Windows Administration & Hardening (GPO)
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -587,7 +587,7 @@ The following videos demonstrate practical system administration, virtualization
 
 ---
 
-⚙️ Managed Operations & Automation
+### ⚙️ Managed Operations & Automation
 
 Utilizing advanced Windows management tools to automate recurring maintenance tasks, monitor system health, and secure data-at-rest.
 
