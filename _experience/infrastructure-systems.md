@@ -21,8 +21,8 @@ These labs represent hands-on work performed in controlled environments designed
 | Category | Labs |
 |--------|------|
 | Windows Systems Administration | 10 |
-| Linux Systems Administration | 6 |
-| Virtualization & Infrastructure | 5 |
+| Linux Systems Administration | 5 |
+| Virtualization & Infrastructure | 6 |
 | Video Demonstration | 47 |
 | **Total Labs Documented** | **68** |
 
