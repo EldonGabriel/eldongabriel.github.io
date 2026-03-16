@@ -628,7 +628,7 @@ Utilizing advanced Windows management tools to automate recurring maintenance ta
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); text-align:center;">
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom:15px;">
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/WZtkpKxr9xE" title="Windows Defender Firewall" frameborder="0" allowfullscreen></iframe>
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://youtu.be/WZtkpKxr9xE?si=gY1wyQkOfwLq3FL4" title="Windows Defender Firewall" frameborder="0" allowfullscreen></iframe>
 </div>
 <h4>🛡️ Network Hardening</h4>
 <p>Configuring host-based firewall rules to restrict unauthorized traffic and secure network entry points.</p>
