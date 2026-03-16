@@ -14,86 +14,115 @@ image:
 
 ### Networking Lab Overview
 
+Reliable network infrastructure forms the backbone of modern computing environments. The labs and reports in this section demonstrate hands-on experience analyzing networking protocols, troubleshooting connectivity issues, and designing secure enterprise network architectures using industry-standard concepts and tools.
+
+These labs focus on understanding network communication models, analyzing protocols used in enterprise environments, and designing secure network architectures that support organizational infrastructure and cybersecurity requirements.
+
 | Category | Labs |
 |--------|------|
 | Networking Fundamentals & Protocol Analysis | 6 |
 | Network Architecture & Security | 5 |
 | **Total Networking Labs Documented** | **11** |
 
-Reliable network infrastructure forms the backbone of modern computing environments. The labs and reports in this section demonstrate hands-on experience analyzing networking protocols, troubleshooting connectivity issues, and designing secure enterprise network architectures using industry-standard concepts and tools.
-
-These labs focus on understanding network communication models, analyzing protocols used in enterprise environments, and designing secure network architectures that support organizational infrastructure and cybersecurity requirements.
-
 ---
 
-## Networking Fundamentals & Protocol Analysis
+# Networking Fundamentals & Protocol Analysis
 
 Core networking concepts, protocol behavior, and diagnostic techniques used to understand how systems communicate across enterprise networks.
 
-**Lab Index**
+## Protocol Analysis Portfolio
 
-- **REPORT – Network Troubleshooting Framework – v1.0.0**  
-  A structured methodology for diagnosing network connectivity issues using layered troubleshooting and systematic validation.
+### 📡 Network Diagnostics & Communication Models
 
-  **Skills Demonstrated:** Network diagnostics, troubleshooting methodology
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
-- **REPORT – Common Network Devices and OSI Layer Roles – v1.0.0**  
-  Research and explanation of common networking equipment and how each device operates within the OSI model in enterprise environments.
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>REPORT – Network Troubleshooting Framework</h4>
+<p>A structured methodology for diagnosing network connectivity issues using layered troubleshooting and systematic validation.</p>
+<p><strong>Skills:</strong> Network Diagnostics · Troubleshooting Methodology</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
 
-  **Skills Demonstrated:** Network infrastructure understanding, device-layer relationships
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>REPORT – Common Network Devices and OSI Layer Roles</h4>
+<p>Research and explanation of common networking equipment and how each device operates within the OSI model.</p>
+<p><strong>Skills:</strong> Network Infrastructure · Device-Layer Relationships</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
 
-- **REPORT – OSI vs TCP/IP: A Security-Centric View – v1.0.1**  
-  Research and analysis of the OSI and TCP/IP networking models, including their cybersecurity implications and how each layer contributes to network defense strategies.
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>REPORT – OSI vs TCP/IP: A Security-Centric View</h4>
+<p>Analysis of networking models, their cybersecurity implications, and how each layer contributes to defense strategies.</p>
+<p><strong>Skills:</strong> Architecture Analysis · Security Layer Mapping</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
 
-  **Skills Demonstrated:** Network architecture analysis, security layer mapping
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>REPORT – DNS Analysis with dig</h4>
+<p>Using the dig command-line tool to investigate DNS records, query responses, and domain resolution behavior.</p>
+<p><strong>Skills:</strong> DNS Diagnostics · CLI Network Analysis</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
 
-- **REPORT – DNS Analysis with dig – v1.0.1**  
-  Using the `dig` command-line tool to investigate DNS records, query responses, and domain resolution behavior.
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>REPORT – Kerberos Authentication Protocol</h4>
+<p>Analysis of the Kerberos protocol and its role in secure identity verification within enterprise networks.</p>
+<p><strong>Skills:</strong> Authentication Protocols · Identity Security</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
 
-  **Skills Demonstrated:** DNS diagnostics, command-line network analysis
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>GUIDE – IP Subnetting Fundamentals</h4>
+<p>Practical explanation of subnetting used to divide IP networks into logical segments for routing and security.</p>
+<p><strong>Skills:</strong> Subnet Design · IP Addressing</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
 
-- **REPORT – Kerberos Authentication Protocol – v1.0.1**  
-  Analysis of the Kerberos authentication protocol and its role in secure identity verification within enterprise networks.
-
-  **Skills Demonstrated:** Authentication protocols, identity security
-
-- **GUIDE – IP Subnetting Fundamentals – v1.0.0**  
-  Practical explanation of subnetting concepts used to divide IP networks into logical segments for routing, segmentation, and security.
-
-  **Skills Demonstrated:** Subnet design, IP addressing
-
----
+</div>
 
 ## Network Architecture & Security
 
 Designing and analyzing network topologies with a focus on segmentation, secure communication, and resilient enterprise infrastructure.
 
-**Lab Index**
+### 🏗️ Network Design & Secure Infrastructure
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
-- **DIAGRAM – Adapted VPN Configuration Topology – v1.0.0**  
-  Network topology created in Cisco Packet Tracer representing a medium-sized organization of approximately 1,000 employees and incorporating secure VPN connectivity.
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>DIAGRAM – Adapted VPN Configuration Topology</h4>
+<p>Cisco Packet Tracer topology representing a 1,000-employee organization incorporating secure VPN connectivity.</p>
+<p><strong>Skills:</strong> Enterprise Design · VPN Architecture · Segmentation</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
 
-  **Skills Demonstrated:** Enterprise network design, VPN architecture, segmentation
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>DIAGRAM – Secure Network Design for a 100-User Business</h4>
+<p>Static architecture diagram illustrating secure infrastructure design for a small business environment.</p>
+<p><strong>Skills:</strong> Topology Planning · Infrastructure Documentation</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
 
-- **DIAGRAM – Secure Network Design for a 100-User Business – v1.0.0**  
-  Static network architecture diagram created using Draw.io illustrating secure infrastructure design for a small business environment.
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>REPORT – Network Attack Analysis</h4>
+<p>Examination of common network-based attack techniques and the infrastructure weaknesses they exploit.</p>
+<p><strong>Skills:</strong> Threat Analysis · Defensive Security</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
 
-  **Skills Demonstrated:** Network topology planning, infrastructure documentation
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>GUIDE – Domain Controller Network Configuration</h4>
+<p>Configuration guidance for integrating a DC into a segmented enterprise network environment.</p>
+<p><strong>Skills:</strong> Infrastructure Config · AD Networking</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
 
-- **REPORT – Network Attack Analysis – v1.0.1**  
-  Examination of common network-based attack techniques and the infrastructure weaknesses they exploit.
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>GUIDE – Enterprise IPsec VPN Troubleshooting Guide</h4>
+<p>Structured methodology for diagnosing and resolving IPsec VPN connectivity issues in enterprise environments.</p>
+<p><strong>Skills:</strong> VPN Diagnostics · IPsec Analysis · Troubleshooting</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
 
-  **Skills Demonstrated:** Threat analysis, defensive network security
-
-- **GUIDE – Domain Controller Network Configuration – v1.0.0**  
-  Configuration guidance for integrating a Windows domain controller into a segmented enterprise network environment.
-
-  **Skills Demonstrated:** Infrastructure configuration, Active Directory networking
-
-- **GUIDE – Enterprise IPsec VPN Troubleshooting Guide – v1.0.0**  
-  Provides a structured methodology for diagnosing and resolving IPsec VPN connectivity issues across enterprise network environments.
-
-  **Skills Demonstrated:** VPN diagnostics, IPsec configuration analysis, network troubleshooting
+</div>
 
 ---
 
