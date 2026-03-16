@@ -14,43 +14,79 @@ image:
 
 ### Governance & Risk Lab Overview
 
-| Category | Labs |
-|--------|------|
-| Security Governance: Templates & Resources | 4 |
-| Security Research & Strategic Analysis | 0 |
-| **Total Governance & Risk Labs Documented** | **4** |
-
 Security governance provides the strategic framework that guides how organizations manage cybersecurity risk. The documentation in this section demonstrates applied research and analysis focused on security frameworks, risk assessment methodologies, and governance practices used to guide enterprise security programs.
 
 These documents demonstrate familiarity with structured risk assessment methodologies and security governance frameworks used to evaluate organizational security posture and guide risk management decisions.
 
+| Category | Labs |
+|--------|------|
+| Governance, Policy & Risk | 3 |
+| Professional Reporting Frameworks | 1 |
+| Strategic Security Research | 1 |
+| **Total Governance Assets Documented** | **5** |
+
 ---
 
-## Security Governance: Templates & Resources
+# Security Governance: Templates & Resources
 
 Applied research and documentation focused on security governance frameworks and risk assessment methodologies used within enterprise cybersecurity programs.
 
-**Lab Index**
+## Governance & Policy Portfolio
 
-<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;"> <strong>Available Assets:</strong> Professional Reporting Frameworks · Corporate Security Policies Templates </p> <style> .responsive-table { width: 100%; border-collapse: separate; border-spacing: 10px; margin-top: 30px; } .responsive-table th { background: rgba(255, 255, 255, 0.1); color: #fff; padding: 15px; border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.2); font-size: 1.1em; } .responsive-table td { background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; text-align: left; vertical-align: top; border-radius: 8px; transition: transform 0.2s ease; } .responsive-table td:hover { transform: translateY(-5px); background: rgba(255, 255, 255, 0.08); } .template-link { display: inline-block; margin-top: 15px; padding: 8px 15px; background: #fff; color: #000 !important; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 0.9em; } @media (max-width: 800px) { .responsive-table thead { display: none; } .responsive-table tr { display: block; margin-bottom: 20px; } .responsive-table td { display: block; margin-bottom: 10px; } } </style> <table class="responsive-table" align="center"> <thead> <tr> <th>Frameworks & Reporting</th> <th>Governance & Policy</th> </tr> </thead> <tbody> <tr> <td data-title="Frameworks & Reporting"> <strong>Professional Security Report Template</strong><br> <span style="font-size: 0.9em; color: #ccc;">A comprehensive guide for creating structured, executive-ready technical reports that bridge the gap between IT and management.</span><br> <a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?usp=sharing" target="_blank" class="template-link">Download Template</a> </td> <td data-title="Governance & Policy"> <strong>Corporate BYOD Policy & Agreement</strong><br> <span style="font-size: 0.9em; color: #ccc;">A NIST-aligned policy framework to secure personal device usage within corporate networks, including employee legal agreements.</span><br> <a href="https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing" target="_blank" class="template-link">Download Template</a> </td> </tr> </tbody> </table>
+### 📜 Frameworks, Risk & Policy Documentation
 
-- **GUIDE – Risk Assessment Guide Adapted from NIST SP 800-53: AC-6 – v1.0.1**  
-  Documentation analyzing the NIST SP 800-53 AC-6 control and demonstrating how least privilege principles can be evaluated during organizational risk assessments.
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
-- **GUIDE – Risk Assessment Guide Adapted from NIST SP 800-30 Rev. 1 – v1.0.1**  
-  Guide explaining the NIST SP 800-30 risk assessment methodology and how organizations identify, evaluate, and prioritize cybersecurity risks.
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>GUIDE – Risk Assessment (NIST SP 800-53: AC-6) – v.1.0.1</h5>
+<p>Documentation analyzing the AC-6 control and demonstrating how least privilege principles are evaluated during risk assessments.</p>
+<p><strong>Skills:</strong> NIST SP 800-53 · Risk Assessment · Least Privilege</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>GUIDE – Risk Assessment (NIST SP 800-30 Rev. 1) – v.1.0.1</h5>
+<p>Guide explaining the NIST SP 800-30 methodology and how organizations identify, evaluate, and prioritize cybersecurity risks.</p>
+<p><strong>Skills:</strong> NIST SP 800-30 · Risk Management · Security Governance</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>TEMPLATE – Corporate BYOD Policy & Agreement – v.1.0.0</h5>
+<p>A NIST-aligned policy framework to secure personal device usage within corporate networks, including employee legal agreements.</p>
+<p><strong>Skills:</strong> Policy Writing · NIST Alignment · Compliance</p>
+<p align="center" style="margin-top:20px;"><a href="https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Download Template</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>TEMPLATE – Professional Security Report Framework – v.1.0.0</h5>
+<p>A comprehensive guide for creating executive-ready technical reports that bridge the gap between IT and management.</p>
+<p><strong>Skills:</strong> Executive Reporting · Technical Communication</p>
+<p align="center" style="margin-top:20px;"><a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?usp=sharing" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Download Template</a></p>
+</div>
+
+</div>
 
 ---
 
-## Security Research & Strategic Analysis
+# Security Research & Strategic Analysis
 
-Research-oriented documentation examining cybersecurity frameworks, threat models, and strategic security planning concepts used within enterprise governance programs.
+Research-oriented documentation examining cybersecurity frameworks, threat models, and strategic security planning concepts.
 
-**Lab Index**
+## Strategic Research Portfolio
 
-Documentation in this section focuses on the analysis of cybersecurity strategy, governance frameworks, and enterprise security planning methodologies.
+### 📈 Enterprise Strategy & Threat Analysis
 
-Additional research documentation will be added as governance-focused projects are completed.
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – BYOD in Organizations: Security & Challenges – v.1.0.1</h5>
+<p>Research and analysis examining the security risks, technical challenges, and mitigation strategies for BYOD environments.</p>
+<p><strong>Skills:</strong> Strategic Analysis · BYOD Security · Threat Modeling</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/byod-in-organizations/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+</div>
 
 ---
 
