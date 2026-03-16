@@ -366,11 +366,12 @@ Available Upon Request
 </div>
 
 </div>
-<br>
+ 
 ---
-</br>
+<br></br>
 ### 📑 GUIDES
 Technical runbooks and procedural guides for cloud migration and infrastructure deployment.
+
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -384,12 +385,9 @@ Technical runbooks and procedural guides for cloud migration and infrastructure 
 </div>
 
 </div>
-<br> 
+ 
 ---
-</br>
-Gemini said
-I have organized your Video Demonstrations into the same grid-card format, maintaining your exact titles and using specific "visual anchor" emojis for each category. Since these are videos, I've updated the button text to "Watch Demonstration" to distinguish them from your written reports.
-
+<br></br>
 ## Video Demonstrations
 The following videos demonstrate practical system administration, virtualization, cloud deployment, and security configuration tasks.
 
