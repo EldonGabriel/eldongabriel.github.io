@@ -347,13 +347,13 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>VIDEO – Linux System Administration with Cockpit</h4> – v1.0.0</h5>
+<h5>VIDEO – Linux System Administration with Cockpit</h4> – v1.0.0</h5>
 <p>Using the Cockpit web console for graphical server management and system health monitoring.</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>VIDEO – Secure Linux Administration with Webmin – v1.0.0</h5>
+<h5>VIDEO – Secure Linux Administration with Webmin – v1.0.0</h5>
 <p>Centralized administration of users, services, and configs through the Webmin portal.</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
