@@ -21,8 +21,7 @@ These labs demonstrate operational security practices including system hardening
 | Category | Labs |
 |--------|------|
 | System Security & Hardening | 5 |
-| Security Monitoring & Log Analysis | 1 |
-| **Total Security Operations Labs Documented** | **6** |
+| **Total Security Operations Labs Documented** | **5** |
 
 ---
 
@@ -74,27 +73,6 @@ Hands-on configuration of system security controls designed to protect infrastru
 <h5>GUIDE – Endpoint Security with the Windows Registry – v.1.0.0</h5>
 <p>Demonstrates using Windows Registry configuration to restrict system utilities and strengthen endpoint security controls.</p>
 <p><strong>Skills:</strong> Registry Hardening · Threat Surface Reduction · OS Security</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-</div>
-
----
-
-# Security Monitoring & Log Analysis
-
-Demonstrations and technical walkthroughs focused on observing system behavior, validating security controls, and identifying operational issues through monitoring tools and recovery techniques.
-
-## Monitoring & Recovery Portfolio
-
-### 👁️ System Analysis & Observability
-
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – Monitoring Windows Processes with Procmon – v.1.0.1</h5>
-<p>Demonstrates using Microsoft Process Monitor to observe system activity and analyze running processes for troubleshooting and security monitoring.</p>
-<p><strong>Skills:</strong> Security Monitoring · Behavioral Analysis · Sysinternals</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
