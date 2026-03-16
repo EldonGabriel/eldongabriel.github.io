@@ -20,9 +20,9 @@ These exercises emphasize structured troubleshooting methodologies, root cause a
 
 | Category | Labs |
 |--------|------|
-| Technical Troubleshooting | 3 |
+| Technical Troubleshooting | 2 |
 | Incident Response | 1 |
-| **Total Labs Documented** | **4** |
+| **Total Labs Documented** | **3** |
 
 ---
 
@@ -41,13 +41,6 @@ Structured diagnostic investigations used to identify the source of operational 
 <p>Diagnostic walkthrough for identifying and resolving Remote Desktop Protocol (RDP) access failures in AWS-hosted virtual machines.</p>
 <p><strong>Skills:</strong> Remote Access Troubleshooting · AWS Connectivity Diagnostics · Network Access Validation</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/rdp-troubleshooting-aws/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Guide</a></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – SMB Protocol: Function and Security Risks – v1.0.0</h5>
-<p>Technical overview of the Server Message Block (SMB) protocol with analysis of common configuration risks and security exposure.</p>
-<p><strong>Skills:</strong> Protocol Analysis · File Sharing Security · Network Service Evaluation</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
