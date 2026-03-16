@@ -30,117 +30,67 @@ These labs demonstrate operational security practices including system hardening
 
 ---
 
-# System Security & Hardening
+---
 
-Hands-on configuration of system security controls designed to protect infrastructure, enforce access restrictions, and support disaster recovery capabilities.
+# Security Governance: Templates & Resources
 
-## Hardening & Defense Portfolio
+Applied research and documentation focused on security governance frameworks and risk assessment methodologies used within enterprise cybersecurity programs.
 
-### 🛡️ Perimeter Defense & Secure Connectivity
+## Governance & Policy Portfolio
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Perimeter Defense: Firewall Fundamentals – v.1.0.0</h5>
-<p>Overview of firewall technologies and their role in enforcing network perimeter security.</p>
-<p><strong>Skills:</strong> Network Security · Perimeter Defense · Firewall Logic</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – OpenVPN Remote Access VPN Deployment and Validation – v.1.0.0</h5>
-<p>Deployment and validation of an OpenVPN remote access solution to provide secure connectivity for remote systems.</p>
-<p><strong>Skills:</strong> VPN Deployment · Encryption · Secure Remote Access</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-</div>
-
-### 🔐 Endpoint Hardening & Access Control
+### 📜 Frameworks, Risk & Policy Documentation
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – SecureStack Solutions – Backup, Recovery, and Restoration (BRR) Plan – v.1.0.0</h5>
-<p>Disaster recovery planning document outlining procedures for system backup, restoration, and operational continuity.</p>
-<p><strong>Skills:</strong> DR Planning · Business Continuity · Risk Mitigation</p>
+<h5>GUIDE – Risk Assessment (NIST SP 800-53: AC-6) – v.1.0.1</h5>
+<p>Documentation analyzing the AC-6 control and demonstrating how least privilege principles are evaluated during risk assessments.</p>
+<p><strong>Skills:</strong> NIST SP 800-53 · Risk Assessment · Least Privilege</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – Using Access Permissions and Rights to Secure a Folder – v.1.0.0</h5>
-<p>Applying Windows access permissions and user rights to restrict unauthorized access to sensitive directories.</p>
-<p><strong>Skills:</strong> NTFS Permissions · Access Control · Least Privilege</p>
+<h5>GUIDE – Risk Assessment (NIST SP 800-30 Rev. 1) – v.1.0.1</h5>
+<p>Guide explaining the NIST SP 800-30 methodology and how organizations identify, evaluate, and prioritize cybersecurity risks.</p>
+<p><strong>Skills:</strong> NIST SP 800-30 · Risk Management · Security Governance</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – Domain Controller Network Configuration – v.1.0.0</h5>
-<p>Configuration guidance for securely integrating a Windows domain controller into a segmented enterprise network environment.</p>
-<p><strong>Skills:</strong> AD Networking · Infrastructure Hardening · Secure Config</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<h5>TEMPLATE – Corporate BYOD Policy & Agreement – v.1.0.0</h5>
+<p>A NIST-aligned policy framework to secure personal device usage within corporate networks, including employee legal agreements.</p>
+<p><strong>Skills:</strong> Policy Writing · NIST Alignment · Compliance</p>
+<p align="center" style="margin-top:20px;"><a href="https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Download Template</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – Endpoint Security with the Windows Registry – v.1.0.0</h5>
-<p>Demonstrates using Windows Registry configuration to restrict system utilities and strengthen endpoint security controls.</p>
-<p><strong>Skills:</strong> Registry Hardening · Threat Surface Reduction · OS Security</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<h5>TEMPLATE – Professional Security Report Framework – v.1.0.0</h5>
+<p>A comprehensive guide for creating executive-ready technical reports that bridge the gap between IT and management.</p>
+<p><strong>Skills:</strong> Executive Reporting · Technical Communication</p>
+<p align="center" style="margin-top:20px;"><a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?usp=sharing" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Download Template</a></p>
 </div>
 
 </div>
 
 ---
 
-# Security Monitoring & Log Analysis
+# Security Research & Strategic Analysis
 
-Demonstrations and technical walkthroughs focused on observing system behavior, validating security controls, and identifying operational issues through monitoring tools and recovery techniques.
+Research-oriented documentation examining cybersecurity frameworks, threat models, and strategic security planning concepts.
 
-## Monitoring & Recovery Portfolio
+## Strategic Research Portfolio
 
-### 👁️ System Analysis & Observability
-
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – Monitoring Windows Processes with Procmon – v.1.0.1</h5>
-<p>Demonstrates using Microsoft Process Monitor to observe system activity and analyze running processes for troubleshooting and security monitoring.</p>
-<p><strong>Skills:</strong> Security Monitoring · Behavioral Analysis · Sysinternals</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-</div>
-
-### 💾 Backup, Recovery & Migration
+### 📈 Enterprise Strategy & Threat Analysis
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Active Directory Backup and Restore with Windows Server Backup – v.1.0.0</h5>
-<p>Demonstrates performing backup and recovery operations for an Active Directory environment using Windows Server Backup.</p>
-<p><strong>Skills:</strong> AD Administration · Disaster Recovery · Server Backup</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – VMware to AWS EC2 Migration Using AWS MGN – v.1.0.0</h5>
-<p>Demonstrates migrating Windows systems from a VMware environment to AWS EC2 using AWS Application Migration Service.</p>
-<p><strong>Skills:</strong> Cloud Migration · AWS MGN · Hybrid Infrastructure</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Restoring Windows System State with System Restore – v.1.0.0</h5>
-<p>Demonstrates using Windows System Restore to recover a virtual machine after system changes or software failures.</p>
-<p><strong>Skills:</strong> OS Recovery · Fault Tolerance · VM Management</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Backup and File Recovery with Duplicati CLI – v.1.0.0</h5>
-<p>Demonstrates installing and configuring the Duplicati command-line backup tool to create backups and restore deleted files.</p>
-<p><strong>Skills:</strong> CLI Backup · Encrypted Storage · Data Recovery</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<h5>REPORT – BYOD in Organizations: Security & Challenges – v.1.0.1</h5>
+<p>Research and analysis examining the security risks, technical challenges, and mitigation strategies for BYOD environments.</p>
+<p><strong>Skills:</strong> Strategic Analysis · BYOD Security · Threat Modeling</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/byod-in-organizations/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 </div>
+
+---
