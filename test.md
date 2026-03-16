@@ -122,11 +122,8 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/file-ownership-recovery/" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
-</div>
 
 ### 🛠️ Infrastructure Operations & Diagnostics
-
-
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h4>REPORT – Enforcing Operating System Patching Policy via Local GPO</h4>
@@ -158,7 +155,9 @@ Hands-on system administration tasks performed in Windows environments, focusing
 
 </div>
 
+
 ---
+
 
 ### 🐧 Linux Systems Administration
 
@@ -210,6 +209,158 @@ Administration of Linux-based systems including user management, file permission
 <h4>Linux System Administration Commands</h4>
 <p>Documentation of essential Linux commands used for system monitoring, troubleshooting, and resource management.</p>
 <p><strong>Skills:</strong> Linux CLI Administration · Process Monitoring · System Diagnostics</p>
+
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid #888; color:#888; border-radius:5px; font-weight:bold;">
+Available Upon Request
+</span>
+</p>
+</div>
+
+</div>
+
+### 🐧 Linux Administration Guides
+
+Practical guides demonstrating secure administration, monitoring, and management of Linux systems in server environments.
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>System Activity Reporter (SAR) Performance Monitoring</h4>
+<p>Implemented SAR to monitor CPU, memory, disk I/O, and network utilization on Ubuntu servers.</p>
+<p><strong>Skills:</strong> Linux Monitoring · Performance Diagnostics · System Analysis</p>
+
+<p align="center" style="margin-top:20px;">
+<a href="#" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Guide</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>Cockpit Secure System Administration</h4>
+<p>Configured Cockpit to securely manage Linux services, system metrics, and user administration through a web interface.</p>
+<p><strong>Skills:</strong> Linux Administration · Server Monitoring · Web-based Management</p>
+
+<p align="center" style="margin-top:20px;">
+<a href="#" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Guide</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>Webmin Secure Administration</h4>
+<p>Installed and secured Webmin for centralized Linux system configuration and service management.</p>
+<p><strong>Skills:</strong> Linux Service Management · System Configuration · Web Administration</p>
+
+<p align="center" style="margin-top:20px;">
+<a href="#" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Guide</a>
+</p>
+</div>
+
+</div>
+
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>IP Subnetting Fundamentals</h4>
+<p>Explores subnetting principles used to divide networks into smaller, manageable segments for efficient routing and network design.</p>
+<p><strong>Skills:</strong> Subnetting · IP Addressing · Network Design</p>
+
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/refreshing-my-subnetting-skills/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VirtualBox Network Modes</h4>
+<p>Analysis of VirtualBox networking configurations including NAT, Bridged, Host-Only, and Internal networking modes.</p>
+<p><strong>Skills:</strong> Virtual Networking · Lab Infrastructure · Network Configuration</p>
+
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid #888; color:#888; border-radius:5px; font-weight:bold;">
+Available Upon Request
+</span>
+</p>
+</div>
+
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>System Administration Virtualization in Cybersecurity</h4>
+<p>Explains the role of virtualization platforms in building isolated environments for system administration and cybersecurity testing.</p>
+<p><strong>Skills:</strong> Virtualization · Lab Architecture · Security Testing Environments</p>
+
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid #888; color:#888; border-radius:5px; font-weight:bold;">
+Available Upon Request
+</span>
+</p>
+</div>
+
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>Common Network Devices and OSI Layer Roles</h4>
+<p>Breakdown of common networking devices and the OSI layers where they operate within enterprise network infrastructure.</p>
+<p><strong>Skills:</strong> OSI Model · Network Architecture · Infrastructure Components</p>
+
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid #888; color:#888; border-radius:5px; font-weight:bold;">
+Available Upon Request
+</span>
+</p>
+</div>
+
+</div>
+
+---
+
+.
+
+### 🌐 Networking & Infrastructure
+Focuses on network architecture, subnetting logic, and the virtualization frameworks that support secure enterprise environments.
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>IP Subnetting Fundamentals</h4>
+<p>Explores subnetting principles used to divide networks into smaller, manageable segments for efficient routing and network design.</p>
+<p><strong>Skills:</strong> Subnetting · IP Addressing · Network Design</p>
+
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/refreshing-my-subnetting-skills/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>VirtualBox Network Modes</h4>
+<p>Analysis of VirtualBox networking configurations including NAT, Bridged, Host-Only, and Internal networking modes.</p>
+<p><strong>Skills:</strong> Virtual Networking · Lab Infrastructure · Network Configuration</p>
+
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid #888; color:#888; border-radius:5px; font-weight:bold;">
+Available Upon Request
+</span>
+</p>
+</div>
+
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>System Administration Virtualization in Cybersecurity</h4>
+<p>Explains the role of virtualization platforms in building isolated environments for system administration and cybersecurity testing.</p>
+<p><strong>Skills:</strong> Virtualization · Lab Architecture · Security Testing Environments</p>
+
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid #888; color:#888; border-radius:5px; font-weight:bold;">
+Available Upon Request
+</span>
+</p>
+</div>
+
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>Common Network Devices and OSI Layer Roles</h4>
+<p>Breakdown of common networking devices and the OSI layers where they operate within enterprise network infrastructure.</p>
+<p><strong>Skills:</strong> OSI Model · Network Architecture · Infrastructure Components</p>
 
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid #888; color:#888; border-radius:5px; font-weight:bold;">
