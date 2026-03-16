@@ -109,7 +109,7 @@ Designing and analyzing network topologies with a focus on segmentation, secure 
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – Domain Controller Network Configuration – v.1.0.0</h>
+<h5>GUIDE – Domain Controller Network Configuration – v1.0.0</h5>
 <p>Configuration guidance for integrating a DC into a segmented enterprise network environment.</p>
 <p><strong>Skills:</strong> Infrastructure Config · AD Networking</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
