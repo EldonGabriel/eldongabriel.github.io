@@ -52,7 +52,7 @@ These documents demonstrate practical understanding of risk assessment methodolo
 <a href="https://eldongabriel.github.io/applying-least-privilege/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Blog</a>
 </p>
 </div>
-</p>
+
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
