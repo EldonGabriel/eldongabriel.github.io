@@ -126,7 +126,23 @@ Designing and analyzing network topologies with a focus on segmentation, secure 
 
 ---
 
-## Portfolio Documentation
+## Lab Demonstrations
+
+### 🌐 Networking Labs
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Setting Up a Computer for Network Integration – v1.0.0</h5>
+<p>Configuring a workstation for network connectivity, including IP addressing, DNS settings, and validation of communication within a networked environment.</p>
+<iframe width="100%" height="315" src="https://youtu.be/m4MngVs_bmM" frameborder="0" allowfullscreen></iframe>
+</div>
+
+</div>
+
+---
+
+# Portfolio Documentation
 
 This section summarizes networking analysis, protocol research, and network architecture design work performed as part of ongoing cybersecurity and infrastructure training.
 
