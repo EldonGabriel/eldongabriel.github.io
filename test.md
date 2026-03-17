@@ -6,83 +6,57 @@ image:
   path: /assets/images/banner.png
 ---
 
-### Operational Resilience Laboratory Overview
-
-Modern organizations depend on resilient infrastructure capable of maintaining operations during system failures, cyber incidents, or unexpected outages. The labs in this section demonstrate practical experience designing and implementing backup, recovery, and continuity strategies to protect critical systems and data.
-
-These labs demonstrate practical backup administration, recovery validation, and resilience planning used in real-world system administration and cybersecurity operations.
-
-| Category | Labs |
-|--------|------|
-| Backup, Recovery & Migration | 4 |
-| **Total Labs Documented** | **4** |
-
+---
+title: "Applying Least Privilege in Risk Assessment (NIST SP 800-53 AC-6)"
+date: 2026-03-17
+author: Eldon Gabriel
+tags: [Cybersecurity, Access Control, NIST, Governance, Risk Management]
+excerpt: "Applying the principle of least privilege to reduce risk through controlled access, monitoring, and role-based security models."
+image:
+  path: "/assets/images/nist800-53.png"
+  thumbnail: "/assets/images/nist800-53.png"
 ---
 
-# Business Continuity: Backup & Recovery
+## <center>Introduction</center>
 
-Maintaining reliable backups and tested recovery procedures is a critical component of operational resilience. These labs demonstrate the use of automated backup tools and command-line utilities to securely store and recover system data.
+This exercise focused on applying the principle of least privilege based on NIST SP 800-53 AC-6. The goal was to understand how limiting access reduces security risks and protects systems from misuse.
 
-## Operational Resilience Portfolio
+## <center>What I Studied</center>
 
-### 💾 Data Protection & Recovery Testing
+- **Least Privilege (PoLP):** giving users only the access they need  
+- **Role-Based Access Control (RBAC):** assigning permissions based on job roles  
+- **Separation of Duties:** splitting critical tasks between multiple users  
+- **Privileged Account Management:** limiting and securing admin-level access  
+- **Access Reviews:** checking and removing unnecessary permissions  
+- **Logging and Monitoring:** tracking access activity for suspicious behavior  
+- **Just-In-Time (JIT) Access:** granting temporary access when needed  
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+The exercise followed a structured approach to control access and reduce risk across systems.
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – Backup and Restore Using Duplicati CLI – v.1.0.0</h5>
-<p>Demonstrates how to perform secure file backups using the Duplicati command-line interface, covering encryption and restoration procedures.</p>
-<p><strong>Skills:</strong> Backup Automation · Data Encryption · Restore Testing · CLI Management</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
+## <center>What I Learned</center>
 
-</div>
+- Too much access is one of the biggest security risks in any system.  
+- Users often have more permissions than they actually need.  
+- Limiting admin accounts reduces the chance of system-wide compromise.  
+- Monitoring access is just as important as controlling it.  
 
-### 📋 Resilience & Recovery Planning
+I also learned that access control is not a one-time setup. It requires regular review and adjustment to stay effective.
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – SecureStack Solutions – Backup, Recovery, and Restoration (BRR) Plan – v.1.0.0</h5>
-<p>Disaster recovery planning document outlining procedures for system backup, restoration, and operational continuity.</p>
-<p><strong>Skills:</strong> DR Planning · Business Continuity · Risk Mitigation</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
+## <center>Why It Matters</center>
 
-### 💾 Backup, Recovery & Migration
+Least privilege is a core part of system security. If attackers gain access to an account with high privileges, they can move through systems quickly and cause major damage.
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+In real environments, this is like giving employees keys to every room in a building. If one key is stolen, everything is exposed.
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Active Directory Backup and Restore with Windows Server Backup – v.1.0.0</h5>
-<p>Demonstrates performing backup and recovery operations for an Active Directory environment using Windows Server Backup.</p>
-<p><strong>Skills:</strong> AD Administration · Disaster Recovery · Server Backup</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
+This approach helps organizations:
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – VMware to AWS EC2 Migration Using AWS MGN – v.1.0.0</h5>
-<p>Demonstrates migrating Windows systems from a VMware environment to AWS EC2 using AWS Application Migration Service.</p>
-<p><strong>Skills:</strong> Cloud Migration · AWS MGN · Hybrid Infrastructure</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
+- Reduce attack surface  
+- Prevent unauthorized access  
+- Detect suspicious activity earlier  
+- Meet compliance requirements  
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Restoring Windows System State with System Restore – v.1.0.0</h5>
-<p>Demonstrates using Windows System Restore to recover a virtual machine after system changes or software failures.</p>
-<p><strong>Skills:</strong> OS Recovery · Fault Tolerance · VM Management</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
+## <center>Reflection & Next Steps</center>
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Backup and File Recovery with Duplicati CLI – v.1.0.0</h5>
-<p>Demonstrates installing and configuring the Duplicati command-line backup tool to create backups and restore deleted files.</p>
-<p><strong>Skills:</strong> CLI Backup · Encrypted Storage · Data Recovery</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
-</div>
+This exercise improved my understanding of access control and risk reduction. I will continue applying least privilege in system configurations and explore more advanced access control models.
 
-</div>
-
----
-
-# Portfolio Documentation
-
-This section highlights hands-on work related to Security Operations. Additional lab documentation, configuration notes, and recovery testing records are maintained within the full research archive and are available upon request for professional review.
+For full implementation details and policy structure, the complete guide is available upon request in line with MCSI academic policies.
