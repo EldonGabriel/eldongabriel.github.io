@@ -73,5 +73,3 @@ style="border:1px solid #333; border-radius:8px;">
 ## <center>Reflection & Next Steps</center>
 
 This exercise strengthened my understanding of structured risk analysis and decision-making. I will continue building on this by applying risk frameworks to more complex systems and scenarios.
-
-For deeper analysis and documentation, supporting reports will be made available upon request in line with MCSI academic policies.
