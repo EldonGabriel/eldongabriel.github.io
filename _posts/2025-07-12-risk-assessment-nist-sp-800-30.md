@@ -64,6 +64,9 @@ style="border:1px solid #333; border-radius:8px;">
 <p style="margin-top:12px; color:#aaa;">
 <strong>GUIDE – Risk Assessment Guide Adapted from NIST SP 800-30 Rev. 1– v1.0.1</strong>
 </p>
+</div>
+
+</div>
 
 ## <center>Reflection & Next Steps</center>
 
