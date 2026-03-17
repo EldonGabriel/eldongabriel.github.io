@@ -234,7 +234,7 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 
 ---
 
-## Video Demonstrations
+## Lab Demonstrations
 
 ### 🏗️ Virtualization & Infrastructure Labs
 
