@@ -25,6 +25,9 @@ These exercises demonstrate how administrators implement identity security contr
 | Identity & Access Management | 6 |
 | **Total Identity Security Labs Documented** | **6** |
 
+
+Note: Certain lab artifacts are restricted in accordance with Mossé Cyber Security Institute (MCSI) academic integrity and no-public-distribution policies.
+{: .notice}
 ---
 
 # Identity & Access Management
