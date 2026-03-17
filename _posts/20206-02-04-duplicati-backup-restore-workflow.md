@@ -1,6 +1,6 @@
 ---
 title: "Duplicati Backup and Restore Workflow"
-date: 2025-02-04
+date: 2026-02-04
 author: Eldon Gabriel
 tags: [Backup, Duplicati, CLI, Data Recovery, System Administration]
 excerpt: "A hands-on workflow demonstrating how to back up, verify, and restore data using Duplicati CLI in a controlled environment."
