@@ -26,9 +26,6 @@ These documents demonstrate familiarity with structured risk assessment methodol
 | Lab Demonstration | 2 |
 | **Total Governance Assets Documented** | **7** |
 
-
-Note: Certain lab artifacts are restricted in accordance with Mossé Cyber Security Institute (MCSI) academic integrity and no-public-distribution policies.
-{: .notice}
 ---
 
 # Governance & Risk Documentation
