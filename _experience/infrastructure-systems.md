@@ -42,49 +42,49 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <h5>REPORT – Deploy Local GPO for Windows Security Policies – v1.0.0</h5>
 <p>Configured Local Group Policy settings to enforce baseline Windows security protections.</p>
 <p><strong>Skills:</strong> GPO Engineering · Endpoint Hardening</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/deploying-local-group-policy-to-strengthen-windows-security/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/deploying-local-group-policy-to-strengthen-windows-security/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – GPO Hardening for Windows Application Control – v1.0.0</h5>
 <p>Implemented execution restrictions and application whitelisting logic via Group Policy Objects.</p>
 <p><strong>Skills:</strong> Application Control · Threat Surface Reduction</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/wcp-administration/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/wcp-administration/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Harden UAC via Local Group Policy – v1.0.0</h5>
 <p>Strengthened User Account Control configuration to prevent unauthorized privilege escalation.</p>
 <p><strong>Skills:</strong> UAC Hardening · Privilege Security</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/protecting-win10-hardened-uac-settings/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/protecting-win10-hardened-uac-settings/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – System Hardening via Local GPO: Windows Defender – v1.0.0</h5>
 <p>Deployed centralized configurations for Windows Defender Antivirus to ensure real-time protection.</p>
 <p><strong>Skills:</strong> Endpoint Protection · Windows Defender</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-windows-defender-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-windows-defender-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>GUIDE – Endpoint Security with the Windows Registry – v1.0.0</h5>
 <p>Configured Windows Registry security settings to restrict untrusted user activity and enforce system-level access controls.</p>
 <p><strong>Skills:</strong> ERegistry Hardening · Endpoint Security · Access Control</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/using-the-windows-registry-to-restrict-untrusted-user-accounts/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/using-the-windows-registry-to-restrict-untrusted-user-accounts/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0</h5>
 <p>Configured automatic workstation locking to prevent unauthorized physical access to unattended systems.</p>
 <p><strong>Skills:</strong> Physical Security · Policy Enforcement</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/deploying-session-lock-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/deploying-session-lock-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – System Hardening via Local GPO: Restricting Anonymous Connections – v1.0.0</h5>
 <p>Hardened the OS by restricting null sessions and anonymous enumeration of SAM accounts and shares.</p>
 <p><strong>Skills:</strong> Information Leakage · System Hardening</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-win10-restricting-anonymous-connections/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-win10-restricting-anonymous-connections/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 </div>
@@ -97,7 +97,7 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <h5>REPORT – Enforcing Operating System Patching Policy via Local GPO – v1.0.0</h5>
 <p>Configured Windows Update policies through GPO to ensure timely security patching.</p>
 <p><strong>Skills:</strong> Vulnerability Management · Patch Compliance</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/enforcing-windows-patching-policies/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/enforcing-windows-patching-policies/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 </div>
@@ -110,14 +110,14 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <h5>REPORT – WinRM Secure Configuration and Validation – v1.0.0</h5>
 <p>Configured and validated secure Windows Remote Management settings for administrative traffic.</p>
 <p><strong>Skills:</strong> WinRM · Secure Remote Administration</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/securing-winrm-configuration-with-lgp/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/securing-winrm-configuration-with-lgp/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – SMB Protocol: Function and Security Risks – v1.0.0</h5>
 <p>Analyzed the SMB protocol architecture and documented operational and security risks.</p>
 <p><strong>Skills:</strong> Network Protocols · Threat Analysis</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/blocking-smb-access-strengthening-network-security-with-windows-firewall/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/blocking-smb-access-strengthening-network-security-with-windows-firewall/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 </div>
@@ -213,21 +213,21 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 <h5>GUIDE – VMware-to-AWS Migration Runbook – v1.1.0</h5>
 <p>Step-by-step runbook documenting migration procedures from VMware environments to AWS EC2, including post-migration agent cleanup and validation.</p>
 <p><strong>Skills:</strong> Cloud Migration · AWS EC2 · Infrastructure Runbooks</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/aws-mgn-agent-removal-vmware-to-ec2/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Guide</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/aws-mgn-agent-removal-vmware-to-ec2/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>GUIDE – Building a vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0</h5>
 <p>Built a nested VMware vSphere 8 lab environment on AMD Ryzen hardware by bypassing firmware virtualization restrictions.</p>
 <p><strong>Skills:</strong> Virtualization · Lab Architecture · Hypervisor Deployment</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/bypassing-firmware-locks-nested-vsphere-8/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Guide</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/bypassing-firmware-locks-nested-vsphere-8/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>GUIDE – UTM Kali Linux Shared Folder Configuration – v1.0.0</h5>
 <p>Configured shared folder integration between host and Kali Linux virtual machine within UTM virtualization environment.</p>
 <p><strong>Skills:</strong> Virtualization · Linux VM Management · File Integration</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/utm-kali-linux-shared-folder-guide/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Guide</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/utm-kali-linux-shared-folder-guide/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 </div>
@@ -302,7 +302,7 @@ These materials are available for professional or technical review upon request.
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Windows 10 VM on Google Cloud Platform (GCP) - v1.0.0</h5>
 <p>Advanced deployment of a Windows 10 instance on GCP for remote desktop and management tasks.</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/Mastering-GCP-windows-10/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Watch Lab</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/Mastering-GCP-windows-10/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 </div>
