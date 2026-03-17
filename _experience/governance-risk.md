@@ -23,31 +23,35 @@ These documents demonstrate familiarity with structured risk assessment methodol
 | Governance, Policy & Risk | 3 |
 | Professional Reporting Frameworks | 1 |
 | Strategic Security Research | 1 |
-| Lab Demonstration |  |
-| **Total Governance Assets Documented** | **5** |
+| Lab Demonstration | 2 |
+| **Total Governance Assets Documented** | **7** |
 
 ---
 
 # Governance & Risk Documentation
 
-Applied research and documentation focused on security governance frameworks and risk assessment methodologies used within enterprise cybersecurity programs.
+These documents demonstrate practical understanding of risk assessment methodologies and governance frameworks used to evaluate security posture.
 
 ### 📜 Frameworks, Risk & Policy Documentation
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – Risk Assessment (NIST SP 800-53: AC-6) – v.1.0.1</h5>
-<p>Analysis of NIST SP 800-53 control AC-6 demonstrating how least-privilege principles are evaluated and validated during organizational risk assessments.</p>
-<p><strong>Skills:</strong> NIST SP 800-53 · Risk Assessment · Least Privilege</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
+<!-- BLOG -->
+<div>
+<h5>BLOG – Performing a Risk Assessment with NIST SP 800-30</h5>
+<p>Applying a structured risk assessment process to identify assets, threats, and vulnerabilities, and prioritize risks using a simple scoring method.</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/risk-assessment-nist-sp-800-30" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Blog</a>
+</p>
 </div>
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – Risk Assessment (NIST SP 800-30 Rev. 1) – v.1.0.1</h5>
-<p>Guide explaining the NIST SP 800-30 methodology and how organizations identify, evaluate, and prioritize cybersecurity risks.</p>
-<p><strong>Skills:</strong> NIST SP 800-30 · Risk Management · Security Governance</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
+<!-- BLOG (AC-6) -->
+<div>
+<h5>BLOG – Applying Least Privilege (NIST SP 800-53 AC-6)</h5>
+<p>Using least privilege, RBAC, and access controls to reduce risk and protect systems from unauthorized access.</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/applying-least-privilege/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Blog</a>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -70,7 +74,7 @@ Applied research and documentation focused on security governance frameworks and
 
 # Security Research & Strategic Analysis
 
-Research-oriented documentation examining cybersecurity frameworks, threat models, and strategic security planning concepts.
+Research examining cybersecurity frameworks, threat models, and security strategy concepts.
 
 ## Security Strategy & Risk Research
 
@@ -91,6 +95,10 @@ Research-oriented documentation examining cybersecurity frameworks, threat model
 
 ## Lab Demonstrations
 
+**Note:**  
+Certain lab artifacts are restricted in accordance with Mossé Cyber Security Institute (MCSI) academic integrity and no-public-distribution policies.  
+These materials are available for professional or technical review upon request.
+
 ### 📊 Risk Assessment & Analysis Labs
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
@@ -100,9 +108,7 @@ Research-oriented documentation examining cybersecurity frameworks, threat model
 <p>Identifying assets, threats, and vulnerabilities to evaluate organizational risk exposure.</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Restricted – Available for Professional Review
-</span>
-</p>
+Restricted – Available for Professional Review</span></p>
 </div>
 
 </div>
@@ -116,9 +122,7 @@ Restricted – Available for Professional Review
 <p>Evaluating and applying security policies aligned with organizational and compliance requirements.</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Restricted – Available for Professional Review
-</span>
-</p>
+Restricted – Available for Professional Review</span></p>
 </div>
 
 </div>
@@ -131,4 +135,4 @@ This section summarizes governance and risk analysis documentation produced as p
 
 While selected documents are highlighted here, additional supporting research, framework analysis, and governance documentation are maintained within a private research archive.
 
-Complete documentation and supporting materials are Restricted – Available for Professional Review for professional or technical review.
+Complete documentation and supporting materials are restricted and available upon request for professional or technical review.
