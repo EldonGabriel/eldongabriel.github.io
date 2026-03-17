@@ -210,7 +210,7 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>FIELD NOTES –Resolving AWS MGN Agent Removal Issues After VMware to EC2 Migration</h5>
+<h5>FIELD NOTES – Resolving AWS MGN Agent Removal Issues After VMware to EC2 Migration</h5>
 <p>Step-by-step runbook documenting migration procedures from VMware environments to AWS EC2, including post-migration agent cleanup and validation.</p>
 <p><strong>Skills:</strong> Cloud Migration · AWS EC2 · Infrastructure Runbooks</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/aws-mgn-agent-removal-vmware-to-ec2/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
