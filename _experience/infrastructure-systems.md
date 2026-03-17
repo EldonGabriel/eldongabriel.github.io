@@ -134,28 +134,28 @@ Administration of Linux-based systems including user management, file permission
 <h5>GUIDE – Cockpit Secure System Administration – v1.0.0</h5>
 <p>Configured Cockpit for secure browser-based Linux system management and service monitoring.</p>
 <p><strong>Skills:</strong> Linux Administration · Server Management</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>GUIDE – Webmin Secure Administration – v1.0.0</h5>
 <p>Deployed and secured Webmin to manage Linux services, users, and configuration through a web interface.</p>
 <p><strong>Skills:</strong> Linux Service Management · System Configuration</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Linux File Permissions Management – v1.0.0</h5>
 <p>Managed file and directory permissions using chmod, chown, and chgrp to enforce proper access control.</p>
 <p><strong>Skills:</strong> Linux Permissions · Access Control</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Linux System Administration Commands – v1.0.0</h5>
 <p>Documentation of essential Linux commands used for system monitoring, troubleshooting, and resource management.</p>
 <p><strong>Skills:</strong> Linux CLI Administration · Process Monitoring · System Diagnostics</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 </div>
@@ -168,7 +168,7 @@ Administration of Linux-based systems including user management, file permission
 <h5>GUIDE – SAR Performance Monitoring on Ubuntu – v1.0.0</h5>
 <p>Implemented SAR to monitor CPU, memory, disk I/O, and network utilization on Ubuntu servers.</p>
 <p><strong>Skills:</strong> Linux Monitoring · Performance Diagnostics · System Analysis</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 </div>
@@ -186,21 +186,21 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 <h5>REPORT – VirtualBox Network Modes – v1.0.0</h5>
 <p>Analysis of VirtualBox networking configurations including NAT, Bridged, Host-Only, and Internal networking modes.</p>
 <p><strong>Skills:</strong> Virtual Networking · Lab Infrastructure · Network Configuration</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – System Administration Virtualization in Cybersecurity – v1.0.1</h5>
 <p>Explains the role of virtualization platforms in building isolated environments for system administration and cybersecurity testing.</p>
 <p><strong>Skills:</strong> Virtualization · Lab Architecture · Security Testing Environments</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.0</h5>
 <p>Documented the removal of AWS MGN migration agents and performed post-migration environment cleanup and validation.</p>
 <p><strong>Skills:</strong> AWS Migration · Cloud Cleanup · Incident Remediation</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 </div>
@@ -247,38 +247,38 @@ These materials are available for professional or technical review upon request.
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – VMware ESXi and vSphere VM Deployment and Network Connectivity Test – v1.0.0</h5>
 <p>Hands-on setup of enterprise hypervisor environments using ESXi and vSphere management.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Virtual Machine Snapshot Creation for System Rollback – v1.0.0</h5>
 <p>Demonstrating the use of snapshots to create point-in-time recovery marks before system changes.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – VMware Fusion VM Deployment and Inter-VM Network Connectivity – v1.0.0</h5>
 <p>Standardized workflow for provisioning new virtual hardware within a VMware environment.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Windows Subsystem for Linux Installation and Configuration – v1.0.0</h5>
 <p>Configuring WSL to enable a native Linux environment directly within Windows.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Two-VM Virtualized Cybersecurity Lab Environment – v1.0.0</h5>
 <p>Architecting a secure, isolated lab with a victim and attacker machine for security testing.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Setting Up a Secure Software Development Environment – v1.0.0</h5>
 <p>Configuration of a secure and efficient development environment with essential tools, runtimes, and workflows to support secure coding and system development practices.</p>
 <p align="center" style="margin-top:20px;">
-<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 </div>
@@ -290,13 +290,13 @@ These materials are available for professional or technical review upon request.
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – AWS EC2 Virtual Machine Deployment and Secure SSH Access – v1.0.0</h5>
 <p>Provisioning EC2 instances within AWS, including Security Group and remote access validation.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – GCP Compute Engine Virtual Machine Deployment and SSH Access – v1.0.0</h5>
 <p>Deploying Compute Engine instances on Google Cloud Platform with VPC integration.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -350,25 +350,25 @@ These materials are available for professional or technical review upon request.
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Linux Firewall Configuration with Shorewall – v1.0.0</h5>
 <p>Configuring Shorewall to manage Netfilter and secure network traffic on Linux servers.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Linux Performance Monitoring with SAR (sysstat) – v1.0.0</h5>
 <p>Real-time and historical performance data collection using the System Activity Reporter.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Linux System Administration with Cockpit – v1.0.0</h5>
 <p>Using the Cockpit web console for graphical server management and system health monitoring.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Secure Linux Administration with Webmin – v1.0.0</h5>
 <p>Centralized administration of users, services, and configs through the Webmin portal.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 </div>
@@ -392,25 +392,25 @@ These materials are available for professional or technical review upon request.
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Analyze Windows Processes with Procmon – v1.0.0</h5>
 <p>Using Process Monitor to audit registry, file system, and network activity in real-time.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Secure Credentials with a Password Manager – v1.0.0</h5>
 <p>Best practices for credential hygiene using secure vaulting solutions.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Use Registry to Restore File Ownership – v1.0.0</h5>
 <p>Direct Registry manipulation to recover ownership and access permissions on critical files.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Block SMB Access with Windows Firewall – v1.0.0</h5>
 <p>Mitigating lateral movement by creating firewall rules to block SMB traffic on endpoints.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 </div>
@@ -422,25 +422,25 @@ These materials are available for professional or technical review upon request.
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – GPO to Enforce Session Locks – v1.0.0</h5>
 <p>Configuring idle-time lockouts to protect physical security of endpoints.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Securely Configure WinRM with GPO – v1.0.0</h5>
 <p>Securing remote management traffic using encrypted listeners and policy enforcement.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Windows Defender Hardening via GPO – v1.0.0</h5>
 <p>Configuring advanced Defender settings, including real-time scanning and cloud protection.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Deployed Exploit Guard via GPO – v1.0.0</h5>
 <p>Enabling Attack Surface Reduction (ASR) rules and memory protection through Exploit Guard.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
 </div>
 
 </div>
@@ -495,4 +495,4 @@ While this page highlights representative reports and demonstrations, it is supp
 
 To keep the site streamlined and focused on key projects, not all documentation artifacts are displayed directly.
 
-Complete reports, lab documentation, and supporting technical materials are available upon request for professional or technical review.
+Complete reports, lab documentation, and supporting technical materials are Restricted – Available for Professional Review for professional or technical review.
