@@ -39,49 +39,49 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Deploy Local GPO for Windows Security Policies – v1.0.0</h5>
+<h5>BLOG – Deploy Local GPO for Windows Security Policies</h5>
 <p>Configured Local Group Policy settings to enforce baseline Windows security protections.</p>
 <p><strong>Skills:</strong> GPO Engineering · Endpoint Hardening</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/deploying-local-group-policy-to-strengthen-windows-security/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – GPO Hardening for Windows Application Control – v1.0.0</h5>
+<h5>BLOG – GPO Hardening for Windows Application Control</h5>
 <p>Implemented execution restrictions and application whitelisting logic via Group Policy Objects.</p>
 <p><strong>Skills:</strong> Application Control · Threat Surface Reduction</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/wcp-administration/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Harden UAC via Local Group Policy – v1.0.0</h5>
+<h5>BLOG – Harden UAC via Local Group Policy</h5>
 <p>Strengthened User Account Control configuration to prevent unauthorized privilege escalation.</p>
 <p><strong>Skills:</strong> UAC Hardening · Privilege Security</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/protecting-win10-hardened-uac-settings/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – System Hardening via Local GPO: Windows Defender – v1.0.0</h5>
+<h5>BLOG – System Hardening via Local GPO: Windows Defender – v1.0.0</h5>
 <p>Deployed centralized configurations for Windows Defender Antivirus to ensure real-time protection.</p>
 <p><strong>Skills:</strong> Endpoint Protection · Windows Defender</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-windows-defender-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – Endpoint Security with the Windows Registry – v1.0.0</h5>
+<h5>BLOG – Endpoint Security with the Windows Registry</h5>
 <p>Configured Windows Registry security settings to restrict untrusted user activity and enforce system-level access controls.</p>
 <p><strong>Skills:</strong> ERegistry Hardening · Endpoint Security · Access Control</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/using-the-windows-registry-to-restrict-untrusted-user-accounts/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0</h5>
+<h5>BLOG – Applying a Local GPO for Session Lock Enforcement</h5>
 <p>Configured automatic workstation locking to prevent unauthorized physical access to unattended systems.</p>
 <p><strong>Skills:</strong> Physical Security · Policy Enforcement</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/deploying-session-lock-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – System Hardening via Local GPO: Restricting Anonymous Connections – v1.0.0</h5>
+<h5>BLOG – System Hardening via Local GPO: Restricting Anonymous Connections</h5>
 <p>Hardened the OS by restricting null sessions and anonymous enumeration of SAM accounts and shares.</p>
 <p><strong>Skills:</strong> Information Leakage · System Hardening</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-win10-restricting-anonymous-connections/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
@@ -107,14 +107,14 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – WinRM Secure Configuration and Validation – v1.0.0</h5>
+<h5>BLOG – WinRM Secure Configuration and Validation</h5>
 <p>Configured and validated secure Windows Remote Management settings for administrative traffic.</p>
 <p><strong>Skills:</strong> WinRM · Secure Remote Administration</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/securing-winrm-configuration-with-lgp/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – SMB Protocol: Function and Security Risks – v1.0.0</h5>
+<h5>BLOG – SMB Protocol: Function and Security Risks</h5>
 <p>Analyzed the SMB protocol architecture and documented operational and security risks.</p>
 <p><strong>Skills:</strong> Network Protocols · Threat Analysis</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/blocking-smb-access-strengthening-network-security-with-windows-firewall/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
