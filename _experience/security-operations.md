@@ -40,14 +40,14 @@ Hands-on configuration of system security controls designed to protect infrastru
 <h5>REPORT – Perimeter Defense: Firewall Fundamentals – v1.0.0</h5>
 <p>Overview of firewall technologies and their role in enforcing network perimeter security.</p>
 <p><strong>Skills:</strong> Network Security · Perimeter Defense · Firewall Policy</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – OpenVPN Remote Access Deployment and Validation – v1.0.0</h5>
 <p>Deployment and validation of an OpenVPN remote access solution to provide secure connectivity for remote systems.</p>
 <p><strong>Skills:</strong> VPN Deployment · Encryption · Secure Remote Access</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
 </div>
@@ -60,22 +60,22 @@ Hands-on configuration of system security controls designed to protect infrastru
 <h5>GUIDE – Endpoint Security with the Windows Registry – v1.0.0</h5>
 <p>Demonstrates using Windows Registry configuration to restrict system utilities and strengthen endpoint security controls.</p>
 <p><strong>Skills:</strong> Registry Hardening · Threat Surface Reduction · OS Security</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>BLOG – SMB Hardening for Credential Theft Protection</h5>
+<h5>FIELD NOTES – Deploying Local Group Policy to Harden SMB Sessions</h5>
 <p>Applied SMB security policies to reduce exposure to credential harvesting and lateral movement.</p>
 <p><strong>Skills:</strong> SMB Hardening · Credential Protection · Lateral Movement Mitigation</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/deploying-local-group-policy-to-harden-smb-sessions/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/deploying-local-group-policy-to-harden-smb-sessions/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>BLOG – Monitoring Windows Processes with Procmon</h5>
+<h5>FIELD NOTES – Monitoring Windows Processes with Procmon: A Practical Guide</h5>
 <p>Demonstrates using Microsoft Process Monitor to observe Windows system activity, analyze process behavior, and investigate interactions with the file system and registry.</p>
 <p><strong>Skills:</strong> Security Monitoring · Process Analysis · Sysinternals Diagnostics</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/procmon-incident-response/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a>
+<a href="https://eldongabriel.github.io/procmon-incident-response/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
@@ -89,7 +89,7 @@ Hands-on configuration of system security controls designed to protect infrastru
 <h5>REPORT – Active Directory Bare Metal Recovery – v1.0.0</h5>
 <p>Demonstrates performing a full system backup and bare metal recovery of an Active Directory Domain Controller.</p>
 <p><strong>Skills:</strong> Active Directory · System Backup · Disaster Recovery</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
 </div>
@@ -105,7 +105,7 @@ Hands-on configuration of system security controls designed to protect infrastru
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Network Traffic Monitoring with pfSense and Snort – v1.0.0</h5>
 <p>Monitoring and analyzing network traffic using IDS/IPS tools to detect suspicious activity and potential intrusions.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
 </div>
@@ -117,19 +117,19 @@ Hands-on configuration of system security controls designed to protect infrastru
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Vulnerability Scanning Using OpenVAS – v1.0.0</h5>
 <p>Performing vulnerability assessments to identify and prioritize security weaknesses across networked systems.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Deploying OpenVAS with Docker – v1.0.0</h5>
 <p>Containerized deployment of OpenVAS for scalable and repeatable vulnerability scanning environments.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – SSL/TLS Configuration Assessment with sslscan – v1.0.0</h5>
 <p>Evaluating cryptographic configurations and identifying weak protocols and cipher suites in secure communications.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
 </div>
@@ -141,25 +141,25 @@ Hands-on configuration of system security controls designed to protect infrastru
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – YARA Environment Setup – v1.0.0</h5>
 <p>Setting up a malware detection environment using YARA for rule-based file analysis.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Creating YARA Rules – v1.0.0</h5>
 <p>Developing rule-based signatures to identify malware patterns and suspicious file characteristics.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Detecting Small PE Files Using YARA – v1.0.0</h5>
 <p>Identifying suspicious executables through size-based and structural pattern matching.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Self-Matching YARA Rule – v1.0.0</h5>
 <p>Validating YARA rule behavior by testing detection logic against controlled datasets.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
 </div>
