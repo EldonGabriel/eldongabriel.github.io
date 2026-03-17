@@ -20,11 +20,11 @@ These labs represent hands-on work performed in controlled environments designed
 
 | Category | Labs |
 |--------|------|
-| Windows Systems Administration | 10 |
-| Linux Systems Administration | 5 |
-| Virtualization & Infrastructure | 6 |
+| Windows Systems Administration | 12 |
+| Linux Systems Administration | 6 |
+| Virtualization & Infrastructure | 7 |
 | Video Demonstration | 47 |
-| **Total Labs Documented** | **68** |
+| **Total Labs Documented** | **72** |
 
 ---
 
@@ -270,6 +270,13 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Setting Up a Secure Software Development Environment – v1.0.0</h5>
+<p>Configuration of a secure and efficient development environment with essential tools, runtimes, and workflows to support secure coding and system development practices.</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
 </div>
 
 ### ☁️ Cloud Infrastructure Labs
@@ -313,15 +320,21 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 </div> 
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Linux File Permission and Directory Access Control – v1.0.0</h5>
-<p>Practical demonstration of managing Linux file permissions and securing directories through user and group access control.</p>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/5qKJk-fID3g" frameborder="0" allowfullscreen></iframe>
+<h5>LAB – File Discovery and Analysis in Linux – v1.0.0</h5>
+<p>Using Linux command-line tools to locate, navigate, and analyze files for system investigation and log analysis tasks.</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/HBcQVczahMM" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Linux File and Directory Management – v1.0.0</h5>
 <p>Hands-on file system management within a Linux environment, including directory organization and command-line file operations.</p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/lhkrFbimQKg" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Linux File Permission and Directory Access Control – v1.0.0</h5>
+<p>Practical demonstration of managing Linux file permissions and securing directories through user and group access control.</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/5qKJk-fID3g" frameborder="0" allowfullscreen></iframe>
 </div> 
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -359,6 +372,18 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 ### 🪟 Windows System Administration Labs
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Setting Up a Computer for Network Integration – v1.0.0</h5>
+<p>Preparation and configuration of a workstation for integration into a business network, including system setup, connectivity configuration, and validation.</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/m4MngVs_bmM" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Joining a Windows Workstation to a Domain – v1.0.0</h5>
+<p>Demonstration of joining a Windows workstation to a domain, enabling centralized authentication, policy enforcement, and enterprise system management.</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/JE3jutqyI4Q" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Analyze Windows Processes with Procmon – v1.0.0</h5>
