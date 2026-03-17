@@ -26,9 +26,6 @@ These labs represent hands-on work performed in controlled environments designed
 | Lab Demonstration | 47 |
 | **Total Labs Documented** | **72** |
 
-
-Note: Certain lab artifacts are restricted in accordance with Mossé Cyber Security Institute (MCSI) academic integrity and no-public-distribution policies.
-{: .notice}
 ---
 
 # Windows Systems Administration
