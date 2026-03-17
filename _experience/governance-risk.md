@@ -61,6 +61,8 @@ These documents demonstrate practical understanding of risk assessment methodolo
 <p align="center" style="margin-top:20px;"><a href="https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Download Template</a></p>
 </div>
 
+</div>
+
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>TEMPLATE – Professional Security Report Framework – v.1.0.0</h5>
 <p>A comprehensive guide for creating executive-ready technical reports that bridge the gap between IT and management.</p>
