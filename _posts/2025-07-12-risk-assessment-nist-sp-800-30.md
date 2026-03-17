@@ -5,8 +5,8 @@ author: Eldon Gabriel
 tags: [Cybersecurity, Risk Assessment, NIST, Governance]
 excerpt: "Hands-on application of NIST SP 800-30 to identify, analyze, and prioritize security risks using a structured methodology."
 image:
-  path: "/assets/images/nist800-30.png"
-  thumbnail: "/assets/images/nist800-30.png"
+  path: "/assets/images/posts/nist800-30.png"
+  thumbnail: "/assets/images/posts/nist800-30.png"
 ---
 
 ## <center>Introduction</center>
