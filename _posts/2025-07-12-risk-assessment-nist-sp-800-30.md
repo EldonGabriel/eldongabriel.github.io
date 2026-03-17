@@ -68,6 +68,8 @@ style="border:1px solid #333; border-radius:8px;">
 
 </div>
 
+---
+
 ## <center>Reflection & Next Steps</center>
 
 This exercise strengthened my understanding of structured risk analysis and decision-making. I will continue building on this by applying risk frameworks to more complex systems and scenarios.
