@@ -97,7 +97,6 @@ Research examining cybersecurity frameworks, threat models, and security strateg
 ## Lab Demonstrations
 
 **Note:** Certain lab artifacts are restricted in accordance with Mossé Cyber Security Institute (MCSI) academic integrity and no-public-distribution policies.  
-These materials are available for professional or technical review upon request. `{: .notice}` class.
 {: .notice}
 
 ### 📊 Risk Assessment & Analysis Labs
