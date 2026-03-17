@@ -1,5 +1,5 @@
 ---
-title: Bridging IT, Security, and Risk Management into Cybersecurity Mastery
+title: IT, Security & Risk Field Notes
 layout: posts
 permalink: /posts/
 show_excerpts: true
