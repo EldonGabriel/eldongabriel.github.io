@@ -36,7 +36,7 @@ These documents demonstrate practical understanding of risk assessment methodolo
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
-<div>
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>BLOG – Performing a Risk Assessment with NIST SP 800-30</h5>
 <p>Applying a structured risk assessment process to identify assets, threats, and vulnerabilities, and prioritize risks using a simple scoring method.</p>
 <p align="center" style="margin-top:20px;">
@@ -45,10 +45,13 @@ These documents demonstrate practical understanding of risk assessment methodolo
 </div>
 
 <div>
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>BLOG – Applying Least Privilege (NIST SP 800-53 AC-6)</h5>
 <p>Using least privilege, RBAC, and access controls to reduce risk and protect systems from unauthorized access.</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/applying-least-privilege/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Blog</a>
+</p>
+</div>
 </p>
 </div>
 
@@ -93,9 +96,9 @@ Research examining cybersecurity frameworks, threat models, and security strateg
 
 ## Lab Demonstrations
 
-**Note:**  
-Certain lab artifacts are restricted in accordance with Mossé Cyber Security Institute (MCSI) academic integrity and no-public-distribution policies.  
-These materials are available for professional or technical review upon request.
+**Note:** Certain lab artifacts are restricted in accordance with Mossé Cyber Security Institute (MCSI) academic integrity and no-public-distribution policies.  
+These materials are available for professional or technical review upon request. `{: .notice}` class.
+{: .notice}
 
 ### 📊 Risk Assessment & Analysis Labs
 
