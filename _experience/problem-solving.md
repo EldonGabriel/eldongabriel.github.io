@@ -36,17 +36,17 @@ Structured diagnostic investigations used to identify the source of operational 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – RDP Troubleshooting for AWS Users – v1.0.0</h5>
+<h5>BLOG – RDP Troubleshooting for AWS Users</h5>
 <p>Diagnostic walkthrough for identifying and resolving Remote Desktop Protocol (RDP) access failures in AWS-hosted virtual machines.</p>
 <p><strong>Skills:</strong> Remote Access Troubleshooting · AWS Connectivity Diagnostics · Network Access Validation</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/rdp-troubleshooting-aws/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Guide</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/rdp-troubleshooting-aws/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Layered Access Control Bypass & Cross-Platform Network Stabilization – v1.0.0</h5>
+<h5>BLOG – Layered Access Control Bypass & Cross-Platform Network Stabilization</h5>
 <p>Investigation into a multi-layered access control failure and the steps required to restore stable remote connectivity across systems.</p>
 <p><strong>Skills:</strong> Root Cause Analysis · Cross-System Troubleshooting · Access Control Diagnostics</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/stabilizingremote-desktop-connections/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/stabilizingremote-desktop-connections/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Blog</a></p>
 </div>
 
 </div>
