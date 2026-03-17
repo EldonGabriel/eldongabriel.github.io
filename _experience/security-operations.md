@@ -23,7 +23,8 @@ These labs demonstrate operational security practices including system hardening
 | Perimeter Defense & Secure Connectivity | 2 |
 | Endpoint Hardening & Access Control | 3 |  
 | Infrastructure Protection & Recovery | 1 | 
-| **Total Security Operations Labs Documented** | **6** |
+| Lab Demonstration |  8 |
+| **Total Security Operations Labs Documented** | **14** |
 
 ---
 
@@ -95,6 +96,72 @@ Hands-on configuration of system security controls designed to protect infrastru
 
 ---
 
-## Portfolio Documentation
+## Lab Demonstrations
+
+### 🛡️ Detection & Monitoring Labs
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Network Traffic Monitoring with pfSense and Snort – v1.0.0</h5>
+<p>Monitoring and analyzing network traffic using IDS/IPS tools to detect suspicious activity and potential intrusions.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+### 🔍 Vulnerability Assessment Labs
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Vulnerability Scanning Using OpenVAS – v1.0.0</h5>
+<p>Performing vulnerability assessments to identify and prioritize security weaknesses across networked systems.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Deploying OpenVAS with Docker – v1.0.0</h5>
+<p>Containerized deployment of OpenVAS for scalable and repeatable vulnerability scanning environments.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – SSL/TLS Configuration Assessment with sslscan – v1.0.0</h5>
+<p>Evaluating cryptographic configurations and identifying weak protocols and cipher suites in secure communications.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+### 🧬 Threat Detection Engineering (YARA) Labs
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – YARA Environment Setup – v1.0.0</h5>
+<p>Setting up a malware detection environment using YARA for rule-based file analysis.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Creating YARA Rules – v1.0.0</h5>
+<p>Developing rule-based signatures to identify malware patterns and suspicious file characteristics.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Detecting Small PE Files Using YARA – v1.0.0</h5>
+<p>Identifying suspicious executables through size-based and structural pattern matching.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Self-Matching YARA Rule – v1.0.0</h5>
+<p>Validating YARA rule behavior by testing detection logic against controlled datasets.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
+</div>
+
+---
+
+# Portfolio Documentation
 
 This section summarizes hands-on security operations labs including system hardening, VPN deployment, disaster recovery procedures, and operational monitoring activities performed in controlled lab environments. Additional configuration notes, lab documentation, and technical records are maintained within a private research archive.  
