@@ -37,19 +37,19 @@ These documents demonstrate practical understanding of risk assessment methodolo
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>BLOG – Performing a Risk Assessment with NIST SP 800-30</h5>
+<h5>FIELD NOTES – Performing a Risk Assessment with NIST SP 800-30</h5>
 <p>Applying a structured risk assessment process to identify assets, threats, and vulnerabilities, and prioritize risks using a simple scoring method.</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/risk-assessment-nist-sp-800-30" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Blog</a>
+<a href="https://eldongabriel.github.io/risk-assessment-nist-sp-800-30" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
 </p>
 </div>
 
 <div>
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>BLOG – Applying Least Privilege (NIST SP 800-53 AC-6)</h5>
+<h5>FIELD NOTES – Applying Least Privilege (NIST SP 800-53 AC-6)</h5>
 <p>Using least privilege, RBAC, and access controls to reduce risk and protect systems from unauthorized access.</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/applying-least-privilege/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Blog</a>
+<a href="https://eldongabriel.github.io/applying-least-privilege/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
 </p>
 </div>
 
@@ -84,10 +84,10 @@ Research examining cybersecurity frameworks, threat models, and security strateg
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – BYOD in Organizations: Security & Challenges – v.1.0.1</h5>
+<h5>FIELD NOTES – BYOD in Organizations: Security, Challenges, and Practical Strategies</h5>
 <p>Research and analysis examining the security risks, technical challenges, and mitigation strategies for BYOD environments.</p>
 <p><strong>Skills:</strong> Strategic Analysis · BYOD Security · Threat Modeling</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/byod-in-organizations/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/byod-in-organizations/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 </div>
@@ -105,7 +105,7 @@ Research examining cybersecurity frameworks, threat models, and security strateg
 <p>Identifying assets, threats, and vulnerabilities to evaluate organizational risk exposure.</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Restricted – Available for Professional Review</span></p>
+Restricted: Request Access</span></p>
 </div>
 
 </div>
@@ -119,7 +119,7 @@ Restricted – Available for Professional Review</span></p>
 <p>Evaluating and applying security policies aligned with organizational and compliance requirements.</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Restricted – Available for Professional Review</span></p>
+Restricted: Request Access</span></p>
 </div>
 
 </div>
