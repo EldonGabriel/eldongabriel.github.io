@@ -39,10 +39,12 @@ Maintaining reliable backups and tested recovery procedures is a critical compon
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – Backup and Restore Using Duplicati CLI – v.1.0.0</h5>
+<h5>BLOG – Backup and Restore Using Duplicati CLI</h5>
 <p>Demonstrates how to perform secure file backups using the Duplicati command-line interface, covering encryption and restoration procedures.</p>
 <p><strong>Skills:</strong> Backup Automation · Data Encryption · Restore Testing · CLI Management</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted – Available for Professional Review</span></p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/duplicati-backup-restore-workflow/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Blog</a>
+</p>
 </div>
 
 </div>
