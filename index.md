@@ -24,6 +24,10 @@ My portfolio follows a <strong>Proof of Work methodology</strong>, where every s
 The goal is simple: convert security theory into <strong>operational controls that are measurable, defensible, and ready for real-world environments</strong>.
 </p>
 
+<p style="font-size:1.2em; line-height:1.6;">
+This portfolio is continuously updated as new labs, projects, and troubleshooting scenarios are completed. It serves as a working reference of applied security practices, documenting both implementation and problem resolution across systems, networks, and security operations.
+</p>
+
 <section style="margin: 60px 0;">
   <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">What I Bring to an Organization</h2>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
