@@ -236,6 +236,10 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 
 ## Lab Demonstrations
 
+**Note:**  
+Certain lab artifacts are restricted in accordance with Mossé Cyber Security Institute (MCSI) academic integrity and no-public-distribution policies.  
+These materials are available for professional or technical review upon request.
+
 ### 🏗️ Virtualization & Infrastructure Labs
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
