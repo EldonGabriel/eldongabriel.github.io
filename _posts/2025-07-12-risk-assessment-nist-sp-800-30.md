@@ -55,7 +55,7 @@ Related Projects
 <div style="flex:0 1 500px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
 <iframe
-src="{{ '/assets/guides/GUIDE – Risk Assessment Adapted from NIST SP 800-30 Rev. 1 – v1.0.2' | relative_url }}"
+src="{{ '/assets/guides/GUIDE – Risk Assessment Adapted from NIST SP 800-30 Rev. 1 – v1.0.2.pdf' | relative_url }}"
 width="100%"
 height="680"
 style="border:1px solid #333; border-radius:8px;">
