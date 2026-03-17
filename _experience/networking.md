@@ -22,7 +22,8 @@ These labs focus on understanding network communication models, analyzing protoc
 |--------|------|
 | Networking Fundamentals & Protocol Analysis | 6 |
 | Network Architecture & Security | 5 |
-| **Total Networking Labs Documented** | **11** |
+| Lab Demonstration | 1 |
+| **Total Networking Labs Documented** | **12** |
 
 ---
 
