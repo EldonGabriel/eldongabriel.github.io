@@ -25,6 +25,10 @@ These labs focus on understanding network communication models, analyzing protoc
 | Lab Demonstration | 1 |
 | **Total Networking Labs Documented** | **12** |
 
+
+Note: Certain lab artifacts are restricted in accordance with Mossé Cyber Security Institute (MCSI) academic integrity and no-public-distribution policies.
+{: .notice}
+
 ---
 
 # Networking Fundamentals & Protocol Analysis
