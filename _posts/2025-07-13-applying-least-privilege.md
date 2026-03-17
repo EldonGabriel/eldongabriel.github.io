@@ -5,8 +5,8 @@ author: Eldon Gabriel
 tags: [Cybersecurity, Access Control, NIST, Governance, Risk Management]
 excerpt: "Applying the principle of least privilege to reduce risk through controlled access, monitoring, and role-based security models."
 image:
-  path: "/assets/images/ac-6.png"
-  thumbnail: "/assets/images/ac-6.png"
+  path: "/assets/images/posts/ac-6.png"
+  thumbnail: "/assets/images/posts/ac-6.png"
 ---
 
 ## <center>Introduction</center>
