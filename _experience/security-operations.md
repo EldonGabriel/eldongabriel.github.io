@@ -108,6 +108,8 @@ Hands-on configuration of system security controls designed to protect infrastru
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
 </div>
 
+</div>
+
 ### 🔍 Vulnerability Assessment Labs
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
@@ -128,6 +130,8 @@ Hands-on configuration of system security controls designed to protect infrastru
 <h5>LAB – SSL/TLS Configuration Assessment with sslscan – v1.0.0</h5>
 <p>Evaluating cryptographic configurations and identifying weak protocols and cipher suites in secure communications.</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span></p>
+</div>
+
 </div>
 
 ### 🧬 Threat Detection Engineering (YARA) Labs
