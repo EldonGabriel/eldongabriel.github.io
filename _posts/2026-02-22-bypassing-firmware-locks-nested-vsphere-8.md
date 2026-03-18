@@ -35,7 +35,7 @@ The complete end-to-end procedure is documented in the full report. It includes:
 
 <div style="text-align:center;">
 <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
-Engineering Report: vSphere 8 on AMD Ryzen 6000</h2>
+Related Projects</h2>
 </div>
 
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
