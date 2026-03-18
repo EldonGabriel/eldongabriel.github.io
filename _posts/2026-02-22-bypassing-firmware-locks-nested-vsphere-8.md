@@ -9,7 +9,10 @@ image:
   thumbnail: /assets/images/posts/vsphere-amd-lab.png
 ---
 
-### The Challenge: Restricted Hardware
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">The Challenge: Restricted Hardware</h1>
+</div>
+
 Modern AMD Ryzen 6000 laptops often ship with firmware that hides virtualization features from hypervisors. Although the CPU supports AMD-V (SVM), the system may not expose it properly. When this is combined with Windows 11 Virtualization-Based Security (VBS), running a nested ESXi 8.0U3e lab becomes very difficult.
 
 ### Key Technical Hurdles
@@ -17,16 +20,20 @@ Modern AMD Ryzen 6000 laptops often ship with firmware that hides virtualization
 * **Windows Hypervisor Conflict:** Windows VBS loads its own hypervisor. This prevents VMware Workstation from using AMD-V directly.
 * **Driver Misalignment:** Default Windows drivers may not properly coordinate the AMD Platform Management Framework (PMF), which can cause unstable nested virtualization.
 
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">The Engineering Solution</h1>
+</div>
 
-
-### The Engineering Solution
 By using a hidden UEFI key sequence (**Fn + Tab**) and disabling Credential Guard with the DG Readiness Tool, access to AMD-V was restored for VMware Workstation Pro 17.6. This enabled nested virtualization to function correctly.
 
 > **Validation Logic:** Success was confirmed when `systeminfo.exe` showed **“Virtualization Enabled in Firmware: Yes”** and the output **did not** show “A hypervisor has been detected.” This confirmed that Windows no longer blocks VMware from accessing hardware virtualization.
 
 ---
 
-### Full Technical Guide (PDF)
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Full Technical Guide (PDF)</h1>
+</div>
+
 The complete end-to-end procedure is documented in the full report. It includes:
 * Firmware configuration steps
 * OS-level changes
@@ -60,7 +67,10 @@ style="border:1px solid #333; border-radius:8px;">
 
 ---
 
-### Technical Skills Demonstrated
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Technical Skills Demonstrated</h1>
+</div>
+
 * **Hardware:** UEFI configuration and SMM security changes.
 * **Operating System:** Windows Boot Configuration Data (BCD) modification.
 * **Hypervisor:** Nested ESXi configuration (vSphere 8.x).
@@ -68,5 +78,8 @@ style="border:1px solid #333; border-radius:8px;">
 
 ---
 
-### Conclusion
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Conclusion</h1>
+</div>
+
 With the platform successfully de-provisioned of VBS and the AMD-V extensions reclaimed, the environment is now prepared for Level 2 operations, including cross-cloud migration testing with AWS MGN.
