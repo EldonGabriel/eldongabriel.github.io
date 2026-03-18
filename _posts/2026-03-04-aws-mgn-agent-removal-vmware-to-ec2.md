@@ -9,45 +9,57 @@ image:
   thumbnail: /assets/images/posts/vmware-aws-migration.png
 ---
 
-### The Challenge: Too Many Resources via AWS Transform
-AWS Transform created a large amount of extra supporting infrastructure across different regions. This led to cloud resource sprawl that needed to be reviewed and removed.
+# Resolving AWS MGN Agent Removal Issues After VMware to EC2 Migration
 
-### Leftover Processes in Task Manager
-After the migration, the replication agent processes remained active on the original systems. These processes continued running even after the migration was complete.
+<!-- Project -->
+<div style="flex:0 1 500px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
-### Problem Removing Kernel Driver
-The uninstaller could not remove the replication driver. The driver remained in memory, which prevented the Amazon installation files from being deleted.
+<img
+src="{{ '/assets/images/your-image.png' | relative_url }}"
+style="width:100%; border-radius:8px; border:1px solid #333;" />
 
----
+</div>
 
-### Key Technical Hurdles
+## What I Studied
+This exercise involved a full-scale hybrid-cloud migration, in which on-premises VMware workloads (Windows Server 2019 and Windows 11) were moved into AWS EC2 using the AWS Application Migration Service (MGN).
 
-**File Lock Problem**
+**Tools and Techniques:** VMware vSphere 8.0, AWS MGN, PowerShell (DNS automation), and Windows Safe Mode for kernel-level troubleshooting.
 
-The replication driver locked files inside the installation folder. Standard administrative tools could not remove the files while the driver was active.
-
-**Safe Mode Solution**
-
-Booting the system into Safe Mode prevented the driver from loading during startup. This made it possible to safely remove the installation folder and related registry entries.
+**Key Frameworks:** Hybrid-Cloud Interoperability, FinOps (cloud cost optimization), and Root Cause Analysis (RCA).
 
 ---
 
-### The Engineering Solution
-The problem was resolved by isolating the kernel driver, removing the locked files, and stabilizing the migration environment. Additional troubleshooting steps fixed network performance and cloud configuration issues.  
+## What I Learned
+**Hands-on Skills:** Deployed the AWS Replication Agent and configured the Default Host Management Configuration (DHMC) in AWS Systems Manager (SSM) for centralized post-migration management.
 
-After the fixes were applied, the environment was reviewed to confirm that the migrated systems were running correctly in the cloud.
+**Observations:** Migration is not complete once the VM boots. If not properly removed, the driver stack remains tied to the source hypervisor, thereby creating stability risks.
+
+**Troubleshooting Lessons:** Standard uninstall methods may fail against kernel-level drivers. Safe Mode was required to break file locks and allow manual cleanup, along with Boot Configuration Data (BCD) adjustments for BIOS to GPT/EFI transition.
 
 ---
 
-### Full Technical Guide (PDF)
-The full process is documented in the complete report. It includes:
+## Why It Matters
+**Enterprise Security:** Leftover migration agents and orphaned cloud resources (300+) increase the attack surface and cost.
 
-* VMware to AWS migration setup  
-* AWS replication agent troubleshooting  
-* Kernel driver removal and Safe Mode remediation  
-* Network performance troubleshooting and VPN interference  
-* Cloud launch configuration and EC2 access restoration  
-* Cost analysis and removal of unused cloud resources  
+**Operational Defense:** Handling a Hardware Abstraction Layer (HAL) failure ensures that critical data remains accessible even when the OS fails.
+
+**Real-World Analogy:** Migrating systems is analogous to moving an engine between cars. If the mounting components (drivers) are not replaced, the system will not function correctly.
+
+---
+
+## How It Maps to the Job / Framework
+- **NIST NICE – Systems Architecture (SP-ARC)**
+- **ASD Cyber Skills Framework – Systems Development (SDEV)**
+
+These skills directly apply to cloud migration and system administration roles responsible for lift-and-shift operations, system recovery, and cloud resource management.
+
+---
+
+## Key Takeaways
+- DNS is foundational. A and PTR records are required for stable hybrid environments  
+- FinOps is security. Removing unused resources reduces both cost and risk  
+- Kernel-level awareness is critical for advanced troubleshooting  
+- Data preservation must be prioritized during system recovery   
 
 <div style="text-align:center;">
 <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
@@ -60,14 +72,14 @@ Engineering Report: VMware to AWS EC2 Migration</h2>
 <div style="flex:0 1 500px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
 <iframe
-src="{{ '/assets/reports/' | relative_url }}"
+src="{{ '/assets/reports/REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0.pdf' | relative_url }}"
 width="100%"
 height="680"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
 <p style="margin-top:12px; color:#aaa;">
-<strong>IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.0.pdf</strong>
+<strong>REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0.pdf</strong>
 </p>
 
 </div>
@@ -79,7 +91,6 @@ style="border:1px solid #333; border-radius:8px;">
 ### Technical Skills Demonstrated
 * **Cloud Migration:** VMware virtual machine migration to AWS EC2 using AWS MGN.
 * **Operating Systems:** Windows Server and Windows 11 troubleshooting.
-* **Kernel Troubleshooting:** Driver lock identification and Safe Mode remediation.
 * **Cloud Infrastructure:** EC2 launch configuration and remote access management.
 * **Cost Optimization:** Identification and removal of unused AWS resources.
 
