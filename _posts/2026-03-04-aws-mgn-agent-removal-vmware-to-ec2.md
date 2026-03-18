@@ -11,20 +11,8 @@ image:
 
 # Resolving AWS MGN Agent Removal Issues After VMware to EC2 Migration
 
-<!-- Project -->
-<div style="max-width:500px; margin:0 auto; background:rgba(255,255,255,0.05); padding:12px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
-
-<img
-src="{{ '/assets/images/posts/AWS_MGN_Migration_Data_Flow.png' | relative_url }}"
-style="width:100%; height:auto; border-radius:6px; border:1px solid #333;" />
-
-<p style="margin-top:8px; color:#aaa; font-size:0.9em;">
-<strong>IMAGE – AWS MGN Migration Data Flow – v1.2.0</strong>
-</p>
-
-</div>
-<br>
 ## What I Studied
+
 This exercise involved a full-scale hybrid-cloud migration, in which on-premises VMware workloads (Windows Server 2019 and Windows 11) were moved into AWS EC2 using the AWS Application Migration Service (MGN).
 
 **Tools and Techniques:** VMware vSphere 8.0, AWS MGN, PowerShell (DNS automation), and Windows Safe Mode for kernel-level troubleshooting.
@@ -34,6 +22,7 @@ This exercise involved a full-scale hybrid-cloud migration, in which on-premises
 ---
 
 ## What I Learned
+
 **Hands-on Skills:** Deployed the AWS Replication Agent and configured the Default Host Management Configuration (DHMC) in AWS Systems Manager (SSM) for centralized post-migration management.
 
 **Observations:** Migration is not complete once the VM boots. If not properly removed, the driver stack remains tied to the source hypervisor, thereby creating stability risks.
@@ -43,6 +32,7 @@ This exercise involved a full-scale hybrid-cloud migration, in which on-premises
 ---
 
 ## Why It Matters
+
 **Enterprise Security:** Leftover migration agents and orphaned cloud resources (300+) increase the attack surface and cost.
 
 **Operational Defense:** Handling a Hardware Abstraction Layer (HAL) failure ensures that critical data remains accessible even when the OS fails.
@@ -52,6 +42,7 @@ This exercise involved a full-scale hybrid-cloud migration, in which on-premises
 ---
 
 ## How It Maps to the Job / Framework
+
 - **NIST NICE – Systems Architecture (SP-ARC)**
 - **ASD Cyber Skills Framework – Systems Development (SDEV)**
 
@@ -60,6 +51,7 @@ These skills directly apply to cloud migration and system administration roles r
 ---
 
 ## Key Takeaways
+
 - DNS is foundational. A and PTR records are required for stable hybrid environments  
 - FinOps is security. Removing unused resources reduces both cost and risk  
 - Kernel-level awareness is critical for advanced troubleshooting  
