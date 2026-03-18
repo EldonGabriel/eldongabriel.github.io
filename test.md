@@ -6,65 +6,44 @@ image:
   path: /assets/images/banner.png
 ---
 
----
-title: "Applying Least Privilege in Risk Assessment (NIST SP 800-53 AC-6)"
-date: 2026-03-17
-author: Eldon Gabriel
-tags: [Cybersecurity, Access Control, NIST, Governance, Risk Management]
-excerpt: "Applying the principle of least privilege to reduce risk through controlled access, monitoring, and role-based security models."
-image:
-  path: "/assets/images/nist800-53.png"
-  thumbnail: "/assets/images/nist800-53.png"
----
-
----
-title: "Resolving AWS MGN Agent Removal Issues After VMware to EC2 Migration"
-date: 2026-03-04
-author: Eldon Gabriel
-tags: [AWS, Cloud Migration, VMware, Troubleshooting, Infrastructure]
-excerpt: "A hybrid-cloud migration case study covering VMware to AWS EC2 replication, DNS architecture, and post-migration driver failure recovery using AWS MGN."
-image:
-  path: /assets/images/posts/vmware-aws-migration.png
-  thumbnail: /assets/images/posts/vmware-aws-migration.png
----
 
 # Resolving AWS MGN Agent Removal Issues After VMware to EC2 Migration
 
 ## What I Studied
 
-This project focused on an end-to-end hybrid-cloud migration from a VMware-based on-premises lab to AWS EC2 using the AWS Application Migration Service (MGN).
+This project focused on moving virtual machines from a VMware lab to AWS EC2 using AWS Application Migration Service (MGN).
 
-The environment was built under constrained resources (32 GB RAM) using nested virtualization. Core infrastructure included a Domain Controller (DC01) acting as DNS authority and NAT gateway, alongside ESXi and a vCenter Server Appliance (VCSA) to simulate enterprise architecture.
+The lab was built using limited resources (32 GB RAM), so I used nested virtualization to simulate a real enterprise setup. A Domain Controller handled DNS and routing, while ESXi and vCenter managed the virtual machines.
 
-**Tools and Techniques:** VMware vSphere 8.0, AWS MGN, PowerShell (DNS automation), Windows Server (RRAS/NAT), and Safe Mode recovery techniques.
+**Tools and Techniques:** VMware vSphere 8.0, AWS MGN, PowerShell, Windows Server (RRAS/NAT), and Safe Mode troubleshooting.
 
-**Key Frameworks:** Hybrid-Cloud Interoperability, FinOps (cost control and resource hygiene), and Root Cause Analysis (RCA) through controlled failure injection.
+**Key Frameworks:** Hybrid-Cloud, FinOps (cost control), and Root Cause Analysis (RCA).
 
 ---
 
 ## What I Learned
 
 **Hands-on Skills:**  
-Built a full DNS “source of truth” using forward (A) and reverse (PTR) records to support vCenter deployment and hybrid communication. Configured AWS MGN replication, staging environments, and Default Host Management Configuration (DHMC) for EC2 management via Systems Manager.
+I built a working DNS environment using both A and PTR records so systems could resolve names and IPs correctly. I also configured AWS MGN replication and used AWS Systems Manager (SSM) for managing the new EC2 instances.
 
 **Observations:**  
-Migration success is not defined by instance launch alone. Test launch validation confirmed OS survivability, but underlying driver dependencies remained tied to the original VMware environment.
+A migration is not finished just because the system boots. Even after a successful test launch, the system can still depend on old drivers from VMware.
 
 **Troubleshooting Lessons:**  
-A controlled failure was introduced by manually removing AWS drivers post-migration. This caused a Hardware Abstraction Layer (HAL) failure due to mismatch between BIOS/EFI and GPT partitioning. Recovery required firmware correction (BIOS → EFI), Boot Configuration Data (BCD) reconstruction, and parallel OS installation to preserve data.
+I forced a failure by removing AWS drivers after migration. This caused the system to crash due to a mismatch between BIOS/EFI and GPT settings. To fix it, I switched firmware modes, rebuilt boot settings (BCD), and installed a second OS to recover the data.
 
 ---
 
 ## Why It Matters
 
 **Enterprise Security:**  
-Over 300 orphaned AWS resources were identified and removed. Unused infrastructure increases both attack surface and operational cost.
+More than 300 unused AWS resources were left behind after testing. These increase both cost and security risk if not removed.
 
 **Operational Defense:**  
-The ability to recover from a HAL failure ensures data persistence even when the operating system becomes unbootable.
+Knowing how to recover from a system failure like this helps protect important data, even if the OS stops working.
 
 **Real-World Analogy:**  
-Migrating a system between hypervisors is like moving an engine into a different chassis. Without replacing the mounting components (drivers and firmware alignment), failure is inevitable.
+Moving a system between platforms is like moving an engine into a different car. If the parts don’t match, it won’t run properly.
 
 ---
 
@@ -73,17 +52,17 @@ Migrating a system between hypervisors is like moving an engine into a different
 - **NIST NICE – Systems Architecture (SP-ARC)**
 - **ASD Cyber Skills Framework – Systems Development (SDEV)**
 
-This work aligns with real-world responsibilities in cloud engineering and system administration, including infrastructure design, migration validation, failure recovery, and cost governance.
+These skills apply directly to cloud migration, system recovery, and infrastructure management roles.
 
 ---
 
 ## Key Takeaways
 
-- DNS is a hard dependency. Missing A and PTR records will break vCenter deployment and hybrid communication  
-- Migration validation must include test launches, not just replication completion  
-- Driver and firmware alignment (BIOS vs EFI, MBR vs GPT) is critical post-migration  
-- FinOps is part of security. Resource cleanup reduces both cost and exposure  
-- Data preservation strategies must be in place before destructive recovery actions  
+- DNS must be configured correctly. Both A and PTR records are required  
+- A successful boot does not mean the migration is complete  
+- Firmware and partition types (BIOS vs EFI, MBR vs GPT) must match  
+- Cleaning up unused cloud resources reduces cost and risk  
+- Always protect data before making major system changes  
 
 <div style="text-align:center;">
 <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
@@ -113,16 +92,16 @@ style="border:1px solid #333; border-radius:8px;">
 ---
 
 ### Technical Skills Demonstrated
-* **Cloud Migration:** VMware to AWS EC2 using AWS Application Migration Service (MGN)  
-* **Infrastructure Design:** DNS architecture, NAT routing (RRAS), and vCenter deployment  
-* **Operating Systems:** Windows Server recovery, HAL troubleshooting, and Safe Mode remediation  
-* **Cloud Operations:** EC2 validation, Systems Manager (SSM), and launch configuration  
-* **FinOps:** Identification and cleanup of orphaned AWS resources  
+* **Cloud Migration:** VMware to AWS EC2 using AWS MGN  
+* **Infrastructure Setup:** DNS, NAT routing, and vCenter deployment  
+* **Troubleshooting:** Windows recovery, Safe Mode fixes, and driver issues  
+* **Cloud Operations:** EC2 setup and Systems Manager (SSM)  
+* **Cost Control:** Cleanup of unused AWS resources  
 
 ---
 
 ### Conclusion
 
-This project validated a full hybrid-cloud migration workflow, from infrastructure setup to AWS replication and post-migration recovery. While initial test launches confirmed successful migration, the controlled removal of drivers exposed critical dependencies between firmware, partitioning, and operating system stability.
+This project showed the full migration process from setup to recovery. The systems successfully moved to AWS, but testing also showed how easy it is to break things if drivers and settings are not aligned.
 
-Through structured Root Cause Analysis, the system was recovered without data loss, and the environment was stabilized. Final cleanup ensured minimal resource waste, reinforcing the importance of combining technical execution with cost and security awareness.
+After fixing the failure and recovering the system, all data was preserved and the environment was cleaned up. This reinforced the importance of testing, troubleshooting, and cost control in cloud projects.
