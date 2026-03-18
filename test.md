@@ -17,46 +17,112 @@ image:
   thumbnail: "/assets/images/nist800-53.png"
 ---
 
-## <center>Introduction</center>
+---
+title: "Resolving AWS MGN Agent Removal Issues After VMware to EC2 Migration"
+date: 2026-03-04
+author: Eldon Gabriel
+tags: [AWS, Cloud Migration, VMware, Troubleshooting, Infrastructure]
+excerpt: "A hybrid-cloud migration case study covering VMware to AWS EC2 replication, DNS architecture, and post-migration driver failure recovery using AWS MGN."
+image:
+  path: /assets/images/posts/vmware-aws-migration.png
+  thumbnail: /assets/images/posts/vmware-aws-migration.png
+---
 
-This exercise focused on applying the principle of least privilege based on NIST SP 800-53 AC-6. The goal was to understand how limiting access reduces security risks and protects systems from misuse.
+# Resolving AWS MGN Agent Removal Issues After VMware to EC2 Migration
 
-## <center>What I Studied</center>
+## What I Studied
 
-- **Least Privilege (PoLP):** giving users only the access they need  
-- **Role-Based Access Control (RBAC):** assigning permissions based on job roles  
-- **Separation of Duties:** splitting critical tasks between multiple users  
-- **Privileged Account Management:** limiting and securing admin-level access  
-- **Access Reviews:** checking and removing unnecessary permissions  
-- **Logging and Monitoring:** tracking access activity for suspicious behavior  
-- **Just-In-Time (JIT) Access:** granting temporary access when needed  
+This project focused on an end-to-end hybrid-cloud migration from a VMware-based on-premises lab to AWS EC2 using the AWS Application Migration Service (MGN).
 
-The exercise followed a structured approach to control access and reduce risk across systems.
+The environment was built under constrained resources (32 GB RAM) using nested virtualization. Core infrastructure included a Domain Controller (DC01) acting as DNS authority and NAT gateway, alongside ESXi and a vCenter Server Appliance (VCSA) to simulate enterprise architecture.
 
-## <center>What I Learned</center>
+**Tools and Techniques:** VMware vSphere 8.0, AWS MGN, PowerShell (DNS automation), Windows Server (RRAS/NAT), and Safe Mode recovery techniques.
 
-- Too much access is one of the biggest security risks in any system.  
-- Users often have more permissions than they actually need.  
-- Limiting admin accounts reduces the chance of system-wide compromise.  
-- Monitoring access is just as important as controlling it.  
+**Key Frameworks:** Hybrid-Cloud Interoperability, FinOps (cost control and resource hygiene), and Root Cause Analysis (RCA) through controlled failure injection.
 
-I also learned that access control is not a one-time setup. It requires regular review and adjustment to stay effective.
+---
 
-## <center>Why It Matters</center>
+## What I Learned
 
-Least privilege is a core part of system security. If attackers gain access to an account with high privileges, they can move through systems quickly and cause major damage.
+**Hands-on Skills:**  
+Built a full DNS “source of truth” using forward (A) and reverse (PTR) records to support vCenter deployment and hybrid communication. Configured AWS MGN replication, staging environments, and Default Host Management Configuration (DHMC) for EC2 management via Systems Manager.
 
-In real environments, this is like giving employees keys to every room in a building. If one key is stolen, everything is exposed.
+**Observations:**  
+Migration success is not defined by instance launch alone. Test launch validation confirmed OS survivability, but underlying driver dependencies remained tied to the original VMware environment.
 
-This approach helps organizations:
+**Troubleshooting Lessons:**  
+A controlled failure was introduced by manually removing AWS drivers post-migration. This caused a Hardware Abstraction Layer (HAL) failure due to mismatch between BIOS/EFI and GPT partitioning. Recovery required firmware correction (BIOS → EFI), Boot Configuration Data (BCD) reconstruction, and parallel OS installation to preserve data.
 
-- Reduce attack surface  
-- Prevent unauthorized access  
-- Detect suspicious activity earlier  
-- Meet compliance requirements  
+---
 
-## <center>Reflection & Next Steps</center>
+## Why It Matters
 
-This exercise improved my understanding of access control and risk reduction. I will continue applying least privilege in system configurations and explore more advanced access control models.
+**Enterprise Security:**  
+Over 300 orphaned AWS resources were identified and removed. Unused infrastructure increases both attack surface and operational cost.
 
-For full implementation details and policy structure, the complete guide is available upon request in line with MCSI academic policies.
+**Operational Defense:**  
+The ability to recover from a HAL failure ensures data persistence even when the operating system becomes unbootable.
+
+**Real-World Analogy:**  
+Migrating a system between hypervisors is like moving an engine into a different chassis. Without replacing the mounting components (drivers and firmware alignment), failure is inevitable.
+
+---
+
+## How It Maps to the Job / Framework
+
+- **NIST NICE – Systems Architecture (SP-ARC)**
+- **ASD Cyber Skills Framework – Systems Development (SDEV)**
+
+This work aligns with real-world responsibilities in cloud engineering and system administration, including infrastructure design, migration validation, failure recovery, and cost governance.
+
+---
+
+## Key Takeaways
+
+- DNS is a hard dependency. Missing A and PTR records will break vCenter deployment and hybrid communication  
+- Migration validation must include test launches, not just replication completion  
+- Driver and firmware alignment (BIOS vs EFI, MBR vs GPT) is critical post-migration  
+- FinOps is part of security. Resource cleanup reduces both cost and exposure  
+- Data preservation strategies must be in place before destructive recovery actions  
+
+<div style="text-align:center;">
+<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
+Related Projects</h2>
+</div>
+
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+
+<!-- Project -->
+<div style="max-width:500px; margin:0 auto; background:rgba(255,255,255,0.05); padding:12px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+
+<iframe
+src="{{ '/assets/reports/REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0.pdf' | relative_url }}"
+width="100%"
+height="600"
+style="border:1px solid #333; border-radius:8px;">
+</iframe>
+
+<p style="margin-top:8px; color:#aaa; font-size:0.9em;">
+<strong>REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0.pdf</strong>
+</p>
+
+</div>
+
+</div>
+
+---
+
+### Technical Skills Demonstrated
+* **Cloud Migration:** VMware to AWS EC2 using AWS Application Migration Service (MGN)  
+* **Infrastructure Design:** DNS architecture, NAT routing (RRAS), and vCenter deployment  
+* **Operating Systems:** Windows Server recovery, HAL troubleshooting, and Safe Mode remediation  
+* **Cloud Operations:** EC2 validation, Systems Manager (SSM), and launch configuration  
+* **FinOps:** Identification and cleanup of orphaned AWS resources  
+
+---
+
+### Conclusion
+
+This project validated a full hybrid-cloud migration workflow, from infrastructure setup to AWS replication and post-migration recovery. While initial test launches confirmed successful migration, the controlled removal of drivers exposed critical dependencies between firmware, partitioning, and operating system stability.
+
+Through structured Root Cause Analysis, the system was recovered without data loss, and the environment was stabilized. Final cleanup ensured minimal resource waste, reinforcing the importance of combining technical execution with cost and security awareness.
