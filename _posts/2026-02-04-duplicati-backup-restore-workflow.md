@@ -15,7 +15,9 @@ Duplicati Backup and Restore Workflow
 </h2>
 </div>
 
-## What I Studied
+<div style="text-align:center;">
+  <h2 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">What I Studied</h2>
+</div>
 
 This exercise focuses on using Duplicati, a free backup tool, to create and restore file backups using a command line.
 
@@ -31,27 +33,38 @@ The goal was to understand how backups work, not simply click buttons and hope f
 
 ---
 
-## What I Learned
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">What I Learned</h1>
+</div>
 
-### Hands-on Skills
+<div style="text-align:center;">
+  <h3 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Hands-on Skills</h3>
+</div>
 - Running backups using the Duplicati command line interface  
 - Verifying backup integrity using test commands  
 - Restoring files to a separate directory  
 - Navigating file structures to confirm recovery  
 
-### Observations
+<div style="text-align:center;">
+  <h3 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Observations</h3>
+</div>
 - Backups are useless if you don’t test them  
 - The CLI gives better control than GUI tools, but also more room for mistakes  
 - Restoring to a different location helps prevent overwriting valid data  
 
-### Troubleshooting Lessons
+<div style="text-align:center;">
+  <h3 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Troubleshootng Lessons </h3>
+</div>
+
 - Incorrect file paths can break both backup and restore operations  
 - Backup metadata must stay consistent or restores may fail  
 - Logs are critical for identifying silent failures  
 
 ---
 
-## Why It Matters
+<div style="text-align:center;">
+  <h2 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Why It Matters </h2>
+</div>
 
 In real environments, data loss occurs constantly. It could be:
 
@@ -78,13 +91,19 @@ From a business perspective, this supports the following:
 
 ---
 
-## How It Maps to the Job / Framework
+<div style="text-align:center;">
+  <h2 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">How It Maps to the Job / Framework</h2>
+</div>
 
-### Roles Reinforced
+<div style="text-align:center;">
+  <h3 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Roles Reinforced</h3>
+</div>
 - System Administrator – Managing backups, recovery, and system reliability  
 - Cybersecurity Analyst – Supporting incident recovery and data protection  
 
-### Practical Application
+<div style="text-align:center;">
+  <h3 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Practical Application</h3>
+</div>
 These skills apply directly to the following:
 
 - Backup and recovery operations in enterprise environments  
@@ -93,7 +112,9 @@ These skills apply directly to the following:
 
 ---
 
-## Key Takeaways
+<div style="text-align:center;">
+  <h2 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Key Takeaways</h2>
+</div>
 
 - A backup is only valuable if it can be restored successfully  
 - Testing backups is just as important as creating them  
