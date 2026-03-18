@@ -12,15 +12,16 @@ image:
 # Resolving AWS MGN Agent Removal Issues After VMware to EC2 Migration
 
 <!-- Project -->
-<div style="flex:0 1 500px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+<div style="max-width:500px; margin:0 auto; background:rgba(255,255,255,0.05); padding:12px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
 <img
-src="{{ '/assets/images/posts/AWS_MGN_Migration_Data _Flow.png' | relative_url }}"
-style="max-width:100%; max-height:500px; height:auto;" />
+src="{{ '/assets/images/posts/AWS_MGN_Migration_Data_Flow.png' | relative_url }}"
+style="width:100%; height:auto; border-radius:6px; border:1px solid #333;" />
 
-<p style="margin-top:12px; color:#aaa;">
-<strong>IMAGE – AWS MGN Migration Data Flow – v1.2.0.pdf</strong>
+<p style="margin-top:8px; color:#aaa; font-size:0.9em;">
+<strong>IMAGE – AWS MGN Migration Data Flow – v1.2.0</strong>
 </p>
+
 </div>
 <br>
 ## What I Studied
