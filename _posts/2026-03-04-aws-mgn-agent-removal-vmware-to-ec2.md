@@ -22,8 +22,7 @@ style="max-width:100%; max-height:500px; height:auto;" />
 <strong>IMAGE – AWS MGN Migration Data Flow – v1.2.0.pdf</strong>
 </p>
 </div>
-
-
+<br>
 ## What I Studied
 This exercise involved a full-scale hybrid-cloud migration, in which on-premises VMware workloads (Windows Server 2019 and Windows 11) were moved into AWS EC2 using the AWS Application Migration Service (MGN).
 
