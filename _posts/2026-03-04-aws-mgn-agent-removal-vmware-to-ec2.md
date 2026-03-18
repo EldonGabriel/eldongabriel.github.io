@@ -11,51 +11,70 @@ image:
 
 # Resolving AWS MGN Agent Removal Issues After VMware to EC2 Migration
 
-## What I Studied
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">What I Studied</h1>
+</div>
 
-This exercise involved a full-scale hybrid-cloud migration, in which on-premises VMware workloads (Windows Server 2019 and Windows 11) were moved into AWS EC2 using the AWS Application Migration Service (MGN).
+This project focused on moving virtual machines from a VMware lab to AWS EC2 using AWS Application Migration Service (MGN).
 
-**Tools and Techniques:** VMware vSphere 8.0, AWS MGN, PowerShell (DNS automation), and Windows Safe Mode for kernel-level troubleshooting.
+The lab was built using limited resources (32 GB RAM), so I used nested virtualization to simulate a real enterprise setup. A Domain Controller handled DNS and routing, while ESXi and vCenter managed the virtual machines.
 
-**Key Frameworks:** Hybrid-Cloud Interoperability, FinOps (cloud cost optimization), and Root Cause Analysis (RCA).
+**Tools and Techniques:** VMware vSphere 8.0, AWS MGN, PowerShell, Windows Server (RRAS/NAT), and Safe Mode troubleshooting.
 
----
-
-## What I Learned
-
-**Hands-on Skills:** Deployed the AWS Replication Agent and configured the Default Host Management Configuration (DHMC) in AWS Systems Manager (SSM) for centralized post-migration management.
-
-**Observations:** Migration is not complete once the VM boots. If not properly removed, the driver stack remains tied to the source hypervisor, thereby creating stability risks.
-
-**Troubleshooting Lessons:** Standard uninstall methods may fail against kernel-level drivers. Safe Mode was required to break file locks and allow manual cleanup, along with Boot Configuration Data (BCD) adjustments for BIOS to GPT/EFI transition.
+**Key Frameworks:** Hybrid-Cloud, FinOps (cost control), and Root Cause Analysis (RCA).
 
 ---
 
-## Why It Matters
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">What I Learned</h1>
+</div>
 
-**Enterprise Security:** Leftover migration agents and orphaned cloud resources (300+) increase the attack surface and cost.
+**Hands-on Skills:**  
+I built a working DNS environment using both A and PTR records so systems could resolve names and IPs correctly. I also configured AWS MGN replication and used AWS Systems Manager (SSM) for managing the new EC2 instances.
 
-**Operational Defense:** Handling a Hardware Abstraction Layer (HAL) failure ensures that critical data remains accessible even when the OS fails.
+**Observations:**  
+A migration is not finished just because the system boots. Even after a successful test launch, the system can still depend on old drivers from VMware.
 
-**Real-World Analogy:** Migrating systems is analogous to moving an engine between cars. If the mounting components (drivers) are not replaced, the system will not function correctly.
+**Troubleshooting Lessons:**  
+I forced a failure by removing AWS drivers after migration. This caused the system to crash due to a mismatch between BIOS/EFI and GPT settings. To fix it, I switched firmware modes, rebuilt boot settings (BCD), and installed a second OS to recover the data.
 
 ---
 
-## How It Maps to the Job / Framework
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Why It Matters</h1>
+</div>
+
+**Enterprise Security:**  
+More than 300 unused AWS resources were left behind after testing. These increase both cost and security risk if not removed.
+
+**Operational Defense:**  
+Knowing how to recover from a system failure like this helps protect important data, even if the OS stops working.
+
+**Real-World Analogy:**  
+Moving a system between platforms is like moving an engine into a different car. If the parts don’t match, it won’t run properly.
+
+---
+
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">How It Maps to the Job / Framework</h1>
+</div>
 
 - **NIST NICE – Systems Architecture (SP-ARC)**
 - **ASD Cyber Skills Framework – Systems Development (SDEV)**
 
-These skills directly apply to cloud migration and system administration roles responsible for lift-and-shift operations, system recovery, and cloud resource management.
+These skills apply directly to cloud migration, system recovery, and infrastructure management roles.
 
 ---
 
-## Key Takeaways
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Key Takeaways</h1>
+</div>
 
-- DNS is foundational. A and PTR records are required for stable hybrid environments  
-- FinOps is security. Removing unused resources reduces both cost and risk  
-- Kernel-level awareness is critical for advanced troubleshooting  
-- Data preservation must be prioritized during system recovery   
+- DNS must be configured correctly. Both A and PTR records are required  
+- A successful boot does not mean the migration is complete  
+- Firmware and partition types (BIOS vs EFI, MBR vs GPT) must match  
+- Cleaning up unused cloud resources reduces cost and risk  
+- Always protect data before making major system changes  
 
 <div style="text-align:center;">
 <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
@@ -65,16 +84,16 @@ Related Projects</h2>
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
 <!-- Project -->
-<div style="flex:0 1 500px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+<div style="max-width:500px; margin:0 auto; background:rgba(255,255,255,0.05); padding:12px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
 <iframe
 src="{{ '/assets/reports/REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0.pdf' | relative_url }}"
 width="100%"
-height="680"
+height="600"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
-<p style="margin-top:12px; color:#aaa;">
+<p style="margin-top:8px; color:#aaa; font-size:0.9em;">
 <strong>REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0.pdf</strong>
 </p>
 
@@ -84,13 +103,23 @@ style="border:1px solid #333; border-radius:8px;">
 
 ---
 
-### Technical Skills Demonstrated
-* **Cloud Migration:** VMware virtual machine migration to AWS EC2 using AWS MGN.
-* **Operating Systems:** Windows Server and Windows 11 troubleshooting.
-* **Cloud Infrastructure:** EC2 launch configuration and remote access management.
-* **Cost Optimization:** Identification and removal of unused AWS resources.
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Technical Skills Demonstrated</h1>
+</div>
+
+* **Cloud Migration:** VMware to AWS EC2 using AWS MGN  
+* **Infrastructure Setup:** DNS, NAT routing, and vCenter deployment  
+* **Troubleshooting:** Windows recovery, Safe Mode fixes, and driver issues  
+* **Cloud Operations:** EC2 setup and Systems Manager (SSM)  
+* **Cost Control:** Cleanup of unused AWS resources  
 
 ---
 
-### Conclusion
-After resolving the driver lock and infrastructure issues, both systems successfully completed migration to AWS EC2. The environment is now stable, replication health checks passed, and unnecessary cloud resources were removed to control costs.
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Conclusion</h1>
+</div>
+
+This project showed the full migration process from setup to recovery. The systems successfully moved to AWS, but testing also showed how easy it is to break things if drivers and settings are not aligned.
+
+After fixing the failure and recovering the system, all data was preserved and the environment was cleaned up. This reinforced the importance of testing, troubleshooting, and cost control in cloud projects.
+
