@@ -63,7 +63,7 @@ These skills directly apply to cloud migration and system administration roles r
 
 <div style="text-align:center;">
 <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
-Engineering Report: VMware to AWS EC2 Migration</h2>
+Related Projects</h2>
 </div>
 
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
