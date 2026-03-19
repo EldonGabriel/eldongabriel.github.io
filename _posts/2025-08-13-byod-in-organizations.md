@@ -76,6 +76,24 @@ Every report, template, and project I produce follows the same principle: real l
 
 <p>
   <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20BYOD%20in%20Organizations_%20Security%2C%20Challenges%2C%20and%20Strategies%20%E2%80%93%20v1.0.1.pdf" target="_blank">
-Full Report: REPORT – BYOD in Organizations: Security, Challenges, and Strategies – v1.0.1.pdf
+Full Report: REPORT – BYOD in Organizations: Security, Challenges, and Strategies – v1.0.1
   </a>
 </p>
+
+<!-- Project -->
+<div style="max-width:500px; margin:0 auto; background:rgba(255,255,255,0.05); padding:12px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+
+<iframe
+src="{{ '/assets/reports/REPORT – BYOD in Organizations_ Security, Challenges, and Strategies – v1.0.1.pdf' | relative_url }}"
+width="100%"
+height="600"
+style="border:1px solid #333; border-radius:8px;">
+</iframe>
+
+<p style="margin-top:8px; color:#aaa; font-size:0.9em;">
+<strong>REPORT – BYOD in Organizations: Security, Challenges, and Strategies – v1.0.1</strong>
+</p>
+
+</div>
+
+</div>
