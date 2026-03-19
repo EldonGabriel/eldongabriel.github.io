@@ -5,8 +5,8 @@ author: Eldon Gabriel
 tags: [Active Directory, Windows Server, Disaster Recovery, BMR, DSRM, System Administration, Cybersecurity]
 excerpt: "Simulating a full Active Directory failure and restoring identity services using Bare Metal Recovery."
 image:
-  path: /assets/images/posts/cockpit.png
-  thumbnail: /assets/images/posts/cockpit.png
+  path: /assets/images/posts/active-directory.png
+  thumbnail: /assets/images/posts/active-directory.png
 ---
 
 # Active Directory Disaster Recovery & Identity Restoration
