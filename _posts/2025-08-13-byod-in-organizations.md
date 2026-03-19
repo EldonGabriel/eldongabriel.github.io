@@ -80,7 +80,7 @@ Every report, template, and project I produce follows the same principle: real l
 <iframe
 src="{{ '/assets/reports/REPORT – BYOD in Organizations_ Security, Challenges, and Strategies – v1.0.1.pdf' | relative_url }}"
 width="100%"
-height="600"
+height="680"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
