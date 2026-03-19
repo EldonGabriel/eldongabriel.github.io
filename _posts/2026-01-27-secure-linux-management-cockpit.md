@@ -13,7 +13,7 @@ image:
 
 Managing a single Linux server is simple. However, as more systems are added, it becomes harder to track activity and maintain security. This project focused on setting up a web-based tool to manage multiple systems from one place while keeping security in mind.
 
----
+
 
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">What I Studied</h1>
@@ -25,7 +25,7 @@ This exercise focused on setting up and securing Cockpit, a web-based tool used 
 - **Tools & Techniques:** Ubuntu 24.04 LTS, Cockpit, systemd services, UFW (Uncomplicated Firewall), and SSH for connecting multiple systems  
 - **Core Focus:** Used basic security concepts such as user access control and network restrictions  
 
----
+
 
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">What I Learned</h1>
@@ -40,7 +40,6 @@ One main system was connected to another Linux machine using SSH. This shows tha
 **Security Risks of Web Tools**  
 Cockpit gives access to system data like `/etc/passwd` and logs. It also opens port 9090, which must be secured to prevent attacks.
 
----
 
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Why It Matters</h1>
@@ -50,7 +49,7 @@ In real environments, it is important to see what is happening on a system. If a
 
 Cockpit makes system management easier, especially for newer administrators. However, access must be restricted using tools like UFW so only trusted users can connect.
 
----
+
 
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">How It Maps to the Job / Framework</h1>
@@ -62,7 +61,7 @@ This project builds skills in installing software, managing users, and controlli
 **ASD Cyber Skills Framework – System Administration (SADM)**  
 Shows the ability to deploy systems and apply basic security settings.
 
----
+
 
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Key Takeaways</h1>
@@ -80,7 +79,7 @@ Shows the ability to deploy systems and apply basic security settings.
 4. **Simple Tools Scale Well**  
    Using SSH instead of extra software makes systems easier to manage and secure.
 
----
+
 
 <div style="text-align:center;">
 <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
@@ -106,7 +105,6 @@ style="border:1px solid #333; border-radius:8px;">
 
 </div>
 
----
 
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Technical Skills Demonstrated</h1>
@@ -119,7 +117,7 @@ style="border:1px solid #333; border-radius:8px;">
 - SSH-based remote system management  
 - Basic system hardening and access control  
 
----
+
 
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Conclusion</h1>
