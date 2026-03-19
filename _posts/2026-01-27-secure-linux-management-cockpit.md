@@ -105,7 +105,6 @@ style="border:1px solid #333; border-radius:8px;">
 
 </div>
 <br>
-
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Technical Skills Demonstrated</h1>
 </div>
