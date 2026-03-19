@@ -13,28 +13,6 @@ The portfolio serves as a proof-of-work record showing how cybersecurity concept
 
 ---
 
-## Featured Security Projects
-
-### Windows Endpoint Hardening
-Implemented enterprise hardening controls using Group Policy, Exploit Guard, Windows Defender policies, and account lockout configurations to secure Windows endpoints against unauthorized access and exploitation.
-
-### Threat Hunting with YARA
-Developed custom YARA rules to detect suspicious executables and file patterns while documenting detection logic and repeatable threat-hunting workflows.
-
-### Vulnerability Assessment
-Performed vulnerability scanning using OpenVAS to identify system weaknesses and prioritize remediation efforts based on risk exposure.
-
-### Network Security & Firewall Configuration
-Configured pfSense firewall rules, traffic filtering, and secure VPN connectivity to enforce network security policies.
-
-### Attack Surface Mapping with OSINT
-Mapped external-facing assets using Shodan and DNSDumpster to identify exposed services, misconfigurations, and potential information leaks.
-
-### Cloud & Virtualization Security
-Deployed and secured virtual machines across VMware, VirtualBox, AWS, and GCP environments while implementing snapshot recovery and disaster recovery practices.
-
----
-
 ## Technical Skills
 
 **Security Operations**
