@@ -83,7 +83,7 @@ Related Projects</h2>
 <div style="max-width:500px; margin:0 auto; background:rgba(255,255,255,0.05); padding:12px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
 <iframe
-src="{{ '/assets/reports/SOP – Secure Enterprise VPN Deployment & Diagnostics – v1.0.0.pdf' | relative_url }}"
+src="{{ '/assets/guides/SOP – Enterprise IPsec VPN Diagnostics – v1.0.1.pdf' | relative_url }}"
 width="100%"
 height="600"
 style="border:1px solid #333; border-radius:8px;">
