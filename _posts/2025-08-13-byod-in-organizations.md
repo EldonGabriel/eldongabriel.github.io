@@ -65,6 +65,10 @@ This template is not generic — it reflects the real-world application of the r
 
 Together, the report and template provide a clear framework for organizations looking to build a secure, adaptable BYOD program.
 
+<p align="center" style="margin-top: 40px;">
+  <a href="https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">Free Template:TEMPLATE - Bring Your Own Device (BYOD) Policy and Agreement - v1.0.0</a>
+</p>
+
 <center><h2>Why BYOD Matters Today</h2></center>
 
 The rise of remote work has made BYOD a permanent part of modern workplaces. Employees benefit from using familiar devices, improving productivity and satisfaction. But every advantage comes with risk. My goal is to give organizations practical tools to manage those risks without overcomplicating things.
