@@ -86,7 +86,6 @@ style="border:1px solid #333; border-radius:8px;">
 
 <p style="margin-top:8px; color:#aaa; font-size:0.9em;">
 <strong>REPORT – BYOD in Organizations: Security, Challenges, and Strategies – v1.0.1</strong>
-</p>
 
 </div>
 
