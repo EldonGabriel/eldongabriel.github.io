@@ -5,8 +5,8 @@ author: Eldon Gabriel
 tags: [Networking, Cisco, IPsec, VPN, Cybersecurity, Packet Tracer, Network Security, ACL, NAT]
 excerpt: "Building and validating a secure site-to-site IPsec VPN between enterprise locations."
 image:
-  path: /assets/images/posts/vpn.png
-  thumbnail: /assets/images/posts/vpn.png
+  path: /assets/images/posts/ipsec-vpns.png
+  thumbnail: /assets/images/posts/ipsec-vpns.png
 ---
 
 # Secure Connectivity: Architecting Enterprise IPsec VPNs
