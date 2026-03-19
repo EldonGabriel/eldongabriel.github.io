@@ -21,5 +21,5 @@ The roles and projects below demonstrate practical experience in system administ
 This work is supported by a portfolio of documented labs, technical reports, and security analysis exercises designed to replicate real-world operational scenarios.
 </p>
 
-**Note:** Certain lab artifacts are restricted in accordance with Mossé Cyber Security Institute (MCSI) academic integrity and no-public-distribution policies.
+**ℹ️ Note:** Certain lab artifacts are restricted in accordance with Mossé Cyber Security Institute (MCSI) academic integrity and no-public-distribution policies.
 {: .notice}
