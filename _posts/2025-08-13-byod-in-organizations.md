@@ -56,8 +56,7 @@ That’s exactly how my BYOD report _REPORT – BYOD in Organizations: Security,
 
 <center><h2>BYOD Contract Template</h2></center>
 
-To make the report actionable, I created a <a href="https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing" target="_blank">BYOD Contract Template</a>. 
-This template is not generic — it reflects the real-world application of the report’s recommendations. It covers:
+To make the report practical, I created a BYOD contract template. This template is based on real-world use and applies the recommendations from the report. It includes:
 
 - Device security requirements  
 - Technical measures like encryption and multi-factor authentication  
