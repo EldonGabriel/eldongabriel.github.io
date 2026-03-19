@@ -85,7 +85,7 @@ Related Projects</h2>
 <iframe
 src="{{ '/assets/guides/SOP – Enterprise IPsec VPN Diagnostics – v1.0.1.pdf' | relative_url }}"
 width="100%"
-height="600"
+height="680"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
