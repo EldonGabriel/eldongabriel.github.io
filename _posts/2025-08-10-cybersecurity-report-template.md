@@ -78,7 +78,7 @@ A strong report starts with a **title and naming structure** that makes sense at
          width="600">
   </a>
   <div style="font-size:0.85em; margin-top:5px;">
-    Figure 1: Cybersecurity Report Template Diagram. 2025, @eldongbrl
+    Figure 1: Cybersecurity Report Template Diagram. 2025. Eldon G.
   </div>
 </div>
 <br>
