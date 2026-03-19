@@ -7,8 +7,8 @@ collection_item: true
 order: 5
 permalink: /osint-investigation/
 image:
-  path: /assets/images/headers/osint.png
-  thumbnail: /assets/images/headers/osint.png
+  path: /assets/images/headers/osint-investigation.png
+  thumbnail: /assets/images/headers/osint-investigation.png
   caption: "OSINT Investigations and Threat Intelligence Labs"
 ---
 
