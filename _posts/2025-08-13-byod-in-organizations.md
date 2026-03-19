@@ -74,12 +74,6 @@ The rise of remote work has made BYOD a permanent part of modern workplaces. Emp
 
 Every report, template, and project I produce follows the same principle: real labs, real skills, real results. These are not theoretical exercises — they are tangible outputs from my learning journey, designed to provide immediate value to real organizations while reflecting the skills and insights I’m building along the way.
 
-<p>
-  <a href="https://github.com/EldonGabriel/eldongabriel.github.io/blob/main/assets/reports/REPORT%20%E2%80%93%20BYOD%20in%20Organizations_%20Security%2C%20Challenges%2C%20and%20Strategies%20%E2%80%93%20v1.0.1.pdf" target="_blank">
-Full Report: REPORT – BYOD in Organizations: Security, Challenges, and Strategies – v1.0.1
-  </a>
-</p>
-
 <!-- Project -->
 <div style="max-width:500px; margin:0 auto; background:rgba(255,255,255,0.05); padding:12px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
