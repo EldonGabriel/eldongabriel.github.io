@@ -94,7 +94,7 @@ style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
 <p style="margin-top:8px; color:#aaa; font-size:0.9em;">
-<strong>REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0.pdf</strong>
+<strong>REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0</strong>
 </p>
 
 </div>
