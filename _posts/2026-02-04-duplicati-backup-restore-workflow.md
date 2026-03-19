@@ -31,7 +31,6 @@ I worked through a full backup workflow in a safe test environment. This include
 
 The goal was to understand how backups work, not simply click buttons and hope for the best.
 
----
 
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">What I Learned</h1>
@@ -60,7 +59,6 @@ The goal was to understand how backups work, not simply click buttons and hope f
 - Backup metadata must stay consistent or restores may fail  
 - Logs are critical for identifying silent failures  
 
----
 
 <div style="text-align:center;">
   <h2 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Why It Matters </h2>
@@ -89,7 +87,6 @@ From a business perspective, this supports the following:
 - System resilience  
 - Disaster recovery planning  
 
----
 
 <div style="text-align:center;">
   <h2 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">How It Maps to the Job / Framework</h2>
@@ -110,19 +107,7 @@ These skills apply directly to the following:
 - Incident response scenarios where systems must be restored quickly  
 - Maintaining data integrity and ensuring business continuity  
 
----
 
-<div style="text-align:center;">
-  <h2 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Key Takeaways</h2>
-</div>
-
-- A backup is only valuable if it can be restored successfully  
-- Testing backups is just as important as creating them  
-- Command-line tools provide control but require careful execution  
-- Isolating restore locations prevents accidental data overwrites  
-- Logs are essential for troubleshooting backup and restore issues  
-
----
 <div style="text-align:center;">
 <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
 Related Projects</h2>
@@ -147,3 +132,15 @@ style="border:1px solid #333; border-radius:8px;">
 </div>
 
 </div>
+
+
+<div style="text-align:center;">
+  <h2 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Key Takeaways</h2>
+</div>
+
+- A backup is only valuable if it can be restored successfully  
+- Testing backups is just as important as creating them  
+- Command-line tools provide control but require careful execution  
+- Isolating restore locations prevents accidental data overwrites  
+- Logs are essential for troubleshooting backup and restore issues  
+
