@@ -123,7 +123,7 @@ When I built this template, my goal was to create something I could use repeated
 - Deliver reports that look clean, credible, and consistent.  
 <br>
 <p align="center" style="margin-top: 40px;">
-  <a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?tab=t.0" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">Free Template: TEMPLATE - [KEYWORD] - [Title] -[Version] - v1.0.0</a>
+  <a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?tab=t.0" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">Free Template: TEMPLATE - [KEYWORD] - [Title] - [Version] - v1.0.0</a>
 </p>
 
 <center><h2>Final Thought</h2></center>
