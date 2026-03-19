@@ -20,11 +20,11 @@ These labs demonstrate practical backup administration, recovery validation, and
 
 | Category | Labs |
 |--------|------|
-| Data Protection & Recovery | 2 |
+| Data Protection & Recovery | 1 |
 | Resilience & Recovery Planning | 1 |
 | Backup, Recovery & Migration  | 4 |
 | Video Demonstration Labs | 4 |
-| **Total Operational Resilience Labs Documented** | **7** |
+| **Total Operational Resilience Labs Documented** | **6** |
  
 ---
 
@@ -40,14 +40,6 @@ Maintaining reliable backups and tested recovery procedures is a critical compon
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
   
-<h5>FIELD NOTES – Active Directory Disaster Recovery & Identity Restoration</h5>
-<p>Simulates a full Domain Controller failure and demonstrates how to restore an Active Directory environment using Bare Metal Recovery (BMR) on Windows Server 2016.</p>
-<p><strong>Skills:</strong> Active Directory Recovery · BMR · DSRM · System State Restore · Disaster Recovery Validation</p>
-<p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/active-directory-bare-metal-recovery/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
-</p>
-</div>
-
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>FIELD NOTES – Duplicati Backup and Restore Workflow</h5>
 <p>Demonstrates how to perform secure file backups using the Duplicati command-line interface, covering encryption and restoration procedures.</p>
