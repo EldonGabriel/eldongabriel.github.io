@@ -20,11 +20,11 @@ These labs demonstrate practical backup administration, recovery validation, and
 
 | Category | Labs |
 |--------|------|
-| Data Protection & Recovery | 1 |
+| Data Protection & Recovery | 2 |
 | Resilience & Recovery Planning | 1 |
 | Backup, Recovery & Migration  | 4 |
 | Video Demonstration Labs | 4 |
-| **Total Operational Resilience Labs Documented** | **6** |
+| **Total Operational Resilience Labs Documented** | **7** |
  
 ---
 
