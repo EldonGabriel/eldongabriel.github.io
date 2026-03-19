@@ -20,11 +20,11 @@ These labs demonstrate operational security practices including system hardening
 
 | Category | Labs |
 |--------|------|
-| Perimeter Defense & Secure Connectivity | 2 |
+| Perimeter Defense & Secure Connectivity | 3 |
 | Endpoint Hardening & Access Control | 3 |  
 | Infrastructure Protection & Recovery | 1 | 
 | Lab Demonstration |  8 |
-| **Total Security Operations Labs Documented** | **14** |
+| **Total Security Operations Labs Documented** | **15** |
 
 ---
 
@@ -37,6 +37,16 @@ Hands-on configuration of system security controls designed to protect infrastru
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>FIELD NOTES – Secure Connectivity: Architecting Enterprise IPsec VPNs</h5>
+<p>Demonstrates building and validating a site-to-site IPsec VPN between enterprise locations to secure data in transit over untrusted networks.</p>
+<p><strong>Skills:</strong> IPsec VPN · IKE · ACLs · NAT Exemption · Network Security · CLI Troubleshooting</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/architecting-enterprise-ipsec-vpns/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
+</p>
+</div>
+
 <h5>REPORT – Perimeter Defense: Firewall Fundamentals – v1.0.0</h5>
 <p>Overview of firewall technologies and their role in enforcing network perimeter security.</p>
 <p><strong>Skills:</strong> Network Security · Perimeter Defense · Firewall Policy</p>
