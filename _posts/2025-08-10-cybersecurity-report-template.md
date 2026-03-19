@@ -130,5 +130,3 @@ When I built this template, my goal was to create something I could use repeated
 <center><h2>Final Thought</h2></center>
 
 A clear naming convention might seem like a small detail, but in cybersecurity, **small details often make the biggest difference.** Combined with a well-structured template, it helps ensure your reports are not only informative but also credible, consistent, and ready for real-world use.  
-
-**ℹ️ Note:** Originally completed in Feb 2025 at MCSI; updated for clarity and template refinements.
