@@ -32,12 +32,15 @@ The main focus was to ensure that Active Directory data and the SYSVOL folder we
 </div>
 
 **Full System Recovery with BMR**  
+
 I used Bare Metal Recovery (BMR) to restore the entire system, including the operating system and Active Directory.
 
 **Using DSRM for Safe Recovery**  
+
 DSRM was used to restore the system without causing conflicts with other domain controllers.
 
 **Restoring Critical Data**  
+
 The System State was restored to recover important system data such as the registry, system files, and boot settings.
 
 ---
@@ -57,9 +60,11 @@ Bare Metal Recovery allows the system to be rebuilt with all data intact, reduci
 </div>
 
 **System Administration Skills**  
+
 This project builds skills in backup, recovery, and system restoration.
 
 **Cybersecurity Practices**  
+
 It supports disaster recovery planning and protection against threats like ransomware.
 
 ---
@@ -68,17 +73,13 @@ It supports disaster recovery planning and protection against threats like ranso
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Key Takeaways</h1>
 </div>
 
-1. **BMR Restores Everything**  
-   Bare Metal Recovery restores the full system in one process.
+1. **BMR Restores Everything:** Bare Metal Recovery restores the full system in one process.
 
-2. **DSRM is Required for AD Recovery**  
-   It allows safe recovery without interference from running services.
+2. **DSRM is Required for AD Recovery:** It allows safe recovery without interference from running services.
 
-3. **Always Verify the System**  
-   Check that DNS, Netlogon, and AD services are working after recovery.
+4. **Always Verify the System:** Check that DNS, Netlogon, and AD services are working after recovery.
 
-4. **Test Before You Need It**  
-   A recovery plan is only useful if it has been tested.
+6. **Test Before You Need It:** A recovery plan is only useful if it has been tested.
 
 ---
 
