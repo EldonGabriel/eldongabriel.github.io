@@ -21,10 +21,10 @@ These labs demonstrate operational security practices including system hardening
 | Category | Labs |
 |--------|------|
 | Perimeter Defense & Secure Connectivity | 3 |
-| Endpoint Hardening & Access Control | 3 |  
+| Endpoint Hardening & Access Control | 4 |  
 | Infrastructure Protection & Recovery | 1 | 
 | Lab Demonstration |  8 |
-| **Total Security Operations Labs Documented** | **15** |
+| **Total Security Operations Labs Documented** | **16** |
 
 ---
 
@@ -69,14 +69,18 @@ Hands-on configuration of system security controls designed to protect infrastru
 <h5>Using the Windows Registry to Restrict Untrusted User Accounts</h5>
 <p>Demonstrates using Windows Registry configuration to restrict system utilities and strengthen endpoint security controls.</p>
 <p><strong>Skills:</strong> Registry Hardening · Threat Surface Reduction · OS Security</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/using-the-windows-registry-to-restrict-untrusted-user-accounts/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/using-the-windows-registry-to-restrict-untrusted-user-accounts/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>Deploying Local Group Policy to Harden SMB Sessions</h5>
 <p>Applied SMB security policies to reduce exposure to credential harvesting and lateral movement.</p>
 <p><strong>Skills:</strong> SMB Hardening · Credential Protection · Lateral Movement Mitigation</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/deploying-local-group-policy-to-harden-smb-sessions/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/deploying-local-group-policy-to-harden-smb-sessions/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -88,8 +92,15 @@ Hands-on configuration of system security controls designed to protect infrastru
 </p>
 </div>
 
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>Applying Local GPO for Session Lock Enforcement</h5>
+<p>Configured session lock policies using Local Group Policy to automatically secure idle systems and reduce unauthorized access risk.</p>
+<p><strong>Skills:</strong> GPO Configuration · Endpoint Hardening · Access Control Enforcement</p>
+<a href="https://eldongabriel.github.io/deploying-session-lock-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+</p>
 </div>
 
+</div>
 ### 🧱 Infrastructure Protection & Recovery
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
