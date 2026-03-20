@@ -9,10 +9,7 @@ image:
   thumbnail: /assets/images/posts/cockpit.png
 ---
 
-# Centralizing Control: Secure Linux Management with Cockpit
-
 Managing a single Linux server is simple. However, as more systems are added, it becomes harder to track activity and maintain security. This project focused on setting up a web-based tool to manage multiple systems from one place while keeping security in mind.
-
 
 
 <div style="text-align:center;">
