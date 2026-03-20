@@ -39,14 +39,14 @@ Core networking concepts, protocol behavior, and diagnostic techniques used to u
 
 <!-- ALL CARDS GO HERE -->
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>FIELD NOTES – Refreshing My Subnetting Skills: From Handwritten Notes to a Full Class C Subnet Report</h5>
+<h5>Refreshing My Subnetting Skills: From Handwritten Notes to a Full Class C Subnet Report</h5>
 <p>Hands-on subnetting analysis demonstrating how IP address ranges are divided into logical network segments to support routing, segmentation, and enterprise network design.</p>
 <p><strong>Skills:</strong> Subnet Design · IP Addressing</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/refreshing-my-subnetting-skills/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>FIELD NOTES – Kerberos Explained: Turning Complex Security into Clear Insights</h5>
+<h5>Kerberos Explained: Turning Complex Security into Clear Insights</h5>
 <p>Analysis of the Kerberos protocol and its role in secure identity verification within enterprise networks.</p>
 <p><strong>Skills:</strong> Authentication Protocols · Identity Security</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/kerberos-explained-turning-complex-security-into-clear-insights/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
