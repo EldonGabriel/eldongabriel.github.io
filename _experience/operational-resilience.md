@@ -41,7 +41,7 @@ Maintaining reliable backups and tested recovery procedures is a critical compon
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
   
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>FIELD NOTES – Duplicati Backup and Restore Workflow</h5>
+<h5>Duplicati Backup and Restore Workflow</h5>
 <p>Demonstrates how to perform secure file backups using the Duplicati command-line interface, covering encryption and restoration procedures.</p>
 <p><strong>Skills:</strong> Backup Automation · Data Encryption · Restore Testing · CLI Management</p>
 <p align="center" style="margin-top:20px;">
