@@ -124,7 +124,11 @@ These 11 labs give a practical look at Windows administration from the ground up
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Related Projects</h1>
 </div>
-
-- [Windows Control Panel Administration: Research, Labs, and Instructor Feedback](https://eldongabriel.github.io/wcp-administration/)  
-- [Cybersecurity Report Template](https://eldongabriel.github.io/cybersecurity-report-template/)  
  
+<p align="center" style="margin-top: 40px;">
+  <a href="https://eldongabriel.github.io/wcp-administration/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">Windows Control Panel Administration: Research, Labs, and Instructor Feedback</a>
+</p>
+
+<p align="center" style="margin-top: 40px;">
+  <a href="https://eldongabriel.github.io/cybersecurity-report-template/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">Cybersecurity Report Templates</a>
+</p>
