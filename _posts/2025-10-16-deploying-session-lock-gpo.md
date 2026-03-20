@@ -9,6 +9,10 @@ image:
   thumbnail: "/assets/images/posts/session_lock.png"
 ---
 
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Exercise Core Function</h1>
+</div>
+
 In this exercise, I focused on hardening a standalone Windows 10 workstation using the **Local Group Policy Editor**. The goal was to define **session lock policies** to automatically lock the machine after inactivity, preventing unauthorized access and reducing security risks. The key configuration involved setting the **Interactive logon: Machine inactivity limit** to 15 seconds.
 
 <div style="text-align:center;">
