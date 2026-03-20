@@ -212,5 +212,10 @@ MCSI’s approach to cybersecurity training is unlike anything I’ve experience
 
 If you’re curious about how to level up in cybersecurity through hands-on work, feel free to connect—or check out my portfolio below.
 
+<div style="text-align:center;">
+<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
+Related Projects</h2>
+</div>
+
 <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">Explore MCSI Portfolio</a>
 </p>
