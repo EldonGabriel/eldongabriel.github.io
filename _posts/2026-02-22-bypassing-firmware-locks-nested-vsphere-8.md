@@ -9,6 +9,10 @@ image:
   thumbnail: /assets/images/posts/vsphere-amd-lab.png
 ---
 
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Exercise Core Function</h1>
+</div>
+
 Modern AMD Ryzen 6000 laptops often ship with firmware that hides virtualization features from hypervisors. Although the CPU supports AMD-V (SVM), the system may not expose it properly. When this is combined with Windows 11 Virtualization-Based Security (VBS), running a nested ESXi 8.0U3e lab becomes very difficult.
 
 ### Key Technical Hurdles
