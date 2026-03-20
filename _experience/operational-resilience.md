@@ -72,14 +72,11 @@ Hands-on implementation of backup, recovery, and system restoration strategies d
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Resilience in Identity: Active Directory Bare Metal Recovery</h5>
-<p>Demonstrates full system restoration of an Active Directory Domain Controller using Bare Metal Recovery and Directory Services Restore Mode.</p>
-<p><strong>Skills:</strong> Active Directory · BMR · DSRM · System Recovery · Disaster Recovery</p>
-<p align="center" style="margin-top:20px;">
-<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span>
-</p>
-</div>
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;"> <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);"> <h5>Resilience in Identity: Active Directory Bare Metal Recovery</h5> <p>Demonstrates full restoration of an Active Directory Domain Controller using Bare Metal Recovery (BMR) and Directory Services Restore Mode (DSRM) after system failure.</p> <p><strong>Skills:</strong> Active Directory · BMR · DSRM · System Recovery · Disaster Recovery Validation</p> 
+<p align="center" style="margin-top:20px;"> 
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Available Upon Request</span> 
+</p> 
+</div> 
 
 </div>
 
