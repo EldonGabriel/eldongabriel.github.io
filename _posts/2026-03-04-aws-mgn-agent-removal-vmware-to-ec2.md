@@ -9,8 +9,6 @@ image:
   thumbnail: /assets/images/posts/vmware-aws-migration.png
 ---
 
-# Resolving AWS MGN Agent Removal Issues After VMware to EC2 Migration
-
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">What I Studied</h1>
 </div>
