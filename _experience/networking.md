@@ -37,6 +37,7 @@ Core networking concepts, protocol behavior, and diagnostic techniques used to u
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
+<!-- ALL CARDS GO HERE -->
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>FIELD NOTES – Refreshing My Subnetting Skills: From Handwritten Notes to a Full Class C Subnet Report</h5>
 <p>Hands-on subnetting analysis demonstrating how IP address ranges are divided into logical network segments to support routing, segmentation, and enterprise network design.</p>
@@ -63,8 +64,6 @@ Core networking concepts, protocol behavior, and diagnostic techniques used to u
 <p>Research and explanation of common networking equipment and how each device operates within the OSI model.</p>
 <p><strong>Skills:</strong> Network Infrastructure · Device-Layer Relationships</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
-</div>
-
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
