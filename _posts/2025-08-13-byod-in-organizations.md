@@ -48,7 +48,7 @@ This dual-path approach turns every concept into something I can immediately put
   </tbody>
 </table>
 
-That’s exactly how my BYOD report _REPORT – BYOD in Organizations: Security, Challenges, and Strategies – v1.0.1.pdf_ came to life. What started as a graded assignment evolved into a professional, governance-ready guide. In it, I examine:
+That’s exactly how my BYOD report came to life. What started as a graded assignment evolved into a professional, governance-ready guide. In it, I examine:
 
 - The evolution of BYOD and how organizations respond  
 - Security risks introduced by personal devices, malware, and lost hardware  
