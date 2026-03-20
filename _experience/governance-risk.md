@@ -43,8 +43,7 @@ These documents demonstrate practical understanding of risk assessment methodolo
 <a href="https://eldongabriel.github.io/risk-assessment-nist-sp-800-30" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
 </p>
 </div>
-
-<div>
+  
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>Applying Least Privilege (NIST SP 800-53 AC-6)</h5>
 <p>Using least privilege, RBAC, and access controls to reduce risk and protect systems from unauthorized access.</p>
