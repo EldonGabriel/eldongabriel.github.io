@@ -42,6 +42,6 @@ For complete configuration and validation details, see the engineering report be
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
   <div style="flex: 0 1 45%; min-width: 600px; text-align: center;"> 
-    <iframe src="{{ 'assets/guides/GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe> 
-    <figcaption>GUIDE – Using Access Permissions and Rights to Secure a Folder – v1.0.0.pdf'</figcaption> 
+    <iframe src="{{ 'assets/guides/SOP – Using Access Permissions and Rights to Secure a Folder – v1.0.1.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe> 
+    <figcaption>SOP – Using Access Permissions and Rights to Secure a Folder – v1.0.1'</figcaption> 
   </div> 
