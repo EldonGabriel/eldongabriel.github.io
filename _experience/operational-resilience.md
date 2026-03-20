@@ -89,7 +89,7 @@ Hands-on implementation of backup, recovery, and system restoration strategies d
 
 These demonstrations walk through backup configuration, recovery procedures, and infrastructure migration scenarios. Each lab shows the tools used, the recovery workflow, and the validation process to ensure systems can be restored during operational failures.
 
-### 💾 Backup, Recovery & Migration
+### 💾 Backup, Recovery & Migration Labs
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
