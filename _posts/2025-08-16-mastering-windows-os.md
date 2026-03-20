@@ -36,3 +36,12 @@ Many people use Windows, making it a frequent target for hackers. Knowing how to
 ## <center>Next Steps</center>
 
 I will apply these principles in upcoming labs and document my hands-on results in my portfolio. Proactive security measures are key to protecting both organizational and personal data.
+
+<div style="text-align:center;">
+<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
+Related Projects</h2>
+</div>
+
+<p align="center" style="margin-top: 40px;">
+  <a href="/access-control-incident-analysis/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">Governance in Action: Access Control Incident Analysis</a>
+</p>
