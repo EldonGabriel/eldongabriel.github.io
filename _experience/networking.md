@@ -65,6 +65,8 @@ Core networking concepts, protocol behavior, and diagnostic techniques used to u
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
+</div>
+
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – OSI vs TCP/IP: A Security-Centric View – v1.0.0</h5>
 <p>Analysis of networking models, their cybersecurity implications, and how each layer contributes to defense strategies.</p>
