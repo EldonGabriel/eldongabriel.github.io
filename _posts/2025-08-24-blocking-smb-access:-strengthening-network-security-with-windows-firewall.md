@@ -27,14 +27,31 @@ image:
 
 **Documentation Skills:** Writing the report and documenting firewall configuration steps helps communicate technical concepts clearly and supports portfolio-building efforts.
 
+<div style="text-align:center;">
+<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
+Related Projects</h2>
+</div>
+
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+
+<!-- Project -->
+<div style="max-width:500px; margin:0 auto; background:rgba(255,255,255,0.05); padding:12px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+
+<iframe
+src="{{ 'assets/reports/REPORT – SMB Protocol_ Function and Security Risks – v1.0.0.pdf' | relative_url }}"
+width="100%"
+height="600"
+style="border:1px solid #333; border-radius:8px;">
+</iframe>
+
+<p style="margin-top:8px; color:#aaa; font-size:0.9em;">
+<strong>REPORT – SMB Protocol_ Function and Security Risks – v1.0.0.pdf</strong>
+</p>
+
+</div>
+
+</div>
+
 <center><h3>Final Thoughts</h3></center>
 
 <p>Blocking SMB access through Windows Firewall is a small but impactful step in securing a network. This exercise, paired with my report, shows the practical application of cybersecurity concepts, from protocol understanding to defensive implementation. It reflects my commitment to building a strong, hands-on portfolio and developing the skills necessary to protect modern network environments.</p>
-
-See my full technical report for detailed configuration and validation steps:
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
-  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;"> 
-    <iframe src="{{ 'assets/reports/REPORT – SMB Protocol_ Function and Security Risks – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe> 
-    <figcaption>REPORT – SMB Protocol: Function and Security Risks – v1.0.0</figcaption> 
-  </div> 
