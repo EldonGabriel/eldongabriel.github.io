@@ -49,7 +49,7 @@ Restricted: Request Access
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>FIELD NOTES – How Password Managers Strengthen Security and Simplify Credential Management</h5>
+<h5>How Password Managers Strengthen Security and Simplify Credential Management</h5>
 <p>Technical analysis of password manager technologies and their role in protecting user credentials through encrypted storage and zero-knowledge security models.</p>
 <p><strong>Skills:</strong> Identity Security · Credential Management · Authentication Controls</p>
 <p align="center" style="margin-top:20px;">
@@ -58,28 +58,28 @@ Restricted: Request Access
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>FIELD NOTES – Hardening Windows Security with GPO</h5>
+<h5>Hardening Windows Security with GPO</h5>
 <p>Configured secure credential entry protections through Windows security policy controls.</p>
 <p><strong>Skills:</strong> Credential Protection · GPO Security</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-windows-security/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>FIELD NOTES – Deploying User Rights Policies on a Single Machine</h5>
+<h5>Deploying User Rights Policies on a Single Machine</h5>
 <p>Restricted administrative privileges and enforced least-privilege access policies via GPO.</p>
 <p><strong>Skills:</strong> Access Control · Privilege Hardening</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/deploy-user-rights-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>FIELD NOTES – Hardening Windows 10 with Password & Account Lockout Policies</h5>
+<h5>Hardening Windows 10 with Password & Account Lockout Policies</h5>
 <p>Implemented enterprise-grade password complexity and lockout thresholds to mitigate brute-force attempts.</p>
 <p><strong>Skills:</strong> Identity Security · Password Policy</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-win10-password-account-lockout-policies/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>FIELD NOTES – File Ownership Recovery in Windows</h5>
+<h5>File Ownership Recovery in Windows</h5>
 <p>Recovered NTFS file ownership and restored proper permission controls on secured systems.</p>
 <p><strong>Skills:</strong> NTFS Permissions · Access Recovery</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/file-ownership-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
