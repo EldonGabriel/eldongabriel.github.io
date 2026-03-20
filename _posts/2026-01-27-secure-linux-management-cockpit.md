@@ -9,6 +9,10 @@ image:
   thumbnail: /assets/images/posts/cockpit.png
 ---
 
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Exercise Core Function</h1>
+</div>
+
 Managing a single Linux server is simple. However, as more systems are added, it becomes harder to track activity and maintain security. This project focused on setting up a web-based tool to manage multiple systems from one place while keeping security in mind.
 
 
