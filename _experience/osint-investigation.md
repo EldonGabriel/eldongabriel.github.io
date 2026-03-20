@@ -118,7 +118,7 @@ Hands-on investigative exercises focused on collecting and analyzing open-source
 
 ---
 
-# Intelligence Demonstration Videos
+# Lab Demonstrations
 
 Practical demonstrations showing investigative OSINT techniques used to discover information, identify infrastructure, and analyze publicly available data sources.
 
