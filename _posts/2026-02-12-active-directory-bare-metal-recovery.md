@@ -9,6 +9,10 @@ image:
   thumbnail: /assets/images/posts/active-directory.png
 ---
 
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Exercise Core Function</h1>
+</div>
+
 This project shows how to recover an Active Directory (AD) environment after a full system failure. The system was restored on new hardware using Windows Server 2016.
 
 The goal was to recover all system data, including user accounts and domain services, so business operations could continue.
