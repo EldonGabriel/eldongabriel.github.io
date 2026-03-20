@@ -37,7 +37,7 @@ Hands-on configuration of system security controls designed to protect infrastru
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>FIELD NOTES – Secure Connectivity: Architecting Enterprise IPsec VPNs</h5>
+<h5>Secure Connectivity: Architecting Enterprise IPsec VPNs</h5>
 <p>Demonstrates building and validating a site-to-site IPsec VPN between enterprise locations to secure data in transit over untrusted networks.</p>
 <p><strong>Skills:</strong> IPsec VPN · IKE · ACLs · NAT Exemption · Network Security · CLI Troubleshooting</p>
 <p align="center" style="margin-top:20px;">
@@ -66,21 +66,21 @@ Hands-on configuration of system security controls designed to protect infrastru
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>FIELD NOTES – Using the Windows Registry to Restrict Untrusted User Accounts</h5>
+<h5>Using the Windows Registry to Restrict Untrusted User Accounts</h5>
 <p>Demonstrates using Windows Registry configuration to restrict system utilities and strengthen endpoint security controls.</p>
 <p><strong>Skills:</strong> Registry Hardening · Threat Surface Reduction · OS Security</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/using-the-windows-registry-to-restrict-untrusted-user-accounts/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>FIELD NOTES – Deploying Local Group Policy to Harden SMB Sessions</h5>
+<h5>Deploying Local Group Policy to Harden SMB Sessions</h5>
 <p>Applied SMB security policies to reduce exposure to credential harvesting and lateral movement.</p>
 <p><strong>Skills:</strong> SMB Hardening · Credential Protection · Lateral Movement Mitigation</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/deploying-local-group-policy-to-harden-smb-sessions/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>FIELD NOTES – Monitoring Windows Processes with Procmon: A Practical Guide</h5>
+<h5>Monitoring Windows Processes with Procmon: A Practical Guide</h5>
 <p>Demonstrates using Microsoft Process Monitor to observe Windows system activity, analyze process behavior, and investigate interactions with the file system and registry.</p>
 <p><strong>Skills:</strong> Security Monitoring · Process Analysis · Sysinternals Diagnostics</p>
 <p align="center" style="margin-top:20px;">
@@ -95,7 +95,7 @@ Hands-on configuration of system security controls designed to protect infrastru
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>FIELD NOTES – Active Directory Disaster Recovery & Identity Restoration</h5>
+<h5>Active Directory Disaster Recovery & Identity Restoration</h5>
 <p>Simulates a full Domain Controller failure and demonstrates how to restore an Active Directory environment using Bare Metal Recovery (BMR) on Windows Server 2016.</p>
 <p><strong>Skills:</strong> Active Directory Recovery · BMR · DSRM · System State Restore · Disaster Recovery Validation</p>
 <p align="center" style="margin-top:20px;">
