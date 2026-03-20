@@ -39,9 +39,28 @@ Today's lab focused on two main goals: locking down sensitive folders and restri
 I’ll wait for results and review feedback to identify gaps. In the meantime, I’ll research my next exercise on using access permissions to block unauthorized access to sensitive folders. This builds on the lessons from this lab and sharpens my skills in access control and data security.
 
 For complete configuration and validation details, see the engineering report below:
+ 
+<div style="text-align:center;">
+<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
+Related Projects</h2>
+</div>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
-  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;"> 
-    <iframe src="{{ 'assets/guides/SOP – Using Access Permissions and Rights to Secure a Folder – v1.0.1.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe> 
-    <figcaption>SOP – Using Access Permissions and Rights to Secure a Folder – v1.0.1'</figcaption> 
-  </div> 
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+
+<!-- Project -->
+<div style="max-width:500px; margin:0 auto; background:rgba(255,255,255,0.05); padding:12px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+
+<iframe
+src="{{ '/assets/guides/SOP – Using Access Permissions and Rights to Secure a Folder – v1.0.1.pdf' | relative_url }}"
+width="100%"
+height="600"
+style="border:1px solid #333; border-radius:8px;">
+</iframe>
+
+<p style="margin-top:8px; color:#aaa; font-size:0.9em;">
+<strong>SOP – Using Access Permissions and Rights to Secure a Folder – v1.0.1.pdf</strong>
+</p>
+
+</div>
+
+</div>
