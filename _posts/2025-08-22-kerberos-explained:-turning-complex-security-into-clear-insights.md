@@ -41,7 +41,7 @@ image:
 <iframe
 src="{{ 'assets/reports/REPORT%20%E2%80%93%20Kerberos%20Authentication%20Protocol%20%E2%80%93%20v1.0.1.pdf' | relative_url }}"
 width="100%"
-height="600"
+height="680"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
