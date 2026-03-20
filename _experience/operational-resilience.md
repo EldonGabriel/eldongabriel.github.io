@@ -72,7 +72,7 @@ Hands-on implementation of backup, recovery, and system restoration strategies d
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;"> <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);"> 
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);"> 
 <h5>Active Directory Disaster Recovery with Bare Metal Restore</h5> 
 <p>Demonstrates full restoration of an Active Directory Domain Controller using Bare Metal Recovery (BMR) and Directory Services Restore Mode (DSRM) after system failure.</p> 
 <p><strong>Skills:</strong> Active Directory · BMR · DSRM · System Recovery · Disaster Recovery Validation</p> 
