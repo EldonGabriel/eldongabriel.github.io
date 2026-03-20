@@ -158,12 +158,27 @@ function showSlides3() {
 - Subnetting isn’t just memorization; structured practice helps reinforce understanding.  
 - Creating formal documentation from practice exercises builds knowledge and portfolio assets.
 
+<div style="text-align:center;">
+<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
+Related Projects</h2>
+</div>
 
-  <div style="text-align:center;">
-  <h1 style="display: inline-block; border-bottom: 3px solid #fff; padding-bottom: 5px;">Related Projects</h1>
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 0 1 45%; min-width: 600px; text-align: center;">
-    <iframe src="{{ '/assets/reports/REPORT – IP Subnetting Fundamentals – v1.0.0.pdf' | relative_url }}" width="100%" height="900px" style="border:1px solid #ccc;"></iframe>
-    <figcaption>REPORT – IP Subnetting Fundamentals – v1.0.0</figcaption>
-  </div>
+<!-- Project -->
+<div style="max-width:500px; margin:0 auto; background:rgba(255,255,255,0.05); padding:12px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+
+<iframe
+src="{{ '/assets/reports/REPORT – IP Subnetting Fundamentals – v1.0.0.pdf' | relative_url }}"
+width="100%"
+height="680"
+style="border:1px solid #333; border-radius:8px;">
+</iframe>
+
+<p style="margin-top:8px; color:#aaa; font-size:0.9em;">
+<strong>REPORT – IP Subnetting Fundamentals – v1.0.0</strong>
+</p>
+
+</div>
+
+</div>
