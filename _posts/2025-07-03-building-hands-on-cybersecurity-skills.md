@@ -218,4 +218,3 @@ Related Projects</h2>
 </div>
 
 <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">Explore MCSI Portfolio</a>
-</p>
