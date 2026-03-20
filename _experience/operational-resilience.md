@@ -23,8 +23,8 @@ The work demonstrated here includes backup implementation, disaster recovery val
 | Data Protection & Recovery | 1 |
 | Resilience & Recovery Planning | 1 |
 | Infrastructure Recovery & Restoration | 1 |
-| Backup, Recovery & Migration | 3 |
-| **Total Operational Resilience Labs Documented** | **6** |
+| Backup, Recovery & Migration | 4 |
+| **Total Operational Resilience Labs Documented** | **7** |
 
 ---
 
