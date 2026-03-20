@@ -9,8 +9,6 @@ image:
   thumbnail: /assets/images/posts/active-directory.png
 ---
 
-# Active Directory Disaster Recovery & Identity Restoration
-
 This project shows how to recover an Active Directory (AD) environment after a full system failure. The system was restored on new hardware using Windows Server 2016.
 
 The goal was to recover all system data, including user accounts and domain services, so business operations could continue.
