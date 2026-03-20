@@ -1,5 +1,5 @@
 ---
-title: "Resilience in Identity: Active Directory Bare Metal Recovery"
+title: "Active Directory Disaster Recovery with Bare Metal Restore"
 date: 2026-02-12
 author: Eldon Gabriel
 tags: [Active Directory, Windows Server, Disaster Recovery, BMR, DSRM, System Administration, Cybersecurity]
@@ -13,9 +13,7 @@ image:
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Exercise Core Function</h1>
 </div>
 
-This project shows how to recover an Active Directory (AD) environment after a full system failure. The system was restored on new hardware using Windows Server 2016.
-
-The goal was to recover all system data, including user accounts and domain services, so business operations could continue.
+This project shows how to recover an Active Directory (AD) environment after a full system failure. The system was restored on new hardware using Windows Server 2016. The goal was to restore domain services and system state to a fully operational condition.
 
 ---
 
