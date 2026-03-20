@@ -42,7 +42,7 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 <p>Demonstrates how Windows NTFS permissions can be configured to protect sensitive directories and enforce least-privilege access controls.</p>
 <p><strong>Skills:</strong> NTFS Permission Management · Access Control Enforcement · Least Privilege</p>
 <p align="center" style="margin-top:20px;">
-<a href=/securing-sensitive-folders/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href=https://eldongabriel.github.io/securing-sensitive-folders/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
