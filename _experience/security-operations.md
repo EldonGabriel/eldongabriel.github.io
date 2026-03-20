@@ -96,11 +96,13 @@ Hands-on configuration of system security controls designed to protect infrastru
 <h5>Applying Local GPO for Session Lock Enforcement</h5>
 <p>Configured session lock policies using Local Group Policy to automatically secure idle systems and reduce unauthorized access risk.</p>
 <p><strong>Skills:</strong> GPO Configuration · Endpoint Hardening · Access Control Enforcement</p>
+<p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/deploying-session-lock-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
 </div>
+
 ### 🧱 Infrastructure Protection & Recovery
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
