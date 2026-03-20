@@ -20,11 +20,10 @@ These documents demonstrate familiarity with structured risk assessment methodol
 
 | Category | Labs |
 |--------|------|
-| Governance, Policy & Risk | 5 |
-| Professional Reporting Frameworks | 1 |
-| Strategic Security Research | 1 |
+| Frameworks, Risk & Policy | 5 |
+| Security Research & Strategic Analysis | 1 |
 | Lab Demonstration | 2 |
-| **Total Governance Assets Documented** | **9** |
+| **Total Governance Assets Documented** | **8** |
 
 ---
 
