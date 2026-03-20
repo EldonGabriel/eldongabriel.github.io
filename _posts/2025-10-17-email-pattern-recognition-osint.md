@@ -9,6 +9,10 @@ image:
   thumbnail: "/assets/images/posts/osint_email_enum.png"
 ---
 
+<div style="text-align:center;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Exercise Core Function</h1>
+</div>
+
 In this exercise, I focused on performing OSINT to identify and validate email addresses associated with a specific domain and individual. The methodology included extracting emails from publicly available PDF documents, generating educated guesses based on naming conventions, and verifying mailbox existence using online tools.
 
 <div style="text-align:center;">
