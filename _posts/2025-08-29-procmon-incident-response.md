@@ -63,7 +63,7 @@ Related Projects
 
 <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:25px;">
 
-<div style="width:650px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
+<div style="width:500px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
 <iframe
 src="{{ '/assets/guides/GUIDE – Monitoring Windows Processes with Procmon – v1.0.1.pdf' | relative_url }}"
