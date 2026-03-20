@@ -159,8 +159,7 @@ function showSlides3() {
 - Creating formal documentation from practice exercises builds knowledge and portfolio assets.
 
 <div style="text-align:center;">
-<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
-Related Projects</h2>
+<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">Related Projects</h2>
 </div>
 
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
