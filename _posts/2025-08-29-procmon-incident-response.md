@@ -68,7 +68,7 @@ Related Projects
 <iframe
 src="{{ '/assets/guides/GUIDE – Monitoring Windows Processes with Procmon – v1.0.1.pdf' | relative_url }}"
 width="100%"
-height="580"
+height="680"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
