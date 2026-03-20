@@ -37,7 +37,7 @@ Maintaining reliable backups and tested recovery procedures is a critical compon
 ### 💾 Data Protection & Recovery Testing
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
-  
+
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>Duplicati Backup and Restore Workflow</h5>
 <p>Demonstrates how to perform secure file backups using the Duplicati command-line interface, covering encryption and restoration procedures.</p>
@@ -47,8 +47,10 @@ Maintaining reliable backups and tested recovery procedures is a critical compon
 </p>
 </div>
 
-<div>
-  
+</div>
+
+---
+
 ### 📋 Resilience & Recovery Planning
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
@@ -57,7 +59,9 @@ Maintaining reliable backups and tested recovery procedures is a critical compon
 <h5>REPORT – SecureStack Solutions – Backup, Recovery, and Restoration (BRR) Plan – v.1.0.0</h5>
 <p>Disaster recovery planning document outlining procedures for system backup, restoration, and operational continuity.</p>
 <p><strong>Skills:</strong> DR Planning · Business Continuity · Risk Mitigation</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span>
+</p>
 </div>
 
 </div>
