@@ -9,9 +9,6 @@ image:
   thumbnail: "/assets/images/posts/user_rights.png"
 ---
 
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Exercise Core Function</h1>
-</div>
 In this exercise, I focused on hardening a standalone Windows 10 workstation using the **Local Group Policy Editor**. The goal was to define **User Rights Assignment policies** to control which users can perform sensitive system actions, enforce least privilege, and reduce security risks. Key policies configured included logon rights, pagefile creation, symbolic link creation, debugging programs, remote shutdown, device driver management, profiling, and file ownership.
 
 <div style="text-align:center;">
