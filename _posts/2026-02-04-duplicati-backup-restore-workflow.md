@@ -10,12 +10,6 @@ image:
 ---
 
 <div style="text-align:center;">
-<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
-Duplicati Backup and Restore Workflow
-</h2>
-</div>
-
-<div style="text-align:center;">
   <h2 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">What I Studied</h2>
 </div>
 
