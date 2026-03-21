@@ -18,9 +18,9 @@ Hands-on investigative exercises focused on collecting and analyzing open-source
 
 | Category | Labs |
 |--------|------|
-| OSINT Research & Investigations | 11 |
+| OSINT Research & Investigations | 12 |
 | Intelligence Demonstration Labs | 11 |
-| **Total Intelligence Labs Documented** | **22** |
+| **Total Intelligence Labs Documented** | **23** |
 
 ---
 
@@ -29,6 +29,13 @@ Hands-on investigative exercises focused on collecting and analyzing open-source
 ### 🔍 Technical Analysis & Platform Mapping
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Exploring Cybersecurity Vulnerabilities With Academic Research – v1.0.0</h5>
+<p>Utilizing Elicit.org and academic databases to extract and verify intelligence on red teaming, incident impact reduction, and malware reverse engineering.</p>
+<p><strong>Skills:</strong> Academic OSINT · Elicit.org · Intelligence Verification · Data Extraction</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+</div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>Translating Foreign-Language Data in OSINT Investigations</h5>
