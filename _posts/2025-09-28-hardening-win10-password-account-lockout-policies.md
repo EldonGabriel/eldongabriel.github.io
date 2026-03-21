@@ -9,7 +9,9 @@ image:
   thumbnail: "assets/images/posts/door.png"
 ---
 
-Strengthening authentication controls is one of the most effective ways to stop attackers before they ever get inside a system. In this exercise, I configured a Windows 10 machine with **strict password and account lockout settings** using the Local Group Policy Editor (`gpedit.msc`). The goal: defend against **password guessing** and **brute-force attacks** by eliminating weak sign-in options and enforcing strong password rules.  
+Strengthening authentication controls is one of the most effective ways to stop attackers before they ever get inside a system. In this exercise, I configured a Windows 10 machine with **strict password and account lockout settings** using the Local Group Policy Editor (`gpedit.msc`). 
+
+**The Goal:** defend against **password guessing** and **brute-force attacks** by eliminating weak sign-in options and enforcing strong password rules.  
 
 
 <div style="text-align:center;">
