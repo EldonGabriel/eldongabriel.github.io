@@ -85,14 +85,14 @@ Related Projects
 <div style="flex:0 1 500px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
 <iframe
-src="{{ '/assets/guides/SOP – Deploying Strict Password & Account Lockout GPO – v1.0.1.pdf' | relative_url }}"
+src="{{ '/assets/guides/SOP – Restricting Anonymous Connections & Reconnaissance Hardening – v1.0.1' | relative_url }}"
 width="100%"
 height="680"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
 <p style="margin-top:12px; color:#aaa;">
-<strong>SOP – Deploying Strict Password & Account Lockout GPO – v1.0.1</strong>
+<strong>SOP – Restricting Anonymous Connections & Reconnaissance Hardening – v1.0.1</strong>
 </p>
 
 </div>
