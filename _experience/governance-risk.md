@@ -20,16 +20,44 @@ These documents demonstrate familiarity with structured risk assessment methodol
 
 | Category | Labs |
 |--------|------|
+| Technical Communication & Reporting Standards | 3 |
 | Frameworks, Risk & Policy | 5 |
 | Security Research & Strategic Analysis | 2 |
 | Lab Demonstration | 2 |
-| **Total Governance Assets Documented** | **9** |
+| **Total Governance Assets Documented** | **12** |
 
 ---
 
 # Governance & Risk Documentation
 
 These documents demonstrate practical understanding of risk assessment methodologies and governance frameworks used to evaluate security posture.
+
+### 📑 Technical Communication & Reporting Standards
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Cybersecurity Assessment (Reporting Template) – v1.1.1</h5>
+<p>Implementation of standardized reporting frameworks, including revision history and executive summaries for formal assessments.</p>
+<p><strong>Skills:</strong> Professional Reporting · Documentation Standards</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Enhancing Writing Quality with Quillbot – v1.1.0</h5>
+<p>Utilizing AI-assisted tools to refine sentence structure and maintain professional tone in technical documentation.</p>
+<p><strong>Skills:</strong> Technical Communication · Professional Writing</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Improving Readability Using Hemingway – v1.0.0</h5>
+<p>Optimizing technical reports for stakeholder readability by reducing complexity and ensuring clear security insights.</p>
+<p><strong>Skills:</strong> Readability Optimization · Stakeholder Communication</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+</div>
+
+</div>
 
 ### 📜 Frameworks, Risk & Policy Documentation
 
