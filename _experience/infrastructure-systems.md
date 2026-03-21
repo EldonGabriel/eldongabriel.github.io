@@ -20,11 +20,11 @@ These labs represent hands-on work performed in controlled environments designed
 
 | Category | Labs |
 |--------|------|
-| Windows Systems Administration | 12 |
-| Linux Systems Administration | 6 |
-| Virtualization & Infrastructure | 7 |
+| Windows Systems Administration | 10 |
+| Linux Systems Administration | 5 |
+| Virtualization & Infrastructure | 6 |
 | Lab Demonstration | 33 |
-| **Total Labs Documented** | **58** |
+| **Total Labs Documented** | **54** |
 
 ---
 
