@@ -23,9 +23,9 @@ These labs represent hands-on work performed in controlled environments designed
 | Windows Systems Administration | 10 |
 | Linux Systems Administration | 5 |
 | Cloud Migration & Hybrid Environments | 1 |
-| Virtualization & Infrastructure | 6 |
+| Virtualization & Infrastructure | 5 |
 | Lab Demonstration | 33 |
-| **Total Labs Documented** | **55** |
+| **Total Labs Documented** | **54** |
 
 ---
 
@@ -209,13 +209,6 @@ Focuses on the virtualization frameworks that support secure enterprise environm
 <h5>REPORT – System Administration Virtualization in Cybersecurity – v1.0.1</h5>
 <p>Explains the role of virtualization platforms in building isolated environments for system administration and cybersecurity testing.</p>
 <p><strong>Skills:</strong> Virtualization · Lab Architecture · Security Testing Environments</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>IR – AWS MGN Agent Removal & Environment Cleanup – v1.0.0</h5>
-<p>Documented the removal of AWS MGN migration agents and performed post-migration environment cleanup and validation.</p>
-<p><strong>Skills:</strong> AWS Migration · Cloud Cleanup · Incident Remediation</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
