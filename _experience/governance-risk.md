@@ -21,9 +21,9 @@ These documents demonstrate familiarity with structured risk assessment methodol
 | Category | Labs |
 |--------|------|
 | Frameworks, Risk & Policy | 5 |
-| Security Research & Strategic Analysis | 1 |
+| Security Research & Strategic Analysis | 2 |
 | Lab Demonstration | 2 |
-| **Total Governance Assets Documented** | **8** |
+| **Total Governance Assets Documented** | **9** |
 
 ---
 
@@ -89,6 +89,13 @@ Research examining cybersecurity frameworks, threat models, and security strateg
 ### 📈 Enterprise Strategy & Threat Analysis
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Cyber Kill Chain Model and MITRE ATT&CK Research – v1.2.0</h5>
+<p>Strategic analysis of the Cyber Kill Chain and MITRE ATT&CK frameworks to map attacker behaviors and develop integrated defensive strategies for organizational resilience.</p>
+<p><strong>Skills:</strong> Threat Modeling · MITRE ATT&CK · Cyber Kill Chain · Risk Analysis</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+</div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>BYOD in Organizations: Security, Challenges, and Practical Strategies</h5>
