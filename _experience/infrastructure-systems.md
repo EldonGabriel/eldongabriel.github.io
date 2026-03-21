@@ -22,8 +22,8 @@ These labs represent hands-on work performed in controlled environments designed
 |--------|------|
 | Windows Systems Administration | 10 |
 | Linux Systems Administration | 5 |
-| Virtualization & Infrastructure | 6 |
 | Cloud Migration & Hybrid Environments | 1 |
+| Virtualization & Infrastructure | 6 |
 | Lab Demonstration | 33 |
 | **Total Labs Documented** | **55** |
 
