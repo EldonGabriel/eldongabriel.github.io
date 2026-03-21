@@ -21,10 +21,10 @@ These labs demonstrate operational security practices including system hardening
 | Category | Labs |
 |--------|------|
 | Perimeter Defense & Secure Connectivity | 3 |
-| Endpoint Hardening & Access Control | 4 |  
+| Endpoint Hardening & Access Control | 6 |  
 | Infrastructure Protection & Recovery | 1 | 
 | Lab Demonstration |  8 |
-| **Total Security Operations Labs Documented** | **16** |
+| **Total Security Operations Labs Documented** | **18** |
 
 ---
 
@@ -72,6 +72,20 @@ Hands-on configuration of system security controls designed to protect infrastru
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/using-the-windows-registry-to-restrict-untrusted-user-accounts/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Research on the Top Penetration Testing Tools – v1.0.0</h5>
+<p>Technical evaluation of industry-standard security tools including Nmap, Burp Suite, and Metasploit, assessing their utility in vulnerability discovery and exploitation testing.</p>
+<p><strong>Skills:</strong> Vulnerability Assessment · Penetration Testing Tools · Security Auditing</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); margin-top:20px;">
+<h5>REPORT – Enterprise Security Software Types – v1.0.1</h5>
+<p>Comprehensive research into enterprise-grade defensive solutions including EDR, IAM, IDS/IPS, and the implementation of Secure Standard Operating Environments (SSOE).</p>
+<p><strong>Skills:</strong> EDR · IAM · Endpoint Protection · Defense-in-Depth</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
