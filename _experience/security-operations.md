@@ -131,6 +131,8 @@ Hands-on configuration of system security controls designed to protect infrastru
 </p>
 </div>
 
+</div>
+
 ### 🔍 Threat Hunting & Malware Analysis
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
