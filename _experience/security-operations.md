@@ -82,7 +82,7 @@ Hands-on configuration of system security controls designed to protect infrastru
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); margin-top:20px;">
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Enterprise Security Software Types – v1.0.1</h5>
 <p>Comprehensive research into enterprise-grade defensive solutions including EDR, IAM, IDS/IPS, and the implementation of Secure Standard Operating Environments (SSOE).</p>
 <p><strong>Skills:</strong> EDR · IAM · Endpoint Protection · Defense-in-Depth</p>
