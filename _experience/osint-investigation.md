@@ -18,9 +18,9 @@ Hands-on investigative exercises focused on collecting and analyzing open-source
 
 | Category | Labs |
 |--------|------|
-| OSINT Research & Investigations | 12 |
+| OSINT Research & Investigations | 11 |
 | Intelligence Demonstration Labs | 11 |
-| **Total Intelligence Labs Documented** | **23** |
+| **Total Intelligence Labs Documented** | **22** |
 
 ---
 
