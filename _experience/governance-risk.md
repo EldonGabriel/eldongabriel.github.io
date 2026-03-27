@@ -62,15 +62,6 @@ These documents demonstrate practical understanding of risk assessment methodolo
 ### 📜 Frameworks, Risk & Policy Documentation
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Performing a Risk Assessment with NIST SP 800-30</h5>
-<p>Applying a structured risk assessment process to identify assets, threats, and vulnerabilities, and prioritize risks using a simple scoring method.</p>
-<p><strong>Skills:</strong> Risk Assessment · Threat Analysis · Vulnerability Identification</p>
-<p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/risk-assessment-nist-sp-800-30" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
-</p>
-</div>
   
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>Applying Least Privilege (NIST SP 800-53 AC-6)</h5>
@@ -82,19 +73,28 @@ These documents demonstrate practical understanding of risk assessment methodolo
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>BYOD in Organizations: Security, Challenges, and Practical Strategies</h5>
-<p>A NIST-aligned policy framework to secure personal device usage within corporate networks, including employee legal agreements.</p>
-<p><strong>Skills:</strong> Policy Writing · Security Governance · NIST Alignment</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/byod-in-organizations/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>Governance in Action: Access Control Incident Analysis</h5>
 <p>Analyzed a real-world data leak caused by weak access controls, identifying control gaps and applying least privilege principles to reduce risk.</p>
 <p><strong>Skills:</strong> Risk Assessment · Root Cause Analysis · Access Control · NIST Alignment</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/access-control-incident-analysis/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
 </p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>Performing a Risk Assessment with NIST SP 800-30</h5>
+<p>Applying a structured risk assessment process to identify assets, threats, and vulnerabilities, and prioritize risks using a simple scoring method.</p>
+<p><strong>Skills:</strong> Risk Assessment · Threat Analysis · Vulnerability Identification</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/risk-assessment-nist-sp-800-30" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>BYOD in Organizations: Security, Challenges, and Practical Strategies</h5>
+<p>A NIST-aligned policy framework to secure personal device usage within corporate networks, including employee legal agreements.</p>
+<p><strong>Skills:</strong> Policy Writing · Security Governance · NIST Alignment</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/byod-in-organizations/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
