@@ -91,10 +91,10 @@ These documents demonstrate practical understanding of risk assessment methodolo
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>BYOD in Organizations: Security, Challenges, and Practical Strategies</h5>
+<h5>TEMPLATE - Bring Your Own Device (BYOD) Policy and Agreement - v1.0.0</h5>
 <p>A NIST-aligned policy framework to secure personal device usage within corporate networks, including employee legal agreements.</p>
 <p><strong>Skills:</strong> Policy Writing · Security Governance · NIST Alignment</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/byod-in-organizations/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Download Template</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
