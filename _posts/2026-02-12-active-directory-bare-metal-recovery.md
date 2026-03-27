@@ -9,19 +9,33 @@ image:
   thumbnail: /assets/images/posts/active-directory.png
 ---
 
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Exercise Core Function</h1>
+<div style="text-align:center; margin-bottom:20px;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:6px; margin:0;">
+    Exercise Core Function
+  </h1>
 </div>
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+<div style="display:grid; grid-template-columns:1fr; gap:20px; margin-bottom:40px; max-width:900px; margin-left:auto; margin-right:auto;">
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h2>SOP – Active Directory Disaster Recovery & BMR (v1.0.1)</h2>
-<iframe width="100%" height="515" src="https://www.youtube.com/embed/HjuZvKC1FSk?si=5-EhGvJkhdxyIJcP" frameborder="0" allowfullscreen></iframe>
+  <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+    
+    <h2 style="text-align:center; margin-bottom:15px;">
+      SOP – Active Directory Disaster Recovery & BMR (v1.0.1)
+    </h2>
+
+    <!-- Responsive Video Wrapper -->
+    <div style="position:relative; width:100%; padding-bottom:56.25%; height:0;">
+      <iframe 
+        src="https://www.youtube.com/embed/HjuZvKC1FSk?si=5-EhGvJkhdxyIJcP"
+        style="position:absolute; top:0; left:0; width:100%; height:100%; border-radius:6px;"
+        frameborder="0"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+  </div>
+
 </div>
-
-</div>
-
 This project shows how to recover an Active Directory (AD) environment after a full system failure. The system was restored on new hardware using Windows Server 2016. The goal was to restore domain services and system state to a fully operational condition.
 
 ---
