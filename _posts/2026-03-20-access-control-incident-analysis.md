@@ -1,6 +1,6 @@
 ---
 title: "Governance in Action: Access Control Incident Analysis"
-date: 2025-02-12
+date: 2026-03-20
 author: Eldon Gabriel
 tags: [Cybersecurity, GRC, Access Control, NIST, Risk Analysis]
 excerpt: "Analysis of a data exposure incident caused by weak access controls and lack of enforced security policies."
