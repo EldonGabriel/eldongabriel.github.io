@@ -16,7 +16,7 @@ image:
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>SOP – Active Directory Disaster Recovery & BMR (v1.0.1)</h5>
+<h2>SOP – Active Directory Disaster Recovery & BMR (v1.0.1)</h2>
 <iframe width="100%" height="515" src="https://www.youtube.com/embed/HjuZvKC1FSk?si=5-EhGvJkhdxyIJcP" frameborder="0" allowfullscreen></iframe>
 </div>
 
