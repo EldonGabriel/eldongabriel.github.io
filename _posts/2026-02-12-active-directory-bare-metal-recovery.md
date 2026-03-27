@@ -13,6 +13,16 @@ image:
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Exercise Core Function</h1>
 </div>
 
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>SOP – Active Directory Disaster Recovery & BMR (v1.0.1)</h5>
+<p>Hands-on exploration of Linux command documentation using built-in tools such as man and cat to understand command syntax and options.</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/HjuZvKC1FSk?si=5-EhGvJkhdxyIJcP" frameborder="0" allowfullscreen></iframe>
+</div>
+
+</div>
+
 This project shows how to recover an Active Directory (AD) environment after a full system failure. The system was restored on new hardware using Windows Server 2016. The goal was to restore domain services and system state to a fully operational condition.
 
 ---
