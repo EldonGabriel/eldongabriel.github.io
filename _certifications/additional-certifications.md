@@ -19,7 +19,7 @@ image:
   This section highlights advanced training and lab-based certifications that complement my core expertise in system security and infrastructure management. These credentials reflect practical development in security testing and enterprise IT operations.
 </p>
 
-<h4 style="margin-top:40px;">Certifications</h4>
+<h2 style="margin-top:40px;">Certifications</h2>
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/assets/certifications/kccs.png" 
