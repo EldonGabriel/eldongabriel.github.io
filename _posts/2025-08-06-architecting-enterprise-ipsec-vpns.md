@@ -9,7 +9,33 @@ image:
   thumbnail: /assets/images/posts/ipsec-vpns.png
 ---
 
-# Secure Connectivity: Architecting Enterprise IPsec VPNs
+<div style="text-align:center; margin-bottom:20px;">
+  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:6px; margin:0;">
+    Exercise Core Function
+  </h1>
+</div>
+
+<div style="display:grid; grid-template-columns:1fr; gap:20px; margin-bottom:40px; max-width:900px; margin-left:auto; margin-right:auto;">
+
+  <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+    
+    <h3 style="text-align:center; margin-bottom:15px;">
+      SOP – Enterprise IPsec VPN Diagnostics – v1.0.2
+    </h3>
+
+    <!-- Responsive Video Wrapper -->
+    <div style="position:relative; width:100%; padding-bottom:56.25%; height:0;">
+      <iframe 
+        src="https://www.youtube.com/embed/CDBSlA783xA?si=xk83lVYn4r7V4nLe"
+        style="position:absolute; top:0; left:0; width:100%; height:100%; border-radius:6px;"
+        frameborder="0"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+  </div>
+
+</div> 
 
 In modern networks, data does not remain in one place. As companies grow, they must protect data as it travels across the Internet. This project focused on building and testing a secure “tunnel” between two office locations to keep data private and encrypted.
 
@@ -83,14 +109,14 @@ Related Projects</h2>
 <div style="max-width:500px; margin:0 auto; background:rgba(255,255,255,0.05); padding:12px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
 <iframe
-src="{{ '/assets/guides/SOP – Enterprise IPsec VPN Diagnostics – v1.0.1.pdf' | relative_url }}"
+src="{{ '/assets/guides/SOP – Enterprise IPsec VPN Diagnostics – v1.0.2.pdf' | relative_url }}"
 width="100%"
 height="680"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
 <p style="margin-top:8px; color:#aaa; font-size:0.9em;">
-<strong>SOP – Secure Enterprise VPN Deployment & Diagnostics – v1.0.0</strong>
+<strong>SOP – Enterprise IPsec VPN Diagnostics – v1.0.2.pdf</strong>
 </p>
 
 </div>
