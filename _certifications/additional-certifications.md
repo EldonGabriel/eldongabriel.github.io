@@ -82,18 +82,6 @@ The **Kali Linux** certification enabled me to gain a foundational understanding
 
 ---
 
-<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Specialized Capabilities:</strong> Security Labs · Infrastructure Diagnostics · Enterprise IT Operations
-</p>
-
-<p style="font-size:1.2em; line-height:1.6; margin-top:20px;">
-  This section highlights advanced training and lab-based certifications that complement my core expertise in system security and infrastructure management. These credentials reflect practical development in security testing, server administration, and enterprise IT operations.
-</p>
-
-<h4 style="margin-top:40px;">Certifications</h4>
-
----
-
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
   <p style="font-size: 1.5em; font-weight: bold; color: #ffffff;">Introduction to Server Administration Services</p>
   <p style="font-size: 14px; color: #ffffff;">Channel 9 / Microsoft Tutors via Alison</p>
@@ -145,12 +133,6 @@ The **Working as an IT Support Technician** course reinforces core operational s
 * **Operational Readiness:** Diagnosing and resolving hardware/software conflicts to maintain high system availability.
 * **Infrastructure Support:** Configuring secure computer networks tailored to organizational needs and security policies.
 * **Lifecycle Management:** Applying best practices for user management, data backup, and professional technical reporting.
-
----
-
-<p style="font-size:1.2em; line-height:1.6; margin-top:30px;">
-  These capabilities support my primary focus areas in system hardening, security operations, and technical troubleshooting, ensuring a comprehensive approach to infrastructure security.
-</p>
 
 ---
 
