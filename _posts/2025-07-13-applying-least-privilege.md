@@ -69,4 +69,4 @@ style="border:1px solid #333; border-radius:8px;">
 
 ## <center>Reflection & Next Steps</center>
 
-TThis exercise improved my understanding of access control and risk reduction. I will continue to apply the principle of least privilege in system configurations and explore more advanced access control models. 
+This exercise improved my understanding of access control and risk reduction. I will continue to apply the principle of least privilege in system configurations and explore more advanced access control models. 
