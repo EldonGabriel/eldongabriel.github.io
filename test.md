@@ -6,102 +6,135 @@ image:
   path: /assets/images/banner.png
 ---
 
-
-# Resolving AWS MGN Agent Removal Issues After VMware to EC2 Migration
-
-## What I Studied
-
-This project focused on moving virtual machines from a VMware lab to AWS EC2 using AWS Application Migration Service (MGN).
-
-The lab was built using limited resources (32 GB RAM), so I used nested virtualization to simulate a real enterprise setup. A Domain Controller handled DNS and routing, while ESXi and vCenter managed the virtual machines.
-
-**Tools and Techniques:** VMware vSphere 8.0, AWS MGN, PowerShell, Windows Server (RRAS/NAT), and Safe Mode troubleshooting.
-
-**Key Frameworks:** Hybrid-Cloud, FinOps (cost control), and Root Cause Analysis (RCA).
-
----
-
-## What I Learned
-
-**Hands-on Skills:**  
-I built a working DNS environment using both A and PTR records so systems could resolve names and IPs correctly. I also configured AWS MGN replication and used AWS Systems Manager (SSM) for managing the new EC2 instances.
-
-**Observations:**  
-A migration is not finished just because the system boots. Even after a successful test launch, the system can still depend on old drivers from VMware.
-
-**Troubleshooting Lessons:**  
-I forced a failure by removing AWS drivers after migration. This caused the system to crash due to a mismatch between BIOS/EFI and GPT settings. To fix it, I switched firmware modes, rebuilt boot settings (BCD), and installed a second OS to recover the data.
-
----
-
-## Why It Matters
-
-**Enterprise Security:**  
-More than 300 unused AWS resources were left behind after testing. These increase both cost and security risk if not removed.
-
-**Operational Defense:**  
-Knowing how to recover from a system failure like this helps protect important data, even if the OS stops working.
-
-**Real-World Analogy:**  
-Moving a system between platforms is like moving an engine into a different car. If the parts don’t match, it won’t run properly.
-
----
-
-## How It Maps to the Job / Framework
-
-- **NIST NICE – Systems Architecture (SP-ARC)**
-- **ASD Cyber Skills Framework – Systems Development (SDEV)**
-
-These skills apply directly to cloud migration, system recovery, and infrastructure management roles.
-
----
-
-## Key Takeaways
-
-- DNS must be configured correctly. Both A and PTR records are required  
-- A successful boot does not mean the migration is complete  
-- Firmware and partition types (BIOS vs EFI, MBR vs GPT) must match  
-- Cleaning up unused cloud resources reduces cost and risk  
-- Always protect data before making major system changes  
-
-<div style="text-align:center;">
-<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
-Related Projects</h2>
-</div>
-
-<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-
-<!-- Project -->
-<div style="max-width:500px; margin:0 auto; background:rgba(255,255,255,0.05); padding:12px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
-
-<iframe
-src="{{ '/assets/reports/REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0.pdf' | relative_url }}"
-width="100%"
-height="600"
-style="border:1px solid #333; border-radius:8px;">
-</iframe>
-
-<p style="margin-top:8px; color:#aaa; font-size:0.9em;">
-<strong>REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0.pdf</strong>
+<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+  <strong>Specialized Capabilities:</strong> Security Labs · Infrastructure Diagnostics · Enterprise IT Operations
 </p>
 
-</div>
+<p style="font-size:1.2em; line-height:1.6; margin-top:20px;">
+  This section highlights advanced training and lab-based certifications that complement my core expertise in system security and infrastructure management. These credentials reflect practical development in security testing, server administration, and enterprise IT operations.
+</p>
 
-</div>
-
----
-
-### Technical Skills Demonstrated
-* **Cloud Migration:** VMware to AWS EC2 using AWS MGN  
-* **Infrastructure Setup:** DNS, NAT routing, and vCenter deployment  
-* **Troubleshooting:** Windows recovery, Safe Mode fixes, and driver issues  
-* **Cloud Operations:** EC2 setup and Systems Manager (SSM)  
-* **Cost Control:** Cleanup of unused AWS resources  
+<h4 style="margin-top:40px;">Certifications</h4>
 
 ---
 
-### Conclusion
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <p style="font-size: 1.5em; font-weight: bold; color: #ffffff;">Introduction to Server Administration Services</p>
+  <p style="font-size: 14px; color: #ffffff;">Channel 9 / Microsoft Tutors via Alison</p>
+</div>
 
-This project showed the full migration process from setup to recovery. The systems successfully moved to AWS, but testing also showed how easy it is to break things if drivers and settings are not aligned.
+The **Introduction to Server Administration Services** course validates my understanding of the fundamental practices required to manage enterprise server environments. It covers essential services such as name resolution, directory services, and secure file-system management.
 
-After fixing the failure and recovering the system, all data was preserved and the environment was cleaned up. This reinforced the importance of testing, troubleshooting, and cost control in cloud projects.
+<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+  <strong>Core Capabilities:</strong> DNS Resolution · NTFS Permissions · Directory Services
+</p>
+
+#### **Professional Solutions & Domain Expertise**
+* **Access Control:** Implementing NTFS permissions and file-system encryption (EFS) to secure sensitive data at rest.
+* **Network Identity:** Managing DNS configurations to ensure reliable name resolution and resource availability within a domain.
+* **Policy Enforcement:** Understanding the lifecycle of Group Policy Objects (GPOs) for centralized system management and security.
+
+---
+
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <p style="font-size: 1.5em; font-weight: bold; color: #ffffff;">Master Microsoft 365: Essential Skills and Beyond</p>
+  <p style="font-size: 14px; color: #ffffff;">LinCademy via Alison</p>
+</div>
+
+The **Master Microsoft 365** course demonstrates proficiency in managing hybrid cloud environments. It focuses on the administration of M365 tenants, emphasizing data governance, secure collaboration, and compliance within the Office 365 ecosystem.
+
+<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+  <strong>Core Capabilities:</strong> SaaS Security · Data Governance · Cloud Collaboration
+</p>
+
+#### **Professional Solutions & Domain Expertise**
+* **Cloud Governance:** Evaluating data protection strategies and compliance measures within the Office 365 environment.
+* **Tenant Administration:** Navigating M365 admin interfaces to manage document-sharing strategies and secure external collaboration.
+* **Data Protection:** Identifying and mitigating privacy risks to defend against cloud-based social engineering and identity theft.
+
+---
+
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <p style="font-size: 1.5em; font-weight: bold; color: #ffffff;">Working as an IT Support Technician</p>
+  <p style="font-size: 14px; color: #ffffff;">John Academy via Alison</p>
+</div>
+
+The **Working as an IT Support Technician** course reinforces core operational skills required to maintain organizational uptime. It covers hardware diagnostics, software troubleshooting, and the foundational responsibilities of a support practitioner.
+
+<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+  <strong>Core Capabilities:</strong> Hardware Diagnostics · OS Configuration · User Management
+</p>
+
+#### **Professional Solutions & Domain Expertise**
+* **Operational Readiness:** Diagnosing and resolving hardware/software conflicts to maintain high system availability.
+* **Infrastructure Support:** Configuring secure computer networks tailored to organizational needs and security policies.
+* **Lifecycle Management:** Applying best practices for user management, data backup, and professional technical reporting.
+
+---
+
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/assets/certifications/kccs.png" 
+       alt="KCSS - Knowledge of Cybersecurity Skills" 
+       style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
+  <p style="font-size: 14px; color: #ffffff;">KCSS - Knowledge of Cybersecurity Skills</p>
+</div>
+
+The **KCSS (Knowledge of Cybersecurity Skills)** certification validates my theoretical understanding of core cybersecurity principles. It covers key topics such as network security, threat analysis, and incident response.
+
+<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+  <strong>Core Capabilities:</strong> Threat Analysis · Incident Response · Network Security
+</p>
+
+#### **Professional Solutions & Domain Expertise**
+* **Network Security:** Securing network infrastructures against potential vulnerabilities and attacks.
+* **Threat Analysis:** Proficiency in identifying and responding to cybersecurity threats in a structured manner.
+
+---
+
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/assets/certifications/kcis.png" 
+       alt="KCIS - Knowledge of Core IT Skills" 
+       style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
+  <p style="font-size: 14px; color: #ffffff;">KCIS - Knowledge of Core IT Skills</p>
+</div>
+
+The **KCIS (Knowledge of Core IT Skills)** certification demonstrates my grasp of fundamental IT concepts, including hardware, software, networking, and troubleshooting.
+
+<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+  <strong>Core Capabilities:</strong> IT Infrastructure · Networking · Troubleshooting
+</p>
+
+#### **Professional Solutions & Domain Expertise**
+* **IT Infrastructure:** Management of core hardware and software components within enterprise systems.
+* **Troubleshooting:** Diagnosing and resolving issues across both hardware and software layers.
+
+---
+
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/assets/certifications/kali.png" 
+       alt="Kali Linux" 
+       style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
+  <p style="font-size: 14px; color: #ffffff;">Kali Linux - Completed on March 15, 2025</p>
+</div>
+
+The **Kali Linux** certification enabled me to gain a foundational understanding of penetration testing tools and network monitoring.
+
+<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+  <strong>Core Capabilities:</strong> Vulnerability Assessments · Network Security · Penetration Testing
+</p>
+
+#### **Professional Solutions & Domain Expertise**
+* **Vulnerability Assessments:** Identifying weaknesses within IT systems and networks using specialized toolsets.
+* **Penetration Testing:** Simulating cyberattacks to identify and mitigate potential security risks.
+
+---
+
+<p style="font-size:1.2em; line-height:1.6; margin-top:30px;">
+  These capabilities support my primary focus areas in system hardening, security operations, and technical troubleshooting, ensuring a comprehensive approach to infrastructure security.
+</p>
+
+<p align="center" style="margin-top: 40px;">
+  <a href="/experience/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    View Technical Case Studies
+  </a>
+</p>
