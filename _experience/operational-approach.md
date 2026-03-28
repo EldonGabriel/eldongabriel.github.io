@@ -18,8 +18,6 @@ This section outlines the principles and methods I use to approach technical pro
 - Validate fixes through testing, including negative testing  
 - Prioritize long-term stability over temporary fixes  
 
----
-
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
   <strong>Core Pillars:</strong> Structured Troubleshooting · Security-First Thinking · Root Cause Analysis · Validation Testing
 </p>
@@ -72,14 +70,18 @@ These scenarios demonstrate how I apply structured troubleshooting and validatio
 
 ---
 
-## Technical Stack
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
-- **Virtualization:** VMware, VirtualBox, AWS EC2, GCP  
-- **Defensive Tools:** pfSense, OpenVPN, Windows Defender, GPO Baselines  
-- **Diagnostics:** Procmon, SAR (Linux), Wireshark, Event Viewer  
-- **Documentation:** 100+ structured reports using a Layer → Device → Root Cause framework  
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h2>Technical Stack</h2>
+<p><strong>Virtualization:</strong> VMware, VirtualBox, AWS EC2, GCP</p>
+<p><strong>Defensive Tools:</strong> pfSense, OpenVPN, Windows Defender, GPO Baselines</p>
+<p><strong>Diagnostics:</strong> Procmon, SAR (Linux), Wireshark, Event Viewer</p>
+<p><strong>Documentation:</strong> 100+ structured reports using a Layer → Device → Root Cause framework.</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/active-directory-bare-metal-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+</div>
 
----
+</div>
 
 <p align="center" style="margin-top: 40px;">
   <a href="/experience/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">
@@ -89,5 +91,4 @@ These scenarios demonstrate how I apply structured troubleshooting and validatio
 
 ## Application Across Portfolio
 
-This approach is applied across all technical investigations in my portfolio.  
-For detailed execution and case-based troubleshooting, see the Problem Solving section.
+This approach is applied across all technical investigations in my portfolio.   For detailed execution and case-based troubleshooting, see the Problem Solving section.
