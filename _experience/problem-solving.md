@@ -4,7 +4,7 @@ layout: collection-item
 slug: problem-solving
 collection: experience
 collection_item: true
-order: 8
+order: 9
 permalink: /problem-solving/
 image:
   path: /assets/images/headers/prosol.png
