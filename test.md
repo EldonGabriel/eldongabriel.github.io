@@ -6,59 +6,74 @@ image:
   path: /assets/images/banner.png
 ---
 
+---
+title: "Operational Philosophy & Troubleshooting Framework"
+layout: collection-item
+slug: operational-philosophy
+collection: certifications
+collection_item: true
+order: 1
+image:
+  path: /assets/images/headers/ops-phi.png
+  thumbnail: /assets/images/headers/ops-phi.png
+  caption: "Logic-Driven Troubleshooting & Security Baselines"
+---
+
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Specialized Capabilities:</strong> Security Labs · Infrastructure Diagnostics · Enterprise IT Operations
+  <strong>Core Pillars:</strong> Structured Troubleshooting · NIST/CIS Alignment · Negative Testing · Root Cause Analysis
 </p>
 
-<p style="font-size:1.2em; line-height:1.6; margin-top:20px;">
-  This section highlights advanced training and lab-based certifications that complement my core expertise in system security and infrastructure management. These credentials reflect practical development in security testing, server administration, and enterprise IT operations.
-</p>
+### **Operational Philosophy**
+My approach to IT Support and System Administration is built on the principle that **stability is a product of security.** I don't just resolve tickets; I harden systems to prevent the next incident.
 
-<h4 style="margin-top:40px;">Certifications</h4>
+> **On Automation:** "I believe security shouldn't be optional for the user; it should be an enforced technical baseline."
+> 
+> **On Compliance:** "I don't just change settings; I align my configurations with industry standards like NIST 800-53 and CIS Benchmarks."
+> 
+> **On Troubleshooting:** "My process always includes a validation phase—I use negative testing to prove the security controls actually hold."
 
 ---
 
-<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <p style="font-size: 1.5em; font-weight: bold; color: #ffffff;">Introduction to Server Administration Services</p>
-  <p style="font-size: 14px; color: #ffffff;">Channel 9 / Microsoft Tutors via Alison</p>
-</div>
+### **Technical Troubleshooting Scenarios (The Hero Labs)**
+The following scenarios represent my "Anchor Labs"—complex problems solved using a structured, multi-layer diagnostic approach.
 
-The **Introduction to Server Administration Services** course validates my understanding of the fundamental practices required to manage enterprise server environments. It covers essential services such as name resolution, directory services, and secure file-system management.
+#### **1. AD Disaster Recovery & Identity Restoration**
+* **The Scenario:** Complete loss of a Domain Controller resulting in an identity blackout for 100+ users.
+* **The Resolution:** Rebuilt the server and performed a system state restore using **Directory Services Restore Mode (DSRM)**. 
+* **Validation:** Verified environment health using `dcdiag` and `repadmin` to ensure zero data loss and full replication.
+* **Framework:** Business Continuity Planning (BCP).
 
-<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Capabilities:</strong> DNS Resolution · NTFS Permissions · Directory Services
-</p>
+#### **2. System Hardening: Windows Defender GPO**
+* **The Scenario:** Default AV settings vulnerable to being disabled by local users or ransomware.
+* **The Resolution:** Implemented an **Immutable Baseline** via Group Policy to enforce real-time protection and cloud-based scanning.
+* **Validation:** Performed command-line checks to confirm settings remained enforced even against local administrative overrides.
+* **Framework:** CIS Microsoft Windows Desktop Benchmark.
 
-#### **Professional Solutions & Domain Expertise**
-* **Access Control:** Implementing NTFS permissions and file-system encryption (EFS) to secure sensitive data at rest.
-* **Network Identity:** Managing DNS configurations to ensure reliable name resolution and resource availability within a domain.
-* **Policy Enforcement:** Understanding the lifecycle of Group Policy Objects (GPOs) for centralized system management and security.
+#### **3. RDP Troubleshooting (AWS Hybrid Cloud)**
+* **The Scenario:** Persistent RDP connection failures for AWS-hosted virtual machines.
+* **The Resolution:** Conducted a multi-layer audit of **AWS Security Groups**, **Network ACLs**, and OS-level Remote Desktop Services.
+* **Validation:** Identified and corrected misconfigured ingress rules, restoring stable cross-platform connectivity.
+* **Framework:** ITIL Incident Management / NIST CSF (RS.AN).
 
----
-
-<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <p style="font-size: 1.5em; font-weight: bold; color: #ffffff;">Master Microsoft 365: Essential Skills and Beyond</p>
-  <p style="font-size: 14px; color: #ffffff;">LinCademy via Alison</p>
-</div>
-
-The **Master Microsoft 365** course demonstrates proficiency in managing hybrid cloud environments. It focuses on the administration of M365 tenants, emphasizing data governance, secure collaboration, and compliance within the Office 365 ecosystem.
-
-<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Capabilities:</strong> SaaS Security · Data Governance · Cloud Collaboration
-</p>
-
-#### **Professional Solutions & Domain Expertise**
-* **Cloud Governance:** Evaluating data protection strategies and compliance measures within the Office 365 environment.
-* **Tenant Administration:** Navigating M365 admin interfaces to manage document-sharing strategies and secure external collaboration.
-* **Data Protection:** Identifying and mitigating privacy risks to defend against cloud-based social engineering and identity theft.
+#### **4. Access Control & NIST Alignment (Least Privilege)**
+* **The Scenario:** Confidential data leak caused by "permission creep" and lack of technical controls.
+* **The Resolution:** Mapped the environment to **NIST 800-53 (AC-6)**. Restructured NTFS permissions to a Role-Based Access Control (RBAC) model.
+* **Validation:** Conducted "Negative Testing" with different user roles to confirm data isolation and restricted PowerShell execution.
+* **Framework:** Principle of Least Privilege (POLP).
 
 ---
 
-<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <p style="font-size: 1.5em; font-weight: bold; color: #ffffff;">Working as an IT Support Technician</p>
-  <p style="font-size: 14px; color: #ffffff;">John Academy via Alison</p>
-</div>
+### **My Technical Stack for Support Adventure**
+* **Virtualization:** VMware, VirtualBox, AWS EC2, GCP.
+* **Defensive Tools:** pfSense, OpenVPN, Windows Defender, GPO Baselines.
+* **Diagnostics:** Procmon (Process Monitor), SAR (Linux), SAR, Wireshark, Event Viewer.
+* **Documentation:** 100+ Structured Reports using the **Layer → Device → Root Cause** framework.
 
+<p align="center" style="margin-top: 40px;">
+  <a href="/experience/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    View Full Lab Reports
+  </a>
+</p>
 The **Working as an IT Support Technician** course reinforces core operational skills required to maintain organizational uptime. It covers hardware diagnostics, software troubleshooting, and the foundational responsibilities of a support practitioner.
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
