@@ -7,70 +7,111 @@ image:
 ---
 
 ---
-title: "Operational Philosophy & Troubleshooting Framework"
+title: "Problem Solving & Operational Philosophy"
 layout: collection-item
-slug: operational-philosophy
-collection: certifications
+slug: problem-solving
+collection: experience
 collection_item: true
-order: 1
+order: 8
+permalink: /problem-solving/
 image:
-  path: /assets/images/headers/ops-phi.png
-  thumbnail: /assets/images/headers/ops-phi.png
-  caption: "Logic-Driven Troubleshooting & Security Baselines"
+  path: /assets/images/headers/prosol.png
+  thumbnail: /assets/images/headers/prosol.png
+  caption: "Technical Solutions, Troubleshooting & Security Baselines"
 ---
 
-<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Pillars:</strong> Structured Troubleshooting · NIST/CIS Alignment · Negative Testing · Root Cause Analysis
-</p>
+## Problem Solving Laboratory Overview
 
-### **Operational Philosophy**
-My approach to IT Support and System Administration is built on the principle that **stability is a product of security.** I don't just resolve tickets; I harden systems to prevent the next incident.
+Modern IT environments require the ability to rapidly diagnose failures, investigate abnormal system behavior, and restore operational stability. This portfolio demonstrates a **Logic-Driven Troubleshooting Framework** combined with a security-first mindset.
 
+I don't just "fix" tickets; I engineer solutions that align with industry standards like **NIST 800-53** and **CIS Benchmarks**. My process always includes a **validation phase**, using negative testing to prove that security controls are active and enforced.
+
+| Category | Labs |
+|--------|------|
+| Infrastructure & Identity Recovery | 1 |
+| System Hardening & GPO Baselines | 3 |
+| Access Control & POLP | 1 |
+| Cloud & Connectivity Diagnostics | 2 |
+| **Total Scenarios Documented** | **7** |
+
+---
+
+## Operational Philosophy
 > **On Automation:** "I believe security shouldn't be optional for the user; it should be an enforced technical baseline."
 > 
-> **On Compliance:** "I don't just change settings; I align my configurations with industry standards like NIST 800-53 and CIS Benchmarks."
+> **On Compliance:** "I don't just change settings; I align my configurations with industry standards like NIST and CIS Benchmarks."
 > 
 > **On Troubleshooting:** "My process always includes a validation phase—I use negative testing to prove the security controls actually hold."
 
 ---
 
-### **Technical Troubleshooting Scenarios (The Hero Labs)**
-The following scenarios represent my "Anchor Labs"—complex problems solved using a structured, multi-layer diagnostic approach.
+# Technical Troubleshooting Portfolio
 
-#### **1. AD Disaster Recovery & Identity Restoration**
-* **The Scenario:** Complete loss of a Domain Controller resulting in an identity blackout for 100+ users.
-* **The Resolution:** Rebuilt the server and performed a system state restore using **Directory Services Restore Mode (DSRM)**. 
-* **Validation:** Verified environment health using `dcdiag` and `repadmin` to ensure zero data loss and full replication.
-* **Framework:** Business Continuity Planning (BCP).
+### 🔧 System Diagnostics & Technical Resolution
 
-#### **2. System Hardening: Windows Defender GPO**
-* **The Scenario:** Default AV settings vulnerable to being disabled by local users or ransomware.
-* **The Resolution:** Implemented an **Immutable Baseline** via Group Policy to enforce real-time protection and cloud-based scanning.
-* **Validation:** Performed command-line checks to confirm settings remained enforced even against local administrative overrides.
-* **Framework:** CIS Microsoft Windows Desktop Benchmark.
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
-#### **3. RDP Troubleshooting (AWS Hybrid Cloud)**
-* **The Scenario:** Persistent RDP connection failures for AWS-hosted virtual machines.
-* **The Resolution:** Conducted a multi-layer audit of **AWS Security Groups**, **Network ACLs**, and OS-level Remote Desktop Services.
-* **Validation:** Identified and corrected misconfigured ingress rules, restoring stable cross-platform connectivity.
-* **Framework:** ITIL Incident Management / NIST CSF (RS.AN).
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>AD Disaster Recovery & Identity Restoration</h5>
+<p>Rebuilding a lost Domain Controller and performing a system state restore via DSRM to recover a 100+ user environment.</p>
+<p><strong>Skills:</strong> BCP · Active Directory · DSRM · dcdiag/repadmin</p>
+<p align="center" style="margin-top:20px;"><a href="#" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+</div>
 
-#### **4. Access Control & NIST Alignment (Least Privilege)**
-* **The Scenario:** Confidential data leak caused by "permission creep" and lack of technical controls.
-* **The Resolution:** Mapped the environment to **NIST 800-53 (AC-6)**. Restructured NTFS permissions to a Role-Based Access Control (RBAC) model.
-* **Validation:** Conducted "Negative Testing" with different user roles to confirm data isolation and restricted PowerShell execution.
-* **Framework:** Principle of Least Privilege (POLP).
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>System Hardening: Windows Defender GPO</h5>
+<p>Enforcing an immutable security baseline to prevent unauthorized disabling of real-time protection and cloud scanning.</p>
+<p><strong>Skills:</strong> GPO · Endpoint Security · CIS Benchmarks · Validation</p>
+<p align="center" style="margin-top:20px;"><a href="#" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>RDP Troubleshooting for AWS Users</h5>
+<p>Multi-layer diagnostic walkthrough for resolving Remote Desktop access failures in AWS-hosted virtual machines.</p>
+<p><strong>Skills:</strong> AWS Connectivity · Security Groups · Network ACLs · Root Cause Analysis</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/rdp-troubleshooting-aws/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>Access Control & NIST Alignment</h5>
+<p>Remediating data leaks by shifting from reactive trust to proactive technical controls using the Principle of Least Privilege.</p>
+<p><strong>Skills:</strong> NIST 800-53 · Root Cause Analysis · Domain Whitelisting</p>
+<p align="center" style="margin-top:20px;"><a href="#" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>Password Policy & Account Lockout Hardening</h5>
+<p>Addressing brute-force vulnerabilities by implementing CIS-aligned complexity rules and automated lockout thresholds.</p>
+<p><strong>Skills:</strong> Brute-Force Protection · Hash Security · Policy Enforcement</p>
+<p align="center" style="margin-top:20px;"><a href="#" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>Restricting Anonymous Connections</h5>
+<p>Mitigating reconnaissance data leaks by blocking null sessions to the SAM and Registry via GPO.</p>
+<p><strong>Skills:</strong> Enumeration Defense · MITRE ATT&CK · GPO Hardening</p>
+<p align="center" style="margin-top:20px;"><a href="#" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>Stabilizing Remote Desktop Across Platforms</h5>
+<p>Investigation into multi-layered access control failures and the restoration of stable remote connectivity.</p>
+<p><strong>Skills:</strong> Cross-System Troubleshooting · Access Control · ITIL Management</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/stabilizingremote-desktop-connections/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+</div>
+
+</div>
 
 ---
 
-### **My Technical Stack for Support Adventure**
-* **Virtualization:** VMware, VirtualBox, AWS EC2, GCP.
-* **Defensive Tools:** pfSense, OpenVPN, Windows Defender, GPO Baselines.
-* **Diagnostics:** Procmon (Process Monitor), SAR (Linux), SAR, Wireshark, Event Viewer.
-* **Documentation:** 100+ Structured Reports using the **Layer → Device → Root Cause** framework.
+## Portfolio Documentation & Methodology
+
+This section represents a **Technical Knowledge Base** derived from 100+ lab exercises. For every incident resolved, a structured report is generated using the **Layer → Device → Root Cause** framework. This documentation ensures that solutions are reproducible, secure, and compliant with enterprise standards.
+
+Additional documentation and full technical breakdowns are available upon request for professional or technical review.
 
 <p align="center" style="margin-top: 40px;">
   <a href="/experience/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">
-    View Full Lab Reports
+    View Full Research Repository
   </a>
 </p>
