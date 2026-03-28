@@ -100,25 +100,3 @@ style="border:1px solid #333; border-radius:8px;">
 </div>
 
 </div>
-
----
-
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Technical Skills Demonstrated</h1>
-</div>
-
-- Malware-safe analysis using sandbox environments  
-- Virtualization and network isolation (host-only networking)  
-- File inspection and basic artifact validation  
-- Risk assessment and threat modeling  
-- Security policy evaluation and system hardening practices  
-
----
-
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Conclusion</h1>
-</div>
-
-This exercise demonstrates how a simple physical device can introduce significant cybersecurity risk. By applying isolation techniques and structured analysis, the threat was contained and evaluated safely.
-
-It highlights the importance of combining technical controls, user awareness, and proper incident reporting to defend against USB-based attacks in enterprise environments.
