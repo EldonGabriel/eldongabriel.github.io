@@ -44,14 +44,14 @@ Related Projects</h2>
 <div style="max-width:500px; margin:0 auto; background:rgba(255,255,255,0.05); padding:12px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
 
 <iframe
-src="{{ 'assets/reports/REPORT – SMB Protocol_ Function and Security Risks – v1.0.0.pdf' | relative_url }}"
+src="{{ 'assets/reports/REPORT – SMB Protocol Function and Security Risks – v1.1.0.pdf' | relative_url }}"
 width="100%"
 height="680"
 style="border:1px solid #333; border-radius:8px;">
 </iframe>
 
 <p style="margin-top:8px; color:#aaa; font-size:0.9em;">
-<strong>REPORT – SMB Protocol_ Function and Security Risks – v1.0.0.pdf</strong>
+<strong>REPORT – SMB Protocol: Function and Security Risks – v1.1.0</strong>
 </p>
 
 </div>
