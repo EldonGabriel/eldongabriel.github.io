@@ -1,5 +1,5 @@
 ---
-title: Field Notes: SysAdmin & Security
+title: Field Notes - SysAdmin & Security
 layout: posts
 permalink: /posts/
 show_excerpts: true
