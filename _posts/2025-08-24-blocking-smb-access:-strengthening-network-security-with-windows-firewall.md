@@ -9,23 +9,29 @@ image:
   thumbnail: "/assets/images/smb.png"
 ---
 
-<p>As a Security Systems Specialist, I focus on building practical skills that can be directly applied to securing systems. I configured Windows Firewall to create a custom rule blocking Server Message Block (SMB) access, demonstrating how host-based controls can reduce exposure to network-level attacks. This hands-on work ties into my report, which examines SMB’s role in file sharing, its common use cases, and the security challenges it introduces in modern environments.</p>
+<p>As a Security Systems Specialist, I focus on building hands-on skills that help protect real systems. In this task, I configured Windows Firewall to block Server Message Block (SMB) traffic. This shows how host-based security controls can reduce the risk of network attacks.</p>
+
+<p>This work connects to my report, where I explain what SMB is used for, how it works in file sharing, and the security risks it can create in modern networks.</p>
 
 <center><h3>Foundational Knowledge</h3></center>
 
-<p>The SMB protocol allows computers on a network to share files, printers, and other resources. While SMB facilitates collaboration and resource management in Windows networks, it is a frequent target for cyber attacks, especially older versions like SMBv1. Blocking unnecessary SMB traffic is a key defensive strategy in protecting systems from exploits such as EternalBlue and WannaCry.</p>
+<p>SMB is a protocol that lets computers share files, printers, and other resources on a network. It is commonly used in Windows environments to support teamwork and resource sharing.</p>
 
-<p>During this exercise, I turned on Windows Firewall and created a rule to prevent SMB access to the machine, specifically blocking TCP ports 139 and 445. This hands-on experience reinforced the importance of controlling protocol access and the practical application of network security principles.</p>
+<p>However, SMB is also a common target for cyber attacks, especially older versions like SMBv1. These older versions have known weaknesses that attackers can exploit.</p>
+
+<p>Blocking unnecessary SMB traffic is an important security step. It helps protect systems from attacks like EternalBlue and WannaCry.</p>
+
+<p>In this exercise, I enabled Windows Firewall and created a rule to block SMB traffic by stopping TCP ports 139 and 445. This helped me understand how controlling network access can improve security.</p>
 
 <center><h3>Lessons Learned</h3></center>
 
-**Firewall Configuration Matters:** Enabling Windows Firewall and creating custom rules allows precise control over which protocols and ports are accessible, reducing the attack surface.
+<p><strong>Firewall Configuration Matters:</strong> Using Windows Firewall with custom rules allows you to control which ports and protocols are allowed. This reduces the system’s exposure to attacks.</p>
 
-**Understanding Protocol Risks:** Blocking SMB demonstrates awareness of the vulnerabilities in outdated protocols like SMBv1 and the importance of limiting exposure to public networks.
+<p><strong>Understanding Protocol Risks:</strong> Blocking SMB shows the importance of knowing which protocols are risky, especially outdated ones like SMBv1.</p>
 
-**Practical Application:** This exercise connected theory from my SMB report to real-world network defense, illustrating how system administrators and security engineers implement protective measures.
+<p><strong>Practical Application:</strong> This task connects theory to real-world security. It shows how system administrators and security engineers protect systems in practice.</p>
 
-**Documentation Skills:** Writing the report and documenting firewall configuration steps helps communicate technical concepts clearly and supports portfolio-building efforts.
+<p><strong>Documentation Skills:</strong> Writing clear reports and documenting steps helps explain technical work and builds a strong professional portfolio.</p>
 
 <div style="text-align:center;">
 <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
