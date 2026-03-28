@@ -4,7 +4,7 @@ layout: collection-item
 slug: osint-investigation
 collection: experience
 collection_item: true
-order: 5
+order: 7
 permalink: /osint-investigation/
 image:
   path: /assets/images/headers/osint-investigation.png
