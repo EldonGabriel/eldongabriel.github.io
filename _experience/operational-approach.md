@@ -4,7 +4,7 @@ layout: collection-item
 slug: operational-approach
 collection: certifications
 collection_item: true
-order: 8
+order: 1
 image:
   path: /assets/images/headers/ops-app.png
   thumbnail: /assets/images/headers/ops-app.png
@@ -78,16 +78,10 @@ These scenarios demonstrate how I apply structured troubleshooting and validatio
 <p><strong>Defensive Tools:</strong> pfSense, OpenVPN, Windows Defender, GPO Baselines</p>
 <p><strong>Diagnostics:</strong> Procmon, SAR (Linux), Wireshark, Event Viewer</p>
 <p><strong>Documentation:</strong> 100+ structured reports using a Layer → Device → Root Cause framework.</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/active-directory-bare-metal-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 </div>
 
-<p align="center" style="margin-top: 40px;">
-  <a href="/experience/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">
-    View Full Lab Reports
-  </a>
-</p>
 
 ## Application Across Portfolio
 
