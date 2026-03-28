@@ -1,7 +1,7 @@
 ---
 title: "Operational Approach"
 layout: collection-item
-slug: operational-philosophy
+slug: operational-approach
 collection: certifications
 collection_item: true
 order: 8
