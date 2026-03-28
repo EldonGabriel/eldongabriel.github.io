@@ -4,7 +4,7 @@ layout: collection-item
 slug: infrastructure-systems
 collection: experience
 collection_item: true
-order: 1
+order: 3
 permalink: /infrastructure-systems/
 image:
   path: /assets/images/headers/is.png
