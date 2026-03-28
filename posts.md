@@ -1,5 +1,5 @@
 ---
-title: IT, Security & Risk Field Notes
+title: Field Notes: SysAdmin & Security
 layout: posts
 permalink: /posts/
 show_excerpts: true
