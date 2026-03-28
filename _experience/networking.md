@@ -94,13 +94,14 @@ Core networking concepts, protocol behavior, and diagnostic techniques used to u
 Designing and analyzing network topologies with a focus on segmentation, secure communication, and resilient enterprise infrastructure.
 
 ### 🏗️ Network Design & Secure Infrastructure
+
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>SOP – Enterprise IPsec VPN Diagnostics – v1.0.2</h5>
 <p>Structured methodology for diagnosing and resolving IPsec VPN connectivity issues in enterprise environments.</p>
 <p><strong>Skills:</strong> VPN Diagnostics · IPsec Analysis · Troubleshooting</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/architecting-enterprise-ipsec-vpns/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/architecting-enterprise-ipsec-vpns/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
