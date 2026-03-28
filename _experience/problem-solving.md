@@ -14,9 +14,11 @@ image:
 
 ## Problem Solving Laboratory Overview
 
-Modern IT environments require the ability to rapidly diagnose failures, investigate abnormal system behavior, and restore operational stability. The labs and reports in this section demonstrate hands-on experience troubleshooting enterprise systems, resolving cloud connectivity problems, and responding to operational incidents.
+This section demonstrates how I apply structured troubleshooting methods to real-world technical issues, with a focus on identifying root cause, validating fixes, and restoring system stability.
 
-These exercises emphasize structured troubleshooting methodologies, root cause analysis, and the documentation of corrective actions used to restore system functionality and maintain secure infrastructure.
+Modern IT environments require the ability to quickly diagnose failures and respond to abnormal system behavior. The labs and reports in this section reflect hands-on experience troubleshooting enterprise systems, resolving cloud connectivity issues, and supporting operational incidents.
+
+Each exercise emphasizes a consistent approach: isolate the problem, analyze system behavior, implement corrective actions, and validate the solution to ensure long-term stability and security.
 
 | Category | Labs |
 |--------|------|
