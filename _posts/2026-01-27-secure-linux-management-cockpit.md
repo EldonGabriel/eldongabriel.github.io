@@ -105,26 +105,3 @@ style="border:1px solid #333; border-radius:8px;">
 </div>
 
 </div>
-
----
-
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Technical Skills Demonstrated</h1>
-</div>
-
-- Linux system administration (Ubuntu 24.04)  
-- Cockpit web-based system management  
-- systemd service management  
-- Firewall configuration using UFW  
-- SSH-based remote system management  
-- Basic system hardening and access control  
-
-
-
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Conclusion</h1>
-</div>
-
-This project showed how Cockpit can simplify Linux system management through a single web interface. It improves visibility and control across multiple systems. However, proper security measures such as firewall rules and SSH hardening are required to protect the system.
-
-When used correctly, Cockpit provides a strong balance between ease of use and secure system administration.
