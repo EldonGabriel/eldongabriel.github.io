@@ -4,7 +4,7 @@ layout: collection-item
 slug: operational-resilience
 collection: experience
 collection_item: true
-order: 6
+order: 8
 permalink: /operational-resilience/
 image:
   path: /assets/images/headers/or.png
