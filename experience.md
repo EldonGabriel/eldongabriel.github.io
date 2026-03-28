@@ -21,5 +21,5 @@ The roles and projects below demonstrate practical experience in system administ
 This work is supported by a portfolio of documented labs, technical reports, and security analysis exercises designed to replicate real-world operational scenarios.
 </p>
 
-**ℹ️ Academic Integrity & Compliance::** To follow MCSI non-disclosure policies, I do not share lab solutions publicly. Instead, I demonstrate my skills through independent research and original lab scenarios, documented below. If needed, restricted work can be verified through official transcripts or a secure screen share.
+**ℹ️ Academic Integrity & Compliance:** To follow MCSI non-disclosure policies, I do not share lab solutions publicly. Instead, I demonstrate my skills through independent research and original lab scenarios, documented below. If needed, restricted work can be verified through official transcripts or a secure screen share.
 {: .notice}
