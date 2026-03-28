@@ -4,7 +4,7 @@ layout: collection-item
 slug: security-operations
 collection: experience
 collection_item: true
-order: 3
+order: 5
 permalink: /security-operations/
 image:
   path: /assets/images/headers/so.png
