@@ -4,7 +4,7 @@ layout: collection-item
 slug: governance-risk
 collection: experience
 collection_item: true
-order: 4
+order: 6
 permalink: /governance-risk/
 image:
   path: /assets/images/headers/gr.png
