@@ -14,11 +14,11 @@ image:
 
 ### Identity Security Lab Overview
 
-Identity security focuses on protecting user identities, enforcing authentication controls, and ensuring that access to systems and sensitive resources is properly managed.
+Identity security focuses on protecting user identities, enforcing strong authentication controls, and ensuring that access to systems and sensitive resources is properly managed.
 
-The labs and guides in this section demonstrate hands-on experience implementing identity and access management (IAM) controls, enforcing least-privilege permissions, and securing administrative configurations within Windows environments.
+The labs and guides in this section demonstrate hands-on experience implementing identity and access management (IAM) controls, enforcing least-privilege access, and securing administrative configurations within Windows environments.
 
-These exercises demonstrate how administrators implement identity security controls, enforce least-privilege permissions, and monitor system activity to detect unauthorized access or configuration changes.
+These exercises highlight how administrators enforce access restrictions, protect credentials, and monitor systems to detect unauthorized access and privilege misuse.
 
 | Category | Labs |
 |--------|------|
@@ -29,7 +29,7 @@ These exercises demonstrate how administrators implement identity security contr
 
 # Identity & Access Management
 
-Identity and Access Management (IAM) ensures that only authorized users can access systems and sensitive resources. These labs demonstrate how administrative controls and system configurations are used to protect identities and enforce secure access policies.
+Identity and Access Management (IAM) ensures that only authorized users can access systems and sensitive resources. These labs demonstrate how administrative controls, policy enforcement, and system configurations are used to protect identities and reduce unauthorized access risk.
 
 ## Identity Security Portfolio
 
@@ -89,8 +89,10 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 
 # Portfolio Documentation
 
-This section highlights hands-on work related to identity protection, access control enforcement, and endpoint security configuration. These exercises simulate real-world administrative tasks where protecting user identities and restricting system access are critical to maintaining secure infrastructure.
+This section highlights applied identity security practices, including access control enforcement, credential protection, and privilege management within Windows environments.
 
-While this page highlights representative guides and demonstrations, it is supported by a larger archive of technical documentation, configuration notes, and lab records maintained as part of ongoing cybersecurity and system administration training.
+These labs simulate real-world administrative scenarios where identity misuse, privilege escalation, and unauthorized access represent critical security risks.
 
-Complete guides, BLOGs, and supporting technical materials are Restricted: Request Access for professional or technical review.
+Additional configuration notes, lab documentation, and supporting technical records are maintained within a private research archive.
+
+Complete guides, blogs, and supporting technical materials are restricted and available upon request for professional or technical review.
