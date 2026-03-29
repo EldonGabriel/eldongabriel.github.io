@@ -16,7 +16,7 @@ image:
 
 Security governance defines how organizations identify, assess, and manage cybersecurity risk through structured frameworks, policies, and decision-making processes.
 
-These documents demonstrate familiarity with structured risk assessment methodologies and security governance frameworks used to evaluate organizational security posture and guide risk management decisions.
+The work in this section demonstrates practical application of risk assessment methodologies, governance frameworks, and policy development used to evaluate security posture and guide real-world security decisions.
 
 | Category | Labs |
 |--------|------|
@@ -24,15 +24,15 @@ These documents demonstrate familiarity with structured risk assessment methodol
 | Frameworks, Risk & Policy | 5 |
 | Security Research & Strategic Analysis | 2 |
 | Lab Demonstration | 2 |
-| **Total Governance Assets Documented** | **12** |
+| **Total Governance Documents** | **12** |
 
 ---
 
 # Governance & Risk Documentation
 
-These documents demonstrate practical understanding of risk assessment methodologies and governance frameworks used to evaluate security posture.
+This section highlights applied risk analysis, governance frameworks, and security decision-making processes used to assess and reduce organizational risk.
 
-### 📑 Technical Communication & Reporting Standards
+### 📑 Technical Reporting & Communication
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -59,7 +59,7 @@ These documents demonstrate practical understanding of risk assessment methodolo
 
 </div>
 
-### 📜 Frameworks, Risk & Policy Documentation
+### 📜 Risk Management & Security Frameworks
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
   
@@ -99,7 +99,7 @@ These documents demonstrate practical understanding of risk assessment methodolo
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>TEMPLATE – Professional Security Report Framework – v.1.0.0</h5>
-<p>A comprehensive guide for creating executive-ready technical reports that bridge the gap between IT and management.</p>
+<p>A structured framework for producing executive-ready security reports that translate technical findings into clear business impact.</p>
 <p><strong>Skills:</strong> Executive Reporting · Technical Communication</p>
 <p align="center" style="margin-top:20px;"><a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?usp=sharing" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Download Template</a></p>
 </div>
@@ -108,7 +108,7 @@ These documents demonstrate practical understanding of risk assessment methodolo
 
 ---
 
-# Security Research & Strategic Analysis
+# Security Strategy & Threat Analysis
 
 Research examining cybersecurity frameworks, threat models, and security strategy concepts.
 
@@ -170,8 +170,8 @@ Restricted: Request Access</span></p>
 
 ## Portfolio Documentation
 
-This section summarizes governance and risk analysis documentation produced as part of ongoing cybersecurity training and research.
+This section summarizes governance and risk analysis documentation developed through structured cybersecurity training and applied research.
 
-While selected documents are highlighted here, additional supporting research, framework analysis, and governance documentation are maintained within a private research archive.
+Selected materials are presented to demonstrate core competencies, while additional supporting documentation, framework analysis, and policy development artifacts are maintained within a private archive.
 
-Complete documentation and supporting materials are restricted and available upon request for professional or technical review.
+Complete documentation is available upon request for professional or technical review.
