@@ -19,7 +19,7 @@ This section outlines the operational approach I use to implement, validate, and
 - Prioritize long-term control effectiveness over temporary fixes  
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Pillars:</strong> Structured Troubleshooting · Security Control Enforcement · Root Cause Analysis · Validation Testing
+  <strong>Core Pillars:</strong> Structured Troubleshooting · Security Control Enforcement · RCA · Validation Testing
 </p>
 
 ---
