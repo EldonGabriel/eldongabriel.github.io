@@ -14,9 +14,9 @@ image:
 
 ### Security Operations Lab Overview
 
-Security operations focuses on protecting systems, monitoring infrastructure activity, and responding to operational security risks. The labs in this section demonstrate hands-on experience implementing endpoint hardening controls, deploying secure remote access solutions, performing disaster recovery procedures, and analyzing system behavior through operational monitoring tools in controlled lab environments.
+I implement and validate security controls that protect systems, monitor activity, and reduce operational risk. My work focuses on hardening endpoints, securing network access, and analyzing system behavior to detect and respond to security issues.
 
-These labs demonstrate operational security practices including system hardening, VPN deployment, backup and recovery planning, and monitoring system activity through logs and operational security tools.
+These labs demonstrate hands-on experience with system hardening, secure connectivity, monitoring, and recovery. Each project applies a structured approach to enforcing controls, identifying abnormal behavior, and validating that security measures are working as intended.
 
 | Category | Labs |
 |--------|------|
@@ -31,7 +31,7 @@ These labs demonstrate operational security practices including system hardening
 
 # Security Operations Portfolio
 
-Hands-on configuration of system security controls designed to protect infrastructure, enforce access restrictions, and support disaster recovery capabilities.
+Applied security engineering focused on protecting infrastructure, enforcing access control, and maintaining system integrity across enterprise environments.
 
 ### 🛡️ Perimeter Defense & Secure Connectivity
 
@@ -220,4 +220,8 @@ Hands-on configuration of system security controls designed to protect infrastru
 
 # Portfolio Documentation
 
-This section summarizes hands-on security operations labs including system hardening, VPN deployment, disaster recovery procedures, and operational monitoring activities performed in controlled lab environments. Additional configuration notes, lab documentation, and technical records are maintained within a private research archive.  
+This section reflects hands-on security operations work across system hardening, monitoring, secure connectivity, and recovery. Each project focuses on enforcing controls, validating security configurations, and identifying risks within operational environments.
+
+While selected labs are displayed here, they are supported by a larger archive of technical reports, configuration documentation, and investigative notes maintained within a private research repository.
+
+Complete documentation and supporting materials are available upon request for professional or technical review.
