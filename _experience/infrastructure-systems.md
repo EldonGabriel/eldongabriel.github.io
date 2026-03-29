@@ -14,9 +14,11 @@ image:
 
 ## Infrastructure Laboratory Overview
 
-Modern IT infrastructure depends on stable operating systems, virtualization platforms, and reliable administrative processes. The labs and reports in this section demonstrate hands-on experience managing Windows and Linux systems, building virtual lab environments, and maintaining operational stability across infrastructure components.
+This section demonstrates how I build, harden, and validate enterprise infrastructure across Windows, Linux, cloud, and virtualized environments.
 
-These labs represent hands-on work performed in controlled environments designed to simulate real-world infrastructure administration tasks. Activities include operating system management, virtualization deployment, cloud infrastructure provisioning, system hardening, and operational troubleshooting.
+My work focuses on applying security controls at the system level, ensuring that operating systems, network configurations, and infrastructure components are not only functional, but secured and aligned with industry frameworks.
+
+These labs reflect hands-on implementation across system administration, virtualization, cloud provisioning, and infrastructure security. Each environment is designed to simulate real-world conditions, where configurations are enforced, tested, and validated to ensure stability, access control, and operational resilience.
 
 | Category | Labs |
 |--------|------|
