@@ -35,7 +35,7 @@ This portfolio is continuously updated as new labs, projects, and troubleshootin
     <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
       <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">System Hardening & Control Enforcement</h3>
       <p>
-        I implement enforced security controls across Windows and Linux systems to reduce attack surface and ensure least privilege at the system level. This includes STIG-aligned Group Policy, registry hardening, and controlled IP-based access restrictions.
+        I implement enforced security controls across Windows and Linux systems to reduce attack surface and ensure least privilege at the system level. This includes CIS Benchmarks-aligned Group Policy, registry hardening, and controlled IP-based access restrictions.
       </p>
     </div>
 
