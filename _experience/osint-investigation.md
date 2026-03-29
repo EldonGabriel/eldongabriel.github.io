@@ -14,7 +14,9 @@ image:
 
 ### OSINT Investigation Lab Overview
 
-Hands-on investigative exercises focused on collecting and analyzing open-source intelligence from websites, social media platforms, and publicly accessible infrastructure.
+Hands-on investigative exercises focused on collecting, validating, and analyzing open-source intelligence (OSINT) from publicly available sources, including websites, social media platforms, and internet-facing infrastructure.
+
+These labs demonstrate practical intelligence workflows such as data collection, correlation, and verification to support investigative analysis and threat intelligence development.
 
 | Category | Labs |
 |--------|------|
@@ -120,7 +122,7 @@ Hands-on investigative exercises focused on collecting and analyzing open-source
 
 # Lab Demonstrations
 
-Practical demonstrations showing investigative OSINT techniques used to discover information, identify infrastructure, and analyze publicly available data sources.
+Practical demonstrations showcasing investigative OSINT techniques used to identify digital footprints, map infrastructure, and analyze publicly available data sources.
 
 ## Intelligence Demonstration Portfolio
 
@@ -200,8 +202,8 @@ Practical demonstrations showing investigative OSINT techniques used to discover
 
 ## Portfolio Documentation
 
-This section summarizes investigative intelligence and OSINT exercises performed as part of cybersecurity research and threat analysis training.
+This section highlights applied OSINT investigations, including platform analysis, digital footprint mapping, and intelligence collection techniques performed in controlled lab environments.
 
-While representative reports, mind maps, and demonstrations are presented here, additional investigative documentation, research notes, and supporting analysis are maintained within a private research archive.
+Additional investigation notes, intelligence workflows, and supporting research documentation are maintained within a private archive.
 
-Complete documentation and supporting investigative materials are Restricted: Request Access for professional or technical review.
+Complete investigative reports and supporting materials are restricted and available upon request for professional or technical review.
