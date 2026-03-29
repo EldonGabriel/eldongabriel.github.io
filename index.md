@@ -33,32 +33,34 @@ This portfolio is continuously updated as new labs, projects, and troubleshootin
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
     
     <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">System Hardening</h3>
-      <p>Advanced Windows and Linux lockdown with automated IP access control. I implement deep-level GPO and Registry restrictions to reduce attack surface and enforce least privilege.</p>
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">System Hardening & Control Enforcement</h3>
+      <p>I implement enforced security controls across Windows and Linux systems to reduce attack surface and ensure least privilege is applied at the system level.</p>
       <ul style="font-size: 0.9em; color: #ccc;">
-        <li>Server Security Evaluations</li>
-        <li>Least Privilege Implementation</li>
-        <li>Automated IP Access Control</li>
+        <li>STIG-aligned Group Policy and registry hardening</li>
+        <li>Least privilege enforcement and access control validation</li>
+        <li>Automated IP-based access restrictions</li>
       </ul>
     </div>
 
     <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Network Defense</h3>
-      <p>pfSense orchestration and root-cause network analysis. I identify misconfigurations and unauthorized access to improve perimeter and internal defenses.</p>
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Network Security & Defense</h3>
+      <p>I secure network environments by identifying misconfigurations, enforcing access controls, and validating perimeter defenses through hands-on diagnostics.</p>
       <ul style="font-size: 0.9em; color: #ccc;">
-        <li>Enterprise IPSec VPN Troubleshooting</li>
-        <li>Network Traffic & DNS Diagnostics</li>
-        <li>Unauthorized Access Investigation</li>
+        <li>pfSense firewall configuration and rule validation</li>
+        <li>Enterprise IPsec VPN troubleshooting</li>
+        <li>Network traffic analysis and DNS diagnostics</li>
+        <li>Unauthorized access investigation</li>
       </ul>
     </div>
 
     <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Operational Resilience</h3>
-      <p>Permanent remediation and risk reduction based on NIST-aligned frameworks. I connect GRC strategy with actionable technical safeguards.</p>
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">GRC Implementation & Operational Resilience</h3>
+      <p>I translate governance and risk frameworks into actionable technical safeguards, ensuring controls are enforced, measurable, and audit-ready.</p>
       <ul style="font-size: 0.9em; color: #ccc;">
-        <li>Bank-Grade Risk Registers</li>
-        <li>BYOD & Security Policy Design</li>
-        <li>Post-Breach Remediation Strategy</li>
+        <li>NIST-aligned control implementation and validation</li>
+        <li>Risk register development with technical mapping</li>
+        <li>BYOD and security policy enforcement strategies</li>
+        <li>Post-breach remediation and control improvement</li>
       </ul>
     </div>
 
