@@ -14,9 +14,9 @@ image:
 
 ### Operational Resilience Laboratory Overview
 
-Modern organizations depend on resilient infrastructure that can maintain operations during system failures, cyber incidents, or unexpected outages. This section serves as a living portfolio of hands-on labs, projects, and recovery scenarios focused on protecting system availability and data integrity.
+Modern organizations rely on resilient infrastructure to maintain operations during system failures, cyber incidents, and unexpected outages. This section presents hands-on labs, recovery scenarios, and continuity planning focused on maintaining system availability and protecting data integrity.
 
-The work demonstrated here includes backup implementation, disaster recovery validation, and continuity planning performed in controlled lab environments and real troubleshooting scenarios.
+The work demonstrated here includes backup implementation, disaster recovery validation, and business continuity planning performed in controlled lab environments and real-world troubleshooting scenarios.
 
 | Category | Labs |
 |--------|------|
@@ -30,7 +30,7 @@ The work demonstrated here includes backup implementation, disaster recovery val
 
 # Operational Resilience Portfolio
 
-Hands-on implementation of backup, recovery, and system restoration strategies designed to maintain business continuity and reduce downtime during failures.
+Hands-on implementation of backup, recovery, and system restoration strategies designed to maintain business continuity, minimize downtime, and ensure rapid recovery from operational failures.
 
 ---
 
@@ -87,7 +87,7 @@ Hands-on implementation of backup, recovery, and system restoration strategies d
 
 # Lab Demonstrations
 
-These demonstrations walk through backup configuration, recovery procedures, and infrastructure migration scenarios. Each lab shows the tools used, the recovery workflow, and the validation process to ensure systems can be restored during operational failures.
+These demonstrations showcase backup configuration, recovery procedures, and infrastructure migration workflows. Each lab focuses on tool usage, recovery execution, and validation steps to ensure systems can be reliably restored during operational disruptions.
 
 ### 💾 Backup, Recovery & Migration Labs
 
@@ -127,4 +127,8 @@ These demonstrations walk through backup configuration, recovery procedures, and
 
 # Portfolio Documentation
 
-This section highlights hands-on work related to Operation Resilience. Additional lab documentation, configuration notes, and recovery testing records are maintained within the full research archive and are Restricted: Request Access for professional review.
+This section highlights applied operational resilience work, including backup strategy implementation, disaster recovery validation, and infrastructure restoration testing.
+
+Additional lab documentation, configuration records, and recovery validation evidence are maintained within a private research archive.
+
+Complete documentation and supporting materials are restricted and available upon request for professional or technical review.
