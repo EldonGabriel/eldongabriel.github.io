@@ -14,11 +14,11 @@ image:
 
 ## Problem Solving Laboratory Overview
 
-This section demonstrates how I apply structured troubleshooting methods to real-world technical issues, with a focus on identifying root cause, validating fixes, and restoring system stability.
+This section demonstrates how I diagnose, enforce, and validate security and infrastructure controls in real-world environments.
 
-Modern IT environments require the ability to quickly diagnose failures and respond to abnormal system behavior. The labs and reports in this section reflect hands-on experience troubleshooting enterprise systems, resolving cloud connectivity issues, and supporting operational incidents.
+My work focuses on identifying root cause, correcting misconfigurations, and verifying that systems operate securely and reliably after remediation. These labs reflect hands-on experience across enterprise systems, cloud infrastructure, and access control failures.
 
-Each exercise emphasizes a consistent approach: isolate the problem, analyze system behavior, implement corrective actions, and validate the solution to ensure long-term stability and security.
+Each exercise follows a consistent operational approach: isolate the issue, analyze system behavior, implement corrective controls, and validate the outcome to ensure long-term stability and security.
 
 | Category | Labs |
 |--------|------|
@@ -29,25 +29,25 @@ Each exercise emphasizes a consistent approach: isolate the problem, analyze sys
 
 # Technical Troubleshooting
 
-Structured diagnostic investigations used to identify the source of operational failures, analyze system behavior, and implement corrective solutions across enterprise infrastructure.
+Structured investigations used to identify operational failures, analyze system behavior, and implement validated solutions across enterprise and cloud environments.
 
 ## Troubleshooting Portfolio
 
-### 🔧 System Diagnostics & Technical Resolution
+### System Diagnostics & Technical Resolution
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>RDP Troubleshooting for AWS Users</h5>
-<p>Diagnostic walkthrough for identifying and resolving Remote Desktop Protocol (RDP) access failures in AWS-hosted virtual machines.</p>
-<p><strong>Skills:</strong> Remote Access Troubleshooting · AWS Connectivity Diagnostics · Network Access Validation</p>
+<p>Investigation into Remote Desktop Protocol (RDP) access failures affecting AWS-hosted systems, focusing on network controls and access configuration.</p>
+<p><strong>Focus:</strong> Remote access validation · AWS network diagnostics · Access control enforcement</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/rdp-troubleshooting-aws/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>Stabilizing Remote Desktop Connections Across Platforms</h5>
-<p>Investigation into a multi-layered access control failure and the steps required to restore stable remote connectivity across systems.</p>
-<p><strong>Skills:</strong> Root Cause Analysis · Cross-System Troubleshooting · Access Control Diagnostics</p>
+<p>Root cause analysis of multi-layered access control failures impacting remote connectivity across systems and environments.</p>
+<p><strong>Focus:</strong> Root cause analysis · Cross-system diagnostics · Access control validation</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/stabilizingremote-desktop-connections/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
@@ -57,8 +57,8 @@ Structured diagnostic investigations used to identify the source of operational 
 
 ## Portfolio Documentation
 
-This section highlights technical investigations and remediation activities performed while troubleshooting enterprise systems and cloud infrastructure. The documented exercises demonstrate structured problem-solving approaches used to diagnose failures, restore services, and analyze security implications within operational environments.
+This section represents applied troubleshooting and remediation across enterprise systems and cloud infrastructure. Each case demonstrates how issues are identified, controls are enforced, and solutions are validated to ensure both operational stability and security.
 
-While representative labs and reports are displayed here, they are supported by a larger archive of troubleshooting notes, investigative documentation, and operational lab exercises maintained within a private research repository.
+While selected labs are presented here, they are supported by a broader archive of structured reports, investigative notes, and technical analyses maintained within a private repository.
 
 Additional documentation is available upon request for professional or technical review.
