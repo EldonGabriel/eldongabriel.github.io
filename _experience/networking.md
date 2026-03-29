@@ -27,17 +27,32 @@ These labs focus on understanding network communication models, analyzing protoc
 
 ---
 
+### Networking Lab Overview
+
+I design, analyze, and secure network infrastructure to support stable and controlled enterprise environments. My work focuses on understanding how systems communicate, identifying weaknesses in network design, and implementing controls that reduce exposure and improve reliability.
+
+These labs demonstrate hands-on experience with protocol analysis, network troubleshooting, and secure architecture design. Each project applies a structured approach to diagnosing issues, validating configurations, and strengthening network security at both the perimeter and internal levels.
+
+| Category | Labs |
+|--------|------|
+| Networking Fundamentals & Protocol Analysis | 7 |
+| Network Architecture & Security | 5 |
+| Lab Demonstration | 1 |
+| **Total Networking Labs Documented** | **13** |
+
+---
+
 # Networking Fundamentals & Protocol Analysis
 
-Core networking concepts, protocol behavior, and diagnostic techniques used to understand how systems communicate across enterprise networks.
+Analysis of core networking concepts and protocols to understand system communication, identify misconfigurations, and support secure data flow across enterprise environments.
 
 ## Networking Protocol Analysis Portfolio
 
-### 📡 Network Diagnostics & Communication Models
+### 📡Network Diagnostics & Communication Models
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
-<!-- ALL CARDS GO HERE -->
+<!-- ALL CARDS GO HERE --> 📡
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>Refreshing My Subnetting Skills: From Handwritten Notes to a Full Class C Subnet Report</h5>
 <p>Hands-on subnetting analysis demonstrating how IP address ranges are divided into logical network segments to support routing, segmentation, and enterprise network design.</p>
@@ -91,7 +106,7 @@ Core networking concepts, protocol behavior, and diagnostic techniques used to u
 
 ## Network Architecture & Security
 
-Designing and analyzing network topologies with a focus on segmentation, secure communication, and resilient enterprise infrastructure.
+Design and evaluation of network structures with a focus on segmentation, secure communication, and reducing attack surface across enterprise environments.
 
 ### 🏗️ Network Design & Secure Infrastructure
 
@@ -154,10 +169,8 @@ Designing and analyzing network topologies with a focus on segmentation, secure 
 
 # Portfolio Documentation
 
-This section summarizes networking analysis, protocol research, and network architecture design work performed as part of ongoing cybersecurity and infrastructure training.
+This section reflects hands-on networking work across protocol analysis, architecture design, and connectivity troubleshooting. Each project focuses on identifying root cause, validating configurations, and improving network security and stability.
 
-While this page highlights representative reports and diagrams, it is supported by a larger collection of technical documentation, lab notes, and network design artifacts maintained within a private research archive.
+While selected projects are displayed here, they are supported by a larger archive of technical reports, lab documentation, and network design artifacts maintained within a private research repository.
 
-To maintain a streamlined portfolio structure, not all documentation artifacts are displayed directly on this site.
-
-Complete reports, diagrams, and supporting technical materials are Restricted: Request Access for professional or technical review.
+Complete documentation and supporting materials are available upon request for professional or technical review.
