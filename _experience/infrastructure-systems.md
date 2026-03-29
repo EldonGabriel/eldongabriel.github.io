@@ -31,7 +31,7 @@ These labs reflect hands-on implementation across system administration, virtual
 
 ---
 
-# Windows Systems Administration
+# Windows Systems Administration & Security Engineering
 
 Hands-on system administration tasks performed in Windows environments, focusing on system management, disk operations, service control, and operational troubleshooting.
 
@@ -72,7 +72,7 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>Using the Windows Registry to Restrict Untrusted User Accounts</h5>
 <p>Configured Windows Registry security settings to restrict untrusted user activity and enforce system-level access controls.</p>
-<p><strong>Skills:</strong> ERegistry Hardening · Endpoint Security · Access Control</p>
+<p><strong>Skills:</strong> Registry Hardening · Endpoint Security · Access Control</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/using-the-windows-registry-to-restrict-untrusted-user-accounts/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
@@ -129,7 +129,7 @@ Hands-on system administration tasks performed in Windows environments, focusing
 
 ### 🐧 Linux Systems Administration
 
-Administration of Linux-based systems including user management, file permissions, system processes, and log analysis in server environments.
+Administration and hardening of Linux-based systems, including user management, access control enforcement, system processes, and log analysis within server environments.
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -180,6 +180,8 @@ Administration of Linux-based systems including user management, file permission
 
 ### ☁️ Cloud Migration & Hybrid Environments
 
+Implementation and validation of cloud and hybrid infrastructure, including secure workload migration, access control configuration, and post-deployment system validation.
+
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -195,7 +197,7 @@ Administration of Linux-based systems including user management, file permission
 
 ### 🌐 Virtualization & Infrastructure
 
-Focuses on the virtualization frameworks that support secure enterprise environments.
+Design and deployment of virtualized environments used to support secure system administration, testing, and infrastructure validation across isolated lab environments.
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -496,10 +498,8 @@ Utilizing advanced Windows management tools to automate recurring maintenance ta
 
 # Portfolio Documentation
 
-This section summarizes hands-on infrastructure, virtualization, cloud, and operating system administration labs performed as part of my ongoing cybersecurity and systems administration training.
+This section represents applied infrastructure engineering across operating systems, virtualization platforms, and cloud environments. Each lab demonstrates how systems are configured, secured, and validated to meet operational and security requirements.
 
-While this page highlights representative reports and demonstrations, it is supported by a larger collection of technical documentation, lab notes, and system configuration records maintained within my research archive.
+While selected projects are presented here, they are supported by a larger archive of structured reports, lab documentation, and system configuration records maintained within a private research repository.
 
-To keep the site streamlined and focused on key projects, not all documentation artifacts are displayed directly.
-
-Complete reports, lab documentation, and supporting technical materials are Restricted: Request Access for professional or technical review.
+Additional documentation is available upon request for professional or technical review.
