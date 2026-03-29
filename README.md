@@ -88,10 +88,20 @@ Each project demonstrates how security controls are implemented, tested, and val
 
 ## Certifications & Training
 
-ISC² Certified in Cybersecurity (CC) – 2025
-Google Cybersecurity Professional Certificate – 2025
-Google IT Support Professional Certificate – 2025
-NIST Risk Management Framework Specialization (NIST CSF, SP 800-171, RMF) – 2025
+ISC²
+
+- Certified in Cybersecurity (CC) | 2025
+
+NIST Risk Management & Compliance
+
+- Risk Management Framework Specialization | 2025
+(NIST CSF, SP 800-171, RMF)
+
+Google Professional Certificates
+
+- Google Cybersecurity Professional | 2025
+
+- Google IT Support Professional | 2025
 
 **Mossé Cyber Security Institute (MCSI)**  
 - MICS – Introduction to Cyber Security (Level 3)  
