@@ -14,7 +14,7 @@ image:
   </p>
 
   <p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
-    This includes hands-on work across system administration, network security, incident investigation, digital forensics, and OSINT analysis. Each project is approached with a focus on root cause analysis, control enforcement, and measurable risk reduction.
+    This includes hands-on work across system administration, network security, incident investigation, digital forensics, and OSINT analysis. Each project is approached with a focus on root cause analysis (RCA), control enforcement, and measurable risk reduction.
   </p>
 
   <p style="font-size:1.2em; line-height:1.6;">
