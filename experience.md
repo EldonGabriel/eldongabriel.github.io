@@ -8,7 +8,6 @@ show_excerpts: false
 image:
   path: /assets/images/banner.png
 ---
-
 <section style="margin: 60px 0;">
   <p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
     My experience is built on applying security controls directly to real systems. I focus on hardening infrastructure, investigating operational issues, and validating that security measures work as intended under real-world conditions.
