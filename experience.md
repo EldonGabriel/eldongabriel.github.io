@@ -1,5 +1,5 @@
 ---
-title: Real-World Technical Experience
+title: Applied Security Experience
 layout: collection
 permalink: /experience/
 collection: experience
@@ -9,17 +9,19 @@ image:
   path: /assets/images/banner.png
 ---
 
-<p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-My technical experience reflects a hands-on approach to IT infrastructure, system security, and operational problem-solving. My background combines foundational IT roles with independent cybersecurity research and structured lab development.
-</p>
+<section style="margin: 60px 0;">
+  <p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
+    My experience is built on applying security controls directly to real systems. I focus on hardening infrastructure, investigating operational issues, and validating that security measures work as intended under real-world conditions.
+  </p>
 
-<p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-The roles and projects below demonstrate practical experience in system administration, network security, incident investigation, digital forensics, and open-source intelligence (OSINT) analysis.
-</p>
+  <p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
+    This includes hands-on work across system administration, network security, incident investigation, digital forensics, and OSINT analysis. Each project is approached with a focus on root cause analysis, control enforcement, and measurable risk reduction.
+  </p>
 
-<p style="font-size:1.2em; line-height:1.6;">
-This work is supported by a portfolio of documented labs, technical reports, and security analysis exercises designed to replicate real-world operational scenarios.
-</p>
+  <p style="font-size:1.2em; line-height:1.6;">
+    All work is supported by a structured portfolio of documented labs and technical reports. These projects are designed to replicate real operational scenarios, demonstrating not just knowledge of security concepts, but the ability to implement, test, and validate them in practice.
+  </p>
+</section>
 
 **ℹ️ Academic Integrity & Compliance:** To follow MCSI non-disclosure policies, I do not share lab solutions publicly. Instead, I demonstrate my skills through independent research and original lab scenarios, documented below. If needed, restricted work can be verified through official transcripts or a secure screen share.
 {: .notice}
