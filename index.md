@@ -101,7 +101,3 @@ This portfolio is continuously updated as new labs, projects, and troubleshootin
 
 <!-- Field Notes Header -->
 <img src="assets/images/fnlogo.png" alt="Banner" style="width:100%; height:auto;">
-
-<h2 style="text-align:center; font-size:200%; font-weight:bold; color:#fff;">
-Field Notes: SysAdmin & Security
-</h2>
