@@ -86,7 +86,7 @@ This portfolio is continuously updated as new labs, projects, and troubleshootin
     <img src="assets/images/eldon-wahida.png" alt="Wahida Clark" 
          style="width:200px; height:200px; object-fit: cover; border-radius:50%;"><br>
     <strong>Wahida Clark</strong><br>
-    <em>4x NYT Bestselling Author</em>
+    <em>4x NYT Bestselling Author & Mentor</em>
   </div>
   <div style="flex: 2; padding-right: 20px;">
     <p>Reinforced the importance of <strong>clear communication</strong> and technical storytelling to translate critical risks into actionable business insights.</p>
