@@ -1,5 +1,5 @@
 ---
-title: Field Notes: Applied Security & System Hardening
+title: Field Notes - Applied Security & System Hardening
 layout: posts
 permalink: /posts/
 show_excerpts: true
