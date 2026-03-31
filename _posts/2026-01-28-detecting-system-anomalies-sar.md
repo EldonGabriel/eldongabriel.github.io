@@ -15,7 +15,7 @@ image:
 
 This exercise focused on using the System Activity Reporter (SAR) to monitor and analyze system performance on an Ubuntu 24.04.3 LTS server. The goal was to establish a performance baseline and understand how system resources behave under normal conditions.
 
-### **Tools & Commands**
+### Tools & Commands
 
 | Tool / Command | Purpose |
 |----------------|--------|
