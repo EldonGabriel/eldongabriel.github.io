@@ -4,7 +4,7 @@ title: "Webmin Secure Administration & Dual-Homed Architecture"
 date: 2026-01-25
 author: Eldon Gabriel
 tags: [webmin, ubuntu, network-security, system-hardening, virtualization]
-excerpt: "This lab demonstrates how to deploy and secure Webmin using a dual-homed network setup to isolate management traffic and reduce attack surface."
+excerpt: "Deploy and secure Webmin using dual-homed networking to isolate management traffic and reduce attack surface."
 image:
   path: /assets/images/posts/webmin-secure-admin.png
   thumbnail: /assets/images/posts/webmin-secure-admin.png
