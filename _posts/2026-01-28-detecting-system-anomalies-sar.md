@@ -9,8 +9,6 @@ image:
   thumbnail: /assets/images/posts/sar-monitoring.png
 ---
 
-# Linux Performance Monitoring with SAR
-
 <div style="text-align:center;">
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">What I Studied</h1>
 </div>
