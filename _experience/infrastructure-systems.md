@@ -168,10 +168,10 @@ Administration and hardening of Linux-based systems, including user management, 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – SAR Performance Monitoring on Ubuntu – v1.0.0</h5>
+<h5>Detecting System Anomalies with SAR</h5>
 <p>Implemented SAR to monitor CPU, memory, disk I/O, and network utilization on Ubuntu servers.</p>
 <p><strong>Skills:</strong> Linux Monitoring · Performance Diagnostics · System Analysis</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/detecting-system-anomalies-sar/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 </div>
