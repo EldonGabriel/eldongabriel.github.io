@@ -141,10 +141,10 @@ Administration and hardening of Linux-based systems, including user management, 
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – Webmin Secure Administration – v1.0.0</h5>
+<h5>Webmin Secure Administration & Dual-Homed Architecture</h5>
 <p>Deployed and secured Webmin to manage Linux services, users, and configuration through a web interface.</p>
 <p><strong>Skills:</strong> Linux Service Management · System Configuration</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/webmin-secure-admin-dual-homed-architecture/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
