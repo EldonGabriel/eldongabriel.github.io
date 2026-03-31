@@ -15,11 +15,18 @@ image:
 
 This exercise focused on using the System Activity Reporter (SAR) to monitor and analyze system performance on an Ubuntu 24.04.3 LTS server. The goal was to establish a performance baseline and understand how system resources behave under normal conditions.
 
-**Tools & Commands:**  
-`apt install sysstat`, `systemctl enable --now sysstat`, `sar -u`, `sar -r`, `sar -d`, `sar -n DEV`
+### **Tools & Commands**
 
-**Key Concepts:**  
-Performance baselining, real-time vs. historical monitoring, resource utilization, and bottleneck identification.
+| Tool / Command | Purpose |
+|----------------|--------|
+| `apt install sysstat` | Install the sysstat package (includes SAR) |
+| `systemctl enable --now sysstat` | Enable and start system activity data collection |
+| `sar -u` | Monitor CPU usage |
+| `sar -r` | Monitor memory usage |
+| `sar -d` | Monitor disk activity |
+| `sar -n DEV` | Monitor network interface statistics |
+
+**Key Concepts:** Performance baselining, real-time vs. historical monitoring, resource utilization, and bottleneck identification.
 
 ---
 
@@ -27,17 +34,13 @@ Performance baselining, real-time vs. historical monitoring, resource utilizatio
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">What I Learned</h1>
 </div>
 
-**Configuration Matters:**  
-Installing `sysstat` is not enough. Historical data collection must be enabled in `/etc/default/sysstat` for SAR to provide meaningful insights.
+**Configuration Matters:** Installing `sysstat` is not enough. Historical data collection must be enabled in `/etc/default/sysstat` for SAR to provide meaningful insights.
 
-**Resource Correlation:**  
-High usage alone does not indicate a problem. CPU, memory, disk, and network metrics must be analyzed together to identify true bottlenecks.
+**Resource Correlation:** High usage alone does not indicate a problem. CPU, memory, disk, and network metrics must be analyzed together to identify true bottlenecks.
 
-**Behavior Over Time:**  
-Historical SAR data is more useful than real-time snapshots when identifying trends, anomalies, and gradual system degradation.
+**Behavior Over Time:** Historical SAR data is more useful than real-time snapshots when identifying trends, anomalies, and gradual system degradation.
 
-**Operational Insight:**  
-Resource spikes only become meaningful when analyzed in context with other system metrics.
+**Operational Insight:** Resource spikes only become meaningful when analyzed in context with other system metrics.
 
 ---
 
@@ -57,11 +60,9 @@ In an enterprise environment, system monitoring is critical for both performance
   <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">How It Maps to the Job / Framework</h1>
 </div>
 
-**NICE Framework – System Administrator (SP-SYS-001):**  
-Supports continuous system monitoring, performance tuning, and proactive issue detection.
+**NICE Framework – System Administrator (SP-SYS-001):** Supports continuous system monitoring, performance tuning, and proactive issue detection.
 
-**ASD Cyber Skills Framework – Systems Installation and Decommissioning (HSIN):**  
-Reinforces establishing performance baselines and monitoring Linux system health.
+**ASD Cyber Skills Framework – Systems Installation and Decommissioning (HSIN):** Reinforces establishing performance baselines and monitoring Linux system health.
 
 ---
 
