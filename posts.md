@@ -1,5 +1,5 @@
 ---
-title: Field Notes - Applied Security & System Hardening
+title: Field Notes - Applied Security
 layout: posts
 permalink: /posts/
 show_excerpts: true
@@ -7,3 +7,5 @@ entries_layout: grid
 image:
   path: /assets/images/fnlogo.png
 ---
+
+*Hands-on security projects applying controls, investigating issues, and validating real-world system behavior.*
