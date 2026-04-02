@@ -1,6 +1,6 @@
 ---
 title: REPORT – pfSense APIPA Failure – v1.0.0"
-date: 2026-04-03
+date: 2026-04-02
 author: Eldon Gabriel
 tags: [networking, pfsense, troubleshooting, windows, dhcp]
 excerpt: "Loss of pfSense WebGUI access caused by APIPA addressing on the client system, resolved through static IP reconfiguration and connectivity validation."
