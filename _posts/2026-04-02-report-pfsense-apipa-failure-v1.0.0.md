@@ -41,11 +41,11 @@ image:
 
 <h3>Actions</h3>
 <ul>
-  <li><strong>Identified:</strong> APIPA (169.254.x.x) address on Windows caused by unintended DHCP behavior on a static interface</li>
-  <li><strong>Analyzed:</strong> Verified HTTPS service (port 443) and firewall rules using <code>sockstat</code> and <code>pfctl</code></li>
-  <li><strong>Remediated:</strong> Corrected Windows network configuration using PowerShell and restored static IP (172.16.0.10/24)</li>
-  <li><strong>Tested:</strong> Confirmed Layer 4 connectivity using <code>Test-NetConnection</code> and validated HTTPS access on port 8443</li>
-  <li><strong>Validated:</strong> Verified administrative access via WebGUI and SSH over the internal network</li>
+  <li><strong>Identified:</strong> Windows host using APIPA (169.254.x.x)</li>
+  <li><strong>Analyzed:</strong> Checked HTTPS service and firewall rules (`sockstat`, `pfctl`)</li>
+  <li><strong>Remediated:</strong> Restored static IP (172.16.0.10/24) via PowerShell</li>
+  <li><strong>Tested:</strong> Verified Layer 4 connectivity (`Test-NetConnection`, port 8443)</li>
+  <li><strong>Validated:</strong> Confirmed WebGUI and SSH access</li>
 </ul>
 
 <h3>Result</h3>
