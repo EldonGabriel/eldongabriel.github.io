@@ -16,6 +16,8 @@ image:
   <li>Restoring a static IP and validating connectivity resolved the issue</li>
 </ul>
 
+<hr>
+
 <h2 style="text-align:center;">Incident Overview</h2>
 
 <h3>Problem</h3>
@@ -24,12 +26,16 @@ image:
   <li>Resulted in loss of administrative access from the Windows management host</li>
 </ul>
 
+<hr>
+
 <h3>Environment</h3>
 <ul>
   <li><strong>Systems:</strong> pfSense 2.7.2, Windows 10 Pro</li>
   <li><strong>Network Setup:</strong> VirtualBox Internal Network (LabNet)</li>
   <li><strong>Key Services:</strong> Nginx, PHP-FPM, Packet Filter (pf)</li>
 </ul>
+
+<hr>
 
 <h3>Actions</h3>
 <ul>
@@ -40,12 +46,16 @@ image:
   <li><strong>Validated:</strong> Verified administrative access via WebGUI and SSH over the internal network</li>
 </ul>
 
+<hr>
+
 <h3>Result</h3>
 <ul>
   <li>Administrative access to pfSense restored</li>
   <li>WebGUI accessible over hardened management port (8443)</li>
   <li>Connectivity verified through browser access and PowerShell testing</li>
 </ul>
+
+<hr>
 
 <h2 style="text-align:center;">Key Skills Demonstrated</h2>
 <ul>
@@ -55,6 +65,8 @@ image:
   <li>System Hardening and Interface Management</li>
 </ul>
 
+
+
 <h2 style="text-align:center;">Key Takeaways</h2>
 <ul>
   <li>APIPA addressing indicates DHCP failure or misconfiguration on the client</li>
@@ -62,11 +74,22 @@ image:
   <li>Client-side misconfiguration can block administrative access even when services are operational</li>
 </ul>
 
+
 <h2 style="text-align:center;">Why It Matters</h2>
 <ul>
   <li>Client misconfigurations can mimic server or firewall failures</li>
   <li>Proper IP management is critical for secure administrative access</li>
   <li>Multi-layer validation prevents incorrect troubleshooting conclusions</li>
+</ul>
+
+ 
+ 
+<h2 style="text-align:center;">How It Maps to the Job / Framework</h2>
+<ul>
+  <li>Network Troubleshooting → Layer 3 vs Layer 4 validation</li>
+  <li>Firewall Administration → pfSense rule verification</li>
+  <li>System Administration → Windows network configuration</li>
+  <li>Defensive Security Operations → Secure management access control</li>
 </ul>
 
 <h2 style="text-align:center;">How It Maps to the Job / Framework</h2>
