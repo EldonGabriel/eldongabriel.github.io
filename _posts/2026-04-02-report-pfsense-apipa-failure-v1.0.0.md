@@ -9,8 +9,6 @@ image:
   thumbnail: /assets/images/posts/pfsense-webgui-apipa.png
 ---
 
-<h1>REPORT – pfSense APIPA Failure – v1.0.0</h1>
-
 <h2>TL;DR</h2>
 <ul>
   <li>pfSense WebGUI became inaccessible due to incorrect client-side IP configuration</li>
