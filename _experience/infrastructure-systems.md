@@ -212,17 +212,17 @@ Design and deployment of virtualized environments used to support secure system 
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Bypassing Firmware Locks for Nested vSphere 8 on Ryzen 6000 – v1.0.0</h5>
+<h5>GUIDE – vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0</h5>
 <p>Built a nested VMware vSphere 8 lab environment on AMD Ryzen hardware by bypassing firmware virtualization restrictions.</p>
 <p><strong>Skills:</strong> Virtualization · Lab Architecture · Hypervisor Deployment</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/bypassing-firmware-locks-nested-vsphere-8/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-vsphere-8-nested-lab-amd-ryzen-6000-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>UTM Kali Linux Shared Folder Guide: Persistent File Sharing for Cybersecurity Labs</h5>
+<h5>GUIDE – UTM Kali Linux Shared Folder Configuration – v1.0.0</h5>
 <p>Configured shared folder integration between host and Kali Linux virtual machine within UTM virtualization environment.</p>
 <p><strong>Skills:</strong> Virtualization · Linux VM Management · File Integration</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/utm-kali-linux-shared-folder-guide/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-utm-kali-linux-shared-folder-configuration-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 </div>
