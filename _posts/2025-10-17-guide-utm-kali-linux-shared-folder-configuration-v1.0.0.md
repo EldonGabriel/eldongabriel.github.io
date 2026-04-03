@@ -24,8 +24,11 @@ The process focused on diagnosing mounting errors and establishing a persistent 
 
 **Key Actions & Observations**
 * **Protocol Analysis:** Identified that the default VirtIO-FS method failed to mount correctly, requiring a transition to the 9p protocol.
+
 * **Manual Mounting:** Utilized the `mount` command with specific `9p` versioning and transport arguments to establish the initial connection.
+
 * **Persistence Configuration:** Modified the `/etc/fstab` file to automate the mounting process during the system boot sequence.
+
 * **Permission Audit:** Verified file ownership and read/write capabilities within the `test_folder` directory to ensure operational access.
 
 **Root Cause:** Initial mounting failures were caused by incompatibilities between the guest kernel and the VirtIO-FS protocol, necessitating a fallback to the more compatible 9p virtio filesystem.
@@ -51,12 +54,15 @@ A stable and persistent shared environment was achieved through specific mount a
 
 ## 2.1 Key Takeaways
 * **Protocol Versatility:** In virtualized environments, understanding secondary filesystem protocols like 9p is essential when primary protocols fail.
+
 * **Persistence is Vital:** Manual mounts are insufficient for operational workflows; fstab integration is required for reliability.
+
 * **Kernel Compatibility:** Successful virtualization management depends on aligning guest kernel capabilities with hypervisor-provided drivers.
 
 ## 2.2 Security Implications & Recommendations
 
 **Risk: Unauthorized Data Exposure** Shared folders can become a vector for malware or unauthorized data access if permissions are overly permissive.  
+
 **Mitigation:** Limit access to the shared directory using strict `chmod` and `chown` permissions and disable the share when not actively required.
 
 **Risk: Sensitive Information Leakage** Transferring confidential data across unencrypted shared folders may expose it to unauthorized host-level processes.  
