@@ -24,8 +24,11 @@ The investigative process relied on a combination of automated search tools and 
 
 **Key Actions & Observations**
 * **Artifact Verification:** Conducted RIS on distinct artifacts to identify associated organizations and digital footprints.
+
 * **Landmark Geolocation:** Analyzed high-resolution mediary from locations to identify specific targets.
+
 * **Metadata Comparison:** Cross-referenced RIS results from public sources to resolve conflicting or low-confidence geographic data.
+
 * **Visual Triangulation:** Used street-level view tool to match visual landmarks from the source media with real-world perspectives.
 
 **Root Cause:** Initial geolocation failures were often caused by generic architectural styles; these were resolved by isolating high-contrast unique identifiers.
@@ -51,12 +54,15 @@ Verification was finalized by mapping identified landmarks to precise geographic
 
 ## 2.1 Key Takeaways
 * **Multi-Engine Necessity:** No single RIS tool is exhaustive; some RIS tools often excels at architectural/global landmarks, while others are superior for product and artifact identification.
+
 * **Contextual Clues:** Small details are critical for narrowing geographic target areas.
+
 * **Verification Discipline:** Visual similarity is not proof; definitive verification requires a confirmed match between the source media and a secondary, trusted perspective.
 
 ## 2.2 Security Implications & Recommendations
 
 **Risk: Disinformation and Visual Forgery** Unverified media can be used to spread misinformation or spoof geographic locations in social engineering attacks.  
+
 **Mitigation:** Implement mandatory RIS and visual verification protocols for any intelligence gathered from unverified open-source media.
 
 **Risk: Operational Security (OPSEC) Failures** Background details in seemingly harmless photos can inadvertently reveal the location of sensitive personnel or infrastructure.  
