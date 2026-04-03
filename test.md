@@ -7,8 +7,6 @@ image:
   path: /assets/images/banner.png
 ---
 
-<div class="report-box">
-
 <h1>1.0: pfSense WebGUI Access Failure and Recovery</h1>
 
 <h2>1.1 Project Description</h2>
@@ -166,5 +164,3 @@ Without validating listening services and firewall rules, administrators may inc
   <li>Firewall inspection (pfctl)</li>
   <li>VirtualBox network configuration (Internal Network: LabNet)</li>
 </ul>
-
-</div>
