@@ -24,10 +24,9 @@ These labs reflect hands-on implementation across system administration, virtual
 |--------|------|
 | Windows Systems Administration | 10 |
 | Linux Systems Administration | 5 |
-| Cloud Migration & Hybrid Environments | 1 |
 | Virtualization & Infrastructure | 5 |
 | Lab Demonstration | 33 |
-| **Total Labs Documented** | **54** |
+| **Total Labs Documented** | **53** |
 
 ---
 
@@ -172,23 +171,6 @@ Administration and hardening of Linux-based systems, including user management, 
 <p>Implemented SAR to monitor CPU, memory, disk I/O, and network utilization on Ubuntu servers.</p>
 <p><strong>Skills:</strong> Linux Monitoring · Performance Diagnostics · System Analysis</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-sar-performance-monitoring-ubuntu-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
-</div>
-
-</div>
-
----
-
-### ☁️ Cloud Migration & Hybrid Environments
-
-Implementation and validation of cloud and hybrid infrastructure, including secure workload migration, access control configuration, and post-deployment system validation.
-
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – Enterprise Hybrid-Cloud Migration – v1.1.0</h5>
-<p>End-to-end runbook for migrating on-premises VMware workloads to AWS. Includes ESXi/VCSA initialization, DNS source-of-truth establishment, and AWS MGN agent orchestration.</p>
-<p><strong>Skills:</strong> VMware vSphere · AWS Migration · Hybrid Cloud Architecture · DNS Engineering</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
 </div>
