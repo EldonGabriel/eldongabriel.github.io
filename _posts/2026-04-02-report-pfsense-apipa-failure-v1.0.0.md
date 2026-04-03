@@ -50,8 +50,8 @@ To restore connectivity, the following steps were performed:
 
 - Reconfigured the Windows host network adapter using PowerShell
 - Assigned a static IP address:
-  - IP: 172.16.0.10
-  - Subnet: /24
+  - **IP:** 172.16.0.10
+  - **Subnet:** /24
 - Ensured alignment with the pfSense LAN interface within the same subnet
 - Re-tested connectivity using:
   - `Test-NetConnection` for port 8443
@@ -81,7 +81,7 @@ Supporting validation steps included:
 - Verification of listening services on pfSense
 - Confirmation of firewall rules allowing HTTPS traffic
 - Cross-checking interface assignment and subnet consistency
-- Network isolation validation within the VirtualBox Internal Network (LabNet)
+- Network isolation validation within the VirtualBox Internal Network (`LabNet`)
 - Connectivity testing across Layer 3 (IP reachability) and Layer 4 (TCP port access)
 
 ---
@@ -108,11 +108,11 @@ This incident highlights several security and operational considerations:
 
 - **Risk: Misaligned Network Segmentation**
   - Incorrect interface configuration can unintentionally isolate systems
-  - Mitigation: Enforce consistent IP schema across lab and production environments
+  - **Mitigation:** Enforce consistent IP schema across lab and production environments
 
 - **Risk: Service Exposure and Validation Gaps**
   - Without validating listening services and firewall rules, administrators may incorrectly assume service failure
-  - Mitigation: Regularly verify services using diagnostic tools such as `sockstat` and firewall inspection commands
+  - **Mitigation:** Regularly verify services using diagnostic tools such as `sockstat` and firewall inspection commands
 
 - **Best Practices**
   - Implement strict IP addressing standards for management networks
@@ -131,13 +131,13 @@ This incident highlights several security and operational considerations:
 
 ### Figures
 
-- Figure 1: Windows host IP configuration showing APIPA address assignment  
-- Figure 2: pfSense interface and service validation outputs  
-- Figure 3: Successful WebGUI access via HTTPS on port 8443  
+- **Figure 1:** Windows host IP configuration showing APIPA address assignment  
+- **Figure 2:** pfSense interface and service validation outputs  
+- **Figure 3:** Successful WebGUI access via HTTPS on port 8443  
 
 ### Supporting Evidence
 
 - PowerShell connectivity tests (`Test-NetConnection`)
 - pfSense service checks (`sockstat`)
 - Firewall inspection (`pfctl`)
-- VirtualBox network configuration (Internal Network: LabNet)
+- VirtualBox network configuration (Internal Network: ``LabNet``)
