@@ -9,23 +9,23 @@ image:
 
 <div class="report-box">
 
-## 1.0: pfSense WebGUI Access Failure and Recovery
+<h1>1.0: pfSense WebGUI Access Failure and Recovery</h1>
 
-### 1.1 Project Description
+<h2>1.1 Project Description</h2>
 
-This report documents a network accessibility issue where the pfSense WebGUI became unreachable from the Windows management host.
+<p>This report documents a network accessibility issue where the pfSense WebGUI became unreachable from the Windows management host.</p>
 
-The objective of this task was to identify the root cause of the connectivity failure, restore administrative access, and validate proper network communication within a VirtualBox Internal Network lab environment.
+<p>The objective of this task was to identify the root cause of the connectivity failure, restore administrative access, and validate proper network communication within a VirtualBox Internal Network lab environment.</p>
 
-The issue highlights the importance of correct IP configuration, interface management, and validation of Layer 3 and Layer 4 connectivity in a segmented lab network.
+<p>The issue highlights the importance of correct IP configuration, interface management, and validation of Layer 3 and Layer 4 connectivity in a segmented lab network.</p>
 
----
+<hr>
 
-### 1.2 Network Troubleshooting and Access Restoration
+<h2>1.2 Network Troubleshooting and Access Restoration</h2>
 
-The troubleshooting process focused on identifying why the pfSense management interface was no longer accessible.
+<p>The troubleshooting process focused on identifying why the pfSense management interface was no longer accessible.</p>
 
-Key actions performed:
+<p>Key actions performed:</p>
 
 <ul>
   <li>Verified Windows host IP configuration</li>
@@ -47,13 +47,13 @@ Key actions performed:
   <li>Reviewed VirtualBox Internal Network configuration to ensure correct lab segmentation</li>
 </ul>
 
-The root issue was determined to be incorrect client-side IP configuration, causing the Windows host to lose proper network alignment with the pfSense interface.
+<p>The root issue was determined to be incorrect client-side IP configuration, causing the Windows host to lose proper network alignment with the pfSense interface.</p>
 
----
+<hr>
 
-### 1.3 Network Reconfiguration and Validation
+<h2>1.3 Network Reconfiguration and Validation</h2>
 
-To restore connectivity, the following steps were performed:
+<p>To restore connectivity, the following steps were performed:</p>
 
 <ul>
   <li>Reconfigured the Windows host network adapter using PowerShell</li>
@@ -70,13 +70,13 @@ To restore connectivity, the following steps were performed:
   <li>Validated optional SSH access over the internal network</li>
 </ul>
 
----
+<hr>
 
-### 1.4 Optional Deep Dive / Special Case
+<h2>1.4 Optional Deep Dive / Special Case</h2>
 
-During troubleshooting, the presence of an APIPA address indicated that the Windows interface attempted DHCP but failed to obtain a lease.
+<p>During troubleshooting, the presence of an APIPA address indicated that the Windows interface attempted DHCP but failed to obtain a lease.</p>
 
-This typically occurs when:
+<p>This typically occurs when:</p>
 
 <ul>
   <li>DHCP is unavailable on the network</li>
@@ -84,13 +84,11 @@ This typically occurs when:
   <li>Virtual network adapters are misconfigured or mismatched</li>
 </ul>
 
-The VirtualBox Internal Network requires consistent manual IP configuration since it does not inherently provide DHCP services unless explicitly configured within pfSense.
+<p>The VirtualBox Internal Network requires consistent manual IP configuration since it does not inherently provide DHCP services unless explicitly configured within pfSense.</p>
 
----
+<hr>
 
-### 1.5 Additional or Supporting Work
-
-Supporting validation steps included:
+<h2>1.5 Additional or Supporting Work</h2>
 
 <ul>
   <li>Verification of listening services on pfSense</li>
@@ -100,11 +98,11 @@ Supporting validation steps included:
   <li>Connectivity testing across Layer 3 (IP reachability) and Layer 4 (TCP port access)</li>
 </ul>
 
----
+<hr>
 
-## 2.0: CONCLUSION
+<h2>2.0: CONCLUSION</h2>
 
-### 2.1 Key Takeaways
+<h3>2.1 Key Takeaways</h3>
 
 <ul>
   <li>Incorrect or missing IP configuration can break administrative access even when services are functioning correctly</li>
@@ -114,27 +112,25 @@ Supporting validation steps included:
   <li>Verification tools like Test-NetConnection, sockstat, and pfctl are effective for confirming service availability and firewall status</li>
 </ul>
 
----
+<hr>
 
-### 2.2 Security Implications and Recommendations
+<h3>2.2 Security Implications and Recommendations</h3>
 
-This incident highlights several security and operational considerations:
+<p><strong>Risk: Loss of Administrative Access</strong><br>
+Misconfiguration of management interfaces can result in denial of access to critical infrastructure.<br>
+<strong>Mitigation:</strong> Maintain documented network configurations and static addressing schemes for management systems.</p>
 
-**Risk: Loss of Administrative Access**  
-Misconfiguration of management interfaces can result in denial of access to critical infrastructure.  
-**Mitigation:** Maintain documented network configurations and static addressing schemes for management systems.
+<p><strong>Risk: Misaligned Network Segmentation</strong><br>
+Incorrect interface configuration can unintentionally isolate systems.<br>
+<strong>Mitigation:</strong> Enforce consistent IP schema across lab and production environments.</p>
 
-**Risk: Misaligned Network Segmentation**  
-Incorrect interface configuration can unintentionally isolate systems.  
-**Mitigation:** Enforce consistent IP schema across lab and production environments.
+<p><strong>Risk: Service Exposure and Validation Gaps</strong><br>
+Without validating listening services and firewall rules, administrators may incorrectly assume service failure.<br>
+<strong>Mitigation:</strong> Regularly verify services using diagnostic tools such as sockstat and firewall inspection commands.</p>
 
-**Risk: Service Exposure and Validation Gaps**  
-Without validating listening services and firewall rules, administrators may incorrectly assume service failure.  
-**Mitigation:** Regularly verify services using diagnostic tools such as sockstat and firewall inspection commands.
+<hr>
 
----
-
-### Best Practices
+<h3>Best Practices</h3>
 
 <ul>
   <li>Implement strict IP addressing standards for management networks</li>
@@ -144,17 +140,17 @@ Without validating listening services and firewall rules, administrators may inc
   <li>Apply least privilege principles to firewall rules governing administrative access</li>
 </ul>
 
----
+<hr>
 
-### Framework Alignment
+<h3>Framework Alignment</h3>
 
-This work aligns with general network configuration management and access control principles consistent with structured security frameworks. It supports secure system administration practices by enforcing predictable and auditable network states.
+<p>This work aligns with general network configuration management and access control principles consistent with structured security frameworks. It supports secure system administration practices by enforcing predictable and auditable network states.</p>
 
----
+<hr>
 
-## Appendix
+<h2>Appendix</h2>
 
-**Figures**
+<p><strong>Figures</strong></p>
 
 <ul>
   <li><strong>Figure 1:</strong> Windows host IP configuration showing APIPA address assignment</li>
@@ -162,7 +158,7 @@ This work aligns with general network configuration management and access contro
   <li><strong>Figure 3:</strong> Successful WebGUI access via HTTPS on port 8443</li>
 </ul>
 
-**Supporting Evidence**
+<p><strong>Supporting Evidence</strong></p>
 
 <ul>
   <li>PowerShell connectivity tests (Test-NetConnection)</li>
