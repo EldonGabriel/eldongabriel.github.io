@@ -24,8 +24,11 @@ The process focused on the initialization of the WinRM service and the subsequen
 
 **Key Actions & Observations**
 * **Service Initialization:** Executed `winrm quickconfig` to establish the initial listener and set the `LocalAccountTokenFilterPolicy` for remote administrative rights.
+
 * **Configuration Inspection:** Utilized `winrm get winrm/config` to audit active settings and confirm the "Source=GPO" status for enforced parameters.
+
 * **Authentication Audit:** Verified that insecure methods (Basic/Digest) were disabled while Kerberos and Negotiate remained active.
+
 * **Persistence Check:** Configured the WinRM service to "Delayed Auto Start" to ensure management access persists across system reboots.
 
 **Root Cause:** Default WinRM settings may allow unencrypted traffic or insecure authentication; this was resolved by applying Group Policy overrides to mandate secure communication.
@@ -50,13 +53,17 @@ Operational security was finalized by verifying listener status and firewall ali
 
 ## 2.1 Key Takeaways
 * **GPO Authority:** Centralized Group Policy is the most effective way to maintain a consistent security baseline for remote management across multiple endpoints.
+
 * **Authentication Discipline:** Disabling legacy authentication (Basic/Digest) is a critical step in preventing credential harvesting in Windows environments.
+
 * **Encrypted Management:** WinRM must be configured to reject unencrypted traffic to maintain the confidentiality of administrative sessions.
 
 ## 2.2 Security Implications & Recommendations
 
 **Risk: Credential Interception** Use of unencrypted WinRM traffic or Basic authentication allows attackers to capture administrative credentials over the wire.  
+
 **Mitigation:** Enforce the "AllowUnencrypted = false" policy via GPO and mandate the use of Kerberos or certificate-based authentication.
 
 **Risk: Lateral Movement** Broadly trusted WinRM hosts can be exploited by attackers to move laterally across the network once an initial foothold is established.  
+
 **Mitigation:** Restrict the `TrustedHosts` list to known, authorized management servers and implement the HTTPS listener (Port 5986) with valid certificates for added security.
