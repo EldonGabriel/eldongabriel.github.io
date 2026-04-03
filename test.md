@@ -7,137 +7,64 @@ image:
   path: /assets/images/banner.png
 ---
 
-{% include toc %} 
+# 1.0: pfSense Access Failure and Recovery
 
-# 1.0: pfSense WebGUI Access Failure and Recovery
+> **Executive Summary:** This report documents a restoration of administrative access to a pfSense firewall after a Windows management host lost connectivity due to an APIPA address assignment.
 
 ## 1.1 Project Description
-
-This report documents a network accessibility issue where the pfSense WebGUI became unreachable from the Windows management host.
-
-The objective of this task was to identify the root cause of the connectivity failure, restore administrative access, and validate proper network communication within a VirtualBox Internal Network lab environment.
-
-The issue highlights the importance of correct IP configuration, interface management, and validation of Layer 3 and Layer 4 connectivity in a segmented lab network.
+The objective of this task was to identify the root cause of the connectivity failure and restore access within a **VirtualBox Internal Network** lab environment. This scenario highlights the critical nature of Layer 3 (IP) alignment in segmented networks.
 
 ---
 
 ## 1.2 Technical Task / Troubleshooting Process
+The process focused on diagnosing why the WebGUI was unreachable despite services running on the pfSense instance.
 
-The troubleshooting process focused on identifying why the pfSense management interface was no longer accessible.
+**Key Actions & Observations:**
+* **Identified APIPA:** Windows host was showing `169.254.x.x`, confirming a DHCP failure.
+* **Service Verification:** Confirmed HTTPS (Port 8443) and `pf` (Packet Filter) were active on pfSense using `sockstat`.
+* **Rule Inspection:** Used `pfctl` to ensure the firewall wasn't dropping management traffic.
+* **Segment Review:** Confirmed the VirtualBox adapter was correctly set to the "Internal Network" (LabNet).
 
-Key actions performed:
-
-- Verified Windows host IP configuration
-- Observed APIPA address assignment (169.254.x.x), indicating DHCP failure or misconfiguration
-- Identified that the management interface lacked a valid static IP assignment
-- Confirmed pfSense services were running:
-  - Web service (HTTPS on port 443 / 8443)
-  - Packet filtering (pf)
-- Checked firewall and service status using:
-  - sockstat for listening services
-  - pfctl for firewall rules
-- Attempted connectivity tests using Test-NetConnection to validate Layer 4 reachability
-- Reviewed VirtualBox Internal Network configuration to ensure correct lab segmentation
-
-The root issue was determined to be incorrect client-side IP configuration, causing the Windows host to lose proper network alignment with the pfSense interface.
+**Root Cause:** The Windows host reverted to APIPA because it lacked a static IP to match the pfSense LAN subnet.
 
 ---
 
 ## 1.3 Resolution and Validation
+Access was restored by manually aligning the host with the pfSense management subnet.
 
-To restore connectivity, the following steps were performed:
+| Parameter | Configuration Value |
+| :--- | :--- |
+| **Static IP** | 172.16.0.10 |
+| **Subnet Mask** | 255.255.255.0 (/24) |
+| **Target Port** | 8443 (HTTPS) |
 
-- Reconfigured the Windows host network adapter using PowerShell
-- Assigned a static IP address:
-  - IP: 172.16.0.10
-  - Subnet: /24
-- Ensured alignment with the pfSense LAN interface within the same subnet
-- Re-tested connectivity using Test-NetConnection for port 8443
-- Verified HTTPS access through browser connection to the pfSense WebGUI
-- Confirmed successful administrative login via the management interface
-- Validated optional SSH access over the internal network
-
----
-
-## 1.4 Optional Deep Dive / Special Case
-
-During troubleshooting, the presence of an APIPA address indicated that the Windows interface attempted DHCP but failed to obtain a lease.
-
-This typically occurs when:
-
-- DHCP is unavailable on the network
-- Static configuration conflicts with automatic settings
-- Virtual network adapters are misconfigured or mismatched
-
-The VirtualBox Internal Network requires consistent manual IP configuration since it does not inherently provide DHCP services unless explicitly configured within pfSense.
+**Validation Steps:**
+1.  **PowerShell:** Ran `Test-NetConnection -ComputerName 172.16.0.1 -Port 8443`.
+2.  **Browser:** Successfully loaded the WebGUI and authenticated.
+3.  **Service:** Confirmed SSH connectivity over the internal network.
 
 ---
 
-## 1.5 Additional or Supporting Work
+## 2.0: CONCLUSION
 
-- Verification of listening services on pfSense
-- Confirmation of firewall rules allowing HTTPS traffic
-- Cross-checking interface assignment and subnet consistency
-- Network isolation validation within the VirtualBox Internal Network (LabNet)
-- Connectivity testing across Layer 3 (IP reachability) and Layer 4 (TCP port access)
-
----
-
-# 2.0: CONCLUSION
-
-## 2.1 Key Takeaways
-
-- Incorrect or missing IP configuration can break administrative access even when services are functioning correctly
-- APIPA addressing is a strong indicator of network misconfiguration or DHCP failure
-- Layered troubleshooting (Layer 3 and Layer 4 validation) is essential in diagnosing connectivity issues
-- Static IP consistency is critical in isolated lab environments such as VirtualBox Internal Networks
-- Verification tools like Test-NetConnection, sockstat, and pfctl are effective for confirming service availability and firewall status
+### 2.1 Key Takeaways
+* **APIPA is a red flag:** Always check for `169.254` when connectivity drops in a lab.
+* **Layered Testing:** Validating Layer 3 (Ping) vs Layer 4 (Port check) prevents "ghost hunting" service failures.
+* **Internal Networks:** VirtualBox Internal Networks require manual IP discipline since they lack a default DHCP server.
 
 ---
 
-## 2.2 Security Implications and Recommendations
+## 2.2 Security Implications & Recommendations
 
-**Risk: Loss of Administrative Access**  
-Misconfiguration of management interfaces can result in denial of access to critical infrastructure.  
-**Mitigation:** Maintain documented network configurations and static addressing schemes for management systems.
+**Risk: Management Lockout** Misconfiguration of the LAN interface can lead to a total denial of service for administrators.  
+**Mitigation:** Document all static assignments and maintain an out-of-band access method (Console/Serial).
 
-**Risk: Misaligned Network Segmentation**  
-Incorrect interface configuration can unintentionally isolate systems.  
-**Mitigation:** Enforce consistent IP schema across lab and production environments.
-
-**Risk: Service Exposure and Validation Gaps**  
-Without validating listening services and firewall rules, administrators may incorrectly assume service failure.  
-**Mitigation:** Regularly verify services using diagnostic tools such as sockstat and firewall inspection commands.
-
-**Best Practices:**
-- Implement strict IP addressing standards for management networks
-- Use controlled DHCP only where appropriate and expected
-- Validate connectivity using both Layer 3 and Layer 4 tests during troubleshooting
-- Maintain separation of management and user traffic in segmented networks
-- Apply least privilege principles to firewall rules governing administrative access
+**Risk: Validation Gaps** Assuming a service is "down" when the network is actually "misaligned" leads to wasted uptime.  
+**Mitigation:** Use `sockstat` and `pfctl` locally on the appliance to verify service health before troubleshooting the wire.
 
 ---
 
-## Framework Alignment
-
-This work aligns with structured system administration and network security practices. It reinforces:
-
-- Controlled network configuration management
-- Validation of system and service availability
-- Secure administrative access handling
-- Practical troubleshooting using layered diagnostics
-
----
-
-## Appendix
-
-**Figures:**
-- Figure 1: Windows host IP configuration showing APIPA address assignment  
-- Figure 2: pfSense interface and service validation outputs  
-- Figure 3: Successful WebGUI access via HTTPS on port 8443  
-
-**Supporting Evidence:**
-- PowerShell connectivity tests (Test-NetConnection)  
-- pfSense service checks (sockstat)  
-- Firewall inspection (pfctl)  
-- VirtualBox network configuration (Internal Network: LabNet)  
+## Appendix & Evidence
+* **Figure 1:** Windows IP Config (APIPA Symptom)
+* **Figure 2:** `sockstat` output confirming listeners
+* **Figure 3:** Successful WebGUI login screen
