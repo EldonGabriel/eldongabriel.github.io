@@ -7,15 +7,6 @@ image:
   path: /assets/images/banner.png
 ---
 
-# REPORT – pfSense APIPA Failure – v1.0.0
-
-**Eldon Gabriel**  
-April 2, 2026  
-
-**Tags:** dhcp, networking, pfsense, troubleshooting, windows  
-
----
-
 ## 1.0: pfSense WebGUI Access Failure and Recovery
 
 ### 1.1 Project Description
@@ -129,15 +120,15 @@ This incident highlights several security and operational considerations:
 
 **Risk: Loss of Administrative Access**  
 Misconfiguration of management interfaces can result in denial of access to critical infrastructure.  
-Mitigation: Maintain documented network configurations and static addressing schemes for management systems.
+**Mitigation:** Maintain documented network configurations and static addressing schemes for management systems.
 
 **Risk: Misaligned Network Segmentation**  
 Incorrect interface configuration can unintentionally isolate systems.  
-Mitigation: Enforce consistent IP schema across lab and production environments.
+**Mitigation:** Enforce consistent IP schema across lab and production environments.
 
 **Risk: Service Exposure and Validation Gaps**  
 Without validating listening services and firewall rules, administrators may incorrectly assume service failure.  
-Mitigation: Regularly verify services using diagnostic tools such as sockstat and firewall inspection commands.
+**Mitigation:** Regularly verify services using diagnostic tools such as sockstat and firewall inspection commands.
 
 ---
 
@@ -163,9 +154,9 @@ This work aligns with general network configuration management and access contro
 
 **Figures**
 <ul>
-  <li>Figure 1: Windows host IP configuration showing APIPA address assignment</li>
-  <li>Figure 2: pfSense interface and service validation outputs</li>
-  <li>Figure 3: Successful WebGUI access via HTTPS on port 8443</li>
+  <li>**Figure 1:** Windows host IP configuration showing APIPA address assignment</li>
+  <li>**Figure 2:** pfSense interface and service validation outputs</li>
+  <li>**Figure 3:** Successful WebGUI access via HTTPS on port 8443</li>
 </ul>
 
 **Supporting Evidence**
