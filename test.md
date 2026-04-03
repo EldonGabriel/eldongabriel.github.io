@@ -8,14 +8,14 @@ image:
 ---
 
 # 0.0 Executive Summary
-This report documents a restoration of administrative access to a pfSense firewall after a Windows management host lost connectivity due to an APIPA address assignment.
+This report documents the identification and restoration of administrative access to a pfSense firewall. Connectivity was lost due to an APIPA address assignment on the Windows management host, which was resolved through manual IP realignment within the VirtualBox Internal Network environment.
 
 # 1.0 pfSense Access Failure and Recovery
 
 ## 1.1 Project Description
 The objective of this task was to identify the root cause of the connectivity failure and restore access within a **VirtualBox Internal Network** lab environment. This scenario highlights the critical nature of Layer 3 (IP) alignment in segmented networks.
 
----
+····································································································
 
 ## 1.2 Technical Task / Troubleshooting Process
 The process focused on diagnosing why the WebGUI was unreachable despite services running on the pfSense instance.
@@ -28,7 +28,7 @@ The process focused on diagnosing why the WebGUI was unreachable despite service
 
 **Root Cause:** The Windows host reverted to APIPA because it lacked a static IP to match the pfSense LAN subnet.
 
----
+····································································································
 
 ## 1.3 Resolution and Validation
 Access was restored by manually aligning the host with the pfSense management subnet.
@@ -44,7 +44,7 @@ Access was restored by manually aligning the host with the pfSense management su
 2.  **Browser:** Successfully loaded the WebGUI and authenticated.
 3.  **Service:** Confirmed SSH connectivity over the internal network.
 
----
+····································································································
 
 ## 2.0: CONCLUSION
 
@@ -53,8 +53,7 @@ Access was restored by manually aligning the host with the pfSense management su
 * **Layered Testing:** Validating Layer 3 (Ping) vs Layer 4 (Port check) prevents "ghost hunting" service failures.
 * **Internal Networks:** VirtualBox Internal Networks require manual IP discipline since they lack a default DHCP server.
 
----
-
+····································································································
 ## 2.2 Security Implications & Recommendations
 
 **Risk: Management Lockout** Misconfiguration of the LAN interface can lead to a total denial of service for administrators.  
@@ -63,7 +62,7 @@ Access was restored by manually aligning the host with the pfSense management su
 **Risk: Validation Gaps** Assuming a service is "down" when the network is actually "misaligned" leads to wasted uptime.  
 **Mitigation:** Use `sockstat` and `pfctl` locally on the appliance to verify service health before troubleshooting the wire.
 
----
+····································································································
 
 ## Appendix & Evidence
 * **Figure 1:** Windows IP Config (APIPA Symptom)
