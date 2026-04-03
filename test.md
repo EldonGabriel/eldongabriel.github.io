@@ -10,7 +10,7 @@ image:
 # 0.0 Executive Summary
 This report documents the identification and restoration of administrative access to a pfSense firewall. Connectivity was lost due to an APIPA address assignment on the Windows management host, which was resolved through manual IP realignment within the VirtualBox Internal Network environment.
 
-<hr style="border: none; border-top: 2px dotted #bbb; color: #fff; background-color: #fff; height: 1px; width: 100%;" /> 
+---
 
 # 1.0 pfSense Access Failure and Recovery
 
@@ -42,11 +42,11 @@ Access was restored by manually aligning the host with the pfSense management su
 2.  **Browser:** Successfully loaded the WebGUI and authenticated.
 3.  **Service:** Confirmed SSH connectivity over the internal network.
 
-························································································································· 
+--- 
 
-## 2.0: CONCLUSION
+# 2.0: CONCLUSION
 
-### 2.1 Key Takeaways
+## 2.1 Key Takeaways
 * **APIPA is a red flag:** Always check for `169.254` when connectivity drops in a lab.
 * **Layered Testing:** Validating Layer 3 (Ping) vs Layer 4 (Port check) prevents "ghost hunting" service failures.
 * **Internal Networks:** VirtualBox Internal Networks require manual IP discipline since they lack a default DHCP server.
@@ -59,7 +59,7 @@ Access was restored by manually aligning the host with the pfSense management su
 **Risk: Validation Gaps** Assuming a service is "down" when the network is actually "misaligned" leads to wasted uptime.  
 **Mitigation:** Use `sockstat` and `pfctl` locally on the appliance to verify service health before troubleshooting the wire.
 
-························································································································· 
+--- 
 
 ## Appendix & Evidence
 * **Figure 1:** Windows IP Config (APIPA Symptom)
