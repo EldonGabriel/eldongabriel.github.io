@@ -9,154 +9,139 @@ image:
   thumbnail: /assets/images/posts/pfsense-webgui-apipa.png
 ---
 
-<h1>1.0: pfSense WebGUI Access Failure and Recovery</h1>
+# 1.0: pfSense Access Failure and Recovery
 
-<h2>1.1 Project Description</h2>
+## 1.1 Project Description
 
-<p>This report documents a network accessibility issue where the pfSense WebGUI became unreachable from the Windows management host.</p>
+This report documents a network accessibility issue where the pfSense WebGUI became unreachable from the Windows management host.
 
-<p>The objective of this task was to identify the root cause of the connectivity failure, restore administrative access, and validate proper network communication within a VirtualBox Internal Network lab environment.</p>
+The objective of this task was to identify the root cause of the connectivity failure, restore administrative access, and validate proper network communication within a VirtualBox Internal Network lab environment.
 
-<p>The issue highlights the importance of correct IP configuration, interface management, and validation of Layer 3 and Layer 4 connectivity in a segmented lab network.</p>
+The issue highlights the importance of correct IP configuration, interface management, and validation of Layer 3 and Layer 4 connectivity in a segmented lab network.
 
-<hr>
+---
 
-<h2>1.2 Network Troubleshooting and Access Restoration</h2>
+## 1.2 Technical Task / Troubleshooting Process
 
-<p>The troubleshooting process focused on identifying why the pfSense management interface was no longer accessible.</p>
+The troubleshooting process focused on identifying why the pfSense management interface was no longer accessible.
 
-<p>Key actions performed:</p>
+Key actions performed:
 
-<ul>
-  <li>Verified Windows host IP configuration</li>
-  <li>Observed APIPA address assignment (169.254.x.x), indicating DHCP failure or misconfiguration</li>
-  <li>Identified that the management interface lacked a valid static IP assignment</li>
-  <li>Confirmed pfSense services were running:
-    <ul>
-      <li>Web service (HTTPS on port 443 / 8443)</li>
-      <li>Packet filtering (pf)</li>
-    </ul>
-  </li>
-  <li>Checked firewall and service status using:
-    <ul>
-      <li>sockstat for listening services</li>
-      <li>pfctl for firewall rules</li>
-    </ul>
-  </li>
-  <li>Attempted connectivity tests using Test-NetConnection to validate Layer 4 reachability</li>
-  <li>Reviewed VirtualBox Internal Network configuration to ensure correct lab segmentation</li>
-</ul>
+- Verified Windows host IP configuration
+- Observed APIPA address assignment (169.254.x.x), indicating DHCP failure or misconfiguration
+- Identified that the management interface lacked a valid static IP assignment
+- Confirmed pfSense services were running:
+  - Web service (HTTPS on port 443 / 8443)
+  - Packet filtering (pf)
+- Checked firewall and service status using:
+  - sockstat for listening services
+  - pfctl for firewall rules
+- Attempted connectivity tests using Test-NetConnection to validate Layer 4 reachability
+- Reviewed VirtualBox Internal Network configuration to ensure correct lab segmentation
 
-<p>The root issue was determined to be incorrect client-side IP configuration, causing the Windows host to lose proper network alignment with the pfSense interface.</p>
+The root issue was determined to be incorrect client-side IP configuration, causing the Windows host to lose proper network alignment with the pfSense interface.
 
-<hr>
+---
 
-<h2>1.3 Network Reconfiguration and Validation</h2>
+## 1.3 Resolution and Validation
 
-<p>To restore connectivity, the following steps were performed:</p>
+To restore connectivity, the following steps were performed:
 
-<ul>
-  <li>Reconfigured the Windows host network adapter using PowerShell</li>
-  <li>Assigned a static IP address:
-    <ul>
-      <li><strong>IP:</strong> 172.16.0.10</li>
-      <li><strong>Subnet:</strong> /24</li>
-    </ul>
-  </li>
-  <li>Ensured alignment with the pfSense LAN interface within the same subnet</li>
-  <li>Re-tested connectivity using Test-NetConnection for port 8443</li>
-  <li>Verified HTTPS access through browser connection to the pfSense WebGUI</li>
-  <li>Confirmed successful administrative login via the management interface</li>
-  <li>Validated optional SSH access over the internal network</li>
-</ul>
+- Reconfigured the Windows host network adapter using PowerShell
+- Assigned a static IP address:
+  - IP: 172.16.0.10
+  - Subnet: /24
+- Ensured alignment with the pfSense LAN interface within the same subnet
+- Re-tested connectivity using Test-NetConnection for port 8443
+- Verified HTTPS access through browser connection to the pfSense WebGUI
+- Confirmed successful administrative login via the management interface
+- Validated optional SSH access over the internal network
 
-<hr>
+---
 
-<h2>1.4 Optional Deep Dive / Special Case</h2>
+## 1.4 Optional Deep Dive / Special Case
 
-<p>During troubleshooting, the presence of an APIPA address indicated that the Windows interface attempted DHCP but failed to obtain a lease.</p>
+During troubleshooting, the presence of an APIPA address indicated that the Windows interface attempted DHCP but failed to obtain a lease.
 
-<p>This typically occurs when:</p>
+This typically occurs when:
 
-<ul>
-  <li>DHCP is unavailable on the network</li>
-  <li>Static configuration conflicts with automatic settings</li>
-  <li>Virtual network adapters are misconfigured or mismatched</li>
-</ul>
+- DHCP is unavailable on the network
+- Static configuration conflicts with automatic settings
+- Virtual network adapters are misconfigured or mismatched
 
-<p>The VirtualBox Internal Network requires consistent manual IP configuration since it does not inherently provide DHCP services unless explicitly configured within pfSense.</p>
+The VirtualBox Internal Network requires consistent manual IP configuration since it does not inherently provide DHCP services unless explicitly configured within pfSense.
 
-<hr>
+---
 
-<h2>1.5 Additional or Supporting Work</h2>
+## 1.5 Additional or Supporting Work
 
-<ul>
-  <li>Verification of listening services on pfSense</li>
-  <li>Confirmation of firewall rules allowing HTTPS traffic</li>
-  <li>Cross-checking interface assignment and subnet consistency</li>
-  <li>Network isolation validation within the VirtualBox Internal Network (LabNet)</li>
-  <li>Connectivity testing across Layer 3 (IP reachability) and Layer 4 (TCP port access)</li>
-</ul>
+- Verification of listening services on pfSense
+- Confirmation of firewall rules allowing HTTPS traffic
+- Cross-checking interface assignment and subnet consistency
+- Network isolation validation within the VirtualBox Internal Network (LabNet)
+- Connectivity testing across Layer 3 (IP reachability) and Layer 4 (TCP port access)
 
-<hr>
+---
 
-<h2>2.0: CONCLUSION</h2>
+# 2.0: CONCLUSION
 
-<h3>2.1 Key Takeaways</h3>
+## 2.1 Key Takeaways
 
-<ul>
-  <li>Incorrect or missing IP configuration can break administrative access even when services are functioning correctly</li>
-  <li>APIPA addressing is a strong indicator of network misconfiguration or DHCP failure</li>
-  <li>Layered troubleshooting (Layer 3 and Layer 4 validation) is essential in diagnosing connectivity issues</li>
-  <li>Static IP consistency is critical in isolated lab environments such as VirtualBox Internal Networks</li>
-  <li>Verification tools like Test-NetConnection, sockstat, and pfctl are effective for confirming service availability and firewall status</li>
-</ul>
+- Incorrect or missing IP configuration can break administrative access even when services are functioning correctly
+- APIPA addressing is a strong indicator of network misconfiguration or DHCP failure
+- Layered troubleshooting (Layer 3 and Layer 4 validation) is essential in diagnosing connectivity issues
+- Static IP consistency is critical in isolated lab environments such as VirtualBox Internal Networks
+- Verification tools like Test-NetConnection, sockstat, and pfctl are effective for confirming service availability and firewall status
 
-<hr>
+---
 
-<h3>2.2 Security Implications and Recommendations</h3>
+## 2.2 Security Implications and Recommendations
 
-<p><strong>Risk: Loss of Administrative Access</strong><br>
-Misconfiguration of management interfaces can result in denial of access to critical infrastructure.<br>
-<strong>Mitigation:</strong> Maintain documented network configurations and static addressing schemes for management systems.</p>
+**Risk: Loss of Administrative Access**  
+Misconfiguration of management interfaces can result in denial of access to critical infrastructure.  
+**Mitigation:** Maintain documented network configurations and static addressing schemes for management systems.
 
-<p><strong>Risk: Misaligned Network Segmentation</strong><br>
-Incorrect interface configuration can unintentionally isolate systems.<br>
-<strong>Mitigation:</strong> Enforce consistent IP schema across lab and production environments.</p>
+**Risk: Misaligned Network Segmentation**  
+Incorrect interface configuration can unintentionally isolate systems.  
+**Mitigation:** Enforce consistent IP schema across lab and production environments.
 
-<p><strong>Risk: Service Exposure and Validation Gaps</strong><br>
-Without validating listening services and firewall rules, administrators may incorrectly assume service failure.<br>
-<strong>Mitigation:</strong> Regularly verify services using diagnostic tools such as sockstat and firewall inspection commands.</p>
+**Risk: Service Exposure and Validation Gaps**  
+Without validating listening services and firewall rules, administrators may incorrectly assume service failure.  
+**Mitigation:** Regularly verify services using diagnostic tools such as sockstat and firewall inspection commands.
 
-<hr>
+**Best Practices:**
+- Implement strict IP addressing standards for management networks
+- Use controlled DHCP only where appropriate and expected
+- Validate connectivity using both Layer 3 and Layer 4 tests during troubleshooting
+- Maintain separation of management and user traffic in segmented networks
+- Apply least privilege principles to firewall rules governing administrative access
 
-<h3>Best Practices</h3>
+---
 
-<ul>
-  <li>Implement strict IP addressing standards for management networks</li>
-  <li>Use controlled DHCP only where appropriate and expected</li>
-  <li>Validate connectivity using both Layer 3 and Layer 4 tests during troubleshooting</li>
-  <li>Maintain separation of management and user traffic in segmented networks</li>
-  <li>Apply least privilege principles to firewall rules governing administrative access</li>
-</ul>
+## Framework Alignment
 
-<hr>
+This work aligns with structured system administration and network security practices. It reinforces:
 
-<h3>Framework Alignment</h3>
+- Controlled network configuration management
+- Validation of system and service availability
+- Secure administrative access handling
+- Practical troubleshooting using layered diagnostics
 
-<p>This work aligns with general network configuration management and access control principles consistent with structured security frameworks. It supports secure system administration practices by enforcing predictable and auditable network states.</p>
+---
 
-<hr>
+## Appendix
 
-<h2>Appendix</h2>
+**Figures:**
+- Figure 1: Windows host IP configuration showing APIPA address assignment  
+- Figure 2: pfSense interface and service validation outputs  
+- Figure 3: Successful WebGUI access via HTTPS on port 8443  
 
-<p><strong>Figures</strong></p>
+**Supporting Evidence:**
+- PowerShell connectivity tests (Test-NetConnection)  
+- pfSense service checks (sockstat)  
+- Firewall inspection (pfctl)  
+- VirtualBox network configuration (Internal Network: LabNet)  
 
-<ul>
-  <li><strong>Figure 1:</strong> Windows host IP configuration showing APIPA address assignment</li>
-  <li><strong>Figure 2:</strong> pfSense interface and service validation outputs</li>
-  <li><strong>Figure 3:</strong> Successful WebGUI access via HTTPS on port 8443</li>
-</ul>
 
 <p><strong>Supporting Evidence</strong></p>
 
