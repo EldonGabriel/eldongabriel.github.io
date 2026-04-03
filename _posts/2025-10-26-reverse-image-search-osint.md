@@ -12,7 +12,7 @@ image:
 # 0.0 Executive Summary
 This report documents the application of Open-Source Intelligence (OSINT) methodologies to perform visual geolocation and image verification. The project involved a multi-stage analysis of digital assets, including artifact identification and landmark geolocation across global sites. By utilizing Reverse Image Search (RIS) engines and street-level metadata, the investigation successfully verified the origin and specific geographic coordinates of disparate visual data points. The final result demonstrates a structured approach to verifying digital artifacts and extracting actionable intelligence from unstructured media.
 
----
+ 
 
 # 1.0 Visual Geolocation and Image Verification Analysis
 
