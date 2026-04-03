@@ -16,7 +16,7 @@ This report analyzes a data exposure incident where sensitive internal design ma
 The root issue was traced to insufficient enforcement of least privilege and lack of automated controls governing file sharing. The resolution focused on implementing system-enforced restrictions such as default internal-only access and automated link expiration, aligned with NIST SP 800-53 AC-6 (Least Privilege).
 
 
-# 1.0 Access Control Incident Analysis & NIST Alignment
+# 1.0 AC Incident Analysis & NIST Alignment
 
 ## 1.1 Project Description
 
