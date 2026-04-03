@@ -36,7 +36,7 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 <p><strong>Resolution:</strong> Rebuilt the server and performed a system state restore using <strong>Directory Services Restore Mode (DSRM)</strong>.</p>
 <p><strong>Validation:</strong> Verified system integrity using <code>dcdiag</code> and <code>repadmin</code> to confirm replication health and data consistency.</p>
 <p><strong>Framework Alignment:</strong> Business Continuity Planning (BCP).</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/active-directory-bare-metal-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-ad-disaster-recovery-identity-restoration-v1.0.2/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
