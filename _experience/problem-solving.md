@@ -45,10 +45,10 @@ Structured investigations used to identify operational failures, analyze system 
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Stabilizing Remote Desktop Connections Across Platforms</h5>
+<h5>REPORT – Access Control Bypass & Network Stability – v1.0.0</h5>
 <p>Root cause analysis of multi-layered access control failures impacting remote connectivity across systems and environments.</p>
 <p><strong>Focus:</strong> Root cause analysis · Cross-system diagnostics · Access control validation</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/stabilizingremote-desktop-connections/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-access-control-bypass-network-stability-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 </div>
