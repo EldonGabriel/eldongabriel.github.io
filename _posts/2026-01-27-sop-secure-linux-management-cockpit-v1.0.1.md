@@ -14,7 +14,7 @@ This report documents the implementation of Cockpit for centralized, web-based m
 
 
 
-# 1.0 Secure Linux Management & Multi-Host Orchestration
+# 1.0 Secure Linux Management with Cockpit
 
 ## 1.1 Project Description
 The objective of this task was to deploy and secure the Cockpit management interface on a primary Ubuntu VM and extend orchestration to a secondary remote host. The project aimed to provide a unified dashboard for system monitoring, service control, and terminal execution. The environment was designed to validate secure remote management practices, focusing on the reduction of lateral movement risks and the enforcement of encrypted communication channels between managed nodes.
