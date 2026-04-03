@@ -9,7 +9,7 @@ image:
   thumbnail: /assets/images/posts/pfsense-webgui-apipa.png
 ---
 
-## SECTION 1.0: pfSense WebGUI Access Failure and Recovery
+## 1.0: pfSense WebGUI Access Failure and Recovery
 
 ### 1.1 Project Description
 
@@ -86,7 +86,7 @@ Supporting validation steps included:
 
 ---
 
-## SECTION 2.0: CONCLUSION
+## 2.0: CONCLUSION
 
 ### 2.1 Key Takeaways
 
