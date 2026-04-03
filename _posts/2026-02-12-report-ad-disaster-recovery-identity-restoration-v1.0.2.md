@@ -5,8 +5,8 @@ author: Eldon Gabriel
 tags: [active-directory, windows-server, disaster-recovery, backup, identity-management]
 excerpt: "Successful restoration of an Active Directory environment using Bare-Metal Recovery (BMR) and System State restoration on Windows Server 2016."
 image:
-  path: /assets/images/posts/ad-recovery.png
-  thumbnail: /assets/images/posts/ad-recovery.png
+  path: /assets/images/posts/active-directory.png
+  thumbnail: /assets/images/posts/active-directory.png
 ---
 
 # 0.0 Executive Summary
