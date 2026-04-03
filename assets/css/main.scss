@@ -3,6 +3,11 @@
 sitemap: false
 ---
 
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
 @charset "utf-8";
 
 @import "so-simple";
@@ -14,14 +19,14 @@ sitemap: false
 
 /* Custom report container */
 .report-box {
-  background-color: #f5f5f5;
+  background: rgba(255, 255, 255, 0.05);
   border: 1px solid #ddd;
   padding: 2rem;
   border-radius: 8px;
   margin: 2rem 0;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
 
-  color: #000 !important; /* force black text */
+  color: #000 !important; /* force readable text */
 }
 
 /* Force all inner elements to inherit readable text */
@@ -34,7 +39,7 @@ sitemap: false
   color: #0645ad !important;
 }
 
-/* Optional: reinforce headings specifically */
+/* Reinforce headings, paragraphs, lists */
 .report-box h1,
 .report-box h2,
 .report-box h3,
