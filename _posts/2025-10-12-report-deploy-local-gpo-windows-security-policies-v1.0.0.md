@@ -14,7 +14,7 @@ This report documents the deployment of a localized security baseline on a Windo
 
  
 
-# 1.0 Deploying Local Group Policy for Windows Security
+# 1.0 Deploying Local GPO for Windows Security
 
 ## 1.1 Project Description
 The objective of this task was to establish a secure operational baseline for a standalone Windows 10 virtual machine. The project aimed to utilize Local Group Policy Objects (GPOs) to apply critical security configurations that protect against common attack vectors. The environment served as a validation point for moving from localized system management to a structured, policy-driven security model, ensuring that protocols and user rights align with organizational security requirements and the principle of least functionality.
