@@ -90,11 +90,11 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Deploying Local Group Policy to Harden SMB Sessions</h5>
+<h5>REPORT – SMB Hardening for Credential Theft Protection – v1.0.0</h5>
 <p>Applied SMB security policies to reduce exposure to credential harvesting and lateral movement.</p>
 <p><strong>Skills:</strong> SMB Hardening · Credential Protection · Lateral Movement Mitigation</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/deploying-local-group-policy-to-harden-smb-sessions/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-smb-hardening-credential-theft-protection-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
