@@ -7,9 +7,10 @@ image:
   path: /assets/images/banner.png
 ---
 
-# 1.0: pfSense Access Failure and Recovery
+# 0.0 Executive Summary
+This report documents a restoration of administrative access to a pfSense firewall after a Windows management host lost connectivity due to an APIPA address assignment.
 
-> **Executive Summary:** This report documents a restoration of administrative access to a pfSense firewall after a Windows management host lost connectivity due to an APIPA address assignment.
+# 1.0: pfSense Access Failure and Recovery
 
 ## 1.1 Project Description
 The objective of this task was to identify the root cause of the connectivity failure and restore access within a **VirtualBox Internal Network** lab environment. This scenario highlights the critical nature of Layer 3 (IP) alignment in segmented networks.
