@@ -7,7 +7,7 @@ sitemap: false
 
 @import "so-simple";
 
-.page-title {
-  font-size: 3.5rem !important;
-  text-align: center !important;
+.layout--post .page-header .page-title {
+  font-size: 3rem;
+  text-align: center;
 }
