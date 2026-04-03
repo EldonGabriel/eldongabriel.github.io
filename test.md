@@ -7,6 +7,8 @@ image:
   path: /assets/images/banner.png
 ---
 
+{% include toc %}
+
 <h1>1.0: pfSense WebGUI Access Failure and Recovery</h1>
 
 <h2>1.1 Project Description</h2>
