@@ -141,10 +141,10 @@ Administration and hardening of Linux-based systems, including user management, 
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Webmin Secure Administration & Dual-Homed Architecture</h5>
+<h5>REPORT – Webmin Secure Administration (Dual-Homed) – v1.1.0</h5>
 <p>Deployed and secured Webmin to manage Linux services, users, and configuration through a web interface.</p>
 <p><strong>Skills:</strong> Linux Service Management · System Configuration</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/webmin-secure-admin-dual-homed-architecture/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-webmin-secure-admin-dual-homed-v1.1.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -168,10 +168,10 @@ Administration and hardening of Linux-based systems, including user management, 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Detecting System Anomalies with SAR</h5>
+<h5>REPORT – SAR Performance Monitoring on Ubuntu – v1.0.1</h5>
 <p>Implemented SAR to monitor CPU, memory, disk I/O, and network utilization on Ubuntu servers.</p>
 <p><strong>Skills:</strong> Linux Monitoring · Performance Diagnostics · System Analysis</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/detecting-system-anomalies-sar/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-sar-performance-monitoring-ubuntu-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 </div>
@@ -223,10 +223,10 @@ Design and deployment of virtualized environments used to support secure system 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Resolving AWS MGN Agent Removal Issues After VMware to EC2 Migration</h5>
-<p>Step-by-step runbook documenting migration procedures from VMware environments to AWS EC2, including post-migration agent cleanup and validation.</p>
+<h5>REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0</h5>
+<p>A practical troubleshooting case study on migrating VMware virtual machines to AWS EC2 and resolving kernel driver removal issues from the AWS Application Migration Service.</p>
 <p><strong>Skills:</strong> Cloud Migration · AWS EC2 · Infrastructure Runbooks</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/aws-mgn-agent-removal-vmware-to-ec2/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-enterprise-hybrid-cloud-migration-v1.2.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
