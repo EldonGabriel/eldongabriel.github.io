@@ -35,8 +35,11 @@ The objective of this task was to implement a robust performance monitoring solu
 
 **Key Actions & Observations**
 * **Service Initialization:** Installed the `sysstat` package and modified the configuration to enable the cron-based data collector.
+
 * **CPU Audit:** Utilized `sar -u` and `sar -P ALL` to monitor overall and per-core utilization, identifying how workloads are distributed across the processor.
+
 * **Memory Tracking:** Observed RAM and swap space utilization to identify potential memory leaks or exhausted physical resources.
+
 * **I/O and Network Analysis:** Monitored disk transfer rates and network packet volume to identify storage bottlenecks and abnormal traffic patterns.
 
 **Root Cause:** Inactive performance monitoring was identified as a gap in system visibility, which was resolved by enabling the persistent background collection of the `sysstat` engine.
@@ -61,7 +64,9 @@ Full performance visibility was achieved by confirming the successful generation
 
 ## 2.1 Key Takeaways
 * **Baseline Importance:** Without active monitoring like SAR, it is difficult to distinguish between normal system spikes and malicious activity.
+
 * **Subsystem Granularity:** Monitoring must cover multiple areas (CPU, Memory, Disk, Network) to provide a complete picture of system health.
+
 * **Tool Consistency:** SAR provides a standardized interface for monitoring both real-time performance and historical trends on Linux systems.
 
 ## 2.2 Security Implications & Recommendations
