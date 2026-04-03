@@ -1,90 +1,63 @@
 ---
-title: "UTM Kali Linux Shared Folder Guide: Persistent File Sharing for Cybersecurity Labs"
+title: "GUIDE – UTM Kali Linux Shared Folder Configuration – v1.0.0"
 date: 2025-10-17
 author: Eldon Gabriel
 tags: [Cybersecurity, Virtualization, Linux, UTM, SystemAdministration]
-excerpt: "Configured a persistent shared folder between macOS and Kali Linux in UTM to enable reliable cross-platform file transfer for cybersecurity lab environments."
+excerpt: "Implementation of a persistent shared folder between macOS and Kali Linux using the 9p protocol within the UTM hypervisor."
 image:
   path: "/assets/images/posts/utm_kali_shared_folder.png"
   thumbnail: "/assets/images/posts/utm_kali_shared_folder.png"
 ---
 
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">What I Studied</h1>
-</div>
-I configured a persistent shared folder between **macOS (host)** and **Kali Linux (guest)** in **UTM**. The goal was to create a reliable method for transferring files—such as reports, tools, and evidence—between both systems.
+# 0.0 Executive Summary
+This report documents the configuration of a persistent shared folder between a macOS host and a Kali Linux virtual machine using the UTM hypervisor. The project addressed initial mounting failures associated with the VirtIO-FS protocol by implementing a technical fallback to the 9p virtio protocol. The final result established a reliable, automated file-sharing channel between the host and guest systems, validated through fstab persistence and permission audits.
 
-**Tools and Techniques Used:** `mount`, `/etc/fstab`, and the **9p (Plan 9 Filesystem)** protocol over **VirtIO**.
 
-**Key Concept:** Learning how file systems work in virtual machines and fixing errors when new drivers like **VirtIO-FS** do not function properly.
 
+# 1.0 UTM Kali Linux Shared Folder Configuration
+
+## 1.1 Project Description
+The objective of this task was to enable seamless data transfer between a macOS host and a Kali Linux VM to facilitate the movement of tools, reports, and evidence. The project aimed to overcome filesystem protocol incompatibilities within the UTM environment. The task required configuring kernel-level mount points and ensuring that the shared directory remained accessible across system reboots without manual intervention.
  
+## 1.2 Technical Task / Troubleshooting Process
+The process focused on diagnosing mounting errors and establishing a persistent filesystem link.
 
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">What I Learned</h1>
-</div>
-Initially, the VirtIO-FS mount did not work. Kali displayed repeated errors about a missing tag and bad filesystem type. Switching to **9p over VirtIO** immediately resolved the issue.
+**Key Actions & Observations**
+* **Protocol Analysis:** Identified that the default VirtIO-FS method failed to mount correctly, requiring a transition to the 9p protocol.
+* **Manual Mounting:** Utilized the `mount` command with specific `9p` versioning and transport arguments to establish the initial connection.
+* **Persistence Configuration:** Modified the `/etc/fstab` file to automate the mounting process during the system boot sequence.
+* **Permission Audit:** Verified file ownership and read/write capabilities within the `test_folder` directory to ensure operational access.
 
-**Hands-on Skills Gained:**  
-- Mounting shared folders in Linux using alternate protocols  
-- Configuring `/etc/fstab` for persistence  
-- Troubleshooting low-level virtual file system errors  
+**Root Cause:** Initial mounting failures were caused by incompatibilities between the guest kernel and the VirtIO-FS protocol, necessitating a fallback to the more compatible 9p virtio filesystem.
 
-**Observation:**  
-The **9p protocol** was unexpectedly effective. Even when VirtIO-FS support was unavailable, it maintained stable host–guest communication.
+## 1.3 Resolution and Validation
+A stable and persistent shared environment was achieved through specific mount arguments and fstab automation.
 
- 
+| Parameter | Configuration Value |
+| :--- | :--- |
+| **Hypervisor** | UTM |
+| **Protocol** | 9p (virtio) |
+| **Version** | 9p2000.L |
+| **Mount Options** | rw, nofail |
 
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Why It Matters</h1>
-</div>
-In cybersecurity labs, shared folders are essential. They allow data to move securely and quickly between systems. A bad mount configuration can delay workflows or break lab operations.
+**Validation Steps**
+1. **Boot Test:** Confirmed the shared folder mounted automatically upon system restart without errors.
+2. **Transfer Test:** Verified successful bidirectional file transfers between the macOS host and the Kali Linux guest.
+3. **Integrity Check:** Validated that file permissions (chmod/chown) were correctly maintained within the mounted directory.
 
-This strengthens **system readiness**, improves **operational efficiency**, and enables secure **evidence handling**—all vital for both enterprise and individual security professionals.
 
- 
 
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">How It Maps to the Job / Framework</h1>
-</div>
-- **NIST NICE Role:** System Administrator (OM-SA-001) – maintaining and troubleshooting secure virtual systems  
-- **ASD Cyber Skills Framework:** Operate and Maintain – managing secure, resilient lab infrastructure  
+# 2.0: CONCLUSION
 
-This capability helps analysts securely transfer tools, logs, and reports between isolated environments without relying on insecure network paths.
+## 2.1 Key Takeaways
+* **Protocol Versatility:** In virtualized environments, understanding secondary filesystem protocols like 9p is essential when primary protocols fail.
+* **Persistence is Vital:** Manual mounts are insufficient for operational workflows; fstab integration is required for reliability.
+* **Kernel Compatibility:** Successful virtualization management depends on aligning guest kernel capabilities with hypervisor-provided drivers.
 
- 
+## 2.2 Security Implications & Recommendations
 
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Key Takeaways</h1>
-</div>
-- Always know fallback protocols: **9p** works when **VirtIO-FS** fails  
-- Use `/etc/fstab` for reliable, automated mounting  
-- Mastering cross-platform integration builds confidence in hybrid setups  
-- Efficient file transfer supports productivity and secure operations  
-- Virtualization troubleshooting is a foundational skill for cybersecurity professionals  
+**Risk: Unauthorized Data Exposure** Shared folders can become a vector for malware or unauthorized data access if permissions are overly permissive.  
+**Mitigation:** Limit access to the shared directory using strict `chmod` and `chown` permissions and disable the share when not actively required.
 
-<div style="text-align:center;">
-<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
-Related Projects
-</h2>
-</div>
-
-<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-
-<!-- Project -->
-<div style="flex:0 1 500px; background:rgba(255,255,255,0.05); padding:20px; border-radius:10px; border:1px solid rgba(255,255,255,0.15); text-align:center;">
-
-<iframe
-src="{{ '/assets/guides/GUIDE – UTM Kali Linux Shared Folder Configuration – v1.0.0.pdf' | relative_url }}"
-width="100%"
-height="680"
-style="border:1px solid #333; border-radius:8px;">
-</iframe>
-
-<p style="margin-top:12px; color:#aaa;">
-<strong>GUIDE – UTM Kali Linux Shared Folder Configuration – v1.0.0</strong>
-</p>
-
-</div>
-
-</div>
+**Risk: Sensitive Information Leakage** Transferring confidential data across unencrypted shared folders may expose it to unauthorized host-level processes.  
+**Mitigation:** Utilize encrypted archives for sensitive data transfers and regularly audit the contents of the shared directory.
