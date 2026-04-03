@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Visual Geolocation and Image Verification Analysis – v1.0.0"
+title: "REPORT – Geolocation and Image Verification Analysis – v1.0.0"
 date: 2025-10-26
 author: Eldon Gabriel
 tags: [Cybersecurity, OSINT, ReverseImageSearch, Investigation, SystemAdministration]
@@ -14,7 +14,7 @@ This report documents the application of Open-Source Intelligence (OSINT) method
 
  
 
-# 1.0 Visual Geolocation and Image Verification Analysis
+# 1.0 Geolocation and Image Verification Analysis
 
 ## 1.1 Project Description
 The objective of this task was to develop a repeatable methodology for identifying the source and location of digital media. The project aimed to utilize a suite of OSINT tools to move from a "known unknown" (an unverified artifact) to a verified data point with established context. The environment focused on both guided and independent artifact analysis, requiring the synthesis of visual clues with technical search results to confirm findings in diverse global environments.
