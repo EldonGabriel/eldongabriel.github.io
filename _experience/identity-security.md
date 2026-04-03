@@ -72,10 +72,10 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Deploying User Rights Policies on a Single Machine</h5>
+<h5>REPORT – Hardening Windows User Rights via Local Group Policy – v1.0.0</h5>
 <p>Restricted administrative privileges and enforced least-privilege access policies via GPO.</p>
 <p><strong>Skills:</strong> Access Control · Privilege Hardening</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/deploy-user-rights-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-hardening-windows-user-rights-local-group-policy-v1.0.0//" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
