@@ -10,7 +10,7 @@ image:
 # 0.0 Executive Summary
 This report documents the identification and restoration of administrative access to a pfSense firewall. Connectivity was lost due to an APIPA address assignment on the Windows management host, which was resolved through manual IP realignment within the VirtualBox Internal Network environment.
 
-························································································································· 
+<hr style="border: none; border-top: 2px dotted #bbb; color: #fff; background-color: #fff; height: 1px; width: 100%;" /> 
 
 # 1.0 pfSense Access Failure and Recovery
 
