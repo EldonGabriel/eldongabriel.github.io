@@ -57,8 +57,8 @@ To restore connectivity, the following steps were performed:
   <li>Reconfigured the Windows host network adapter using PowerShell</li>
   <li>Assigned a static IP address:
     <ul>
-      <li>IP: 172.16.0.10</li>
-      <li>Subnet: /24</li>
+      <li><strong>IP:</strong> 172.16.0.10</li>
+      <li><strong>Subnet:</strong> /24</li>
     </ul>
   </li>
   <li>Ensured alignment with the pfSense LAN interface within the same subnet</li>
