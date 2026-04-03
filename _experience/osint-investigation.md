@@ -40,17 +40,17 @@ These labs demonstrate practical intelligence workflows such as data collection,
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Translating Foreign-Language Data in OSINT Investigations</h5>
+<h5>REPORT – Using Google Translate for OSINT – v1.1.0</h5>
 <p>Demonstrates translating foreign-language communications to support multilingual open-source intelligence investigations.</p>
 <p><strong>Skills:</strong> Multilingual OSINT · Translation Tools · Intelligence Analysis</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/translating-foreign-language-osint/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-using-google-translate-osint-v1.1.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Email Pattern Recognition with OSINT</h5>
+<h5>REPORT – Using Google Translate for OSINT – v1.1.0</h5>
 <p>Investigation into identifying organizational email address patterns using open-source intelligence techniques and pattern analysis.</p>
 <p><strong>Skills:</strong> Email Pattern Analysis · OSINT Enumeration · Identity Mapping</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/email-pattern-recognition-osint/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-osint-email-enumeration-validation-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
