@@ -11,34 +11,3 @@ sitemap: false
 .site-title {
   text-align: center;
 }
-
-/* Custom report container */
-.report-box {
-  background-color: #f5f5f5 !important;
-  border: 1px solid #ddd;
-  padding: 2rem;
-  border-radius: 8px;
-  margin: 2rem 0;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
-
-  color: #000 !important;
-}
-
-/* Force all inner elements to inherit readable text */
-.report-box * {
-  color: inherit !important;
-}
-
-/* Ensure links remain visible */
-.report-box a {
-  color: #0645ad !important;
-}
-
-/* Reinforce headings, paragraphs, lists */
-.report-box h1,
-.report-box h2,
-.report-box h3,
-.report-box p,
-.report-box li {
-  color: inherit !important;
-}
