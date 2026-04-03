@@ -14,7 +14,7 @@ This report documents the technical requirements and configuration steps for ena
 
 ---
 
-# 1.0 Building a vSphere 8 Nested Lab on AMD Ryzen 6000
+# 1.0 vSphere 8 Nested Lab on Ryzen 6000
 
 ## 1.1 Project Description
 The objective of this task was to configure an Acer Nitro V15 (AMD Ryzen 7 7735HS) to support nested virtualization. The project aimed to overcome the "AMD-V is disabled in the BIOS" error and the "Power on with RVI" failure. The environment required precise synchronization between AMD chipset drivers, hidden UEFI firmware settings, and Windows 11 hypervisor configurations to allow for the deployment of Type-1 hypervisors within a Type-2 hypervisor.
