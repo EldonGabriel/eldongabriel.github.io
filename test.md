@@ -154,9 +154,9 @@ This work aligns with general network configuration management and access contro
 
 **Figures**
 <ul>
-  <li>**Figure 1:** Windows host IP configuration showing APIPA address assignment</li>
-  <li>**Figure 2:** pfSense interface and service validation outputs</li>
-  <li>**Figure 3:** Successful WebGUI access via HTTPS on port 8443</li>
+  <li><strong>Figure 1:</strong> Windows host IP configuration showing APIPA address assignment</li>
+  <li><strong>Figure 2:</strong> pfSense interface and service validation outputs</li>
+  <li><strong>Figure 3:</strong> Successful WebGUI access via HTTPS on port 8443</li>
 </ul>
 
 **Supporting Evidence**
