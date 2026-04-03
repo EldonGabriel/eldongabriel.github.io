@@ -22,8 +22,8 @@ These exercises highlight how administrators enforce access restrictions, protec
 
 | Category | Labs |
 |--------|------|
-| Identity & Access Management | 6 |
-| **Total Identity Security Labs Documented** | **6** |
+| Identity & Access Management | 7 |
+| **Total Identity Security Labs Documented** | **7** |
 
 ---
 
@@ -60,6 +60,15 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 <p>Configured secure credential entry protections through Windows security policy controls.</p>
 <p><strong>Skills:</strong> Credential Protection · GPO Security</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-windows-security/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0</h5>
+<p>Configured automatic session lock enforcement using Local Group Policy to reduce unauthorized access risk on unattended systems.</p>
+<p><strong>Skills:</strong> Identity Security · GPO Configuration · Endpoint Hardening · Access Control</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-gpo-applying-local-gpo-session-lcok-enfrocement-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
