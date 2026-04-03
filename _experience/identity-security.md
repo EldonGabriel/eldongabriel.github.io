@@ -67,7 +67,7 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 <p>Configured automatic session lock enforcement using Local Group Policy to reduce unauthorized access risk on unattended systems.</p>
 <p><strong>Skills:</strong> Identity Security · GPO Configuration · Endpoint Hardening · Access Control</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-gpo-applying-local-gpo-session-lcok-enfrocement-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-gpo-applying-local-gpo-session-lock-enforcement-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
