@@ -12,7 +12,6 @@ image:
 # 0.0 Executive Summary
 This report documents the identification and restoration of administrative access to a pfSense firewall. Connectivity was lost due to an APIPA address assignment on the Windows management host, which was resolved through manual IP realignment within the VirtualBox Internal Network environment.
 
----
 
 # 1.0 pfSense Access Failure and Recovery
 
@@ -43,8 +42,7 @@ Access was restored by manually aligning the host with the pfSense management su
 1.  **PowerShell:** Ran `Test-NetConnection -ComputerName 172.16.0.1 -Port 8443`.
 2.  **Browser:** Successfully loaded the WebGUI and authenticated.
 3.  **Service:** Confirmed SSH connectivity over the internal network.
-
---- 
+ 
 
 # 2.0: CONCLUSION
 
@@ -60,8 +58,7 @@ Access was restored by manually aligning the host with the pfSense management su
 
 **Risk: Validation Gaps** Assuming a service is "down" when the network is actually "misaligned" leads to wasted uptime.  
 **Mitigation:** Use `sockstat` and `pfctl` locally on the appliance to verify service health before troubleshooting the wire.
-
---- 
+ 
 
 ## Appendix & Evidence
 * **Figure 1:** Windows IP Config (APIPA Symptom)
