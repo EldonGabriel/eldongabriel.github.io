@@ -12,7 +12,7 @@ image:
 # 0.0 Executive Summary
 This report documents the successful bare-metal recovery (BMR) of an Active Directory environment. Following a simulated total system failure, domain services and identity consistency were restored to a new Windows Server 2016 instance. The project validated the effectiveness of System State backups and Directory Service Restore Mode (DSRM) in recovering 100 user accounts and 50 security groups while maintaining environment integrity.
 
----
+ 
 
 # 1.0 AD Disaster Recovery & Identity Restoration
 
