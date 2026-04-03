@@ -7,42 +7,10 @@ sitemap: false
 
 @import "so-simple";
 
-// 1. Keep your existing global centering
 .page-header h1,
+
 .site-title {
+
   text-align: center;
-}
 
-// 2. Add the specialized "Technical Report" styling below
-// This only triggers if you add 'classes: report-style' to a post's front matter
-.report-style {
-  
-  .page-header h1, 
-  .entry-title {
-    overflow-wrap: anywhere; // Finally fixes that long pfSense title overlap
-    border-bottom: 2px solid #333;
-    padding-bottom: 15px;
-    margin-bottom: 1.5em;
-  }
-
-  h2 {
-    color: #0056b3; // Professional Blue
-    border-left: 4px solid #0056b3;
-    padding-left: 15px;
-    margin-top: 2em;
-    font-weight: bold;
-  }
-
-  ul {
-    list-style-type: square;
-    margin-left: 2em;
-    li {
-      margin-bottom: 10px; // Gives the report breathing room
-    }
-  }
-
-  // Makes the "Risk/Mitigation" sections look like formal callouts
-  strong {
-    color: #d9534f; 
-  }
 }
