@@ -8,7 +8,7 @@ image:
 path: /assets/images/posts/access-control.png
 thumbnail: /assets/images/posts/access-control.png
 ---
-
+ 
 # 0.0 Executive Summary
 
 This report analyzes a data exposure incident where sensitive internal design materials were unintentionally shared outside the organization due to weak access control configurations and reliance on trust-based policies instead of technical enforcement. The incident resulted in unauthorized exposure of multiple internal documents to external parties.
