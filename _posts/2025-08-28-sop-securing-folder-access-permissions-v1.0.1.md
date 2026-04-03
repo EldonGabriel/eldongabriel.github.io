@@ -1,6 +1,6 @@
 ---
 title: "SOP – Securing Folder Access with Permissions – v1.0.1"
-date: 2025-08-25
+date: 2025-08-28
 author: Eldon Gabriel
 tags: [Windows Security, Access Control, NIST, Cybersecurity]
 excerpt: "Implementation of discretionary access controls (DAC) and Group Policy restrictions to secure sensitive data within a Windows environment."
