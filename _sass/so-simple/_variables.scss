@@ -22,8 +22,8 @@ $modular-scale-2: 1.2 !default; /* large */
 $h1-min: $modular-scale-1 * $modular-scale-1 * $modular-scale-1 * $modular-scale-1 * $base-font-size !default;
 $h1-max: $modular-scale-2 * $modular-scale-2 * $modular-scale-2 * $modular-scale-2 * $base-font-size !default;
 /* Heading 2 */
-$h2-min: 18px; $modular-scale-1 * $modular-scale-1 * $modular-scale-1 * $base-font-size !default;
-$h2-max: 22px; $modular-scale-2 * $modular-scale-2 * $modular-scale-2 * $base-font-size !default;
+$h2-min: $modular-scale-1 * $modular-scale-1 * $modular-scale-1 * $base-font-size !default;
+$h2-max: $modular-scale-2 * $modular-scale-2 * $modular-scale-2 * $base-font-size !default;
 /* Heading 3 */
 $h3-min: $modular-scale-1 * $modular-scale-1 * $base-font-size !default;
 $h3-max: $modular-scale-2 * $modular-scale-2 * $base-font-size !default;
