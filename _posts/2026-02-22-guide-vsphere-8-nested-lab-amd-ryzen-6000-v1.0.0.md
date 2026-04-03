@@ -1,5 +1,5 @@
 ---
-title: "GUIDE – Building a vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0"
+title: "GUIDE – vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0"
 date: 2026-02-22
 author: Eldon Gabriel
 tags: [Virtualization, VMware, AMD, Troubleshooting, Infrastructure]
