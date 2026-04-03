@@ -7,11 +7,22 @@ sitemap: false
 
 @import "so-simple";
 
+// This targets the main headers and site branding
 .page-header h1,
-.site-title {
+.site-title,
+.entry-title {
   text-align: center;
-  /* Legacy support */
+  
+  /* Standard wrapping */
   word-wrap: break-word;
-  /* Modern standard */
-  overflow-wrap: break-word;
+  overflow-wrap: anywhere; 
+  
+  /* The "Nuclear" option: forces a break even inside strings like v1.0.0 */
+  word-break: break-word; 
+  
+  /* Ensures the container itself doesn't stay rigid */
+  display: block;
+  width: 100%;
+  white-space: normal;
+}
 }
