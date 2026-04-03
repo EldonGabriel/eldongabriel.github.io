@@ -6,7 +6,7 @@ tags: [Cybersecurity, GRC, Access Control, NIST, Risk Analysis]
 excerpt: "Analysis of a data exposure incident caused by weak access controls and lack of enforced security policies."
 image:
 path: /assets/images/posts/access-control.png
-thumbnail: /assets/images/posts/access-control.png
+thumbnail: /assets/images/posts/access-control.png 
 ---
  
 # 0.0 Executive Summary
