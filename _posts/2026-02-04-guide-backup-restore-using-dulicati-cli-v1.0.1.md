@@ -2,6 +2,7 @@
 title: "GUIDE – Backup and Restore Using Duplicati CLI – v1.0.1"
 date: 2026-02-04
 author: Eldon Gabriel
+categories: [Operational Resilience]
 tags: [Backup, Duplicati, CLI, Data Recovery, System Administration]
 excerpt: "Execution and validation of command-line based backup and recovery workflows using Duplicati to ensure data recoverability and integrity."
 image:
