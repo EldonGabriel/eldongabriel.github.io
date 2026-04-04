@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Hardening Endpoint Resilience with Controlled Folder Access (CFA) – v1.0.0"
+title: "REPORT – Deploy Controlled Folder Access via Local GPO – v1.0.0"
 date: 2025-09-22
 author: Eldon Gabriel
 tags: [Windows, Ransomware Defense, Endpoint Security, GPO, Windows Defender]
