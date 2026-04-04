@@ -1,19 +1,14 @@
-# Sample site navigation bar links
+# Sample site navigation bar links 
 
-main:
-  - title: Insights
-    url: /
-  - title: Experience
-    url: /experience/
-  - title: Field Notes
-    url: /posts/
-  - title: Certifications
-    url: /certifications/
-
-# Optional items
-# - title: Search
-#   url: /search/
-
-# - title: Portfolio
-#   url:
-#   external: true
+- title: Insights 
+  url: /
+- title: Experience 
+  url: /experience/ 
+- title: Field Notes 
+  url: /posts/ 
+- title: Certifications 
+  url: /certifications/ 
+# - title: Search 
+#   url: /search/ 
+# - title: Portfolio 
+#   url: # external: true
