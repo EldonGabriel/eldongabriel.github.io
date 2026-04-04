@@ -82,6 +82,7 @@ The network was secured by applying correctly calculated subnet boundaries.
    * Network address (first address in the range)
    * Broadcast address (last address in the range)
 
+
 3. Verified that host addresses fall within the expected usable range
 
 4. Checked that no IP conflicts or overlaps occurred
