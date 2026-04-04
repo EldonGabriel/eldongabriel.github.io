@@ -2,6 +2,7 @@
 title: "REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0"
 date: 2025-10-16
 author: Eldon Gabriel
+categories: [Identity Security]
 tags: [Windows, GPO, Endpoint Security, Compliance, System Hardening]
 excerpt: "Configured Local Group Policy to enforce automatic session locks, improving Windows endpoint security."
 image:
