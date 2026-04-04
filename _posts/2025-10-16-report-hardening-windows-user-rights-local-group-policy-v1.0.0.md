@@ -2,6 +2,7 @@
 title: "REPORT – Hardening Windows User Rights via Local Group Policy – v1.0.0"
 date: 2025-10-16
 author: Eldon Gabriel
+categories: [Identity Security]
 tags: [Windows, GPO, Security Hardening, GRC, Access Control]
 excerpt: "Configured User Rights Assignment policies via Local Group Policy to enforce least privilege and secure Windows endpoints."
 image:
