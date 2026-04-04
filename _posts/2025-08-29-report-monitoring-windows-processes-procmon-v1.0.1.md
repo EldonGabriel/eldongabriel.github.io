@@ -43,15 +43,15 @@ The process focused on improving system visibility by filtering out unnecessary 
 
 - Reviewed default Procmon output and observed a large number of low-value background events  
 
-- Configured Procmon filters to:
+Configured Procmon filters to:
   - Include specific process names  
   - Exclude repetitive or low-value operations such as common file reads  
 
-- Applied monitoring to:
+Applied monitoring to:
   - Registry activity, including key access and value changes  
   - File system activity in sensitive directories  
 
-- Verified supporting requirements:
+Verified supporting requirements:
   - Administrative privileges for full system monitoring  
   - Ability to export logs in CSV and PML formats  
 
