@@ -10,7 +10,7 @@ image:
   thumbnail: "/assets/images/subnetting.png"
 ---
 
-## **0.0 Executive Summary**
+## 0.0 Executive Summary
 
 This report explains the setup and improvement of network addressing using IP subnetting on a Class C network.
 
@@ -20,9 +20,9 @@ The result is a more secure network design. Instead of one large network where a
 
  
 
-# **1.0 IP Subnetting Fundamentals**
+# 1.0 IP Subnetting Fundamentals
 
-## **1.1 Project Description**
+## 1.1 Project Description
 
 The purpose of this task was to create logical network boundaries to control traffic and reduce the impact of a security breach.
 
@@ -37,7 +37,7 @@ This approach helps protect important systems by isolating them from general use
 
  
 
-## **1.2 Technical Task / Troubleshooting Process**
+## 1.2 Technical Task / Troubleshooting Process
 
 The process focused on identifying weaknesses in a default /24 network and improving it by dividing the address space into smaller subnets.
 
@@ -50,6 +50,7 @@ The process focused on identifying weaknesses in a default /24 network and impro
   * Network address
   * Broadcast address
   * Gateway address
+  
 * Reduced the number of available hosts in sensitive areas to limit potential attack paths
 * Verified calculations using binary-to-decimal conversion
 * Ensured CIDR prefix lengths were applied consistently
@@ -60,7 +61,7 @@ Default network setups are often flat and easy to configure, but they allow unre
 
  
 
-## **1.3 Resolution and Validation**
+## 1.3 Resolution and Validation
 
 The network was secured by applying correctly calculated subnet boundaries.
 
@@ -88,9 +89,9 @@ The network was secured by applying correctly calculated subnet boundaries.
 
  
 
-# **2.0 CONCLUSION**
+# 2.0 CONCLUSION
 
-## **2.1 Key Takeaways**
+## 2.1 Key Takeaways
 
 * Flat networks increase security risk due to unrestricted communication
 * Subnetting improves security by dividing networks into smaller sections
@@ -100,7 +101,7 @@ The network was secured by applying correctly calculated subnet boundaries.
 
  
 
-## **2.2 Security Implications and Recommendations**
+## 2.2 Security Implications and Recommendations
 
 **Risk: Large Attack Surface**
 Flat networks allow attackers to scan and reach many systems if one device is compromised.
