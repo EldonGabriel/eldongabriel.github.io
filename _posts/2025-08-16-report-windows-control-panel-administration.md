@@ -1,6 +1,6 @@
 ---
 title: "REPORT – Windows Control Panel Administration – v1.0.0"
-date: 2025-09-05
+date: 2025-08-16
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
 tags: [Windows, Administration, Endpoint Security, Hardening, System Optimization]
@@ -19,7 +19,7 @@ The goal was to reduce risks such as system instability, unauthorized access, an
 
 The final result improved system security and performance by enabling features like BitLocker encryption and Windows Defender Firewall, while also applying regular maintenance routines.
 
----
+ 
 
 # 1.0 Windows Control Panel Administration
 
@@ -35,7 +35,7 @@ This was done using built-in Windows tools to:
 
 These actions help protect the system from threats and prevent issues caused by poor configuration.
 
----
+ 
 
 ## 1.2 Technical Task / Troubleshooting Process
 
@@ -64,7 +64,7 @@ Verified supporting components:
 **Root Cause:**  
 Default Windows settings are designed for general use and may not be fully secure. This can lead to unencrypted data, weak firewall rules, and poor system maintenance. The issue was fixed by applying stronger security settings and regular maintenance tasks.
 
----
+ 
 
 ## 1.3 Resolution and Validation
 
@@ -89,7 +89,7 @@ The system was secured and tested to confirm that all settings were working corr
 
 5. Verified that normal applications continued to function correctly  
 
----
+ 
 
 # 2.0 CONCLUSION
 
