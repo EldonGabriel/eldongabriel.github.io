@@ -2,6 +2,7 @@
 title: "REPORT – OS Patching Enforcement via Local GPO – v1.0.0"
 date: 2025-09-27
 author: Eldon Gabriel
+categories: [Security Operations]
 tags: [Windows, GPO, Patch Management, Endpoint Security, Compliance]
 excerpt: "Implementation of automated operating system patching policies via Local Group Policy to balance system security with operational availability."
 image:
