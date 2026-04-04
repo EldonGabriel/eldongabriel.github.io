@@ -1,5 +1,5 @@
 ---
-title: "Building Hands-On Cybersecurity Skills: From MICS to MSAF with MCSI"
+title: "GUIDE – Hands-On Cybersecurity Progression (MICS to MSAF) – v1.0.0"
 date: 2025-07-03
 author: Eldon Gabriel
 categories: [Operational Approach]
