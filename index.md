@@ -7,21 +7,21 @@ permalink: /
 image:
   path: /assets/images/banner.png
 ---
-<section class="home-hero" style="text-align:center; margin: 80px 0;">
+<section class="home-hero">
 
-  <p style="font-size:1.8em; margin:10px 0; color:#aaa;">
+  <p class="subtitle">
     {{ page.subtitle }}
   </p>
 
-  <p style="font-size:1.2em; color:#ccc; margin:5px 0 25px;">
+  <p class="tagline">
     {{ page.tagline }}
   </p>
 
-  <h2 style="font-size:1.8em; margin:20px 0 10px; font-weight:600; color:#fff;">
+  <h2>
     Security Control Implementation Portfolio
   </h2>
 
-  <div style="margin-top:20px; height:3px; background:#fff; width:80px; display:inline-block; border-radius:2px;"></div>
+  <div class="divider"></div>
 
 </section>
 
