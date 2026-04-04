@@ -56,7 +56,7 @@ Verified supporting components:
   - ISAKMP Security Associations (SA)  
   - IPsec encryption and decryption counters  
 
--Documented all configurations for reuse  
+- Documented all configurations for reuse  
 
 **Root Cause:**  
 By default, there is no secure tunnel between sites. This allows traffic to travel without encryption or be blocked. The issue was fixed by configuring IPsec policies and secure authentication.
