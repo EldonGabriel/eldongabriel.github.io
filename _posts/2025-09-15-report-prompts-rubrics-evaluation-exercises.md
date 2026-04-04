@@ -2,12 +2,12 @@
 title: "REPORT – Prompt & Rubric Evaluation Exercises – v1.0.0"
 date: 2025-09-15
 author: Eldon Gabriel
+categories: [Operational Approach]
 tags: [Professional Development, Quality Assurance, Evaluation, Security Operations]
 excerpt: "Analysis of prompts and rubrics to improve clarity, reduce ambiguity, and increase consistency in technical evaluations."
 image:
   path: "assets/images/posts/rubrics.png"
   thumbnail: "assets/images/posts/rubrics.png"
-  
 ---
 
 # 0.0 Executive Summary
