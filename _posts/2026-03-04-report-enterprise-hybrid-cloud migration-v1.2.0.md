@@ -2,6 +2,7 @@
 title: "REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0"
 date: 2026-03-04
 author: Eldon Gabriel
+categories: [Infrastructure and Systems]
 tags: [AWS, Cloud Migration, VMware, Troubleshooting, Infrastructure]
 excerpt: "A practical troubleshooting case study on migrating VMware virtual machines to AWS EC2 and resolving kernel driver removal issues from the AWS Application Migration Service."
 image:
