@@ -58,3 +58,26 @@ article .entry-title,
 .header-title h1 {
   font-size: 28px !important;
 }
+
+/* --- SO SIMPLE THEME SPECIFIC FIXES --- */
+
+/* 1. Targets the giant header on the post page */
+.page__title,
+.post__title,
+.entry__title {
+  font-size: 24px !important;
+  margin-top: 0 !important;
+}
+
+/* 2. Targets the 'Master' header wrapper used for individual posts */
+#masthead .site-title,
+#main .page__title,
+header h1#page-title {
+  font-size: 24px !important;
+  line-height: 1.1 !important;
+}
+
+/* 3. Forces the inner heading of the post header to shrink */
+.page__header h1 {
+  font-size: 24px !important;
+}
