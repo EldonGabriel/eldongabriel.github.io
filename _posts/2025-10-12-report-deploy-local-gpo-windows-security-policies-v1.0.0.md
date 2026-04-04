@@ -2,6 +2,7 @@
 title: "REPORT – Deploy Local GPO for Windows Security Policies – v1.0.0"
 date: 2025-10-12
 author: Eldon Gabriel
+categories: [Identity Security]
 tags: [Windows, GPO, Security Hardening, Compliance, Endpoint Protection]
 excerpt: "Implementation of a comprehensive security baseline using Local Group Policy to harden Windows endpoints against common network and system-level exploits."
 image:
