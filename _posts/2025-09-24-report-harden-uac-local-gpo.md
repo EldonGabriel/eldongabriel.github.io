@@ -2,6 +2,7 @@
 title: "REPORT – Harden UAC via Local Group Policy – v1.0.0"
 date: 2025-09-24
 author: Eldon Gabriel
+categories: [Identity Security]
 tags: [Windows, UAC, GPO, Security Hardening, Privilege Management]
 excerpt: "Implementation of hardened User Account Control (UAC) settings via Local Group Policy to mitigate unauthorized privilege escalation and credential spoofing."
 image:
