@@ -8,10 +8,7 @@ image:
   path: /assets/images/banner.png
 ---
 <section style="text-align:center; margin: 80px 0;">
-  <p style="font-size:1.2em; color:#ccc; margin:5px 0 25px;">
-    Secure Infrastructure | System Hardening | GRC to Enforced Controls
-  </p>
-
+  
   <h2 style="font-size:1.8em; margin:20px 0 10px; font-weight:600; color:#fff;">
     Security Control Implementation Portfolio
   </h2>
