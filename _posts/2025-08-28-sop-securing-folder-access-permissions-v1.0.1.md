@@ -13,7 +13,7 @@ image:
 This report documents the implementation of local access permissions and rights to secure a confidential folder on a Windows system. The project successfully demonstrated the creation of structured user groups, the application of the Principle of Least Privilege (POLP) via NTFS permissions, and the enforcement of administrative restrictions through Group Policy Objects (GPOs). By restricting PowerShell access for standard users and isolating sensitive data to authorized groups, the environment achieved alignment with NIST SP 800-53 (AC-6) standards.
 
 
-# 1.0 Using Access Permissions and Rights to Secure a Folder
+# 1.0 Securing Folders With Access Permissions
 
 ## 1.1 Project Description
 The objective of this task was to secure a confidential directory by managing local users, groups, and filesystem permissions. The project aimed to prevent unauthorized data access and limit the execution of administrative tools like PowerShell for non-privileged accounts. The environment utilized a Windows-based virtual machine to validate that security controls correctly differentiated between "Finance" personnel, "Standard" users, and "Administrators," ensuring that only designated identities could interact with sensitive organizational assets.
