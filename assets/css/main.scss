@@ -8,7 +8,7 @@ sitemap: false
 @import "so-simple";
  
 /* Main post/page title */
-.page__title,
+.page__title
 .entry-title {
   font-size: 2.2rem;   /* ~35px */
   line-height: 1.2;
@@ -19,53 +19,4 @@ sitemap: false
 .archive__item-title a {
   font-size: 1.3rem;   /* ~20px */
   font-weight: 600;
-}
-
-/* Homepage hero spacing override */
-.home-hero {
-  text-align: center;
-  margin: 0px 0;
-}
-
-/* Reset default paragraph margins inside hero */
-.home-hero p {
-  margin: 0;
-}
-
-/* Subtitle and tagline spacing */
-.home-hero .subtitle {
-  font-size: 1.8em;
-  margin: 10px 0;
-  color: #aaa;
-}
-
-.home-hero .tagline {
-  font-size: 1.2em;
-  margin: 5px 0 10px;
-  color: #ccc;
-}
-
-/* Portfolio title */
-.home-hero h2 {
-  font-size: 1.8em;
-  margin: 15px 0 10px;
-  font-weight: 600;
-  color: #fff;
-}
-
-.page__inner,
-.page__content,
-.entry-content {
-  padding-top: 0 !important;
-  margin-top: 0 !important;
-}
-
-/* Divider line */
-.home-hero .divider {
-  margin-top: 20px;
-  height: 3px;
-  background: #fff;
-  width: 80px;
-  display: inline-block;
-  border-radius: 2px;
 }
