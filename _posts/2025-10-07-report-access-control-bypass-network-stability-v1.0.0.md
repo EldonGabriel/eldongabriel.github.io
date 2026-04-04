@@ -2,6 +2,7 @@
 title: "REPORT – Access Control Bypass & Network Stability – v1.0.0"
 date: 2025-10-07
 author: Eldon Gabriel
+categories: [Networking]
 tags: [Windows, RDP, GPO, Troubleshooting, Virtualization, Networking]
 excerpt: "Resolution of a multi-layered connection failure involving Domain GPO restrictions and virtual network instability in a macOS-UTM environment."
 image:
@@ -10,7 +11,9 @@ image:
 ---
 
 # 0.0 Executive Summary
-This report details the systematic identification and resolution of a complex three-step connection failure when accessing a Windows 10 virtual machine via Remote Desktop Protocol (RDP). The environment, running on UTM (macOS) in Bridged Network mode, suffered from conflicting Domain Group Policy (GPO) restrictions and virtual NIC timeouts. The resolution involved a strategic bypass of UAC-restricted administrative rights and the implementation of a bidirectional ping framework to stabilize the ARP table. The final outcome resulted in a persistent, stable remote management channel.
+This report details the systematic identification and resolution of a complex three-step connection failure when accessing a Windows 10 virtual machine via Remote Desktop Protocol (RDP). The environment, running on UTM (macOS) in Bridged Network mode, suffered from conflicting Domain Group Policy (GPO) restrictions and virtual NIC timeouts. 
+
+The resolution involved a strategic bypass of UAC-restricted administrative rights and the implementation of a bidirectional ping framework to stabilize the ARP table. The final outcome resulted in a persistent, stable remote management channel.
 
 
 # 1.0 Access Control Bypass & Network Stability
@@ -44,7 +47,9 @@ Access was restored by overriding security restrictions and establishing a manua
 
 **Validation Steps**
 1. **Security Override:** Confirmed RDP was enabled and accessible after bypassing the initial GPO-enforced UAC restrictions.
+
 2. **Network Stabilization:** Initiated simultaneous pings from host to guest and guest to host to keep the virtual NIC active.
+
 3. **Session Verification:** Successfully launched the RDP client and maintained a stable login without the NIC timing out or dropping the connection.
 
   
