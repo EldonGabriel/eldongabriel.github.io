@@ -1,6 +1,6 @@
 ---
 title: "REPORT – Kerberos Authentication Protocol – v1.0.0"
-date: 2025-09-01
+date: 2025-08-22
 author: Eldon Gabriel
 categories: [Identity Security]
 tags: [Windows, Kerberos, Authentication, Network Security, Active Directory]
