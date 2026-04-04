@@ -1,5 +1,5 @@
 ---
-title: "How I Built a Professional Cybersecurity Report Template"
+title: "GUIDE – Cybersecurity Report Template Design – v1.0.0"
 date: 2025-08-10
 author: Eldon Gabriel
 categories: [Operational Approach]
