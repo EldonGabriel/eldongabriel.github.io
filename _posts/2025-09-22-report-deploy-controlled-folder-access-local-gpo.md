@@ -2,6 +2,7 @@
 title: "REPORT – Deploy Controlled Folder Access via Local GPO – v1.0.0"
 date: 2025-09-22
 author: Eldon Gabriel
+categories: [Security Operations]
 tags: [Windows, Ransomware Defense, Endpoint Security, GPO, Windows Defender]
 excerpt: "Implementation of Windows Defender Controlled Folder Access via Local Group Policy to mitigate unauthorized filesystem modifications and ransomware risks."
 image:
