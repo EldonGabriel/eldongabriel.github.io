@@ -1,5 +1,5 @@
 ---
-title: "SOP – System Hardening Local GPO Windows Defender – v1.0.1"
+title: "SOP – Hardening Windows Defender Using Local GPO – v1.0.1"
 date: 2025-10-01
 author: Eldon Gabriel
 tags: [Windows, Security, GPO, Windows Defender, System Hardening]
@@ -14,7 +14,7 @@ This report documents the implementation of an immutable endpoint security basel
 
 ---
 
-# 1.0 System Hardening via Local GPO: Windows Defender
+# 1.0 Windows Defender GPO Hardening
 
 ## 1.1 Project Description
 The objective of this task was to secure a Windows 10 endpoint by enforcing mandatory antivirus protections that cannot be altered by regular users. The project aimed to utilize the Local Group Policy Editor to create a "security-first" configuration, focusing on service control and tamper protection. The environment utilized a controlled offline virtual machine to validate that Windows Defender remains active and non-removable, providing a consistent layer of defense against viruses, phishing, and unauthorized USB-based threats.
