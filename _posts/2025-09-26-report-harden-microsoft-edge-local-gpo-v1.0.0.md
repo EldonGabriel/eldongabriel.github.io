@@ -56,7 +56,7 @@ The browser environment was successfully stabilized under the new security const
 
 3. **Malware Interception Test:** Attempted to download a known malicious test file; the browser successfully blocked the download and prevented the user from bypassing the warning, confirming the "Prevent Bypassing" policy was functional.
 
---- 
+  
 
 # 2.0: CONCLUSION
 
