@@ -9,23 +9,26 @@ sitemap: false
  
 /* --- Custom Title Scaling Overrides --- */
 
-/* Fix for the massive post title (Image 2) */
-.entry-title {
-  font-size: 2.2rem !important; /* Shrinks the giant text in your second screenshot */
-  line-height: 1.1 !important;
-  margin-top: 0.5em !important;
-  margin-bottom: 0.5em !important;
-}
-
-/* Fix for the archive grid titles (Image 1) */
-.archive__item-title {
-  font-size: 1.1rem !important; /* Makes the grid titles more uniform */
+/* --- Tighten Grid Titles (Image 1) --- */
+.archive__item-title, 
+.archive__item h2, 
+.archive__item h3 {
+  font-size: 18px !important; 
+  line-height: 1.2 !important;
   margin-top: 10px !important;
-  margin-bottom: 5px !important;
+  font-weight: 700 !important;
 }
 
-/* Optional: Shrink the 'SOP' / 'REPORT' prefix specifically if you want */
-.entry-title strong, 
-.archive__item-title strong {
-  color: #7a8288; /* Slightly dims the prefix to make the main title pop */
+/* --- Fix Individual Post Title (Image 2) --- */
+.entry-title, 
+header h1.entry-title {
+  font-size: 32px !important; 
+  line-height: 1.1 !important;
+  margin-bottom: 20px !important;
+}
+
+/* --- Shrink the Excerpt text below titles (Optional) --- */
+.archive__item-excerpt {
+  font-size: 14px !important;
+  line-height: 1.4 !important;
 }
