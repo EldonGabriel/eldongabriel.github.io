@@ -2,6 +2,7 @@
 title: "SOP – Anonymous Access Restriction & Recon Hardening – v1.0.2"
 date: 2025-09-30
 author: Eldon Gabriel
+categories: [Security Operations]
 tags: [Windows, GPO, Hardening, Reconnaissance, Security Baselines, Cybersecurity, System Hardening]
 excerpt: "Implementation of Local Group Policy restrictions to prevent anonymous enumeration and null session reconnaissance against Windows endpoints."
 image:
