@@ -1,13 +1,13 @@
 ---
 layout: home
-title: Security Systems Specialist
+title: Eldon Gabriel
 permalink: /
 image:
   path: /assets/images/banner.png
 ---
 
 <section style="text-align:center; margin: 60px 0;">
-  <h1 style="font-size:3em; margin:0; font-weight:bold;">Eldon Gabriel</h1>
+  <h1 style="font-size:3em; margin:0; font-weight:bold;">Security Systems Specialist</h1>
   <p style="font-size:1.5em; color:#ccc;">Secure Infrastructure | System Hardening | GRC to Technical Enforcement</p>
   <div style="margin-top:20px; height:4px; background:#fff; width:100px; display:inline-block; border-radius:2px;"></div>
 </section>
