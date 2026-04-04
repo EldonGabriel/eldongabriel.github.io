@@ -1,5 +1,5 @@
 ---
-title: "Hands-On Network Fundamentals: OSI, TCP/IP, and VPNs in Practice"
+title: "GUIDE – Hands-On Network Fundamentals (OSI, TCP/IP, VPNs) – v1.0.0"
 date: 2025-08-07
 author: Eldon Gabriel
 categories: [Networking]
