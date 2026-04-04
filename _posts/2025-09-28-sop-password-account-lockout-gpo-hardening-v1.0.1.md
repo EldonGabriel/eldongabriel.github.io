@@ -10,13 +10,12 @@ image:
 ---
 
 # 0.0 Executive Summary
-This report documents the deployment of a hardened authentication baseline on a Windows 10 endpoint using Local Group Policy Objects (GPOs). The project successfully enforced password complexity, expiration, and account lockout thresholds to mitigate the risk of brute-force and dictionary attacks. 
+This report documents the deployment of a hardened authentication baseline on a Windows 10 endpoint using Local Group Policy Objects (GPOs). The project successfully enforced password complexity, expiration, and account lockout thresholds to mitigate the risk of brute-force and dictionary attacks. By disabling insecure authentication fallbacks like reversible encryption and PINs, the environment achieved alignment with CIS Benchmarks and NIST 800-53 (IA Family) standards. 
 
-By disabling insecure authentication fallbacks like reversible encryption and PINs, the environment achieved alignment with CIS Benchmarks and NIST 800-53 (IA Family) standards. The final result established a persistent security posture that prevents the use of weak credentials and restricts unauthorized login attempts.
-
+The final result established a persistent security posture that prevents the use of weak credentials and restricts unauthorized login attempts.
  
 
-# 1.0 Password & Account Lockout GPO Hardening
+# 1.0 Password & Lockout GPO Hardening
 
 ## 1.1 Project Description
 The objective of this task was to secure a Windows 10 workstation by configuring strict logon and password policies. The project aimed to utilize the Local Group Policy Editor to implement a defensive baseline that governs how users create and maintain credentials. 
