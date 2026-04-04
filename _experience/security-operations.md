@@ -21,11 +21,11 @@ These labs demonstrate hands-on experience with system hardening, secure connect
 | Category | Labs |
 |--------|------|
 | Perimeter Defense & Secure Connectivity | 3 |
-| Endpoint Hardening & Access Control | 9 |  
+| Endpoint Hardening & Access Control | 10 |  
 | Infrastructure Protection & Recovery | 1 | 
 | Threat Hunting & Malware Analysis | 1 |
 | Lab Demonstration |  8 |
-| **Total Security Operations Labs Documented** | **22** |
+| **Total Security Operations Labs Documented** | **23** |
 
 ---
 
@@ -67,11 +67,11 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Using the Windows Registry to Restrict Untrusted User Accounts</h5>
-<p>Demonstrates using Windows Registry configuration to restrict system utilities and strengthen endpoint security controls.</p>
-<p><strong>Skills:</strong> Registry Hardening · Threat Surface Reduction · OS Security</p>
+<h5>REPORT – Deploy Controlled Folder Access via Local GPO – v1.0.0</h5>
+<p>Implemented Controlled Folder Access (CFA) using Local Group Policy to restrict unauthorized applications from modifying protected directories and mitigate ransomware-based file encryption risks.</p>
+<p><strong>Skills:</strong> CFA · Endpoint Hardening · GPO Security · Ransomware Defense</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/using-the-windows-registry-to-restrict-untrusted-user-accounts/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-deploy-controlled-folder-access-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
@@ -81,29 +81,6 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 <p><strong>Skills:</strong> UAC Hardening · Privilege Management · GPO Security · Secure Desktop</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-harden-uac-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
-</p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Research on the Top Penetration Testing Tools – v1.0.0</h5>
-<p>Technical evaluation of industry-standard security tools including Nmap, Burp Suite, and Metasploit, assessing their utility in vulnerability discovery and exploitation testing.</p>
-<p><strong>Skills:</strong> Vulnerability Assessment · Penetration Testing Tools · Security Auditing</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Enterprise Security Software Types – v1.0.1</h5>
-<p>Comprehensive research into enterprise-grade defensive solutions including EDR, IAM, IDS/IPS, and the implementation of Secure Standard Operating Environments (SSOE).</p>
-<p><strong>Skills:</strong> EDR · IAM · Endpoint Protection · Defense-in-Depth</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – SMB Hardening for Credential Theft Protection – v1.0.0</h5>
-<p>Applied SMB security policies to reduce exposure to credential harvesting and lateral movement.</p>
-<p><strong>Skills:</strong> SMB Hardening · Credential Protection · Lateral Movement Mitigation</p>
-<p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-smb-hardening-credential-theft-protection-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
@@ -118,19 +95,10 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Hardening Microsoft Edge via Local GPO – v1.0.0</h5>
-<p>Implemented automated OS patching using Local Group Policy to reduce vulnerability exposure while maintaining system availability.</p>
-<p><strong>Skills:</strong> Patch Management · GPO Configuration · Endpoint Hardening · Update Policy Enforcement</p>
+<p>Hardened Microsoft Edge using Local Group Policy to reduce attack surface and enforce secure browser configurations.</p>
+<p><strong>Skills:</strong> Browser Hardening · GPO Configuration · Endpoint Security</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-harden-microsoft-edge-local-gpo-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
-</p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Monitoring Windows Processes with Procmon: A Practical Guide</h5>
-<p>Demonstrates using Microsoft Process Monitor to observe Windows system activity, analyze process behavior, and investigate interactions with the file system and registry.</p>
-<p><strong>Skills:</strong> Security Monitoring · Process Analysis · Sysinternals Diagnostics</p>
-<p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/procmon-incident-response/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
@@ -143,8 +111,52 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 </p>
 </div>
 
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – SMB Hardening for Credential Theft Protection – v1.0.0</h5>
+<p>Applied SMB security policies to reduce exposure to credential harvesting and lateral movement.</p>
+<p><strong>Skills:</strong> SMB Hardening · Credential Protection · Lateral Movement Mitigation</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-smb-hardening-credential-theft-protection-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+</p>
 </div>
 
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>Monitoring Windows Processes with Procmon: A Practical Guide</h5>
+<p>Demonstrates using Microsoft Process Monitor to observe system activity, analyze process behavior, and investigate file and registry interactions.</p>
+<p><strong>Skills:</strong> Security Monitoring · Process Analysis · Sysinternals Diagnostics</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/procmon-incident-response/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>Using the Windows Registry to Restrict Untrusted User Accounts</h5>
+<p>Demonstrates using Windows Registry configuration to restrict system utilities and strengthen endpoint security controls.</p>
+<p><strong>Skills:</strong> Registry Hardening · Threat Surface Reduction · OS Security</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/using-the-windows-registry-to-restrict-untrusted-user-accounts/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Enterprise Security Software Types – v1.0.1</h5>
+<p>Comprehensive research into enterprise defensive technologies including EDR, IAM, IDS/IPS, and secure operating environments.</p>
+<p><strong>Skills:</strong> EDR · IAM · Endpoint Protection · Defense-in-Depth</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Research on the Top Penetration Testing Tools – v1.0.0</h5>
+<p>Technical evaluation of industry-standard penetration testing tools used for vulnerability discovery and exploitation testing.</p>
+<p><strong>Skills:</strong> Vulnerability Assessment · Penetration Testing Tools · Security Auditing</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span>
+</p>
+</div>
+
+</div>
 ### 🧱 Infrastructure Protection & Recovery
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
