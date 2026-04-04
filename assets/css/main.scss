@@ -27,10 +27,30 @@ sitemap: false
   margin: 80px 0;
 }
 
-.home-hero p {
-  margin: 5px 0;
+.home-hero .subtitle {
+  font-size: 1.8em;
+  margin: 10px 0;
+  color: #aaa;
+}
+
+.home-hero .tagline {
+  font-size: 1.2em;
+  margin: 5px 0 10px;
+  color: #ccc;
 }
 
 .home-hero h2 {
+  font-size: 1.8em;
   margin: 15px 0 10px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.home-hero .divider {
+  margin-top: 20px;
+  height: 3px;
+  background: #fff;
+  width: 80px;
+  display: inline-block;
+  border-radius: 2px;
 }
