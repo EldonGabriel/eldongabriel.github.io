@@ -37,7 +37,7 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 <p><strong>Validation:</strong> Tested revised rubrics against sample technical reports to confirm consistent scoring, objective evaluation, and repeatability across different inputs.</p>
 <p><strong>Framework Alignment:</strong> Operational Approach · Quality Assurance · Process Standardization · Evaluation Consistency</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-prompt-rubric-evaluation-exercises-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-prompts-rubrics-evaluation-exercises/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
