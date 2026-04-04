@@ -21,11 +21,11 @@ These labs demonstrate hands-on experience with system hardening, secure connect
 | Category | Labs |
 |--------|------|
 | Perimeter Defense & Secure Connectivity | 3 |
-| Endpoint Hardening & Access Control | 8 |  
+| Endpoint Hardening & Access Control | 9 |  
 | Infrastructure Protection & Recovery | 1 | 
 | Threat Hunting & Malware Analysis | 1 |
 | Lab Demonstration |  8 |
-| **Total Security Operations Labs Documented** | **21** |
+| **Total Security Operations Labs Documented** | **22** |
 
 ---
 
@@ -72,6 +72,15 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 <p><strong>Skills:</strong> Registry Hardening · Threat Surface Reduction · OS Security</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/using-the-windows-registry-to-restrict-untrusted-user-accounts/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Harden UAC via Local GPO – v1.0.0</h5>
+<p>Implemented hardened User Account Control (UAC) settings using Local Group Policy to enforce credential-based elevation and secure desktop protections against privilege escalation.</p>
+<p><strong>Skills:</strong> UAC Hardening · Privilege Management · GPO Security · Secure Desktop</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-harden-uac-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
