@@ -103,14 +103,11 @@ The configuration was applied and tested to confirm that remote access worked co
 **Risk: Loss of Administrative Access**  
 Incorrect RDP settings or firewall rules can prevent administrators from accessing the system.
 
-**Mitigation:**  
-Keep clear documentation of all RDP-related configurations and user group assignments.
+**Mitigation:** Keep clear documentation of all RDP-related configurations and user group assignments.
 
-**Risk: Incorrect Network Configuration**  
-Misconfigured firewall rules or cloud network settings can block access to the system.
+**Risk: Incorrect Network Configuration** Misconfigured firewall rules or cloud network settings can block access to the system.
 
-**Mitigation:**  
-Restrict RDP access to trusted IP addresses and follow standard network segmentation practices.
+**Mitigation:** Restrict RDP access to trusted IP addresses and follow standard network segmentation practices.
 
 ### Best Practices
 
