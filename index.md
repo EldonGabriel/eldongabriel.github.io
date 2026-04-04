@@ -1,14 +1,28 @@
 ---
 layout: home
-title: Eldon Gabriel – Security Control Implementation Portfolio
+title: Eldon Gabriel 
 permalink: /
 image:
   path: /assets/images/banner.png
 ---
-<section style="text-align:center; margin: 60px 0;">
-  <h1 style="font-size:2.5em; margin:0; font-weight:bold;">Security Systems Specialist</h1>
-  <p style="font-size:1.5em; color:#ccc;">Secure Infrastructure | System Hardening | GRC to Enforced Controls</p>
-  <div style="margin-top:20px; height:4px; background:#fff; width:100px; display:inline-block; border-radius:2px;"></div>
+<section style="text-align:center; margin: 80px 0;">
+
+  <p style="font-size:1.4em; margin:10px 0; color:#aaa;">
+    Security Systems Specialist
+  </p>
+
+  <p style="font-size:1.2em; color:#ccc; margin:5px 0 25px;">
+    Secure Infrastructure | System Hardening | GRC to Enforced Controls
+  </p>
+
+  <h2 style="font-size:1.8em; margin:20px 0 10px; font-weight:600; color:#fff;">
+    Security Control Implementation Portfolio
+  </h2>
+
+  <div style="margin-top:20px; height:3px; background:#fff; width:80px; display:inline-block; border-radius:2px;"></div>
+
+</section>
+  
 </section>
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
