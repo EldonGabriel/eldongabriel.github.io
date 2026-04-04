@@ -2,6 +2,7 @@
 title: "SOP – Password & Account Lockout GPO Hardening – v1.0.1"
 date: 2025-09-28
 author: Eldon Gabriel
+categories: [Identity Security]
 tags: [Windows, GPO, Hardening, Authentication, Compliance]
 excerpt: "Implementation of mandatory password complexity and account lockout policies via Local Group Policy to defend against brute-force attacks and credential compromise."
 image:
