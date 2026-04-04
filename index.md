@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Eldon Gabriel
+title: Eldon Gabriel – Security Control Implementation Portfolio
 permalink: /
 image:
   path: /assets/images/banner.png
