@@ -2,6 +2,7 @@
 title: REPORT – AD Disaster Recovery & Identity Restoration – v1.0.2
 date: 2026-02-12
 author: Eldon Gabriel
+categories: [Identity Security]
 tags: [active-directory, windows-server, disaster-recovery, backup, identity-management]
 excerpt: "Successful restoration of an Active Directory environment using Bare-Metal Recovery (BMR) and System State restoration on Windows Server 2016."
 image:
