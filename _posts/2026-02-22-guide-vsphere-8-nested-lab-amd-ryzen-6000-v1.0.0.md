@@ -2,6 +2,7 @@
 title: "GUIDE – vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0"
 date: 2026-02-22
 author: Eldon Gabriel
+categories: [Infrastructure and Systems]
 tags: [Virtualization, VMware, AMD, Troubleshooting, Infrastructure]
 excerpt: "A technical deep-dive into enabling nested virtualization on restricted AMD mobile platforms by bypassing OEM firmware locks and Windows 11 VBS."
 image:
