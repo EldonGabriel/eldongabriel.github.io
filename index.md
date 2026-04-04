@@ -7,9 +7,7 @@ image:
 ---
 <section style="text-align:center; margin: 80px 0;">
 
-  <p style="font-size:1.4em; margin:10px 0; color:#aaa;">
-    Security Systems Specialist
-  </p>
+ <h1 style="font-size:2.5em; margin:0; font-weight:bold;">Security Systems Specialist</h1>
 
   <p style="font-size:1.2em; color:#ccc; margin:5px 0 25px;">
     Secure Infrastructure | System Hardening | GRC to Enforced Controls
