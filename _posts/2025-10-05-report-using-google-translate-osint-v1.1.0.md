@@ -2,6 +2,7 @@
 title: "REPORT – Using Google Translate for OSINT – v1.1.0"
 date: 2025-10-05
 author: Eldon Gabriel
+categories: [OSINT Investigation]
 tags: [OSINT, Google Translate, Language Analysis, Intelligence, ThreatAnalysis, Verification]
 excerpt: "Using translation tools to process and validate foreign-language data from multiple sources including articles, code, images, documents, and webpages."
 image:
@@ -10,7 +11,9 @@ image:
 ---
 
 # 0.0 Executive Summary
-This report documents the application of Google Translate as a primary tool for Open-Source Intelligence (OSINT) processing of foreign-language data. The project successfully demonstrated the translation of diverse media types, including news articles, source code comments, text embedded in images, and full documents. By implementing a cross-verification strategy—translating content into both English and a secondary target language—the investigation improved contextual accuracy and reduced the risk of misinterpretation. The final result established a rapid-response workflow for triaging foreign-language intelligence before more intensive human review.
+This report documents the application of Google Translate as a primary tool for Open-Source Intelligence (OSINT) processing of foreign-language data. The project successfully demonstrated the translation of diverse media types, including news articles, source code comments, text embedded in images, and full documents. By implementing a cross-verification strategy—translating content into both English and a secondary target language—the investigation improved contextual accuracy and reduced the risk of misinterpretation. 
+
+The final result established a rapid-response workflow for triaging foreign-language intelligence before more intensive human review.
 
  
 
@@ -45,7 +48,9 @@ Operational accuracy was finalized through multi-stage translation testing and c
 
 **Validation Steps**
 1. **Accuracy Check:** Confirmed that translated news articles and source code maintained logical consistency in both English and the secondary output language.
+
 2. **Visual Verification:** Successfully extracted and translated text from social media images, matching the results with visible visual cues.
+
 3. **Document Audit:** Verified that translated documents remained legible and accurately reflected the source material's key findings.
 
  
