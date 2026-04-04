@@ -2,6 +2,7 @@
 title: "REPORT – OSINT Email Enumeration & Validation – v1.0.1"
 date: 2025-10-17
 author: Eldon Gabriel
+categories: [OSINT Investigation]
 tags: [Cybersecurity, OSINT, EmailEnumeration, MCSI, Verification, EthicalHacking]
 excerpt: "Execution of email reconnaissance and validation techniques to identify organizational naming conventions and verify active communication channels."
 image:
