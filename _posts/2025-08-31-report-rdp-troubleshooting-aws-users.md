@@ -2,6 +2,7 @@
 title: "REPORT – RDP Troubleshooting for AWS Users – v1.0.0"
 date: 2025-08-31
 author: Eldon Gabriel
+categories: [Networking]
 tags: [AWS, Windows 10, RDP, Troubleshooting, Cloud Security]
 excerpt: "Resolution of Remote Desktop Protocol (RDP) access failures on an AWS-hosted Windows instance through group membership and policy validation."
 image:
