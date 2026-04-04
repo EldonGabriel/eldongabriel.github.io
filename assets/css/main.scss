@@ -53,6 +53,13 @@ sitemap: false
   color: #fff;
 }
 
+.page__inner,
+.page__content,
+.entry-content {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
 /* Divider line */
 .home-hero .divider {
   margin-top: 20px;
