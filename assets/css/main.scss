@@ -7,23 +7,17 @@ sitemap: false
 
 @import "so-simple";
  
-/* --- TARGETED TITLE FIX ONLY --- */
-
-/* 1. Fixes the Main Post Title (The huge one on the blog page) */
-.entry-title, 
-.page__title, 
-.post__title,
-header h1 {
-  font-size: 34px !important; /* Adjust this number to your liking */
-  line-height: 1.1 !important;
-  font-weight: 800 !important;
-  margin-top: 10px !important;
+/* Main post/page title */
+.page__title,
+.entry-title {
+  font-size: 2.2rem;
+  line-height: 1.2;
+  font-weight: 700;
+  margin-top: 0.5rem;
 }
 
-/* 2. Fixes the Grid Titles (The titles under your project images) */
-.archive__item-title, 
+/* Archive / grid titles */
 .archive__item-title a {
-  font-size: 20px !important; /* Adjust this number to your liking */
-  line-height: 1.2 !important;
-  font-weight: 700 !important;
+  font-size: 1.2rem;
+  font-weight: 600;
 }
