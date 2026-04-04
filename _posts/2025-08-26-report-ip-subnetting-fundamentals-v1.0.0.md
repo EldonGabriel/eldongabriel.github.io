@@ -126,5 +126,3 @@ Large broadcast domains make it harder to monitor traffic effectively.
 * Supports network segmentation best practices from NIST guidance (micro-segmentation concepts)
 * Aligns with ISO 27001 controls for network segregation and protection
 * Supports the NIST Cybersecurity Framework (Protect function) by limiting the impact of potential incidents through isolation
-
-This version keeps your technical intent intact while making the language easier to read, scan, and understand at a Grade 9 level without losing professionalism or clarity.
