@@ -2,6 +2,7 @@
 title: "SOP – Secure Linux Management with Cockpit – v1.0.1"
 date: 2026-01-27
 author: Eldon Gabriel
+categories: [Security Operations]
 tags: [Linux, Ubuntu, Cockpit, System Administration, Cybersecurity, SSH, UFW, Network Security, Homelab]
 excerpt: "Using Cockpit to manage and secure multiple Linux systems from a single web interface."
 image:
