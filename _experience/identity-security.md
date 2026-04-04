@@ -79,10 +79,10 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Hardening Windows 10 with Password & Account Lockout Policies</h5>
+<h5>SOP – Password & Account Lockout GPO Hardening – v1.0.1</h5>
 <p>Implemented enterprise-grade password complexity and lockout thresholds to mitigate brute-force attempts.</p>
 <p><strong>Skills:</strong> Identity Security · Password Policy</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-win10-password-account-lockout-policies/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-password-account-lockout-gpo-hardening-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
