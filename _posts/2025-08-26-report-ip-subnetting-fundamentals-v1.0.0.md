@@ -45,7 +45,8 @@ The process focused on identifying weaknesses in a default /24 network and impro
 
 * Reviewed the default flat network design and identified limited isolation between devices
 * Configured IPv4 addressing and subnet masks using CIDR ranges such as /25 to /29
-* Calculated network details including:
+
+Calculated network details including:
 
   * Network address
   * Broadcast address
