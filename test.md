@@ -7,16 +7,6 @@ image:
   path: /assets/images/banner.png
 ---
 
-## title: "How I Built a Professional Cybersecurity Report Template" 
-date: 2025-08-10 
-author: Eldon Gabriel 
-tags: [Cybersecurity, Reporting, Documentation, MCSI, Professional-Template] 
-excerpt: "Building a reusable cybersecurity report template was more than formatting—it was about credibility, clarity, and professionalism in technical communication." 
-image: 
-  path: "/assets/images/template.png" 
-  thumbnail: "/assets/images/template.png"
----
-
 In this post, I’ll walk you through how I created a professional document template as part of an exercise for the Mossé Cyber Security Institute (MCSI). This was more than just a formatting task—it was a critical step in building my credibility as a cybersecurity professional.
 
 The goal was to develop a clear, structured, and reusable template suitable for different types of cybersecurity reports—whether it’s malware analysis, incident response, or vulnerability assessments.
