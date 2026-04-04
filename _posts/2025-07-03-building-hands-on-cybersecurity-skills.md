@@ -2,219 +2,101 @@
 title: "Building Hands-On Cybersecurity Skills: From MICS to MSAF with MCSI"
 date: 2025-07-03
 author: Eldon Gabriel
+categories: [Operational Approach]
 tags: [cybersecurity, MICS, MSAF, portfolio, hands-on, training]
 excerpt: "MCSI labs provide scenario-based exercises that bridge IT fundamentals with advanced cybersecurity practices, building a portfolio of applied skills."
 image:
   path: "/assets/images/msaf.png"
   thumbnail: "/assets/images/msaf.png"
---- 
-My cybersecurity journey began with a mindset: don’t just collect theory—build skills that work in the real world.
-That’s exactly what I found when I enrolled in the **MICS – Introduction to Cyber Security** course through Mossé Cyber Security Institute. After completing **_39 practical exercises_**, I’ve officially earned:
+---
 
-### My Certifications
+Learning network basics makes cybersecurity much easier. Completing the Network Fundamentals section of the MSAF course was more than just finishing a task. It marked real progress in my training.
 
-<div class="slideshow-container">
+This module focused on hands-on labs that applied theory to real situations. These are the same skills used by cybersecurity professionals in real jobs.
 
-  <!-- Slide 1 -->
-  <div class="mySlides fade">
-    <div class="numbertext">1 / 3</div>
-    <img src="{{ '/assets/certifications/level1.png' | relative_url }}" style="width:100%">
-    <div class="text">Figure 1: Cybersecurity Learner - Level 1. 2025. www.mosse-institute.com</div>
-  </div>
+---
 
-  <!-- Slide 2 -->
-  <div class="mySlides fade">
-    <div class="numbertext">2 / 3</div>
-    <img src="{{ '/assets/certifications/level2.png' | relative_url }}" style="width:100%">
-    <div class="text">Figure 2: Cybersecurity Learner - Level 2. 2025. www.mosse-institute.com</div>
-  </div>
+### Grasping the Theoretical Underpinnings
 
-  <!-- Slide 3 -->
-  <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
-    <img src="{{ '/assets/certifications/level3.png' | relative_url }}" style="width:100%">
-    <div class="text">Figure 3: Cybersecurity Learner - Level 3. 2025. www.mosse-institute.com</div>
-  </div>
+I started by building a strong base through research on the **OSI and TCP/IP models**:
 
-</div>
+* **OSI model:** A 7-layer framework that explains how network communication works.
+* **TCP/IP model:** A 4-layer model used in real-world networking and the internet.
 
-<br>
+Understanding these layers helps with:
 
-<!-- Dots navigation -->
-<div style="text-align:center">
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-</div>
+* Finding vulnerabilities
+* Analyzing traffic
+* Applying security controls
 
-<style>
-* {box-sizing: border-box;}
-.mySlides {display: none;}
-img {vertical-align: middle;}
+Next, I studied common **network hardware** used in business environments:
 
-/* Slideshow container */
-.slideshow-container {
-  max-width: 1000px;
-  position: relative;
-  margin: auto;
-  border: 1px solid #ccc;
-}
+* **Hubs:** Send traffic to all devices, with no filtering
+* **Switches:** Send traffic only to the correct device
+* **Routers:** Connect and manage different networks
+* **Firewalls:** Control access and protect sensitive data
 
-/* Caption text */
-.text {
-  color: #000;
-  background: rgba(255, 255, 255, 0.8);
-  font-size: 14px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  text-align: center;
-}
+---
 
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #000;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
+### Putting Knowledge into Practice: Static & Dynamic Network Design
 
-/* The dots/bullets/indicators */
-.dot {
-  height: 12px;
-  width: 12px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
+To apply what I learned, I created a network design using **Draw.io** for a company with 100 employees.
 
-.active {
-  background-color: #717171;
-}
+* Built a full network layout with PCs, switches, and servers
+* Added firewalls and a DMZ for protection
+* Created proper segmentation for security
 
-/* Fading animation */
-.fade {
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
+Then I moved to a more advanced task using **Cisco Packet Tracer**. I built a dynamic network for a company with 1,000 employees.
 
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
-</style>
+---
 
-<script>
-let slideIndex = 0;
-showSlides();
+### Tasks Included
 
-function showSlides() {
-  let i;
-  let slides = document.getElementsByClassName("mySlides");
-  let dots = document.getElementsByClassName("dot");
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
-  }
-  slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1}    
-  for (i = 0; i < dots.length; i++) {
-    dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 3000); // Change image every 3 seconds
-}
-</script>
+* Building WANs, LANs, and VLANs
+* Configuring **Access Control Lists (ACLs)** and **Network Address Translation (NAT)**
+* Setting up an **IPSec VPN tunnel**
+* Troubleshooting configuration issues and command errors
 
+This lab took over **10 hours** and required strong focus and problem-solving.
 
-These certificates are more than titles—they’re earned through real labs, real tools, and real problem-solving. The MICS course helped me build foundational skills across multiple domains of cybersecurity and gave me the confidence to move into more advanced operations and system-level thinking.
+---
 
-<center><h2>What I Gained from MICS</h2></center>
+### Key Tasks Completed
 
-The MICS experience was a one-of-a-kind **realistic cyber training** program. There were no pre-written answers—just open source curriculum and hands-on trial-and-error learning. This approach helped me develop real-world practical skills in key areas like:
+* Researched **OSI and TCP/IP models** and their security impact
+* Studied enterprise **network hardware**
+* Designed a **static network diagram**
+* Built a **dynamic network in Packet Tracer**
+* Configured **LANs, VLANs, ACLs, NAT, and VPNs**
 
-### OSINT & Reconnaissance
-- Created covert accounts and mindmaps from social media data  
-- Used `dnsdumpster.com`, Shodan, and `dnstwist.py` to detect asset exposure and phishing campaigns  
+**Note:** Full lab reports and videos are available if needed.
 
-### Vulnerability & Penetration Testing
-- Performed **TCP/UDP** scans using **Nmap**  
-- Ran web app scans using **Burp Suite Spider** and **Intruder**  
-- Used **OpenVAS** to identify vulnerabilities in a virtual environment  
+---
 
-### Threat Hunting & Malware Detection
-- Built **custom YARA rules** for identifying binaries and strings  
-- Documented and tested rules to match professional standards  
+### Conclusion
 
-### Digital Forensics
-- Used **Dumpzilla** to analyze browser artifacts  
-- Performed static malware analysis using **PEStudio** 
+Reading alone is not enough for this level of work. These labs required real hands-on effort.
 
-These exercises were supported by a focus on **professional writing and technical research**, sharpening both my technical and communication skills—critical for any analyst or engineer in the field.
+I gained practical skills that apply directly to real-world environments. I also created a complete network project that can be used in my cybersecurity portfolio.
 
-<center><h2>Why I Chose to Enroll in MSAF</h2></center>
+---
 
-After earning my Level 3 certification and completing the MICS course, I knew it was time to dive deeper. That’s why I enrolled in **MSAF – System Administration Fundamentals**, a course designed to build mastery in the systems that power and secure enterprise environments.
+### Key Takeaways
 
-I’ve attached my official **Confirmation of Enrolment** from Mossé Cyber Security Institute, verifying that I’m actively enrolled and progressing through the course.
+* Built hands-on experience with real network design
+* Learned to configure **LANs, VLANs, ACLs, NAT, and VPNs**
+* Improved troubleshooting and documentation skills
+* Applied **OSI and TCP/IP theory** in real scenarios
+* Created a portfolio-ready project
 
-<figure>
-  <iframe src="{{ '/assets/certifications/msaf-confirmation-of-enrolment.pdf' | relative_url }}" 
-          width="100%" 
-          height="600px" 
-          style="border:1px solid #ccc;">
-  </iframe>
-  <figcaption style="text-align:center;">Figure 4: MSAF - Confirmation of Enrolment. 2025. www.mosse-institute.com</figcaption>
-</figure>
+---
 
-<center><h2>What MSAF Will Help Me Master</h2></center>
+### Ethical Disclosure
 
-The MSAF course goes beyond concepts—it teaches how to **build, secure, and recover real systems**. Here’s a preview of what I’m working on:
+In line with my academic pledge at Mossé Cyber Security Institute (MCSI), official course solutions are not shared.
 
-### Virtualization
-- Deploying virtual machines (VMs) in VirtualBox, VMware, GCP, and AWS  
-- Creating snapshots and restoring safe system states  
-- Installing and configuring VMware ESXi and managing via vSphere  
+This post reflects my own work and understanding. Supporting documentation is available privately for recruiters, mentors, or collaborators.
 
-### Windows & Linux Hardening
-- Creating and deploying GPOs to enforce password policies, exploit protection, UAC, and patch management  
-- Locking down user rights, folders, and remote access  
-- Securing _Windows Defender_ and configuring SMB and WinRM  
+---
 
-### Network Security & Firewalls
-- Designing network architectures in Draw.io and Cisco Packet Tracer  
-- Creating and testing firewall rules with pfSense  
-- Secure VPN tunneling and traffic filtering  
-
-### Backup & Recovery
-- Using Duplicati and Windows tools to build backup and restoration workflows  
-- Backing up and restoring Active Directory  
-- Simulating server migrations from on-prem to cloud  
-
-All of this work contributes to my **public portfolio**, showcasing not just theory—but evidence of capability.
-
-<center><h2>Why This Matters</h2></center>
-
-The cyber workforce doesn’t need more paper certs—it needs people who can **solve problems under pressure**.
-By completing MICS and enrolling in MSAF, I’m reinforcing a **portfolio-first mindset** backed by tools, techniques, and repeatable results. 
-
-From **YARA rules** to **GPO enforcement**, every step I take is documented and demonstrated for employers, collaborators, and mentors to see.
-Whether I’m threat hunting, writing policy, or hardening a Windows server, my goal is the same: **deliver real, tested value**.
-
-
-<center><h2>Final Thoughts</h2></center>
-
-MCSI’s approach to cybersecurity training is unlike anything I’ve experienced. With every lab and report, I’m building the skills that matter in the field.
-
-If you’re curious about how to level up in cybersecurity through hands-on work, feel free to connect—or check out my portfolio below.
-
-<div style="text-align:center;">
-<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
-Related Projects</h2>
-</div>
-
-<a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">Explore MCSI Portfolio</a>
+There. Clean, direct, and readable without sounding like a textbook trying to impress itself.
