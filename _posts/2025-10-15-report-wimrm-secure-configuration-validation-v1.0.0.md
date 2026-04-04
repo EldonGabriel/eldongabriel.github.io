@@ -2,6 +2,7 @@
 title: "REPORT – WinRM Secure Configuration and Validation – v1.0.0"
 date: 2025-10-15
 author: Eldon Gabriel
+categories: [Security Operations]
 tags: [Windows, WinRM, Remote Management, GPO, Cybersecurity]
 excerpt: "Implementation and validation of secure Windows Remote Management (WinRM) protocols to ensure encrypted administrative communication and prevent unauthorized access."
 image:
