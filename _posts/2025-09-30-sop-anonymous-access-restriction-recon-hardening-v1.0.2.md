@@ -19,7 +19,9 @@ By aligning the system with a hardened security baseline, the investigation veri
 # 1.0 Anonymous Access & Recon Hardening
 
 ## 1.1 Project Description
-The objective of this task was to secure a Windows 10 workstation by disabling legacy settings that allow unauthenticated users to gather information about the system. The project aimed to utilize the Local Group Policy Editor to bridge the gap between default permissive settings and a hardened security posture. The environment focused on mitigating "Null Session" vulnerabilities, ensuring that internal identifiers—such as user lists and network share names—are shielded from unauthorized external or internal reconnaissance attempts.
+The objective of this task was to secure a Windows 10 workstation by disabling legacy settings that allow unauthenticated users to gather information about the system. The project aimed to utilize the Local Group Policy Editor to bridge the gap between default permissive settings and a hardened security posture. 
+
+The environment focused on mitigating "Null Session" vulnerabilities, ensuring that internal identifiers such as user lists and network share names are shielded from unauthorized external or internal reconnaissance attempts.
  
 ## 1.2 Technical Task / Troubleshooting Process
 The process involved the systematic identification of policies that govern anonymous connections and the verification of their impact on the system registry.
