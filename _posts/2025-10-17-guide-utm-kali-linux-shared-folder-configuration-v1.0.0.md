@@ -2,6 +2,7 @@
 title: "GUIDE – UTM Kali Linux Shared Folder Configuration – v1.0.0"
 date: 2025-10-17
 author: Eldon Gabriel
+categories: [Infrastructure and Systems]
 tags: [Cybersecurity, Virtualization, Linux, UTM, SystemAdministration]
 excerpt: "Implementation of a persistent shared folder between macOS and Kali Linux using the 9p protocol within the UTM hypervisor."
 image:
