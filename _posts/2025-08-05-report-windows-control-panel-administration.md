@@ -1,6 +1,6 @@
 ---
 title: "REPORT – Windows Control Panel Administration – v1.0.0"
-date: 2025-08-16
+date: 2025-08-05
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
 tags: [Windows, Administration, Endpoint Security, Hardening, System Optimization]
