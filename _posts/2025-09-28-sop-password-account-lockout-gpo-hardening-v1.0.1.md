@@ -19,7 +19,9 @@ By disabling insecure authentication fallbacks like reversible encryption and PI
 # 1.0 Password & Account Lockout GPO Hardening
 
 ## 1.1 Project Description
-The objective of this task was to secure a Windows 10 workstation by configuring strict logon and password policies. The project aimed to utilize the Local Group Policy Editor to implement a defensive baseline that governs how users create and maintain credentials. The environment focused on protecting system access from automated attack tools, ensuring that account lockouts trigger after a set number of failed attempts and that passwords meet organizational complexity requirements to reduce the likelihood of successful credential exploitation.
+The objective of this task was to secure a Windows 10 workstation by configuring strict logon and password policies. The project aimed to utilize the Local Group Policy Editor to implement a defensive baseline that governs how users create and maintain credentials. 
+
+The environment focused on protecting system access from automated attack tools, ensuring that account lockouts trigger after a set number of failed attempts and that passwords meet organizational complexity requirements to reduce the likelihood of successful credential exploitation.
  
 ## 1.2 Technical Task / Troubleshooting Process
 The process focused on the systematic application of security settings within the Account Policies node of the Local Group Policy Editor.
