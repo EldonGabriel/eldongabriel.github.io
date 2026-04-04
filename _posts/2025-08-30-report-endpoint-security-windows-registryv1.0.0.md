@@ -43,23 +43,19 @@ The process focused on reviewing default system behavior and applying restrictio
 
 ### Key Actions & Observations
 - Reviewed default system behavior and identified that any user can run executable files  
-
 - Used the Registry Editor (regedit.exe) to apply changes  
 
 - Configured the following registry paths:
   - HKEY_CURRENT_USER (HKCU)  
   - HKEY_LOCAL_MACHINE (HKLM)  
 
-
 - Applied restrictions by:
   - Creating a `DisallowRun` key under the Explorer path  
   - Adding a list of blocked executable files  
 
-
 - Verified related components:
   - Registry Editor functionality  
   - User profile behavior and settings  
-
 
 - Documented all changes for repeatable system hardening  
 
