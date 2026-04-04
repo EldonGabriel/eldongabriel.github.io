@@ -62,10 +62,10 @@ Hands-on system administration tasks performed in Windows environments, focusing
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Hardening Windows Defender on a Single Machine with Local GPO</h5>
+<h5>SOP – Hardening Windows Defender Using Local GPO – v1.0.1</h5>
 <p>Deployed centralized configurations for Windows Defender Antivirus to ensure real-time protection.</p>
 <p><strong>Skills:</strong> Endpoint Protection · Windows Defender</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-windows-defender-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-hardening-windows-defender-using-local-gpo-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -76,10 +76,10 @@ Hands-on system administration tasks performed in Windows environments, focusing
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Deploying User Session Lock Policies on a Single Machine</h5>
+<h5>SOP – Password & Account Lockout GPO Hardening – v1.0.1</h5>
 <p>Configured automatic workstation locking to prevent unauthorized physical access to unattended systems.</p>
 <p><strong>Skills:</strong> Physical Security · Policy Enforcement</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/deploying-session-lock-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-password-account-lockout-gpo-hardening-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
