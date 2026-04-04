@@ -7,49 +7,49 @@ sitemap: false
 
 @import "so-simple";
  
-/* --- LOCKED PORTFOLIO SCALING --- */
+/* --- GLOBAL THEME OVERRIDE --- */
 
-/* 1. GRID TITLES (Image 1 & 5) - Target: 22px */
-.archive__item-title, 
-.archive__item-title a,
-h2.archive__item-title,
-.archive__item h2 {
-  font-size: 22px !important; 
-  line-height: 1.2 !important;
-  font-weight: 700 !important;
-  margin-top: 15px !important;
-  margin-bottom: 5px !important;
-  display: block !important;
-}
-
-/* 2. BLOG POST TITLE (Image 2 & 4) - Target: 38px */
-/* This forces the giant 'Webmin' titles into a readable 38px header */
+/* 1. FORCE THE GIANT BLOG POST TITLES DOWN (Image 3) */
+#main h1,
 .page__title,
 .post__title,
 .entry-title,
-.header-title h1,
-#main header h1,
-header h1#page-title {
-  font-size: 38px !important; 
+header h1,
+.header-title h1 {
+  font-size: 32px !important; /* Locked size for all main headers */
   line-height: 1.1 !important;
   font-weight: 800 !important;
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
   letter-spacing: -1px !important;
-  margin: 20px 0 !important;
 }
 
-/* 3. SECTION HEADERS (0.0 Executive Summary) - Target: 26px */
+/* 2. FORCE THE GRID TITLES DOWN (Image 1 & 2) */
+.archive__item-title, 
+.archive__item-title a,
+.archive__item h2,
+.archive__item h2 a {
+  font-size: 18px !important; /* Locked size for the grid labels */
+  line-height: 1.2 !important;
+  font-weight: 700 !important;
+  text-decoration: none !important;
+  margin-top: 10px !important;
+}
+
+/* 3. FIX THE SUB-HEADERS (e.g., 0.0 Executive Summary) */
 .entry-content h1, 
 .entry-content h2,
-#main-content h2 {
-  font-size: 26px !important;
-  font-weight: 700 !important;
-  margin-top: 1.5em !important;
+article h2 {
+  font-size: 22px !important; /* Clean, professional sub-headers */
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
 }
 
-/* 4. GRID EXCERPTS (Descriptions below titles) */
-.archive__item-excerpt,
-.archive__item-excerpt p {
-  font-size: 15px !important;
-  line-height: 1.4 !important;
-  margin-top: 5px !important;
+/* 4. SHRINK THE HEADER PADDING */
+/* This stops the title from taking up half the vertical screen */
+.page__header,
+.header-title-container,
+.intro-header {
+  padding-top: 20px !important;
+  padding-bottom: 10px !important;
 }
