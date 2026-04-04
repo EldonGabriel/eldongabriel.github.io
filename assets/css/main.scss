@@ -27,6 +27,12 @@ sitemap: false
   margin: 80px 0;
 }
 
+/* Reset default paragraph margins inside hero */
+.home-hero p {
+  margin: 0;
+}
+
+/* Subtitle and tagline spacing */
 .home-hero .subtitle {
   font-size: 1.8em;
   margin: 10px 0;
@@ -39,6 +45,7 @@ sitemap: false
   color: #ccc;
 }
 
+/* Portfolio title */
 .home-hero h2 {
   font-size: 1.8em;
   margin: 15px 0 10px;
@@ -46,6 +53,7 @@ sitemap: false
   color: #fff;
 }
 
+/* Divider line */
 .home-hero .divider {
   margin-top: 20px;
   height: 3px;
@@ -53,9 +61,4 @@ sitemap: false
   width: 80px;
   display: inline-block;
   border-radius: 2px;
-}
-
-.home-hero .subtitle,
-.home-hero .tagline {
-  text-align: center !important;
 }
