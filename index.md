@@ -9,10 +9,6 @@ image:
 ---
 <section style="text-align:center; margin: 80px 0;">
 
-  <h1 style="font-size:2.8em; margin:0; font-weight:700;">
-    {{ page.title }}
-  </h1>
-
   <p style="font-size:1.4em; margin:10px 0; color:#aaa;">
     {{ page.subtitle }}
   </p>
