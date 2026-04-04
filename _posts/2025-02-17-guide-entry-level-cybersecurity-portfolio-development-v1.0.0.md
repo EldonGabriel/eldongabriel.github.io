@@ -2,6 +2,7 @@
 title: "GUIDE – Entry-Level Cybersecurity Portfolio Development – v1.0.0"
 date: 2025-02-17
 author: Eldon Gabriel
+categories: [Operational Approach]
 tags: [cybersecurity, entry-level, portfolio]
 excerpt: "Hands-on experience is essential for cybersecurity newcomers. MCSI provides a structured, apprenticeship-style training to build applied skills and documentation expertise."
 image:
