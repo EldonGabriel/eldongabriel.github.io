@@ -1,7 +1,8 @@
 ---
 title: "REPORT – File Ownership Recovery – v1.0.0"
-date: 2025-08-31 
+date: 2025-08-31
 author: Eldon Gabriel
+categories: [Identity Security]
 tags: [Windows, NTFS, File Permissions, Registry, Security Hardening]
 excerpt: "Investigation into Windows file ownership recovery methods, confirming NTFS as the authoritative source over the Registry for permission management."
 image:
