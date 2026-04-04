@@ -2,6 +2,7 @@
 title: "REPORT – Webmin Secure Administration (Dual-Homed) – v1.1.0"
 date: 2026-01-25
 author: Eldon Gabriel
+categories: [Security Operations]
 tags: [webmin, ubuntu, network-security, system-hardening, virtualization]
 excerpt: "Securing a dual-homed Webmin administration server through PAM-based authentication, interface mapping, and IP-based firewall hardening."
 image:
