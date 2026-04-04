@@ -7,3 +7,25 @@ sitemap: false
 
 @import "so-simple";
  
+/* --- Custom Title Scaling Overrides --- */
+
+/* Fix for the massive post title (Image 2) */
+.entry-title {
+  font-size: 2.2rem !important; /* Shrinks the giant text in your second screenshot */
+  line-height: 1.1 !important;
+  margin-top: 0.5em !important;
+  margin-bottom: 0.5em !important;
+}
+
+/* Fix for the archive grid titles (Image 1) */
+.archive__item-title {
+  font-size: 1.1rem !important; /* Makes the grid titles more uniform */
+  margin-top: 10px !important;
+  margin-bottom: 5px !important;
+}
+
+/* Optional: Shrink the 'SOP' / 'REPORT' prefix specifically if you want */
+.entry-title strong, 
+.archive__item-title strong {
+  color: #7a8288; /* Slightly dims the prefix to make the main title pop */
+}
