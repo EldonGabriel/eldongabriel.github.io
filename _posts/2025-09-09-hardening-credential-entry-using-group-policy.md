@@ -6,8 +6,8 @@ categories: [Identity Security]
 tags: [Windows, GPO, Authentication, Endpoint Security, Credential Protection]
 excerpt: "Implementation of Secure Desktop and logon restrictions via Local Group Policy to reduce the risk of credential theft and keylogging attacks."
 image:
-  path: /assets/images/posts/access-control.png
-  thumbnail: /assets/images/posts/access-control.png
+  path: /assets/images/posts/windowshardening.png
+  thumbnail: /assets/images/posts/windowshardening.png
 ---
 
 # 0.0 Executive Summary
