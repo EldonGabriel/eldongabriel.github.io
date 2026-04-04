@@ -42,16 +42,20 @@ The process focused on identifying weak default settings and applying secure con
 ### Key Actions & Observations
 
 - Reviewed system settings and confirmed that SMBv1 was enabled by default  
-- Used the following tools:
+
+Used the following tools:
   - Local Group Policy Editor (gpedit.msc)  
   - Windows Features settings  
-- Applied security controls by:
+
+Applied security controls by:
   - Removing SMBv1 from the system  
-  - Enabling SMB signing for secure communication  
-- Verified supporting services:
+  - Enabling SMB signing for secure communication
+
+Verified supporting services:
   - Server service  
   - Workstation service  
-  - TCP/IP NetBIOS Helper  
+  - TCP/IP NetBIOS Helper
+
 - Documented all steps for future deployment using Group Policy  
 
 **Root Cause:**  
@@ -73,9 +77,13 @@ The SMB configuration was applied and tested to confirm secure operation.
 ### Validation Steps
 
 1. Attempted a connection using a legacy client and confirmed it was blocked  
+
 2. Verified that active SMB sessions used encryption  
+
 3. Used PowerShell (`Get-SmbConnection`) to confirm secure connections  
+
 4. Confirmed modern systems could still access shared resources  
+
 5. Checked system stability after applying changes  
 
  
