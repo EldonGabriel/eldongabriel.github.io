@@ -2,6 +2,7 @@
 title: "REPORT – Hardening Microsoft Edge via Local GPO – v1.0.0"
 date: 2025-09-26
 author: Eldon Gabriel
+categories: [Security Operations]
 tags: [Windows, GPO, Browser Security, Endpoint Hardening, Microsoft Edge]
 excerpt: "Implementation of security-focused Group Policy configurations to harden Microsoft Edge against web-based threats, unauthorized extensions, and data exfiltration."
 image:
