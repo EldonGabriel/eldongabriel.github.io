@@ -5,7 +5,6 @@ permalink: /
 image:
   path: /assets/images/banner.png
 ---
-
 <section style="text-align:center; margin: 60px 0;">
   <h1 style="font-size:2.5em; margin:0; font-weight:bold;">Security Systems Specialist</h1>
   <p style="font-size:1.5em; color:#ccc;">Secure Infrastructure | System Hardening | GRC to Technical Enforcement</p>
