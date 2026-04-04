@@ -10,7 +10,9 @@ image:
 ---
 
 # 0.0 Executive Summary
-This report documents the implementation of Local Group Policy Objects (GPOs) designed to restrict anonymous access and harden a Windows 10 system against adversary reconnaissance. The project successfully neutralized the threat of "Null Sessions" by preventing the anonymous enumeration of SAM accounts and shares. By aligning the system with a hardened security baseline, the investigation verified that unauthorized enumeration attempts no longer return sensitive system details, effectively disrupting the initial reconnaissance phase of the cyber-attack lifecycle.
+This report documents the implementation of Local Group Policy Objects (GPOs) designed to restrict anonymous access and harden a Windows 10 system against adversary reconnaissance. The project successfully neutralized the threat of "Null Sessions" by preventing the anonymous enumeration of SAM accounts and shares. 
+
+By aligning the system with a hardened security baseline, the investigation verified that unauthorized enumeration attempts no longer return sensitive system details, effectively disrupting the initial reconnaissance phase of the cyber-attack lifecycle.
 
  
 
