@@ -2,67 +2,93 @@
 title: "Hands-On Network Fundamentals: OSI, TCP/IP, and VPNs in Practice"
 date: 2025-08-07
 author: Eldon Gabriel
+categories: [Networking]
 tags: [cybersecurity, networking, fundamentals, osi, tcp-ip, vpn]
-excerpt: "Exploring OSI, TCP/IP, and practical VPN configurations through hands-on labs to build foundational cybersecurity skills."
+excerpt: "Hands-on labs covering OSI, TCP/IP, and VPN setup to build real-world networking and cybersecurity skills."
 image:
   path: "/assets/images/osi.png"
   thumbnail: "/assets/images/osi.png"
-layout: post
 ---
 
-The more you learn network fundamentals, the easier cybersecurity gets. Completing the Network Fundamentals section of the MSAF course was not just a checklist item—it was a milestone in my journey. This module involved hands-on labs that applied theory to real-world scenarios, mirroring the exact skills required by cybersecurity professionals.
+Learning network fundamentals makes cybersecurity easier. This section of the MSAF course was not just theory—it was hands-on work that built real skills used in the field.
 
-<center><h2>Grasping the Theoretical Underpinnings</h2></center>
+ 
+<center><h2>Understanding the Basics</h2></center>
 
-I began by building a strong foundation through research on the **OSI and TCP/IP models**:
+I started by learning the **OSI and TCP/IP models**:
 
-- **OSI model:** A 7-layer framework for understanding network communication.
-- **TCP/IP model:** The practical 4-layer model powering the Internet. 
+- **OSI model:** A 7-layer model that explains how data moves through a network  
+- **TCP/IP model:** A 4-layer model used in real-world networking  
 
-Understanding each layer is essential for spotting vulnerabilities, analyzing traffic, and implementing security controls.
+Understanding these models helps with:
+- Finding network issues  
+- Analyzing traffic  
+- Applying security controls  
 
-Next, I researched **common networking hardware** used in enterprise networks:
+I also studied common **network devices** used in real environments:
 
-- **Hubs:** “Dumb” devices that broadcast traffic to all ports.
-- **Switches:** Targeted traffic delivery, more efficient than hubs.
-- **Routers:** Manage traffic between networks.
-- **Firewalls:** Protect sensitive data by controlling access and segmenting networks. 
+- **Hubs:** Send data to all devices (low security)  
+- **Switches:** Send data only to the correct device  
+- **Routers:** Connect different networks  
+- **Firewalls:** Control access and protect systems  
 
-<center><h2>Putting Knowledge into Practice: Static & Dynamic Network Design</h2></center>
+ 
+<center><h2>Applying the Knowledge</h2></center>
 
-To test my knowledge, I designed a visual network with **Draw.io** for a 100-employee business. Every PC, switch, and server placement built the network; adding firewalls and a DMZ protected it. The result: a complete network diagram with secure segmentation and proper security controls.
+I designed a network for a **100-user business** using Draw.io.
 
-The final challenge involved **Cisco Packet Tracer** to create a dynamic network for a 1,000-employee organization
+This included:
+- Workstations and servers  
+- Network switches  
+- A firewall and DMZ for security  
+
+This helped me understand how network layout affects security.
+
+ 
+
+<center><h2>Building a Real Network</h2></center>
+
+Next, I used **Cisco Packet Tracer** to build a larger network for a **1,000-user organization**.
 
 ### Tasks Included
 
-- Building WANs, LANs, and VLANs.
-- Configuring **Access Control Lists (ACLs)** and **Network Address Translation (NAT)**.
-- Establishing an **IPSec VPN tunnel**, troubleshooting crypto parameters, and resolving command-line quirks.
+- Creating LANs, WANs, and VLANs  
+- Configuring ACLs and NAT  
+- Setting up an IPSec VPN  
+- Troubleshooting configuration issues  
 
-This exercise took over **10 hours** of intensive hands-on work and led me to create a troubleshooting guide for the final diagram.
+This lab took over **10 hours** and required detailed problem-solving. I also created a troubleshooting guide based on the issues I faced.
+
+ 
 
 ### Key Tasks Completed
 
-- Researched the **OSI and TCP/IP models** and cybersecurity implications.
-- Researched common **networking hardware** for enterprise networks.
-- Designed a **static network diagram** using Draw.io.
-- Built a **dynamic network** in Cisco Packet Tracer.
-- Configured **LANs, VLANs, ACLs, NAT, and IPSec VPNs**.
+- Studied OSI and TCP/IP models  
+- Learned how enterprise network devices work  
+- Designed a static network diagram  
+- Built a working network in Packet Tracer  
+- Configured VLANs, ACLs, NAT, and VPNs  
 
-**ℹ️ Note:** Full lab reports and video submissions are available upon request.
+**Note:** Full lab reports and videos are available if needed.
+
+ 
 
 <center><h2>Conclusion</h2></center>
 
-Textbook learning alone does not prepare you for advanced hands-on exercises like this. I gained practical, real-world skills and produced a complete two-part network project suitable for my cybersecurity portfolio.
+This project showed that theory alone is not enough. Hands-on work is required to understand how networks really function.
 
 ### Key Takeaways
-- Hands-on experience designing static and dynamic networks.
-- Learned to set up **LANs, VLANs, ACLs, NAT, and VPNs**.
-- Built **troubleshooting and documentation skills** under real-world conditions.
-- Applied **OSI and TCP/IP theory** directly to practical scenarios.
-- Produced a portfolio-ready two-part network project.
+
+- Built real network designs from scratch  
+- Configured core networking features like VLANs and VPNs  
+- Improved troubleshooting and documentation skills  
+- Applied theory to real-world scenarios  
+- Created a portfolio-ready project  
+
+ 
 
 <center><h2>Ethical Disclosure</h2></center>
 
-**ℹ️ Note:** In line with my academic pledge at Mossé Cyber Security Institute (MCSI), official course solutions are not published. Instead, these posts reflect my independent work and interpretation of industry-relevant skills and tools. Supporting documentation is available privately for recruiters, mentors, or collaborators.
+In line with my academic pledge at Mossé Cyber Security Institute (MCSI), official solutions are not shared.
+
+This work reflects my own understanding and practical skills. Full documentation can be provided to recruiters or mentors if needed.
