@@ -12,7 +12,7 @@ en: &DEFAULT_EN
   by: "by"
   min_read: "min read"
   read_more: "Read more&hellip;"
-  categories: "Categories"
+  categories: "Taxonomy"
   tags: "Tags"
   pages_categorized: "Pages filed under"
   pages_tagged: "Pages tagged"
