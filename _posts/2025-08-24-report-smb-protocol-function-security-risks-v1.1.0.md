@@ -1,6 +1,6 @@
 ---
 title: "REPORT – SMB Protocol: Function and Security Risks – v1.1.0"
-date: 2025-03-29
+date: 2025-08-24
 author: Eldon Gabriel
 categories: [Networking]
 tags: [Networking, SMB, Protocol Security, Hardening, Windows]
