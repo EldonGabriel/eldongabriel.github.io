@@ -3,40 +3,10 @@
 main:
   - title: Insights
     url: /
-
   - title: Experience
     url: /experience/
-
-  - title: Operational Approach
-    url: /operational-approach/
-
-  - title: Problem Solving
-    url: /problem-solving/
-
-  - title: Infrastructure & Systems
-    url: /infrastructure-systems/
-
-  - title: Networking
-    url: /networking/
-
-  - title: Security Operations
-    url: /security-operations/
-
-  - title: Governance & Risk
-    url: /governance-risk/
-
-  - title: OSINT Investigation
-    url: /osint-investigation/
-
-  - title: Operational Resilience
-    url: /operational-resilience/
-
-  - title: Identity Security
-    url: /identity-security/
-
   - title: Field Notes
     url: /posts/
-
   - title: Certifications
     url: /certifications/
 
