@@ -7,7 +7,8 @@ permalink: /
 image:
   path: /assets/images/banner.png
 ---
-<section style="text-align:center; margin: 80px 0;">
+<section class="home-hero" style="text-align:center; margin: 80px 0;">
+
   <p style="font-size:1.8em; margin:10px 0; color:#aaa;">
     {{ page.subtitle }}
   </p>
