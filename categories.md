@@ -1,7 +1,7 @@
 ---
-title: Taxonomy
+title: Categories
 layout: categories
-permalink: /taxonomy/
+permalink: /categories/
 show_excerpts: true
 entries_layout: list
 ---
