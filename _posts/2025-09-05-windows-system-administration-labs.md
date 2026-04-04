@@ -2,6 +2,7 @@
 title: "Mastering Windows System Administration: 11 Independent Labs"
 date: 2025-09-05
 author: Eldon Gabriel
+categories: [Infrastructure and Systems]
 tags: [Windows, System Administration, Cybersecurity, Labs, AWS, Virtualization]
 excerpt: "A collection of 11 hands-on labs designed to build Windows administration skills, covering maintenance, troubleshooting, security, and automation — all tested in an AWS-hosted Windows 10 VM."
 image:
