@@ -1,6 +1,6 @@
 ---
 title: Field Notes - Applied Security
-layout: categories
+layout: posts
 permalink: /posts/
 show_excerpts: true
 entries_layout: grid
