@@ -2,6 +2,7 @@
 title: "Mastering GCP: Windows 10 VM Deployment"
 date: 2025-09-06
 author: Eldon Gabriel
+categories: [Infrastructure and Systems]
 tags: [Windows, GCP, Virtualization, Cybersecurity, Cloud]
 excerpt: "An independent lab demonstrating deployment of a Windows 10 virtual machine on Google Cloud Platform, showcasing cloud virtualization, secure configuration, and system administration skills."
 image: 
