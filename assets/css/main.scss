@@ -7,49 +7,23 @@ sitemap: false
 
 @import "so-simple";
  
-/* --- GLOBAL THEME OVERRIDE --- */
+/* --- TARGETED TITLE FIX ONLY --- */
 
-/* 1. FORCE THE GIANT BLOG POST TITLES DOWN (Image 3) */
-#main h1,
-.page__title,
+/* 1. Fixes the Main Post Title (The huge one on the blog page) */
+.entry-title, 
+.page__title, 
 .post__title,
-.entry-title,
-header h1,
-.header-title h1 {
-  font-size: 32px !important; /* Locked size for all main headers */
+header h1 {
+  font-size: 34px !important; /* Adjust this number to your liking */
   line-height: 1.1 !important;
   font-weight: 800 !important;
-  margin-top: 20px !important;
-  margin-bottom: 20px !important;
-  letter-spacing: -1px !important;
-}
-
-/* 2. FORCE THE GRID TITLES DOWN (Image 1 & 2) */
-.archive__item-title, 
-.archive__item-title a,
-.archive__item h2,
-.archive__item h2 a {
-  font-size: 18px !important; /* Locked size for the grid labels */
-  line-height: 1.2 !important;
-  font-weight: 700 !important;
-  text-decoration: none !important;
   margin-top: 10px !important;
 }
 
-/* 3. FIX THE SUB-HEADERS (e.g., 0.0 Executive Summary) */
-.entry-content h1, 
-.entry-content h2,
-article h2 {
-  font-size: 22px !important; /* Clean, professional sub-headers */
-  margin-top: 30px !important;
-  margin-bottom: 10px !important;
-}
-
-/* 4. SHRINK THE HEADER PADDING */
-/* This stops the title from taking up half the vertical screen */
-.page__header,
-.header-title-container,
-.intro-header {
-  padding-top: 20px !important;
-  padding-bottom: 10px !important;
+/* 2. Fixes the Grid Titles (The titles under your project images) */
+.archive__item-title, 
+.archive__item-title a {
+  font-size: 20px !important; /* Adjust this number to your liking */
+  line-height: 1.2 !important;
+  font-weight: 700 !important;
 }
