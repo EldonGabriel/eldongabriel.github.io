@@ -10,14 +10,18 @@ image:
 ---
 
 # 0.0 Executive Summary
-This report documents the implementation of an immutable endpoint security baseline using Local Group Policy Objects (GPOs) to harden Windows Defender on a Windows 10 system. The project successfully restricted standard user access to antivirus settings, enforced advanced scanning behaviors, and prevented the service from being disabled or bypassed. By aligning with CIS Benchmarks and NIST CSF (PR.PT) standards, the environment achieved a persistent defensive state that remains effective even after system restarts and administrative refreshes.
+This report documents the implementation of an immutable endpoint security baseline using Local Group Policy Objects (GPOs) to harden Windows Defender on a Windows 10 system. The project successfully restricted standard user access to antivirus settings, enforced advanced scanning behaviors, and prevented the service from being disabled or bypassed. 
 
----
+By aligning with CIS Benchmarks and NIST CSF (PR.PT) standards, the environment achieved a persistent defensive state that remains effective even after system restarts and administrative refreshes.
+
+ 
 
 # 1.0 Windows Defender GPO Hardening
 
 ## 1.1 Project Description
-The objective of this task was to secure a Windows 10 endpoint by enforcing mandatory antivirus protections that cannot be altered by regular users. The project aimed to utilize the Local Group Policy Editor to create a "security-first" configuration, focusing on service control and tamper protection. The environment utilized a controlled offline virtual machine to validate that Windows Defender remains active and non-removable, providing a consistent layer of defense against viruses, phishing, and unauthorized USB-based threats.
+The objective of this task was to secure a Windows 10 endpoint by enforcing mandatory antivirus protections that cannot be altered by regular users. The project aimed to utilize the Local Group Policy Editor to create a "security-first" configuration, focusing on service control and tamper protection. 
+
+The environment utilized a controlled offline virtual machine to validate that Windows Defender remains active and non-removable, providing a consistent layer of defense against viruses, phishing, and unauthorized USB-based threats.
  
 ## 1.2 Technical Task / Troubleshooting Process
 The process focused on applying granular configurations across three primary categories: service control, advanced scanning, and user access restrictions.
@@ -45,10 +49,12 @@ Persistence and non-removability of the security baseline were confirmed through
 
 **Validation Steps**
 1. **User Testing:** Logged in as a regular user and attempted to modify Windows Defender settings, confirming all options were greyed out or inaccessible.
+
 2. **Persistence Audit:** Verified that settings remained active and unchanged after multiple system restarts and manual policy refreshes.
+
 3. **Behavioral Comparison:** Confirmed that the hardened system state correctly deviated from default Windows behavior as intended.
 
---- 
+  
 
 # 2.0: CONCLUSION
 
