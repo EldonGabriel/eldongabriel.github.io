@@ -2,6 +2,7 @@
 title: "SOP – Hardening Windows Defender Using Local GPO – v1.0.1"
 date: 2025-10-01
 author: Eldon Gabriel
+categories: [Security Operations]
 tags: [Windows, Security, GPO, Windows Defender, System Hardening]
 excerpt: "Implementation of an immutable endpoint security baseline using Local Group Policy to harden Windows Defender against unauthorized modification and malware."
 image:
