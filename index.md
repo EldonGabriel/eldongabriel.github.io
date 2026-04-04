@@ -8,7 +8,19 @@ image:
   path: /assets/images/banner.png
 ---
 <section style="text-align:center; margin: 80px 0;">
-  
+
+  <h1 style="font-size:2.8em; margin:0; font-weight:700;">
+    {{ page.title }}
+  </h1>
+
+  <p style="font-size:1.4em; margin:10px 0; color:#aaa;">
+    {{ page.subtitle }}
+  </p>
+
+  <p style="font-size:1.2em; color:#ccc; margin:5px 0 25px;">
+    {{ page.tagline }}
+  </p>
+
   <h2 style="font-size:1.8em; margin:20px 0 10px; font-weight:600; color:#fff;">
     Security Control Implementation Portfolio
   </h2>
