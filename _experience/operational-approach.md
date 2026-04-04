@@ -45,7 +45,7 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 <p><strong>Resolution:</strong> Enforced a hardened baseline through Group Policy to maintain real-time protection and cloud-based scanning.</p>
 <p><strong>Validation:</strong> Confirmed controls remained enforced against local administrative override attempts.</p>
 <p><strong>Framework Alignment:</strong> CIS Microsoft Windows Desktop Benchmark.</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-windows-defender-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-hardening-windows-defender-using-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
