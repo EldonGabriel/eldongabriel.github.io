@@ -2,6 +2,7 @@
 title: "REPORT – SMB Hardening for Credential Theft Protection – v1.0.0"
 date: 2025-10-13
 author: Eldon Gabriel
+categories: [Security Operations]
 tags: [Windows, SMB, Security Hardening, GPO, Credential Protection]
 excerpt: "Implementation of SMB signing, protocol deprecation, and session limits to protect against credential theft and relay attacks."
 image:
