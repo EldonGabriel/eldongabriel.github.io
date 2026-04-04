@@ -56,7 +56,7 @@ jekyll-archives:
   enabled:
     - posts
     - tags
-    # - categories
+    - categories
   layout: archive
   permalinks:
     tag: /tag/:name/
