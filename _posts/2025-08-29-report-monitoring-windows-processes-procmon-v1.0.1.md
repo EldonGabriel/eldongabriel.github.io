@@ -1,6 +1,6 @@
 ---
 title: "REPORT – Monitoring Windows Processes with Procmon – v1.0.1"
-date: 2025-09-01
+date: 2025-08-29
 author: Eldon Gabriel
 categories: [Security Operations]
 tags: [Windows, Sysinternals, Procmon, Incident Response, Monitoring]
