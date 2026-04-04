@@ -2,6 +2,7 @@
 title: "REPORT – Geolocation and Image Verification Analysis – v1.0.0"
 date: 2025-10-26
 author: Eldon Gabriel
+categories: [OSINT Investigation]
 tags: [Cybersecurity, OSINT, ReverseImageSearch, Investigation, SystemAdministration]
 excerpt: "Application of advanced reverse image search and visual analysis techniques to verify artifacts and geolocate global landmarks."
 image:
