@@ -31,7 +31,7 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>1. Prompt & Rubric Evaluation – Structured Assessment Design</h5>
+<h5>1. Prompt & Rubric Evaluation</h5>
 <p><strong>Scenario:</strong> Evaluation of technical prompts and rubrics suffering from ambiguity, inconsistent grading, and unclear success criteria.</p>
 <p><strong>Resolution:</strong> Refined prompts and rubric structures by enforcing clear objectives, measurable criteria, and single-purpose instructions to improve consistency and reduce interpretation errors.</p>
 <p><strong>Validation:</strong> Tested revised rubrics against sample technical reports to confirm consistent scoring, objective evaluation, and repeatability across different inputs.</p>
