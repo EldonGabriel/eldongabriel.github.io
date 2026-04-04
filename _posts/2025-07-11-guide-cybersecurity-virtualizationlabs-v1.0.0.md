@@ -1,5 +1,5 @@
 ---
-title: "Mastering Virtualization for Cybersecurity: Labs Across VMware, WSL, GCP & AWS"
+title: "GUIDE – Cybersecurity Virtualization Labs (VMware, WSL, GCP, AWS) – v1.0.0"
 date: 2025-07-11
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
