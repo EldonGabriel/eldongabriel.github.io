@@ -2,6 +2,7 @@
 title: "REPORT – SAR Performance Monitoring on Ubuntu – v1.0.1"
 date: 2026-01-28
 author: Eldon Gabriel
+categories: [Infrastructure and Systems]
 tags: [Linux, System Monitoring, SAR, Sysstat, Performance Analysis]
 excerpt: "Implementation and analysis of system performance monitoring on Ubuntu using the System Activity Reporter (SAR) to identify resource bottlenecks and abnormal activity."
 image:
