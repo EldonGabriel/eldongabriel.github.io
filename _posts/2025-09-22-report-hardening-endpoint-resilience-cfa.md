@@ -19,7 +19,7 @@ The final configuration enforced block-based protection on critical folders whil
 
  
 
-# 1.0 Hardening Endpoint Resilience with Controlled Folder Access (CFA)
+# 1.0 Hardening Endpoint Resilience with CFA
 
 ## 1.1 Project Description
 
