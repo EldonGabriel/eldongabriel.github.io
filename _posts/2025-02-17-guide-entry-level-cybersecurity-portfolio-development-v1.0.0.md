@@ -6,8 +6,8 @@ categories: [Operational Approach]
 tags: [cybersecurity, entry-level, portfolio]
 excerpt: "Hands-on experience is essential for cybersecurity newcomers. MCSI provides a structured, apprenticeship-style training to build applied skills and documentation expertise."
 image:
-  path: "/assets/images/george1.png"
-  thumbnail: "/assets/images/george1.png"
+  path: "/assets/images/posts/george1.png"
+  thumbnail: "/assets/images/posts/george1.png"
 ---
 
 As I continue exploring the cybersecurity field, one thing has become clear: hands-on experience is essential. While online learning and certifications build knowledge, breaking into this competitive industry requires practical, lived experience.
