@@ -6,17 +6,40 @@ permalink: /test/
 image:
   path: /assets/images/banner.png
 ---
+<div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
+  <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">System Hardening & Control Enforcement</h3>
+  <ul>
+    <li>CIS benchmark policies</li>
+    <li>Least privilege enforcement</li>
+    <li>Registry hardening</li>
+    <li>Group policy controls</li>
+    <li>IP access restrictions</li>
+  </ul>
+</div>
 
----
-title: "How I Built a Professional Cybersecurity Report Template"
-date: 2025-08-10
-author: Eldon Gabriel
-tags: [Cybersecurity, Reporting, Documentation, MCSI, Professional-Template]
-excerpt: "Building a reusable cybersecurity report template was about clarity, consistency, and professional communication."
-image:
-  path: "/assets/images/template.png"
-  thumbnail: "/assets/images/template.png"
----
+<div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
+  <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Network Security & Defense</h3>
+  <ul>
+    <li>Firewall rule enforcement</li>
+    <li>pfSense configuration</li>
+    <li>IPsec VPN troubleshooting</li>
+    <li>DNS traffic analysis</li>
+    <li>Misconfiguration identification</li>
+    <li>Access control validation</li>
+  </ul>
+</div>
+
+<div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
+  <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">GRC Implementation & Operational Resilience</h3>
+  <ul>
+    <li>NIST aligned controls</li>
+    <li>Risk register mapping</li>
+    <li>Policy enforcement</li>
+    <li>Technical safeguard implementation</li>
+    <li>Post breach remediation</li>
+    <li>Audit readiness maintenance</li>
+  </ul>
+</div>
 
 In this post, I explain how I built a professional report template during my training at the Mossé Cyber Security Institute (MCSI).
 
