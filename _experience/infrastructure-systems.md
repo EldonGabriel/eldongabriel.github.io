@@ -22,11 +22,11 @@ These labs reflect hands-on implementation across system administration, virtual
 
 | Category | Labs |
 |--------|------|
-| Windows Systems Administration | 13 |
+| Windows Systems Administration | 16 |
 | Linux Systems Administration | 5 |
-| Virtualization & Infrastructure | 5 |
+| Virtualization & Infrastructure | 8 |
 | Lab Demonstration | 33 |
-| **Total Labs Documented** | **56** |
+| **Total Labs Documented** | **62** |
 
 ---
 
@@ -61,7 +61,9 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-os-patching-enforcement-local-gpo-v.1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);"> <h5>REPORT – Windows Control Panel Administration – v1.0.0</h5> <p>Implemented execution restrictions and application whitelisting logic via Group Policy Objects.</p> <p><strong>Skills:</strong> Application Control · Threat Surface Reduction</p> <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-windows-control-panel-administration/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p> 
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);"> 
+<h5>REPORT – Windows Control Panel Administration – v1.0.0</h5> <p>Implemented execution restrictions and application whitelisting logic via Group Policy Objects.</p> <p><strong>Skills:</strong> Application Control · Threat Surface Reduction</p> 
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-windows-control-panel-administration/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p> 
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -151,9 +153,9 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-    <h5>REPORT – File Ownership Recovery – v1.0.0</h5>
-    <p>Implemented techniques to recover and reassign file ownership on Linux systems, ensuring proper access control and resolving permission-related issues affecting system operations.</p>
-    <p><strong>Skills:</strong> File System Permissions · Linux Administration · Access Control · Troubleshooting</p>
+<h5>REPORT – File Ownership Recovery – v1.0.0</h5>
+<p>Implemented techniques to recover and reassign file ownership on Linux systems, ensuring proper access control and resolving permission-related issues affecting system operations.</p>
+<p><strong>Skills:</strong> File System Permissions · Linux Administration · Access Control · Troubleshooting</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-file-ownership-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
@@ -163,14 +165,15 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <h5>REPORT – SAR Performance Monitoring on Ubuntu – v1.0.1</h5>
 <p>Utilized system activity reporting tools to monitor CPU, memory, and I/O performance on Ubuntu systems for operational diagnostics and system health analysis.</p>
 <p><strong>Skills:</strong> System Monitoring · Performance Analysis · Linux Diagnostics</p>
+<p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-sar-performance-monitoring-ubuntu-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Windows Control Panel Administration – v1.0.0</h5>
-<p>Configured and managed Windows Control Panel settings to control system behavior, user access, and administrative visibility, supporting secure system administration practices.</p>
-<p><strong>Skills:</strong> Windows Administration · System Configuration · User Access Control · Endpoint Management</p>
-<a href="https://eldongabriel.github.io/report-windows-control-panel-administration/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<h5>GUIDE – Windows System Administration Labs (11 Independent Labs) – v1.0.0</h5>
+<p>Collection of structured Windows system administration labs covering core operational tasks, system configuration, and environment management across multiple scenarios.</p>
+<p><strong>Skills:</strong> Windows Administration · System Configuration · Troubleshooting · Lab Environment Management</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-windows-system-administration-labs-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
@@ -267,7 +270,7 @@ Design and deployment of virtualized environments used to support secure system 
 <h5>GUIDE – vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0</h5>
 <p>Demonstrates the setup of a nested virtualization environment using VMware vSphere 8 on AMD Ryzen 6000 hardware, including configuration of nested ESXi hosts and lab networking.</p>
 <p><strong>Skills:</strong> Nested Virtualization · VMware vSphere · Lab Deployment · Infrastructure Configuration</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-vsphere-8-nested-lab-amd-ryzen-6000-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-vsphere-8-nested-lab-amd-ryzen-6000-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
@@ -275,7 +278,7 @@ Design and deployment of virtualized environments used to support secure system 
 <h5>GUIDE – Cybersecurity Virtualization Labs (VMware, WSL, GCP, AWS) – v1.0.0</h5>
 <p>Provides an overview of building and managing cybersecurity-focused virtualization labs across multiple platforms including VMware, WSL, GCP, and AWS for testing and learning environments.</p>
 <p><strong>Skills:</strong> Virtualization · Multi-Cloud Environments · Lab Architecture · Infrastructure Design</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-cybersecurity-virtualizationlabs-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-cybersecurity-virtualizationlabs-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a> 
 </p>
 </div> 
   
@@ -293,11 +296,14 @@ Design and deployment of virtualized environments used to support secure system 
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
-</div>
-
-### 📑  Virtualiztion & Infrastructure Guides
-
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>GUIDE – UTM Kali Linux Shared Folder Configuration – v1.0.0</h5>
+<p>Configured shared folder integration between host and Kali Linux virtual machine within UTM virtualization environment.</p>
+<p><strong>Skills:</strong> Virtualization · Linux VM Management · File Integration</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-utm-kali-linux-shared-folder-configuration-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+</div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0</h5>
@@ -307,17 +313,10 @@ Design and deployment of virtualized environments used to support secure system 
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0</h5>
-<p>Built a nested VMware vSphere 8 lab environment on AMD Ryzen hardware by bypassing firmware virtualization restrictions.</p>
-<p><strong>Skills:</strong> Virtualization · Lab Architecture · Hypervisor Deployment</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-vsphere-8-nested-lab-amd-ryzen-6000-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – UTM Kali Linux Shared Folder Configuration – v1.0.0</h5>
-<p>Configured shared folder integration between host and Kali Linux virtual machine within UTM virtualization environment.</p>
-<p><strong>Skills:</strong> Virtualization · Linux VM Management · File Integration</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-utm-kali-linux-shared-folder-configuration-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<h5>GUIDE – GCP Windows 10 VM Deployment – v1.0.0</h5>
+<p>Demonstrates deploying and configuring a Windows 10 virtual machine in Google Cloud Platform, including network setup, access configuration, and system initialization.</p>
+<p><strong>Skills:</strong> GCP · Cloud Infrastructure · VM Deployment · Remote Access Configuration</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-gcp-windows-10-vm-deployment-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 </div>
