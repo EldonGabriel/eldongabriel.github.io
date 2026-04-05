@@ -119,8 +119,8 @@ Hands-on system administration tasks performed in Windows environments, focusing
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>SOP – Password & Account Lockout GPO Hardening – v1.0.1</h5>
-<p>Configured automatic workstation locking to prevent unauthorized physical access to unattended systems.</p>
-<p><strong>Skills:</strong> Physical Security · Policy Enforcement</p>
+<p>Configured GPO to enforce password policies, account lockout thresholds, and session locking to strengthen authentication and reduce unauthorized access.</p>
+<p><strong>Skills:</strong> Password Policy · Account Lockout · Group Policy · Endpoint Hardening · Access Control</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-password-account-lockout-gpo-hardening-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
