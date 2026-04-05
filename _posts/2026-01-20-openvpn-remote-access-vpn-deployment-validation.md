@@ -2,6 +2,7 @@
 title: "REPORT – OpenVPN Remote Access VPN Deployment and Validation – v1.0.0"
 date: 2026-01-20
 author: Eldon Gabriel
+categories: [Networking]
 tags: [Networking, OpenVPN, Remote Access, Linux, Security Hardening]
 excerpt: "Deployment and validation of an OpenVPN remote access solution to provide secure encrypted tunneling for remote clients over untrusted networks."
 image:
@@ -41,12 +42,19 @@ The process focused on identifying weaknesses in default remote access methods a
 **Key Actions & Observations**
 
 * Reviewed default system behavior and identified the need for a secure tunneling protocol that supports NAT and firewall traversal.  
+
 * Configured OpenVPN server settings using Easy-RSA for PKI management.  
+
 * Created client configuration files (.ovpn) with embedded certificates and keys.  
+
 * Enforced authentication using unique client certificates instead of static passwords.  
+
 * Enabled IP forwarding and configured NAT to allow traffic to route through the VPN server.  
+
 * Verified TUN/TAP interface initialization on the server.  
+
 * Confirmed allocation of the virtual subnet (10.8.0.0/24) to connected clients.  
+
 * Documented all configuration steps to support future scaling and repeatability.  
 
 **Root Cause:** Standard internet connections do not provide encryption or identity verification for remote access. This was addressed by implementing OpenVPN with TLS-based encryption and certificate authentication.
