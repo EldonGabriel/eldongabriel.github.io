@@ -6,8 +6,8 @@ categories: [Identity Security]
 tags: [Windows, Kerberos, Authentication, Network Security, Active Directory]
 excerpt: "Implementation of Kerberos authentication to improve identity verification, ticket-based security, and access control in enterprise environments."
 image:
-  path: "/assets/images/kerberos.png"
-  thumbnail: "/assets/images/kerberos.png"
+  path: "/assets/images/posts/kerberos.png"
+  thumbnail: "/assets/images/posts/kerberos.png"
 ---
 
 # 0.0 Executive Summary
