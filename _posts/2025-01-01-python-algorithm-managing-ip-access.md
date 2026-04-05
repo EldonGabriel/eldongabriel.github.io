@@ -2,6 +2,7 @@
 title: "REPORT – Python Algorithm for Managing IP Access – v1.0.1"
 date: 2025-01-01
 author: Eldon Gabriel
+categories: [Identity Security]
 tags: [Python, Automation, Access Control, Cybersecurity, Scripting]
 excerpt: "Development of a Python-based algorithm to automate IP allow list management for scalable access control enforcement."
 image:
