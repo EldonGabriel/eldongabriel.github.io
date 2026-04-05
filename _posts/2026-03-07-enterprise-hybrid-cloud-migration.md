@@ -47,18 +47,15 @@ This process focused on identifying limitations in the local virtualization envi
 
 * Set up AWS MGN launch settings to handle hardware and driver differences during migration.
 
-
-* Applied network controls including:
+Applied network controls including:
   - NAT Gateway for controlled outbound traffic  
   - Forward and reverse DNS zones for name resolution  
 
-
 * Reduced complexity and attack surface using standardized host management configurations.
 
-* Verified supporting services:
+Verified supporting services:
   - vCenter Single Sign-On (SSO) integration  
   - GPT partitioning and EFI boot support for migrated systems  
-
 
 * Documented all steps to support repeatable migration for larger environments.
 
