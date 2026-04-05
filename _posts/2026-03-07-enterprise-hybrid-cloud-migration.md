@@ -7,7 +7,7 @@ tags: [Cloud Security, Hybrid-Cloud, VMware, AWS, Migration]
 excerpt: "Migration of enterprise workloads from VMware ESXi to AWS using AWS Application Migration Service."
 image:
   path: /assets/images/posts/enterprise-migration.png
-  thumbnail: /assets/images/enterprise-migration.png
+  thumbnail: /assets/images/posts/enterprise-migration.png
 ---
 
 # 0.0 Executive Summary
