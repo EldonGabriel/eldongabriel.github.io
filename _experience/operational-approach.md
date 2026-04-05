@@ -53,7 +53,18 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>3. System Hardening: Windows Defender GPO</h5>
+<h5>3. Access Control & NIST Alignment (Least Privilege)</h5>
+<p><strong>Scenario:</strong> Data exposure caused by permission creep and lack of enforced access controls.</p>
+<p><strong>Resolution:</strong> Mapped controls to NIST 800-53 (AC-6) and implemented Role-Based Access Control (RBAC).</p>
+<p><strong>Validation:</strong> Performed negative testing across user roles to confirm enforcement of access restrictions.</p>
+<p><strong>Framework Alignment:</strong> Principle of Least Privilege (POLP).</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/sop-access-control-incident-nist-alignment/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>4. System Hardening: Windows Defender GPO</h5>
 <p><strong>Scenario:</strong> Default AV configurations vulnerable to tampering and ransomware bypass.</p>
 <p><strong>Resolution:</strong> Enforced a hardened baseline through Group Policy to maintain real-time protection and cloud-based scanning.</p>
 <p><strong>Validation:</strong> Confirmed controls remained enforced against local administrative override attempts.</p>
@@ -63,25 +74,25 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 </p>
 </div>
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>4. Access Control & NIST Alignment (Least Privilege)</h5>
-<p><strong>Scenario:</strong> Data exposure caused by permission creep and lack of enforced access controls.</p>
-<p><strong>Resolution:</strong> Mapped controls to NIST 800-53 (AC-6) and implemented Role-Based Access Control (RBAC).</p>
-<p><strong>Validation:</strong> Performed negative testing across user roles to confirm enforcement of access restrictions.</p>
-<p><strong>Framework Alignment:</strong> Principle of Least Privilege (POLP).</p>
-<p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/access-control-incident-analysis/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
-</p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<div style="background:rgba(255255255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255255255,0.1);">
 <h5>5. RDP Troubleshooting (AWS Hybrid Cloud)</h5>
 <p><strong>Scenario:</strong> Persistent RDP failures impacting access to AWS-hosted systems.</p>
 <p><strong>Resolution:</strong> Audited AWS Security Groups, Network ACLs, and OS-level Remote Desktop configurations.</p>
 <p><strong>Validation:</strong> Identified and corrected misconfigured ingress rules, restoring secure connectivity.</p>
 <p><strong>Framework Alignment:</strong> ITIL Incident Management / NIST CSF (RS.AN).</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/rdp-troubleshooting-aws/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-rdp-troubleshooting-aws-users/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>6. Remote Access & Network Isolation (RDP + GPO + Dual-Homed)</h5>
+<p><strong>Scenario:</strong> Connectivity and authentication failures between a macOS host and a Windows 11 virtual machine due to Group Policy conflicts and improper network segmentation.</p>
+<p><strong>Resolution:</strong> Resolved conflicting Group Policy “Deny” rules, corrected Remote Desktop access permissions, and implemented a dual-homed network architecture separating management and internet traffic.</p>
+<p><strong>Validation:</strong> Confirmed successful Remote Desktop authentication from the macOS host while maintaining simultaneous internet connectivity via a bridged adapter, ensuring both isolation and usability.</p>
+<p><strong>Framework Alignment:</strong> NIST CSF (PR.AC, PR.IP) · ISO 27001 Remote Access Controls · Principle of Least Privilege</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-troubleshooting-remote-access-network-isolation-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
