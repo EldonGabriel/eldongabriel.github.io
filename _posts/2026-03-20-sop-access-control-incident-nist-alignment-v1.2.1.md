@@ -68,8 +68,10 @@ Technical safeguards were implemented to enforce access control policies and red
 
 **Risk: Unauthorized Data Exposure**
 Over-permissioned access and uncontrolled sharing mechanisms can lead to unintended disclosure of sensitive organizational data.
+
 **Mitigation:** Enforce default internal-only access, restrict external sharing to approved domains, and implement automated link expiration controls.
 
 **Risk: Audit and Compliance Gaps**
 Without regular reviews, excessive or orphaned permissions may persist and increase exposure risk.
+
 **Mitigation:** Establish recurring access reviews, focusing on sensitive datasets such as product development and customer information, and align with NIST SP 800-53 access control auditing practices.
