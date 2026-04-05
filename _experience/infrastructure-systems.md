@@ -20,6 +20,8 @@ My work focuses on applying security controls at the system level, ensuring that
 
 These labs reflect hands-on implementation across system administration, virtualization, cloud provisioning, and infrastructure security. Each environment is designed to simulate real-world conditions, where configurations are enforced, tested, and validated to ensure stability, access control, and operational resilience.
 
+### Lab Distribution Summary
+
 | Category | Labs |
 |--------|------|
 | Windows Systems Administration | 16 |
@@ -123,10 +125,10 @@ Hands-on system administration tasks performed in Windows environments, focusing
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Harden UAC via Local Group Policy – v1.0.0</h5>
+<h5>REPORT – Hardening UAC via Local Group Policy – v1.0.0</h5>
 <p>Strengthened User Account Control configuration to prevent unauthorized privilege escalation.</p>
 <p><strong>Skills:</strong> UAC Hardening · Privilege Security</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-harden-uac-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-hardening-uac-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -186,7 +188,7 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <h5>REPORT – WinRM Secure Configuration and Validation – v1.0.0</h5>
 <p>Configured and validated secure Windows Remote Management settings for administrative traffic.</p>
 <p><strong>Skills:</strong> WinRM · Secure Remote Administration</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-wimrm-secure-configuration-validation-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-winrm-secure-configuration-validation-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -200,7 +202,7 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <h5>REPORT – Kerberos Authentication Protocol – v1.0.0</h5>
 <p>Studied and documented the Kerberos authentication process, including ticket-granting mechanisms and secure authentication workflows used in Active Directory environments.</p>
 <p><strong>Skills:</strong> Authentication Protocols · Active Directory · Identity Security · Ticket-Based Authentication</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-kerberos-authetication-protocol-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-kerberos-authentication-protocol-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
