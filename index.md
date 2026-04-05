@@ -46,26 +46,40 @@ This portfolio is continuously updated as new labs, projects, and troubleshootin
   <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">What I Bring to an Organization</h2>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
     
-    <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">System Hardening & Control Enforcement</h3>
-      <p>
-        I implement enforced security controls across Windows and Linux systems to reduce attack surface and ensure least privilege at the system level. This includes CIS Benchmarks-aligned Group Policy, registry hardening, and controlled IP-based access restrictions.
-      </p>
-    </div>
+   <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
+  <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">System Hardening & Control Enforcement</h3>
+  <ul>
+    <li>CIS benchmark policies</li>
+    <li>Least privilege enforcement</li>
+    <li>Registry hardening</li>
+    <li>Group policy controls</li>
+    <li>IP access restrictions</li>
+  </ul>
+</div>
 
-    <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Network Security & Defense</h3>
-      <p>
-        I secure network environments by identifying misconfigurations, enforcing firewall rules, and validating access controls. My work includes pfSense configuration, IPsec VPN troubleshooting, and traffic and DNS analysis to detect unauthorized activity.
-      </p>
-    </div>
+<div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
+  <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Network Security & Defense</h3>
+  <ul>
+    <li>Firewall rule enforcement</li>
+    <li>pfSense configuration</li>
+    <li>IPsec VPN troubleshooting</li>
+    <li>DNS traffic analysis</li>
+    <li>Misconfiguration identification</li>
+    <li>Access control validation</li>
+  </ul>
+</div>
 
-    <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">GRC Implementation & Operational Resilience</h3>
-      <p>
-        I translate governance and risk frameworks into enforced technical safeguards. This includes NIST-aligned control implementation, risk register mapping, policy enforcement, and post-breach remediation to ensure controls remain effective and auditable.
-      </p>
-    </div>
+<div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
+  <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">GRC Implementation & Operational Resilience</h3>
+  <ul>
+    <li>NIST aligned controls</li>
+    <li>Risk register mapping</li>
+    <li>Policy enforcement</li>
+    <li>Technical safeguard implementation</li>
+    <li>Post breach remediation</li>
+    <li>Audit readiness maintenance</li>
+  </ul>
+</div>
 
   </div>
 </section>
