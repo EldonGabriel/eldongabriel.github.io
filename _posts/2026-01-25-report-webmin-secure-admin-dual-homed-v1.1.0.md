@@ -50,7 +50,9 @@ Administrative security was finalized by implementing a whitelist-only firewall 
 
 **Validation Steps**
 1. **Access Verification:** Successfully logged into the Webmin UI using PAM credentials after whitelisting the administrator's IP.
+
 2. **Firewall Test:** Confirmed that connection attempts from unauthorized IP addresses were successfully blocked at the network layer.
+
 3. **Module Check:** Verified that critical modules (Software Packages, Linux Firewall, and File Manager) were accessible and functional under the new security constraints.
 
   
@@ -67,7 +69,9 @@ Administrative security was finalized by implementing a whitelist-only firewall 
 ## 2.2 Security Implications & Recommendations
 
 **Risk: Exploitation of Known Vulnerabilities** Older versions of Webmin are susceptible to high-severity vulnerabilities like CVE-2022-36446.  
+
 **Mitigation:** Ensure the Webmin version is consistently maintained above 1.997 and regularly audit the `/etc/webmin/miniserv.conf` for unauthorized configuration changes.
 
 **Risk: Management Interface Exposure** Leaving port 10000/TCP open to the public internet invites persistent brute-force attacks and zero-day exploitation attempts.  
+
 **Mitigation:** Implement a strict "deny-all" policy for port 10000 and only allow traffic from known, trusted administrative subnets or VPN gateways.
