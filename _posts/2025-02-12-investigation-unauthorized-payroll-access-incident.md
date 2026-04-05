@@ -12,9 +12,7 @@ image:
 
 # 0.0 Executive Summary
 
-This report covers an investigation into unauthorized access to a payroll system using a former contractor account.
-
-The goal was to reduce risk by improving identity and access controls and fixing weaknesses in the account offboarding process.
+This report covers an investigation into unauthorized access to a payroll system using a former contractor account. The goal was to reduce risk by improving identity and access controls and fixing weaknesses in the account offboarding process.
 
 The issue was caused by inactive accounts remaining enabled after termination. This was addressed by enforcing automated account expiration and improving access control policies. As a result, only active and authorized users can now access payroll systems.
 
