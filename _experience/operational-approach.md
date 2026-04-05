@@ -24,7 +24,7 @@ This section outlines the operational approach I use to implement, validate, and
 
 ---
 
-## Applied Troubleshooting (Examples)
+## Applied Troubleshooting
 
 These scenarios demonstrate how I apply structured troubleshooting, control enforcement, and validation to real-world security and infrastructure problems.
 
