@@ -47,13 +47,14 @@ This process focused on identifying limitations in the local virtualization envi
 
 * Set up AWS MGN launch settings to handle hardware and driver differences during migration.
 
-Applied network controls including:
+
+* Applied network controls including:
   - NAT Gateway for controlled outbound traffic  
   - Forward and reverse DNS zones for name resolution  
 
 * Reduced complexity and attack surface using standardized host management configurations.
 
-Verified supporting services:
+* Verified supporting services:
   - vCenter Single Sign-On (SSO) integration  
   - GPT partitioning and EFI boot support for migrated systems  
 
@@ -104,10 +105,12 @@ The migration was validated by testing replicated systems and confirming success
 
 **Risk: Inconsistent Identity Management**  
 If Active Directory is not properly synchronized, access control may become fragmented and accounts may become unmanaged.  
+
 **Mitigation:** Use centralized identity management across both on-premise and cloud environments.
 
 **Risk: Data Corruption During Migration**  
 Replication issues can lead to corrupted systems or failed instances.  
+
 **Mitigation:** Perform regular test migrations to confirm data integrity before final cutover.
 
 **Best Practices**
