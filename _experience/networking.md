@@ -27,21 +27,6 @@ These labs focus on understanding network communication models, analyzing protoc
 
 ---
 
-### Networking Lab Overview
-
-I design, analyze, and secure network infrastructure to support stable and controlled enterprise environments. My work focuses on understanding how systems communicate, identifying weaknesses in network design, and implementing controls that reduce exposure and improve reliability.
-
-These labs demonstrate hands-on experience with protocol analysis, network troubleshooting, and secure architecture design. Each project applies a structured approach to diagnosing issues, validating configurations, and strengthening network security at both the perimeter and internal levels.
-
-| Category | Labs |
-|--------|------|
-| Networking Fundamentals & Protocol Analysis | 7 |
-| Network Architecture & Security | 5 |
-| Lab Demonstration | 1 |
-| **Total Networking Labs Documented** | **13** |
-
----
-
 # Networking Fundamentals & Protocol Analysis
 
 Analysis of core networking concepts and protocols to understand system communication, identify misconfigurations, and support secure data flow across enterprise environments.
