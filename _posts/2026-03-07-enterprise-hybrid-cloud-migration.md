@@ -2,6 +2,7 @@
 title: "REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0"
 date: 2026-03-07
 author: Eldon Gabriel
+categories: [Infrastructure and Systems]
 tags: [Cloud Security, Hybrid-Cloud, VMware, AWS, Migration]
 excerpt: "Migration of enterprise workloads from VMware ESXi to AWS using AWS Application Migration Service."
 image:
