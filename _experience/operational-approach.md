@@ -92,7 +92,7 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 <p><strong>Validation:</strong> Confirmed successful Remote Desktop authentication from the macOS host while maintaining simultaneous internet connectivity via a bridged adapter, ensuring both isolation and usability.</p>
 <p><strong>Framework Alignment:</strong> NIST CSF (PR.AC, PR.IP) · ISO 27001 Remote Access Controls · Principle of Least Privilege</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-troubleshooting-remote-access-network-isolation-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/troubleshooting-remote-access-network-isolation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
