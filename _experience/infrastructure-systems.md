@@ -157,8 +157,7 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <h5>REPORT – File Ownership Recovery – v1.0.0</h5>
 <p>Implemented techniques to recover and reassign file ownership on Linux systems, ensuring proper access control and resolving permission-related issues affecting system operations.</p>
 <p><strong>Skills:</strong> File System Permissions · Linux Administration · Access Control · Troubleshooting</p>
-<p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-file-ownership-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-file-ownership-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
@@ -168,13 +167,15 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <p><strong>Skills:</strong> System Monitoring · Performance Analysis · Linux Diagnostics</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-sar-performance-monitoring-ubuntu-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>GUIDE – Windows System Administration Labs (11 Independent Labs) – v1.0.0</h5>
 <p>Collection of structured Windows system administration labs covering core operational tasks, system configuration, and environment management across multiple scenarios.</p>
 <p><strong>Skills:</strong> Windows Administration · System Configuration · Troubleshooting · Lab Environment Management</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-windows-system-administration-labs-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/guide-windows-system-administration-labs-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
