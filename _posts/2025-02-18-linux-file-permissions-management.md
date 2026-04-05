@@ -2,7 +2,7 @@
 title: "REPORT – Linux File Permissions Management – v1.0.2"
 date: 2025-02-18
 author: Eldon Gabriel
-categories: [Identity Security]
+categories: [Infrastructure and Systems]
 tags: [Linux, File Permissions, Access Control, Security Hardening, Bash]
 excerpt: "Implementation of the Principle of Least Privilege (PoLP) by managing Linux file and directory permissions to protect sensitive data."
 image:
