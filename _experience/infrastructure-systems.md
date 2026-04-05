@@ -163,6 +163,7 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <h5>REPORT – SAR Performance Monitoring on Ubuntu – v1.0.1</h5>
 <p>Utilized system activity reporting tools to monitor CPU, memory, and I/O performance on Ubuntu systems for operational diagnostics and system health analysis.</p>
 <p><strong>Skills:</strong> System Monitoring · Performance Analysis · Linux Diagnostics</p>
+<a href="https://eldongabriel.github.io/report-sar-performance-monitoring-ubuntu-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
