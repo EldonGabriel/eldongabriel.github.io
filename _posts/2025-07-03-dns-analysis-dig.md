@@ -18,7 +18,7 @@ The goal was to reduce risks such as DNS spoofing, cache poisoning, and misconfi
 
 The result is a stronger understanding of DNS activity. Instead of relying only on default system settings, DNS responses were actively checked for correctness, including TTL values, query IDs, and the use of TCP and UDP.
 
----
+ 
 
 # 1.0 DNS Analysis with dig
 
@@ -34,7 +34,7 @@ The `dig` tool was used to:
 
 These steps help ensure that important services like email delivery and website access are not affected by incorrect or malicious DNS responses.
 
----
+ 
 
 ## 1.2 Technical Task / Troubleshooting Process
 
@@ -43,18 +43,24 @@ This process focused on examining how DNS queries are resolved and identifying a
 **Key Actions & Observations**
 
 * Checked which DNS resolver the system was using for domain lookups.
+
 * Performed DNS queries to gather information about root servers and domain records.
+
 * Tested recursive and non-recursive queries to understand resolver behavior.
+
 * Reviewed Query ID randomness to reduce the risk of spoofing attacks.
+
 * Tested DNS responses over both UDP and TCP to confirm reliability.
+
 * Verified support for DNSSEC where available to improve response validation.
+
 * Observed TTL values to understand how long records are cached.
+
 * Documented commands and outputs for repeatable testing and troubleshooting.
 
 **Root Cause:** Default DNS configurations do not always provide visibility into how responses are handled. This can create risks if responses are not validated or if attackers attempt to inject false data. This was addressed by actively inspecting DNS queries and responses using structured testing methods.
 
----
-
+ 
 ## 1.3 Resolution and Validation
 
 DNS behavior was reviewed and compared against expected secure patterns.
@@ -69,22 +75,28 @@ DNS behavior was reviewed and compared against expected secure patterns.
 **Validation Steps**
 
 1. Queried MX records for a domain and verified that returned mail servers matched expected values.  
+
 2. Observed that repeated queries produced different Query IDs, showing proper randomness.  
+
 3. Confirmed that large DNS responses worked correctly over TCP when UDP limits were reached.  
+
 4. Ensured the system remained stable and applications continued to function normally during testing.  
 
----
+ 
 
 # 2.0: CONCLUSION
 
 ## 2.1 Key Takeaways
 
 * DNS responses should always be verified against authoritative sources when possible.  
+
 * Using tools like `dig` helps identify issues that are not visible through normal system behavior.  
+
 * Testing both UDP and TCP ensures DNS works correctly under different conditions.  
+
 * Random Query IDs help reduce the risk of spoofing attacks.  
 
----
+ 
 
 ## 2.2 Security Implications & Recommendations
 
