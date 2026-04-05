@@ -24,11 +24,11 @@ These labs reflect hands-on implementation across system administration, virtual
 
 | Category | Labs |
 |--------|------|
-| Windows Systems Administration | 16 |
+| Windows Systems Administration | 15 |
 | Linux Systems Administration | 5 |
 | Virtualization & Infrastructure | 8 |
 | Lab Demonstration | 33 |
-| **Total Labs Documented** | **62** |
+| **Total Labs Documented** | **61** |
 
 ---
 
@@ -197,13 +197,6 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <p>Implemented SMB security controls to reduce credential exposure risks, including configuration adjustments to mitigate common credential theft techniques such as pass-the-hash and NTLM relay attacks.</p>
 <p><strong>Skills:</strong> SMB Hardening · Credential Security · Network Security · Windows Security Controls</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-smb-hardening-credential-theft-protection-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Kerberos Authentication Protocol – v1.0.0</h5>
-<p>Studied and documented the Kerberos authentication process, including ticket-granting mechanisms and secure authentication workflows used in Active Directory environments.</p>
-<p><strong>Skills:</strong> Authentication Protocols · Active Directory · Identity Security · Ticket-Based Authentication</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-kerberos-authentication-protocol-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
