@@ -18,7 +18,7 @@ The issue was caused by inactive accounts remaining enabled after termination. T
 
  
 
-# 1.0 Investigation of Unauthorized Payroll Access Incident
+# 1.0 Unauthorized Payroll Access Investigation
 
 ## 1.1 Project Description
 
