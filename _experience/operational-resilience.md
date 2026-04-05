@@ -39,11 +39,11 @@ Hands-on implementation of backup, recovery, and system restoration strategies d
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Duplicati Backup and Restore Workflow</h5>
+<h5>GUIDE – Backup and Restore Using Duplicati CLI – v1.0.1</h5>
 <p>Demonstrates secure file backup and restoration using the Duplicati CLI, including encryption and recovery validation.</p>
 <p><strong>Skills:</strong> Backup Automation · Data Encryption · Restore Testing · CLI Management</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/duplicati-backup-restore-workflow/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/guide-backup-restore-using-dulicati-cli-v1.0.1/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
 </p>
 </div>
 
