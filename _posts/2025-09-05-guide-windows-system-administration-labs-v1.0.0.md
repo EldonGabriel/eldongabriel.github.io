@@ -9,127 +9,99 @@ image:
   path: "/assets/images/11labs.png"
   thumbnail: "/assets/images/11labs.png"
 ---
-
-As part of my cybersecurity and system administration journey, I designed 11 independent labs focused on Windows 10. Each lab highlights one tool or feature and shows how it applies to real administration work. I built and tested everything inside an AWS-hosted Windows 10 VM for hands-on cloud experience.  
-
-The goal of these labs is simple: build practical skills in system maintenance, troubleshooting, and secure administration. Below is a summary of the labs with direct demo links.  
-
-<section>
-
-<h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">
-Windows Administration Demonstrations
-</h2>
-
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(350px,1fr)); gap:25px;">
-
-<!-- 1 -->
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
-<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Windows Disk Cleanup</h3>
-<p style="color:#ccc;">Freed disk space by removing temporary files and unnecessary system data.</p>
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/HeSARWF3F58" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<!-- 2 -->
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
-<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Defragment & Optimize Drives</h3>
-<p style="color:#ccc;">Optimized HDD and SSD storage to improve system responsiveness.</p>
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/G7riXJI8w4U" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<!-- 3 -->
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
-<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Task Scheduler</h3>
-<p style="color:#ccc;">Created automated tasks to reduce manual system maintenance.</p>
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/z8nXF2OleGo" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<!-- 4 -->
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
-<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Windows Defender Firewall</h3>
-<p style="color:#ccc;">Configured firewall rules and validated network access controls.</p>
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/WZtkpKxr9xE" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<!-- 5 -->
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
-<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Registry Editor</h3>
-<p style="color:#ccc;">Performed safe registry edits with backup and restoration procedures.</p>
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/g9A2faHgWWs" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<!-- 6 -->
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
-<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Event Viewer</h3>
-<p style="color:#ccc;">Analyzed Windows logs to identify warnings, errors, and system events.</p>
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/rw7QL5BgQgI" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<!-- 7 -->
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
-<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">System Information</h3>
-<p style="color:#ccc;">Collected system configuration details for auditing and troubleshooting.</p>
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/-AfFdEs_sTY" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<!-- 8 -->
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
-<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Programs and Features</h3>
-<p style="color:#ccc;">Installed and removed applications to maintain system stability.</p>
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/cQAwuYjr_b0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<!-- 9 -->
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
-<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Network and Sharing Center</h3>
-<p style="color:#ccc;">Examined network connections and performed connectivity diagnostics.</p>
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/qyRWBM-w-1s" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<!-- 10 -->
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
-<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">BitLocker Drive Encryption</h3>
-<p style="color:#ccc;">Planned encryption strategy and reviewed NTFS permission configuration.</p>
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/wlgnNwbKe3w" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<!-- 11 -->
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.15);">
-<h3 style="color:#fff; border-bottom:2px solid #fff; padding-bottom:10px;">Credential Manager</h3>
-<p style="color:#ccc;">Managed stored credentials used for authentication across Windows services.</p>
-<iframe width="100%" height="220" src="https://www.youtube.com/embed/8UPRuS-ZZ3s" frameborder="0" allowfullscreen></iframe>
-</div>
-
-</div>
-
-</section>
-
-
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Instructor Feedback</h1>
-</div>
-
-> Feedback from instructor: Excellent work on the exercise. Your work is detailed and demonstrates a clear understanding of different components of Windows Control Panel. Including video demonstrations added practical context. Keep up the great work!
-
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Why This Matters</h1>
-</div>
-
-This set of labs provides practical experience in **Windows administration, troubleshooting, and security hardening**. It ensures that skills are not just theoretical, but **tested in real-world scenarios** using a cloud-hosted Windows 10 VM.  
-
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Final Thoughts</h1>
-</div>
-
-These 11 labs give a practical look at Windows administration from the ground up. The focus is on building repeatable skills that carry over into IT operations and cybersecurity work. Each lab was built independently, recorded, and documented — proving not just theory but practice.  
-
-<div style="text-align:center;">
-  <h1 style="display:inline-block; border-bottom:3px solid #fff; padding-bottom:4px;">Related Projects</h1>
-</div>
  
-<p align="center" style="margin-top: 40px;">
-  <a href="https://eldongabriel.github.io/wcp-administration/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">Windows Control Panel Administration: Research, Labs, and Instructor Feedback</a>
-</p>
+# 0.0 Executive Summary
 
-<p align="center" style="margin-top: 40px;">
-  <a href="https://eldongabriel.github.io/cybersecurity-report-template/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">Cybersecurity Report Templates</a>
-</p>
+This report shows how Windows 10 was set up and secured across 11 different admin tasks. The goal was to reduce system problems, stop unauthorized access, and prevent data loss. This was done by applying stronger security settings and better system maintenance in an AWS virtual machine.
+
+As a result, the system became more secure and stable. Default settings were replaced with controlled and monitored configurations. Each task was tested to confirm that it worked as expected.
+
+ 
+# 1.0 Windows System Administration Labs
+
+## 1.1 Project Description
+
+The goal of this project was to set up a standard and secure system across 11 key Windows features.
+
+An AWS-hosted Windows 10 VM was used to:
+
+* Improve security by setting up BitLocker, Firewall rules, and Credential Manager
+* Block unauthorized actions by adjusting the Registry and reviewing system details
+* Increase system visibility by using Event Viewer and Task Scheduler for monitoring
+
+This approach helps protect the system from common errors and security risks by using regular maintenance and strong control settings.
+
+ 
+
+## 1.2 Technical Task / Troubleshooting Process
+
+The process focused on finding weak default settings in Windows and replacing them with stronger controls.
+
+**Key Actions & Observations**
+
+* **Storage & Performance:** Cleaned up disk space and ran defragmentation to improve speed
+* **Automation & Logging:** Used Task Scheduler to automate tasks and Event Viewer to check system logs
+* **Network & Security:** Reviewed Firewall rules and explored BitLocker to protect stored data
+* **Configuration Management:** Made safe Registry changes and managed installed programs
+* **Identity Management:** Used Credential Manager to secure saved login details
+
+**Root Cause:** Default Windows settings focus on ease of use, not security. This was fixed by applying stronger admin controls based on best practices.
+
+ 
+## 1.3 Resolution and Validation (Demonstrations)
+
+The system was secured and improved across all 11 lab areas. Each task was tested and confirmed.
+
+| Lab Module                 | Technical Objective      | Result       |
+| :------------------------- | :----------------------- | :----------- |
+| **1. Disk Cleanup**        | Remove junk files        | **Verified** |
+| **2. Defragmentation**     | Improve disk performance | **Verified** |
+| **3. Task Scheduler**      | Automate tasks           | **Verified** |
+| **4. Defender Firewall**   | Control network access   | **Verified** |
+| **5. Registry Editor**     | Make safe system changes | **Verified** |
+| **6. Event Viewer**        | Review system logs       | **Verified** |
+| **7. System Info**         | Collect system data      | **Verified** |
+| **8. Programs/Features**   | Manage applications      | **Verified** |
+| **9. Network Sharing**     | Fix connection issues    | **Verified** |
+| **10. BitLocker**          | Encrypt data             | **Verified** |
+| **11. Credential Manager** | Secure login data        | **Verified** |
+
+ 
+# 2.0: CONCLUSION
+
+## 2.1 Key Takeaways
+
+* Regular maintenance like disk cleanup and defrag helps keep systems running smoothly
+* Event Viewer and Task Scheduler improve system monitoring and response
+* Security features like Firewall, BitLocker, and Credential Manager must be set up manually
+* Instructor feedback confirmed the work meets professional standards
+
+ 
+
+## 2.2 Security Implications & Recommendations
+
+**Risk: Unauthorized Data Access**
+Unencrypted drives and saved credentials can expose sensitive data.
+
+**Mitigation:**
+Enable BitLocker and regularly review Credential Manager for unused or suspicious entries.
+
+**Risk: Lateral Movement**
+Weak firewall settings can allow attackers to move across systems.
+
+**Mitigation:**
+Set strict inbound and outbound rules in Windows Defender Firewall.
+
+
+**Best Practices**
+
+* Use least privilege when editing the Registry or removing programs
+* Apply settings using Group Policy for better control at scale
+* Check Event Viewer regularly for warnings and critical errors
+* Document all changes for tracking and compliance
+
+**Framework Alignment**
+
+* Supports NIST CSF **PR.IP** by ensuring systems are maintained and documented
+* Supports **PR.AC** by controlling user access and network traffic
+* Supports **PR.MA** by improving system performance and reliability
