@@ -43,12 +43,19 @@ This process focused on finding the cause of the DNS outage and confirming wheth
 **Key Actions & Observations**
 
 * Tested DNS resolution for the target domain and found that the A record could not be resolved.
+
 * Monitored network traffic to observe DNS queries and responses.
+
 * Checked UDP port 53 to confirm whether the DNS server was responding.
+
 * Monitored ICMP traffic for error messages.
+
 * Applied checks against the DNS server at IP `203.0.113.2`.
+
 * Identified ICMP Type 3, Code 3 messages, which indicate that the destination port is unreachable.
+
 * Verified that the issue was not caused by client-side misconfiguration.
+
 * Documented all test steps to allow repeatable troubleshooting in future incidents.
 
 **Root Cause:** The DNS server on the target IP was not responding on UDP port 53. This caused DNS queries to fail. The system also returned ICMP “Port Unreachable” messages, confirming that the service was offline or not functioning correctly. This issue was addressed by improving monitoring and ensuring redundancy in DNS infrastructure.
@@ -85,8 +92,11 @@ The issue was analyzed and validated using network tools and observed behavior f
 ## 2.1 Key Takeaways
 
 * DNS failures can stop all related services from being accessible.  
+
 * Monitoring port-level activity helps detect issues faster than waiting for user reports.  
+
 * ICMP error messages provide useful information for identifying network and service problems.  
+
 * Redundant DNS servers are necessary to prevent single points of failure.  
 
  
@@ -95,10 +105,12 @@ The issue was analyzed and validated using network tools and observed behavior f
 
 **Risk: Denial of Service (Service Failure)**  
 If the DNS server is unavailable, users cannot access websites or services that depend on it.  
+
 **Mitigation:** Use multiple DNS servers in different locations to ensure availability.
 
 **Risk: Lack of Monitoring**  
 If DNS service failures are not detected quickly, outages may last longer than necessary.  
+
 **Mitigation:** Set up real-time monitoring and alerts for port 53 availability and ICMP error responses.
 
 **Best Practices**
