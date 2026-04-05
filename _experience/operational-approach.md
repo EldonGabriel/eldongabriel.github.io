@@ -74,7 +74,7 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 </p>
 </div>
 
-<div style="background:rgba(255255255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255255255,0.1);">
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255255255,0.1);">
 <h5>5. RDP Troubleshooting (AWS Hybrid Cloud)</h5>
 <p><strong>Scenario:</strong> Persistent RDP failures impacting access to AWS-hosted systems.</p>
 <p><strong>Resolution:</strong> Audited AWS Security Groups, Network ACLs, and OS-level Remote Desktop configurations.</p>
