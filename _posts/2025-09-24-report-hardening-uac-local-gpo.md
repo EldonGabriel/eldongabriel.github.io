@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Harden UAC via Local Group Policy – v1.0.0"
+title: "REPORT – Hardening UAC via Local Group Policy – v1.0.0"
 date: 2025-09-24
 author: Eldon Gabriel
 categories: [Identity Security]
