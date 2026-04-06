@@ -41,17 +41,18 @@ The investigation focused on the power delivery system since software logs did n
 
 - Reviewed system behavior and found that shutdowns occurred during heavy read and write operations on newly installed hard drives.
 
-- Performed tests in the physical environment:
+Performed tests in the physical environment:
   - Estimated total system power usage and compared it to the PSU capacity.
   - Ran stress tests using high disk activity to simulate peak load.
 
-- Applied hardware improvements:
+Applied hardware improvements:
   - Replaced the 300W PSU with a 650W 80 Plus Gold PSU.
   - Ensured the new PSU included protection features such as Over-Current Protection (OCP).
 
-- Checked supporting hardware:
+Checked supporting hardware:
   - Verified SATA power connections were secure.
   - Monitored system stability under continuous load.
+
 
 - Documented the setup to support future hardware planning and repeatability.
 
