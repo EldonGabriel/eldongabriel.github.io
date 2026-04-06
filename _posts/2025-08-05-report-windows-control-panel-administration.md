@@ -6,8 +6,8 @@ categories: [Infrastructure and Systems]
 tags: [Windows, Administration, Endpoint Security, Hardening, System Optimization]
 excerpt: "Implementation of system maintenance and security settings using Windows Control Panel tools to improve stability and protect data."
 image:
-  path: "/assets/images/windowsos.png"
-  thumbnail: "/assets/images/windowsos.png"
+  path: "/assets/images/posts/windowsos.png"
+  thumbnail: "/assets/images/posts/windowsos.png"
   layout: post
 ---
 
