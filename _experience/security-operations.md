@@ -23,11 +23,11 @@ These labs demonstrate hands-on experience with system hardening, secure connect
 | Category | Labs |
 |--------|------|
 | Perimeter Defense & Secure Connectivity | 3 |
-| Endpoint Hardening & Access Control | 10 |  
+| Endpoint Hardening & Access Control | 9 |  
 | Infrastructure Protection & Recovery | 1 | 
 | Threat Hunting & Malware Analysis | 1 |
 | Lab Demonstration |  8 |
-| **Total Security Operations Labs Documented** | **23** |
+| **Total Security Operations Labs Documented** | **21** |
 
 ---
 
@@ -40,26 +40,30 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Secure Connectivity: Architecting Enterprise IPsec VPNs</h5>
+<h5>REPORT – Enterprise IPsec VPN Diagnostics – v1.0.0</h5>
 <p>Demonstrates building and validating a site-to-site IPsec VPN between enterprise locations to secure data in transit over untrusted networks.</p>
 <p><strong>Skills:</strong> IPsec VPN · IKE · ACLs · NAT Exemption · Network Security · CLI Troubleshooting</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/architecting-enterprise-ipsec-vpns/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-enterprise-ipsec-vpn-dianogstics-v1.0.0/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
 </p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Perimeter Defense: Firewall Fundamentals – v1.0.0</h5>
+<h5>REPORT – pfSense IDS Traffic Monitoring and EternalBlue Detection – v1.0.0</h5>
 <p>Overview of firewall technologies and their role in enforcing network perimeter security.</p>
 <p><strong>Skills:</strong> Network Security · Perimeter Defense · Firewall Policy</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/pfsense-ids-traffic-monitoring/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – OpenVPN Remote Access Deployment and Validation – v1.0.0</h5>
 <p>Deployment and validation of an OpenVPN remote access solution to provide secure connectivity for remote systems.</p>
 <p><strong>Skills:</strong> VPN Deployment · Encryption · Secure Remote Access</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/openvpn-remote-access-vpn-deployment-validation/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
+</p>
 </div>
 
 </div>
@@ -78,11 +82,11 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Harden UAC via Local GPO – v1.0.0</h5>
+<h5>REPORT – Hardening UAC via Local Group Policy – v1.0.0</h5>
 <p>Implemented hardened User Account Control (UAC) settings using Local Group Policy to enforce credential-based elevation and secure desktop protections against privilege escalation.</p>
 <p><strong>Skills:</strong> UAC Hardening · Privilege Management · GPO Security · Secure Desktop</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-harden-uac-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-hardening-uac-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
@@ -105,11 +109,11 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Applying Local GPO for Session Lock Enforcement</h5>
+<h5>REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0</h5>
 <p>Configured session lock policies using Local Group Policy to automatically secure idle systems and reduce unauthorized access risk.</p>
 <p><strong>Skills:</strong> GPO Configuration · Endpoint Hardening · Access Control Enforcement</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/deploying-session-lock-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-gpo-applying-local-gpo-session-lock-enforcement-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
@@ -123,11 +127,11 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Using the Windows Registry to Restrict Untrusted User Accounts</h5>
+<h5>REPORT – Endpoint Security with Windows Registry – v1.0.0</h5>
 <p>Demonstrates using Windows Registry configuration to restrict system utilities and strengthen endpoint security controls.</p>
 <p><strong>Skills:</strong> Registry Hardening · Threat Surface Reduction · OS Security</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/using-the-windows-registry-to-restrict-untrusted-user-accounts/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-endpoint-security-windows-registry/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
@@ -155,11 +159,11 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Active Directory Disaster Recovery & Identity Restoration</h5>
+<h5>REPORT – AD Disaster Recovery & Identity Restoration – v1.0.2</h5>
 <p>Simulates a full Domain Controller failure and demonstrates how to restore an Active Directory environment using Bare Metal Recovery (BMR) on Windows Server 2016.</p>
 <p><strong>Skills:</strong> Active Directory Recovery · BMR · DSRM · System State Restore · Disaster Recovery Validation</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/active-directory-bare-metal-recovery/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-ad-disaster-recovery-identity-restoration-v1.0.2/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
 </p>
 </div>
 
