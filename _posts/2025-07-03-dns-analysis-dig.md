@@ -3,7 +3,7 @@ title: "REPORT – DNS Analysis with dig – v1.0.1"
 date: 2025-07-03
 author: Eldon Gabriel
 categories: [Networking]
-tags: [Networking, DNS, Troubleshooting, Linux, Security Auditing]
+tags: [DNS, dig, Protocol Analysis, CLI, Diagnostics]
 excerpt: "DNS analysis using the dig tool to check resolver behavior, record types, and basic DNS security."
 image:
   path: /assets/images/posts/dig.png
