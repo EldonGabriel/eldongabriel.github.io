@@ -88,10 +88,10 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>File Ownership Recovery in Windows</h5>
+<h5>REPORT – File Ownership Recovery – v1.0.0</h5>
 <p>Recovered NTFS file ownership and restored proper permission controls on secured systems.</p>
 <p><strong>Skills:</strong> NTFS Permissions · Access Recovery</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/file-ownership-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-file-ownership-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 </div>
