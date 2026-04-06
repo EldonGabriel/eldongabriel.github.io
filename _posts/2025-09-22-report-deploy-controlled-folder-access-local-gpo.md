@@ -6,7 +6,7 @@ categories: [Security Operations]
 tags: [Windows, Ransomware Defense, Endpoint Security, GPO, Windows Defender]
 excerpt: "Implementation of Windows Defender Controlled Folder Access via Local Group Policy to mitigate unauthorized filesystem modifications and ransomware risks."
 image:
-  path: "assets/images/posts/CFA.png"
+  path: "assets/images/posts/CFA.png" 
   thumbnail: "assets/images/posts/CFA.png" 
 ---
 
