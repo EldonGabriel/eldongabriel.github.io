@@ -159,9 +159,9 @@ Restricted: Request Access
 <p>Examination of common network-based attack techniques and the infrastructure weaknesses they exploit.</p>
 <p><strong>Skills:</strong> Threat Analysis · Network Attack Surface · Defensive Architecture</p>
 <p align="center" style="margin-top:20px;">
-<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Restricted: Request Access
-</span>
+<a href="https://eldongabriel.github.io/network-attack-analysis/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Field Notes</a>
+</p>
 </p>
 </div>
 
