@@ -18,11 +18,12 @@ Modern organizations rely on resilient infrastructure to maintain operations dur
 
 The work demonstrated here includes backup implementation, disaster recovery validation, and business continuity planning performed in controlled lab environments and real-world troubleshooting scenarios.
 
+### Lab Distribution Summary
+
 | Category | Labs |
 |--------|------|
-| Data Protection & Recovery | 1 |
+| Data Protection & Recovery | 2 |
 | Resilience & Recovery Planning | 1 |
-| Infrastructure Recovery & Restoration | 1 |
 | Backup, Recovery & Migration | 4 |
 | **Total Operational Resilience Labs Documented** | **7** |
 
@@ -47,6 +48,14 @@ Hands-on implementation of backup, recovery, and system restoration strategies d
 </p>
 </div>
 
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – SecureStack Solutions – Backup, Recovery, and Restoration (BRR) Plan – v1.0.0</h5>
+<p>Business continuity and disaster recovery plan outlining backup strategy, restoration procedures, and operational continuity controls.</p>
+<p><strong>Skills:</strong> DR Planning · Business Continuity · Risk Mitigation</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span>
+</p>
+</div>
 </div>
 
 ---
@@ -56,11 +65,11 @@ Hands-on implementation of backup, recovery, and system restoration strategies d
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – SecureStack Solutions – Backup, Recovery, and Restoration (BRR) Plan – v1.0.0</h5>
-<p>Business continuity and disaster recovery plan outlining backup strategy, restoration procedures, and operational continuity controls.</p>
-<p><strong>Skills:</strong> DR Planning · Business Continuity · Risk Mitigation</p>
+<h5>REPORT – Post-Breach Security Recommendations – v1.0.1</h5>
+<p>Implementation of layered security controls following a data breach, focusing on strengthening identity management, credential security, and network defenses.</p>
+<p><strong>Skills:</strong> Identity Security · MFA Enforcement · Firewall Hardening · SIEM Monitoring · Incident Response</p>
 <p align="center" style="margin-top:20px;">
-<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span>
+<a href="https://eldongabriel.github.io/post-breach-security-recommendations/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
 </p>
 </div>
 
