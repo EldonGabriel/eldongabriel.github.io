@@ -1,5 +1,5 @@
 ---
-title: Field Notes: Security Reports & SOPs
+title: Security Reports & SOPs
 layout: categories
 permalink: /posts/
 show_excerpts: true
