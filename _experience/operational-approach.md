@@ -96,6 +96,19 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 </p>
 </div>
 
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>7. Physical Layer RCA: Workstation Power Failure</h5>
+<p><strong>Scenario:</strong> Spontaneous "hard" shutdowns on a database workstation following a storage expansion, with no OS-level error logging.</p>
+<p><strong>Resolution:</strong> Conducted a TDP (Thermal Design Power) audit and identified a wattage deficit. Replaced the legacy 300W PSU with a 600W unit to support increased SATA drive draw.</p>
+<p><strong>Validation:</strong> Performed a 72-hour stress test under maximum I/O load to verify stability during peak power-draw windows.</p>
+<p><strong>Framework Alignment:</strong> Physical Layer Diagnostics · Infrastructure Lifecycle Management · NIST CSF (PR.DS-4)</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-workstation-power-failure-investigation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+</p>
+</div>
+
+</div>
+
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
