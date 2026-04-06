@@ -6,8 +6,8 @@ categories: [Security Operations]
 tags: [Windows, Registry, Endpoint Security, Hardening, System Administration]
 excerpt: "Implementation of registry-level restrictions to disallow unauthorized executable runs and harden the Windows OS against common user-mode threats."
 image:
-  path: "/assets/images/registry.png"
-  thumbnail: "/assets/images/registry.png"
+  path: "/assets/images/posts/registry.png"
+  thumbnail: "/assets/images/posts/registry.png"
 ---
  
 # 0.0 Executive Summary
