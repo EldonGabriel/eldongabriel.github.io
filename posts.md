@@ -1,5 +1,5 @@
 ---
-title: Field Notes - Applied Security
+title: Field Notes – Security Reports & SOPs
 layout: categories
 permalink: /posts/
 show_excerpts: true
@@ -8,5 +8,4 @@ image:
   path: /assets/images/fnlogo.png
 ---
 
-<p align="center"><em>Hands-on security projects applying controls, investigating issues, and validating real-world system behavior.</em></p>
- 
+<p align="center"><em>A structured collection of security reports, standard operating procedures, and technical investigations demonstrating applied cybersecurity skills across real-world scenarios.</em></p>
