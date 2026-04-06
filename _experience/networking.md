@@ -99,9 +99,8 @@ Restricted: Request Access
 <p>Using the dig command-line tool to investigate DNS records, query responses, and domain resolution behavior.</p>
 <p><strong>Skills:</strong> DNS Diagnostics · CLI Network Analysis</p>
 <p align="center" style="margin-top:20px;">
-<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Restricted: Request Access
-</span>
+<a href="https://eldongabriel.github.io/dns-analysis-dig/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Field Notes</a>
 </p>
 </div>
 
