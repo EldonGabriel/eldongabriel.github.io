@@ -2,7 +2,7 @@
 title: "REPORT – GPO Hardening for Windows Application Control – v1.0.0"
 date: 2025-09-07
 author: Eldon Gabriel
-categories: [Infrastructure and Systems, Security Operations]
+categories: [Infrastructure and Systems]
 tags: [Windows, GPO, Application Control, Endpoint Security, Compliance]
 excerpt: "Implementation of Group Policy restrictions to prevent unauthorized software installation and harden Windows endpoints against malicious downloads."
 image:
