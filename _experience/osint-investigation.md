@@ -18,6 +18,8 @@ Hands-on investigative exercises focused on collecting, validating, and analyzin
 
 These labs demonstrate practical intelligence workflows such as data collection, correlation, and verification to support investigative analysis and threat intelligence development.
 
+### Lab Distribution Summary
+
 | Category | Labs |
 |--------|------|
 | OSINT Research & Investigations | 6 |
