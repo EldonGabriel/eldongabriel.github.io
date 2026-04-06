@@ -1,7 +1,8 @@
  ---
 title: "REPORT – Workstation Power Failure Investigation – v1.0.0"
-date: 2026-04-04
+date: 2026-04-06
 author: Eldon Gabriel
+categories: [Infrastructure and Systems]
 tags: [Hardware, Troubleshooting, Power Supply, Physical Security, Availability]
 excerpt: "Investigation of sudden workstation shutdowns at a law firm, identifying and remediating a physical layer failure caused by insufficient power supply capacity."
 image:
