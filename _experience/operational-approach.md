@@ -96,16 +96,27 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 </p>
 </div>
 
-</div>
-
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h2>Technical Stack</h2>
+
 <p><strong>Virtualization:</strong> VMware, VirtualBox, AWS EC2, GCP</p>
-<p><strong>Defensive Tools:</strong> pfSense, OpenVPN, Windows Defender, GPO Baselines</p>
-<p><strong>Diagnostics:</strong> Procmon, SAR (Linux), Wireshark, Event Viewer</p>
+
+<p><strong>Defensive Tools:</strong> pfSense, OpenVPN, Windows Defender, GPO Baselines, OpenVAS</p>
+
+<p><strong>Diagnostics & Network Analysis:</strong> Procmon, SAR (Linux), Wireshark, Event Viewer, Nmap, sslscan, Fierce</p>
+
+<p><strong>Penetration Testing:</strong> Burp Suite (Spider, Intruder)</p>
+
+<p><strong>Recon & OSINT:</strong> dnsdumpster.com, shodan.io, dnstwist.py, urlscan.io, Google Dorking, Bing</p>
+
+<p><strong>Threat Hunting & Forensics:</strong> YARA, Dumpzilla, PE Studio</p>
+
+<p><strong>Research & Analysis:</strong> Elicit.org, MITRE ATT&CK, Cyber Kill Chain</p>
+
 <p><strong>Documentation:</strong> 100+ structured reports using a Layer → Device → Root Cause framework.</p>
+
 </div>
 
 </div>
