@@ -6,8 +6,8 @@ categories: [Networking]
 tags: [Networking, Subnetting, IPv4, Security Hardening, Network Segmentation] 
 excerpt: "Implementation of structured IP subnetting to enable network segmentation, reducing the attack surface and improving access control."
 image:
-  path: "/assets/images/subnetting.png"
-  thumbnail: "/assets/images/subnetting.png"
+  path: "/assets/images/posts/subnetting.png"
+  thumbnail: "/assets/images/posts/subnetting.png"
 ---
 
 ## 0.0 Executive Summary
