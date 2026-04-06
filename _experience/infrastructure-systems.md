@@ -26,8 +26,9 @@ These labs reflect hands-on implementation across system administration, virtual
 |--------|------|
 | Windows Systems Administration | 15 |
 | Linux Systems Administration | 5 |
-| Virtualization & Infrastructure | 8 |
-| Lab Demonstration | 33 |
+| Virtualization & Infrastructure | 8 | 
+| IT Support & Hardware Troubleshooting | 1 |
+| Lab Demonstrations | 33 |
 | **Total Labs Documented** | **61** |
 
 ---
@@ -152,14 +153,6 @@ Hands-on system administration tasks performed in Windows environments, focusing
 ### 🛠️ Infrastructure Operations & Diagnostics
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Workstation Power Failure Investigation – v1.0.0</h5>
-<p>Diagnosed and resolved hardware instability caused by insufficient power supply capacity following system upgrades.</p>
-<p><strong>Skills:</strong> Hardware Diagnostics · Power Load Calculation · Root Cause Analysis (RCA) · Data Integrity</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-workstation-power-failure-investigation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
-</p>
-</div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – File Ownership Recovery – v1.0.0</h5>
@@ -318,6 +311,21 @@ Design and deployment of virtualized environments used to support secure system 
 <p>Demonstrates deploying and configuring a Windows 10 virtual machine in Google Cloud Platform, including network setup, access configuration, and system initialization.</p>
 <p><strong>Skills:</strong> GCP · Cloud Infrastructure · VM Deployment · Remote Access Configuration</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-gcp-windows-10-vm-deployment-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+</div>
+
+</div>
+
+### 🔌 IT Support & Hardware Troubleshooting
+Focused on physical layer diagnostics, hardware lifecycle management, and resolving critical system failures that impact availability.
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Workstation Power Failure Investigation – v1.0.0</h5>
+<p>Diagnosed and resolved hardware instability caused by insufficient power supply capacity following system upgrades.</p>
+<p><strong>Skills:</strong> Hardware Diagnostics · Power Load Calculation · Root Cause Analysis (RCA) · Data Integrity</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-workstation-power-failure-investigation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+</p>
 </div>
 
 </div>
