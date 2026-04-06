@@ -6,8 +6,8 @@ categories: [Infrastructure and Systems]
 tags: [Windows, System Administration, Cybersecurity, Labs, AWS, Virtualization]
 excerpt: "A collection of 11 hands-on labs designed to build Windows administration skills, covering maintenance, troubleshooting, security, and automation — all tested in an AWS-hosted Windows 10 VM."
 image:
-  path: "/assets/images/11labs.png"
-  thumbnail: "/assets/images/11labs.png"
+  path: "/assets/images/posts/11labs.png"
+  thumbnail: "/assets/images/posts/11labs.png"
 ---
  
 # 0.0 Executive Summary
