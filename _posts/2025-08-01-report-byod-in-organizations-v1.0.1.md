@@ -6,8 +6,8 @@ categories: [Governance and Risk]
 tags: [Security Policy, BYOD, Mobile Security, Risk Management, Network Hardening]
 excerpt: "Analysis of BYOD risks and the use of security controls to protect corporate data on personal devices."
 image:
-  path: "/assets/images/byod.png"
-  thumbnail: "/assets/images/byod.png"
+  path: "/assets/images/posts/byod.png"
+  thumbnail: "/assets/images/posts/byod.png"
 ---
 
 # 0.0 Executive Summary
