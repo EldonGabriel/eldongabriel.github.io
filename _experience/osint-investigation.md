@@ -61,59 +61,28 @@ These labs demonstrate practical intelligence workflows such as data collection,
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>OSINT – X (Twitter) Mind Map – v.1.0.0</h5>
-<p>Mapping publicly accessible data points that can be collected from user profiles and activity on the X platform.</p>
-<p><strong>Skills:</strong> Social Media Mapping · Profile Analysis · SOCMINT</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>OSINT – Telegram Mind Map – v.1.0.0</h5>
-<p>Identifying and documenting investigative data points available through Telegram communities and public channels.</p>
-<p><strong>Skills:</strong> Messaging App OSINT · Community Investigation</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>OSINT – Reddit Mind Map – v.1.0.0</h5>
-<p>Mapping investigative artifacts and intelligence opportunities present within Reddit communities and user activity.</p>
-<p><strong>Skills:</strong> Forum Analysis · Metadata Extraction · Digital Footprinting</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>OSINT – LinkedIn Mind Map – v.1.0.0</h5>
-<p>Documenting professional intelligence indicators and publicly available data accessible through LinkedIn profiles.</p>
-<p><strong>Skills:</strong> Corporate Intelligence · Professional Profile Analysis</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>OSINT – Instagram Mind Map – v.1.0.0</h5>
-<p>Mapping investigative data points and metadata accessible through public Instagram profiles.</p>
-<p><strong>Skills:</strong> Visual Intelligence · Asset Mapping · Metadata</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>OSINT – Facebook Mind Map – v.1.0.0</h5>
-<p>Identifying open-source intelligence artifacts available through Facebook profiles and social interactions.</p>
-<p><strong>Skills:</strong> Social Interaction Mapping · Digital Footprinting</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>OSINT – Discord Mind Map – v.1.0.0</h5>
-<p>Documenting potential investigative intelligence sources within Discord servers and user activity.</p>
-<p><strong>Skills:</strong> Volatile Platform OSINT · Infrastructure Mapping</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>TEMPLATE – OSINT Investigation Corroborated Intelligence – v.1.0.0</h5>
 <p>Structured investigation template used to document and validate intelligence findings from multiple sources.</p>
 <p><strong>Skills:</strong> Intelligence Corroboration · Professional Reporting</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h4>OSINT Mind Maps (X, Telegram, Reddit, LinkedIn, Instagram, Facebook, Discord)</h4>
+<p>Mapping investigative data points across major social and communication platforms to support open-source intelligence (OSINT) analysis and digital footprinting.</p>
+<ul style="margin-top:15px; padding-left:18px; line-height:1.6;">
+    <li><strong>X (Twitter):</strong> Social Media Mapping · Profile Analysis · SOCMINT</li>
+    <li><strong>Telegram:</strong> Messaging App OSINT · Community Investigation</li>
+    <li><strong>Reddit:</strong> Forum Analysis · Metadata Extraction · Digital Footprinting</li>
+    <li><strong>LinkedIn:</strong> Corporate Intelligence · Professional Profile Analysis</li>
+    <li><strong>Instagram:</strong> Visual Intelligence · Asset Mapping · Metadata</li>
+    <li><strong>Facebook:</strong> Social Interaction Mapping · Digital Footprinting</li>
+    <li><strong>Discord:</strong> Volatile Platform OSINT · Infrastructure Mapping</li>
+</ul>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span>
+</p>
+
 </div>
 
 </div>
