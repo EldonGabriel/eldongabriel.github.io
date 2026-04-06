@@ -56,7 +56,7 @@ View Field Notes</a>
 <p><strong>Skills:</strong> Network Diagnostics · Troubleshooting Methodology</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Private / Available on Request
+Restricted: Request Access
 </span>
 </p>
 </div>
@@ -67,7 +67,7 @@ Private / Available on Request
 <p><strong>Skills:</strong> Network Infrastructure · Device-Layer Relationships</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Private / Available on Request
+Restricted: Request Access
 </span>
 </p>
 </div>
@@ -78,7 +78,7 @@ Private / Available on Request
 <p><strong>Skills:</strong> Architecture Analysis · Security Layer Mapping</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Private / Available on Request
+Restricted: Request Access
 </span>
 </p>
 </div>
@@ -89,7 +89,7 @@ Private / Available on Request
 <p><strong>Skills:</strong> OSI Model · Network Protocols · Traffic Analysis · Protocol Security</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Private / Available on Request
+Restricted: Request Access
 </span>
 </p>
 </div>
@@ -100,7 +100,7 @@ Private / Available on Request
 <p><strong>Skills:</strong> DNS Diagnostics · CLI Network Analysis</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Private / Available on Request
+Restricted: Request Access
 </span>
 </p>
 </div>
@@ -139,7 +139,7 @@ View Field Notes
 <p><strong>Skills:</strong> Enterprise Design · VPN Architecture · Segmentation</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Private / Available on Request
+Restricted: Request Access
 </span>
 </p>
 </div>
@@ -150,7 +150,7 @@ Private / Available on Request
 <p><strong>Skills:</strong> Topology Planning · Infrastructure Documentation</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Private / Available on Request
+Restricted: Request Access
 </span>
 </p>
 </div>
@@ -161,7 +161,7 @@ Private / Available on Request
 <p><strong>Skills:</strong> Threat Analysis · Network Attack Surface · Defensive Architecture</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Private / Available on Request
+Restricted: Request Access
 </span>
 </p>
 </div>
@@ -172,7 +172,7 @@ Private / Available on Request
 <p><strong>Skills:</strong> Infrastructure Config · Active Directory Networking</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Private / Available on Request
+Restricted: Request Access
 </span>
 </p>
 </div>
