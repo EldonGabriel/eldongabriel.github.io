@@ -6,8 +6,8 @@ categories: [Networking]
 tags: [Networking, SMB, Protocol Security, Hardening, Windows]
 excerpt: "Analysis of the Server Message Block (SMB) protocol, its vulnerabilities, and security improvements for modern networks."
 image:
-  path: "/assets/images/smb.png"
-  thumbnail: "/assets/images/smb.png"
+  path: "/assets/images/posts/smb.png"
+  thumbnail: "/assets/images/posts/smb.png"
 ---
  
 # 0.0 Executive Summary
