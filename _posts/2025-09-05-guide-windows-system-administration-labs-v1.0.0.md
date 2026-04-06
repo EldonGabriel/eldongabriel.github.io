@@ -1,5 +1,5 @@
 ---
-title: "GUIDE – Windows System Administration Labs (11 Independent Labs) – v1.0.0"
+title: "GUIDE – Windows System Administration Labs (11 Modules) – v1.0.0"
 date: 2025-09-05
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
