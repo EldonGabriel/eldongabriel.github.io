@@ -8,4 +8,4 @@ image:
   path: /assets/images/fnlogo.png
 ---
 
-<p align="center"><em>A structured collection of security reports, standard operating procedures, and technical investigations demonstrating applied cybersecurity skills across real-world scenarios.</em></p>
+<p align="center">A structured collection of security reports, standard operating procedures, and technical investigations demonstrating applied cybersecurity skills across real-world scenarios.</p>
