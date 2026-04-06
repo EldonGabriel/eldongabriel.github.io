@@ -6,8 +6,8 @@ categories: [Networking]
 tags: [cybersecurity, networking, fundamentals, osi, tcp-ip, vpn]
 excerpt: "Hands-on labs covering OSI, TCP/IP, and VPN setup to build real-world networking and cybersecurity skills."
 image:
-  path: "/assets/images/osi.png"
-  thumbnail: "/assets/images/osi.png"
+  path: "/assets/images/posts/osi.png"
+  thumbnail: "/assets/images/posts/osi.png"
 ---
 
 Learning network fundamentals makes cybersecurity easier. This section of the MSAF course was not just theory—it was hands-on work that built real skills used in the field.
