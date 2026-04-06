@@ -20,6 +20,8 @@ The labs and guides in this section demonstrate hands-on experience implementing
 
 These exercises highlight how administrators enforce access restrictions, protect credentials, and monitor systems to detect unauthorized access and privilege misuse.
 
+### Lab Distribution Summary
+
 | Category | Labs |
 |--------|------|
 | Identity & Access Management | 7 |
@@ -47,19 +49,19 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>How Password Managers Strengthen Security and Simplify Credential Management</h5>
+<h5>REPORT – Password Managers – v1.0.0</h5>
 <p>Technical analysis of password manager technologies and their role in protecting user credentials through encrypted storage and zero-knowledge security models.</p>
 <p><strong>Skills:</strong> Identity Security · Credential Management · Authentication Controls</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/Password-Managers-Secure-Login/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-password-managers-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
 </p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Hardening Windows Security with GPO</h5>
+<h5>REPORT – Deploy Local GPO for Windows Security Policies – v1.0.0</h5>
 <p>Configured secure credential entry protections through Windows security policy controls.</p>
 <p><strong>Skills:</strong> Credential Protection · GPO Security</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/hardening-windows-security/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-deploy-local-gpo-windows-security-policies-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
