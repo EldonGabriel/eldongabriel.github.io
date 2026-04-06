@@ -6,8 +6,8 @@ categories: [Operational Approach]
 tags: [cybersecurity, MICS, MSAF, portfolio, hands-on, training]
 excerpt: "MCSI labs provide scenario-based exercises that bridge IT fundamentals with advanced cybersecurity practices, building a portfolio of applied skills."
 image:
-  path: "/assets/images/msaf.png"
-  thumbnail: "/assets/images/msaf.png"
+  path: "/assets/images/posts/msaf.png"
+  thumbnail: "/assets/images/posts/msaf.png"
 ---
 
 Learning network basics makes cybersecurity much easier. Completing the Network Fundamentals section of the MSAF course was more than just finishing a task. It marked real progress in my training.
