@@ -1,4 +1,4 @@
- ---
+---
 title: "REPORT – Workstation Power Failure Investigation – v1.0.0"
 date: 2026-04-06
 author: Eldon Gabriel
