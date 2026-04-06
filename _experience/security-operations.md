@@ -26,8 +26,9 @@ These labs demonstrate hands-on experience with system hardening, secure connect
 | Endpoint Hardening & Access Control | 9 |  
 | Infrastructure Protection & Recovery | 1 | 
 | Threat Hunting & Malware Analysis | 1 |
-| Lab Demonstration |  8 |
-| **Total Security Operations Labs Documented** | **21** |
+| Incident Response & Monitoring | 1 |
+| Lab Demonstrations |  8 |
+| **Total Security Operations Labs Documented** | **23** |
 
 ---
 
