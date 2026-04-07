@@ -30,16 +30,16 @@ image:
 I implement practical security controls that harden enterprise systems, investigate operational issues, and reduce organizational risk. As an <strong>ISC² Certified Cybersecurity Professional (CC)</strong> with <strong>100+ documented technical labs and reports</strong>, my work focuses on securing real IT environments through repeatable system administration and defensive security practices.
 </p>
 
-<p style="font-size:1.2em; line-height:1.6;">
-My portfolio follows a <strong>Proof of Work methodology</strong>, where every security concept is demonstrated through hands-on implementation and documented technical analysis. These projects include system hardening, network security configuration, incident troubleshooting, and infrastructure protection using industry-aligned security frameworks.
+<p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
+My portfolio follows a <strong>Proof of Work methodology</strong>, where each security concept is validated through hands-on implementation and documented technical analysis. Projects include system hardening, network security configuration, incident troubleshooting, and infrastructure protection aligned with industry security frameworks.
+</p>
+
+<p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
+The goal is simple: convert security theory into <strong>measurable, defensible controls</strong> that operate effectively in real-world environments.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6;">
-The goal is simple: convert security theory into <strong>operational controls that are measurable, defensible, and ready for real-world environments</strong>.
-</p>
-
-<p style="font-size:1.2em; line-height:1.6;">
-This portfolio is continuously updated as new labs, projects, and troubleshooting scenarios are completed. It serves as a working reference of applied security practices, documenting both implementation and problem resolution across systems, networks, and security operations.
+This portfolio is continuously updated with new labs, projects, and troubleshooting scenarios. It serves as a working reference of applied security practices, covering both implementation and problem resolution across systems, networks, and security operations.
 </p>
 
 <section style="margin: 60px 0;">
