@@ -1,5 +1,5 @@
 ---
-title: Applied Security Experience
+title: Security Portfolio
 layout: collection
 permalink: /experience/
 collection: experience
