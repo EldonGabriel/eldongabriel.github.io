@@ -7,12 +7,12 @@ collection_item: true
 order: 5
 image:
   path: /assets/images/headers/packt-lsbsa.png
-  thumbnail: /assets/images/headers/packt-lsbsa.png
+  thumbnail: /assets/images/headers/packtlsbsa.png
   caption: "Mastering Linux for Modern IT Environments"
 ---
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/assets/certifications/lfbsa.pdf"
+  <img src="assets/certifications/lfbsa.pdf"
        alt="Packt Linux Foundations and Basic System Administration"
        style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
   <p style="font-size: 14px; color: #ffffff;">Packt Linux Foundations and Basic System Administration Certificate</p>
