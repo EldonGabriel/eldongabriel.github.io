@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Field Notes
-permalink: /field-notes/
+title: Reports
+permalink: /reports/
 ---
 <h1>Field Notes</h1>
 
