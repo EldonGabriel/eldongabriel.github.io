@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 layout: collection
-permalink: /experience/
+permalink: /portfolio/
 collection: experience
 entries_layout: grid
 show_excerpts: false
