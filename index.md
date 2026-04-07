@@ -128,4 +128,6 @@ This portfolio is continuously updated with new labs, projects, and troubleshoot
 --- 
 
 <!-- Field Notes Header -->
-<img src="assets/images/fnlogo.png" alt="Banner" style="width:100%; height:auto;">
+<img src="assets/images/controls.png" alt="Banner" style="width:100%; height:auto;">
+
+<p align="center">A structured collection of security reports, standard operating procedures, and technical investigations demonstrating applied cybersecurity skills across real-world scenarios.</p>
