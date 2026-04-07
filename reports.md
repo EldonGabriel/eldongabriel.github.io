@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Field Notes
+title: Reports
 permalink: /posts/
 ---
 <h1>Reports</h1>
 
 <ul>
   {% for post in site.posts %}
-    {% if post.categories contains "field-notes" %}
+    {% if post.categories contains "reports" %}
       <li>
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
         <p>{{ post.excerpt }}</p>
