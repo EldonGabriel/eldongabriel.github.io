@@ -77,7 +77,7 @@ This section highlights applied risk analysis, governance frameworks, and securi
 <p>Using least privilege, RBAC, and access controls to reduce risk and protect systems from unauthorized access.</p>
 <p><strong>Skills:</strong> Access Control · RBAC · Least Privilege Enforcement</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-ac-6-least-privilege-v1.0.2/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-ac-6-least-privilege-v1.0.2/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
 </p>
 </div>
 
@@ -86,7 +86,7 @@ This section highlights applied risk analysis, governance frameworks, and securi
 <p>Analyzed a real-world data leak caused by weak access controls, identifying control gaps and applying least privilege principles to reduce risk.</p>
 <p><strong>Skills:</strong> Risk Assessment · Root Cause Analysis · Access Control · NIST Alignment</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/sop-access-control-incident-nist-alignment/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/sop-access-control-incident-nist-alignment/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
 </p>
 </div>
 
@@ -95,7 +95,7 @@ This section highlights applied risk analysis, governance frameworks, and securi
 <p>Applying a structured risk assessment process to identify assets, threats, and vulnerabilities, and prioritize risks using a simple scoring method.</p>
 <p><strong>Skills:</strong> Risk Assessment · Threat Analysis · Vulnerability Identification</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-risk-assessment-nist-sp-800-30-rev-1-v1.0.2" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-risk-assessment-nist-sp-800-30-rev-1-v1.0.2" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
 </p>
 </div>
 
@@ -131,7 +131,7 @@ Research examining cybersecurity frameworks, threat models, and security strateg
 <h5>REPORT – BYOD in Organizations: Security, Challenges, and Strategies – v1.0.1</h5>
 <p>Research and analysis examining the security risks, technical challenges, and mitigation strategies for BYOD environments.</p>
 <p><strong>Skills:</strong> Strategic Analysis · BYOD Security · Threat Modeling</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-byod-in-organizations-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-byod-in-organizations-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 </div>
