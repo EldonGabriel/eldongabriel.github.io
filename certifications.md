@@ -1,5 +1,5 @@
 ---
-title: Key Career Milestones & Certifications
+title: Certifications
 layout: collection
 permalink: /certifications/
 collection: certifications
