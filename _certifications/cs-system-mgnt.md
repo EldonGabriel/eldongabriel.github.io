@@ -11,73 +11,36 @@ image:
   caption: "Enterprise Infrastructure & Security Engineering"
 ---
 
-<div class="carousel">
-  <div class="slides">
+<div style="display: flex; justify-content: center;">
 
-    <div class="slide">
-      <img src="/assets/certifications/UoC-Windows-Server-Management-Security.jpeg" alt="Slide 1">
-      <p class="caption">UoC Windows System Management Security</p>
+  <div class="carousel" style="position: relative; width: 100%; max-width: 800px; overflow: hidden;">
+    
+    <div class="slides" style="display: flex; transition: transform 0.5s ease;">
+
+      <div class="slide" style="min-width: 100%; text-align: center;">
+        <img src="/assets/certifications/UoC-Windows-Server-Management-Security.jpeg" alt="Slide 1" style="width: 100%; height: auto;">
+        <p class="caption" style="margin-top: 8px; font-size: 0.9rem; opacity: 0.8;">
+          UoC Windows System Management Security
+        </p>
+      </div>
+
+      <div class="slide" style="min-width: 100%; text-align: center;">
+        <img src="/assets/certifications/UoC-Enterprise-System-Management-Security.jpg" alt="Slide 2" style="width: 100%; height: auto;">
+        <p class="caption" style="margin-top: 8px; font-size: 0.9rem; opacity: 0.8;">
+          UoC Enterprise System Management Security
+        </p>
+      </div>
+
     </div>
 
-    <div class="slide">
-      <img src="/assets/certifications/UoC-Enterprise-System-Management-Security.jpg" alt="Slide 2">
-      <p class="caption">UoC Enterprise System Management Security</p>
+    <div class="controls" style="position: absolute; top: 50%; width: 100%; display: flex; justify-content: space-between; transform: translateY(-50%);">
+      <button onclick="prevSlide()" style="background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer;">‹</button>
+      <button onclick="nextSlide()" style="background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer;">›</button>
     </div>
 
   </div>
 
-  <div class="controls">
-    <button onclick="prevSlide()">‹</button>
-    <button onclick="nextSlide()">›</button>
-  </div>
 </div>
-
-<style>
-.carousel {
-  position: relative;
-  width: 100%;
-  max-width: 800px;
-  overflow: hidden;
-}
-
-.slides {
-  display: flex;
-  transition: transform 0.5s ease;
-}
-
-.slide {
-  min-width: 100%;
-  text-align: center;
-}
-
-.slide img {
-  width: 100%;
-  height: auto;
-}
-
-.caption {
-  margin-top: 8px;
-  font-size: 0.9rem;
-  opacity: 0.8;
-}
-
-.controls {
-  position: absolute;
-  top: 50%;
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-  transform: translateY(-50%);
-}
-
-.controls button {
-  background: rgba(0,0,0,0.5);
-  color: white;
-  border: none;
-  padding: 10px;
-  cursor: pointer;
-}
-</style>
 
 <script>
 let currentIndex = 0;
