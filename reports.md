@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reports
+title: Field Notes
 permalink: /posts/
 ---
 <h1>Reports</h1>
