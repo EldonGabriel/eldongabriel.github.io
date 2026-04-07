@@ -1,5 +1,5 @@
 ---
-title: Security Reports & SOPs
+title: Reports
 layout: categories
 permalink: /posts/
 show_excerpts: true
