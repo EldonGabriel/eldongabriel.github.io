@@ -1,5 +1,5 @@
 ---
-title: Security Portfolio
+title: Portfolio
 layout: collection
 permalink: /experience/
 collection: experience
