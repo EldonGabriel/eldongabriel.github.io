@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Reports
-permalink: /reports/
+permalink: /posts/
 ---
-<h1>Field Notes</h1>
+<h1>Reports</h1>
 
 <ul>
   {% for post in site.posts %}
