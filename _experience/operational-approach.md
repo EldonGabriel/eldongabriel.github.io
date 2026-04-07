@@ -107,6 +107,18 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 </p>
 </div>
 
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>8. USB Passthrough & Filesystem Recovery (Windows VM)</h5>
+
+<p><strong>Scenario:</strong> USB device detected on the host but not accessible within a Windows 10 virtual machine, with additional “Cannot open volume for direct access” errors.</p>
+<p><strong>Resolution:</strong> Configured VirtualBox USB filters to enforce consistent hardware passthrough and resolved volume lock issues by dismounting the drive and running <code>chkdsk E: /x /f /v</code>.</p>
+<p><strong>Validation:</strong> Verified volume detection using <code>diskpart</code>, confirmed successful read/write operations, and exported <code>chkdsk</code> logs via <code>wevtutil</code> to validate filesystem integrity.</p>
+<p><strong>Framework Alignment:</strong> Structured Troubleshooting · Root Cause Analysis · Filesystem Integrity Validation · NIST CSF (PR.DS-4)</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-restore-usb-access-windows-10-vm/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+</p>
+</div>
+
 </div>
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
