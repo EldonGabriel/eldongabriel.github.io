@@ -43,7 +43,7 @@ This portfolio is continuously updated with new labs, projects, and troubleshoot
 </p>
 
 <section style="margin: 60px 0;">
-  <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">What I Bring to an Organization</h2>
+  <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">Security Engineering & Control Enforcement</h2>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
     
    <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
