@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Eldon Gabriel
-subtitle: Systems Administrator (Security-Focused)
-tagline: Secure Infrastructure | System Hardening | GRC to Enforced Controls
+subtitle: Security Systems Administrator
+tagline: Secure Infrastructure | System Hardening | GRC → Enforced Controls
 permalink: /
 image:
   path: /assets/images/banner.png
