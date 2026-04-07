@@ -11,6 +11,97 @@ image:
   caption: "Enterprise Infrastructure & Security Engineering"
 ---
 
+<div class="carousel">
+  <div class="slides">
+
+    <div class="slide">
+      <img src="/assets/certifications/UoC-Windows-Server-Management-Security.jpeg" alt="Slide 1">
+      <p class="caption">UoC Windows System Management Security</p>
+    </div>
+
+    <div class="slide">
+      <img src="/assets/certifications/UoC-Enterprise-System-Management-Security.jpg" alt="Slide 2">
+      <p class="caption">UoC Enterprise System Management Security</p>
+    </div>
+
+  </div>
+
+  <div class="controls">
+    <button onclick="prevSlide()">‹</button>
+    <button onclick="nextSlide()">›</button>
+  </div>
+</div>
+
+<style>
+.carousel {
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  overflow: hidden;
+}
+
+.slides {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.slide {
+  min-width: 100%;
+  text-align: center;
+}
+
+.slide img {
+  width: 100%;
+  height: auto;
+}
+
+.caption {
+  margin-top: 8px;
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+.controls {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+}
+
+.controls button {
+  background: rgba(0,0,0,0.5);
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+</style>
+
+<script>
+let currentIndex = 0;
+
+function showSlide(index) {
+  const slides = document.querySelector(".slides");
+  const totalSlides = document.querySelectorAll(".slide").length;
+
+  if (index >= totalSlides) currentIndex = 0;
+  else if (index < 0) currentIndex = totalSlides - 1;
+  else currentIndex = index;
+
+  slides.style.transform = `translateX(-${currentIndex * 100}%)`;
+}
+
+function nextSlide() {
+  showSlide(currentIndex + 1);
+}
+
+function prevSlide() {
+  showSlide(currentIndex - 1);
+}
+</script>
+
 This specialization focuses on the high-level transition from home computing to **secure enterprise infrastructure**. My work in this program involves architecting, managing, and auditing complex systems to align with professional security standards and NIST-based best practices.
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
