@@ -7,7 +7,7 @@ collection_item: true
 order: 5
 image:
   path: /assets/images/headers/packt-lsbsa.png
-  thumbnail: /assets/images/headers/packtlsbsa.png
+  thumbnail: /assets/images/headers/packt-lsbsa.png
   caption: "Mastering Linux for Modern IT Environments"
 ---
 
