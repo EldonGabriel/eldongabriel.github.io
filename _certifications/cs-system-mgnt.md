@@ -1,5 +1,5 @@
 ---
-title: "CS & SysMgmt"
+title: "Computer Security and Systems Management"
 layout: collection-item
 slug: cs-system-mgnt
 collection: certifications
