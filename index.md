@@ -122,7 +122,7 @@ This portfolio is continuously updated with new labs, projects, and troubleshoot
 </div>
 
 <p align="center" style="margin-top: 40px;">
-  <a href="/experience/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">Explore My Portfolio</a>
+  <a href="/portfolio/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">Explore My Portfolio</a>
 </p>
 
 --- 
