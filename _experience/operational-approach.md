@@ -122,7 +122,7 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 <h5>9. USN Journal Forensics & Timeline Reconstruction</h5>
 <p><strong>Scenario:</strong> Standard file timestamps could be manipulated (timestomping), creating gaps in forensic visibility during investigations.</p>
 <p><strong>Resolution:</strong> Leveraged <code>fsutil</code> to analyze the NTFS USN Journal, extracting reason codes and sequential records to reconstruct file activity and detect potential tampering.</p>
-<p><strong>Validation:</strong> Generated controlled file events (create, rename, delete) and verified corresponding USN entries and sequence integrity, confirming accurate timeline reconstruction.</p>
+<p><strong>Validation:</strong> Created, renamed, and deleted test files to confirm that the USN Journal recorded file activity and maintained sequential logging behavior.</p>
 <p><strong>Framework Alignment:</strong> Incident Response · Forensic Analysis · File Integrity Monitoring · NIST CSF (DE.AE, RS.AN)</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-usn-journal-analysis/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
