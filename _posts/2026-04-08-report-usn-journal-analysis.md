@@ -2,7 +2,7 @@
 title: "REPORT – USN Journal Analysis – v1.0.0"
 date: 2026-04-08
 author: Eldon Gabriel
-Category: [Security Operations]
+Categories: [Security Operations]
 tags: [Windows Forensics, NTFS, USN Journal, Incident Response, File Integrity]
 excerpt: "Analysis of the NTFS USN Journal for tracking file activity and building forensic timelines."
 image:
