@@ -37,7 +37,7 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 <p><strong>Validation:</strong> Tested revised rubrics against sample technical reports to confirm consistent scoring, objective evaluation, and repeatability across different inputs.</p>
 <p><strong>Framework Alignment:</strong> Operational Approach · Quality Assurance · Process Standardization · Evaluation Consistency</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-prompts-rubrics-evaluation-exercises/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-prompts-rubrics-evaluation-exercises/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
@@ -48,7 +48,7 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 <p><strong>Validation:</strong> Verified system integrity using <code>dcdiag</code> and <code>repadmin</code> to confirm replication health and data consistency.</p>
 <p><strong>Framework Alignment:</strong> Business Continuity Planning (BCP).</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-ad-disaster-recovery-identity-restoration-v1.0.2/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-ad-disaster-recovery-identity-restoration-v1.0.2/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
@@ -59,7 +59,7 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 <p><strong>Validation:</strong> Performed negative testing across user roles to confirm enforcement of access restrictions.</p>
 <p><strong>Framework Alignment:</strong> Principle of Least Privilege (POLP).</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/sop-access-control-incident-nist-alignment/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/sop-access-control-incident-nist-alignment/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
@@ -70,7 +70,7 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 <p><strong>Validation:</strong> Confirmed controls remained enforced against local administrative override attempts.</p>
 <p><strong>Framework Alignment:</strong> CIS Microsoft Windows Desktop Benchmark.</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/sop-hardening-windows-defender-using-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/sop-hardening-windows-defender-using-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
@@ -81,7 +81,7 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 <p><strong>Validation:</strong> Identified and corrected misconfigured ingress rules, restoring secure connectivity.</p>
 <p><strong>Framework Alignment:</strong> ITIL Incident Management / NIST CSF (RS.AN).</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-rdp-troubleshooting-aws-users/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-rdp-troubleshooting-aws-users/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
@@ -92,7 +92,7 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 <p><strong>Validation:</strong> Confirmed successful Remote Desktop authentication from the macOS host while maintaining simultaneous internet connectivity via a bridged adapter, ensuring both isolation and usability.</p>
 <p><strong>Framework Alignment:</strong> NIST CSF (PR.AC, PR.IP) · ISO 27001 Remote Access Controls · Principle of Least Privilege</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/troubleshooting-remote-access-network-isolation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/troubleshooting-remote-access-network-isolation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
@@ -103,7 +103,7 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 <p><strong>Validation:</strong> Performed a 72-hour stress test under maximum I/O load to verify stability during peak power-draw windows.</p>
 <p><strong>Framework Alignment:</strong> Physical Layer Diagnostics · Infrastructure Lifecycle Management · NIST CSF (PR.DS-4)</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-workstation-power-failure-investigation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-workstation-power-failure-investigation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
@@ -114,7 +114,7 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 <p><strong>Validation:</strong> Verified volume detection using <code>diskpart</code>, confirmed successful read/write operations, and exported <code>chkdsk</code> logs via <code>wevtutil</code> to validate filesystem integrity.</p>
 <p><strong>Framework Alignment:</strong> Structured Troubleshooting · Root Cause Analysis · Filesystem Integrity Validation · NIST CSF (PR.DS-4)</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-restore-usb-access-windows-10-vm/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-restore-usb-access-windows-10-vm/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
@@ -125,7 +125,7 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 <p><strong>Validation:</strong> Generated controlled file events (create, rename, delete) and verified corresponding USN entries and sequence integrity, confirming accurate timeline reconstruction.</p>
 <p><strong>Framework Alignment:</strong> Incident Response · Forensic Analysis · File Integrity Monitoring · NIST CSF (DE.AE, RS.AN)</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-usn-journal-analysis/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-usn-journal-analysis/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
