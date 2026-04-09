@@ -83,11 +83,14 @@ The investigation concluded with a verified diagnosis of logical corruption, all
 ## 2.1 Key Takeaways
 
 * Operational reliability is directly tied to "Safe Removal" procedures; disconnecting during active read/write cycles is the primary cause of logical data loss.
+
 * Hardware and logical failures must be isolated through cross-port testing to avoid misdiagnosing healthy equipment as broken.
+
 * Validation through disk utilities is required to determine if a volume can be repaired or if it must be completely re-provisioned.
+
 * Structured troubleshooting prevents "ghost" troubleshooting of software when the issue is a damaged filesystem state.
 
----
+ 
 
 ## 2.2 Security Implications & Recommendations
 
