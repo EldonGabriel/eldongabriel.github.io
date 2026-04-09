@@ -5,7 +5,7 @@ subtitle: MCSI Novice System Administrator
 tagline: Secure Infrastructure | System Hardening | GRC & Controls
 permalink: /
 image:
-  path: /assets/images/banner.png
+  path: /assets/images/mcsi-novice-sysadmin.png
 ---
 <section class="home-hero">
 
