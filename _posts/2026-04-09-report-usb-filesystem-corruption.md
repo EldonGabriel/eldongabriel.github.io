@@ -12,9 +12,7 @@ image:
 
 # 0.0 Executive Summary
 
-This report documents the investigation and technical analysis of a filesystem corruption incident involving an external USB device.
-
-The objective was to identify the root cause of an "unreadable" device state following its use in a virtualized environment. The investigation focused on determining if the failure was a result of permanent hardware damage or a logical filesystem error caused by improper removal.
+This report documents the investigation and technical analysis of a filesystem corruption incident involving an external USB device. The objective was to identify the root cause of an "unreadable" device state following its use in a virtualized environment. The investigation focused on determining if the failure was a result of permanent hardware damage or a logical filesystem error caused by improper removal.
 
 The result was the confirmation of logical filesystem corruption rather than hardware failure. By utilizing structured troubleshooting—including port switching and disk utility analysis—the system state was stabilized, preventing unnecessary hardware replacement and validating that safe removal procedures are critical for data availability.
 
@@ -28,7 +26,9 @@ The goal of this task was to diagnose the failure of an external storage device 
 
 The implementation used a structured troubleshooting approach to:
 - Establish a baseline for hardware functionality by isolating the interface (USB port) from the media.
+
 - Validate filesystem integrity by attempting to run repair utilities and observing error output.
+
 - Improve accountability and visibility of system changes by documenting the specific errors generated when a device is disconnected during active write operations.
 
 
@@ -47,10 +47,12 @@ The process focused on identifying the specific failure point after a USB device
 
 **Volume Analysis:**
   - Attempted to run `chkdsk E: /f` to repair the volume.
+
   - Observed the error: "Cannot open volume for direct access," indicating the filesystem was either locked by another process or too corrupted for the utility to mount.
 
 **State Validation:**
   - Used Disk Management to confirm the device was recognized at the hardware level but listed as "RAW" or "Unallocated."
+  
   - Verified that while the physical disk was functional, the logical structures (such as the MFT) had been damaged due to improper removal during a write-heavy operation.
 
 **Root Cause:** The device was disconnected while the OS or a virtualized guest held an active handle on the filesystem. This interrupted the write process, leading to the corruption of the filesystem metadata and rendering the data unreadable.
@@ -105,11 +107,15 @@ The investigation concluded with a verified diagnosis of logical corruption, all
 **Best Practices**
 
 * Always use the "Eject" or "Safely Remove Hardware" feature before physically disconnecting a device.
+
 * Enforce exclusive access to USB devices when running repair tools to prevent "Direct Access" errors.
+
 * Use Disk Management or `diskpart` to confirm the health and partition state of any device that behaves unexpectedly.
+
 * Align these findings with the NIST CSF **PR.DS-4 (Capacity and Availability)** to ensure that storage assets are managed to prevent unforced downtime.
 
 **Framework Alignment**
 
 * Aligns with NIST principles for maintaining information integrity and system availability.
+
 * Supports general IT operations standards for hardware lifecycle management and data protection.
