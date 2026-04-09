@@ -6,7 +6,7 @@ collection: certifications
 entries_layout: grid
 show_excerpts: false
 image:
-  path: /assets/images/banner.png
+  path: /assets/images/mcsi-novice-sysadmin.png
 ---
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
