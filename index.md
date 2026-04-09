@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Eldon Gabriel
-subtitle: Aspiring Security Systems Administrator
+subtitle: MCSI Novice System Administrator
 tagline: Secure Infrastructure | System Hardening | GRC & Controls
 permalink: /
 image:
