@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Eldon Gabriel
-subtitle: Security Systems Administrator
+subtitle: Aspiring Security Systems Administrator
 tagline: Secure Infrastructure | System Hardening | GRC → Enforced Controls
 permalink: /
 image:
