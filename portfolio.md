@@ -22,7 +22,16 @@ image:
   </p>
 </section>
 
-
+<div style="margin: 30px 0; padding: 15px; border-left: 4px solid #00adb5; background: rgba(255,255,255,0.03);">
+  <p style="margin:0; font-size:1.05em;">
+    <strong>Technical Work Index:</strong> 100+ structured reports across troubleshooting, system administration, security operations, and forensic analysis, all validated through a Layer → Device → Root Cause → Resolution methodology.
+</p>
+<p style="margin-top:10px;">
+  <a href="https://docs.google.com/spreadsheets/d/1_NJJ7v9wQ4OH1zhxlq-AKbwUoMMPS58R2aZGxMsAukI/edit?usp=sharing" target="_blank" style="color:#00adb5; text-decoration:none; font-weight:bold;">
+    View Full Work Index →
+  </a>
+</p>  
+</div>
 
 **ℹ️ Academic Integrity & Compliance:** 
 To follow MCSI non-disclosure policies, I do not share lab solutions publicly. Instead, I demonstrate my skills through independent research and original lab scenarios, documented below. If needed, restricted work can be verified through official transcripts or a secure screen share.
