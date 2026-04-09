@@ -2,7 +2,7 @@
 title: "REPORT – USB Filesystem Corruption Due to Improper Removal – v1.0.0"
 date: 2026-04-09
 author: Eldon Gabriel
-Categories: [Problem Solving]
+Categories: [Infrastructure and Systems]
 tags: [Windows, Troubleshooting, Filesystem, NTFS, Hardware Reliability]
 excerpt: "Investigation of a corrupted external USB device following improper removal, focusing on isolating logical filesystem failure from physical hardware damage."
 image:
