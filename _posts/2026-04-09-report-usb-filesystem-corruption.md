@@ -43,7 +43,7 @@ The process focused on identifying the specific failure point after a USB device
 
 **Key Actions & Observations**
 
-* **Hardware Isolation:** Switched the USB device to a different physical port to confirm that the workstation's hardware interface was not the cause of the non-responsiveness.
+**Hardware Isolation:** Switched the USB device to a different physical port to confirm that the workstation's hardware interface was not the cause of the non-responsiveness.
 
 **Volume Analysis:**
   - Attempted to run `chkdsk E: /f` to repair the volume.
