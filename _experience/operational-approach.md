@@ -119,7 +119,18 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>9. USN Journal Forensics & Timeline Reconstruction</h5>
+<h5>9. USB Filesystem Corruption (Improper Removal)</h5>
+<p><strong>Scenario:</strong> USB device became unreadable after use in a virtualized environment, with no visibility in File Explorer or disk tools.</p>
+<p><strong>Resolution:</strong> Performed layered troubleshooting (Device Manager, Disk Management, diskpart) and isolated the issue to filesystem corruption caused by improper removal during an active <code>chkdsk</code> operation.</p>
+<p><strong>Validation:</strong> Confirmed hardware functionality via port isolation and device detection. Verified corruption through forced format prompt and inability to mount the filesystem.</p>
+<p><strong>Framework Alignment:</strong> Root Cause Analysis · Operational Troubleshooting · Data Integrity · NIST CSF (PR.DS-4)</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-usb-filesystem-corruption/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>10. USN Journal Forensics & Timeline Reconstruction</h5>
 <p><strong>Scenario:</strong> Standard file timestamps could be manipulated (timestomping), creating gaps in forensic visibility during investigations.</p>
 <p><strong>Resolution:</strong> Leveraged <code>fsutil</code> to analyze the NTFS USN Journal, extracting reason codes and sequential records to reconstruct file activity and detect potential tampering.</p>
 <p><strong>Validation:</strong> Created, renamed, and deleted test files to confirm that the USN Journal recorded file activity and maintained sequential logging behavior.</p>
