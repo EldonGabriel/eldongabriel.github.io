@@ -80,7 +80,7 @@ The investigation concluded with a verified diagnosis of logical corruption, all
 
  
 
-# 2.0: CONCLUSION
+# 2.0: Conclusion
 
 ## 2.1 Key Takeaways
 
