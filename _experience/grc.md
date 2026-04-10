@@ -1,14 +1,14 @@
 ---
 title: "Governance, Risk and Compliance"
 layout: collection-item
-slug: governance-risk
+slug: grc
 collection: experience
 collection_item: true
 order: 6
-permalink: /governance-risk/
+permalink: /grc/
 image:
-  path: /assets/images/headers/gr.png
-  thumbnail: /assets/images/headers/gr.png
+  path: /assets/images/headers/grc.png
+  thumbnail: /assets/images/headers/grc.png
   caption: "Security Governance, Risk Assessment, and Policy Research"
 ---
 
