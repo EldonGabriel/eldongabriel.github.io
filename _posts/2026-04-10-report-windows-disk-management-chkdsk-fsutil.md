@@ -95,7 +95,7 @@ Disk health was improved by running checks and confirming that errors were fixed
 
 - Plan repairs during maintenance windows to avoid downtime  
 
----
+ 
 
 ## 2.2 Security Implications & Recommendations
 
@@ -103,23 +103,19 @@ Disk health was improved by running checks and confirming that errors were fixed
 
 If file system errors are not fixed, data can be lost and systems may stop working.
 
-**Mitigation:**  
+**Mitigation:** Run regular disk checks and monitor Event Viewer for disk errors.
 
-Run regular disk checks and monitor Event Viewer for disk errors.
-
----
+ 
 
 **Risk:** Service Interruption  
 
 Running repair commands like `/x` can disconnect users and stop applications.
 
-**Mitigation:**  
-
-Schedule repairs during maintenance times and inform users before making changes.
+**Mitigation:** Schedule repairs during maintenance times and inform users before making changes.
 
  
 
-Best Practices
+**Best Practices**
 
 - Limit access to disk tools to authorized users only  
 
@@ -131,7 +127,7 @@ Best Practices
 
  
 
-Framework Alignment
+**Framework Alignment**
 
 - Supports NIST PR.DS-4 (Capacity and Availability) by keeping storage systems healthy  
 
