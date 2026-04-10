@@ -2,7 +2,7 @@
 title: "REPORT – BYOD in Organizations: Security, Challenges, and Strategies – v1.0.1"
 date: 2025-08-01
 author: Eldon Gabriel
-categories: [Governance and Risk]
+categories: [GRC]
 tags: [Security Policy, BYOD, Mobile Security, Risk Management, Network Hardening]
 excerpt: "Analysis of BYOD risks and the use of security controls to protect corporate data on personal devices."
 image:
