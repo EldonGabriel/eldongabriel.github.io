@@ -41,7 +41,9 @@ Access was restored by manually aligning the host with the pfSense management su
 
 **Validation Steps**
 1.  **PowerShell:** Ran `Test-NetConnection -ComputerName 172.16.0.1 -Port 8443`.
+
 2.  **Browser:** Successfully loaded the WebGUI and authenticated.
+
 3.  **Service:** Confirmed SSH connectivity over the internal network.
  
 
@@ -55,9 +57,11 @@ Access was restored by manually aligning the host with the pfSense management su
 ## 2.2 Security Implications & Recommendations
 
 **Risk: Management Lockout** Misconfiguration of the LAN interface can lead to a total denial of service for administrators.  
+
 **Mitigation:** Document all static assignments and maintain an out-of-band access method (Console/Serial).
 
 **Risk: Validation Gaps** Assuming a service is "down" when the network is actually "misaligned" leads to wasted uptime.  
+
 **Mitigation:** Use `sockstat` and `pfctl` locally on the appliance to verify service health before troubleshooting the wire.
  
 
