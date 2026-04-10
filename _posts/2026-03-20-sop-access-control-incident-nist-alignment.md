@@ -2,7 +2,7 @@
 title: SOP - Access Control Incident & NIST Alignment - v1.2.1
 date: 2026-03-20
 author: Eldon Gabriel
-categories: [Governance and Risk]
+categories: [Governance, Risk, and Compliance]
 tags: [Cybersecurity, GRC, Access Control, NIST, Risk Analysis]
 excerpt: "Analysis of a data exposure incident caused by weak access controls and lack of enforced security policies."
 image:
@@ -52,11 +52,13 @@ Technical safeguards were implemented to enforce access control policies and red
 **Validation Steps**
 
 1. Policy enforcement verified by restricting external domain sharing by default.
+
 2. Access audit performed to review and revoke unnecessary external links.
+
 3. Staff training conducted to reinforce secure file handling and proper sharing procedures.
 
 
-# 2.0: CONCLUSION
+# 2.0: Conclusion
 
 ## 2.1 Key Takeaways
 
