@@ -1,5 +1,5 @@
 ---
-title: "Governance & Risk"
+title: "Governance, Risk and Compliance"
 layout: collection-item
 slug: governance-risk
 collection: experience
@@ -12,7 +12,7 @@ image:
   caption: "Security Governance, Risk Assessment, and Policy Research"
 ---
 
-### Governance & Risk Lab Overview
+### GRC Lab Overview
 
 Security governance defines how organizations identify, assess, and manage cybersecurity risk through structured frameworks, policies, and decision-making processes.
 
