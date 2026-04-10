@@ -81,7 +81,7 @@ The issue was resolved by upgrading the power supply and confirming system stabi
 
  
 
-# 2.0 CONCLUSION
+# 2.0 Conclusion
 
 ## 2.1 Key Takeaways
 
