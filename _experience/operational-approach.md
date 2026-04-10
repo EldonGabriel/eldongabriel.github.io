@@ -151,6 +151,17 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 </p>
 </div>
 
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>12. USB Storage Failure Analysis and Disk Validation</h5>
+<p><strong>Scenario:</strong> USB storage device appeared accessible but showed instability, repeated CHKDSK failures, and system unresponsiveness, creating risk of hidden hardware failure and data loss.</p>
+<p><strong>Resolution:</strong> Performed structured troubleshooting across VM and host systems, including CHKDSK repair attempts, drive reassignment, and full (non-quick) format testing to validate sector-level integrity and isolate hardware failure.</p>
+<p><strong>Validation:</strong> Confirmed persistent CHKDSK errors, full format failure at 0%, and system I/O lock condition. Verified failure across both virtual and physical environments, with system recovery only after physical device removal.</p>
+<p><strong>Framework Alignment:</strong> Applied Troubleshooting · Hardware Failure Analysis · Storage Integrity · NIST CSF (PR.DS-4, ID.AM-1)</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-usb-storage-failure-analysis/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
 </div>
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
