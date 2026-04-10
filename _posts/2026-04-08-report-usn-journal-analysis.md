@@ -84,7 +84,7 @@ The system was checked to confirm the USN Journal is active and recording data c
 
  
 
-# 2.0 CONCLUSION
+# 2.0 Conclusion
 
 ## 2.1 Key Takeaways
 
