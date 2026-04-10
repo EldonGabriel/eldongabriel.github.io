@@ -1,7 +1,7 @@
 ---
-title: "Governance and Risk"
+title: "Governance, Risk and Compliance"
 layout: collection-item
-slug: governance-risk
+slug: governance-risk-compliance
 collection: experience
 collection_item: true
 order: 6
