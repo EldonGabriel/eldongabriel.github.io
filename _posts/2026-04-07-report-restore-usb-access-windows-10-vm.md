@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Restore USB Access on a Windows 10 VM – v1.0.0"
+title: "REPORT – Restore USB Access on a Windows 10 VM – v1.1.0"
 date: 2026-04-07
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
@@ -46,6 +46,8 @@ The process focused on identifying where the failure occurred in the virtualizat
 
 * **Volume Remediation:** Errors such as “Cannot open volume for direct access” were fixed by closing any active handles and running: 'chkdsk E: /x /f /v'
 
+* **File System Recovery:** In cases where the volume became inaccessible or returned errors (e.g., RAW state or CHKDSK failure), the drive was reformatted and rebuilt using NTFS before validation.
+
 
 This forced the drive to dismount and performed a full file system check.
 
@@ -78,6 +80,8 @@ Access was restored by setting up USB filters and confirming the file system was
 
 3. **Data Integrity Check:** A read and write test confirmed the drive worked correctly, and `chkdsk` completed without reporting errors.
 
+4. **Advanced Integrity Validation:** Additional checks using `fsutil` confirmed the volume was not marked dirty, self-healing was enabled, and no corruption remained.
+
  
 
 ## 2.0 Conclusion
@@ -101,6 +105,13 @@ Unstable or improper disconnection of USB devices can damage the file system, in
 Open files or processes on the host system can prevent the VM from accessing the USB device.  
 
 **Mitigation:** Close all programs using the USB drive before connecting it to the VM.
+
+**Risk: Silent Volume Corruption**  
+USB passthrough failures can leave the file system in an inconsistent state without immediate visibility.
+
+**Mitigation:** Perform full validation using CHKDSK and FSUTIL before reusing the device.
+
+
 
 **Best Practices**
 
