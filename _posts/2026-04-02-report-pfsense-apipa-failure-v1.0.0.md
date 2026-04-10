@@ -45,7 +45,7 @@ Access was restored by manually aligning the host with the pfSense management su
 3.  **Service:** Confirmed SSH connectivity over the internal network.
  
 
-# 2.0: CONCLUSION
+# 2.0: Conclusion
 
 ## 2.1 Key Takeaways
 * **APIPA is a red flag:** Always check for `169.254` when connectivity drops in a lab.
