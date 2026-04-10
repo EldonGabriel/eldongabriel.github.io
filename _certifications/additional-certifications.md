@@ -141,6 +141,6 @@ The **Working as an IT Support Technician** course reinforces core operational s
 </p>
 
 <p align="center" style="margin-top: 40px;">
-  <a href="/experience/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">
-    View Technical Case Studies
+  <a href="/experience/operational-approach/" class="btn" style="padding: 10px 20px; background: #fff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    View My Operational Approach
   </a>
