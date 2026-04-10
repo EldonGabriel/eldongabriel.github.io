@@ -14,9 +14,7 @@ image:
 
 This report shows how disk management was set up and tested using built-in Windows tools, mainly `CHKDSK` and `FSUTIL`. The goal was to reduce the risk of file system errors and system crashes by checking disk health early and fixing problems before they get worse.
 
-Regular checks were used to find and repair errors. NTFS features like self-healing and the USN Journal were also reviewed to confirm they were working correctly.
-
-This approach moves from fixing problems after they happen to preventing them early. It helps keep data safe and systems running without interruption.
+Regular checks were used to find and repair errors. NTFS features like self-healing and the USN Journal were also reviewed to confirm they were working correctly. This approach moves from fixing problems after they happen to preventing them early. It helps keep data safe and systems running without interruption.
 
  
 
