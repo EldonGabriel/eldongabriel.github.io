@@ -2,7 +2,7 @@
 title: REPORT – Bank Risk Register Analysis – v1.0.2
 date: 2025-06-12
 author: Eldon Gabriel
-categories: [Governance and Risk]
+categories: [GRC]
 tags: [Risk Management, Banking Security, Compliance, Threat Assessment, Financial Services]
 excerpt: "Analysis of operational and technical risks for a coastal financial institution, prioritizing threats to customer data and business continuity."
 image:
