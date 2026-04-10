@@ -2,7 +2,7 @@
 title: "REPORT – Windows Disk Management with CHKDSK and FSUTIL – v1.0.0"
 date: 2026-04-10
 author: Eldon Gabriel
-categories: [Infrastructure & Systems]
+categories: [Infrastructure and Systems]
 tags: [Windows, Disk Management, CHKDSK, FSUTIL, NTFS, Storage Integrity]
 excerpt: "Using Windows tools to check disk health, fix errors, and keep data reliable."
 image:
