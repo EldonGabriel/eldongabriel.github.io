@@ -140,6 +140,17 @@ These scenarios demonstrate how I apply structured troubleshooting, control enfo
 </p>
 </div>
 
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>11. Windows Disk Management with CHKDSK and FSUTIL</h5>
+<p><strong>Scenario:</strong> Risk of undetected filesystem corruption and unreliable storage due to lack of structured disk monitoring and validation processes.</p>
+<p><strong>Resolution:</strong> Implemented a standardized disk management approach using <code>chkdsk</code> for repair operations and <code>fsutil</code> for deep filesystem analysis, including dirty bit checks, self-healing status, and NTFS metadata validation.</p>
+<p><strong>Validation:</strong> Verified disk integrity through verbose <code>chkdsk</code> scans, confirmed clean volume states using <code>fsutil dirty query</code>, and validated file activity tracking through USN Journal analysis.</p>
+<p><strong>Framework Alignment:</strong> Operational Troubleshooting · Filesystem Integrity · Preventive Maintenance · NIST CSF (PR.DS-4)</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-windows-disk-management-chkdsk-fsutil/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
 </div>
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
