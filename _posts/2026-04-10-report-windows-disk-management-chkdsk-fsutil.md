@@ -42,23 +42,21 @@ This helps ensure the system runs on stable storage and reduces the risk of cras
 
 The process used command-line tools to check disk health and fix issues when needed.
 
-Key Actions & Observations
+**Key Actions & Observations**
 
-- Integrity Checks: Used `chkdsk /f /v` to scan and repair file system errors  
+- **Integrity Checks:** Used `chkdsk /f /v` to scan and repair file system errors  
 
-- Health Monitoring: Used `fsutil` to check if a disk was marked as "dirty"  
+- **Health Monitoring:** Used `fsutil` to check if a disk was marked as "dirty"  
 
-- Volume Testing:
+Volume Testing:
 
-  - Used `chkdsk /x` to force a dismount when repairs were needed  
+- Used `chkdsk /x` to force a dismount when repairs were needed  
 
-  - Confirmed this can interrupt active systems and should be planned carefully  
+- Confirmed this can interrupt active systems and should be planned carefully  
 
-- System Tracking: Reviewed the USN Journal to track file changes over time  
+- **System Tracking:** Reviewed the USN Journal to track file changes over time  
 
-Root Cause:  
-
-File system errors can build up over time due to bad shutdowns or hardware issues. If not fixed, this can lead to serious problems like a drive becoming unreadable (RAW state).
+**Root Cause:** File system errors can build up over time due to bad shutdowns or hardware issues. If not fixed, this can lead to serious problems like a drive becoming unreadable (RAW state).
 
 This was resolved by running regular disk checks and verifying results.
 
@@ -70,12 +68,12 @@ Disk health was improved by running checks and confirming that errors were fixed
 
 | Parameter | Configuration Value |
 | :--- | :--- |
-| Management Tool | CHKDSK / FSUTIL |
-| Control State | Enforced / Audited |
-| Security Mode | Proactive Maintenance |
-| Scope | System and External Drives (C: and E:) |
+| **Management Tool**| CHKDSK / FSUTIL |
+| **Control State** | Enforced / Audited |
+| **Security Mode** | Proactive Maintenance |
+| **Scope** | System and External Drives (C: and E:) |
 
-Validation Steps
+**Validation Steps**
 
 1. Ran `chkdsk` on the system drive to confirm file system health  
 
@@ -83,8 +81,8 @@ Validation Steps
 
 3. Verified that the USN Journal was logging file activity correctly  
 
----
 
+ 
 # 2.0: CONCLUSION
 
 ## 2.1 Key Takeaways
@@ -101,25 +99,25 @@ Validation Steps
 
 ## 2.2 Security Implications & Recommendations
 
-Risk: Data Loss or System Failure  
+**Risk:** Data Loss or System Failure  
 
 If file system errors are not fixed, data can be lost and systems may stop working.
 
-Mitigation:  
+**Mitigation:**  
 
 Run regular disk checks and monitor Event Viewer for disk errors.
 
 ---
 
-Risk: Service Interruption  
+**Risk:** Service Interruption  
 
 Running repair commands like `/x` can disconnect users and stop applications.
 
-Mitigation:  
+**Mitigation:**  
 
 Schedule repairs during maintenance times and inform users before making changes.
 
----
+ 
 
 Best Practices
 
@@ -131,7 +129,7 @@ Best Practices
 
 - Keep logs of all maintenance work for tracking and audits  
 
----
+ 
 
 Framework Alignment
 
