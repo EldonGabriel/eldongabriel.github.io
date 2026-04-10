@@ -73,7 +73,7 @@ The investigation ended with the device being removed from use after confirming 
 
  
 
-# 2.0: CONCLUSION
+# 2.0: Conclusion
 
 ## 2.1 Key Takeaways
 
