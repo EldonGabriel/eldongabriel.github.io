@@ -2,7 +2,7 @@
 title: "REPORT – Risk Assessment Adapted from NIST SP 800-30 Rev. 1 – v1.0.2"
 date: 2025-02-21
 author: Eldon Gabriel
-categories: [Governance and Risk]
+categories: [GRC]
 tags: [Risk Management, NIST SP 800-30, Cybersecurity, Compliance, Threat Analysis]
 excerpt: "Implementation of a structured risk assessment framework to identify, analyze, and prioritize organizational threats and vulnerabilities."
 image:
