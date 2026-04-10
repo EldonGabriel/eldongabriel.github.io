@@ -40,8 +40,11 @@ The process focused on identifying the failure point after logical repair attemp
 **Key Actions and Observations**
 
 * **Initial Symptom Identification:** `CHKDSK` returned an error (`6e7466`), and the device was unstable during file operations.
+
 * **Environmental Isolation:** The device was tested on the physical host system to rule out virtualization issues. The same failure occurred.
+
 * **Low-Level Validation:** A full format (non-quick) was started to test all disk sectors.
+
 * **Operational Observation:** The format and `CHKDSK` processes became unresponsive. The system only recovered after the USB device was physically removed. This indicates a hardware-level failure.
 
 **Root Cause:**  
