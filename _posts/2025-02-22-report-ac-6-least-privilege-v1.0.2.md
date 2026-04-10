@@ -2,7 +2,7 @@
 title: "REPORT– AC-6 Least Privilege (NIST SP 800-53) – v1.0.2"
 date: 2025-02-22
 author: Eldon Gabriel
-categories: [Governance and Risk]
+categories: [GRC]
 tags: [Compliance, NIST SP 800-53, Access Control, Security Hardening, Identity Management]
 excerpt: "Implementation of least privilege controls to reduce risk and limit unauthorized access in enterprise systems."
 image:
@@ -97,7 +97,7 @@ Access controls were tested to confirm they were working correctly.
 
  
 
-# 2.0 CONCLUSION
+# 2.0 Conclusion
 
 ## 2.1 Key Takeaways
 
