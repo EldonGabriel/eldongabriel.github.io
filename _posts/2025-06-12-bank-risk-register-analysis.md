@@ -81,7 +81,7 @@ Security controls were implemented based on prioritized risk scores from the Ris
 3. Confirmed that access restrictions did not interfere with normal system operations  
 4. Ensured system stability after applying security controls  
 
-# 2.0: CONCLUSION
+# 2.0: Conclusion
 
 ## 2.1 Key Takeaways
 
