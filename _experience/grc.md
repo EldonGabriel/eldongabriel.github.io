@@ -1,5 +1,5 @@
 ---
-title: "Governance, Risk and Compliance"
+title: "GRC"
 layout: collection-item
 slug: grc
 collection: experience
