@@ -30,7 +30,7 @@ The work in this section demonstrates practical application of risk assessment m
 
 ---
 
-# Governance & Risk Documentation
+# GRC Documentation
 
 This section highlights applied risk analysis, governance frameworks, and security decision-making processes used to assess and reduce organizational risk.
 
