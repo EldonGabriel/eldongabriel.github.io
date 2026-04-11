@@ -84,7 +84,7 @@ The new access controls were tested and confirmed to work as expected.
 
  
 
-# 2.0: CONCLUSION
+# 2.0: Conclusion
 
 ## 2.1 Key Takeaways
 
