@@ -82,7 +82,7 @@ The server’s security posture was validated after applying the recommended con
 
  
 
-# 2.0: CONCLUSION
+# 2.0: Conclusion
 
 ## 2.1 Key Takeaways
 
