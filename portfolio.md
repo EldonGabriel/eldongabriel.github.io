@@ -8,6 +8,11 @@ show_excerpts: false
 image:
   path: /assets/images/mcsi-novice-sysadmin.png
 ---
+
+**ℹ️ Academic Integrity & Compliance:** 
+To follow MCSI non-disclosure policies, I do not share lab solutions publicly. Instead, I demonstrate my skills through independent research and original lab scenarios, documented below. If needed, restricted work can be verified through official transcripts or a secure screen share.
+{: .notice--info}
+
 <section style="margin: 60px 0;">
   <p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
     My experience is centered on the practical application of security controls across real systems. I focus on hardening infrastructure, investigating operational issues, and validating that implemented controls function as intended in real-world conditions.
@@ -32,7 +37,3 @@ image:
   </a>
 </p>  
 </div>
-
-**ℹ️ Academic Integrity & Compliance:** 
-To follow MCSI non-disclosure policies, I do not share lab solutions publicly. Instead, I demonstrate my skills through independent research and original lab scenarios, documented below. If needed, restricted work can be verified through official transcripts or a secure screen share.
-{: .notice--info}
