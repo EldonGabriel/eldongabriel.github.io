@@ -44,22 +44,22 @@ The process focused on fixing network issues and applying security controls to s
 
 **Key Actions & Observations**
 
-* **Network Stabilization**
+**Network Stabilization**
   - Identified a connection issue caused by incorrect virtual network settings
   - Fixed the issue by placing all systems on a single internal network
   - Reconfigured pfSense interfaces to match the correct network setup
 
-* **Secure Management Access**
+**Secure Management Access**
   - Changed the WebGUI to use HTTPS on port 8443
   - Enabled SSH access for secure command-line management
   - Ensured only trusted systems could access the firewall
 
-* **Firewall Configuration**
+**Firewall Configuration**
   - Allowed internal systems to access the internet through NAT
   - Blocked all incoming traffic unless explicitly allowed
   - Verified rules using logs and dashboard monitoring
 
-* **System Validation**
+**System Validation**
   - Used tools like `ping`, `netstat`, and `sockstat` to confirm services were running correctly
   - Confirmed that all interfaces were active and processing traffic
 
