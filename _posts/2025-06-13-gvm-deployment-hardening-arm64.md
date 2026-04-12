@@ -15,9 +15,7 @@ image:
 This report explains the setup and stabilization of **Greenbone Vulnerability Management (GVM)** on a **Kali Linux ARM64 system**. The goal was to build a working vulnerability scanning environment in a restricted ARM64 setup while dealing with common deployment issues such as:
 
 - Software compatibility problems
-
 - System memory limitations
-
 - Container execution failures
 
 During testing, several issues were identified, including Docker image incompatibility with ARM64 systems and system crashes caused by low available memory. These problems were resolved by adjusting system resources, using manual installation methods where needed, and applying stability-focused configuration changes.
@@ -99,12 +97,14 @@ The system can now run vulnerability scans without immediate failure.
 ## 2.2 Security Implications and Recommendations
 
 **Risk: Unstable Scanning Environment**
+
 If the system runs out of memory or crashes, vulnerability scans may be incomplete or inaccurate.
 
 **Mitigation:** Ensure sufficient RAM is available and enable swap space for stability.
 
 
 **Risk: Unencrypted Web Access**
+
 The GVM web interface may expose login credentials if accessed over HTTP.
 
 **Mitigation:** Use HTTPS with a reverse proxy such as NGINX to secure access.
