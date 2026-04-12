@@ -176,6 +176,16 @@ Restricted: Request Access
 </p>
 </div>
 
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – pfSense Infrastructure Framework and Hardening – v1.0.0</h5>
+<p>Design and hardening of a secure pfSense gateway, focusing on network segmentation, management access control, and firewall policy enforcement in a virtualized lab environment.</p>
+<p><strong>Skills:</strong> Network Architecture · Firewall Configuration · Network Segmentation · Secure Gateway Hardening</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-pfsense-infrastructure-framework-hardening/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report</a>
+</p>
+</div>
+
 </div>
 
 ---
