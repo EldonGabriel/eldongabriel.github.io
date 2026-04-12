@@ -24,6 +24,27 @@ This section outlines the operational approach I use to implement, validate, and
 
 ---
 
+## Technical Support Fundamentals – Systems Analysis
+
+These scenarios demonstrate how foundational computing concepts are applied to understand system behavior, data representation, and low-level processing in real-world environments.
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>1. Binary Systems, Data Representation and Logic Gates</h5>
+<p><strong>Scenario:</strong> Limited understanding of how computers process binary data, leading to gaps in troubleshooting, data interpretation, and low-level system analysis.</p>
+<p><strong>Resolution:</strong> Analyzed binary-to-decimal conversion, character encoding (ASCII/UTF-8), and logic gate operations to establish a clear model of how data is processed and represented within computing systems.</p>
+<p><strong>Validation:</strong> Verified accuracy through binary conversion exercises, ASCII mapping validation, and logic gate truth table analysis to confirm correct system behavior.</p>
+<p><strong>Framework Alignment:</strong> Operational Approach · System Analysis · Data Representation · Foundational Computing</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-binary-systems-data-representation-logic-gates/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
+</div>
+
+---
+
 ## Applied Troubleshooting
 
 These scenarios demonstrate how I apply structured troubleshooting, control enforcement, and validation to real-world security and infrastructure problems.
