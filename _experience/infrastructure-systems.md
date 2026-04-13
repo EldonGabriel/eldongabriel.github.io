@@ -126,6 +126,8 @@ Hands-on system administration tasks performed in Windows environments, focusing
 
 ### 🪟 Windows GPO / System Hardening
 
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Hardening Windows User Rights via Local Group Policy – v1.0.0</h5>
 <p>Configured User Rights Assignment policies to enforce least privilege and restrict sensitive system permissions.</p>
