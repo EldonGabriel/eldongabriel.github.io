@@ -30,7 +30,8 @@ These labs reflect hands-on implementation across system administration, virtual
 | Troubleshooting & System Diagnostics | 5 |
 | Linux Systems Administration | 2 |
 | Virtualization & Infrastructure | 5 |
-| Lab Demonstrations | 33 |
+| Lab Demonstrations | 29 |
+| Managed Operations & Automation Labs | 4 |
 | **Total Labs Documented** | **57** |
 
 ---
@@ -63,15 +64,13 @@ View Report</a>
 
 </div>
 
----
-
 ## Windows Systems Administration
 
 Hands-on system administration tasks performed in Windows environments, focusing on system management, security controls, and troubleshooting.
 
 ---
 
-### 🛡️ Endpoint Security & GPO Hardening
+### 🛡️ Endpoint Security & Configuration Enforcement
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -92,7 +91,7 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <h5>REPORT – OS Patching Enforcement via Local GPO – v1.0.0</h5>
 <p>Configured automated patch management policies using Local Group Policy to ensure systems remain up to date and secure.</p>
 <p><strong>Skills:</strong> Patch Management · Policy Enforcement · System Maintenance</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-os-patching-enforcement-local-gpo-v.1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-os-patching-enforcement-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -124,6 +123,69 @@ Hands-on system administration tasks performed in Windows environments, focusing
 </div>
 
 </div>
+
+### 🪟 Windows GPO / System Hardening
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Hardening Windows User Rights via Local Group Policy – v1.0.0</h5>
+<p>Configured User Rights Assignment policies to enforce least privilege and restrict sensitive system permissions.</p>
+<p><strong>Skills:</strong> Least Privilege · Access Control · Identity Security</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-hardening-windows-user-rights-via-local-group-policy-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0</h5>
+<p>Implemented session lock policies via Group Policy to ensure inactive systems automatically secure user sessions.</p>
+<p><strong>Skills:</strong> Session Security · Endpoint Protection · Policy Enforcement</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-applying-a-local-gpo-for-session-lock-enforcement-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Deploy Local GPO for Windows Security Policies – v1.0.0</h5>
+<p>Configured Local Group Policy settings to enforce baseline Windows security protections.</p>
+<p><strong>Skills:</strong> GPO Engineering · Endpoint Hardening</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-deploy-local-gpo-windows-security-policies-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>SOP – Password & Account Lockout GPO Hardening – v1.0.1</h5>
+<p>Configured GPO to enforce password policies, account lockout thresholds, and session locking to strengthen authentication and reduce unauthorized access.</p>
+<p><strong>Skills:</strong> Password Policy · Account Lockout · Group Policy · Endpoint Hardening · Access Control</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-password-account-lockout-gpo-hardening-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Hardening UAC via Local Group Policy – v1.0.0</h5>
+<p>Strengthened User Account Control configuration to prevent unauthorized privilege escalation.</p>
+<p><strong>Skills:</strong> UAC Hardening · Privilege Security</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-hardening-uac-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Hardening Credential Entry Using Group Policy – v1.0.0</h5>
+<p>Implemented Secure Desktop and logon restrictions via Group Policy to reduce credential exposure and prevent interception.</p>
+<p><strong>Skills:</strong> Credential Security · Logon Hardening · Access Protection</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-hardening-credential-entry-using-group-policy-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+</div>
+
+### 👁️ Endpoint Monitoring
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px;">
+  
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Monitoring Windows Processes with Procmon – v1.0.1</h5>
+<p>Demonstrates using Microsoft Process Monitor to observe system activity, analyze process behavior, and investigate file and registry interactions.</p>
+<p><strong>Skills:</strong> Security Monitoring · Process Analysis · Sysinternals Diagnostics</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-monitoring-windows-processes-procmon-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
+</div>
+
+---
 
 ### ⚙️ System Administration & Maintenance
 
@@ -231,6 +293,54 @@ Administration and hardening of Linux-based systems, including user management, 
 <p>Managed file and directory permissions using chmod, chown, and chgrp to enforce proper access control.</p>
 <p><strong>Skills:</strong> Linux Permissions · Access Control</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/linux-file-permissions-management/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+</div>
+
+### 📁 Local File & Permission Security
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px;">
+  
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – File Ownership Recovery – v1.0.0</h5>
+<p>Implemented techniques to recover and reassign file ownership on Linux systems, ensuring proper access control and resolving permission-related issues affecting system operations.</p>
+<p><strong>Skills:</strong> File System Permissions · Linux Administration · Access Control · Troubleshooting</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-file-ownership-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight: bold;">View Report</a>
+</p>
+</div>
+
+</div>
+
+### 🐧 Linux Endpoint Security & Admin Controls
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>SOP – Secure Linux Management with Cockpit – v1.0.1</h5>
+<p>Configured Cockpit for secure browser-based Linux system management and service monitoring.</p>
+<p><strong>Skills:</strong> Linux Administration · Server Management</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-secure-linux-management-cockpit-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Webmin Secure Administration (Dual-Homed) – v1.1.0</h5>
+<p>Deployed and secured Webmin to manage Linux services, users, and configuration through a web interface.</p>
+<p><strong>Skills:</strong> Linux Service Management · System Configuration</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-webmin-secure-admin-dual-homed-v1.1.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – GVM Deployment and Hardening on ARM64 Kali Linux – v1.1.0</h5>
+<p>Deployed and secured Greenbone Vulnerability Management (GVM) on an ARM64 Kali Linux environment, focusing on system configuration, service management, and hardening practices to support vulnerability scanning operations.</p>
+<p><strong>Skills:</strong> Vulnerability Management · Linux Hardening · Service Configuration · Security Operations</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/gvm-deployment-hardening-arm64/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Linux System Administration Commands – v1.0.0</h5>
+<p>Documentation of essential Linux commands used for system monitoring, troubleshooting, and resource management.</p>
+<p><strong>Skills:</strong> Linux CLI Administration · Process Monitoring · System Diagnostics</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
 </div>
