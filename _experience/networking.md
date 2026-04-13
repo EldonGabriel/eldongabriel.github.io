@@ -22,7 +22,7 @@ These labs focus on understanding network communication models, analyzing protoc
 
 | Category | Labs |
 |--------|------|
-| Networking Fundamentals & Protocol Analysis | 6 |
+| Networking Fundamentals | 6 |
 | Network Architecture & Security | 7 |
 | Lab Demonstrations | 1 |
 | **Total Networking Labs Documented** | **14** |
@@ -35,7 +35,7 @@ Analysis of core networking concepts and protocols to understand system communic
 
 ## Networking Fundamentals & Protocol Analysis Portfolio
 
-### 📡 Networking Diagnostics & Communication Models
+### 📡 Network Protocols & Fundamentals
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -115,6 +115,35 @@ View Report</a>
 
 </div>
 
+### 📡 Network Protocol Security
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – WinRM Secure Configuration and Validation – v1.0.0</h5>
+<p>Configured and validated secure Windows Remote Management settings for administrative traffic.</p>
+<p><strong>Skills:</strong> WinRM · Secure Remote Administration</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-winrm-secure-configuration-validation-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – SMB Hardening for Credential Theft Protection – v1.0.0</h5>
+<p>Implemented SMB security controls to reduce credential exposure risks, including configuration adjustments to mitigate common credential theft techniques such as pass-the-hash and NTLM relay attacks.</p>
+<p><strong>Skills:</strong> SMB Hardening · Credential Security · Network Security · Windows Security Controls</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-smb-hardening-credential-theft-protection-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – SMB Protocol: Function and Security Risks – v1.1.0</h5>
+<p>Analyzed the SMB protocol architecture and documented operational and security risks.</p>
+<p><strong>Skills:</strong> Network Protocols · Threat Analysis</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-smb-protocol-function-security-risks-v1.1.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+</div>
+
+---
+
 ## Network Architecture & Security
 
 Design and evaluation of network structures with a focus on segmentation, secure communication, and reducing attack surface across enterprise environments.
@@ -123,12 +152,7 @@ Design and evaluation of network structures with a focus on segmentation, secure
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Kerberos Authentication Protocol – v1.0.0</h5>
-<p>Studied and documented the Kerberos authentication process, including ticket-granting mechanisms and secure authentication workflows used in Active Directory environments.</p>
-<p><strong>Skills:</strong> Authentication Protocols · Active Directory · Identity Security · Ticket-Based Authentication</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-kerberos-authentication-protocol-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
-</div>
+
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>SOP – Enterprise IPsec VPN Diagnostics – v1.0.2</h5>
