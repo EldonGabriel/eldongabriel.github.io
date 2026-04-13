@@ -24,7 +24,7 @@ These labs reflect hands-on implementation across system administration, virtual
 
 | Category | Labs |
 |--------|------|
-| Technical Foundations | 3 |  
+| Technical Foundations | 2 |  
 | Windows Systems Administration | 7 | 
 | System Administration & Maintenance | 3 |
 | Troubleshooting & System Diagnostics | 5 |
@@ -35,7 +35,7 @@ These labs reflect hands-on implementation across system administration, virtual
 
 ---
 
-## 🧠 Technical Foundations
+### 🧠 Technical Foundations
 
 These reports focus on core system knowledge, including how hardware, memory, and processing work together to support computing operations.
 
@@ -65,13 +65,13 @@ View Report</a>
 
 ---
 
-# Windows Systems Administration
+## Windows Systems Administration
 
 Hands-on system administration tasks performed in Windows environments, focusing on system management, security controls, and troubleshooting.
 
 ---
 
-## 🛡️ Endpoint Security & GPO Hardening
+### 🛡️ Endpoint Security & GPO Hardening
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
