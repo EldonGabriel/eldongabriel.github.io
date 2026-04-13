@@ -29,10 +29,10 @@ These labs reflect hands-on implementation across system administration, virtual
 | System Administration & Maintenance | 3 |
 | Troubleshooting & System Diagnostics | 5 |
 | Linux Systems Administration | 2 |
-| Virtualization & Infrastructure | 5 |
+| Virtualization & Infrastructure | 7 |
 | Lab Demonstrations | 29 |
 | Managed Operations & Automation Labs | 4 |
-| **Total Labs Documented** | **57** |
+| **Total Labs Documented** | **59** |
 
 ---
 
@@ -315,6 +315,7 @@ Administration and hardening of Linux-based systems, including user management, 
 </div>
 
 
+
 ### 🐧 Linux Endpoint Security & Admin Controls
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
@@ -356,6 +357,21 @@ Administration and hardening of Linux-based systems, including user management, 
 Design and deployment of virtualized environments used to support secure system administration, testing, and infrastructure validation across isolated lab environments.
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
+
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – VirtualBox Network Modes – v1.0.0</h5>
+<p>Analysis of VirtualBox networking configurations including NAT, Bridged, Host-Only, and Internal networking modes.</p>
+<p><strong>Skills:</strong> Virtual Networking · Lab Infrastructure · Network Configuration</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – System Administration Virtualization in Cybersecurity – v1.0.1</h5>
+<p>Explains the role of virtualization platforms in building isolated environments for system administration and cybersecurity testing.</p>
+<p><strong>Skills:</strong> Virtualization · Lab Architecture · Security Testing Environments</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+</div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0</h5>
