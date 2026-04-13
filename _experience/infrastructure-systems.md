@@ -172,6 +172,7 @@ Hands-on system administration tasks performed in Windows environments, focusing
 
 </div>
 
+
 ### 👁️ Endpoint Monitoring
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px;">
@@ -187,7 +188,7 @@ Hands-on system administration tasks performed in Windows environments, focusing
 
 </div>
 
----
+
 
 ### ⚙️ System Administration & Maintenance
 
@@ -273,7 +274,7 @@ View Report</a>
 
 </div>
 
----
+ 
 
 ### 🐧 Linux Systems Administration
 
@@ -347,7 +348,7 @@ Administration and hardening of Linux-based systems, including user management, 
 
 </div>
 
----
+ 
 
 ### 🌐 Virtualization & Infrastructure
 
@@ -394,7 +395,7 @@ Design and deployment of virtualized environments used to support secure system 
 
 </div> 
 
----
+
 
 ## Lab Demonstrations
 
