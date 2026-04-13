@@ -36,6 +36,7 @@ These labs reflect hands-on implementation across system administration, virtual
 
 ---
 
+
 ### 🧠 Technical Foundations
 
 These reports focus on core system knowledge, including how hardware, memory, and processing work together to support computing operations.
@@ -69,6 +70,7 @@ View Report</a>
 Hands-on system administration tasks performed in Windows environments, focusing on system management, security controls, and troubleshooting.
 
 ---
+
 
 ### 🛡️ Endpoint Security & Configuration Enforcement
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
@@ -189,7 +191,6 @@ Hands-on system administration tasks performed in Windows environments, focusing
 </div>
 
 
-
 ### ⚙️ System Administration & Maintenance
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
@@ -274,7 +275,6 @@ View Report</a>
 
 </div>
 
- 
 
 ### 🐧 Linux Systems Administration
 
@@ -313,6 +313,7 @@ Administration and hardening of Linux-based systems, including user management, 
 </div>
 
 </div>
+
 
 ### 🐧 Linux Endpoint Security & Admin Controls
 
