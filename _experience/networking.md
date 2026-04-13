@@ -27,7 +27,7 @@ These labs focus on understanding network communication models, analyzing protoc
 | Lab Demonstrations | 1 |
 | **Total Networking Labs Documented** | **14** |
 
----
+ 
 
 # Networking Fundamentals & Protocol Analysis
 
@@ -142,7 +142,7 @@ View Report</a>
 
 </div>
 
----
+ 
 
 ## Network Architecture & Security
 
@@ -151,8 +151,6 @@ Design and evaluation of network structures with a focus on segmentation, secure
 ### 🏗️ Network Design & Secure Infrastructure
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
-
-
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>SOP – Enterprise IPsec VPN Diagnostics – v1.0.2</h5>
@@ -220,8 +218,6 @@ View Report</a>
 
 </div>
 
----
-
 ## Lab Demonstrations
 
 ### 🌐 Networking Labs
@@ -235,8 +231,6 @@ View Report</a>
 </div>
 
 </div>
-
----
 
 # Portfolio Documentation
 
