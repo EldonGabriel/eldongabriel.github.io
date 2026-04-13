@@ -51,7 +51,7 @@ Restricted: Request Access
 <p><strong>Skills:</strong> Multilingual OSINT · Translation Tools · Intelligence Analysis</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-using-google-translate-osint-v1.1.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
-View Field Notes
+View Report
 </a>
 </p>
 </div>
@@ -62,7 +62,7 @@ View Field Notes
 <p><strong>Skills:</strong> Email Pattern Analysis · OSINT Enumeration · Identity Mapping</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-osint-email-enumeration-validation-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
-View Field Notes
+View Report
 </a>
 </p>
 </div>
