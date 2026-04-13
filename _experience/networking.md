@@ -45,10 +45,9 @@ Analysis of core networking concepts and protocols to understand system communic
 <p><strong>Skills:</strong> Subnet Design · IP Addressing</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-ip-subnetting-fundamentals-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
-View Field Notes</a>
+View Report</a>
 </p>
 </div>
-
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Network Troubleshooting Framework – v1.0.0</h5>
@@ -100,7 +99,17 @@ Restricted: Request Access
 <p><strong>Skills:</strong> DNS Diagnostics · CLI Network Analysis</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/dns-analysis-dig/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
-View Field Notes</a>
+View Report</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – DNS Outage and Port 53 Failure Analysis – v1.0.1</h5>
+<p>Investigation of a DNS service outage caused by UDP port 53 failure, using packet analysis and ICMP error responses to identify the root cause.</p>
+<p><strong>Skills:</strong> DNS Troubleshooting · Packet Analysis · ICMP Diagnostics · Network Failure Analysis</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-dns-outage-port-failure-analysis/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report</a>
 </p>
 </div>
 
@@ -118,7 +127,7 @@ Design and evaluation of network structures with a focus on segmentation, secure
 <h5>REPORT – Kerberos Authentication Protocol – v1.0.0</h5>
 <p>Studied and documented the Kerberos authentication process, including ticket-granting mechanisms and secure authentication workflows used in Active Directory environments.</p>
 <p><strong>Skills:</strong> Authentication Protocols · Active Directory · Identity Security · Ticket-Based Authentication</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-kerberos-authentication-protocol-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-kerberos-authentication-protocol-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -127,7 +136,7 @@ Design and evaluation of network structures with a focus on segmentation, secure
 <p><strong>Skills:</strong> VPN Diagnostics · IPsec Analysis · Troubleshooting</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/architecting-enterprise-ipsec-vpns/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
-View Field Notes
+View Report
 </a>
 </p>
 </div>
@@ -160,8 +169,7 @@ Restricted: Request Access
 <p><strong>Skills:</strong> Threat Analysis · Network Attack Surface · Defensive Architecture</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/network-attack-analysis/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
-View Field Notes</a>
-</p>
+View Report</a>
 </p>
 </div>
 
