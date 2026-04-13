@@ -24,8 +24,8 @@ These exercises highlight how administrators enforce access restrictions, protec
 
 | Category | Labs |
 |--------|------|
-| Identity & Access Management | 7 |
-| **Total Identity Security Labs Documented** | **7** |
+| Identity & Access Management | 8 |
+| **Total Identity Security Labs Documented** | **8** |
 
 ---
 
@@ -49,12 +49,17 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Password Managers – v1.0.0</h5>
-<p>Technical analysis of password manager technologies and their role in protecting user credentials through encrypted storage and zero-knowledge security models.</p>
-<p><strong>Skills:</strong> Identity Security · Credential Management · Authentication Controls</p>
-<p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-password-managers-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
-</p>
+<h5>REPORT – File Ownership Recovery – v1.0.0</h5>
+<p>Recovered NTFS file ownership and restored proper permission controls on secured systems.</p>
+<p><strong>Skills:</strong> NTFS Permissions · Access Recovery</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-file-ownership-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>SOP – Password & Account Lockout GPO Hardening – v1.0.1</h5>
+<p>Implemented enterprise-grade password complexity and lockout thresholds to mitigate brute-force attempts.</p>
+<p><strong>Skills:</strong> Identity Security · Password Policy</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-password-account-lockout-gpo-hardening-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -81,17 +86,20 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>SOP – Password & Account Lockout GPO Hardening – v1.0.1</h5>
-<p>Implemented enterprise-grade password complexity and lockout thresholds to mitigate brute-force attempts.</p>
-<p><strong>Skills:</strong> Identity Security · Password Policy</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-password-account-lockout-gpo-hardening-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<h5>REPORT – Kerberos Authentication Protocol – v1.0.0</h5>
+<p>Studied and documented the Kerberos authentication process, including ticket-granting mechanisms and secure authentication workflows used in Active Directory environments.</p>
+<p><strong>Skills:</strong> Authentication Protocols · Active Directory · Identity Security · Ticket-Based Authentication</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-kerberos-authentication-protocol-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – File Ownership Recovery – v1.0.0</h5>
-<p>Recovered NTFS file ownership and restored proper permission controls on secured systems.</p>
-<p><strong>Skills:</strong> NTFS Permissions · Access Recovery</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-file-ownership-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<h5>REPORT – Password Managers – v1.0.0</h5>
+<p>Technical analysis of password manager technologies and their role in protecting user credentials through encrypted storage and zero-knowledge security models.</p>
+<p><strong>Skills:</strong> Identity Security · Credential Management · Authentication Controls</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-password-managers-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
 </div>
 
 </div>
