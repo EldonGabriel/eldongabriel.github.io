@@ -24,23 +24,54 @@ These labs reflect hands-on implementation across system administration, virtual
 
 | Category | Labs |
 |--------|------|
-| Windows Systems Administration | 15 |
-| Linux Systems Administration | 5 |
-| Virtualization & Infrastructure | 8 | 
-| IT Support & Hardware Troubleshooting | 1 |
+| Technical Foundations | 3 |  
+| Windows Systems Administration | 7 | 
+| System Administration & Maintenance | 3 |
+| Troubleshooting & System Diagnostics | 5 |
+| Linux Systems Administration | 2 |
+| Virtualization & Infrastructure | 5 |
 | Lab Demonstrations | 33 |
-| **Total Labs Documented** | **61** |
+| **Total Labs Documented** | **57** |
 
 ---
 
-# Windows Systems Administration & Security Engineering
+## 🧠 Technical Foundations
 
-Hands-on system administration tasks performed in Windows environments, focusing on system management, disk operations, service control, and operational troubleshooting.
+These reports focus on core system knowledge, including how hardware, memory, and processing work together to support computing operations.
 
-## Windows Systems Administration Portfolio
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
-### 🛡️ Endpoint Security Engineering & GPO Hardening
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Introduction to Computer Hardware and Processing – v1.0.0</h5>
+<p>Overview of core computer components, including CPU, RAM, storage, and how data is processed at the hardware level.</p>
+<p><strong>Skills:</strong> Hardware Fundamentals · Data Processing · System Architecture</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-introduction-computer-hardware-processing/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report</a>
+</p>
+</div>
 
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Binary Systems, Data Representation and Logic Gates – v1.0.0</h5>
+<p>Analysis of how computers process binary data using encoding systems and logic gates to produce meaningful outputs.</p>
+<p><strong>Skills:</strong> Binary Conversion · Data Encoding · Logic Gates · System Analysis</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-binary-systems-data-representation-logic-gates/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report</a>
+</p>
+</div>
+
+</div>
+
+---
+
+# Windows Systems Administration
+
+Hands-on system administration tasks performed in Windows environments, focusing on system management, security controls, and troubleshooting.
+
+---
+
+## 🛡️ Endpoint Security & GPO Hardening
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -64,11 +95,6 @@ Hands-on system administration tasks performed in Windows environments, focusing
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-os-patching-enforcement-local-gpo-v.1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);"> 
-<h5>REPORT – Windows Control Panel Administration – v1.0.0</h5> <p>Implemented execution restrictions and application whitelisting logic via Group Policy Objects.</p> <p><strong>Skills:</strong> Application Control · Threat Surface Reduction</p> 
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-windows-control-panel-administration/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p> 
-</div>
-
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Hardening Microsoft Edge via Local GPO – v1.0.0</h5>
 <p>Applied Group Policy configurations to secure Microsoft Edge by restricting extensions, downloads, and unsafe browser behaviors.</p>
@@ -84,13 +110,6 @@ Hands-on system administration tasks performed in Windows environments, focusing
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – GPO Hardening for Windows Application Control – v1.0.0</h5>
-<p>Configured Group Policy controls to restrict unauthorized software execution and strengthen application control mechanisms.</p>
-<p><strong>Skills:</strong> Application Control · Threat Surface Reduction · GPO Enforcement</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-gpo-hardening-for-windows-application-control-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Endpoint Security with Windows Registry – v1.0.0</h5>
 <p>Configured Windows Registry security settings to restrict untrusted user activity and enforce system-level access controls.</p>
 <p><strong>Skills:</strong> Registry Hardening · Endpoint Security · Access Control</p>
@@ -98,81 +117,35 @@ Hands-on system administration tasks performed in Windows environments, focusing
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Hardening Windows User Rights via Local Group Policy – v1.0.0</h5>
-<p>Configured User Rights Assignment policies to enforce least privilege and restrict sensitive system permissions.</p>
-<p><strong>Skills:</strong> Least Privilege · Access Control · Identity Security</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-hardening-windows-user-rights-via-local-group-policy-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0</h5>
-<p>Implemented session lock policies via Group Policy to ensure inactive systems automatically secure user sessions.</p>
-<p><strong>Skills:</strong> Session Security · Endpoint Protection · Policy Enforcement</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-applying-a-local-gpo-for-session-lock-enforcement-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Deploy Local GPO for Windows Security Policies – v1.0.0</h5>
-<p>Configured Local Group Policy settings to enforce baseline Windows security protections.</p>
-<p><strong>Skills:</strong> GPO Engineering · Endpoint Hardening</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-deploy-local-gpo-windows-security-policies-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>SOP – Password & Account Lockout GPO Hardening – v1.0.1</h5>
-<p>Configured GPO to enforce password policies, account lockout thresholds, and session locking to strengthen authentication and reduce unauthorized access.</p>
-<p><strong>Skills:</strong> Password Policy · Account Lockout · Group Policy · Endpoint Hardening · Access Control</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-password-account-lockout-gpo-hardening-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Hardening UAC via Local Group Policy – v1.0.0</h5>
-<p>Strengthened User Account Control configuration to prevent unauthorized privilege escalation.</p>
-<p><strong>Skills:</strong> UAC Hardening · Privilege Security</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-hardening-uac-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Hardening Credential Entry Using Group Policy – v1.0.0</h5>
-<p>Implemented Secure Desktop and logon restrictions via Group Policy to reduce credential exposure and prevent interception.</p>
-<p><strong>Skills:</strong> Credential Security · Logon Hardening · Access Protection</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-hardening-credential-entry-using-group-policy-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Monitoring Windows Processes with Procmon – v1.0.1</h5>
-<p>Demonstrates using Microsoft Process Monitor to observe system activity, analyze process behavior, and investigate file and registry interactions.</p>
-<p><strong>Skills:</strong> Security Monitoring · Process Analysis · Sysinternals Diagnostics</p>
-<p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-monitoring-windows-processes-procmon-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
-</p>
+<h5>REPORT – GPO Hardening for Windows Application Control – v1.0.0</h5>
+<p>Configured Group Policy controls to restrict unauthorized software execution and strengthen application control mechanisms.</p>
+<p><strong>Skills:</strong> Application Control · Threat Surface Reduction · GPO Enforcement</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-gpo-hardening-for-windows-application-control-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 </div>
 
-### 🛠️ Infrastructure Operations & Diagnostics
+### ⚙️ System Administration & Maintenance
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – File Ownership Recovery – v1.0.0</h5>
-<p>Implemented techniques to recover and reassign file ownership on Linux systems, ensuring proper access control and resolving permission-related issues affecting system operations.</p>
-<p><strong>Skills:</strong> File System Permissions · Linux Administration · Access Control · Troubleshooting</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-file-ownership-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
-</p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – SAR Performance Monitoring on Ubuntu – v1.0.1</h5>
-<p>Utilized system activity reporting tools to monitor CPU, memory, and I/O performance on Ubuntu systems for operational diagnostics and system health analysis.</p>
-<p><strong>Skills:</strong> System Monitoring · Performance Analysis · Linux Diagnostics</p>
+<h5>REPORT – Windows Disk Management with CHKDSK and FSUTIL – v1.0.0</h5>
+<p>Using built-in Windows tools to check disk health, repair filesystem errors, and validate storage integrity.</p>
+<p><strong>Skills:</strong> Disk Management · Filesystem Repair · Storage Integrity</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-sar-performance-monitoring-ubuntu-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+<a href="https://eldongabriel.github.io/report-windows-disk-management-chkdsk-fsutil-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report</a>
 </p>
 </div>
 
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);"> 
+<h5>REPORT – Windows Control Panel Administration – v1.0.0</h5> <p>Implemented execution restrictions and application whitelisting logic via Group Policy Objects.</p> <p><strong>Skills:</strong> Application Control · Threat Surface Reduction</p> 
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-windows-control-panel-administration/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p> 
+</div>
+
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – Windows System Administration Labs (11 Independent Labs) – v1.0.0</h5>
+<h5>GUIDE – Windows System Administration Labs (11 Modules) – v1.0.0</h5>
 <p>Collection of structured Windows system administration labs covering core operational tasks, system configuration, and environment management across multiple scenarios.</p>
 <p><strong>Skills:</strong> Windows Administration · System Configuration · Troubleshooting · Lab Environment Management</p>
 <p align="center" style="margin-top:20px;">
@@ -182,29 +155,56 @@ Hands-on system administration tasks performed in Windows environments, focusing
 
 </div>
 
-### 📡 Network Protocol Security
+### 🔍 Troubleshooting & System Diagnostics
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – WinRM Secure Configuration and Validation – v1.0.0</h5>
-<p>Configured and validated secure Windows Remote Management settings for administrative traffic.</p>
-<p><strong>Skills:</strong> WinRM · Secure Remote Administration</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-winrm-secure-configuration-validation-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<h5>REPORT – USB Storage Failure Analysis and Disk Validation – v1.0.0</h5>
+<p>Investigation of USB storage instability to determine if failures were caused by filesystem corruption or physical hardware defects.</p>
+<p><strong>Skills:</strong> Hardware Diagnostics · Disk Validation · CHKDSK · Root Cause Analysis</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-usb-storage-failure-analysis/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report</a>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – SMB Hardening for Credential Theft Protection – v1.0.0</h5>
-<p>Implemented SMB security controls to reduce credential exposure risks, including configuration adjustments to mitigate common credential theft techniques such as pass-the-hash and NTLM relay attacks.</p>
-<p><strong>Skills:</strong> SMB Hardening · Credential Security · Network Security · Windows Security Controls</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-smb-hardening-credential-theft-protection-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<h5>REPORT – USB Filesystem Corruption Due to Improper Removal – v1.0.0</h5>
+<p>Analysis of a corrupted USB device caused by improper removal during active disk operations, resulting in filesystem failure.</p>
+<p><strong>Skills:</strong> Filesystem Troubleshooting · Disk Management · Data Integrity · Root Cause Analysis</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-usb-filesystem-corruption/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report</a>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – SMB Protocol: Function and Security Risks – v1.1.0</h5>
-<p>Analyzed the SMB protocol architecture and documented operational and security risks.</p>
-<p><strong>Skills:</strong> Network Protocols · Threat Analysis</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-smb-protocol-function-security-risks-v1.1.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<h5>REPORT – Restore USB Access on a Windows 10 VM – v1.1.0</h5>
+<p>Resolved USB passthrough issues in a virtualized environment by configuring VirtualBox USB filters and validating filesystem integrity.</p>
+<p><strong>Skills:</strong> Virtualization · USB Passthrough · Disk Management · CHKDSK · Root Cause Analysis</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-restore-usb-access-windows-10-vm/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Workstation Power Failure Investigation – v1.0.0</h5>
+<p>Diagnosed and resolved hardware instability caused by insufficient power supply capacity following system upgrades.</p>
+<p><strong>Skills:</strong> Hardware Diagnostics · Power Load Calculation · Root Cause Analysis (RCA) · Data Integrity</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-workstation-power-failure-investigation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Troubleshooting Remote Access and Network Isolation – v1.0.0</h5>
+<p>Resolved Remote Desktop access failures by fixing Group Policy conflicts and implementing a dual-homed network design for secure management.</p>
+<p><strong>Skills:</strong> RDP Troubleshooting · Group Policy · Network Isolation · Access Control · Root Cause Analysis</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/troubleshooting-remote-access-network-isolation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report</a>
+</p>
 </div>
 
 </div>
@@ -218,24 +218,12 @@ Administration and hardening of Linux-based systems, including user management, 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>SOP – Secure Linux Management with Cockpit – v1.0.1</h5>
-<p>Configured Cockpit for secure browser-based Linux system management and service monitoring.</p>
-<p><strong>Skills:</strong> Linux Administration · Server Management</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-secure-linux-management-cockpit-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Webmin Secure Administration (Dual-Homed) – v1.1.0</h5>
-<p>Deployed and secured Webmin to manage Linux services, users, and configuration through a web interface.</p>
-<p><strong>Skills:</strong> Linux Service Management · System Configuration</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-webmin-secure-admin-dual-homed-v1.1.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – GVM Deployment and Hardening on ARM64 Kali Linux – v1.1.0</h5>
-<p>Deployed and secured Greenbone Vulnerability Management (GVM) on an ARM64 Kali Linux environment, focusing on system configuration, service management, and hardening practices to support vulnerability scanning operations.</p>
-<p><strong>Skills:</strong> Vulnerability Management · Linux Hardening · Service Configuration · Security Operations</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/gvm-deployment-hardening-arm64/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<h5>REPORT – SAR Performance Monitoring on Ubuntu – v1.0.1</h5>
+<p>Utilized system activity reporting tools to monitor CPU, memory, and I/O performance on Ubuntu systems for operational diagnostics and system health analysis.</p>
+<p><strong>Skills:</strong> System Monitoring · Performance Analysis · Linux Diagnostics</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-sar-performance-monitoring-ubuntu-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -243,13 +231,6 @@ Administration and hardening of Linux-based systems, including user management, 
 <p>Managed file and directory permissions using chmod, chown, and chgrp to enforce proper access control.</p>
 <p><strong>Skills:</strong> Linux Permissions · Access Control</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/linux-file-permissions-management/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Linux System Administration Commands – v1.0.0</h5>
-<p>Documentation of essential Linux commands used for system monitoring, troubleshooting, and resource management.</p>
-<p><strong>Skills:</strong> Linux CLI Administration · Process Monitoring · System Diagnostics</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
 </div>
@@ -263,33 +244,18 @@ Design and deployment of virtualized environments used to support secure system 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – vSphere 8 Nested Lab on AMD Ryzen 6000 – v1.0.0</h5>
+<h5>REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0</h5>
+<p>A practical troubleshooting case study on migrating VMware virtual machines to AWS EC2 and resolving kernel driver removal issues from the AWS Application Migration Service.</p>
+<p><strong>Skills:</strong> Cloud Migration · AWS EC2 · Infrastructure Runbooks</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-enterprise-hybrid-cloud-migration-v1.2.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>GUIDE – vSphere 8 Nested Lab on AMD Ryzen 5 6600H – v1.0.0</h5>
 <p>Demonstrates the setup of a nested virtualization environment using VMware vSphere 8 on AMD Ryzen 6000 hardware, including configuration of nested ESXi hosts and lab networking.</p>
 <p><strong>Skills:</strong> Nested Virtualization · VMware vSphere · Lab Deployment · Infrastructure Configuration</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-vsphere-8-nested-lab-amd-ryzen-6000-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-vsphere-8-nested-lab-amd-ryzen-5-6600h/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – Cybersecurity Virtualization Labs (VMware, WSL, GCP, AWS) – v1.0.0</h5>
-<p>Provides an overview of building and managing cybersecurity-focused virtualization labs across multiple platforms including VMware, WSL, GCP, and AWS for testing and learning environments.</p>
-<p><strong>Skills:</strong> Virtualization · Multi-Cloud Environments · Lab Architecture · Infrastructure Design</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-cybersecurity-virtualizationlabs-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a> 
-</p>
-</div> 
-  
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – VirtualBox Network Modes – v1.0.0</h5>
-<p>Analysis of VirtualBox networking configurations including NAT, Bridged, Host-Only, and Internal networking modes.</p>
-<p><strong>Skills:</strong> Virtual Networking · Lab Infrastructure · Network Configuration</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – System Administration Virtualization in Cybersecurity – v1.0.1</h5>
-<p>Explains the role of virtualization platforms in building isolated environments for system administration and cybersecurity testing.</p>
-<p><strong>Skills:</strong> Virtualization · Lab Architecture · Security Testing Environments</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -300,35 +266,21 @@ Design and deployment of virtualized environments used to support secure system 
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0</h5>
-<p>A practical troubleshooting case study on migrating VMware virtual machines to AWS EC2 and resolving kernel driver removal issues from the AWS Application Migration Service.</p>
-<p><strong>Skills:</strong> Cloud Migration · AWS EC2 · Infrastructure Runbooks</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-enterprise-hybrid-cloud-migration-v1.2.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
-</div>
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>GUIDE – GCP Windows 10 VM Deployment – v1.0.0</h5>
 <p>Demonstrates deploying and configuring a Windows 10 virtual machine in Google Cloud Platform, including network setup, access configuration, and system initialization.</p>
 <p><strong>Skills:</strong> GCP · Cloud Infrastructure · VM Deployment · Remote Access Configuration</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-gcp-windows-10-vm-deployment-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
-</div>
-
-### 🔌 IT Support & Hardware Troubleshooting
-Focused on physical layer diagnostics, hardware lifecycle management, and resolving critical system failures that impact availability.
-
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
-
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Workstation Power Failure Investigation – v1.0.0</h5>
-<p>Diagnosed and resolved hardware instability caused by insufficient power supply capacity following system upgrades.</p>
-<p><strong>Skills:</strong> Hardware Diagnostics · Power Load Calculation · Root Cause Analysis (RCA) · Data Integrity</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-workstation-power-failure-investigation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+<h5>GUIDE – Cybersecurity Virtualization Labs (VMware, WSL, GCP, AWS) – v1.0.0</h5>
+<p>Provides an overview of building and managing cybersecurity-focused virtualization labs across multiple platforms including VMware, WSL, GCP, and AWS for testing and learning environments.</p>
+<p><strong>Skills:</strong> Virtualization · Multi-Cloud Environments · Lab Architecture · Infrastructure Design</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-cybersecurity-virtualizationlabs-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a> 
 </p>
-</div>
+</div> 
 
-</div>
+</div> 
 
 ---
 
