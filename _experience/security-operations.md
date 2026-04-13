@@ -45,7 +45,7 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 <p>Demonstrates building and validating a site-to-site IPsec VPN between enterprise locations to secure data in transit over untrusted networks.</p>
 <p><strong>Skills:</strong> IPsec VPN · IKE · ACLs · NAT Exemption · Network Security · CLI Troubleshooting</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-enterprise-ipsec-vpn-dianogstics-v1.0.0/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-enterprise-ipsec-vpn-dianogstics-v1.0.0/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
 </p>
 </div>
 
@@ -54,7 +54,7 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 <p>Overview of firewall technologies and their role in enforcing network perimeter security.</p>
 <p><strong>Skills:</strong> Network Security · Perimeter Defense · Firewall Policy</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/pfsense-ids-traffic-monitoring/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/pfsense-ids-traffic-monitoring/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
 </p>
 </div>
 
@@ -63,7 +63,7 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 <p>Deployment and validation of an OpenVPN remote access solution to provide secure connectivity for remote systems.</p>
 <p><strong>Skills:</strong> VPN Deployment · Encryption · Secure Remote Access</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/openvpn-remote-access-vpn-deployment-validation/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/openvpn-remote-access-vpn-deployment-validation/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
 </p>
 </div>
 
@@ -78,7 +78,7 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 <p>Implemented Controlled Folder Access (CFA) using Local Group Policy to restrict unauthorized applications from modifying protected directories and mitigate ransomware-based file encryption risks.</p>
 <p><strong>Skills:</strong> CFA · Endpoint Hardening · GPO Security · Ransomware Defense</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-deploy-controlled-folder-access-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-deploy-controlled-folder-access-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
@@ -87,7 +87,7 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 <p>Implemented hardened User Account Control (UAC) settings using Local Group Policy to enforce credential-based elevation and secure desktop protections against privilege escalation.</p>
 <p><strong>Skills:</strong> UAC Hardening · Privilege Management · GPO Security · Secure Desktop</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-hardening-uac-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-hardening-uac-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
@@ -96,7 +96,7 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 <p>Implemented automated OS patching using Local Group Policy to reduce vulnerability exposure while maintaining system availability.</p>
 <p><strong>Skills:</strong> Patch Management · GPO Configuration · Endpoint Hardening · Update Policy Enforcement</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-os-patching-enforcement-local-gpo-v.1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-os-patching-enforcement-local-gpo-v.1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
@@ -105,7 +105,7 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 <p>Hardened Microsoft Edge using Local Group Policy to reduce attack surface and enforce secure browser configurations.</p>
 <p><strong>Skills:</strong> Browser Hardening · GPO Configuration · Endpoint Security</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-harden-microsoft-edge-local-gpo-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-harden-microsoft-edge-local-gpo-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
@@ -114,7 +114,7 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 <p>Configured session lock policies using Local Group Policy to automatically secure idle systems and reduce unauthorized access risk.</p>
 <p><strong>Skills:</strong> GPO Configuration · Endpoint Hardening · Access Control Enforcement</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-gpo-applying-local-gpo-session-lock-enforcement-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-gpo-applying-local-gpo-session-lock-enforcement-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
@@ -123,7 +123,7 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 <p>Applied SMB security policies to reduce exposure to credential harvesting and lateral movement.</p>
 <p><strong>Skills:</strong> SMB Hardening · Credential Protection · Lateral Movement Mitigation</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-smb-hardening-credential-theft-protection-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-smb-hardening-credential-theft-protection-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
@@ -132,7 +132,7 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 <p>Demonstrates using Windows Registry configuration to restrict system utilities and strengthen endpoint security controls.</p>
 <p><strong>Skills:</strong> Registry Hardening · Threat Surface Reduction · OS Security</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-endpoint-security-windows-registry/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-endpoint-security-windows-registry/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
@@ -164,7 +164,7 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 <p>Simulates a full Domain Controller failure and demonstrates how to restore an Active Directory environment using Bare Metal Recovery (BMR) on Windows Server 2016.</p>
 <p><strong>Skills:</strong> Active Directory Recovery · BMR · DSRM · System State Restore · Disaster Recovery Validation</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-ad-disaster-recovery-identity-restoration-v1.0.2/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-ad-disaster-recovery-identity-restoration-v1.0.2/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
 </p>
 </div>
 
@@ -179,7 +179,7 @@ Applied security engineering focused on protecting infrastructure, enforcing acc
 <p>Post-incident investigation of a web application data breach caused by broken access control, including log analysis, root cause identification, and remediation of unauthorized data access.</p>
 <p><strong>Skills:</strong> Incident Response · Log Analysis · Web Security · Access Control · Root Cause Analysis</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/forced-browsing-data-breach/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/forced-browsing-data-breach/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
 </p>
 </div>
 
