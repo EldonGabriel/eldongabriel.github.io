@@ -44,7 +44,7 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 <p>Demonstrates how Windows NTFS permissions can be configured to protect sensitive directories and enforce least-privilege access controls.</p>
 <p><strong>Skills:</strong> NTFS Permission Management · Access Control Enforcement · Least Privilege</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/sop-securing-folder-access-permissions-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/sop-securing-folder-access-permissions-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
@@ -53,7 +53,7 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 <p>Technical analysis of password manager technologies and their role in protecting user credentials through encrypted storage and zero-knowledge security models.</p>
 <p><strong>Skills:</strong> Identity Security · Credential Management · Authentication Controls</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-password-managers-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-password-managers-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
@@ -61,7 +61,7 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 <h5>REPORT – Deploy Local GPO for Windows Security Policies – v1.0.0</h5>
 <p>Configured secure credential entry protections through Windows security policy controls.</p>
 <p><strong>Skills:</strong> Credential Protection · GPO Security</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-deploy-local-gpo-windows-security-policies-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-deploy-local-gpo-windows-security-policies-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -69,7 +69,7 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 <p>Configured automatic session lock enforcement using Local Group Policy to reduce unauthorized access risk on unattended systems.</p>
 <p><strong>Skills:</strong> Identity Security · GPO Configuration · Endpoint Hardening · Access Control</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-gpo-applying-local-gpo-session-lock-enforcement-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a>
+<a href="https://eldongabriel.github.io/report-gpo-applying-local-gpo-session-lock-enforcement-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
@@ -77,21 +77,21 @@ Identity and Access Management (IAM) ensures that only authorized users can acce
 <h5>REPORT – Hardening Windows User Rights via Local Group Policy – v1.0.0</h5>
 <p>Restricted administrative privileges and enforced least-privilege access policies via GPO.</p>
 <p><strong>Skills:</strong> Access Control · Privilege Hardening</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-hardening-windows-user-rights-local-group-policy-v1.0.0//" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-hardening-windows-user-rights-local-group-policy-v1.0.0//" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>SOP – Password & Account Lockout GPO Hardening – v1.0.1</h5>
 <p>Implemented enterprise-grade password complexity and lockout thresholds to mitigate brute-force attempts.</p>
 <p><strong>Skills:</strong> Identity Security · Password Policy</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-password-account-lockout-gpo-hardening-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-password-account-lockout-gpo-hardening-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – File Ownership Recovery – v1.0.0</h5>
 <p>Recovered NTFS file ownership and restored proper permission controls on secured systems.</p>
 <p><strong>Skills:</strong> NTFS Permissions · Access Recovery</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-file-ownership-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-file-ownership-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 </div>
