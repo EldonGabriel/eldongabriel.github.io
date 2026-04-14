@@ -27,12 +27,12 @@ These labs reflect hands-on implementation across system administration, virtual
 | Technical Foundations | 4 |  
 | Windows Systems Administration | 7 | 
 | System Administration & Maintenance | 3 |
-| Troubleshooting & System Diagnostics | 5 |
+| Troubleshooting & System Diagnostics | 6 |
 | Linux Systems Administration | 2 |
 | Virtualization & Infrastructure | 7 |
 | Lab Demonstrations | 29 |
 | Managed Operations & Automation Labs | 4 |
-| **Total Labs Documented** | **61** |
+| **Total Labs Documented** | **62** |
 
 ---
 
@@ -289,6 +289,13 @@ View Report</a>
 <a href="https://eldongabriel.github.io/troubleshooting-remote-access-network-isolation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
 View Report</a>
 </p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Domain Controller NAT & Routing – v1.0.3</h5>
+<p>Configured a Windows Server Domain Controller as a NAT gateway and DNS server for a virtual lab environment. Identified and resolved a duplicate IP conflict that disrupted network routing, restoring stable communication and internet access.</p>
+<p><strong>Skills:</strong> Network Troubleshooting · NAT Configuration · Active Directory · Routing · ESXi</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-domain-controller-nat-routing/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 </div>
