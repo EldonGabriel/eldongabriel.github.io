@@ -24,7 +24,7 @@ These labs reflect hands-on implementation across system administration, virtual
 
 | Category | Labs |
 |--------|------|
-| Technical Foundations | 3 |  
+| Technical Foundations | 4 |  
 | Windows Systems Administration | 7 | 
 | System Administration & Maintenance | 3 |
 | Troubleshooting & System Diagnostics | 5 |
@@ -32,7 +32,7 @@ These labs reflect hands-on implementation across system administration, virtual
 | Virtualization & Infrastructure | 7 |
 | Lab Demonstrations | 29 |
 | Managed Operations & Automation Labs | 4 |
-| **Total Labs Documented** | **60** |
+| **Total Labs Documented** | **61** |
 
 ---
 
@@ -68,6 +68,16 @@ View Report</a>
 <p><strong>Skills:</strong> Memory Architecture · RAM Technologies · Hardware Analysis · System Performance Optimization</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-memory-architecture-ram-technologies/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Storage Systems and Data Management – v1.0.0</h5>
+<p>Analysis of storage technologies and data management strategies, including HDD, SSD, NVMe, and backup methodologies for ensuring data availability and integrity.</p>
+<p><strong>Skills:</strong> Storage Systems · Data Management · Backup Strategy · Infrastructure Planning</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-storage-systems-data-management/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
 View Report</a>
 </p>
 </div>
