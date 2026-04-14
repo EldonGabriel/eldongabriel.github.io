@@ -39,21 +39,22 @@ This task focused on understanding how RAM handles temporary data and how to val
 
 **Key Actions & Observations**
 
-**RAM Basics:** RAM is fast, temporary storage used by the CPU for active tasks. It is different from long-term storage like HDDs or SSDs.  
+**RAM Basics** 
+RAM is fast, temporary storage used by the CPU for active tasks. It is different from long-term storage like HDDs or SSDs.  
 
-**DRAM Function:**
+**DRAM Function**
   - DRAM stores data using tiny electrical charges in capacitors.  
   - It must refresh constantly to keep data from being lost.  
 
-**Technology Changes (SDRAM to DDR):**
+**Technology Changes (SDRAM to DDR)**
   - SDRAM improved timing by syncing with the system clock.  
   - DDR increased speed by sending data twice per clock cycle.  
 
-**Performance Checks:**
+**Performance Checks**
   - Newer DDR versions (DDR1 to DDR5) provide higher speed, lower power use, and more capacity.  
   - RAM modules are designed to fit only compatible slots to prevent hardware errors.  
 
-**Root Cause:**  
+**Root Cause**  
 System slowdowns and crashes are often caused by incorrect RAM speed, mismatched modules, or not enough memory. This was addressed by setting a clear standard for selecting and testing RAM.
 
  
