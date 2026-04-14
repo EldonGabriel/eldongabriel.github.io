@@ -26,11 +26,11 @@ The goal of this task was to understand how data is stored and measured to avoid
 
 The work focused on both physical storage devices and how systems report data to:
 
-- Analyze System Design: Compared slow mechanical drives with faster flash storage.  
+- **Analyze System Design:** Compared slow mechanical drives with faster flash storage.  
 
-- Improve Data Protection: Identified the need for backups and offsite storage.  
+- **Improve Data Protection:** Identified the need for backups and offsite storage.  
 
-- Improve Visibility: Explained why storage sizes appear smaller in the operating system.  
+- **Improve Visibility:** Explained why storage sizes appear smaller in the operating system.  
 
 This helps ensure systems meet both performance needs and long-term data storage requirements.
 
