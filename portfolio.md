@@ -9,10 +9,6 @@ image:
   path: /assets/images/mcsi-novice-sysadmin.png
 ---
 
-**ℹ️ Academic Integrity & Compliance:** 
-To follow MCSI non-disclosure policies, I do not share lab solutions publicly. Instead, I demonstrate my skills through independent research and original lab scenarios, documented below. If needed, restricted work can be verified through official transcripts or a secure screen share.
-{: .notice--info}
-
 <section style="margin: 60px 0;">
   <p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
     My experience is centered on the practical application of security controls across real systems. I focus on hardening infrastructure, investigating operational issues, and validating that implemented controls function as intended in real-world conditions.
@@ -27,13 +23,17 @@ To follow MCSI non-disclosure policies, I do not share lab solutions publicly. I
   </p>
 </section>
 
+**ℹ️ Academic Integrity & Compliance:**
+
+To follow MCSI non-disclosure policies, I do not share lab solutions publicly. Instead, I demonstrate my skills through independent research and original lab scenarios. If needed, restricted work can be verified through official transcripts or a secure screen share.
+
 <div style="margin: 30px 0; padding: 15px; border-left: 4px solid #00adb5; background: rgba(255,255,255,0.03);">
   <p style="margin:0; font-size:1.05em;">
     <strong>Technical Work Index:</strong> 100+ structured reports across troubleshooting, system administration, security operations, and forensic analysis, all validated through a Layer → Device → Root Cause → Resolution methodology.
-</p>
-<p style="margin-top:10px;">
-  <a href="https://docs.google.com/spreadsheets/d/1_NJJ7v9wQ4OH1zhxlq-AKbwUoMMPS58R2aZGxMsAukI/edit?usp=sharing" target="_blank" style="color:#00adb5; text-decoration:none; font-weight:bold;">
-    View Full Work Index →
-  </a>
-</p>  
+  </p>
+  <p style="margin-top:10px;">
+    <a href="https://docs.google.com/spreadsheets/d/1_NJJ7v9wQ4OH1zhxlq-AKbwUoMMPS58R2aZGxMsAukI/edit?usp=sharing" target="_blank" style="color:#00adb5; text-decoration:none; font-weight:bold;">
+      View Full Work Index →
+    </a>
+  </p>  
 </div>
