@@ -2,7 +2,7 @@
 title: "REPORT – Storage Systems and Data Management – v1.0.0"
 date: 2026-04-14
 author: Eldon Gabriel
-categories: [Infrastructure & Systems]
+categories: [Infrastructure and Systems]
 tags: [Storage, HDD, SSD, NVMe, Data Management, Backup Strategy]
 excerpt: "Technical analysis of storage systems, data size standards, and backup methods to keep data safe and available."
 image:
