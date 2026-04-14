@@ -24,7 +24,7 @@ These labs reflect hands-on implementation across system administration, virtual
 
 | Category | Labs |
 |--------|------|
-| Technical Foundations | 2 |  
+| Technical Foundations | 3 |  
 | Windows Systems Administration | 7 | 
 | System Administration & Maintenance | 3 |
 | Troubleshooting & System Diagnostics | 5 |
@@ -32,10 +32,9 @@ These labs reflect hands-on implementation across system administration, virtual
 | Virtualization & Infrastructure | 7 |
 | Lab Demonstrations | 29 |
 | Managed Operations & Automation Labs | 4 |
-| **Total Labs Documented** | **59** |
+| **Total Labs Documented** | **60** |
 
 ---
-
 
 ### 🧠 Technical Foundations
 
@@ -80,7 +79,6 @@ View Report</a>
 Hands-on system administration tasks performed in Windows environments, focusing on system management, security controls, and troubleshooting.
 
 ---
-
 
 ### 🛡️ Endpoint Security & Configuration Enforcement
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
@@ -322,9 +320,7 @@ Administration and hardening of Linux-based systems, including user management, 
 </p>
 </div>
 
-</div>
-
-
+</div> 
 
 ### 🐧 Linux Endpoint Security & Admin Controls
 
@@ -359,8 +355,6 @@ Administration and hardening of Linux-based systems, including user management, 
 </div>
 
 </div>
-
- 
 
 ### 🌐 Virtualization & Infrastructure
 
