@@ -6,8 +6,8 @@ collection: certifications
 collection_item: true
 order: 9
 image:
-  path: /assets/images/headers/mics.png
-  thumbnail: /assets/images/headers/mics.png
+  path: /assets/images/headers/section-header.png
+  thumbnail: /assets/images/headers/section-header.png
   caption: "Practical Foundations in Defensive & Offensive Operations"
 ---
 
