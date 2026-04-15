@@ -6,8 +6,8 @@ collection: certifications
 collection_item: true
 order: 4
 image:
-  path: /assets/images/headers/mois.png
-  thumbnail: /assets/images/headers/mois.png
+  path: /assets/images/headers/section-header.png
+  thumbnail: /assets/images/headers/section-header.png
   caption: "Advanced Open-Source Intelligence & Digital Investigation"
 ---
 
