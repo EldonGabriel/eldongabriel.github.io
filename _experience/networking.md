@@ -7,8 +7,8 @@ collection_item: true
 order: 4
 permalink: /networking/
 image:
-  path: /assets/images/headers/networking.png
-  thumbnail: /assets/images/headers/networking.png
+  path: /assets/images/headers/section-header.png
+  thumbnail: /assets/images/headers/section-header.png
   caption: "Networking Architecture, Protocol Analysis, and Security Labs"
 ---
 
