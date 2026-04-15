@@ -71,7 +71,7 @@ sass:
   style: :compressed
 
 # Comments
-comments: true
+comments: 
   provider: "disqus"
   disqus:
     shortname: eldongabriel
