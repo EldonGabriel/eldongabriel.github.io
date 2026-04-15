@@ -24,7 +24,7 @@ These labs reflect hands-on implementation across system administration, virtual
 
 | Category | Labs |
 |--------|------|
-| Technical Foundations | 4 |  
+| Technical Foundations | 5 |  
 | Windows Systems Administration | 7 | 
 | System Administration & Maintenance | 3 |
 | Troubleshooting & System Diagnostics | 6 |
@@ -32,7 +32,7 @@ These labs reflect hands-on implementation across system administration, virtual
 | Virtualization & Infrastructure | 7 |
 | Lab Demonstrations | 29 |
 | Managed Operations & Automation Labs | 4 |
-| **Total Labs Documented** | **62** |
+| **Total Labs Documented** | **63** |
 
 ---
 
@@ -58,6 +58,16 @@ View Report</a>
 <p><strong>Skills:</strong> Binary Conversion · Data Encoding · Logic Gates · System Analysis</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-binary-systems-data-representation-logic-gates/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Computer Hardware and Power Infrastructure – v1.0.0</h5>
+<p>Overview of core computer hardware components, focusing on motherboard communication, power supply safety, and connector usage in modern systems.</p>
+<p><strong>Skills:</strong> Hardware Fundamentals · Power Management · System Infrastructure · Connector Interfaces</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-computer-hardware-power-infrastructure/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
 View Report</a>
 </p>
 </div>
