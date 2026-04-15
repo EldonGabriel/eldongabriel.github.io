@@ -7,8 +7,8 @@ collection_item: true
 order: 3
 permalink: /infrastructure-systems/
 image:
-  path: /assets/images/headers/is.png
-  thumbnail: /assets/images/headers/is.png
+  path: /assets/images/headers/section-header.png
+  thumbnail: /assets/images/headers/section-header.png
   caption: "Infrastructure & Systems Administration Labs"
 ---
 
