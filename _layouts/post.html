@@ -9,7 +9,9 @@ layout: default
       <header class="page-header">
         {% assign title = page.title | markdownify | strip_html %}
         {% if page.link %}
-          <h1 id="page-title" class="page-title p-name"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
+          <h1 id="page-title" class="page-title p-name">
+            <a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a>
+          </h1>
         {% else %}
           <h1 id="page-title" class="page-title p-name">{{ title }}</h1>
         {% endif %}
@@ -30,7 +32,28 @@ layout: default
           {% include social-share.html %}
         {% endif %}
 
-        <!-- Disqus Direct Embed (No Theme Logic) -->
+        <!-- Share Box (manual, no plugin dependency) -->
+        <div class="share-box">
+          <span>Share:</span>
+
+          <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank" rel="noopener">
+            Facebook
+          </a>
+
+          <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}&text={{ page.title | uri_escape }}" target="_blank" rel="noopener">
+            Tweet
+          </a>
+
+          <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}&title={{ page.title | uri_escape }}" target="_blank" rel="noopener">
+            LinkedIn
+          </a>
+
+          <a href="https://www.reddit.com/submit?url={{ page.url | absolute_url }}&title={{ page.title | uri_escape }}" target="_blank" rel="noopener">
+            Reddit
+          </a>
+        </div>
+
+        <!-- Disqus Direct Embed -->
         <div class="page-comments">
           <div id="disqus_thread"></div>
           <script>
@@ -46,6 +69,7 @@ layout: default
               (d.head || d.body).appendChild(s);
             })();
           </script>
+
           <noscript>
             Please enable JavaScript to view the comments powered by Disqus.
           </noscript>
