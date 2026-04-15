@@ -7,8 +7,8 @@ collection_item: true
 order: 8
 permalink: /operational-resilience/
 image:
-  path: /assets/images/headers/or.png
-  thumbnail: /assets/images/headers/or.png
+  path: /assets/images/headers/section-header.png
+  thumbnail: /assets/images/headers/section-header.png
   caption: "Operational Resilience and Business Continuity Labs"
 ---
 
