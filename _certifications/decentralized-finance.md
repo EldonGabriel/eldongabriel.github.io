@@ -6,8 +6,8 @@ collection: certifications
 collection_item: true
 order: 10
 image:
-  path: /assets/images/headers/duke-defi.png
-  thumbnail: /assets/images/headers/duke-defi.png
+  path: /assets/images/headers/section-header.png
+  thumbnail: /assets/images/headers/section-header.png
   caption: "Analyzing the Architecture of Future Financial Systems"
 ---
 
