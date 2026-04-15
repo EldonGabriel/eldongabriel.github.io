@@ -71,10 +71,10 @@ sass:
   style: :compressed
 
 # Comments
-comments:
-  provider: # "disqus" or "utterances"
+comments: true
+  provider: "disqus"
   disqus:
-    shortname: # disqus shortname
+    shortname: eldongabriel
   utterances:
     theme: github-dark # "github-light" or "github-dark"
     issue_term: # "pathname" or "url"
