@@ -7,8 +7,8 @@ collection_item: true
 order: 6
 permalink: /grc/
 image:
-  path: /assets/images/headers/grc.png
-  thumbnail: /assets/images/headers/grc.png
+  path: /assets/images/headers/section-header.png
+  thumbnail: /assets/images/headers/section-header.png
   caption: "Security Governance, Risk Assessment, and Policy Research"
 ---
 
