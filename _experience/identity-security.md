@@ -7,8 +7,8 @@ collection_item: true
 order: 9
 permalink: /identity-security/
 image:
-  path: /assets/images/headers/idsec.png
-  thumbnail: /assets/images/headers/idsec.png
+  path: /assets/images/headers/section-header.png
+  thumbnail: /assets/images/headers/section-header.png
   caption: "Identity & Access Management Labs"
 ---
 
