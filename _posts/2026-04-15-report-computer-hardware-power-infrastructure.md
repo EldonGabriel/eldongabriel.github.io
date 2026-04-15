@@ -2,7 +2,7 @@
 title: "REPORT – Computer Hardware and Power Infrastructure – v1.0.0"
 date: 2026-04-15
 author: Eldon Gabriel
-categories:[Infrastructure and Systems]
+categories: [Infrastructure and Systems]
 tags: [Hardware, Motherboard, PSU, Power Management, Peripheral Interfaces, Infrastructure]
 excerpt: "Overview of computer hardware components, focusing on motherboard communication, power supply safety, and connector usage."
 image:
