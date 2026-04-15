@@ -6,8 +6,8 @@ collection: certifications
 collection_item: true
 order: 3
 image:
-  path: /assets/images/headers/infosec-crmf.png
-  thumbnail: /assets/images/headers/infosec-crmf.png
+  path: /assets/images/headers/section-header.png
+  thumbnail: /assets/images/headers/section-header.png
   caption: "Mastering NIST Risk Management & Compliance"
 ---
 
