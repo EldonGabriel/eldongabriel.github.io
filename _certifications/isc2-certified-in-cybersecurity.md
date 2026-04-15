@@ -6,8 +6,8 @@ collection: certifications
 collection_item: true
 order: 1
 image:
-  path: /assets/images/headers/isc2cc.png
-  thumbnail: /assets/images/headers/isc2cc.png
+  path: /assets/images/headers/section-header.png
+  thumbnail: /assets/images/headers/section-header.png
   caption: "Foundational Security Excellence & Ethics"
 ---
 
