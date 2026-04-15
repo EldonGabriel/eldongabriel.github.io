@@ -72,15 +72,10 @@ Downtime and data loss often happen because of hardware wear-and-tear or poor ba
 Storage systems were secured by choosing the right hardware and enforcing backups.
 
 | Parameter | Configuration Value |
-
 | :--- | :--- |
-
 | Primary Storage | NVMe / SSD |
-
 | Interface Standard | PCIe / SATA |
-
 | Backup Policy | 3-2-1 Strategy Enforced |
-
 | Scope | Data Availability and Integrity |
 
 **Validation Steps**
