@@ -6,8 +6,8 @@ collection: certifications
 collection_item: true
 order: 11
 image:
-  path: /assets/images/headers/actm.png
-  thumbnail: /assets/images/headers/actm.png
+  path: /assets/images/headers/section-header.png
+  thumbnail: /assets/images/headers/section-header.png
   caption: "Specialized Skillsets & Continuous Professional Development"
 ---
 
