@@ -30,9 +30,26 @@ layout: default
           {% include social-share.html %}
         {% endif %}
 
-        {% if site.comments.provider == "disqus" and site.comments.disqus.shortname %}
-          {% include disqus-comments.html %}
-        {% endif %}
+        <!-- Disqus Direct Embed (No Theme Logic) -->
+        <div class="page-comments">
+          <div id="disqus_thread"></div>
+          <script>
+            var disqus_config = function () {
+              this.page.url = '{{ page.url | absolute_url }}';
+              this.page.identifier = '{{ page.url | absolute_url }}';
+            };
+
+            (function() {
+              var d = document, s = d.createElement('script');
+              s.src = 'https://eldongabriel.disqus.com/embed.js';
+              s.setAttribute('data-timestamp', +new Date());
+              (d.head || d.body).appendChild(s);
+            })();
+          </script>
+          <noscript>
+            Please enable JavaScript to view the comments powered by Disqus.
+          </noscript>
+        </div>
 
         {% include page-pagination.html %}
       </div>
