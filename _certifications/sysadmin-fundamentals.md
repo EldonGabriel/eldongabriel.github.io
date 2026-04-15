@@ -6,8 +6,8 @@ collection: certifications
 collection_item: true
 order: 6
 image:
-  path: /assets/images/headers/msafsysadmin.png
-  thumbnail: /assets/images/headers/msafsysadmin.png
+  path: /assets/images/headers/section-header.png
+  thumbnail: /assets/images/headers/section-header.png
   caption: "Enterprise System Management & Infrastructure Defense"
 ---
 
