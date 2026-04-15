@@ -6,8 +6,8 @@ collection: certifications
 collection_item: true
 order: 2
 image:
-  path: /assets/images/headers/googlecs.png
-  thumbnail: /assets/images/headers/googlecs.png
+  path: /assets/images/headers/section-header.png
+  thumbnail: /assets/images/headers/section-header.png
   caption: "End-to-End Threat Detection & Incident Response"
 ---
 
