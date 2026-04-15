@@ -7,8 +7,8 @@ collection_item: true
 order: 5
 permalink: /security-operations/
 image:
-  path: /assets/images/headers/so.png
-  thumbnail: /assets/images/headers/so.png
+  path: /assets/images/headers/section-header.png
+  thumbnail: /assets/images/headers/section-header.png
   caption: "Security Operations, Hardening, and Monitoring Labs"
 ---
 
