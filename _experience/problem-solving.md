@@ -7,8 +7,8 @@ collection_item: true
 order: 2
 permalink: /problem-solving/
 image:
-  path: /assets/images/headers/prosol.png
-  thumbnail: /assets/images/headers/prosol.png
+  path: /assets/images/headers/section-header.png
+  thumbnail: /assets/images/headers/section-header.png
   caption: "Technical Solutions and Troubleshooting"
 ---
 
