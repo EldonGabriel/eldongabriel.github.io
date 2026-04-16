@@ -71,7 +71,7 @@ The system boot process was reviewed to confirm correct startup behavior and sec
 
 | Parameter | Configuration Value |
 | :--- | :--- |
-| **Firmware Mode** | -UEFI |
+| **Firmware Mode** | UEFI |
 | **Security Control** | Secure Boot Enabled |
 | **System Settings Storage** | CMOS |
 | **Boot Integrity** | Validated |
