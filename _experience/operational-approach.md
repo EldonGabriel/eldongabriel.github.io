@@ -6,7 +6,7 @@ collection: certifications
 collection_item: true
 order: 1
 image:
-  path: /assets/images/headers/section-headerp.png
+  path: /assets/images/headers/section-header.png
   thumbnail: /assets/images/headers/section-header.png
   caption: "Logic-Driven Troubleshooting & Security Baselines"
 ---
@@ -26,19 +26,22 @@ This section outlines the operational approach I use to implement, validate, and
 
 ## Technical Support Fundamentals – Systems Analysis
 
-These scenarios demonstrate how foundational computing concepts are applied to understand system behavior, data representation, and low-level processing in real-world environments.
-
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>1. Binary Systems, Data Representation and Logic Gates</h5>
-<p><strong>Scenario:</strong> Limited understanding of how computers process binary data, leading to gaps in troubleshooting, data interpretation, and low-level system analysis.</p>
-<p><strong>Resolution:</strong> Analyzed binary-to-decimal conversion, character encoding (ASCII/UTF-8), and logic gate operations to establish a clear model of how data is processed and represented within computing systems.</p>
-<p><strong>Validation:</strong> Verified accuracy through binary conversion exercises, ASCII mapping validation, and logic gate truth table analysis to confirm correct system behavior.</p>
-<p><strong>Framework Alignment:</strong> Operational Approach · System Analysis · Data Representation · Foundational Computing</p>
+
+<h5>REPORT – Binary Systems, Data Representation and Logic Gates – v1.0.0</h5>
+
+<p>Analyzed how binary data, character encoding, and logic gates operate to understand low-level system processing and behavior.</p>
+
+<p><strong>Skills:</strong> Binary Analysis · Data Representation · Logic Gates · System Fundamentals</p>
+
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-binary-systems-data-representation-logic-gates/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+<a href="https://eldongabriel.github.io/report-binary-systems-data-representation-logic-gates/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report
+</a>
 </p>
+
 </div>
 
 </div>
@@ -47,140 +50,210 @@ These scenarios demonstrate how foundational computing concepts are applied to u
 
 ## Applied Troubleshooting
 
-These scenarios demonstrate how I apply structured troubleshooting, control enforcement, and validation to real-world security and infrastructure problems.
-
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
+<!-- 1 -->
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>1. Prompt & Rubric Evaluation</h5>
-<p><strong>Scenario:</strong> Evaluation of technical prompts and rubrics suffering from ambiguity, inconsistent grading, and unclear success criteria.</p>
-<p><strong>Resolution:</strong> Refined prompts and rubric structures by enforcing clear objectives, measurable criteria, and single-purpose instructions to improve consistency and reduce interpretation errors.</p>
-<p><strong>Validation:</strong> Tested revised rubrics against sample technical reports to confirm consistent scoring, objective evaluation, and repeatability across different inputs.</p>
-<p><strong>Framework Alignment:</strong> Operational Approach · Quality Assurance · Process Standardization · Evaluation Consistency</p>
+
+<h5>REPORT – Prompt & Rubric Evaluation – v1.0.0</h5>
+
+<p>Refined technical prompts and evaluation rubrics to improve clarity, consistency, and measurable assessment criteria.</p>
+
+<p><strong>Skills:</strong> Process Standardization · Technical Evaluation · QA · Documentation Design</p>
+
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-prompts-rubrics-evaluation-exercises/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+<a href="https://eldongabriel.github.io/report-prompts-rubrics-evaluation-exercises/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report
+</a>
 </p>
+
 </div>
 
+<!-- 2 -->
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>2. AD Disaster Recovery & Identity Restoration</h5>
-<p><strong>Scenario:</strong> Complete loss of a Domain Controller resulting in an identity blackout for 100+ users.</p>
-<p><strong>Resolution:</strong> Rebuilt the server and performed a system state restore using <strong>Directory Services Restore Mode (DSRM)</strong>.</p>
-<p><strong>Validation:</strong> Verified system integrity using <code>dcdiag</code> and <code>repadmin</code> to confirm replication health and data consistency.</p>
-<p><strong>Framework Alignment:</strong> Business Continuity Planning (BCP).</p>
+
+<h5>REPORT – AD Disaster Recovery & Identity Restoration – v1.0.2</h5>
+
+<p>Restored Active Directory services after domain controller failure using system state recovery and validation tools.</p>
+
+<p><strong>Skills:</strong> Active Directory · Disaster Recovery · DSRM · Identity Restoration</p>
+
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-ad-disaster-recovery-identity-restoration-v1.0.2/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+<a href="https://eldongabriel.github.io/report-ad-disaster-recovery-identity-restoration-v1.0.2/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report
+</a>
 </p>
+
 </div>
 
+<!-- 3 -->
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>3. Access Control & NIST Alignment (Least Privilege)</h5>
-<p><strong>Scenario:</strong> Data exposure caused by permission creep and lack of enforced access controls.</p>
-<p><strong>Resolution:</strong> Mapped controls to NIST 800-53 (AC-6) and implemented Role-Based Access Control (RBAC).</p>
-<p><strong>Validation:</strong> Performed negative testing across user roles to confirm enforcement of access restrictions.</p>
-<p><strong>Framework Alignment:</strong> Principle of Least Privilege (POLP).</p>
+
+<h5>REPORT – Access Control & NIST Alignment (AC-6) – v1.2.1</h5>
+
+<p>Implemented least privilege access controls using RBAC aligned with NIST SP 800-53 to prevent unauthorized data exposure.</p>
+
+<p><strong>Skills:</strong> Access Control · RBAC · NIST 800-53 · Least Privilege</p>
+
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/sop-access-control-incident-nist-alignment/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+<a href="https://eldongabriel.github.io/sop-access-control-incident-nist-alignment/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report
+</a>
 </p>
+
 </div>
 
+<!-- 4 -->
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>4. System Hardening: Windows Defender GPO</h5>
-<p><strong>Scenario:</strong> Default AV configurations vulnerable to tampering and ransomware bypass.</p>
-<p><strong>Resolution:</strong> Enforced a hardened baseline through Group Policy to maintain real-time protection and cloud-based scanning.</p>
-<p><strong>Validation:</strong> Confirmed controls remained enforced against local administrative override attempts.</p>
-<p><strong>Framework Alignment:</strong> CIS Microsoft Windows Desktop Benchmark.</p>
+
+<h5>REPORT – Windows Defender GPO Hardening – v1.0.0</h5>
+
+<p>Enforced secure antivirus configurations using Group Policy to prevent tampering and maintain real-time protection.</p>
+
+<p><strong>Skills:</strong> GPO Hardening · Endpoint Security · Windows Defender · Security Baselines</p>
+
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/sop-hardening-windows-defender-using-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+<a href="https://eldongabriel.github.io/sop-hardening-windows-defender-using-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report
+</a>
 </p>
+
 </div>
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255255255,0.1);">
-<h5>5. RDP Troubleshooting (AWS Hybrid Cloud)</h5>
-<p><strong>Scenario:</strong> Persistent RDP failures impacting access to AWS-hosted systems.</p>
-<p><strong>Resolution:</strong> Audited AWS Security Groups, Network ACLs, and OS-level Remote Desktop configurations.</p>
-<p><strong>Validation:</strong> Identified and corrected misconfigured ingress rules, restoring secure connectivity.</p>
-<p><strong>Framework Alignment:</strong> ITIL Incident Management / NIST CSF (RS.AN).</p>
+<!-- 5 -->
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+
+<h5>REPORT – RDP Troubleshooting (AWS Hybrid Cloud) – v1.0.0</h5>
+
+<p>Diagnosed and resolved RDP failures by auditing AWS security groups, network ACLs, and system configurations.</p>
+
+<p><strong>Skills:</strong> Network Troubleshooting · AWS Security · RDP · Access Control</p>
+
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-rdp-troubleshooting-aws-users/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+<a href="https://eldongabriel.github.io/report-rdp-troubleshooting-aws-users/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report
+</a>
 </p>
+
 </div>
 
+<!-- 6 -->
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>6. Remote Access & Network Isolation (RDP + GPO + Dual-Homed)</h5>
-<p><strong>Scenario:</strong> Connectivity and authentication failures between a macOS host and a Windows 11 virtual machine due to Group Policy conflicts and improper network segmentation.</p>
-<p><strong>Resolution:</strong> Resolved conflicting Group Policy “Deny” rules, corrected Remote Desktop access permissions, and implemented a dual-homed network architecture separating management and internet traffic.</p>
-<p><strong>Validation:</strong> Confirmed successful Remote Desktop authentication from the macOS host while maintaining simultaneous internet connectivity via a bridged adapter, ensuring both isolation and usability.</p>
-<p><strong>Framework Alignment:</strong> NIST CSF (PR.AC, PR.IP) · ISO 27001 Remote Access Controls · Principle of Least Privilege</p>
+
+<h5>REPORT – Remote Access & Network Isolation – v1.0.0</h5>
+
+<p>Resolved RDP and connectivity issues by correcting GPO conflicts and implementing dual-homed network segmentation.</p>
+
+<p><strong>Skills:</strong> Network Segmentation · GPO Troubleshooting · Remote Access · Access Control</p>
+
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/troubleshooting-remote-access-network-isolation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+<a href="https://eldongabriel.github.io/troubleshooting-remote-access-network-isolation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report
+</a>
 </p>
+
 </div>
 
+<!-- 7 -->
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>7. Physical Layer RCA: Workstation Power Failure</h5>
-<p><strong>Scenario:</strong> Spontaneous "hard" shutdowns on a database workstation following a storage expansion, with no OS-level error logging.</p>
-<p><strong>Resolution:</strong> Conducted a TDP (Thermal Design Power) audit and identified a wattage deficit. Replaced the legacy 300W PSU with a 600W unit to support increased SATA drive draw.</p>
-<p><strong>Validation:</strong> Performed a 72-hour stress test under maximum I/O load to verify stability during peak power-draw windows.</p>
-<p><strong>Framework Alignment:</strong> Physical Layer Diagnostics · Infrastructure Lifecycle Management · NIST CSF (PR.DS-4)</p>
+
+<h5>REPORT – Workstation Power Failure RCA – v1.0.0</h5>
+
+<p>Identified PSU wattage limitations causing system instability and resolved failures through hardware upgrade and stress testing.</p>
+
+<p><strong>Skills:</strong> Hardware Troubleshooting · Power Analysis · RCA · System Stability Testing</p>
+
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-workstation-power-failure-investigation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+<a href="https://eldongabriel.github.io/report-workstation-power-failure-investigation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report
+</a>
 </p>
+
 </div>
 
+<!-- 8 -->
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>8. USB Passthrough & Filesystem Recovery (Windows VM)</h5>
-<p><strong>Scenario:</strong> USB device detected on the host but not accessible within a Windows 10 virtual machine, with additional “Cannot open volume for direct access” errors.</p>
-<p><strong>Resolution:</strong> Configured VirtualBox USB filters to enforce consistent hardware passthrough and resolved volume lock issues by dismounting the drive and running <code>chkdsk E: /x /f /v</code>.</p>
-<p><strong>Validation:</strong> Verified volume detection using <code>diskpart</code>, confirmed successful read/write operations, and exported <code>chkdsk</code> logs via <code>wevtutil</code> to validate filesystem integrity.</p>
-<p><strong>Framework Alignment:</strong> Structured Troubleshooting · Root Cause Analysis · Filesystem Integrity Validation · NIST CSF (PR.DS-4)</p>
+
+<h5>REPORT – USB Passthrough & Filesystem Recovery – v1.0.0</h5>
+
+<p>Resolved USB detection and filesystem errors in a VM by configuring passthrough and repairing disk integrity issues.</p>
+
+<p><strong>Skills:</strong> Virtualization · USB Passthrough · Filesystem Recovery · Disk Repair</p>
+
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-restore-usb-access-windows-10-vm/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+<a href="https://eldongabriel.github.io/report-restore-usb-access-windows-10-vm/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report
+</a>
 </p>
+
 </div>
 
+<!-- 9 -->
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>9. USB Filesystem Corruption (Improper Removal)</h5>
-<p><strong>Scenario:</strong> USB device became unreadable after use in a virtualized environment, with no visibility in File Explorer or disk tools.</p>
-<p><strong>Resolution:</strong> Performed layered troubleshooting (Device Manager, Disk Management, diskpart) and isolated the issue to filesystem corruption caused by improper removal during an active <code>chkdsk</code> operation.</p>
-<p><strong>Validation:</strong> Confirmed hardware functionality via port isolation and device detection. Verified corruption through forced format prompt and inability to mount the filesystem.</p>
-<p><strong>Framework Alignment:</strong> Root Cause Analysis · Operational Troubleshooting · Data Integrity · NIST CSF (PR.DS-4)</p>
+
+<h5>REPORT – USB Filesystem Corruption Analysis – v1.0.0</h5>
+
+<p>Investigated and confirmed filesystem corruption caused by improper device removal during active operations.</p>
+
+<p><strong>Skills:</strong> Filesystem Analysis · Disk Troubleshooting · Data Integrity · Root Cause Analysis</p>
+
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-usb-filesystem-corruption/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+<a href="https://eldongabriel.github.io/report-usb-filesystem-corruption/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report
+</a>
 </p>
+
 </div>
 
+<!-- 10 -->
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>10. USN Journal Forensics & Timeline Reconstruction</h5>
-<p><strong>Scenario:</strong> Standard file timestamps could be manipulated (timestomping), creating gaps in forensic visibility during investigations.</p>
-<p><strong>Resolution:</strong> Leveraged <code>fsutil</code> to analyze the NTFS USN Journal, extracting reason codes and sequential records to reconstruct file activity and detect potential tampering.</p>
-<p><strong>Validation:</strong> Created, renamed, and deleted test files to confirm that the USN Journal recorded file activity and maintained sequential logging behavior.</p>
-<p><strong>Framework Alignment:</strong> Incident Response · Forensic Analysis · File Integrity Monitoring · NIST CSF (DE.AE, RS.AN)</p>
+
+<h5>REPORT – USN Journal Forensics & Timeline Reconstruction – v1.0.0</h5>
+
+<p>Used NTFS USN Journal analysis to reconstruct file activity and detect potential timestamp manipulation.</p>
+
+<p><strong>Skills:</strong> Digital Forensics · NTFS Analysis · Timeline Reconstruction · Incident Analysis</p>
+
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-usn-journal-analysis/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+<a href="https://eldongabriel.github.io/report-usn-journal-analysis/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report
+</a>
 </p>
+
 </div>
 
+<!-- 11 -->
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>11. Windows Disk Management with CHKDSK and FSUTIL</h5>
-<p><strong>Scenario:</strong> Risk of undetected filesystem corruption and unreliable storage due to lack of structured disk monitoring and validation processes.</p>
-<p><strong>Resolution:</strong> Implemented a standardized disk management approach using <code>chkdsk</code> for repair operations and <code>fsutil</code> for deep filesystem analysis, including dirty bit checks, self-healing status, and NTFS metadata validation.</p>
-<p><strong>Validation:</strong> Verified disk integrity through verbose <code>chkdsk</code> scans, confirmed clean volume states using <code>fsutil dirty query</code>, and validated file activity tracking through USN Journal analysis.</p>
-<p><strong>Framework Alignment:</strong> Operational Troubleshooting · Filesystem Integrity · Preventive Maintenance · NIST CSF (PR.DS-4)</p>
+
+<h5>REPORT – Windows Disk Management with CHKDSK & FSUTIL – v1.0.0</h5>
+
+<p>Implemented structured disk validation using CHKDSK and FSUTIL to detect and repair filesystem inconsistencies.</p>
+
+<p><strong>Skills:</strong> Disk Management · CHKDSK · FSUTIL · Filesystem Integrity</p>
+
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-windows-disk-management-chkdsk-fsutil/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+<a href="https://eldongabriel.github.io/report-windows-disk-management-chkdsk-fsutil/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report
+</a>
 </p>
+
 </div>
 
+<!-- 12 -->
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>12. USB Storage Failure Analysis and Disk Validation</h5>
-<p><strong>Scenario:</strong> USB storage device appeared accessible but showed instability, repeated CHKDSK failures, and system unresponsiveness, creating risk of hidden hardware failure and data loss.</p>
-<p><strong>Resolution:</strong> Performed structured troubleshooting across VM and host systems, including CHKDSK repair attempts, drive reassignment, and full (non-quick) format testing to validate sector-level integrity and isolate hardware failure.</p>
-<p><strong>Validation:</strong> Confirmed persistent CHKDSK errors, full format failure at 0%, and system I/O lock condition. Verified failure across both virtual and physical environments, with system recovery only after physical device removal.</p>
-<p><strong>Framework Alignment:</strong> Applied Troubleshooting · Hardware Failure Analysis · Storage Integrity · NIST CSF (PR.DS-4, ID.AM-1)</p>
+
+<h5>REPORT – USB Storage Failure Analysis & Validation – v1.0.0</h5>
+
+<p>Diagnosed hardware-level USB failure through cross-environment testing and disk validation techniques.</p>
+
+<p><strong>Skills:</strong> Hardware Diagnostics · Storage Analysis · Disk Validation · Failure Analysis</p>
+
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-usb-storage-failure-analysis/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+<a href="https://eldongabriel.github.io/report-usb-storage-failure-analysis/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report
+</a>
 </p>
+
 </div>
 
 </div>
