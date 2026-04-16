@@ -11,12 +11,9 @@ image:
   caption: "Logic-Driven Troubleshooting & Security Baselines"
 ---
 
-This section outlines the operational approach I use to implement, validate, and troubleshoot security controls across enterprise systems.
-
-- Apply a structured troubleshooting framework (Layer → Device → Root Cause → Resolution)  
-- Enforce security baselines aligned with NIST and CIS standards  
-- Validate all fixes through testing, including negative testing  
-- Prioritize long-term control effectiveness over temporary fixes  
+<p>
+This section outlines the operational approach used to implement, validate, and troubleshoot security controls across enterprise systems. It applies a structured troubleshooting framework based on <em></em>Layer → Device → Root Cause → Resolution</em> to ensure issues are accurately identified and resolved. Security baselines are enforced in alignment with NIST and CIS standards, with all fixes validated through both functional and negative testing. The focus remains on long-term control effectiveness, ensuring solutions are reliable, repeatable, and resilient rather than temporary fixes.
+</p>  
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
   <strong>Core Pillars:</strong> Structured Troubleshooting · Security Control Enforcement · RCA · Validation Testing
