@@ -14,25 +14,23 @@ image:
 
 ### GRC Lab Overview
 
-Security governance defines how organizations identify, assess, and manage cybersecurity risk through structured frameworks, policies, and decision-making processes.
+Security governance defines how organizations identify, assess, and manage cybersecurity risk through structured frameworks, policies, and decision-making processes.nThe work in this section demonstrates practical application of risk assessment methodologies, governance frameworks, and policy development used to evaluate security posture and guide real-world security decisions. 
 
-The work in this section demonstrates practical application of risk assessment methodologies, governance frameworks, and policy development used to evaluate security posture and guide real-world security decisions.
+All work is aligned with NIST-based methodologies and structured using a Layer → Device → Root Cause → Resolution validation model.
 
 ### Lab Distribution Summary
 
 | Category | Labs |
 |--------|------|
-| Technical Communication & Reporting Standards | 3 |
-| Frameworks, Risk & Policy | 5 |
-| Security Research & Strategic Analysis | 2 |
+| Technical Communication & Reporting Standards | 4 |
+| Risk Management & Security Frameworks | 4 |
+| Threat Modeling & Defensive Strategy | 2 |
 | Lab Demonstration | 2 |
 | **Total Governance Documents** | **12** |
 
 ---
 
 # GRC Documentation
-
-This section highlights applied risk analysis, governance frameworks, and security decision-making processes used to assess and reduce organizational risk.
 
 ### 📑 Technical Reporting & Communication
 
@@ -42,28 +40,28 @@ This section highlights applied risk analysis, governance frameworks, and securi
 <h5>REPORT – Cybersecurity Assessment (Reporting Template) – v1.1.1</h5>
 <p>Implementation of standardized reporting frameworks, including revision history and executive summaries for formal assessments.</p>
 <p><strong>Skills:</strong> Professional Reporting · Documentation Standards</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Enhancing Writing Quality with Quillbot – v1.1.0</h5>
 <p>Utilizing AI-assisted tools to refine sentence structure and maintain professional tone in technical documentation.</p>
 <p><strong>Skills:</strong> Technical Communication · Professional Writing</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Improving Readability Using Hemingway – v1.0.0</h5>
 <p>Optimizing technical reports for stakeholder readability by reducing complexity and ensuring clear security insights.</p>
 <p><strong>Skills:</strong> Readability Optimization · Stakeholder Communication</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>TEMPLATE – Professional Security Report Framework – v.1.0.0</h5>
 <p>A structured framework for producing executive-ready security reports that translate technical findings into clear business impact.</p>
 <p><strong>Skills:</strong> Executive Reporting · Technical Communication</p>
-<p align="center" style="margin-top:20px;"><a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?usp=sharing" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Download Template</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?usp=sharing" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Download</a></p>
 </div>
 
 </div>
@@ -73,7 +71,7 @@ This section highlights applied risk analysis, governance frameworks, and securi
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
   
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT– AC-6 Least Privilege (NIST SP 800-53) – v1.0.2</h5>
+<h5>REPORT – AC-6 Least Privilege (NIST SP 800-53) – v1.0.2</h5>
 <p>Using least privilege, RBAC, and access controls to reduce risk and protect systems from unauthorized access.</p>
 <p><strong>Skills:</strong> Access Control · RBAC · Least Privilege Enforcement</p>
 <p align="center" style="margin-top:20px;">
@@ -82,9 +80,9 @@ This section highlights applied risk analysis, governance frameworks, and securi
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>SOP - Access Control Incident & NIST Alignment - v1.2.1</h5>
+<h5>SOP – Access Control Incident & NIST Alignment - v1.2.1</h5>
 <p>Analyzed a real-world data leak caused by weak access controls, identifying control gaps and applying least privilege principles to reduce risk.</p>
-<p><strong>Skills:</strong> Risk Assessment · Root Cause Analysis · Access Control · NIST Alignment</p>
+<p><strong>Skills:</strong> Risk Assessment · Access Control · NIST SP 800-53</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/sop-access-control-incident-nist-alignment/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
 </p>
@@ -100,10 +98,10 @@ This section highlights applied risk analysis, governance frameworks, and securi
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>TEMPLATE - Bring Your Own Device (BYOD) Policy and Agreement - v1.0.0</h5>
+<h5>TEMPLATE – Bring Your Own Device (BYOD) Policy and Agreement - v1.0.0</h5>
 <p>A NIST-aligned policy framework to secure personal device usage within corporate networks, including employee legal agreements.</p>
 <p><strong>Skills:</strong> Policy Writing · Security Governance · NIST Alignment</p>
-<p align="center" style="margin-top:20px;"><a href="https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Download Template</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Download</a></p>
 </div>
 
 </div>
@@ -114,7 +112,7 @@ This section highlights applied risk analysis, governance frameworks, and securi
 
 Research examining cybersecurity frameworks, threat models, and security strategy concepts.
 
-## Security Strategy & Risk Research
+## Threat Modeling & Defensive Strategy
 
 ### 📈 Enterprise Strategy & Threat Analysis
 
@@ -124,7 +122,7 @@ Research examining cybersecurity frameworks, threat models, and security strateg
 <h5>REPORT – Cyber Kill Chain Model and MITRE ATT&CK Research – v1.2.0</h5>
 <p>Strategic analysis of the Cyber Kill Chain and MITRE ATT&CK frameworks to map attacker behaviors and develop integrated defensive strategies for organizational resilience.</p>
 <p><strong>Skills:</strong> Threat Modeling · MITRE ATT&CK · Cyber Kill Chain · Risk Analysis</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -149,7 +147,7 @@ Research examining cybersecurity frameworks, threat models, and security strateg
 <p>Identifying assets, threats, and vulnerabilities to evaluate organizational risk exposure.</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Restricted: Request Access</span></p>
+Request Access</span></p>
 </div>
 
 </div>
@@ -163,7 +161,7 @@ Restricted: Request Access</span></p>
 <p>Evaluating and applying security policies aligned with organizational and compliance requirements.</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Restricted: Request Access</span></p>
+Request Access</span></p>
 </div>
 
 </div>
