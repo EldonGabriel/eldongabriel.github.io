@@ -13,7 +13,8 @@ image:
 
 <p>
 This section outlines the operational approach used to implement, validate, and troubleshoot security controls across enterprise systems. It applies a structured troubleshooting framework based on <strong>Layer → Device → Root Cause → Resolution</strong> to ensure issues are accurately identified and resolved. 
-  
+
+
 Security baselines are enforced in alignment with <strong>NIST</strong> and <strong>CIS standards</strong>, with all fixes validated through both functional and negative testing. The focus remains on long-term control effectiveness, ensuring solutions are reliable, repeatable, and resilient rather than temporary fixes.
 </p>  
 
