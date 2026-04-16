@@ -14,9 +14,11 @@ image:
 
 ### GRC Lab Overview
 
-Security governance defines how organizations identify, assess, and manage cybersecurity risk through structured frameworks, policies, and decision-making processes.nThe work in this section demonstrates practical application of risk assessment methodologies, governance frameworks, and policy development used to evaluate security posture and guide real-world security decisions. 
+Security governance focuses on how organizations identify, assess, and manage risk using structured frameworks, policies, and decision-making processes.
 
-All work is aligned with NIST-based methodologies and structured using a Layer → Device → Root Cause → Resolution validation model.
+This section demonstrates applied risk assessment, governance frameworks, and policy development used to evaluate security posture and support real-world security decisions.
+
+<p><em>All work is aligned with NIST-based methodologies and structured using a Layer → Device → Root Cause → Resolution validation model.</em></p>
 
 ### Lab Distribution Summary
 
@@ -71,7 +73,7 @@ All work is aligned with NIST-based methodologies and structured using a Layer �
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
   
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – AC-6 Least Privilege (NIST SP 800-53) – v1.0.2</h5>
+<h5>REPORT – AC-6 Least Privilege (NIST SP 800-53) – v1.0.2</h5> 
 <p>Using least privilege, RBAC, and access controls to reduce risk and protect systems from unauthorized access.</p>
 <p><strong>Skills:</strong> Access Control · RBAC · Least Privilege Enforcement</p>
 <p align="center" style="margin-top:20px;">
@@ -80,9 +82,9 @@ All work is aligned with NIST-based methodologies and structured using a Layer �
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>SOP – Access Control Incident & NIST Alignment - v1.2.1</h5>
-<p>Analyzed a real-world data leak caused by weak access controls, identifying control gaps and applying least privilege principles to reduce risk.</p>
-<p><strong>Skills:</strong> Risk Assessment · Access Control · NIST SP 800-53</p>
+<h5>SOP – Access Control Incident & NIST Alignment – v1.2.1</h5>
+<p>Analysis of a real-world data leak caused by weak access controls, identifying control gaps and applying least privilege principles.</p>
+<p><strong>Skills:</strong> Risk Assessment · Access Control · NIST Alignment</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/sop-access-control-incident-nist-alignment/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
 </p>
@@ -90,7 +92,7 @@ All work is aligned with NIST-based methodologies and structured using a Layer �
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Risk Assessment Adapted from NIST SP 800-30 Rev. 1 – v1.0.2</h5>
-<p>Applying a structured risk assessment process to identify assets, threats, and vulnerabilities, and prioritize risks using a simple scoring method.</p>
+<p>Applying a structured risk assessment process to identify assets, threats, and vulnerabilities, and prioritize risk using a defined scoring method.</p>
 <p><strong>Skills:</strong> Risk Assessment · Threat Analysis · Vulnerability Identification</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-risk-assessment-nist-sp-800-30-rev-1-v1.0.2" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
@@ -121,7 +123,7 @@ Research examining cybersecurity frameworks, threat models, and security strateg
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Cyber Kill Chain Model and MITRE ATT&CK Research – v1.2.0</h5>
 <p>Strategic analysis of the Cyber Kill Chain and MITRE ATT&CK frameworks to map attacker behaviors and develop integrated defensive strategies for organizational resilience.</p>
-<p><strong>Skills:</strong> Threat Modeling · MITRE ATT&CK · Cyber Kill Chain · Risk Analysis</p>
+<p><strong>Skills:</strong> Threat Modeling · MITRE ATT&CK · Risk Analysis</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
@@ -170,8 +172,8 @@ Request Access</span></p>
 
 ## Portfolio Documentation
 
-This section summarizes governance and risk analysis documentation developed through structured cybersecurity training and applied research.
+This section presents governance and risk analysis work developed through structured cybersecurity training and applied research.
 
-Selected materials are presented to demonstrate core competencies, while additional supporting documentation, framework analysis, and policy development artifacts are maintained within a private archive.
+Selected materials demonstrate core competencies, while additional supporting documentation and policy artifacts are maintained in a private archive.
 
-Complete documentation is available upon request for professional or technical review.
+Full documentation is available upon request for professional or technical review.
