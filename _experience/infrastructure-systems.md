@@ -14,13 +14,17 @@ image:
 
 ## Infrastructure Laboratory Overview
 
-This section demonstrates how I build, harden, and validate enterprise infrastructure across Windows, Linux, cloud, and virtualized environments.
+This section shows how I design, secure, and troubleshoot enterprise systems across Windows, Linux, cloud, and virtualized environments.
 
-My work focuses on applying security controls at the system level, ensuring that operating systems, network configurations, and infrastructure components are not only functional, but secured and aligned with industry frameworks.
+The focus is not just building systems, but enforcing security controls, validating configurations, and identifying failure points under real-world conditions.
 
-These labs reflect hands-on implementation across system administration, virtualization, cloud provisioning, and infrastructure security. Each environment is designed to simulate real-world conditions, where configurations are enforced, tested, and validated to ensure stability, access control, and operational resilience.
+Each lab simulates operational environments where systems must remain stable, controlled, and resistant to misconfiguration or abuse. Work includes system hardening, access control enforcement, network configuration, and infrastructure troubleshooting.
+
+All configurations are tested and validated to confirm expected behavior and security outcomes.
 
 ### Lab Distribution Summary
+
+These labs are organized by function to reflect real-world system administration and security responsibilities.
 
 | Category | Labs |
 |--------|------|
@@ -30,21 +34,23 @@ These labs reflect hands-on implementation across system administration, virtual
 | Troubleshooting & System Diagnostics | 6 |
 | Linux Systems Administration | 2 |
 | Virtualization & Infrastructure | 7 |
-| Lab Demonstrations | 29 |
-| Managed Operations & Automation Labs | 4 |
+| Lab Demonstrations (Hands-On Execution) | 29 |
+| Managed Operations & Automation | 4 |
 | **Total Labs Documented** | **63** |
 
 ---
 
 ### 🧠 Technical Foundations
 
-These reports focus on core system knowledge, including how hardware, memory, and processing work together to support computing operations.
+These reports build core system knowledge required for system administration and security work. The focus is on how hardware, memory, and data processing function at a low level, and how misconfiguration or failure at this layer impacts system stability and security.
+
+The goal is to understand how systems actually operate under the hood, so issues can be diagnosed, performance can be optimized, and security controls can be applied with context rather than guesswork.
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Introduction to Computer Hardware and Processing – v1.0.0</h5>
-<p>Overview of core computer components, including CPU, RAM, storage, and how data is processed at the hardware level.</p>
+<p>Breakdown of how CPU, memory, and storage interact to process data, including how instructions are executed and how system performance is affected at the hardware level.</p>
 <p><strong>Skills:</strong> Hardware Fundamentals · Data Processing · System Architecture</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-introduction-computer-hardware-processing/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
@@ -54,7 +60,7 @@ View Report</a>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Binary Systems, Data Representation and Logic Gates – v1.0.0</h5>
-<p>Analysis of how computers process binary data using encoding systems and logic gates to produce meaningful outputs.</p>
+<p>Explains how binary data is represented, processed, and transformed using logic gates, forming the foundation for all system operations and software execution.</p>
 <p><strong>Skills:</strong> Binary Conversion · Data Encoding · Logic Gates · System Analysis</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-binary-systems-data-representation-logic-gates/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
@@ -64,7 +70,7 @@ View Report</a>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Computer Hardware and Power Infrastructure – v1.0.0</h5>
-<p>Overview of core computer hardware components, focusing on motherboard communication, power supply safety, and connector usage in modern systems.</p>
+<p>Examines how power is delivered across system components, including PSU behavior, motherboard communication, and risks related to improper power distribution or hardware mismatch.</p>
 <p><strong>Skills:</strong> Hardware Fundamentals · Power Management · System Infrastructure · Connector Interfaces</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-computer-hardware-power-infrastructure/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
@@ -74,7 +80,7 @@ View Report</a>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Memory Architecture and RAM Technologies – v1.0.0</h5>
-<p>Technical analysis of system memory architecture, covering DRAM operations, DDR evolution, and performance optimization strategies for system stability.</p>
+<p>Analysis of memory architecture, including DRAM operation and DDR evolution, with focus on how memory performance and misconfiguration impact system stability and reliability.</p>
 <p><strong>Skills:</strong> Memory Architecture · RAM Technologies · Hardware Analysis · System Performance Optimization</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-memory-architecture-ram-technologies/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
@@ -84,7 +90,7 @@ View Report</a>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Storage Systems and Data Management – v1.0.0</h5>
-<p>Analysis of storage technologies and data management strategies, including HDD, SSD, NVMe, and backup methodologies for ensuring data availability and integrity.</p>
+<p>Compares storage technologies such as HDD, SSD, and NVMe, including performance characteristics, failure risks, and data protection strategies to maintain integrity and availability.</p>
 <p><strong>Skills:</strong> Storage Systems · Data Management · Backup Strategy · Infrastructure Planning</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-storage-systems-data-management/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
@@ -96,58 +102,59 @@ View Report</a>
 
 ## Windows Systems Administration
 
-Hands-on system administration tasks performed in Windows environments, focusing on system management, security controls, and troubleshooting.
+Hands-on system administration work in Windows environments, focused on system management, security enforcement, and operational troubleshooting.
 
 ---
 
 ### 🛡️ Endpoint Security & Configuration Enforcement
+
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>SOP – Hardening Windows Defender Using Local GPO – v1.0.1</h5>
-<p>Deployed centralized configurations for Windows Defender Antivirus to ensure real-time protection.</p>
-<p><strong>Skills:</strong> Endpoint Protection · Windows Defender</p>
+<p>Configured Windows Defender using Local Group Policy to enforce real-time protection and standardized endpoint security settings.</p>
+<p><strong>Skills:</strong> Endpoint Protection · Windows Defender · GPO Enforcement</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-hardening-windows-defender-using-local-gpo-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>SOP – Anonymous Access Restriction & Recon Hardening – v1.0.2</h5>
-<p>Hardened the OS by restricting null sessions and anonymous enumeration of SAM accounts and shares.</p>
-<p><strong>Skills:</strong> Information Leakage · System Hardening</p>
+<p>Restricted null sessions and anonymous enumeration to reduce information exposure and prevent reconnaissance-based attacks.</p>
+<p><strong>Skills:</strong> Information Leakage Prevention · System Hardening · Access Control</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-anonymous-access-restriction-recon-hardening-v1.0.2/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – OS Patching Enforcement via Local GPO – v1.0.0</h5>
-<p>Configured automated patch management policies using Local Group Policy to ensure systems remain up to date and secure.</p>
+<p>Configured automated patching policies using Local Group Policy to maintain system updates and reduce vulnerability exposure.</p>
 <p><strong>Skills:</strong> Patch Management · Policy Enforcement · System Maintenance</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-os-patching-enforcement-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Hardening Microsoft Edge via Local GPO – v1.0.0</h5>
-<p>Applied Group Policy configurations to secure Microsoft Edge by restricting extensions, downloads, and unsafe browser behaviors.</p>
+<p>Applied Group Policy settings to secure Microsoft Edge by restricting extensions, downloads, and unsafe browser behavior.</p>
 <p><strong>Skills:</strong> Browser Hardening · Web Security · GPO Configuration</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-harden-microsoft-edge-local-gpo-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Deploy Controlled Folder Access via Local GPO – v1.0.0</h5>
-<p>Implemented Controlled Folder Access to prevent unauthorized applications from modifying protected directories.</p>
+<p>Implemented Controlled Folder Access to block unauthorized applications from modifying protected directories.</p>
 <p><strong>Skills:</strong> Ransomware Protection · Data Integrity · Endpoint Hardening</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-deploy-controlled-folder-access-via-local-gpo-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Endpoint Security with Windows Registry – v1.0.0</h5>
-<p>Configured Windows Registry security settings to restrict untrusted user activity and enforce system-level access controls.</p>
+<p>Configured registry-based security controls to restrict untrusted activity and enforce system-level access policies.</p>
 <p><strong>Skills:</strong> Registry Hardening · Endpoint Security · Access Control</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-endpoint-security-windows-registry/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – GPO Hardening for Windows Application Control – v1.0.0</h5>
-<p>Configured Group Policy controls to restrict unauthorized software execution and strengthen application control mechanisms.</p>
+<p>Enforced application control using Group Policy to block unauthorized software execution and reduce attack surface.</p>
 <p><strong>Skills:</strong> Application Control · Threat Surface Reduction · GPO Enforcement</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-gpo-hardening-for-windows-application-control-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
@@ -160,43 +167,43 @@ Hands-on system administration tasks performed in Windows environments, focusing
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Hardening Windows User Rights via Local Group Policy – v1.0.0</h5>
-<p>Configured User Rights Assignment policies to enforce least privilege and restrict sensitive system permissions.</p>
-<p><strong>Skills:</strong> Least Privilege · Access Control · Identity Security</p>
+<p>Configured User Rights Assignment policies to enforce least privilege and restrict high-risk system permissions.</p>
+<p><strong>Skills:</strong> Least Privilege · Access Control · Identity Security · GPO Enforcement</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-hardening-windows-user-rights-via-local-group-policy-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0</h5>
-<p>Implemented session lock policies via Group Policy to ensure inactive systems automatically secure user sessions.</p>
-<p><strong>Skills:</strong> Session Security · Endpoint Protection · Policy Enforcement</p>
+<p>Configured session lock policies via Group Policy to automatically secure inactive user sessions.</p>
+<p><strong>Skills:</strong> Session Security · Endpoint Protection · GPO Enforcement</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-applying-a-local-gpo-for-session-lock-enforcement-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Deploy Local GPO for Windows Security Policies – v1.0.0</h5>
-<p>Configured Local Group Policy settings to enforce baseline Windows security protections.</p>
-<p><strong>Skills:</strong> GPO Engineering · Endpoint Hardening</p>
+<p>Configured Local Group Policy to enforce baseline Windows security configurations.</p>
+<p><strong>Skills:</strong> GPO Engineering · Baseline Hardening · Endpoint Security</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-deploy-local-gpo-windows-security-policies-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>SOP – Password & Account Lockout GPO Hardening – v1.0.1</h5>
-<p>Configured GPO to enforce password policies, account lockout thresholds, and session locking to strengthen authentication and reduce unauthorized access.</p>
-<p><strong>Skills:</strong> Password Policy · Account Lockout · Group Policy · Endpoint Hardening · Access Control</p>
+<p>Configured password policies and account lockout thresholds to strengthen authentication controls and prevent unauthorized access.</p>
+<p><strong>Skills:</strong> Password Policy · Account Lockout · Authentication Security · GPO Enforcement</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-password-account-lockout-gpo-hardening-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Hardening UAC via Local Group Policy – v1.0.0</h5>
-<p>Strengthened User Account Control configuration to prevent unauthorized privilege escalation.</p>
-<p><strong>Skills:</strong> UAC Hardening · Privilege Security</p>
+<p>Configured User Account Control settings to reduce unauthorized privilege escalation.</p>
+<p><strong>Skills:</strong> UAC Hardening · Privilege Security · Access Control</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-hardening-uac-local-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Hardening Credential Entry Using Group Policy – v1.0.0</h5>
-<p>Implemented Secure Desktop and logon restrictions via Group Policy to reduce credential exposure and prevent interception.</p>
-<p><strong>Skills:</strong> Credential Security · Logon Hardening · Access Protection</p>
+<p>Configured Secure Desktop and logon restrictions to reduce credential exposure and prevent interception.</p>
+<p><strong>Skills:</strong> Credential Security · Logon Hardening · Access Control · GPO Enforcement</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-hardening-credential-entry-using-group-policy-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
@@ -209,8 +216,8 @@ Hands-on system administration tasks performed in Windows environments, focusing
   
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Monitoring Windows Processes with Procmon – v1.0.1</h5>
-<p>Demonstrates using Microsoft Process Monitor to observe system activity, analyze process behavior, and investigate file and registry interactions.</p>
-<p><strong>Skills:</strong> Security Monitoring · Process Analysis · Sysinternals Diagnostics</p>
+<p>Used Process Monitor to capture system activity, analyze process behavior, and investigate file and registry interactions.</p>
+<p><strong>Skills:</strong> Security Monitoring · Process Analysis · Sysinternals · Event Analysis</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-monitoring-windows-processes-procmon-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
@@ -225,8 +232,8 @@ Hands-on system administration tasks performed in Windows environments, focusing
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Windows Disk Management with CHKDSK and FSUTIL – v1.0.0</h5>
-<p>Using built-in Windows tools to check disk health, repair filesystem errors, and validate storage integrity.</p>
-<p><strong>Skills:</strong> Disk Management · Filesystem Repair · Storage Integrity</p>
+<p>Used built-in Windows tools to check disk health, repair filesystem errors, and validate storage integrity.</p>
+<p><strong>Skills:</strong> Disk Management · Filesystem Repair · Storage Integrity · System Maintenance</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-windows-disk-management-chkdsk-fsutil-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
 View Report</a>
@@ -234,14 +241,16 @@ View Report</a>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);"> 
-<h5>REPORT – Windows Control Panel Administration – v1.0.0</h5> <p>Implemented execution restrictions and application whitelisting logic via Group Policy Objects.</p> <p><strong>Skills:</strong> Application Control · Threat Surface Reduction</p> 
+<h5>REPORT – Windows Control Panel Administration – v1.0.0</h5> 
+<p>Configured Control Panel settings to manage system features, enforce restrictions, and support administrative tasks.</p> 
+<p><strong>Skills:</strong> System Configuration · Administrative Control · Windows Management</p> 
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-windows-control-panel-administration/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p> 
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>GUIDE – Windows System Administration Labs (11 Modules) – v1.0.0</h5>
-<p>Collection of structured Windows system administration labs covering core operational tasks, system configuration, and environment management across multiple scenarios.</p>
-<p><strong>Skills:</strong> Windows Administration · System Configuration · Troubleshooting · Lab Environment Management</p>
+<p>Structured collection of Windows administration labs covering system configuration, operational tasks, and troubleshooting across multiple scenarios.</p>
+<p><strong>Skills:</strong> Windows Administration · System Configuration · Troubleshooting · Environment Management</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/guide-windows-system-administration-labs-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
@@ -249,13 +258,14 @@ View Report</a>
 
 </div>
 
+
 ### 🔍 Troubleshooting & System Diagnostics
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – USB Storage Failure Analysis and Disk Validation – v1.0.0</h5>
-<p>Investigation of USB storage instability to determine if failures were caused by filesystem corruption or physical hardware defects.</p>
+<p>Diagnosed USB storage instability by validating filesystem integrity and identifying whether failures originated from corruption or hardware defects.</p>
 <p><strong>Skills:</strong> Hardware Diagnostics · Disk Validation · CHKDSK · Root Cause Analysis</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-usb-storage-failure-analysis/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
@@ -265,7 +275,7 @@ View Report</a>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – USB Filesystem Corruption Due to Improper Removal – v1.0.0</h5>
-<p>Analysis of a corrupted USB device caused by improper removal during active disk operations, resulting in filesystem failure.</p>
+<p>Identified filesystem corruption caused by unsafe USB removal during active operations, leading to data integrity failure.</p>
 <p><strong>Skills:</strong> Filesystem Troubleshooting · Disk Management · Data Integrity · Root Cause Analysis</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-usb-filesystem-corruption/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
@@ -275,7 +285,7 @@ View Report</a>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Restore USB Access on a Windows 10 VM – v1.1.0</h5>
-<p>Resolved USB passthrough issues in a virtualized environment by configuring VirtualBox USB filters and validating filesystem integrity.</p>
+<p>Resolved USB passthrough failure in a virtual environment by configuring VirtualBox USB filters and validating device and filesystem functionality.</p>
 <p><strong>Skills:</strong> Virtualization · USB Passthrough · Disk Management · CHKDSK · Root Cause Analysis</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-restore-usb-access-windows-10-vm/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
@@ -285,15 +295,15 @@ View Report</a>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Workstation Power Failure Investigation – v1.0.0</h5>
-<p>Diagnosed and resolved hardware instability caused by insufficient power supply capacity following system upgrades.</p>
-<p><strong>Skills:</strong> Hardware Diagnostics · Power Load Calculation · Root Cause Analysis (RCA) · Data Integrity</p>
+<p>Diagnosed system instability caused by insufficient power supply capacity after hardware upgrades, restoring stable system operation.</p>
+<p><strong>Skills:</strong> Hardware Diagnostics · Power Load Analysis · Root Cause Analysis · System Stability</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-workstation-power-failure-investigation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Troubleshooting Remote Access and Network Isolation – v1.0.0</h5>
-<p>Resolved Remote Desktop access failures by fixing Group Policy conflicts and implementing a dual-homed network design for secure management.</p>
+<p>Resolved Remote Desktop failures by identifying Group Policy conflicts and implementing a dual-homed network design for secure administrative access.</p>
 <p><strong>Skills:</strong> RDP Troubleshooting · Group Policy · Network Isolation · Access Control · Root Cause Analysis</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/troubleshooting-remote-access-network-isolation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
@@ -303,13 +313,12 @@ View Report</a>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Domain Controller NAT & Routing – v1.0.3</h5>
-<p>Configured a Windows Server Domain Controller as a NAT gateway and DNS server for a virtual lab environment. Identified and resolved a duplicate IP conflict that disrupted network routing, restoring stable communication and internet access.</p>
+<p>Configured a Domain Controller as a NAT gateway and DNS server, identifying and resolving a duplicate IP conflict that disrupted network routing.</p>
 <p><strong>Skills:</strong> Network Troubleshooting · NAT Configuration · Active Directory · Routing · ESXi</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-domain-controller-nat-routing/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 </div>
-
 
 ### 🐧 Linux Systems Administration
 
@@ -319,7 +328,7 @@ Administration and hardening of Linux-based systems, including user management, 
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – SAR Performance Monitoring on Ubuntu – v1.0.1</h5>
-<p>Utilized system activity reporting tools to monitor CPU, memory, and I/O performance on Ubuntu systems for operational diagnostics and system health analysis.</p>
+<p>Monitored CPU, memory, and I/O activity using SAR to identify performance patterns and support system diagnostics on Ubuntu systems.</p>
 <p><strong>Skills:</strong> System Monitoring · Performance Analysis · Linux Diagnostics</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-sar-performance-monitoring-ubuntu-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
@@ -328,7 +337,7 @@ Administration and hardening of Linux-based systems, including user management, 
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Linux File Permissions Management – v1.0.0</h5>
-<p>Managed file and directory permissions using chmod, chown, and chgrp to enforce proper access control.</p>
+<p>Configured file and directory permissions using chmod, chown, and chgrp to enforce controlled access and prevent unauthorized modification.</p>
 <p><strong>Skills:</strong> Linux Permissions · Access Control</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/linux-file-permissions-management/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
@@ -341,13 +350,13 @@ Administration and hardening of Linux-based systems, including user management, 
   
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – File Ownership Recovery – v1.0.0</h5>
-<p>Implemented techniques to recover and reassign file ownership on Linux systems, ensuring proper access control and resolving permission-related issues affecting system operations.</p>
+<p>Restored correct file ownership to resolve access issues and re-establish proper permission control within a Linux environment.</p>
 <p><strong>Skills:</strong> File System Permissions · Linux Administration · Access Control · Troubleshooting</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-file-ownership-recovery/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight: bold;">View Report</a>
 </p>
 </div>
 
-</div> 
+</div>
 
 ### 🐧 Linux Endpoint Security & Admin Controls
 
@@ -355,30 +364,30 @@ Administration and hardening of Linux-based systems, including user management, 
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>SOP – Secure Linux Management with Cockpit – v1.0.1</h5>
-<p>Configured Cockpit for secure browser-based Linux system management and service monitoring.</p>
-<p><strong>Skills:</strong> Linux Administration · Server Management</p>
+<p>Configured and secured Cockpit to enable controlled, browser-based system management while reducing exposure of administrative services.</p>
+<p><strong>Skills:</strong> Linux Administration · Server Management · Access Control</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-secure-linux-management-cockpit-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Webmin Secure Administration (Dual-Homed) – v1.1.0</h5>
-<p>Deployed and secured Webmin to manage Linux services, users, and configuration through a web interface.</p>
-<p><strong>Skills:</strong> Linux Service Management · System Configuration</p>
+<p>Deployed and secured Webmin within a dual-homed architecture to isolate administrative access and reduce exposure of management interfaces.</p>
+<p><strong>Skills:</strong> Linux Service Management · System Configuration · Network Segmentation</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-webmin-secure-admin-dual-homed-v1.1.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – GVM Deployment and Hardening on ARM64 Kali Linux – v1.1.0</h5>
-<p>Deployed and secured Greenbone Vulnerability Management (GVM) on an ARM64 Kali Linux environment, focusing on system configuration, service management, and hardening practices to support vulnerability scanning operations.</p>
+<p>Deployed and hardened Greenbone Vulnerability Management (GVM) on ARM64 Kali Linux, configuring services and securing the platform to support controlled vulnerability scanning operations.</p>
 <p><strong>Skills:</strong> Vulnerability Management · Linux Hardening · Service Configuration · Security Operations</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/gvm-deployment-hardening-arm64/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Linux System Administration Commands – v1.0.0</h5>
-<p>Documentation of essential Linux commands used for system monitoring, troubleshooting, and resource management.</p>
-<p><strong>Skills:</strong> Linux CLI Administration · Process Monitoring · System Diagnostics</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p>Applied core Linux command-line tools to monitor processes, troubleshoot system issues, and manage system resources in a controlled environment.</p>
+<p><strong>Skills:</strong> Linux CLI Administration · Process Monitoring · System Diagnostics · Troubleshooting</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 </div>
@@ -389,31 +398,30 @@ Design and deployment of virtualized environments used to support secure system 
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
-
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – VirtualBox Network Modes – v1.0.0</h5>
-<p>Analysis of VirtualBox networking configurations including NAT, Bridged, Host-Only, and Internal networking modes.</p>
+<p>Configured and validated VirtualBox networking modes including NAT, Bridged, Host-Only, and Internal to support isolated and controlled lab environments.</p>
 <p><strong>Skills:</strong> Virtual Networking · Lab Infrastructure · Network Configuration</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – System Administration Virtualization in Cybersecurity – v1.0.1</h5>
-<p>Explains the role of virtualization platforms in building isolated environments for system administration and cybersecurity testing.</p>
+<p>Designed and implemented virtualized environments to support isolated system administration tasks and cybersecurity testing workflows.</p>
 <p><strong>Skills:</strong> Virtualization · Lab Architecture · Security Testing Environments</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0</h5>
-<p>A practical troubleshooting case study on migrating VMware virtual machines to AWS EC2 and resolving kernel driver removal issues from the AWS Application Migration Service.</p>
-<p><strong>Skills:</strong> Cloud Migration · AWS EC2 · Infrastructure Runbooks</p>
+<p>Migrated VMware virtual machines to AWS EC2 and resolved kernel driver conflicts from the AWS Application Migration Service, restoring system compatibility and functionality.</p>
+<p><strong>Skills:</strong> Cloud Migration · AWS EC2 · Troubleshooting · Infrastructure Runbooks</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-enterprise-hybrid-cloud-migration-v1.2.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>GUIDE – vSphere 8 Nested Lab on AMD Ryzen 5 6600H – v1.0.0</h5>
-<p>Demonstrates the setup of a nested virtualization environment using VMware vSphere 8 on AMD Ryzen 6000 hardware, including configuration of nested ESXi hosts and lab networking.</p>
+<p>Built a nested virtualization lab using VMware vSphere 8, configuring ESXi hosts and virtual networking to simulate enterprise infrastructure.</p>
 <p><strong>Skills:</strong> Nested Virtualization · VMware vSphere · Lab Deployment · Infrastructure Configuration</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-vsphere-8-nested-lab-amd-ryzen-5-6600h/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
@@ -421,27 +429,27 @@ Design and deployment of virtualized environments used to support secure system 
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>GUIDE – UTM Kali Linux Shared Folder Configuration – v1.0.0</h5>
-<p>Configured shared folder integration between host and Kali Linux virtual machine within UTM virtualization environment.</p>
+<p>Configured shared folder integration between host and Kali Linux VM, enabling secure file transfer and controlled data access.</p>
 <p><strong>Skills:</strong> Virtualization · Linux VM Management · File Integration</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-utm-kali-linux-shared-folder-configuration-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>GUIDE – GCP Windows 10 VM Deployment – v1.0.0</h5>
-<p>Demonstrates deploying and configuring a Windows 10 virtual machine in Google Cloud Platform, including network setup, access configuration, and system initialization.</p>
+<p>Deployed and configured a Windows 10 virtual machine in GCP, including network setup, secure access configuration, and system initialization.</p>
 <p><strong>Skills:</strong> GCP · Cloud Infrastructure · VM Deployment · Remote Access Configuration</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-gcp-windows-10-vm-deployment-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>GUIDE – Cybersecurity Virtualization Labs (VMware, WSL, GCP, AWS) – v1.0.0</h5>
-<p>Provides an overview of building and managing cybersecurity-focused virtualization labs across multiple platforms including VMware, WSL, GCP, and AWS for testing and learning environments.</p>
+<p>Designed and managed multi-platform virtualization labs across VMware, WSL, GCP, and AWS to support cybersecurity testing and system administration workflows.</p>
 <p><strong>Skills:</strong> Virtualization · Multi-Cloud Environments · Lab Architecture · Infrastructure Design</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-cybersecurity-virtualizationlabs-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a> 
 </p>
 </div> 
 
-</div> 
+</div>
 
 
 
@@ -453,39 +461,39 @@ Design and deployment of virtualized environments used to support secure system 
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – VMware ESXi and vSphere VM Deployment and Network Connectivity Test – v1.0.0</h5>
-<p>Hands-on setup of enterprise hypervisor environments using ESXi and vSphere management.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p>Deployed and configured ESXi hosts and vSphere-managed virtual machines, validating network connectivity across virtualized systems.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Virtual Machine Snapshot Creation for System Rollback – v1.0.0</h5>
-<p>Demonstrating the use of snapshots to create point-in-time recovery marks before system changes.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p>Created and managed VM snapshots to enable safe rollback during system changes and testing scenarios.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – VMware Fusion VM Deployment and Inter-VM Network Connectivity – v1.0.0</h5>
-<p>Standardized workflow for provisioning new virtual hardware within a VMware environment.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p>Provisioned virtual machines in VMware Fusion and validated inter-VM communication across configured virtual networks.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Windows Subsystem for Linux Installation and Configuration – v1.0.0</h5>
-<p>Configuring WSL to enable a native Linux environment directly within Windows.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p>Installed and configured Windows Subsystem for Linux (WSL) to enable integrated Linux operations within a Windows environment.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Two-VM Virtualized Cybersecurity Lab Environment – v1.0.0</h5>
-<p>Architecting a secure, isolated lab with a victim and attacker machine for security testing.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p>Designed and deployed an isolated two-machine lab environment to simulate attacker and target systems for controlled security testing.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Setting Up a Secure Software Development Environment – v1.0.0</h5>
-<p>Configuration of a secure and efficient development environment with essential tools, runtimes, and workflows to support secure coding and system development practices.</p>
+<p>Configured a secure development environment with essential tools, runtimes, and controls to support secure coding and system development workflows.</p>
 <p align="center" style="margin-top:20px;">
-<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 </div>
@@ -496,20 +504,20 @@ Design and deployment of virtualized environments used to support secure system 
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – AWS EC2 Virtual Machine Deployment and Secure SSH Access – v1.0.0</h5>
-<p>Provisioning EC2 instances within AWS, including Security Group and remote access validation.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p>Provisioned EC2 instances within AWS, configured Security Groups, and validated secure SSH access to ensure controlled remote administration.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – GCP Compute Engine Virtual Machine Deployment and SSH Access – v1.0.0</h5>
-<p>Deploying Compute Engine instances on Google Cloud Platform with VPC integration.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p>Deployed Compute Engine virtual machines within GCP, configured VPC networking, and validated SSH access for secure system management.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>Mastering GCP: Windows 10 VM Deployment</h5>
-<p>Advanced deployment of a Windows 10 instance on GCP for remote desktop and management tasks.</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/Mastering-GCP-windows-10/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<h5>LAB – Windows 10 VM on Google Cloud Platform (GCP) – v1.0.0</h5>
+<p>Deployed and configured a Windows 10 virtual machine in GCP, including remote desktop access, network configuration, and system initialization for administrative use.</p>
+<p align="center" style="margin-top:20px;"><a href="https://youtu.be/rNI50WIqZWc" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Lab</a></p>
 </div>
 
 </div>
@@ -520,104 +528,112 @@ Design and deployment of virtualized environments used to support secure system 
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Linux Command-Line Exploration and Documentation Lookup – v1.0.0</h5>
-<p>Hands-on exploration of Linux command documentation using built-in tools such as man and cat to understand command syntax and options.</p>
+<p>Utilized built-in documentation tools (man, cat) to analyze command syntax, options, and usage for effective system administration.</p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/FR4KFGZfAoE" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Linux User and Group Management – v1.0.0</h5>
-<p>Demonstration of Linux account lifecycle tasks including user creation, group assignment, ownership changes, and account removal.</p>
+<p>Managed user and group lifecycles including account creation, privilege assignment, ownership control, and secure account removal.</p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/uOdoAZIpx1M" frameborder="0" allowfullscreen></iframe>
 </div> 
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – File Discovery and Analysis in Linux – v1.0.0</h5>
-<p>Using Linux command-line tools to locate, navigate, and analyze files for system investigation and log analysis tasks.</p>
+<p>Performed file discovery and analysis using command-line tools to support system investigation and log review tasks.</p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/HBcQVczahMM" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Linux File and Directory Management – v1.0.0</h5>
-<p>Hands-on file system management within a Linux environment, including directory organization and command-line file operations.</p>
+<p>Executed file and directory operations including creation, modification, movement, and deletion within a Linux filesystem.</p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/lhkrFbimQKg" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Linux File Permission and Directory Access Control – v1.0.0</h5>
-<p>Practical demonstration of managing Linux file permissions and securing directories through user and group access control.</p>
+<p>Configured file permissions and directory access controls to enforce user and group-based security policies.</p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/5qKJk-fID3g" frameborder="0" allowfullscreen></iframe>
 </div> 
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Linux Log and Data Filtering with grep – v1.0.0</h5>
-<p>Demonstration of log analysis techniques using grep to filter server logs and extract relevant user and system data.</p>
+<p>Analyzed system and application logs using grep to filter, extract, and investigate relevant operational data.</p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/lUVLujgD4b4" frameborder="0" allowfullscreen></iframe>
 </div> 
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Linux Firewall Configuration with Shorewall – v1.0.0</h5>
-<p>Configuring Shorewall to manage Netfilter and secure network traffic on Linux servers.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p>Configured Shorewall to manage Netfilter rules, control network traffic, and enforce host-level firewall policies.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Linux Performance Monitoring with SAR (sysstat) – v1.0.0</h5>
-<p>Real-time and historical performance data collection using the System Activity Reporter.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p>Collected and analyzed real-time and historical system performance metrics using SAR for system diagnostics and capacity monitoring.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Linux System Administration with Cockpit – v1.0.0</h5>
-<p>Using the Cockpit web console for graphical server management and system health monitoring.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p>Configured and used Cockpit for web-based system administration, service management, and system health monitoring.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Secure Linux Administration with Webmin – v1.0.0</h5>
-<p>Centralized administration of users, services, and configs through the Webmin portal.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p>Deployed and managed Webmin for centralized administration of users, services, and system configurations.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 </div>
 
-### 🪟 Windows System Administration Labs
+### 🪟 Windows System Administration Labs 
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Setting Up a Computer for Network Integration – v1.0.0</h5>
-<p>Preparation and configuration of a workstation for integration into a business network, including system setup, connectivity configuration, and validation.</p>
+<p>Configured a Windows workstation for integration into a business network, including system setup, connectivity validation, and baseline configuration.</p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/m4MngVs_bmM" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Joining a Windows Workstation to a Domain – v1.0.0</h5>
-<p>Demonstration of joining a Windows workstation to a domain, enabling centralized authentication, policy enforcement, and enterprise system management.</p>
+<p>Joined a Windows system to an Active Directory domain to enable centralized authentication, policy enforcement, and enterprise system management.</p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/JE3jutqyI4Q" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Analyze Windows Processes with Procmon – v1.0.0</h5>
-<p>Using Process Monitor to audit registry, file system, and network activity in real-time.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p>Used Process Monitor to capture and analyze real-time registry, file system, and process activity for system diagnostics and investigation.</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Secure Credentials with a Password Manager – v1.0.0</h5>
-<p>Best practices for credential hygiene using secure vaulting solutions.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p>Implemented credential management best practices using a secure password manager to protect authentication data and reduce risk exposure.</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Use Registry to Restore File Ownership – v1.0.0</h5>
-<p>Direct Registry manipulation to recover ownership and access permissions on critical files.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p>Restored file ownership and access permissions using direct Windows Registry modifications to recover control over restricted system files.</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Block SMB Access with Windows Firewall – v1.0.0</h5>
-<p>Mitigating lateral movement by creating firewall rules to block SMB traffic on endpoints.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p>Configured Windows Firewall rules to block SMB traffic and reduce lateral movement risk across networked systems.</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 </div>
@@ -627,27 +643,35 @@ Design and deployment of virtualized environments used to support secure system 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – GPO to Enforce Session Locks – v1.0.0</h5>
-<p>Configuring idle-time lockouts to protect physical security of endpoints.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<h5>LAB – Enforce Session Locks via GPO – v1.0.0</h5>
+<p>Configured idle session lock policies to reduce unauthorized physical access risk on unattended endpoints.</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Securely Configure WinRM with GPO – v1.0.0</h5>
-<p>Securing remote management traffic using encrypted listeners and policy enforcement.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<h5>LAB – Secure WinRM Configuration via GPO – v1.0.0</h5>
+<p>Hardened Windows Remote Management by enforcing encrypted communication and restricting remote access exposure.</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Windows Defender Hardening via GPO – v1.0.0</h5>
-<p>Configuring advanced Defender settings, including real-time scanning and cloud protection.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<p>Configured advanced Defender controls, including real-time protection and cloud-based threat detection, to strengthen endpoint defense.</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Deployed Exploit Guard via GPO – v1.0.0</h5>
-<p>Enabling Attack Surface Reduction (ASR) rules and memory protection through Exploit Guard.</p>
-<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Restricted: Request Access</span></p>
+<h5>LAB – Deployed Exploit Guard via GPO on Windows 10 – v1.0.0</h5>
+<p>Enabled Attack Surface Reduction (ASR) rules and memory protection controls to reduce exploitability and limit attack vectors.</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 </div>
@@ -663,7 +687,7 @@ Utilizing advanced Windows management tools to automate recurring maintenance ta
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/wlgnNwbKe3w" title="BitLocker" frameborder="0" allowfullscreen></iframe>
 </div>
 <h4>🔐 Data Security</h4>
-<p>Demonstrating the planning and deployment of BitLocker Drive Encryption to protect data-at-rest.</p>
+<p>Planned and deployed BitLocker Drive Encryption to protect sensitive data-at-rest and reduce risk of data exposure from device loss or theft.</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); text-align:center;">
@@ -671,7 +695,7 @@ Utilizing advanced Windows management tools to automate recurring maintenance ta
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/z8nXF2OleGo" title="Task Scheduler" frameborder="0" allowfullscreen></iframe>
 </div>
 <h4>🤖 Automation</h4>
-<p>Automating recurring system maintenance and cleanup tasks via the Windows Task Scheduler.</p>
+<p>Automated recurring system maintenance and cleanup tasks using Task Scheduler to improve operational efficiency and reduce manual workload.</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); text-align:center;">
@@ -679,7 +703,7 @@ Utilizing advanced Windows management tools to automate recurring maintenance ta
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/rw7QL5BgQgI" title="Event Viewer" frameborder="0" allowfullscreen></iframe>
 </div>
 <h4>🛠️ Diagnostics</h4>
-<p>Advanced monitoring and troubleshooting techniques using the Windows Event Viewer.</p>
+<p>Analyzed system and security event logs using Event Viewer to identify anomalies, troubleshoot issues, and support incident investigation.</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); text-align:center;">
@@ -687,7 +711,7 @@ Utilizing advanced Windows management tools to automate recurring maintenance ta
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/WZtkpKxr9xE" title="Firewall" frameborder="0" allowfullscreen></iframe>
 </div>
 <h4>🛡️ Network Hardening</h4>
-<p>Configuring host-based firewall rules to restrict unauthorized traffic and secure network entry points.</p>
+<p>Configured host-based firewall rules to restrict unauthorized traffic and reduce exposure to network-based attacks.</p>
 </div>
 
 </div>
@@ -696,7 +720,7 @@ Utilizing advanced Windows management tools to automate recurring maintenance ta
 
 # Portfolio Documentation
 
-This section represents applied infrastructure engineering across operating systems, virtualization platforms, and cloud environments. Each lab demonstrates how systems are configured, secured, and validated to meet operational and security requirements.
+This section represents applied infrastructure engineering across operating systems, virtualization platforms, and cloud environments. Each lab reflects hands-on configuration, security enforcement, and system validation aligned with operational and security requirements.
 
 While selected projects are presented here, they are supported by a larger archive of structured reports, lab documentation, and system configuration records maintained within a private research repository.
 
