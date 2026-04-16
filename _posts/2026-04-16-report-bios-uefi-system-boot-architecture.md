@@ -12,9 +12,7 @@ image:
 
 # 0.0 Executive Summary
 
-This report explains how a computer starts from a powered-off state and loads an operating system. It focuses on firmware systems called Basic Input Output System (BIOS) and Unified Extensible Firmware Interface (UEFI), along with the Power On Self Test (POST) process.
-
-The goal is to understand what happens before the operating system loads, including hardware checks, boot device selection, and system security controls.
+This report explains how a computer starts from a powered-off state and loads an operating system. It focuses on firmware systems called Basic Input Output System (BIOS) and Unified Extensible Firmware Interface (UEFI), along with the Power On Self Test (POST) process. The goal is to understand what happens before the operating system loads, including hardware checks, boot device selection, and system security controls.
 
 The result is a clear view of the startup process, which helps with troubleshooting boot failures and improving system security.
 
@@ -47,7 +45,7 @@ The process focused on how firmware controls system startup and how hardware is 
 - **BIOS:** Identified as older firmware that starts the computer and performs basic hardware initialization.
 - **UEFI:** Identified as modern firmware that supports faster startup, larger storage drives, and stronger security features.
 
-**Hardware Validation (POST):**
+**POST Process:**
 - Reviewed how the system checks the processor, memory, storage, and graphics hardware during startup.
 - Noted that failures at this stage may show error messages or beep codes if the screen is not available.
 
@@ -73,9 +71,9 @@ The system boot process was reviewed to confirm correct startup behavior and sec
 
 | Parameter | Configuration Value |
 | :--- | :--- |
-| **Firmware Mode** | Unified Extensible Firmware Interface |
+| **Firmware Mode** | -UEFI |
 | **Security Control** | Secure Boot Enabled |
-| **System Settings Storage** | Complementary Metal Oxide Semiconductor Memory |
+| **System Settings Storage** | CMOS |
 | **Boot Integrity** | Validated |
 
 **Validation Steps**
