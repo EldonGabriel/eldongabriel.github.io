@@ -14,41 +14,43 @@ image:
 
 ### OSINT Investigation Lab Overview
 
-Hands-on investigative exercises focused on collecting, validating, and analyzing open-source intelligence (OSINT) from publicly available sources, including websites, social media platforms, and internet-facing infrastructure.
+Hands-on investigations focused on collecting, validating, and analyzing open-source intelligence (OSINT) from publicly available sources, including websites, social media platforms, and internet-facing infrastructure.
 
-These labs demonstrate practical intelligence workflows such as data collection, correlation, and verification to support investigative analysis and threat intelligence development.
+This section demonstrates practical intelligence workflows such as data collection, correlation, and verification to support investigative analysis and threat intelligence development.
+
+<p><em>All work follows structured investigative workflows aligned with intelligence validation principles and repeatable analysis methods.</em></p>
 
 ### Lab Distribution Summary
 
 | Category | Labs |
 |--------|------|
 | OSINT Research & Investigations | 6 |
-| Intelligence Demonstration Labs | 11 |
+| Intelligence Demonstration | 11 |
 | **Total Intelligence Labs Documented** | **17** |
 
 ---
 
-## OSINT Investigations Portfolio
+## Intelligence Collection & Analysis
 
 ### 🔍 Technical Analysis & Platform Mapping
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Exploring Cybersecurity Vulnerabilities With Academic Research – v1.0.0</h5>
-<p>Utilizing Elicit.org and academic databases to extract and verify intelligence on red teaming, incident impact reduction, and malware reverse engineering.</p>
-<p><strong>Skills:</strong> Academic OSINT · Elicit.org · Intelligence Verification · Data Extraction</p>
+<h5>REPORT – Exploring Cybersecurity Vulnerabilities with Academic Research – v1.0.0</h5>
+<p>Using academic databases to collect and validate intelligence on red teaming, incident impact reduction, and malware analysis.</p>
+<p><strong>Skills:</strong> Academic OSINT · Intelligence Validation · Data Analysis</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Restricted: Request Access
+Request Access
 </span>
 </p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Using Google Translate for OSINT – v1.1.0</h5>
-<p>Demonstrates translating foreign-language communications to support multilingual open-source intelligence investigations.</p>
-<p><strong>Skills:</strong> Multilingual OSINT · Translation Tools · Intelligence Analysis</p>
+<p>Translating foreign-language content to support multilingual intelligence analysis and investigations.</p>
+<p><strong>Skills:</strong> Multilingual OSINT · Translation · Intelligence Analysis</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-using-google-translate-osint-v1.1.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
 View Report
@@ -58,8 +60,8 @@ View Report
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – OSINT Email Enumeration and Pattern Analysis – v1.0.0</h5>
-<p>Investigation into identifying organizational email address patterns using open-source intelligence techniques and pattern analysis.</p>
-<p><strong>Skills:</strong> Email Pattern Analysis · OSINT Enumeration · Identity Mapping</p>
+<p>Identifying organizational email patterns using open-source intelligence and structured pattern analysis.</p>
+<p><strong>Skills:</strong> OSINT Enumeration · Pattern Analysis · Identity Mapping</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-osint-email-enumeration-validation-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
 View Report
@@ -68,29 +70,29 @@ View Report
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – SecurityWeek OSINT Investigation – v.1.1.0</h5>
-<p>Investigation comparing current, cached, and archived versions of a target webpage to identify changes and removed content.</p>
-<p><strong>Skills:</strong> Web Archiving · Change Detection · Investigative Logic</p>
+<h5>REPORT – SecurityWeek OSINT Investigation – v1.1.0</h5>
+<p>Comparing live, cached, and archived web content to identify changes and removed information.</p>
+<p><strong>Skills:</strong> Web Archiving · Change Detection · Investigative Analysis</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Restricted: Request Access
+Request Access
 </span>
 </p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>TEMPLATE – OSINT Investigation Corroborated Intelligence – v.1.0.0</h5>
-<p>Structured investigation template used to document and validate intelligence findings from multiple sources.</p>
-<p><strong>Skills:</strong> Intelligence Corroboration · Professional Reporting</p>
+<h5>TEMPLATE – OSINT Investigation and Intelligence Corroboration – v1.0.0</h5>
+<p>Structured template used to document and validate intelligence findings across multiple sources.</p>
+<p><strong>Skills:</strong> Intelligence Corroboration · Reporting</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Restricted: Request Access
+Request Access
 </span>
 </p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h4>OSINT Mind Maps (X, Telegram, Reddit, LinkedIn, Instagram, Facebook, Discord)</h4>
+<h5>OSINT Mind Maps (X, Telegram, Reddit, LinkedIn, Instagram, Facebook, Discord)</h5>
 <p>Mapping investigative data points across major social and communication platforms to support open-source intelligence (OSINT) analysis and digital footprinting.</p>
 <ul style="margin-top:15px; padding-left:18px; line-height:1.6;">
 <li><strong>X (Twitter):</strong> Social Media Mapping · Profile Analysis · SOCMINT</li>
@@ -103,7 +105,7 @@ Restricted: Request Access
 </ul>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Restricted: Request Access
+Request Access
 </span>
 </p>
 </div>
@@ -112,7 +114,7 @@ Restricted: Request Access
 
 ---
 
-# Lab Demonstrations
+## Intelligence Demonstrations
 
 Practical demonstrations showcasing investigative OSINT techniques used to identify digital footprints, map infrastructure, and analyze publicly available data sources.
 
@@ -123,58 +125,102 @@ Practical demonstrations showcasing investigative OSINT techniques used to ident
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Reverse Image Search for OSINT Analysis – v.1.0.0</h5>
-<p>Demonstrates using reverse image search to identify related images and verify online sources during investigations.</p>
+<h5>LAB – Reverse Image Search for OSINT Analysis – v1.0.0</h5>
+<p>Using reverse image search to identify related images and verify sources during investigations.</p>
+<p><strong>Skills:</strong> Image Analysis · Source Verification · OSINT</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Identifying and Verifying Email Addresses – v.1.0.0</h5>
-<p>Generating and validating potential email addresses using naming conventions and publicly available documents.</p>
+<h5>LAB – Identifying and Verifying Email Addresses – v1.0.0</h5>
+<p>Generating and validating email addresses using naming conventions and public data sources.</p>
+<p><strong>Skills:</strong> OSINT Enumeration · Pattern Analysis · Verification</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Translating Foreign Language Content – v.1.0.0</h5>
-<p>Demonstrates translating foreign-language communications to support intelligence analysis and reporting.</p>
+<h5>LAB – Translating Foreign Language Content – v1.0.0</h5>
+<p>Translating foreign-language content to support intelligence analysis and reporting.</p>
+<p><strong>Skills:</strong> Multilingual OSINT · Translation · Analysis</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Creating Covert Social Media Accounts – v.1.0.0</h5>
-<p>Demonstrates creating operational social media accounts for gathering intelligence while maintaining anonymity.</p>
+<h5>LAB – Creating Covert Social Media Accounts – v1.0.0</h5>
+<p>Creating operational social media accounts for intelligence collection while maintaining anonymity.</p>
+<p><strong>Skills:</strong> SOCMINT · Operational Security · Account Setup</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Advanced Google Dork Queries for OSINT – v.1.0.0</h5>
-<p>Demonstrates using advanced search operators to identify publicly accessible sensitive data and documents.</p>
+<h5>LAB – Advanced Google Dork Queries for OSINT – v1.0.0</h5>
+<p>Using advanced search operators to identify publicly exposed sensitive data and documents.</p>
+<p><strong>Skills:</strong> Search Operators · OSINT · Data Discovery</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Information Leaks in Public Code Repositories – v.1.0.0</h5>
-<p>Investigating GitHub and similar repositories to identify exposed credentials or sensitive internal data.</p>
+<h5>LAB – Information Leaks in Public Code Repositories – v1.0.0</h5>
+<p>Analyzing public repositories to identify exposed credentials and sensitive data.</p>
+<p><strong>Skills:</strong> Code Analysis · OSINT · Data Exposure</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Passive Mapping of Assets Using Shodan – v.1.0.0</h5>
-<p>Demonstrates passive reconnaissance techniques to identify internet-facing infrastructure associated with an organization.</p>
+<h5>LAB – Passive Mapping of Assets Using Shodan – v1.0.0</h5>
+<p>Identifying internet-facing infrastructure using passive reconnaissance techniques.</p>
+<p><strong>Skills:</strong> Shodan · Reconnaissance · Asset Discovery</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Passive Mapping of Assets Using DNSDumpster – v.1.0.0</h5>
-<p>Using DNSDumpster to identify domains, subdomains, and related infrastructure during passive reconnaissance.</p>
+<h5>LAB – Passive Mapping of Assets Using DNSDumpster – v1.0.0</h5>
+<p>Identifying domains, subdomains, and infrastructure using passive DNS intelligence tools.</p>
+<p><strong>Skills:</strong> DNS Analysis · Reconnaissance · Infrastructure Mapping</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Targeted Search Queries for Documents – v.1.0.0</h5>
-<p>Demonstrates using targeted search queries to locate exposed internal documents and sensitive information online.</p>
+<h5>LAB – Targeted Search Queries for Documents – v1.0.0</h5>
+<p>Using targeted queries to locate exposed internal documents and sensitive information.</p>
+<p><strong>Skills:</strong> OSINT · Data Discovery · Search Techniques</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Analyzing Webpage Changes with Archives – v.1.0.0</h5>
-<p>Techniques for identifying modified or deleted web content through cached and archived page analysis.</p>
+<h5>LAB – Analyzing Webpage Changes with Archives – v1.0.0</h5>
+<p>Identifying modified or deleted content using cached and archived web pages.</p>
+<p><strong>Skills:</strong> Web Archiving · Change Detection · Analysis</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Finding Cybersecurity Feeds by Language – v.1.0.0</h5>
-<p>Demonstrates using search filters to locate cybersecurity news and threat intelligence feeds in a specific language.</p>
+<h5>LAB – Finding Cybersecurity Feeds by Language – v1.0.0</h5>
+<p>Using search filters to locate cybersecurity news and threat intelligence feeds in specific languages.</p>
+<p><strong>Skills:</strong> OSINT · Intelligence Collection · Filtering</p>
+<p align="center" style="margin-top:20px;">
+<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span>
+</p>
 </div>
 
 </div>
@@ -183,8 +229,8 @@ Practical demonstrations showcasing investigative OSINT techniques used to ident
 
 ## Portfolio Documentation
 
-This section highlights applied OSINT investigations, including platform analysis, digital footprint mapping, and intelligence collection techniques performed in controlled lab environments.
+This section presents applied OSINT investigations, including platform analysis, digital footprint mapping, and intelligence collection techniques performed in controlled environments.
 
-Additional investigation notes, intelligence workflows, and supporting research documentation are maintained within a private archive.
+Selected materials demonstrate core investigative competencies, while additional workflows and supporting research are maintained in a private archive.
 
-Complete investigative reports and supporting materials are restricted and available upon request for professional or technical review.
+Full investigative reports and supporting materials are available upon request for professional or technical review.
