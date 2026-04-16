@@ -14,11 +14,9 @@ image:
 
 ## Problem Solving Laboratory Overview
 
-This section demonstrates how I diagnose, enforce, and validate security and infrastructure controls in real-world environments.
-
-My work focuses on identifying root cause, correcting misconfigurations, and verifying that systems operate securely and reliably after remediation. These labs reflect hands-on experience across enterprise systems, cloud infrastructure, and access control failures.
-
-Each exercise follows a consistent operational approach: isolate the issue, analyze system behavior, implement corrective controls, and validate the outcome to ensure long-term stability and security.
+<p>
+This section demonstrates how security and infrastructure issues are diagnosed, controlled, and validated across real-world environments. The work focuses on identifying root cause, correcting misconfigurations, and verifying that systems operate securely and reliably after remediation. Each lab follows a structured approach: isolate the issue, analyze system behavior, implement corrective controls, and validate outcomes to ensure long-term stability and security.
+</p>
 
 | Category | Labs |
 |--------|------|
@@ -39,44 +37,44 @@ Structured investigations used to identify operational failures, analyze system 
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – pfSense APIPA Failure – v1.0.0</h5>
-<p>Investigation into loss of connectivity caused by APIPA addressing, identifying network misconfiguration and restoring access through static IP assignment.</p>
-<p><strong>Focus:</strong> Network diagnostics · IP addressing issues · Connectivity restoration</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-pfsense-apipa-failure-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p>Investigated loss of connectivity caused by APIPA addressing and restored access through corrected IP configuration.</p>
+<p><strong>Skills:</strong> Network Diagnostics · IP Addressing · Connectivity Troubleshooting</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-pfsense-apipa-failure-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>* REPORT – RDP Troubleshooting for AWS Users – v1.0.0</h5>
-<p>Investigation into Remote Desktop Protocol (RDP) access failures affecting AWS-hosted systems, focusing on network controls and access configuration.</p>
-<p><strong>Focus:</strong> Remote access validation · AWS network diagnostics · Access control enforcement</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-rdp-troubleshooting-aws-users/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<h5>REPORT – RDP Troubleshooting for AWS Users – v1.0.0</h5>
+<p>Diagnosed Remote Desktop access failures affecting AWS systems by analyzing network controls and access configurations.</p>
+<p><strong>Skills:</strong> RDP Troubleshooting · AWS Networking · Access Control</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-rdp-troubleshooting-aws-users/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Access Control Bypass & Network Stability – v1.0.0</h5>
-<p>Root cause analysis of multi-layered access control failures impacting remote connectivity across systems and environments.</p>
-<p><strong>Focus:</strong> Root cause analysis · Cross-system diagnostics · Access control validation</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-access-control-bypass-network-stability-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p>Performed root cause analysis of access control failures impacting connectivity across multiple systems and environments.</p>
+<p><strong>Skills:</strong> Root Cause Analysis · Access Control · Network Troubleshooting</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-access-control-bypass-network-stability-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0</h5>
-<p>Investigation and troubleshooting of issues encountered during VMware to AWS EC2 migration, including system compatibility and driver-related failures.</p>
-<p><strong>Focus:</strong> Cloud migration diagnostics · System compatibility · Infrastructure troubleshooting</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-enterprise-hybrid-cloud-migration-v1.2.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p>Troubleshot migration issues from VMware to AWS EC2, resolving system compatibility and driver-related failures.</p>
+<p><strong>Skills:</strong> Cloud Migration · Infrastructure Troubleshooting · System Compatibility</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-enterprise-hybrid-cloud-migration-v1.2.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – SQL Query Analysis Incident – v1.0.2</h5>
-<p>Analysis of database query logs to investigate failed login attempts, anomalous behavior, and potential unauthorized access patterns.</p>
-<p><strong>Focus:</strong> Log analysis · Query investigation · Security event validation</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sql-query-analysis-incident/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p>Analyzed database query logs to investigate failed logins, anomalies, and potential unauthorized access patterns.</p>
+<p><strong>Skills:</strong> Log Analysis · SQL Investigation · Security Monitoring</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sql-query-analysis-incident/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Server Security Evaluation – v1.2.0</h5>
-<p>Evaluation of a publicly accessible server to identify vulnerabilities, assess risks, and determine appropriate remediation strategies.</p>
-<p><strong>Focus:</strong> Vulnerability analysis · Risk assessment · Remediation planning</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/server-security-evaluation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Field Notes</a></p>
+<p>Evaluated a public-facing server to identify vulnerabilities, assess risk, and define remediation strategies.</p>
+<p><strong>Skills:</strong> Vulnerability Assessment · Risk Analysis · Security Evaluation</p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/server-security-evaluation/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 </div>
