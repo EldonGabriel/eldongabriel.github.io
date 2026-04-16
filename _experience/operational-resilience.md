@@ -116,10 +116,10 @@ These demonstrations showcase backup configuration, recovery procedures, and inf
 
 ---
 
-# Portfolio Documentation
+## Portfolio Documentation
 
-This section highlights applied operational resilience work, including backup strategy implementation, disaster recovery validation, and infrastructure restoration testing.
+This section presents operational resilience work, including backup implementation, disaster recovery validation, and system restoration testing.
 
-Additional lab documentation, configuration records, and recovery validation evidence are maintained within a private research archive.
+Selected materials demonstrate core recovery and continuity capabilities, while additional configuration data and validation evidence are maintained in a private archive.
 
-Complete documentation and supporting materials are restricted and available upon request for professional or technical review.
+Full documentation is available upon request for professional or technical review.
