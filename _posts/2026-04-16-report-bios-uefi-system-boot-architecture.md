@@ -12,7 +12,7 @@ image:
 
 # 0.0 Executive Summary
 
-This report explains how a computer starts from a powered-off state and loads an operating system. It focuses on firmware systems called Basic Input Output System and Unified Extensible Firmware Interface, along with the Power On Self Test process.
+This report explains how a computer starts from a powered-off state and loads an operating system. It focuses on firmware systems called Basic Input Output System (BIOS) and Unified Extensible Firmware Interface (UEFI), along with the Power On Self Test (POST) process.
 
 The goal is to understand what happens before the operating system loads, including hardware checks, boot device selection, and system security controls.
 
@@ -20,7 +20,7 @@ The result is a clear view of the startup process, which helps with troubleshoot
 
 
 
-# 1.0 Basic Input Output System, Unified Extensible Firmware Interface, and System Boot Architecture
+# 1.0 BIOS, UEFI, and System Boot Architecture
 
 ## 1.1 Project Description
 
@@ -44,14 +44,14 @@ The process focused on how firmware controls system startup and how hardware is 
 **Key Actions & Observations**
 
 **Firmware Execution:**
-- **Basic Input Output System:** Identified as older firmware that starts the computer and performs basic hardware initialization.
-- **Unified Extensible Firmware Interface:** Identified as modern firmware that supports faster startup, larger storage drives, and stronger security features.
+- **BIOS:** Identified as older firmware that starts the computer and performs basic hardware initialization.
+- **UEFI:** Identified as modern firmware that supports faster startup, larger storage drives, and stronger security features.
 
-**Hardware Validation (Power On Self Test):**
+**Hardware Validation (POST):**
 - Reviewed how the system checks the processor, memory, storage, and graphics hardware during startup.
 - Noted that failures at this stage may show error messages or beep codes if the screen is not available.
 
-**System Configuration (Complementary Metal Oxide Semiconductor Memory):**
+**Complementary Metal Oxide Semiconductor Memory (CMOS) and System Configuration:**
 - Identified how system settings such as boot order and time are stored.
 - Confirmed that a small battery helps preserve these settings when the system is powered off.
 
