@@ -32,7 +32,6 @@ image:
   </p>
   <p style="margin-top:15px; font-size:1.05em;">
    <strong><em>Technical Work Index:</em></strong> <strong>199+</strong> structured artifacts across <strong>troubleshooting</strong>, <strong>system administration</strong>, <strong>security operations</strong>, and <strong>forensic analysis</strong>, all validated through a <em>Layer → Device → Root Cause → Resolution</em> methodology.
-</p>
   </p>
   <p style="margin-top:10px;">
     <a href="https://docs.google.com/spreadsheets/d/1_NJJ7v9wQ4OH1zhxlq-AKbwUoMMPS58R2aZGxMsAukI/edit?usp=sharing" target="_blank" style="color:#00adb5; text-decoration:none; font-weight:bold;">
