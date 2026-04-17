@@ -27,7 +27,7 @@ image:
 
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
-I implement practical security controls that harden enterprise systems, investigate operational issues, and reduce organizational risk. As an <strong><em>ISC² Certified Cybersecurity Professional (CC)</em></strong> with <strong><em>200+ documented technical labs and reports</em></strong>, my work focuses on securing real IT environments through repeatable system administration and defensive security practices.
+I implement practical security controls that harden enterprise systems, investigate operational issues, and reduce organizational risk. As an <strong><em>ISC² Certified in Cybersecurity (CC)</em></strong> professional with <strong><em>200+ hands-on labs and technical reports</em></strong>, I secure real-world IT environments through system administration and defensive security operations.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
