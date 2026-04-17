@@ -28,7 +28,7 @@ These labs are organized by function to reflect real-world system administration
 
 | Category | Labs |
 |--------|------|
-| Technical Foundations | 6 |  
+| Technical Foundations | 7 |  
 | Windows Systems Administration | 7 | 
 | System Administration & Maintenance | 3 |
 | Troubleshooting & System Diagnostics | 6 |
@@ -36,7 +36,7 @@ These labs are organized by function to reflect real-world system administration
 | Virtualization & Infrastructure | 7 |
 | Lab Demonstrations (Hands-On Execution) | 29 |
 | Managed Operations & Automation | 4 |
-| **Total Labs Documented** | **63** |
+| **Total Labs Documented** | **64** |
 
 ---
 
@@ -104,6 +104,16 @@ View Report</a>
 <p><strong>Skills:</strong> Firmware Systems · Boot Process · Hardware Diagnostics</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-bios-uefi-system-boot-architecture/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Operating System Fundamentals and System Operations – v1.0.0</h5>
+<p>Explores how operating systems manage hardware, processes, memory, and storage, including kernel operations, virtual memory, file systems, and system logs used for monitoring and troubleshooting.</p>
+<p><strong>Skills:</strong> Operating Systems · Process Management · Virtual Memory · File Systems · System Monitoring</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-operating-system-fundamentals-system-operations/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
 View Report</a>
 </p>
 </div>
