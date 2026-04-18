@@ -18,9 +18,11 @@ image:
 {{ page.tagline }}
 </p>
 
-<h2 style="text-align:center; font-size:1.5em; margin:40px 0;">
+<h2 style="display:inline-block; position:relative; font-size:1.5em; margin:0; padding-bottom:6px;">
 Infrastructure Security & System Administration Portfolio
+<span style="position:absolute; left:0; bottom:0; width:100%; height:2px; background:#fff; border-radius:2px;"></span>
 </h2>
+</section>
 
 <div class="divider"></div>
 
@@ -35,7 +37,7 @@ I implement practical security controls that harden enterprise systems, investig
 <!-- ABOUT -->
 <section style="text-align:center; margin:40px 0;">
 <h2 style="display:inline-block; position:relative; font-size:1.5em; margin:0; padding-bottom:6px;">
-About This Portfolio
+Portfolio Overview
 <span style="position:absolute; left:0; bottom:0; width:100%; height:2px; background:#fff; border-radius:2px;"></span>
 </h2>
 </section>
