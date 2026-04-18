@@ -18,38 +18,21 @@ image:
   <p style="font-size: 14px; color: #ffffff;">Google Cybersecurity Professional Certificate</p>
 </div>
 
-The **Google Cybersecurity Professional** program provides a high-fidelity foundation in modern security operations. My work within this specialization focuses on the practical application of the NIST Cybersecurity Framework, leveraging Python for security automation, SQL for database forensics, and Linux for advanced system administration.
+This certification provides foundational capability in cybersecurity operations, including threat detection, incident response, system hardening, and security automation aligned with NIST cybersecurity principles.
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Capabilities:</strong> Threat Detection (SIEM) · Security Automation (Python) · Vulnerability Management
+  <strong>Core Skills:</strong> SIEM-Based Threat Detection · Security Automation (Python) · Vulnerability Management
 </p>
 
-#### **Strategic Solutions & Security Operations**
+<h4>Applied Capability</h4>
+<ul>
+  <li>Monitored and analyzed security events using structured detection workflows</li>
+  <li>Developed basic automation scripts using Python and Bash for security tasks</li>
+  <li>Performed system and log analysis using Linux environments and SQL queries</li>
+  <li>Applied structured incident response methodologies for threat containment and recovery</li>
+</ul>
 
-This professional credential enables me to provide the following defensive services:
-
-* **Incident Response & Management:** Developing structured playbooks to identify, contain, and recover from security breaches.
-
-* **Security Automation:** Building custom Python scripts and Bash workflows to automate repetitive monitoring and response tasks.
-
-* **Network Defense & SIEM:** Monitoring network traffic and analyzing security events using industry-standard SIEM tools.
-
-#### **Technical Skill Summary**
-* **Threat Intelligence:** Analyzing the cyber threat landscape to harden organizational defenses.
-* **Linux & SQL:** Expert-level command-line operations and database querying for security diagnostics.
-* **Vulnerability Management:** Identifying security gaps through systematic auditing and prioritized remediation.
-
-#### **Certification Milestones**
-<div style="background: rgba(255,255,255,0.02); padding: 20px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1);">
-  <p><strong>Status:</strong> Specialization Completed (Mar 2, 2025)</p>
-  <ul style="list-style: none; padding-left: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-    <li>✅ Foundations of Cybersecurity</li>
-    <li>✅ Risk Management (NIST)</li>
-    <li>✅ Network Security</li>
-    <li>✅ Linux & SQL Fundamentals</li>
-    <li>✅ Assets & Vulnerabilities</li>
-    <li>✅ Detection & Response</li>
-    <li>✅ Python Automation</li>
-    <li>✅ Professional IR Prep</li>
-  </ul>
-</div>
+<h4>Operational Relevance</h4>
+<p>
+This certification supports entry-level security operations functions, including threat detection, incident response, and foundational SOC workflows using modern security tools and frameworks.
+</p>
