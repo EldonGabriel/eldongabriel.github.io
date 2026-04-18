@@ -61,8 +61,8 @@ categories:
     subcategories:
 
   - name: Endpoint Security & Configuration Enforcement
-        description: Hardening Windows endpoints through policy enforcement, registry controls, and application restriction.
-        items:
+    description: Hardening Windows endpoints through policy enforcement, registry controls, and application restriction.
+    items:
 
           - title: SOP – Hardening Windows Defender Using Local GPO – v1.0.1
             description: Configured Windows Defender using Local Group Policy to enforce real-time protection and standardized endpoint security settings.
