@@ -111,9 +111,43 @@ Explore My Certifications
 
 ---
 
-<section style="text-align:center; margin:40px 0;">
-<h2 style="display:inline-block; position:relative; font-size:1.5em; margin:0; padding-bottom:6px;">
-Foundational Mentorship
-<span style="position:absolute; left:0; bottom:0; width:100%; height:2px; background:#fff; border-radius:2px;"></span>
-</h2>
+<section style="text-align:center; margin: 60px 0;">
+  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    Foundational Mentorship
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+  </h2>
 </section>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="assets/images/Eldon-George.jpg" alt="George H. Ross" 
+         style="width:200px; height:200px; object-fit: cover; border-radius:50%;"><br>
+    <strong>George H. Ross</strong><br>
+    <em>NBC’s ‘The Apprentice’ Judge & Mentor</em>
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <p>Instilled a <strong>disciplined evaluation of risks</strong> and thorough investigative practices essential for proactive threat hunting and forensic accuracy.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; flex-direction: row-reverse; margin-bottom: 40px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="assets/images/eldon-wahida.png" alt="Wahida Clark" 
+         style="width:200px; height:200px; object-fit: cover; border-radius:50%;"><br>
+    <strong>Wahida Clark</strong><br>
+    <em>4x NYT Bestselling Author & Mentor</em>
+  </div>
+  <div style="flex: 2; padding-right: 20px;">
+    <p>Reinforced the importance of <strong>clear communication</strong> and technical storytelling to translate critical risks into actionable business insights.</p>
+  </div>
+</div>
+
+<p align="center" style="margin-top: 40px;">
+  <a href="/portfolio/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">Explore My Portfolio</a>
+</p>
+
+---
+<div style="margin:40px 0;">
+  <img src="/assets/images/headers/recent-reports.png" alt="Recent Reports Banner" style="width:100%; border-radius:8px;">
+</div>
+<p align="center">A structured collection of security reports, standard operating procedures, and technical investigations demonstrating applied cybersecurity skills acr
