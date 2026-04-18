@@ -34,10 +34,15 @@ Work includes implementing identity and access management (IAM) controls such as
 | **Total Identity Security Labs Documented** | **8** |
 
 ---
-
 ## Identity & Access Management (IAM)
 
-Identity and Access Management (IAM) ensures that only authorized users can access systems and sensitive resources. These labs demonstrate how administrative controls, policy enforcement, and system configurations are used to protect identities and reduce unauthorized access risk.
+<p style="line-height:1.6; font-size:1.05em;">
+This section documents hands-on IAM labs focused on access control configuration, administrative policy enforcement, and identity protection in system environments.
+</p>
+
+<p style="line-height:1.6; font-size:1.05em;">
+Work demonstrates the implementation of security controls used to restrict access, manage user privileges, and reduce the risk of unauthorized system access.
+</p>
 
 ## Identity Protection & Access Control
 
