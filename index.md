@@ -31,6 +31,16 @@ image:
 I implement practical security controls that harden enterprise systems, investigate operational issues, and reduce organizational risk. As an <strong><em>ISC² Certified in Cybersecurity (CC)</em></strong> professional with <strong><em>200+ hands-on labs and technical reports</em></strong>, I secure real-world IT environments through system administration and defensive security operations.
 </p>
 
+<!-- SECURITY ENGINEERING SECTION -->
+<section style="margin: 60px 0;">
+
+  <section style="text-align:center; margin: 40px 0;">
+  <h2 style="display:inline-block; position:relative; font-size:1.5em; margin:0; padding-bottom:6px;">
+    About This Portfolio
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:2px; background:#fff; border-radius:2px;"></span>
+  </h2>
+</section>
+
 <p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
 My portfolio follows a <strong><em>Proof of Work methodology</em></strong>, where each security concept is validated through hands-on implementation and documented technical analysis. Projects include system hardening, network security configuration, incident troubleshooting, and infrastructure protection aligned with industry security frameworks.
 </p>
@@ -49,7 +59,7 @@ This portfolio is continuously updated with new labs, projects, and troubleshoot
 <section style="margin: 60px 0;">
 
   <section style="text-align:center; margin: 40px 0;">
-  <h2 style="display:inline-block; position:relative; font-size:1.8em; margin:0; padding-bottom:6px;">
+  <h2 style="display:inline-block; position:relative; font-size:1.5em; margin:0; padding-bottom:6px;">
     Security Engineering & Control Enforcement
     <span style="position:absolute; left:0; bottom:0; width:100%; height:2px; background:#fff; border-radius:2px;"></span>
   </h2>
@@ -103,7 +113,7 @@ This portfolio is continuously updated with new labs, projects, and troubleshoot
 ---
 
 <section style="text-align:center; margin: 40px 0;">
-  <h2 style="display:inline-block; position:relative; font-size:1.8em; margin:0; padding-bottom:6px;">
+  <h2 style="display:inline-block; position:relative; font-size:1.4em; margin:0; padding-bottom:6px;">
     Foundational Mentorship
     <span style="position:absolute; left:0; bottom:0; width:100%; height:2px; background:#fff; border-radius:2px;"></span>
   </h2>
