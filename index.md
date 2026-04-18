@@ -26,7 +26,7 @@ image:
 </section>
 
 <!-- Short, high-impact intro -->
-<p style="font-size:1.2em; line-height:1.6; max-width:800px; margin: 20px auto;">
+<p style="font-size:1.2em; line-height:1.6; max-width:800px; margin:20px 0; text-align:left;">
 I implement practical security controls to harden systems, troubleshoot infrastructure issues, and reduce risk. My work is built on <strong>200+ hands-on labs and technical reports</strong> with real-world validation.
 </p>
 
