@@ -58,46 +58,45 @@ categories:
   - name: Windows Systems Administration
     description: Hands-on system administration work in Windows environments, focused on system management, security enforcement, and operational troubleshooting.
 
-    subcategories:
+      subcategories:
+        - name: Endpoint Security & Configuration Enforcement
+          description: Hardening Windows endpoints through policy enforcement, registry controls, and application restriction.
+          items:
 
-  - name: Endpoint Security & Configuration Enforcement
-    description: Hardening Windows endpoints through policy enforcement, registry controls, and application restriction.
-    items:
+            - title: SOP – Hardening Windows Defender Using Local GPO – v1.0.1
+              description: Configured Windows Defender using Local Group Policy to enforce real-time protection and standardized endpoint security settings.
+              skills: "Endpoint Protection · Windows Defender · GPO Enforcement"
+              link: https://eldongabriel.github.io/sop-hardening-windows-defender-using-local-gpo-v1.0.1/
 
-          - title: SOP – Hardening Windows Defender Using Local GPO – v1.0.1
-            description: Configured Windows Defender using Local Group Policy to enforce real-time protection and standardized endpoint security settings.
-            skills: "Endpoint Protection · Windows Defender · GPO Enforcement"
-            link: https://eldongabriel.github.io/sop-hardening-windows-defender-using-local-gpo-v1.0.1/
+            - title: SOP – Anonymous Access Restriction & Recon Hardening – v1.0.2
+              description: Restricted null sessions and anonymous enumeration to reduce information exposure and prevent reconnaissance-based attacks.
+              skills: "Information Leakage Prevention · System Hardening · Access Control"
+              link: https://eldongabriel.github.io/sop-anonymous-access-restriction-recon-hardening-v1.0.2/
 
-          - title: SOP – Anonymous Access Restriction & Recon Hardening – v1.0.2
-            description: Restricted null sessions and anonymous enumeration to reduce information exposure and prevent reconnaissance-based attacks.
-            skills: "Information Leakage Prevention · System Hardening · Access Control"
-            link: https://eldongabriel.github.io/sop-anonymous-access-restriction-recon-hardening-v1.0.2/
+            - title: REPORT – OS Patching Enforcement via Local GPO – v1.0.0
+              description: Configured automated patching policies using Local Group Policy to maintain system updates and reduce vulnerability exposure.
+              skills: "Patch Management · Policy Enforcement · System Maintenance"
+              link: https://eldongabriel.github.io/report-os-patching-enforcement-local-gpo/
 
-          - title: REPORT – OS Patching Enforcement via Local GPO – v1.0.0
-            description: Configured automated patching policies using Local Group Policy to maintain system updates and reduce vulnerability exposure.
-            skills: "Patch Management · Policy Enforcement · System Maintenance"
-            link: https://eldongabriel.github.io/report-os-patching-enforcement-local-gpo/
+            - title: REPORT – Hardening Microsoft Edge via Local GPO – v1.0.0
+              description: Applied Group Policy settings to secure Microsoft Edge by restricting extensions, downloads, and unsafe browser behavior.
+              skills: "Browser Hardening · Web Security · GPO Configuration"
+              link: https://eldongabriel.github.io/report-harden-microsoft-edge-local-gpo-v1.0.0/
 
-          - title: REPORT – Hardening Microsoft Edge via Local GPO – v1.0.0
-            description: Applied Group Policy settings to secure Microsoft Edge by restricting extensions, downloads, and unsafe browser behavior.
-            skills: "Browser Hardening · Web Security · GPO Configuration"
-            link: https://eldongabriel.github.io/report-harden-microsoft-edge-local-gpo-v1.0.0/
+            - title: REPORT – Deploy Controlled Folder Access via Local GPO – v1.0.0
+              description: Implemented Controlled Folder Access to block unauthorized applications from modifying protected directories.
+              skills: "Ransomware Protection · Data Integrity · Endpoint Hardening"
+              link: https://eldongabriel.github.io/report-deploy-controlled-folder-access-via-local-gpo-v1.0.0/
 
-          - title: REPORT – Deploy Controlled Folder Access via Local GPO – v1.0.0
-            description: Implemented Controlled Folder Access to block unauthorized applications from modifying protected directories.
-            skills: "Ransomware Protection · Data Integrity · Endpoint Hardening"
-            link: https://eldongabriel.github.io/report-deploy-controlled-folder-access-via-local-gpo-v1.0.0/
+            - title: REPORT – Endpoint Security with Windows Registry – v1.0.0
+              description: Configured registry-based security controls to restrict untrusted activity and enforce system-level access policies.
+              skills: "Registry Hardening · Endpoint Security · Access Control"
+              link: https://eldongabriel.github.io/report-endpoint-security-windows-registry/
 
-          - title: REPORT – Endpoint Security with Windows Registry – v1.0.0
-            description: Configured registry-based security controls to restrict untrusted activity and enforce system-level access policies.
-            skills: "Registry Hardening · Endpoint Security · Access Control"
-            link: https://eldongabriel.github.io/report-endpoint-security-windows-registry/
-
-          - title: REPORT – GPO Hardening for Windows Application Control – v1.0.0
-            description: Enforced application control using Group Policy to block unauthorized software execution and reduce attack surface.
-            skills: "Application Control · Threat Surface Reduction · GPO Enforcement"
-            link: https://eldongabriel.github.io/report-gpo-hardening-for-windows-application-control-v1.0.0/
+            - title: REPORT – GPO Hardening for Windows Application Control – v1.0.0
+              description: Enforced application control using Group Policy to block unauthorized software execution and reduce attack surface.
+              skills: "Application Control · Threat Surface Reduction · GPO Enforcement"
+              link: https://eldongabriel.github.io/report-gpo-hardening-for-windows-application-control-v1.0.0/
 
       - name: Windows GPO / System Hardening
         description: Security configuration of Windows systems using Group Policy to enforce least privilege and baseline security controls.
