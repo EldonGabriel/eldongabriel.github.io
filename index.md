@@ -30,13 +30,15 @@ image:
 I implement practical security controls to harden systems, troubleshoot infrastructure issues, and reduce risk. My work is built on <strong>200+ hands-on labs and technical reports</strong> with real-world validation.
 </p>
 
-<!-- ABOUT SECTION (your longer content moved here) -->
-<section style="text-align:center; margin: 60px 0;">
-  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
-    About This Portfolio
-    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
-  </h2>
-</section>
+<!-- ABOUT SECTION -->
+<section style="margin: 60px auto; max-width:900px;">
+
+  <section style="text-align:center; margin: 60px 0;">
+    <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+      About This Portfolio
+      <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+    </h2>
+  </section>
 
   <p style="font-size:1.1em; line-height:1.6;">
     This portfolio follows a <strong>proof of work</strong> approach, where each security concept is validated through hands-on implementation and technical analysis.
@@ -56,51 +58,57 @@ I implement practical security controls to harden systems, troubleshoot infrastr
 
 </section>
 
----
+ 
 
-<section style="text-align:center; margin: 60px 0;">
-  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
-    Security Engineering & Control Enforcement
-    <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
-  </h2>
-</section>
-    
-   <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-  <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">System Hardening & Control Enforcement</h3>
-  <ul>
-    <li>CIS benchmark policies</li>
-    <li>Least privilege enforcement</li>
-    <li>Registry hardening</li>
-    <li>Group policy controls</li>
-    <li>IP access restrictions</li>
-  </ul>
-</div>
+<!-- SECURITY ENGINEERING SECTION -->
+<section style="margin: 60px 0;">
 
-<div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-  <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Network Security & Defense</h3>
-  <ul>
-    <li>Firewall rule enforcement</li>
-    <li>pfSense configuration</li>
-    <li>IPsec VPN troubleshooting</li>
-    <li>DNS traffic analysis</li>
-    <li>Misconfiguration identification</li>
-    <li>Access control validation</li>
-  </ul>
-</div>
+  <section style="text-align:center; margin: 60px 0;">
+    <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+      Security Engineering & Control Enforcement
+      <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+    </h2>
+  </section>
 
-<div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
-  <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">GRC Implementation & Operational Resilience</h3>
-  <ul>
-    <li>NIST aligned controls</li>
-    <li>Risk register mapping</li>
-    <li>Policy enforcement</li>
-    <li>Technical safeguard implementation</li>
-    <li>Post breach remediation</li>
-    <li>Audit readiness maintenance</li>
-  </ul>
-</div>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+    <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">System Hardening & Control Enforcement</h3>
+      <ul>
+        <li>CIS benchmark policies</li>
+        <li>Least privilege enforcement</li>
+        <li>Registry hardening</li>
+        <li>Group policy controls</li>
+        <li>IP access restrictions</li>
+      </ul>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Network Security & Defense</h3>
+      <ul>
+        <li>Firewall rule enforcement</li>
+        <li>pfSense configuration</li>
+        <li>IPsec VPN troubleshooting</li>
+        <li>DNS traffic analysis</li>
+        <li>Misconfiguration identification</li>
+        <li>Access control validation</li>
+      </ul>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">GRC Implementation & Operational Resilience</h3>
+      <ul>
+        <li>NIST aligned controls</li>
+        <li>Risk register mapping</li>
+        <li>Policy enforcement</li>
+        <li>Technical safeguard implementation</li>
+        <li>Post breach remediation</li>
+        <li>Audit readiness maintenance</li>
+      </ul>
+    </div>
 
   </div>
+
 </section>
 
 <p align="center" style="margin-top: 40px;">
