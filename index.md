@@ -51,54 +51,56 @@ The goal is simple: convert security theory into <strong><em>measurable, defensi
 This portfolio is continuously updated with new labs, projects, and troubleshooting scenarios. It serves as a working reference of applied security practices across systems, networks, and security operations.
 </p>
 
-<!-- SECURITY ENGINEERING -->
-<section style="text-align:center; margin:40px 0;">
-<h2 style="display:inline-block; position:relative; font-size:1.5em; margin:0; padding-bottom:6px;">
-Security Engineering & Control Enforcement
-<span style="position:absolute; left:0; bottom:0; width:100%; height:2px; background:#fff; border-radius:2px;"></span>
-</h2>
+<section style="margin: 60px 0;">
+
+  <section style="text-align:center; margin: 40px 0;">
+  <h2 style="display:inline-block; position:relative; font-size:1.5em; margin:0; padding-bottom:6px;">
+    Security Engineering & Control Enforcement
+    <span style="position:absolute; left:0; bottom:0; width:100%; height:2px; background:#fff; border-radius:2px;"></span>
+  </h2>
 </section>
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:20px;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.1);">
-<h3 style="border-bottom:2px solid #fff; padding-bottom:10px;">System Hardening & Control Enforcement</h3>
-<ul>
-<li>CIS benchmark policies</li>
-<li>Least privilege enforcement</li>
-<li>Registry hardening</li>
-<li>Group policy controls</li>
-<li>IP access restrictions</li>
-</ul>
-</div>
+    <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">System Hardening & Control Enforcement</h3>
+      <ul>
+        <li>CIS benchmark policies</li>
+        <li>Least privilege enforcement</li>
+        <li>Registry hardening</li>
+        <li>Group policy controls</li>
+        <li>IP access restrictions</li>
+      </ul>
+    </div>
 
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.1);">
-<h3 style="border-bottom:2px solid #fff; padding-bottom:10px;">Network Security & Defense</h3>
-<ul>
-<li>Firewall rule enforcement</li>
-<li>pfSense configuration</li>
-<li>IPsec VPN troubleshooting</li>
-<li>DNS traffic analysis</li>
-<li>Misconfiguration identification</li>
-<li>Access control validation</li>
-</ul>
-</div>
+    <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">Network Security & Defense</h3>
+      <ul>
+        <li>Firewall rule enforcement</li>
+        <li>pfSense configuration</li>
+        <li>IPsec VPN troubleshooting</li>
+        <li>DNS traffic analysis</li>
+        <li>Misconfiguration identification</li>
+        <li>Access control validation</li>
+      </ul>
+    </div>
 
-<div style="background:rgba(255,255,255,0.05); padding:25px; border-radius:10px; border:1px solid rgba(255,255,255,0.1);">
-<h3 style="border-bottom:2px solid #fff; padding-bottom:10px;">GRC Implementation & Operational Resilience</h3>
-<ul>
-<li>NIST aligned controls</li>
-<li>Risk register mapping</li>
-<li>Policy enforcement</li>
-<li>Technical safeguard implementation</li>
-<li>Post breach remediation</li>
-<li>Audit readiness maintenance</li>
-</ul>
-</div>
+    <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
+      <h3 style="color:#fff; border-bottom: 2px solid #fff; padding-bottom:10px;">GRC Implementation & Operational Resilience</h3>
+      <ul>
+        <li>NIST aligned controls</li>
+        <li>Risk register mapping</li>
+        <li>Policy enforcement</li>
+        <li>Technical safeguard implementation</li>
+        <li>Post breach remediation</li>
+        <li>Audit readiness maintenance</li>
+      </ul>
+    </div>
 
-</div>
+  </div>
 
 </section>
+
 
 <p align="center" style="margin-top:40px;">
 <a href="/certifications/" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
