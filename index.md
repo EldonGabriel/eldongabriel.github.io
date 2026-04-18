@@ -60,6 +60,16 @@ This portfolio is continuously updated with new labs, projects, and troubleshoot
   </h2>
 </section>
 
+  <!-- SECURITY ENGINEERING SECTION -->
+<section style="margin: 60px 0;">
+
+  <section style="text-align:center; margin: 60px 0;">
+    <h3 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+      Security Engineering & Control Enforcement
+      <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
+    </h3>
+  </section>
+
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
     <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
@@ -100,6 +110,7 @@ This portfolio is continuously updated with new labs, projects, and troubleshoot
   </div>
 
 </section>
+
 
 
 <p align="center" style="margin-top:40px;">
