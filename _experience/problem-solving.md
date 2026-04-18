@@ -14,8 +14,8 @@ image:
 
 ## Problem Solving Laboratory Overview
 
-<p>
-This section demonstrates how security and infrastructure issues are diagnosed, controlled, and validated across real-world environments. The work focuses on identifying root cause, correcting misconfigurations, and verifying that systems operate securely and reliably after remediation. Each lab follows a structured approach: isolate the issue, analyze system behavior, implement corrective controls, and validate outcomes to ensure long-term stability and security.
+<p style="line-height:1.6; font-size:1.05em;">
+This section documents the diagnosis and remediation of security and infrastructure issues in controlled environments. Each lab follows a structured process: isolate the issue, analyze system behavior, apply corrective controls, and validate system stability after remediation.
 </p>
 
 | Category | Labs |
