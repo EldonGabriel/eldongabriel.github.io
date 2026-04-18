@@ -36,9 +36,11 @@ Work includes data correlation, verification, and investigative analysis to supp
 
 ---
 
-## Intelligence Collection & Analysis
-
 ### 🔍 Technical Analysis & Platform Mapping
+
+These reports establish the core knowledge required for conducting thorough technical analysis and mapping of platforms. The focus is on understanding how platforms interact with data, networks, and security controls at a deep technical level, and how misconfigurations or vulnerabilities can lead to security risks.
+
+The goal is to develop a clear understanding of how platforms function under the hood, so issues can be identified, analyzed, and resolved efficiently while ensuring that security measures are applied proactively and with full context.
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -118,13 +120,9 @@ Request Access
 
 </div>
 
----
+ 
 
 ## Intelligence Demonstrations
-
-Practical demonstrations showcasing investigative OSINT techniques used to identify digital footprints, map infrastructure, and analyze publicly available data sources.
-
-## Intelligence Demonstration Portfolio
 
 ### 🏗️ Advanced Search & Reconnaissance
 
@@ -231,8 +229,7 @@ Practical demonstrations showcasing investigative OSINT techniques used to ident
 
 </div>
 
----
-
+ 
 ## Portfolio Documentation
 
 This section presents applied OSINT investigations, including platform analysis, digital footprint mapping, and intelligence collection techniques performed in controlled environments.
