@@ -9,8 +9,8 @@ image:
   path: /assets/images/mcsi-novice-sysadmin.png
 ---
 
-<section style="margin: 60px 0;">
-
+<section class="portfolio-page">
+  
   <p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
     My experience focuses on the practical application of security controls across real systems, including infrastructure hardening, operational troubleshooting, and validation of implemented security measures.
   </p>
