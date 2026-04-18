@@ -12,11 +12,15 @@ image:
   caption: "Networking Architecture, Protocol Analysis, and Security Labs"
 ---
 
-### Networking Lab Overview
+## Networking Laboratory Overview
 
-Reliable network infrastructure forms the backbone of modern computing environments. The labs and reports in this section demonstrate hands-on experience analyzing networking protocols, troubleshooting connectivity issues, and designing secure enterprise network architectures using industry-standard concepts and tools.
+<p style="line-height:1.6; font-size:1.05em;">
+This section documents hands-on networking labs focused on protocol analysis, connectivity troubleshooting, and secure network architecture design in enterprise environments.
+</p>
 
-These labs focus on understanding network communication models, analyzing protocols used in enterprise environments, and designing secure network architectures that support organizational infrastructure and cybersecurity requirements.
+<p style="line-height:1.6; font-size:1.05em;">
+Work includes examining communication models, diagnosing network issues, and implementing secure configurations aligned with operational and security requirements.
+</p>
 
 ### Lab Distribution Summary
 
