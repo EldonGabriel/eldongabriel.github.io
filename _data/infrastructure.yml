@@ -1,0 +1,478 @@
+title: Infrastructure & Systems
+subtitle: Infrastructure Laboratory Overview
+
+intro:
+  - This section documents enterprise system design, configuration, and troubleshooting across Windows, Linux, cloud, and virtual environments.
+  - Labs focus on system hardening, access control, and infrastructure diagnostics.
+  - All configurations are validated for expected behavior and security effectiveness.
+
+categories:
+
+  - name: Hardware Architecture
+    description: Core computing components and how data is processed at the hardware level.
+    items:
+
+      - title: REPORT – Introduction to Computer Hardware and Processing – v1.0.0
+        description: Breakdown of how CPU, memory, and storage interact to process data, including instruction execution and system performance impact.
+        skills: "CPU · Data Processing · System Architecture"
+        link: https://eldongabriel.github.io/report-introduction-computer-hardware-processing/
+
+      - title: REPORT – Binary Systems, Data Representation and Logic Gates – v1.0.0
+        description: Explains binary data representation and logic gate operations forming the foundation of system computation.
+        skills: "Binary · Logic Gates · Data Encoding"
+        link: https://eldongabriel.github.io/report-binary-systems-data-representation-logic-gates/
+
+      - title: REPORT – Computer Hardware and Power Infrastructure – v1.0.0
+        description: Examines system power distribution including PSU behavior, motherboard communication, and hardware risks.
+        skills: "Power Systems · Hardware Infrastructure · Interfaces"
+        link: https://eldongabriel.github.io/report-computer-hardware-power-infrastructure/
+
+      - title: REPORT – Memory Architecture and RAM Technologies – v1.0.0
+        description: Analysis of memory architecture including DRAM and DDR evolution and performance impact.
+        skills: "Memory · RAM · Performance Analysis"
+        link: https://eldongabriel.github.io/report-memory-architecture-ram-technologies/
+
+      - title: REPORT – Storage Systems and Data Management – v1.0.0
+        description: Comparison of storage technologies including HDD, SSD, and NVMe with focus on performance and data integrity.
+        skills: "Storage · Data Management · Backup Systems"
+        link: https://eldongabriel.github.io/report-storage-systems-data-management/
+
+  - name: Firmware & Boot Systems
+    description: System initialization processes from firmware execution to operating system loading.
+    items:
+
+      - title: REPORT – BIOS, UEFI, and System Boot Architecture – v1.0.0
+        description: Covers system startup process including firmware execution, POST, boot device selection, and OS loading.
+        skills: "Firmware · Boot Process · System Diagnostics"
+        link: https://eldongabriel.github.io/report-bios-uefi-system-boot-architecture/
+
+  - name: Operating Systems & System Operations
+    description: How operating systems manage hardware resources, processes, and system-level operations.
+    items:
+
+      - title: REPORT – Operating System Fundamentals and System Operations – v1.0.0
+        description: Explores OS management of processes, memory, storage, kernel functions, and system monitoring.
+        skills: "Operating Systems · Process Management · Virtual Memory · File Systems · Logging"
+        link: https://eldongabriel.github.io/report-operating-system-fundamentals-system-operations/
+
+  - name: Windows Systems Administration
+    description: Hands-on system administration work in Windows environments, focused on system management, security enforcement, and operational troubleshooting.
+
+    subcategories:
+
+      - name: Endpoint Security & Configuration Enforcement
+        description: Hardening Windows endpoints through policy enforcement, registry controls, and application restriction.
+        items:
+
+          - title: SOP – Hardening Windows Defender Using Local GPO – v1.0.1
+            description: Configured Windows Defender using Local Group Policy to enforce real-time protection and standardized endpoint security settings.
+            skills: "Endpoint Protection · Windows Defender · GPO Enforcement"
+            link: https://eldongabriel.github.io/sop-hardening-windows-defender-using-local-gpo-v1.0.1/
+
+          - title: SOP – Anonymous Access Restriction & Recon Hardening – v1.0.2
+            description: Restricted null sessions and anonymous enumeration to reduce information exposure and prevent reconnaissance-based attacks.
+            skills: "Information Leakage Prevention · System Hardening · Access Control"
+            link: https://eldongabriel.github.io/sop-anonymous-access-restriction-recon-hardening-v1.0.2/
+
+          - title: REPORT – OS Patching Enforcement via Local GPO – v1.0.0
+            description: Configured automated patching policies using Local Group Policy to maintain system updates and reduce vulnerability exposure.
+            skills: "Patch Management · Policy Enforcement · System Maintenance"
+            link: https://eldongabriel.github.io/report-os-patching-enforcement-local-gpo/
+
+          - title: REPORT – Hardening Microsoft Edge via Local GPO – v1.0.0
+            description: Applied Group Policy settings to secure Microsoft Edge by restricting extensions, downloads, and unsafe browser behavior.
+            skills: "Browser Hardening · Web Security · GPO Configuration"
+            link: https://eldongabriel.github.io/report-harden-microsoft-edge-local-gpo-v1.0.0/
+
+          - title: REPORT – Deploy Controlled Folder Access via Local GPO – v1.0.0
+            description: Implemented Controlled Folder Access to block unauthorized applications from modifying protected directories.
+            skills: "Ransomware Protection · Data Integrity · Endpoint Hardening"
+            link: https://eldongabriel.github.io/report-deploy-controlled-folder-access-via-local-gpo-v1.0.0/
+
+          - title: REPORT – Endpoint Security with Windows Registry – v1.0.0
+            description: Configured registry-based security controls to restrict untrusted activity and enforce system-level access policies.
+            skills: "Registry Hardening · Endpoint Security · Access Control"
+            link: https://eldongabriel.github.io/report-endpoint-security-windows-registry/
+
+          - title: REPORT – GPO Hardening for Windows Application Control – v1.0.0
+            description: Enforced application control using Group Policy to block unauthorized software execution and reduce attack surface.
+            skills: "Application Control · Threat Surface Reduction · GPO Enforcement"
+            link: https://eldongabriel.github.io/report-gpo-hardening-for-windows-application-control-v1.0.0/
+
+      - name: Windows GPO / System Hardening
+        description: Security configuration of Windows systems using Group Policy to enforce least privilege and baseline security controls.
+        items:
+
+          - title: REPORT – Hardening Windows User Rights via Local Group Policy – v1.0.0
+            description: Configured User Rights Assignment policies to enforce least privilege and restrict high-risk system permissions.
+            skills: "Least Privilege · Access Control · Identity Security · GPO Enforcement"
+            link: https://eldongabriel.github.io/report-hardening-windows-user-rights-via-local-group-policy-v1.0.0/
+
+          - title: REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0
+            description: Configured session lock policies via Group Policy to automatically secure inactive user sessions.
+            skills: "Session Security · Endpoint Protection · GPO Enforcement"
+            link: https://eldongabriel.github.io/report-applying-a-local-gpo-for-session-lock-enforcement-v1.0.0/
+
+          - title: REPORT – Deploy Local GPO for Windows Security Policies – v1.0.0
+            description: Configured Local Group Policy to enforce baseline Windows security configurations.
+            skills: "GPO Engineering · Baseline Hardening · Endpoint Security"
+            link: https://eldongabriel.github.io/report-deploy-local-gpo-windows-security-policies-v1.0.0/
+
+          - title: SOP – Password & Account Lockout GPO Hardening – v1.0.1
+            description: Configured password policies and account lockout thresholds to strengthen authentication controls and prevent unauthorized access.
+            skills: "Password Policy · Account Lockout · Authentication Security · GPO Enforcement"
+            link: https://eldongabriel.github.io/sop-password-account-lockout-gpo-hardening-v1.0.1/
+
+          - title: REPORT – Hardening UAC via Local Group Policy – v1.0.0
+            description: Configured User Account Control settings to reduce unauthorized privilege escalation.
+            skills: "UAC Hardening · Privilege Security · Access Control"
+            link: https://eldongabriel.github.io/report-hardening-uac-local-gpo/
+
+          - title: REPORT – Hardening Credential Entry Using Group Policy – v1.0.0
+            description: Configured Secure Desktop and logon restrictions to reduce credential exposure and prevent interception.
+            skills: "Credential Security · Logon Hardening · Access Control · GPO Enforcement"
+            link: https://eldongabriel.github.io/report-hardening-credential-entry-using-group-policy-v1.0.0/
+
+      - name: Endpoint Monitoring
+        description: System monitoring and forensic-style analysis of Windows processes and behavior.
+        items:
+
+          - title: REPORT – Monitoring Windows Processes with Procmon – v1.0.1
+            description: Used Process Monitor to capture system activity, analyze process behavior, and investigate file and registry interactions.
+            skills: "Security Monitoring · Process Analysis · Sysinternals · Event Analysis"
+            link: https://eldongabriel.github.io/report-monitoring-windows-processes-procmon-v1.0.1/
+
+      - name: System Administration & Maintenance
+       description: Hands-on Windows system maintenance focused on storage management, system configuration, and operational administration tasks.
+       items:
+
+          - title: REPORT – Windows Disk Management with CHKDSK and FSUTIL – v1.0.0
+            description: Used built-in Windows tools to check disk health, repair filesystem errors, and validate storage integrity.
+            skills: "Disk Management · Filesystem Repair · Storage Integrity · System Maintenance"
+            link: https://eldongabriel.github.io/report-windows-disk-management-chkdsk-fsutil-v1.0.0/
+
+          - title: REPORT – Windows Control Panel Administration – v1.0.0
+            description: Configured Control Panel settings to manage system features, enforce restrictions, and support administrative tasks.
+            skills: "System Configuration · Administrative Control · Windows Management"
+            link: https://eldongabriel.github.io/report-windows-control-panel-administration/
+
+          - title: GUIDE – Windows System Administration Labs (11 Modules) – v1.0.0
+            description: Structured collection of Windows administration labs covering system configuration, operational tasks, and troubleshooting across multiple scenarios.
+            skills: "Windows Administration · System Configuration · Troubleshooting · Environment Management"
+            link: https://eldongabriel.github.io/guide-windows-system-administration-labs-v1.0.0/
+
+      - name: Troubleshooting & System Diagnostics
+        description: Structured investigation of system, hardware, and network failures using root cause analysis and diagnostic validation techniques.
+        items:
+
+          - title: REPORT – USB Storage Failure Analysis and Disk Validation – v1.0.0
+            description: Diagnosed USB storage instability by validating filesystem integrity and identifying whether failures originated from corruption or hardware defects.
+            skills: "Hardware Diagnostics · Disk Validation · CHKDSK · Root Cause Analysis"
+            link: https://eldongabriel.github.io/report-usb-storage-failure-analysis/
+
+          - title: REPORT – USB Filesystem Corruption Due to Improper Removal – v1.0.0
+            description: Identified filesystem corruption caused by unsafe USB removal during active operations, leading to data integrity failure.
+            skills: "Filesystem Troubleshooting · Disk Management · Data Integrity · Root Cause Analysis"
+            link: https://eldongabriel.github.io/report-usb-filesystem-corruption/
+
+          - title: REPORT – Restore USB Access on a Windows 10 VM – v1.1.0
+            description: Resolved USB passthrough failure in a virtual environment by configuring VirtualBox USB filters and validating device functionality.
+            skills: "Virtualization · USB Passthrough · Disk Management · CHKDSK · Root Cause Analysis"
+            link: https://eldongabriel.github.io/report-restore-usb-access-windows-10-vm/
+
+          - title: REPORT – Workstation Power Failure Investigation – v1.0.0
+            description: Diagnosed system instability caused by insufficient power supply capacity after hardware upgrades, restoring stable operation.
+            skills: "Hardware Diagnostics · Power Analysis · System Stability · Root Cause Analysis"
+            link: https://eldongabriel.github.io/report-workstation-power-failure-investigation/
+
+          - title: REPORT – Troubleshooting Remote Access and Network Isolation – v1.0.0
+            description: Resolved Remote Desktop failures by identifying Group Policy conflicts and implementing secure network design adjustments.
+            skills: "RDP Troubleshooting · Group Policy · Network Isolation · Access Control · Root Cause Analysis"
+            link: https://eldongabriel.github.io/troubleshooting-remote-access-network-isolation/
+
+          - title: REPORT – Domain Controller NAT & Routing – v1.0.3
+            description: Configured a Domain Controller as a NAT gateway and DNS server, resolving a duplicate IP conflict affecting routing stability.
+            skills: "Network Troubleshooting · NAT · Active Directory · Routing · ESXi"
+            link: https://eldongabriel.github.io/report-domain-controller-nat-routing/
+
+      - name: Linux Systems Administration
+        description: Administration and hardening of Linux-based systems, including user management, access control enforcement, system processes, and log analysis within server environments.
+        items:
+
+          - title: REPORT – SAR Performance Monitoring on Ubuntu – v1.0.1
+            description: Monitored CPU, memory, and I/O activity using SAR to identify performance patterns and support system diagnostics on Ubuntu systems.
+            skills: "System Monitoring · Performance Analysis · Linux Diagnostics"
+            link: https://eldongabriel.github.io/report-sar-performance-monitoring-ubuntu-v1.0.1/
+
+          - title: REPORT – Linux File Permissions Management – v1.0.0
+            description: Configured file and directory permissions using chmod, chown, and chgrp to enforce controlled access and prevent unauthorized modification.
+            skills: "Linux Permissions · Access Control"
+            link: https://eldongabriel.github.io/linux-file-permissions-management/
+
+      - name: Local File & Permission Security
+        description: File-level access control and ownership management to maintain integrity and enforce permission boundaries in Linux environments.
+        items:
+
+          - title: REPORT – File Ownership Recovery – v1.0.0
+            description: Restored correct file ownership to resolve access issues and re-establish proper permission control within a Linux environment.
+            skills: "File System Permissions · Linux Administration · Access Control · Troubleshooting"
+            link: https://eldongabriel.github.io/report-file-ownership-recovery/
+
+      - name: Linux Endpoint Security & Admin Controls
+        description: Secure administration of Linux services and management interfaces, focusing on controlled access, service hardening, and security isolation.
+        items:
+
+          - title: SOP – Secure Linux Management with Cockpit – v1.0.1
+            description: Configured and secured Cockpit to enable controlled, browser-based system management while reducing exposure of administrative services.
+            skills: "Linux Administration · Server Management · Access Control"
+            link: https://eldongabriel.github.io/sop-secure-linux-management-cockpit-v1.0.1/
+
+          - title: REPORT – Webmin Secure Administration (Dual-Homed) – v1.1.0
+            description: Deployed and secured Webmin within a dual-homed architecture to isolate administrative access and reduce exposure of management interfaces.
+            skills: "Linux Service Management · System Configuration · Network Segmentation"
+            link: https://eldongabriel.github.io/report-webmin-secure-admin-dual-homed-v1.1.0/
+
+          - title: REPORT – GVM Deployment and Hardening on ARM64 Kali Linux – v1.1.0
+            description: Deployed and hardened Greenbone Vulnerability Management (GVM) on ARM64 Kali Linux, securing services to support controlled vulnerability scanning operations.
+            skills: "Vulnerability Management · Linux Hardening · Service Configuration · Security Operations"
+            link: https://eldongabriel.github.io/gvm-deployment-hardening-arm64/
+
+          - title: REPORT – Linux System Administration Commands – v1.0.0
+            description: Applied core Linux command-line tools to monitor processes, troubleshoot system issues, and manage system resources in a controlled environment.
+            skills: "Linux CLI Administration · Process Monitoring · System Diagnostics · Troubleshooting"
+            link: null
+
+      - name: Virtualization & Infrastructure
+        description: Design and deployment of virtualized environments used to support secure system administration, testing, and infrastructure validation across isolated lab environments.
+        items:
+
+          - title: REPORT – VirtualBox Network Modes – v1.0.0
+            description: Configured and validated VirtualBox networking modes including NAT, Bridged, Host-Only, and Internal to support isolated and controlled lab environments.
+            skills: "Virtual Networking · Lab Infrastructure · Network Configuration"
+            link: null
+
+          - title: REPORT – System Administration Virtualization in Cybersecurity – v1.0.1
+            description: Designed and implemented virtualized environments to support isolated system administration tasks and cybersecurity testing workflows.
+            skills: "Virtualization · Lab Architecture · Security Testing Environments"
+            link: null
+
+          - title: REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0
+            description: Migrated VMware virtual machines to AWS EC2 and resolved kernel driver conflicts from AWS Application Migration Service, restoring system compatibility and functionality.
+            skills: "Cloud Migration · AWS EC2 · Troubleshooting · Infrastructure Runbooks"
+            link: https://eldongabriel.github.io/report-enterprise-hybrid-cloud-migration-v1.2.0/
+
+          - title: GUIDE – vSphere 8 Nested Lab on AMD Ryzen 5 6600H – v1.0.0
+            description: Built a nested virtualization lab using VMware vSphere 8, configuring ESXi hosts and virtual networking to simulate enterprise infrastructure.
+            skills: "Nested Virtualization · VMware vSphere · Lab Deployment · Infrastructure Configuration"
+            link: https://eldongabriel.github.io/guide-vsphere-8-nested-lab-amd-ryzen-5-6600h/
+
+          - title: GUIDE – UTM Kali Linux Shared Folder Configuration – v1.0.0
+            description: Configured shared folder integration between host and Kali Linux VM, enabling secure file transfer and controlled data access.
+            skills: "Virtualization · Linux VM Management · File Integration"
+            link: https://eldongabriel.github.io/guide-utm-kali-linux-shared-folder-configuration-v1.0.0/
+
+          - title: GUIDE – GCP Windows 10 VM Deployment – v1.0.0
+            description: Deployed and configured a Windows 10 virtual machine in GCP, including network setup, secure access configuration, and system initialization.
+            skills: "GCP · Cloud Infrastructure · VM Deployment · Remote Access Configuration"
+            link: https://eldongabriel.github.io/guide-gcp-windows-10-vm-deployment-v1.0.0/
+
+          - title: GUIDE – Cybersecurity Virtualization Labs (VMware, WSL, GCP, AWS) – v1.0.0
+            description: Designed and managed multi-platform virtualization labs across VMware, WSL, GCP, and AWS to support cybersecurity testing and system administration workflows.
+            skills: "Virtualization · Multi-Cloud Environments · Lab Architecture · Infrastructure Design"
+            link: https://eldongabriel.github.io/guide-cybersecurity-virtualizationlabs-v1.0.0/  
+
+      - name: Lab Demonstrations
+        description: Practical lab-based demonstrations across virtualization, cloud infrastructure, Linux, and Windows system administration environments.
+
+        subcategories:
+
+      - name: Virtualization & Infrastructure Labs
+        description: Deployment and configuration of virtualized environments, including hypervisors, VM management, and network validation.
+        items:
+
+          - title: LAB – VMware ESXi and vSphere VM Deployment and Network Connectivity Test – v1.0.0
+            description: Deployed and configured ESXi hosts and vSphere-managed virtual machines, validating network connectivity across virtualized systems.
+            skills: "Virtualization · vSphere · Network Connectivity · Infrastructure"
+            link: null
+
+          - title: LAB – Virtual Machine Snapshot Creation for System Rollback – v1.0.0
+            description: Created and managed VM snapshots to enable safe rollback during system changes and testing scenarios.
+            skills: "Virtualization · Snapshot Management · System Recovery"
+            link: null
+
+          - title: LAB – VMware Fusion VM Deployment and Inter-VM Network Connectivity – v1.0.0
+            description: Provisioned virtual machines in VMware Fusion and validated inter-VM communication across virtual networks.
+            skills: "Virtualization · Network Configuration · VM Deployment"
+            link: null
+
+          - title: LAB – Windows Subsystem for Linux Installation and Configuration – v1.0.0
+            description: Installed and configured Windows Subsystem for Linux (WSL) to enable integrated Linux operations within Windows.
+            skills: "WSL · Hybrid Systems · Linux Integration"
+            link: null
+
+          - title: LAB – Two-VM Virtualized Cybersecurity Lab Environment – v1.0.0
+            description: Designed and deployed an isolated two-machine lab environment to simulate attacker and target systems.
+            skills: "Virtualization · Cybersecurity Lab Design · Network Isolation"
+            link: null
+
+          - title: LAB – Setting Up a Secure Software Development Environment – v1.0.0
+            description: Configured a secure development environment with tools, runtimes, and controls for secure system development workflows.
+            skills: "Secure Development · Environment Setup · System Configuration"
+            link: null
+
+      - name: Cloud Infrastructure Labs
+        description: Cloud-based virtual machine deployment, configuration, and secure remote access across AWS and GCP environments.
+        items:
+
+          - title: LAB – AWS EC2 Virtual Machine Deployment and Secure SSH Access – v1.0.0
+            description: Provisioned EC2 instances, configured security groups, and validated secure SSH access for remote administration.
+            skills: "AWS · EC2 · SSH · Cloud Security"
+            link: null
+
+          - title: LAB – GCP Compute Engine Virtual Machine Deployment and SSH Access – v1.0.0
+            description: Deployed Compute Engine VMs in GCP, configured VPC networking, and validated SSH access.
+            skills: "GCP · Compute Engine · Networking · SSH"
+            link: null
+
+          - title: LAB – Windows 10 VM on Google Cloud Platform (GCP) – v1.0.0
+            description: Deployed a Windows 10 VM in GCP with remote desktop access and network configuration.
+            skills: "GCP · Windows VM · Remote Access · Cloud Infrastructure"
+            link: https://youtu.be/rNI50WIqZWc
+
+      - name: Linux Administration & Security Labs
+        description: Hands-on Linux system administration including file management, permissions, logging, monitoring, and service configuration.
+        items:
+
+          - title: LAB – Linux Command-Line Exploration and Documentation Lookup – v1.0.0
+            description: Used Linux documentation tools (man, cat) to analyze command syntax and usage.
+            skills: "Linux CLI · Documentation · System Administration"
+            link: https://www.youtube.com/embed/FR4KFGZfAoE
+
+          - title: LAB – Linux User and Group Management – v1.0.0
+            description: Managed user accounts, groups, privileges, and ownership controls.
+            skills: "User Management · Access Control · Linux Administration"
+            link: https://www.youtube.com/embed/uOdoAZIpx1M
+
+          - title: LAB – File Discovery and Analysis in Linux – v1.0.0
+            description: Performed file discovery and system analysis using command-line tools.
+            skills: "File Analysis · Linux CLI · System Investigation"
+            link: https://www.youtube.com/embed/HBcQVczahMM
+
+          - title: LAB – Linux File and Directory Management – v1.0.0
+            description: Managed files and directories through creation, modification, movement, and deletion.
+            skills: "File System Management · Linux CLI · Administration"
+            link: https://www.youtube.com/embed/lhkrFbimQKg
+
+          - title: LAB – Linux File Permission and Directory Access Control – v1.0.0
+            description: Configured file permissions and access control policies.
+            skills: "Permissions · Access Control · Security"
+            link: https://www.youtube.com/embed/5qKJk-fID3g
+
+          - title: LAB – Linux Log and Data Filtering with grep – v1.0.0
+            description: Filtered and analyzed logs using grep for system investigation.
+            skills: "Log Analysis · grep · System Monitoring"
+            link: https://www.youtube.com/embed/lUVLujgD4b4
+
+          - title: LAB – Linux Firewall Configuration with Shorewall – v1.0.0
+            description: Configured firewall rules to control network traffic and enforce security policies.
+            skills: "Firewall · Network Security · Linux Hardening"
+            link: null
+
+          - title: LAB – Linux Performance Monitoring with SAR (sysstat) – v1.0.0
+            description: Collected system performance metrics for diagnostics and capacity monitoring.
+            skills: "Performance Monitoring · SAR · System Diagnostics"
+            link: null
+
+          - title: LAB – Linux System Administration with Cockpit – v1.0.0
+            description: Used Cockpit for web-based system administration and monitoring.
+            skills: "System Administration · Cockpit · Monitoring"
+            link: null
+
+          - title: LAB – Secure Linux Administration with Webmin – v1.0.0
+            description: Managed users, services, and configurations through Webmin.
+            skills: "Linux Administration · Webmin · System Management"
+            link: null
+
+      - name: Windows System Administration Labs
+        description: Windows enterprise administration including Active Directory, firewall configuration, process analysis, and system hardening.
+        items:
+
+          - title: LAB – Setting Up a Computer for Network Integration – v1.0.0
+            description: Configured a Windows workstation for network integration and baseline setup.
+            skills: "Windows Setup · Networking · System Configuration"
+            link: https://www.youtube.com/embed/m4MngVs_bmM
+
+          - title: LAB – Joining a Windows Workstation to a Domain – v1.0.0
+            description: Joined a Windows system to Active Directory for centralized management.
+            skills: "Active Directory · Domain Services · Windows Administration"
+            link: https://www.youtube.com/embed/JE3jutqyI4Q
+
+          - title: LAB – Analyze Windows Processes with Procmon – v1.0.0
+            description: Used Process Monitor for real-time system activity analysis.
+            skills: "Process Monitoring · Sysinternals · Diagnostics"
+            link: null
+
+          - title: LAB – Secure Credentials with a Password Manager – v1.0.0
+            description: Implemented secure credential storage practices using a password manager.
+            skills: "Credential Security · Identity Protection"
+            link: null
+
+          - title: LAB – Use Registry to Restore File Ownership – v1.0.0
+            description: Restored file ownership using Windows Registry modifications.
+            skills: "Registry · Permissions · Troubleshooting"
+            link: null
+
+          - title: LAB – Block SMB Access with Windows Firewall – v1.0.0
+            description: Configured firewall rules to block SMB traffic and reduce lateral movement risk.
+            skills: "Firewall · Network Security · SMB · Hardening"
+            link: null
+
+
+      - name: Windows Administration & Hardening (GPO) Labs
+        description: Group Policy-based hardening and endpoint security configuration in Windows environments.
+        items:
+
+          - title: LAB – Enforce Session Locks via GPO – v1.0.0
+            description: Configured idle session lock policies to reduce unauthorized access risk.
+            skills: "GPO · Session Security · Endpoint Hardening"
+            link: null
+
+          - title: LAB – Secure WinRM Configuration via GPO – v1.0.0
+            description: Hardened WinRM by enforcing encrypted and restricted remote access.
+            skills: "WinRM · Remote Management · Security Hardening"
+            link: null
+
+          - title: LAB – Windows Defender Hardening via GPO – v1.0.0
+            description: Configured advanced Defender security features including real-time protection.
+            skills: "Endpoint Security · Windows Defender · GPO"
+            link: null
+
+          - title: LAB – Deployed Exploit Guard via GPO on Windows 10 – v1.0.0
+            description: Enabled Attack Surface Reduction rules and exploit protection features.
+            skills: "Exploit Guard · ASR · Endpoint Protection"
+            link: null
+
+
+      - name: Managed Operations & Automation Labs
+        description: Automation and monitoring of Windows systems using native tools for security, diagnostics, and maintenance.
+        items:
+
+          - title: LAB – BitLocker Data Security
+            description: Implemented BitLocker to encrypt data-at-rest and protect against physical data theft.
+            skills: "Encryption · Data Security · BitLocker"
+            link: https://www.youtube.com/embed/wlgnNwbKe3w
+
+          - title: LAB – Task Scheduler Automation
+            description: Automated system maintenance tasks to reduce manual workload and improve efficiency.
+            skills: "Automation · Task Scheduler · System Maintenance"
+            link: https://www.youtube.com/embed/z8nXF2OleGo
+
+          - title: LAB – Event Viewer Diagnostics
+            description: Analyzed system logs for troubleshooting and incident investigation.
+            skills: "Logging · Event Viewer · Diagnostics"
+            link: https://www.youtube.com/embed/rw7QL5BgQgI
+
+          - title: LAB – Windows Firewall Hardening
+            description: Configured firewall rules to restrict unauthorized traffic and reduce attack surface.
+            skills: "Firewall · Network Security · Hardening"
+            link: https://www.youtube.com/embed/WZtkpKxr9xE
