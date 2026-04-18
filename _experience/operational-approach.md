@@ -20,9 +20,16 @@ Each lab and investigation follows a consistent methodology designed to produce 
 </p>
 
 <h3>Core Pillars</h3>
-<p>
-Structured Troubleshooting · Control Enforcement · Root Cause Analysis · Validation Testing
-</p>
+
+<div style="
+  background: rgba(255,255,255,0.05);
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid rgba(255,255,255,0.1);
+  margin: 10px 0 20px 0;
+">
+  Structured Troubleshooting · Control Enforcement · Root Cause Analysis · Validation Testing
+</div>
 
 <h3>Technical Support Fundamentals – Systems Analysis</h3>
 <p>
