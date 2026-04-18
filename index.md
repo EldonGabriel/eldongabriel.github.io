@@ -29,12 +29,10 @@ image:
 <!-- SECURITY ENGINEERING SECTION -->
 <section style="margin: 60px 0;">
 
-<section style="text-align:center; margin: 40px 0;">
-<h2 style="display:inline-block; position:relative; font-size:1.5em; margin:0; padding-bottom:6px;">
-Security Engineering & Control Enforcement
-<span style="position:absolute; left:0; bottom:0; width:100%; height:2px; background:#fff; border-radius:2px;"></span>
-</h2>
-</section>
+  <h2 style="text-align:center; position:relative; font-size:1.5em; margin-bottom:20px; padding-bottom:6px;">
+    Security Engineering & Control Enforcement
+    <span style="position:absolute; left:0; bottom:0; width:60px; height:2px; background:#fff; border-radius:2px;"></span>
+  </h2>
 
 <div style="display:grid; grid-template-columns: repeat(3, 1fr); gap:15px;">
 
