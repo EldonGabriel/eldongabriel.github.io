@@ -1,10 +1,12 @@
-<section class="lab-grid">
-  <h2>🧪 Lab Demonstrations</h2>
+<section class="section">
 
-  <div class="grid">
+  <h2 class="section-title">🧪 Lab Demonstrations</h2>
+
+  <div class="card-grid">
+
     {% for lab in include.labs %}
 
-    <div class="card">
+    <div class="lab-card">
       <h3>{{ lab.title }}</h3>
       <p>{{ lab.description }}</p>
 
@@ -18,5 +20,6 @@
     </div>
 
     {% endfor %}
+
   </div>
 </section>
