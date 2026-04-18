@@ -17,7 +17,7 @@ image:
     {{ page.tagline }}
   </p>
 
- <h2 style="text-align:center; font-size:2.8em; margin:20px 0;">
+ <h2 style="text-align:center; font-size:1.8em; margin:20px 0;">
   Infrastructure Security & System Administration Portfolio
 </h2>
 
