@@ -18,7 +18,7 @@ image:
 {{ page.tagline }}
 </p>
 
-<h2 style="text-align:center;">
+<h2 style="text-align:left;">
   Portfolio Overview
 </h2>
 
@@ -27,7 +27,7 @@ image:
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 <!-- SECURITY ENGINEERING SECTION -->
-<h2 style="text-align:center;">
+<h2 style="text-align:left;">
   Security Engineering & Control Enforcement
 </h2>
 
@@ -80,7 +80,7 @@ Explore My Certifications
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
-<h2 style="text-align:center;">
+<h2 style="text-align:left;">
   Foundational Mentorship
 </h2>
 
