@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<main class="portfolio-section">
+
+  <!-- HERO / HEADER -->
+  <header class="section-header">
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.caption }}</p>
+  </header>
+
+  <!-- OVERVIEW -->
+  {% include portfolio/lab_overview.html content=page.overview %}
+
+  <!-- DISTRIBUTION -->
+  {% include portfolio/lab_distribution.html table=page.distribution %}
+
+  <!-- LABS -->
+  {% include portfolio/lab_grid.html labs=page.labs %}
+
+  <!-- DOCUMENTATION -->
+  {% include portfolio/portfolio_documentation.html content=page.documentation %}
+
+</main>
