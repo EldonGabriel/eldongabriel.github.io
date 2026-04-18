@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Eldon Gabriel
-subtitle: MCSI Novice System Administrator
-tagline: Secure Infrastructure | System Hardening | GRC & Controls
+subtitle: Infrastructure Security & System Administration
+tagline: Building, Securing, and Troubleshooting Real-World Systems
 permalink: /
 image:
   path: /assets/images/mcsi-novice-sysadmin.png
