@@ -126,4 +126,7 @@ Explore My Certifications
 <div style="margin:40px 0;">
   <img src="/assets/images/headers/recent-reports.png" alt="Recent Reports Banner" style="width:100%; border-radius:8px;">
 </div>
-<p align="center">A structured collection of security reports, standard operating procedures, and technical investigations demonstrating applied cybersecurity skills acr
+
+<p style="text-align:center; max-width:800px; margin:0 auto;">
+  A structured collection of security reports, standard operating procedures, and technical investigations demonstrating applied cybersecurity skills across real-world scenarios.
+</p>
