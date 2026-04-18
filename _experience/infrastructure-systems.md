@@ -28,10 +28,6 @@ All configurations are validated to confirm expected system behavior and securit
 
 ### Lab Distribution Summary
 
-<p style="line-height:1.6; font-size:1.05em;">
-Labs are grouped by functional domain to reflect real-world system administration and security operations, including infrastructure management, troubleshooting, and security control implementation.
-</p>
-
 | Category | Labs |
 |--------|------|
 | Technical Foundations | 7 |  
@@ -126,13 +122,9 @@ View Report</a>
 
 </div>
 
-## Windows Systems Administration
+### Windows Systems Administration
 
-Hands-on system administration work in Windows environments, focused on system management, security enforcement, and operational troubleshooting.
-
----
-
-### 🛡️ Endpoint Security & Configuration Enforcement
+#### 🛡️ Endpoint Security & Configuration Enforcement
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -187,7 +179,7 @@ Hands-on system administration work in Windows environments, focused on system m
 
 </div>
 
-### 🪟 Windows GPO / System Hardening
+#### 🪟 Windows GPO / System Hardening
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -744,7 +736,7 @@ Utilizing advanced Windows management tools to automate recurring maintenance ta
 
 ---
 
-# Portfolio Documentation
+## Portfolio Documentation
 
 This section represents applied infrastructure engineering across operating systems, virtualization platforms, and cloud environments. Each lab reflects hands-on configuration, security enforcement, and system validation aligned with operational and security requirements.
 
