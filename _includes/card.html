@@ -1,0 +1,17 @@
+<div class="lab-card">
+  <h5>{{ include.item.title }}</h5>
+
+  <p>{{ include.item.description }}</p>
+
+  {% if include.item.skills %}
+  <p><strong>Skills:</strong> {{ include.item.skills }}</p>
+  {% endif %}
+
+  {% if include.item.link %}
+  <p style="margin-top:15px;">
+    <a href="{{ include.item.link }}" class="card-button">
+      View Report
+    </a>
+  </p>
+  {% endif %}
+</div>
