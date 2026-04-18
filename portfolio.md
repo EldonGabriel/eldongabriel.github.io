@@ -12,7 +12,11 @@ image:
 <section style="margin: 60px 0;">
 
   <p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
-    My experience focuses on the practical application of security controls across real systems, including infrastructure hardening, operational troubleshooting, and validation of implemented security measures. Work spans system administration, network security, incident investigation, and forensic analysis, with a consistent focus on root cause analysis and measurable risk reduction.
+    My experience focuses on the practical application of security controls across real systems, including infrastructure hardening, operational troubleshooting, and validation of implemented security measures.
+  </p>
+
+  <p style="font-size:1.2em; line-height:1.6;">
+    Work spans system administration, network security, incident investigation, and forensic analysis, with a consistent focus on root cause analysis and measurable risk reduction.
   </p>
 
 </section>
