@@ -11,15 +11,16 @@ image:
   caption: "Logic-Driven Troubleshooting & Security Baselines"
 ---
 
-<p>
-This section outlines the operational approach used to implement, validate, and troubleshoot security controls across enterprise systems. It applies a structured troubleshooting framework based on <strong>Layer → Device → Root Cause → Resolution</strong> to ensure issues are accurately identified and resolved. 
+<p style="font-size:1.1em; line-height:1.6; margin-bottom:15px;">
+This section documents the operational methodology used to implement, validate, and troubleshoot security controls across enterprise systems. A structured troubleshooting framework is applied using <strong>Layer → Device → Root Cause → Resolution</strong> to ensure consistent issue identification and remediation.
+</p>
 
+<p style="font-size:1.1em; line-height:1.6;">
+Security baselines are enforced in alignment with <strong>NIST</strong> and <strong>CIS standards</strong>. All changes are validated through functional and negative testing to confirm control effectiveness and system stability.
+</p> 
 
-Security baselines are enforced in alignment with <strong>NIST</strong> and <strong>CIS standards</strong>, with all fixes validated through both functional and negative testing. The focus remains on long-term control effectiveness, ensuring solutions are reliable, repeatable, and resilient rather than temporary fixes.
-</p>  
-
-<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Pillars:</strong> Structured Troubleshooting · Security Control Enforcement · RCA · Validation Testing
+<p style="text-align:center; font-size:1.05em; color:#fff; background:rgba(255,255,255,0.05); padding:15px; border-radius:8px; margin-top:20px;">
+  <strong>Core Pillars:</strong> Structured Troubleshooting · Control Enforcement · Root Cause Analysis · Validation Testing
 </p>
 
 ---
