@@ -11,7 +11,6 @@ categories:
   - name: Hardware Architecture
     description: Core computing components and how data is processed at the hardware level.
     items:
-
       - title: REPORT – Introduction to Computer Hardware and Processing – v1.0.0
         description: Breakdown of how CPU, memory, and storage interact to process data, including instruction execution and system performance impact.
         skills: "CPU · Data Processing · System Architecture"
@@ -40,7 +39,6 @@ categories:
   - name: Firmware & Boot Systems
     description: System initialization processes from firmware execution to operating system loading.
     items:
-
       - title: REPORT – BIOS, UEFI, and System Boot Architecture – v1.0.0
         description: Covers system startup process including firmware execution, POST, boot device selection, and OS loading.
         skills: "Firmware · Boot Process · System Diagnostics"
@@ -49,7 +47,6 @@ categories:
   - name: Operating Systems & System Operations
     description: How operating systems manage hardware resources, processes, and system-level operations.
     items:
-
       - title: REPORT – Operating System Fundamentals and System Operations – v1.0.0
         description: Explores OS management of processes, memory, storage, kernel functions, and system monitoring.
         skills: "Operating Systems · Process Management · Virtual Memory · File Systems · Logging"
@@ -57,12 +54,10 @@ categories:
 
   - name: Windows Systems Administration
     description: Hands-on system administration work in Windows environments, focused on system management, security enforcement, and operational troubleshooting.
-
       subcategories:
         - name: Endpoint Security & Configuration Enforcement
           description: Hardening Windows endpoints through policy enforcement, registry controls, and application restriction.
           items:
-
             - title: SOP – Hardening Windows Defender Using Local GPO – v1.0.1
               description: Configured Windows Defender using Local Group Policy to enforce real-time protection and standardized endpoint security settings.
               skills: "Endpoint Protection · Windows Defender · GPO Enforcement"
@@ -98,39 +93,38 @@ categories:
               skills: "Application Control · Threat Surface Reduction · GPO Enforcement"
               link: https://eldongabriel.github.io/report-gpo-hardening-for-windows-application-control-v1.0.0/
 
-      - name: Windows GPO / System Hardening
-        description: Security configuration of Windows systems using Group Policy to enforce least privilege and baseline security controls.
-        items:
+        - name: Windows GPO / System Hardening
+          description: Security configuration of Windows systems using Group Policy to enforce least privilege and baseline security controls.
+          items:
+            - title: REPORT – Hardening Windows User Rights via Local Group Policy – v1.0.0
+              description: Configured User Rights Assignment policies to enforce least privilege and restrict high-risk system permissions.
+              skills: "Least Privilege · Access Control · Identity Security · GPO Enforcement"
+              link: https://eldongabriel.github.io/report-hardening-windows-user-rights-via-local-group-policy-v1.0.0/
 
-          - title: REPORT – Hardening Windows User Rights via Local Group Policy – v1.0.0
-            description: Configured User Rights Assignment policies to enforce least privilege and restrict high-risk system permissions.
-            skills: "Least Privilege · Access Control · Identity Security · GPO Enforcement"
-            link: https://eldongabriel.github.io/report-hardening-windows-user-rights-via-local-group-policy-v1.0.0/
+            - title: REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0
+              description: Configured session lock policies via Group Policy to automatically secure inactive user sessions.
+              skills: "Session Security · Endpoint Protection · GPO Enforcement"
+              link: https://eldongabriel.github.io/report-applying-a-local-gpo-for-session-lock-enforcement-v1.0.0/
 
-          - title: REPORT – Applying a Local GPO for Session Lock Enforcement – v1.0.0
-            description: Configured session lock policies via Group Policy to automatically secure inactive user sessions.
-            skills: "Session Security · Endpoint Protection · GPO Enforcement"
-            link: https://eldongabriel.github.io/report-applying-a-local-gpo-for-session-lock-enforcement-v1.0.0/
+            - title: REPORT – Deploy Local GPO for Windows Security Policies – v1.0.0
+              description: Configured Local Group Policy to enforce baseline Windows security configurations.
+              skills: "GPO Engineering · Baseline Hardening · Endpoint Security"
+              link: https://eldongabriel.github.io/report-deploy-local-gpo-windows-security-policies-v1.0.0/
 
-          - title: REPORT – Deploy Local GPO for Windows Security Policies – v1.0.0
-            description: Configured Local Group Policy to enforce baseline Windows security configurations.
-            skills: "GPO Engineering · Baseline Hardening · Endpoint Security"
-            link: https://eldongabriel.github.io/report-deploy-local-gpo-windows-security-policies-v1.0.0/
+            - title: SOP – Password & Account Lockout GPO Hardening – v1.0.1
+              description: Configured password policies and account lockout thresholds to strengthen authentication controls and prevent unauthorized access.
+              skills: "Password Policy · Account Lockout · Authentication Security · GPO Enforcement"
+              link: https://eldongabriel.github.io/sop-password-account-lockout-gpo-hardening-v1.0.1/
 
-          - title: SOP – Password & Account Lockout GPO Hardening – v1.0.1
-            description: Configured password policies and account lockout thresholds to strengthen authentication controls and prevent unauthorized access.
-            skills: "Password Policy · Account Lockout · Authentication Security · GPO Enforcement"
-            link: https://eldongabriel.github.io/sop-password-account-lockout-gpo-hardening-v1.0.1/
+            - title: REPORT – Hardening UAC via Local Group Policy – v1.0.0
+              description: Configured User Account Control settings to reduce unauthorized privilege escalation.
+              skills: "UAC Hardening · Privilege Security · Access Control"
+              link: https://eldongabriel.github.io/report-hardening-uac-local-gpo/
 
-          - title: REPORT – Hardening UAC via Local Group Policy – v1.0.0
-            description: Configured User Account Control settings to reduce unauthorized privilege escalation.
-            skills: "UAC Hardening · Privilege Security · Access Control"
-            link: https://eldongabriel.github.io/report-hardening-uac-local-gpo/
-
-          - title: REPORT – Hardening Credential Entry Using Group Policy – v1.0.0
-            description: Configured Secure Desktop and logon restrictions to reduce credential exposure and prevent interception.
-            skills: "Credential Security · Logon Hardening · Access Control · GPO Enforcement"
-            link: https://eldongabriel.github.io/report-hardening-credential-entry-using-group-policy-v1.0.0/
+            - title: REPORT – Hardening Credential Entry Using Group Policy – v1.0.0
+              description: Configured Secure Desktop and logon restrictions to reduce credential exposure and prevent interception.
+              skills: "Credential Security · Logon Hardening · Access Control · GPO Enforcement"
+              link: https://eldongabriel.github.io/report-hardening-credential-entry-using-group-policy-v1.0.0/
 
       - name: Endpoint Monitoring
         description: System monitoring and forensic-style analysis of Windows processes and behavior.
@@ -282,42 +276,40 @@ categories:
 
       - name: Lab Demonstrations
         description: Practical lab-based demonstrations across virtualization, cloud infrastructure, Linux, and Windows system administration environments.
-
         subcategories:
+          - name: Virtualization & Infrastructure Labs
+            description: Deployment and configuration of virtualized environments, including hypervisors, VM management, and network validation.
+            items:
 
-      - name: Virtualization & Infrastructure Labs
-        description: Deployment and configuration of virtualized environments, including hypervisors, VM management, and network validation.
-        items:
+              - title: LAB – VMware ESXi and vSphere VM Deployment and Network Connectivity Test – v1.0.0
+                description: Deployed and configured ESXi hosts and vSphere-managed virtual machines, validating network connectivity across virtualized systems.
+                skills: "Virtualization · vSphere · Network Connectivity · Infrastructure"
+                link: null
 
-          - title: LAB – VMware ESXi and vSphere VM Deployment and Network Connectivity Test – v1.0.0
-            description: Deployed and configured ESXi hosts and vSphere-managed virtual machines, validating network connectivity across virtualized systems.
-            skills: "Virtualization · vSphere · Network Connectivity · Infrastructure"
-            link: null
+              - title: LAB – Virtual Machine Snapshot Creation for System Rollback – v1.0.0
+                description: Created and managed VM snapshots to enable safe rollback during system changes and testing scenarios.
+                skills: "Virtualization · Snapshot Management · System Recovery"
+                link: null
 
-          - title: LAB – Virtual Machine Snapshot Creation for System Rollback – v1.0.0
-            description: Created and managed VM snapshots to enable safe rollback during system changes and testing scenarios.
-            skills: "Virtualization · Snapshot Management · System Recovery"
-            link: null
+              - title: LAB – VMware Fusion VM Deployment and Inter-VM Network Connectivity – v1.0.0
+                description: Provisioned virtual machines in VMware Fusion and validated inter-VM communication across virtual networks.
+                skills: "Virtualization · Network Configuration · VM Deployment"
+                link: null
 
-          - title: LAB – VMware Fusion VM Deployment and Inter-VM Network Connectivity – v1.0.0
-            description: Provisioned virtual machines in VMware Fusion and validated inter-VM communication across virtual networks.
-            skills: "Virtualization · Network Configuration · VM Deployment"
-            link: null
+              - title: LAB – Windows Subsystem for Linux Installation and Configuration – v1.0.0
+                description: Installed and configured Windows Subsystem for Linux (WSL) to enable integrated Linux operations within Windows.
+                skills: "WSL · Hybrid Systems · Linux Integration"
+                link: null
 
-          - title: LAB – Windows Subsystem for Linux Installation and Configuration – v1.0.0
-            description: Installed and configured Windows Subsystem for Linux (WSL) to enable integrated Linux operations within Windows.
-            skills: "WSL · Hybrid Systems · Linux Integration"
-            link: null
+              - title: LAB – Two-VM Virtualized Cybersecurity Lab Environment – v1.0.0
+                description: Designed and deployed an isolated two-machine lab environment to simulate attacker and target systems.
+                skills: "Virtualization · Cybersecurity Lab Design · Network Isolation"
+                link: null
 
-          - title: LAB – Two-VM Virtualized Cybersecurity Lab Environment – v1.0.0
-            description: Designed and deployed an isolated two-machine lab environment to simulate attacker and target systems.
-            skills: "Virtualization · Cybersecurity Lab Design · Network Isolation"
-            link: null
-
-          - title: LAB – Setting Up a Secure Software Development Environment – v1.0.0
-            description: Configured a secure development environment with tools, runtimes, and controls for secure system development workflows.
-            skills: "Secure Development · Environment Setup · System Configuration"
-            link: null
+              - title: LAB – Setting Up a Secure Software Development Environment – v1.0.0
+                description: Configured a secure development environment with tools, runtimes, and controls for secure system development workflows.
+                skills: "Secure Development · Environment Setup · System Configuration"
+                link: null
 
       - name: Cloud Infrastructure Labs
         description: Cloud-based virtual machine deployment, configuration, and secure remote access across AWS and GCP environments.
