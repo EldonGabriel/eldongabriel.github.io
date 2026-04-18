@@ -34,10 +34,10 @@ I implement practical security controls to harden systems, troubleshoot infrastr
 <section style="margin: 60px auto; max-width:900px;">
 
   <section style="text-align:center; margin: 60px 0;">
-    <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    <h3 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
       About This Portfolio
       <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
-    </h2>
+    </h3>
   </section>
 
   <p style="font-size:1.1em; line-height:1.6;">
@@ -64,10 +64,10 @@ I implement practical security controls to harden systems, troubleshoot infrastr
 <section style="margin: 60px 0;">
 
   <section style="text-align:center; margin: 60px 0;">
-    <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+    <h3 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
       Security Engineering & Control Enforcement
       <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
-    </h2>
+    </h3>
   </section>
 
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
@@ -118,10 +118,10 @@ I implement practical security controls to harden systems, troubleshoot infrastr
 ---
 
 <section style="text-align:center; margin: 60px 0;">
-  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+  <h3 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
     Foundational Mentorship
     <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
-  </h2>
+  </h3>
 </section>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
