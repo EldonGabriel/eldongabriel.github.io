@@ -31,7 +31,7 @@ I implement practical security controls to harden systems, troubleshoot infrastr
 </p>
 
 <!-- ABOUT SECTION -->
-<section style="margin: 60px auto; max-width:900px;">
+<section style="margin: 40px auto; max-width:900px;">
 
 <section style="text-align:center; margin: 40px 0;">
   <h2 style="display:inline-block; position:relative; font-size:1.8em; margin:0; padding-bottom:6px;">
