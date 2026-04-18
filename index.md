@@ -51,6 +51,8 @@ I implement practical security controls to harden systems, troubleshoot infrastr
 
 </section>
 
+---
+
 <section style="margin: 60px 0;">
   <h2 style="text-align:center; font-size:2.5em; margin-bottom:40px;">Security Engineering & Control Enforcement</h2>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
