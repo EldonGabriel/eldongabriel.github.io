@@ -20,40 +20,9 @@ image:
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
-<h2 style="display:inline-block; position:relative; font-size:1.5em; margin:0; padding-bottom:6px;">
-Infrastructure Security & System Administration Portfolio
-<span style="position:absolute; left:0; bottom:0; width:100%; height:2px; background:#fff; border-radius:2px;"></span>
-</h2>
+<h2>Portfolio Overview</h2>
 
-<div class="divider"></div>
-
-</section>
-
-<section style="margin:20px auto; max-width:900px;">
-
-<p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-I implement practical security controls that harden enterprise systems, investigate operational issues, and reduce organizational risk. As an <strong><em>ISC² Certified in Cybersecurity (CC)</em></strong> professional with <strong><em>200+ hands-on labs and technical reports</em></strong>, I secure real-world IT environments through system administration and defensive security operations.
-</p>
-
-<!-- ABOUT -->
-<section style="text-align:center; margin:40px 0;">
-<h2 style="display:inline-block; position:relative; font-size:1.5em; margin:0; padding-bottom:6px;">
-Portfolio Overview
-<span style="position:absolute; left:0; bottom:0; width:100%; height:2px; background:#fff; border-radius:2px;"></span>
-</h2>
-</section>
-
-<p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-My portfolio follows a <strong><em>Proof of Work methodology</em></strong>, where each security concept is validated through hands-on implementation and documented technical analysis. Projects include system hardening, network security configuration, incident troubleshooting, and infrastructure protection aligned with industry security frameworks.
-</p>
-
-<p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-The goal is simple: convert security theory into <strong><em>measurable, defensible controls</em></strong> that operate effectively in real-world environments.
-</p>
-
-<p style="font-size:1.2em; line-height:1.6;">
-This portfolio is continuously updated with new labs, projects, and troubleshooting scenarios. It serves as a working reference of applied security practices across systems, networks, and security operations.
-</p>
+<p>This portfolio follows a proof of work approach, where each security concept is tested through hands-on implementation and technical analysis. Projects include system hardening, network security configuration, incident troubleshooting, and infrastructure protection aligned with industry frameworks. The goal is to convert security theory into practical controls that work in real-world environments.</p>
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
