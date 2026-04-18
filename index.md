@@ -40,25 +40,11 @@ I implement practical security controls to harden systems, troubleshoot infrastr
     </h3>
   </section>
 
-  <p style="font-size:1.1em; line-height:1.6;">
-    This portfolio follows a <strong>proof of work</strong> approach, where each security concept is validated through hands-on implementation and technical analysis.
-  </p>
-
-  <p style="font-size:1.1em; line-height:1.6;">
-    Projects include system hardening, network security configuration, incident troubleshooting, and infrastructure protection aligned with industry frameworks.
-  </p>
-
-  <p style="font-size:1.1em; line-height:1.6;">
-    The goal is to convert security theory into <strong>measurable and effective controls</strong> in real-world environments.
-  </p>
-
-  <p style="font-size:1.1em; line-height:1.6;">
-    This portfolio is continuously updated and serves as a working reference of applied security practices across systems, networks, and security operations.
-  </p>
-
+ <p style="font-size:1.1em; line-height:1.6;">
+This portfolio follows a <strong>proof of work</strong> approach, where each security concept is validated through hands-on implementation and technical analysis. Projects include system hardening, network security configuration, incident troubleshooting, and infrastructure protection aligned with industry frameworks. The goal is to convert security theory into <strong>measurable and effective controls</strong> in real-world environments. This portfolio is continuously updated and serves as a working reference of applied security practices across systems, networks, and security operations.
+</p>
 </section>
 
- 
 
 <!-- SECURITY ENGINEERING SECTION -->
 <section style="margin: 60px 0;">
