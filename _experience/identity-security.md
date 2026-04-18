@@ -12,13 +12,19 @@ image:
   caption: "Identity & Access Management Labs"
 ---
 
-### Identity Security Lab Overview
+## Identity Security Laboratory Overview
 
-Identity security focuses on protecting user accounts, enforcing strong authentication, and controlling access to systems and sensitive resources.
+<p style="line-height:1.6; font-size:1.05em;">
+This section documents hands-on identity security labs focused on access control, authentication hardening, and privilege management in Windows environments.
+</p>
 
-This section demonstrates hands-on implementation of identity and access management (IAM) controls, including least-privilege enforcement, credential protection, and secure administrative configurations in Windows environments.
+<p style="line-height:1.6; font-size:1.05em;">
+Work includes implementing identity and access management (IAM) controls such as least-privilege enforcement, credential protection, and secure administrative configuration.
+</p>
 
-<p><em>All work focuses on enforcing access control, protecting credentials, and reducing the risk of unauthorized access and privilege misuse.</em></p>
+<p style="line-height:1.6; font-size:1.05em;">
+<em>All labs focus on enforcing access control policies and reducing the risk of unauthorized access and privilege escalation.</em>
+</p>
 
 ### Lab Distribution Summary
 
