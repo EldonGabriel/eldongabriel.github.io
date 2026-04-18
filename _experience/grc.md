@@ -12,13 +12,19 @@ image:
   caption: "Security Governance, Risk Assessment, and Policy Research"
 ---
 
-### GRC Lab Overview
+## GRC Lab Overview
 
-Security governance focuses on how organizations identify, assess, and manage risk using structured frameworks, policies, and decision-making processes.
+<p style="line-height:1.6; font-size:1.05em;">
+This section documents applied governance, risk, and compliance labs focused on risk assessment, security policy implementation, and control validation.
+</p>
 
-This section demonstrates applied risk assessment, governance frameworks, and policy development used to evaluate security posture and support real-world security decisions.
+<p style="line-height:1.6; font-size:1.05em;">
+Work involves evaluating security posture using structured frameworks and supporting decision-making through documented analysis and validation of controls.
+</p>
 
-<p><em>All work is aligned with NIST-based methodologies and structured using a Layer → Device → Root Cause → Resolution validation model.</em></p>
+<p style="line-height:1.6; font-size:1.05em;">
+<em>All labs follow NIST-aligned methodologies and use a Layer → Device → Root Cause → Resolution model for structured validation.</em>
+</p>
 
 ### Lab Distribution Summary
 
