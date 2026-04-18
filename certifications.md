@@ -10,13 +10,13 @@ image:
 ---
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-My professional development is built on hands-on technical practice and structured cybersecurity training. These certifications and learning milestones reflect practical experience securing, configuring, and managing enterprise systems.
+My certifications reflect structured cybersecurity training combined with hands-on technical practice in system administration and security operations.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-Each credential represents applied knowledge developed through technical labs, system administration exercises, and real-world security scenarios documented throughout this portfolio.
+Each credential is supported by practical lab work, including system configuration, troubleshooting, and applied security scenarios documented throughout this portfolio.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6;">
-My training aligns with recognized workforce and competency frameworks including the <strong>NIST NICE Framework</strong>, relevant <strong>U.S. Department of Defense occupational standards</strong>, and the <strong>ASD Cyber Skills Framework</strong>, supporting structured skill development and professional best practices.
+Training aligns with industry frameworks including the <strong>NIST NICE Framework</strong>, relevant <strong>U.S. Department of Defense occupational standards</strong>, and the <strong>ASD Cyber Skills Framework</strong>, supporting structured skill development and workforce alignment.
 </p>
