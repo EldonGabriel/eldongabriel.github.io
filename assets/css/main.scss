@@ -103,3 +103,23 @@ sitemap: false
   opacity: 0.7;
   margin-bottom: 12px;
 }
+
+/* SECTION HEADERS (OUTSIDE GRID) */
+.section-title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 40px 0 10px;
+}
+
+.section-intro {
+  margin-bottom: 20px;
+  opacity: 0.8;
+  max-width: 800px;
+}
+
+/* GRID ONLY HANDLES CARDS */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 20px;
+}
