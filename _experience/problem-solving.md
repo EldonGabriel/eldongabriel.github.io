@@ -19,7 +19,7 @@ This section focuses on structured technical problem solving across systems, net
 Each investigation is performed using a consistent diagnostic approach to identify issues, isolate causes, and validate resolution outcomes.
 </p>
 
-<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px; max-width:1000px; margin:20px auto; line-height:1.6;">
+<p style="text-align:center; font-size: 0.95em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px; max-width:1000px; margin:20px auto;">
   <strong>Core Pillars:</strong> Technical Troubleshooting · System Diagnostics & Technical Resolution · Portfolio Documentation
 </p>
 
