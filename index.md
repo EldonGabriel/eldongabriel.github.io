@@ -7,6 +7,7 @@ permalink: /
 image:
   path: /assets/images/mcsi-novice-sysadmin.png
 ---
+
 <section class="home-hero">
 
 <p class="subtitle">
@@ -109,7 +110,7 @@ Explore My Certifications
 </a>
 </p>
 
----
+
 
 <section style="text-align:center; margin: 60px 0;">
   <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
@@ -146,7 +147,7 @@ Explore My Certifications
   <a href="/portfolio/" class="btn" style="padding: 10px 20px; border: 1px solid #fff; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; margin-left: 10px;">Explore My Portfolio</a>
 </p>
 
----
+
 <div style="margin:40px 0;">
   <img src="/assets/images/headers/recent-reports.png" alt="Recent Reports Banner" style="width:100%; border-radius:8px;">
 </div>
