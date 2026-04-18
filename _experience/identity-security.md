@@ -34,6 +34,7 @@ Work includes implementing identity and access management (IAM) controls such as
 | **Total Identity Security Labs Documented** | **8** |
 
 ---
+
 ## Identity & Access Management (IAM)
 
 <p style="line-height:1.6; font-size:1.05em;">
