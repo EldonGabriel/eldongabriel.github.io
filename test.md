@@ -1,6 +1,6 @@
 ---
 title: Infrastructure & Systems
-layout: collection-item
+layout: default
 slug: test
 collection: experience
 order: 3
