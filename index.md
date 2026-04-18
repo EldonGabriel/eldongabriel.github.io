@@ -25,27 +25,25 @@ image:
 
 </section>
 
-<!-- Short, high-impact intro -->
-<p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
-  I implement practical security controls to harden systems, troubleshoot infrastructure issues, and reduce risk. My work is built on <strong>200+ hands-on labs and technical reports</strong> with real-world validation.
-</p>
-
-
-<!-- ABOUT SECTION -->
 <section style="margin: 20px auto; max-width:900px;">
 
-  <h2 style="text-align:center; font-size:1.8em; margin:20px 0;">
-    About This Portfolio
-  </h2>
+<p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
+I implement practical security controls that harden enterprise systems, investigate operational issues, and reduce organizational risk. As an <strong><em>ISC² Certified in Cybersecurity (CC)</em></strong> professional with <strong><em>200+ hands-on labs and technical reports</em></strong>, I secure real-world IT environments through system administration and defensive security operations.
+</p>
 
-  <div style="width:100%; height:2px; background:#fff; margin-bottom:20px;"></div>
+<p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
+My portfolio follows a <strong><em>Proof of Work methodology</em></strong>, where each security concept is validated through hands-on implementation and documented technical analysis. Projects include system hardening, network security configuration, incident troubleshooting, and infrastructure protection aligned with industry security frameworks.
+</p>
 
-  <p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-    This portfolio follows a <strong>proof of work</strong> approach, where each security concept is validated through hands-on implementation and technical analysis. Projects include system hardening, network security configuration, incident troubleshooting, and infrastructure protection aligned with industry frameworks. The goal is to convert security theory into <strong>measurable and effective controls</strong> in real-world environments. This portfolio is continuously updated and serves as a working reference of applied security practices across systems, networks, and security operations.
-  </p>
+<p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
+The goal is simple: convert security theory into <strong><em>measurable, defensible controls</em></strong> that operate effectively in real-world environments.
+</p>
+
+<p style="font-size:1.2em; line-height:1.6;">
+This portfolio is continuously updated with new labs, projects, and troubleshooting scenarios. It serves as a working reference of applied security practices across systems, networks, and security operations.
+</p>
 
 </section>
-
 
 <!-- SECURITY ENGINEERING SECTION -->
 <section style="margin: 60px 0;">
