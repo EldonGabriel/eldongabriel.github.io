@@ -33,7 +33,7 @@ image:
 
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">System Hardening</h3>
-<ul style="font-size:0.9em; margin:0; padding-left:18px;">
+<ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
 <li>CIS benchmark policies</li>
 <li>Least privilege enforcement</li>
 <li>Registry hardening</li>
@@ -44,7 +44,7 @@ image:
 
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Network Security & Defense</h3>
-<ul style="font-size:0.9em; margin:0; padding-left:20px; line-height:1.4;">
+<ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
 <li>Firewall rule enforcement</li>
 <li>pfSense configuration</li>
 <li>IPsec VPN troubleshooting</li>
@@ -56,7 +56,7 @@ image:
 
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">GRC & Resilience</h3>
-<ul style="font-size:0.9em; margin:0; padding-left:20px; line-height:1.4;">
+<ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
 <li>NIST aligned controls</li>
 <li>Risk register mapping</li>
 <li>Policy enforcement</li>
