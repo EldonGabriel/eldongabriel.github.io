@@ -12,15 +12,20 @@ image:
   caption: "Operational Resilience and Business Continuity Labs"
 ---
 
-### Operational Resilience Lab Overview
+### Operational Resilience Laboratory Overview
 
-Operational resilience focuses on maintaining system availability and recovering from failures, cyber incidents, and unexpected disruptions.
+<p style="line-height:1.6; font-size:1.05em;">
+This section documents hands-on operational resilience labs focused on system recovery, backup validation, and disaster recovery procedures in controlled environments.
+</p>
 
-This section demonstrates hands-on implementation of backup strategies, disaster recovery validation, and business continuity planning performed in controlled lab environments.
+<p style="line-height:1.6; font-size:1.05em;">
+Work includes testing recovery strategies, validating system restoration processes, and ensuring service continuity following simulated failures and disruptions.
+</p>
 
-<p><em>All work follows structured recovery workflows focused on system restoration, validation, and operational continuity.</em></p>
+<p style="line-height:1.6; font-size:1.05em;">
+<em>All labs follow structured recovery workflows centered on restoration, verification, and operational continuity.</em>
+</p>
 
----
 
 ### Lab Distribution Summary
 
