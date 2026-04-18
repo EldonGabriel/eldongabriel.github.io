@@ -1,0 +1,22 @@
+<section class="lab-grid">
+  <h2>🧪 Lab Demonstrations</h2>
+
+  <div class="grid">
+    {% for lab in include.labs %}
+
+    <div class="card">
+      <h3>{{ lab.title }}</h3>
+      <p>{{ lab.description }}</p>
+
+      {% if lab.skills %}
+      <p><strong>Skills:</strong> {{ lab.skills }}</p>
+      {% endif %}
+
+      {% if lab.link %}
+      <a href="{{ lab.link }}" class="btn">View Report</a>
+      {% endif %}
+    </div>
+
+    {% endfor %}
+  </div>
+</section>
