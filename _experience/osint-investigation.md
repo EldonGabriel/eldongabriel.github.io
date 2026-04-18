@@ -12,7 +12,7 @@ image:
   caption: "OSINT Investigations and Threat Intelligence Labs"
 ---
 
-## OSINT Investigation Lab Overview
+## OSINT Investigation Laboratory Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
 This section documents hands-on OSINT investigations focused on collecting, validating, and analyzing publicly available information from web sources, social platforms, and internet-facing infrastructure.
