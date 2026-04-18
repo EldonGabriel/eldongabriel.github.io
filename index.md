@@ -17,7 +17,7 @@ image:
     {{ page.tagline }}
   </p>
 
- <h2 style="text-align:center; font-size:1.8em; margin:20px 0;">
+<h2 style="text-align:center; font-size:1.8em; margin:20px 0;">
   Infrastructure Security & System Administration Portfolio
 </h2>
 
@@ -30,19 +30,20 @@ image:
   I implement practical security controls to harden systems, troubleshoot infrastructure issues, and reduce risk. My work is built on <strong>200+ hands-on labs and technical reports</strong> with real-world validation.
 </p>
 
+
 <!-- ABOUT SECTION -->
 <section style="margin: 20px auto; max-width:900px;">
 
-<section style="text-align:center; margin: 20px 0;">
-  <h2 style="display:inline-block; position:relative; font-size:1.8em; margin:0; padding-bottom:6px;">
+  <h2 style="text-align:center; font-size:1.8em; margin:20px 0;">
     About This Portfolio
-    <span style="position:absolute; left:0; bottom:0; width:100%; height:2px; background:#fff; border-radius:2px;"></span>
   </h2>
-</section>
 
-<p style="font-size:1.2em; line-height:1.6; margin-bottom: 20px;">
-This portfolio follows a <strong>proof of work</strong> approach, where each security concept is validated through hands-on implementation and technical analysis. Projects include system hardening, network security configuration, incident troubleshooting, and infrastructure protection aligned with industry frameworks. The goal is to convert security theory into <strong>measurable and effective controls</strong> in real-world environments. This portfolio is continuously updated and serves as a working reference of applied security practices across systems, networks, and security operations.
-</p>
+  <div style="width:100%; height:2px; background:#fff; margin-bottom:20px;"></div>
+
+  <p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
+    This portfolio follows a <strong>proof of work</strong> approach, where each security concept is validated through hands-on implementation and technical analysis. Projects include system hardening, network security configuration, incident troubleshooting, and infrastructure protection aligned with industry frameworks. The goal is to convert security theory into <strong>measurable and effective controls</strong> in real-world environments. This portfolio is continuously updated and serves as a working reference of applied security practices across systems, networks, and security operations.
+  </p>
+
 </section>
 
 
