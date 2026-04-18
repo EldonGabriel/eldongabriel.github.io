@@ -65,7 +65,7 @@ Security Engineering & Control Enforcement
 <div style="display:grid; grid-template-columns: repeat(3, 1fr); gap:15px;">
 
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">System Hardening & Control Enforcement</h3>
+<h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">System Hardening</h3>
 <ul style="font-size:0.9em; padding-left:18px;">
 <li>CIS benchmark policies</li>
 <li>Least privilege enforcement</li>
@@ -88,7 +88,7 @@ Security Engineering & Control Enforcement
 </div>
 
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">GRC Implementation & Operational Resilience</h3>
+<h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">GRC & Resilience</h3>
 <ul style="font-size:0.9em; padding-left:18px;">
 <li>NIST aligned controls</li>
 <li>Risk register mapping</li>
@@ -113,11 +113,12 @@ Explore My Certifications
 
 
 <section style="text-align:center; margin: 60px 0;">
-  <h2 style="display:inline-block; position:relative; font-size:2.5em; margin:0; padding-bottom:10px;">
+  <h2 style="display:inline-block; position:relative; font-size:1.5em; margin:0; padding-bottom:10px;">
     Foundational Mentorship
     <span style="position:absolute; left:0; bottom:0; width:100%; height:4px; background:#fff; border-radius:2px;"></span>
   </h2>
 </section>
+
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1; text-align: center;">
