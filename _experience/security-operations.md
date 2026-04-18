@@ -12,11 +12,15 @@ image:
   caption: "Security Operations, Hardening, and Monitoring Labs"
 ---
 
-### Security Operations Lab Overview
+## Security Operations Laboratory Overview
 
-I implement and validate security controls that protect systems, monitor activity, and reduce operational risk. My work focuses on hardening endpoints, securing network access, and analyzing system behavior to detect and respond to security issues.
+<p style="line-height:1.6; font-size:1.05em;">
+This section documents hands-on security operations labs focused on endpoint hardening, network security, system monitoring, and incident response activities.
+</p>
 
-These labs demonstrate hands-on experience with system hardening, secure connectivity, monitoring, and recovery. Each project applies a structured approach to enforcing controls, identifying abnormal behavior, and validating that security measures are working as intended.
+<p style="line-height:1.6; font-size:1.05em;">
+Each lab applies structured analysis to identify abnormal behavior, enforce security controls, and validate system integrity after remediation.
+</p>
 
 ### Lab Distribution Summary
 
