@@ -31,7 +31,7 @@ image:
 </p>
 
 <!-- ABOUT SECTION -->
-<section style="margin: 40px auto; max-width:900px;">
+<section style="margin: 20px auto; max-width:900px;">
 
 <section style="text-align:center; margin: 20px 0;">
   <h2 style="display:inline-block; position:relative; font-size:1.8em; margin:0; padding-bottom:6px;">
