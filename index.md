@@ -53,6 +53,8 @@ The goal is simple: convert security theory into <strong><em>measurable, defensi
 This portfolio is continuously updated with new labs, projects, and troubleshooting scenarios. It serves as a working reference of applied security practices across systems, networks, and security operations.
 </p>
 
+---
+
 <!-- SECURITY ENGINEERING SECTION -->
 <section style="margin: 60px 0;">
 
@@ -104,14 +106,13 @@ Security Engineering & Control Enforcement
 
 </section>
 
-
 <p align="center" style="margin-top:40px;">
 <a href="/certifications/" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
 Explore My Certifications
 </a>
 </p>
 
-
+---
 
 <section style="text-align:center; margin: 60px 0;">
   <h2 style="display:inline-block; position:relative; font-size:1.5em; margin:0; padding-bottom:10px;">
