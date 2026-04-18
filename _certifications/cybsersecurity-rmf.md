@@ -13,18 +13,26 @@ image:
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/assets/certifications/infosec-rmf.jpg"
-       alt="INFOSEC — Cybersecurity Risk Management Framework"
+       alt="Cybersecurity Risk Management Framework"
        style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
-  <p style="font-size: 14px; color: #ffffff;">INFOSEC — Cybersecurity Risk Management Framework</p>
+  <p style="font-size: 14px; color: #ffffff;">Cybersecurity Risk Management Framework</p>
 </div>
 
-This specialization provides a comprehensive mastery of the **NIST Risk Management Framework (RMF)** and the **Cybersecurity Framework (CSF)**. My work focuses on translating high-level regulatory requirements into actionable technical controls, ensuring organizational systems meet stringent federal and industry compliance standards.
+This specialization focuses on the NIST Risk Management Framework (RMF) and Cybersecurity Framework (CSF), with emphasis on translating compliance requirements into technical security controls aligned with organizational risk posture.
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Capabilities:</strong> NIST 800-53 Control Mapping · Risk Assessment · Compliance Documentation
+  <strong>Core Skills:</strong> NIST 800-53 Control Mapping · Risk Assessment · Compliance Documentation
 </p>
 
-#### **Governance, Risk, & Compliance (GRC) Solutions**
-The expertise developed through this program enables the delivery of the following strategic services:
-* **Risk Assessment & Mitigation:** Identifying organizational threats and mapping technical security controls to mitigate business-critical risks.
-* **Compliance Documentation (SSP/POAM):** Developing essential compliance artifacts, including System Security Plans (SSP) and Plans of Action and Mil
+<h4>Applied Capability</h4>
+<ul>
+  <li>Mapped security requirements to NIST 800-53 control families</li>
+  <li>Performed structured risk assessments across system environments</li>
+  <li>Developed compliance documentation aligned with RMF lifecycle stages</li>
+  <li>Translated governance requirements into technical security controls</li>
+</ul>
+
+<h4>Operational Relevance</h4>
+<p>
+This certification supports governance, risk, and compliance functions by enabling structured risk analysis, control implementation, and regulatory alignment across enterprise systems.
+</p>
