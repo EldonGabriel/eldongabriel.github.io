@@ -62,6 +62,7 @@ All work is grounded in system-level analysis across operating systems, network 
 </div>
 
 
+
 <h3>Application Across Portfolio</h3>
 <p>
 This framework is applied consistently across all domains including Infrastructure, Networking, Security Operations, GRC, OSINT, Identity Security, and Operational Resilience.
