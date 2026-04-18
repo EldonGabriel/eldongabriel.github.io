@@ -26,14 +26,9 @@ All work is grounded in system-level analysis across operating systems, network 
 </p>
 
 <!-- CORE PILLARS -->
-<div style="margin:20px 0; background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-  <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px; text-align:center;">
-    Core Pillars
-  </h3>
-  <p style="text-align:center; margin:0;">
-    Structured Troubleshooting · Control Enforcement · Root Cause Analysis · Validation Testing
-  </p>
-</div>
+<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+  <strong>Core Pillars:</strong> Structured Troubleshooting · Control Enforcement · Root Cause Analysis · Validation Testing
+</p>
 
 <!-- SIDE BY SIDE SECTION WRAPPER (THIS IS THE FIX) -->
 <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:15px;">
