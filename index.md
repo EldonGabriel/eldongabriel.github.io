@@ -22,7 +22,6 @@ image:
 Infrastructure Security & System Administration Portfolio
 <span style="position:absolute; left:0; bottom:0; width:100%; height:2px; background:#fff; border-radius:2px;"></span>
 </h2>
-</section>
 
 <div class="divider"></div>
 
