@@ -12,7 +12,7 @@ image:
   caption: "Security Governance, Risk Assessment, and Policy Research"
 ---
 
-## GRC Lab Overview
+## GRC Laboratory Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
 This section documents applied governance, risk, and compliance labs focused on risk assessment, security policy implementation, and control validation.
