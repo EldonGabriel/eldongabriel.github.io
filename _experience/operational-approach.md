@@ -11,17 +11,16 @@ image:
   caption: "Logic-Driven Troubleshooting & Security Baselines"
 ---
 
-<h2>Operational Approach</h2>
-
-<h3>Overview</h3>
+<h2>Overview</h2>
 
 <p>
 This portfolio is built on a structured systems approach focused on troubleshooting, control enforcement, and validation across real-world infrastructure environments.
 Each lab and investigation follows a consistent methodology designed to produce repeatable and measurable technical outcomes.
 </p>
 
+<h3>Technical Support Fundamentals – Systems Analysis</h3>
+
 <p>
-Technical Support Fundamentals – Systems Analysis  
 All work is grounded in system-level analysis across operating systems, network infrastructure, identity systems, and virtualized environments.
 </p>
 
@@ -61,6 +60,7 @@ All work is grounded in system-level analysis across operating systems, network 
   </div>
 
 </div>
+
 
 <h3>Application Across Portfolio</h3>
 <p>
