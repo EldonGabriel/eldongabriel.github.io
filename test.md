@@ -4,7 +4,7 @@ layout: collection-item
 slug: test
 collection: experience
 order: 3
-permalink: /infrastructure-systems/
+permalink: /test/
 image:
   path: /assets/images/headers/section-header.png
   thumbnail: /assets/images/headers/section-header.png
