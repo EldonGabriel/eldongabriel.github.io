@@ -20,7 +20,10 @@ image:
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
-<h2>Portfolio Overview</h2>
+<h2 style="text-align:center; position:relative; font-size:1.5em; margin-bottom:20px; padding-bottom:6px;">
+Portfolio Overview
+<span style="position:absolute; left:0; bottom:0; width:60px; height:2px; background:#fff; border-radius:2px;"></span>
+</h2>
 
 <p>This portfolio follows a proof of work approach, where each security concept is tested through hands-on implementation and technical analysis. Projects include system hardening, network security configuration, incident troubleshooting, and infrastructure protection aligned with industry frameworks. The goal is to convert security theory into practical controls that work in real-world environments.</p>
 
