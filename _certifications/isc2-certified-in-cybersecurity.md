@@ -18,13 +18,21 @@ image:
   <p style="font-size: 14px; color: #ffffff;">ISC² Certified in Cybersecurity (CC)</p>
 </div>
 
-The **ISC² Certified in Cybersecurity (CC)** credential is a globally recognized validation of foundational security principles. This certification demonstrates my commitment to the ISC² Code of Ethics and confirms my proficiency in the core pillars of a professional security program, including risk management, incident response, and logical access control.
+The **ISC² Certified in Cybersecurity (CC)** certification validates a foundational understanding of core cybersecurity principles. It affirms my commitment to ISC²'s Code of Ethics and establishes my proficiency in essential security areas such as risk management, incident response, and logical access control.
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Capabilities:</strong> Security Principles · Access Control · Security Operations
+  <strong>Core Skills:</strong> Security Principles · Access Control · Security Operations
 </p>
 
-#### **Professional Solutions & Domain Expertise**
-Through this ISC² certification, I deliver the following standardized security services:
-* **Strategic Security Principles:** Implementing the CIA Triad, risk treatment strategies, and administrative controls aligned with organizational law and policy.
-* **Access Control Management:** Engineering logical access models (RBAC, MAC, DAC) and enforcing the Principle of Least Privilege.
+<h4>Applied Capability</h4>
+<ul>
+  <li>Implemented the CIA Triad to strengthen confidentiality, integrity, and availability within systems</li>
+  <li>Engineered access control models (RBAC, MAC, DAC) ensuring the Principle of Least Privilege</li>
+  <li>Designed risk treatment strategies for various cybersecurity threats and vulnerabilities</li>
+  <li>Developed incident response protocols and led small-scale security incident investigations</li>
+</ul>
+
+<h4>Operational Relevance</h4>
+<p>
+This certification ensures a strong foundation in professional security, preparing me for real-world implementation of risk management and access control strategies in any organizational environment.
+</p>
