@@ -60,7 +60,7 @@ categories:
 
     subcategories:
 
-      - name: Endpoint Security & Configuration Enforcement
+  - name: Endpoint Security & Configuration Enforcement
         description: Hardening Windows endpoints through policy enforcement, registry controls, and application restriction.
         items:
 
