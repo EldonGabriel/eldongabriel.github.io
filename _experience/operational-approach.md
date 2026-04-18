@@ -59,9 +59,7 @@ All work is grounded in system-level analysis across operating systems, network 
     </ul>
   </div>
 
-</div>
-
-
+</div> <br>
 
 <h3>Application Across Portfolio</h3>
 <p>
