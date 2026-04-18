@@ -54,7 +54,7 @@ categories:
 
   - name: Windows Systems Administration
     description: Hands-on system administration work in Windows environments, focused on system management, security enforcement, and operational troubleshooting.
-      subcategories:
+    subcategories:
         - name: Endpoint Security & Configuration Enforcement
           description: Hardening Windows endpoints through policy enforcement, registry controls, and application restriction.
           items:
@@ -126,18 +126,18 @@ categories:
               skills: "Credential Security · Logon Hardening · Access Control · GPO Enforcement"
               link: https://eldongabriel.github.io/report-hardening-credential-entry-using-group-policy-v1.0.0/
 
-      - name: Endpoint Monitoring
-        description: System monitoring and forensic-style analysis of Windows processes and behavior.
-        items:
+        - name: Endpoint Monitoring
+          description: System monitoring and forensic-style analysis of Windows processes and behavior.
+          items:
 
           - title: REPORT – Monitoring Windows Processes with Procmon – v1.0.1
-            description: Used Process Monitor to capture system activity, analyze process behavior, and investigate file and registry interactions.
+            description: Used Process Monitor to capture system activity, analyze process behavior, and investigate file and    registry interactions.
             skills: "Security Monitoring · Process Analysis · Sysinternals · Event Analysis"
             link: https://eldongabriel.github.io/report-monitoring-windows-processes-procmon-v1.0.1/
 
-      - name: System Administration & Maintenance
-       description: Hands-on Windows system maintenance focused on storage management, system configuration, and operational administration tasks.
-       items:
+        - name: System Administration & Maintenance
+          description: Hands-on Windows system maintenance focused on storage management, system configuration, and operational administration tasks.
+          items:
 
           - title: REPORT – Windows Disk Management with CHKDSK and FSUTIL – v1.0.0
             description: Used built-in Windows tools to check disk health, repair filesystem errors, and validate storage integrity.
@@ -154,9 +154,9 @@ categories:
             skills: "Windows Administration · System Configuration · Troubleshooting · Environment Management"
             link: https://eldongabriel.github.io/guide-windows-system-administration-labs-v1.0.0/
 
-      - name: Troubleshooting & System Diagnostics
-        description: Structured investigation of system, hardware, and network failures using root cause analysis and diagnostic validation techniques.
-        items:
+        - name: Troubleshooting & System Diagnostics
+          description: Structured investigation of system, hardware, and network failures using root cause analysis and diagnostic validation techniques.
+          items:
 
           - title: REPORT – USB Storage Failure Analysis and Disk Validation – v1.0.0
             description: Diagnosed USB storage instability by validating filesystem integrity and identifying whether failures originated from corruption or hardware defects.
@@ -188,9 +188,9 @@ categories:
             skills: "Network Troubleshooting · NAT · Active Directory · Routing · ESXi"
             link: https://eldongabriel.github.io/report-domain-controller-nat-routing/
 
-      - name: Linux Systems Administration
-        description: Administration and hardening of Linux-based systems, including user management, access control enforcement, system processes, and log analysis within server environments.
-        items:
+        - name: Linux Systems Administration
+          description: Administration and hardening of Linux-based systems, including user management, access control enforcement, system processes, and log analysis within server environments.
+          items:
 
           - title: REPORT – SAR Performance Monitoring on Ubuntu – v1.0.1
             description: Monitored CPU, memory, and I/O activity using SAR to identify performance patterns and support system diagnostics on Ubuntu systems.
@@ -202,18 +202,18 @@ categories:
             skills: "Linux Permissions · Access Control"
             link: https://eldongabriel.github.io/linux-file-permissions-management/
 
-      - name: Local File & Permission Security
-        description: File-level access control and ownership management to maintain integrity and enforce permission boundaries in Linux environments.
-        items:
+  - name: Local File & Permission Security
+    description: File-level access control and ownership management to maintain integrity and enforce permission boundaries in Linux environments.
+    items:
 
           - title: REPORT – File Ownership Recovery – v1.0.0
             description: Restored correct file ownership to resolve access issues and re-establish proper permission control within a Linux environment.
             skills: "File System Permissions · Linux Administration · Access Control · Troubleshooting"
             link: https://eldongabriel.github.io/report-file-ownership-recovery/
 
-      - name: Linux Endpoint Security & Admin Controls
-        description: Secure administration of Linux services and management interfaces, focusing on controlled access, service hardening, and security isolation.
-        items:
+  - name: Linux Endpoint Security & Admin Controls
+    description: Secure administration of Linux services and management interfaces, focusing on controlled access, service hardening, and security isolation.
+    items:
 
           - title: SOP – Secure Linux Management with Cockpit – v1.0.1
             description: Configured and secured Cockpit to enable controlled, browser-based system management while reducing exposure of administrative services.
@@ -235,9 +235,9 @@ categories:
             skills: "Linux CLI Administration · Process Monitoring · System Diagnostics · Troubleshooting"
             link: null
 
-      - name: Virtualization & Infrastructure
-        description: Design and deployment of virtualized environments used to support secure system administration, testing, and infrastructure validation across isolated lab environments.
-        items:
+  - name: Virtualization & Infrastructure
+    description: Design and deployment of virtualized environments used to support secure system administration, testing, and infrastructure validation across isolated lab environments.
+    items:
 
           - title: REPORT – VirtualBox Network Modes – v1.0.0
             description: Configured and validated VirtualBox networking modes including NAT, Bridged, Host-Only, and Internal to support isolated and controlled lab environments.
@@ -274,12 +274,12 @@ categories:
             skills: "Virtualization · Multi-Cloud Environments · Lab Architecture · Infrastructure Design"
             link: https://eldongabriel.github.io/guide-cybersecurity-virtualizationlabs-v1.0.0/  
 
-      - name: Lab Demonstrations
-        description: Practical lab-based demonstrations across virtualization, cloud infrastructure, Linux, and Windows system administration environments.
-        subcategories:
-          - name: Virtualization & Infrastructure Labs
-            description: Deployment and configuration of virtualized environments, including hypervisors, VM management, and network validation.
-            items:
+  - name: Lab Demonstrations
+    description: Practical lab-based demonstrations across virtualization, cloud infrastructure, Linux, and Windows system administration environments.
+    subcategories:
+  - name: Virtualization & Infrastructure Labs
+    description: Deployment and configuration of virtualized environments, including hypervisors, VM management, and network validation.
+    items:
 
               - title: LAB – VMware ESXi and vSphere VM Deployment and Network Connectivity Test – v1.0.0
                 description: Deployed and configured ESXi hosts and vSphere-managed virtual machines, validating network connectivity across virtualized systems.
@@ -311,9 +311,9 @@ categories:
                 skills: "Secure Development · Environment Setup · System Configuration"
                 link: null
 
-      - name: Cloud Infrastructure Labs
-        description: Cloud-based virtual machine deployment, configuration, and secure remote access across AWS and GCP environments.
-        items:
+  - name: Cloud Infrastructure Labs
+    description: Cloud-based virtual machine deployment, configuration, and secure remote access across AWS and GCP environments.
+    items:
 
           - title: LAB – AWS EC2 Virtual Machine Deployment and Secure SSH Access – v1.0.0
             description: Provisioned EC2 instances, configured security groups, and validated secure SSH access for remote administration.
@@ -330,9 +330,9 @@ categories:
             skills: "GCP · Windows VM · Remote Access · Cloud Infrastructure"
             link: https://youtu.be/rNI50WIqZWc
 
-      - name: Linux Administration & Security Labs
-        description: Hands-on Linux system administration including file management, permissions, logging, monitoring, and service configuration.
-        items:
+  - name: Linux Administration & Security Labs
+    description: Hands-on Linux system administration including file management, permissions, logging, monitoring, and service configuration.
+    items:
 
           - title: LAB – Linux Command-Line Exploration and Documentation Lookup – v1.0.0
             description: Used Linux documentation tools (man, cat) to analyze command syntax and usage.
@@ -384,9 +384,9 @@ categories:
             skills: "Linux Administration · Webmin · System Management"
             link: null
 
-      - name: Windows System Administration Labs
-        description: Windows enterprise administration including Active Directory, firewall configuration, process analysis, and system hardening.
-        items:
+  - name: Windows System Administration Labs
+    description: Windows enterprise administration including Active Directory, firewall configuration, process analysis, and system hardening.
+    items:
 
           - title: LAB – Setting Up a Computer for Network Integration – v1.0.0
             description: Configured a Windows workstation for network integration and baseline setup.
@@ -419,9 +419,9 @@ categories:
             link: null
 
 
-      - name: Windows Administration & Hardening (GPO) Labs
-        description: Group Policy-based hardening and endpoint security configuration in Windows environments.
-        items:
+  - name: Windows Administration & Hardening (GPO) Labs
+    description: Group Policy-based hardening and endpoint security configuration in Windows environments.
+    items:
 
           - title: LAB – Enforce Session Locks via GPO – v1.0.0
             description: Configured idle session lock policies to reduce unauthorized access risk.
@@ -444,9 +444,9 @@ categories:
             link: null
 
 
-      - name: Managed Operations & Automation Labs
-        description: Automation and monitoring of Windows systems using native tools for security, diagnostics, and maintenance.
-        items:
+  - name: Managed Operations & Automation Labs
+    description: Automation and monitoring of Windows systems using native tools for security, diagnostics, and maintenance.
+    items:
 
           - title: LAB – BitLocker Data Security
             description: Implemented BitLocker to encrypt data-at-rest and protect against physical data theft.
