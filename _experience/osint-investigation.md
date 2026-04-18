@@ -12,13 +12,19 @@ image:
   caption: "OSINT Investigations and Threat Intelligence Labs"
 ---
 
-### OSINT Investigation Lab Overview
+## OSINT Investigation Lab Overview
 
-Hands-on investigations focused on collecting, validating, and analyzing open-source intelligence (OSINT) from publicly available sources, including websites, social media platforms, and internet-facing infrastructure.
+<p style="line-height:1.6; font-size:1.05em;">
+This section documents hands-on OSINT investigations focused on collecting, validating, and analyzing publicly available information from web sources, social platforms, and internet-facing infrastructure.
+</p>
 
-This section demonstrates practical intelligence workflows such as data collection, correlation, and verification to support investigative analysis and threat intelligence development.
+<p style="line-height:1.6; font-size:1.05em;">
+Work includes data correlation, verification, and investigative analysis to support threat intelligence and security assessments.
+</p>
 
-<p><em>All work follows structured investigative workflows aligned with intelligence validation principles and repeatable analysis methods.</em></p>
+<p style="line-height:1.6; font-size:1.05em;">
+<em>All investigations follow structured workflows aligned with repeatable validation and analytical methods.</em>
+</p>
 
 ### Lab Distribution Summary
 
