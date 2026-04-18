@@ -28,7 +28,9 @@ All configurations are validated to confirm expected system behavior and securit
 
 ### Lab Distribution Summary
 
-These labs are organized by function to reflect real-world system administration and security responsibilities.
+<p style="line-height:1.6; font-size:1.05em;">
+Labs are grouped by functional domain to reflect real-world system administration and security operations, including infrastructure management, troubleshooting, and security control implementation.
+</p>
 
 | Category | Labs |
 |--------|------|
