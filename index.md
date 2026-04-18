@@ -27,9 +27,9 @@ image:
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 <!-- SECURITY ENGINEERING SECTION -->
-<h2> Security Engineering & Control Enforcement</h2> 
+<h2>Security Engineering & Control Enforcement</h2> 
 
-<div style="display:grid; grid-template-columns: repeat(3, 1fr); gap:15px;">
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap:15px;">
 
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">System Hardening</h3>
@@ -68,13 +68,13 @@ image:
 
 </div>
 
-</section>
-
-<p align="center" style="margin-top:40px;">
+<p style="text-align:center; margin-top:40px;">
 <a href="/certifications/" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
 Explore My Certifications
 </a>
 </p>
+
+</section>
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
@@ -82,7 +82,7 @@ Explore My Certifications
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1; text-align: center;">
-    <img src="assets/images/Eldon-George.jpg" alt="George H. Ross" 
+    <img src="/assets/images/Eldon-George.jpg" alt="George H. Ross" 
          style="width:200px; height:200px; object-fit: cover; border-radius:50%;"><br>
     <strong>George H. Ross</strong><br>
     <em>NBC’s ‘The Apprentice’ Judge & Mentor</em>
@@ -94,7 +94,7 @@ Explore My Certifications
 
 <div style="display: flex; align-items: center; flex-direction: row-reverse; margin-bottom: 40px;">
   <div style="flex: 1; text-align: center;">
-    <img src="assets/images/eldon-wahida.png" alt="Wahida Clark" 
+    <img src="/assets/images/eldon-wahida.png" alt="Wahida Clark" 
          style="width:200px; height:200px; object-fit: cover; border-radius:50%;"><br>
     <strong>Wahida Clark</strong><br>
     <em>4x NYT Bestselling Author & Mentor</em>
