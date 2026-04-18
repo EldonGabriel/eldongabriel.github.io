@@ -1,0 +1,20 @@
+<section class="lab-distribution">
+  <h2>📊 Lab Distribution Summary</h2>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Category</th>
+        <th>Labs</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for row in include.table %}
+      <tr>
+        <td>{{ row.category }}</td>
+        <td>{{ row.count }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
