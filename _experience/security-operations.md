@@ -36,11 +36,11 @@ Each lab applies structured analysis to identify abnormal behavior, enforce secu
 
 ---
 
-# Security Operations Portfolio
-
-Applied security engineering focused on protecting infrastructure, enforcing access control, and maintaining system integrity across enterprise environments.
-
 ### 🛡️ Perimeter Defense & Secure Connectivity
+
+These reports establish the foundational knowledge required to design and implement perimeter defenses and secure network connectivity. The focus is on protecting systems and data from external threats through firewalls, VPNs, and secure communication protocols.
+
+The goal is to ensure that systems are well-protected at the network boundary, with clear strategies to identify, prevent, and mitigate attacks while ensuring secure communication across enterprise environments.
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
