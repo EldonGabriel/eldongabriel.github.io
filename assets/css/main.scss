@@ -75,3 +75,31 @@ sitemap: false
   border-radius: 8px;
   border: 1px solid rgba(255,255,255,0.1);
 }
+
+.section-card {
+  grid-column: 1 / -1;
+  padding: 28px;
+  background: rgba(255,255,255,0.06);
+}
+
+.category-card {
+  grid-column: 1 / -1;
+  background: rgba(255,255,255,0.04);
+  font-weight: 600;
+}
+
+.report-card h4 {
+  margin-bottom: 8px;
+  font-size: 1.05rem;
+}
+
+.report-card p {
+  opacity: 0.85;
+  margin-bottom: 10px;
+}
+
+.report-card .meta {
+  font-size: 0.85rem;
+  opacity: 0.7;
+  margin-bottom: 12px;
+}
