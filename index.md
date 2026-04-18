@@ -53,7 +53,7 @@ The goal is simple: convert security theory into <strong><em>measurable, defensi
 This portfolio is continuously updated with new labs, projects, and troubleshooting scenarios. It serves as a working reference of applied security practices across systems, networks, and security operations.
 </p>
 
----
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 <!-- SECURITY ENGINEERING SECTION -->
 <section style="margin: 60px 0;">
@@ -112,7 +112,7 @@ Explore My Certifications
 </a>
 </p>
 
----
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 <section style="text-align:center; margin: 60px 0;">
   <h2 style="display:inline-block; position:relative; font-size:1.5em; margin:0; padding-bottom:10px;">
