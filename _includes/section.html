@@ -1,0 +1,20 @@
+<section class="portfolio-section">
+
+  <h2>{{ include.section.title }}</h2>
+
+  <p>{{ include.section.subtitle }}</p>
+
+  {% for line in include.section.intro %}
+    <p>{{ line }}</p>
+  {% endfor %}
+
+  {% for category in include.section.categories %}
+
+    <h3>{{ category.name }}</h3>
+    <p>{{ category.description }}</p>
+
+    {% include card-grid.html items=category.items %}
+
+  {% endfor %}
+
+</section>
