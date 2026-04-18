@@ -33,14 +33,11 @@ Work includes examining communication models, diagnosing network issues, and imp
 | **Total Networking Labs Documented** | **17** |
 
  
-
-# Networking Fundamentals & Protocol Analysis
-
-Analysis of core networking concepts and protocols to understand system communication, identify misconfigurations, and support secure data flow across enterprise environments.
-
-## Networking Fundamentals & Protocol Analysis Portfolio
-
 ### 📡 Network Protocols & Fundamentals
+
+These reports establish the foundation for diagnosing latency, identifying lateral movement, and ensuring protocol-level security. Understanding the behavior of core networking protocols is critical for troubleshooting issues and enhancing the overall integrity of enterprise networks. 
+
+The following reports analyze fundamental protocols, their interactions, and their impact on secure network communication.
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -147,8 +144,6 @@ View Report</a>
 
 ## Network Architecture & Security
 
-Design and evaluation of network structures with a focus on segmentation, secure communication, and reducing attack surface across enterprise environments.
-
 ### 🏗️ Network Design & Secure Infrastructure
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
@@ -230,7 +225,7 @@ View Report</a>
 
 </div>
 
-# Portfolio Documentation
+## Portfolio Documentation
 
 This section reflects hands-on networking work across protocol analysis, architecture design, and connectivity troubleshooting. Each project focuses on identifying root cause, validating configurations, and improving network security and stability.
 
