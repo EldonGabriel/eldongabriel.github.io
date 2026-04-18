@@ -61,7 +61,8 @@ All work is grounded in system-level analysis across operating systems, network 
 
 </div>
 
-<hr>
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
+
 
 <h3>Application Across Portfolio</h3>
 <p>
