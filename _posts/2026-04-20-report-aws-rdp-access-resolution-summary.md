@@ -1,6 +1,6 @@
 ---
 title: "REPORT – AWS RDP Access Resolution Summary – v1.0.0"
-date: 2025-08-31
+date: 2026-04-20
 author: Eldon Gabriel
 categories: [Networking]
 tags: [AWS, Windows 10, RDP, Troubleshooting, Cloud Security]
@@ -18,8 +18,8 @@ The main goal was to reduce the risk of being locked out of the system and to pr
 
 The final result improved system security by replacing the default setup, where only the original user could connect. The updated configuration allows specific authorized users to access the system through RDP in a controlled and reliable way.
 
----
 
+ 
 # 1.0 RDP Troubleshooting for AWS Users
 
 ## 1.1 Project Description
@@ -36,7 +36,7 @@ The main actions included:
 
 These steps help protect remote access and prevent misconfiguration that could block access to the system.
 
----
+ 
 
 ## 1.2 Technical Task / Troubleshooting Process
 
@@ -45,23 +45,27 @@ The process focused on finding issues in the default RDP configuration and apply
 ### Key Actions & Observations
 
 - Reviewed the default system setup and identified that user group membership was missing or incomplete  
-- Used the following tools:
+
+Used the following tools:
   - Local Users and Groups (lusrmgr.msc)  
   - Local Group Policy Editor (gpedit.msc)  
-- Updated access control by:
+
+Updated access control by:
   - Adding the user to the "Remote Desktop Users" group  
   - Checking firewall rules to allow RDP traffic  
   - Verifying that Remote Desktop Services were running  
-- Confirmed supporting components:
+
+Confirmed supporting components:
   - Remote Desktop Services  
-  - Windows Defender Firewall  
+  - Windows Defender Firewall
+  
 - Recorded all steps to allow repeatable deployment on new AWS instances  
 
 **Root Cause:**  
 Default Windows and AWS-provisioned configurations may restrict RDP access to initial administrative accounts. Additional users cannot connect unless explicitly added to the “Remote Desktop Users” group and supporting Remote Desktop services are properly enabled. This issue was resolved by granting the required group membership and verifying required services were active.
 
----
 
+ 
 ## 1.3 Resolution and Validation
 
 The configuration was applied and tested to confirm that remote access worked correctly.
@@ -85,7 +89,7 @@ The configuration was applied and tested to confirm that remote access worked co
 
 5. Ensured that permissions matched the expected access level  
 
----
+ 
 
 # 2.0 CONCLUSION
 
@@ -97,7 +101,7 @@ The configuration was applied and tested to confirm that remote access worked co
 - Testing is needed to confirm that configuration changes are successful  
 - Proper setup helps avoid lockouts and ensures reliable remote administration  
 
----
+ 
 
 ## 2.2 Security Implications and Recommendations
 
