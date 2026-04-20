@@ -28,9 +28,9 @@ Work includes examining communication models, diagnosing network issues, and imp
 |--------|------|
 | Network Protocols & Fundamentals | 7 |
 | Network Protocol Security | 3 |
-| Network Architecture & Security | 6 |
+| Network Architecture & Security | 7 |
 | Lab Demonstrations | 1 |
-| **Total Networking Labs Documented** | **17** |
+| **Total Networking Labs Documented** | **18** |
 
  
 ### 📡 Network Protocols & Fundamentals
