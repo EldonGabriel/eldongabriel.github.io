@@ -1,5 +1,5 @@
 ---
-title: "REPORT – RDP Troubleshooting for AWS Users – v1.0.0"
+title: "REPORT – AWS RDP Access Resolution Summary – v1.0.0"
 date: 2025-08-31
 author: Eldon Gabriel
 categories: [Networking]
@@ -58,7 +58,7 @@ The process focused on finding issues in the default RDP configuration and apply
 - Recorded all steps to allow repeatable deployment on new AWS instances  
 
 **Root Cause:**  
-By default, AWS Windows instances may only allow one initial user to connect through RDP. Additional users cannot connect unless they are added to the correct group. This issue was fixed by explicitly adding the required users to the "Remote Desktop Users" group and confirming all supporting services were active.
+Default Windows and AWS-provisioned configurations may restrict RDP access to initial administrative accounts. Additional users cannot connect unless explicitly added to the “Remote Desktop Users” group and supporting Remote Desktop services are properly enabled. This issue was resolved by granting the required group membership and verifying required services were active.
 
 ---
 
