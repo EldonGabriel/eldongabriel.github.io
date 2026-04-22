@@ -6,7 +6,7 @@ categories: [Infrastructure and Systems]
 tags: [Hardware Integrity, USB Failure, I/O Lock, Forensic Analysis, Storage]
 excerpt: "Forensic investigation into a persistent I/O failure of a 2TB USB storage device, isolating hardware controller degradation from software-level drivers."
 image:
-  path: "/assets/images/posts/2tb-usb.png"
+  path: "/assets/images/posts/2t-usb.png"
   thumbnail: "/assets/images/posts/2t-usb.png"
 ---
 
