@@ -33,12 +33,12 @@ All configurations are validated to confirm expected system behavior and securit
 | Technical Foundations | 7 |  
 | Windows Systems Administration | 7 | 
 | System Administration & Maintenance | 3 |
-| Troubleshooting & System Diagnostics | 6 |
+| Troubleshooting & System Diagnostics | 7 |
 | Linux Systems Administration | 2 |
 | Virtualization & Infrastructure | 7 |
 | Lab Demonstrations (Hands-On Execution) | 29 |
 | Managed Operations & Automation | 4 |
-| **Total Labs Documented** | **64** |
+| **Total Labs Documented** | **65** |
 
 ---
 
@@ -243,6 +243,7 @@ View Report</a>
 
 </div>
 
+---
 
 ### ⚙️ System Administration & Maintenance
 
