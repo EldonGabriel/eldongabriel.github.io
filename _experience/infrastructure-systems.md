@@ -312,6 +312,15 @@ View Report</a>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Hardware Integrity Investigation: 2TB USB I/O Failure – v1.0.0</h5>
+<p>Investigated persistent I/O failures in a 2TB USB device, isolating hardware controller faults from software and virtualization-related issues.</p>
+<p><strong>Skills:</strong> Hardware Diagnostics · Root Cause Analysis · Cross-Platform Troubleshooting</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-hardware-integrity-investigation-2tb-usb-io-failure/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Workstation Power Failure Investigation – v1.0.0</h5>
 <p>Diagnosed system instability caused by insufficient power supply capacity after hardware upgrades, restoring stable system operation.</p>
 <p><strong>Skills:</strong> Hardware Diagnostics · Power Load Analysis · Root Cause Analysis · System Stability</p>
