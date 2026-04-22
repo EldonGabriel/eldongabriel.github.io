@@ -29,9 +29,11 @@ The goal of this task was to perform a definitive diagnostic of a high-capacity 
 
 A multi-layered testing approach was used to:
 
-- **Analyze Technical Architecture:** Evaluate communication between the USB flash controller and the OS bus under write load  
-- **Isolate Failure Domains:** Perform cross-environment testing (Host vs Guest VM) to rule out virtualization issues  
-- **Improve Accountability:** Document low-level error codes (e.g., Rufus 0xC0030037) for audit and validation  
+ **Analyze Technical Architecture:** Evaluate communication between the USB flash controller and the OS bus under write load  
+
+ **Isolate Failure Domains:** Perform cross-environment testing (Host vs Guest VM) to rule out virtualization issues  
+ 
+ **Improve Accountability:** Document low-level error codes (e.g., Rufus 0xC0030037) for audit and validation  
 
 This ensures storage media is validated before use in administrative or forensic operations.
 
