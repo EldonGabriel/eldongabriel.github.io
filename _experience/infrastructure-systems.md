@@ -33,12 +33,12 @@ All configurations are validated to confirm expected system behavior and securit
 | Technical Foundations | 7 |  
 | Windows Systems Administration | 7 | 
 | System Administration & Maintenance | 3 |
-| Troubleshooting & System Diagnostics | 7 |
+| Troubleshooting & System Diagnostics | 8 |
 | Linux Systems Administration | 2 |
 | Virtualization & Infrastructure | 7 |
 | Lab Demonstrations (Hands-On Execution) | 29 |
 | Managed Operations & Automation | 4 |
-| **Total Labs Documented** | **65** |
+| **Total Labs Documented** | **66** |
 
 ---
 
@@ -318,6 +318,16 @@ View Report</a>
 <p><strong>Skills:</strong> Hardware Diagnostics · Root Cause Analysis · Cross-Platform Troubleshooting</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-hardware-integrity-investigation-2tb-usb-io-failure/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – USB I/O Failure & Virtualization Instability Analysis – v1.0.0</h5>
+<p>Diagnosed and resolved USB passthrough instability in a Kali Linux virtual machine by stabilizing host-to-guest communication and enforcing secure filesystem controls.</p>
+<p><strong>Skills:</strong> Virtualization · USB Troubleshooting · Root Cause Analysis</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-usb-io-failure-virtualization-instability/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report</a>
 </p>
 </div>
 
