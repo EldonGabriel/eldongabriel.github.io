@@ -12,15 +12,9 @@ image:
 
 # 0.0 Executive Summary
 
-This report explains how repeated USB failures caused system crashes during a Kali Linux lab running in a virtual machine.
+This report explains how repeated USB failures caused system crashes during a Kali Linux lab running in a virtual machine. The goal was to find the cause of the connection drops and still complete the task of setting up a secure Linux filesystem. The issue was traced to unstable communication between the Windows host and VirtualBox during USB passthrough. This caused the USB device to disconnect during heavy write operations like formatting. 
 
-The goal was to find the cause of the connection drops and still complete the task of setting up a secure Linux filesystem.
-
-The issue was traced to unstable communication between the Windows host and VirtualBox during USB passthrough. This caused the USB device to disconnect during heavy write operations like formatting.
-
-The system was stabilized by adjusting power settings and switching the virtual USB controller to a more reliable mode.
-
-Once stable, Linux security controls were applied using the `noexec` mount option and proper file ownership. This ensured the USB could store data but could not run malicious files.
+The system was stabilized by adjusting power settings and switching the virtual USB controller to a more reliable mode. Once stable, Linux security controls were applied using the `noexec` mount option and proper file ownership. This ensured the USB could store data but could not run malicious files.
 
  
 
