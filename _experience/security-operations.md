@@ -26,13 +26,13 @@ Each lab applies structured analysis to identify abnormal behavior, enforce secu
 
 | Category | Labs |
 |--------|------|
-| Perimeter Defense & Secure Connectivity | 3 |
+| Perimeter Defense & Secure Connectivity | 4 |
 | Endpoint Hardening & Access Control | 9 |  
 | Infrastructure Protection & Recovery | 1 | 
 | Threat Hunting & Malware Analysis | 1 |
 | Incident Response & Monitoring | 1 |
 | Lab Demonstrations |  8 |
-| **Total Security Operations Labs Documented** | **23** |
+| **Total Security Operations Labs Documented** | **24** |
 
 ---
 
@@ -47,7 +47,7 @@ The goal is to ensure that systems are well-protected at the network boundary, w
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Enterprise IPsec VPN Diagnostics – v1.0.0</h5>
 <p>Demonstrates building and validating a site-to-site IPsec VPN between enterprise locations to secure data in transit over untrusted networks.</p>
-<p><strong>Skills:</strong> IPsec VPN · IKE · ACLs · NAT Exemption · Network Security · CLI Troubleshooting</p>
+<p><strong>Skills:</strong> IPsec VPN · IKE · ACLs </p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-enterprise-ipsec-vpn-dianogstics-v1.0.0/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
 </p>
@@ -68,6 +68,15 @@ The goal is to ensure that systems are well-protected at the network boundary, w
 <p><strong>Skills:</strong> VPN Deployment · Encryption · Secure Remote Access</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/openvpn-remote-access-vpn-deployment-validation/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Troubleshooting pfSense DNS Resolution – v1.0.0</h5>
+<p>Demonstrates diagnosing and resolving DNS failures in a hardened pfSense environment by enforcing controlled access under a default-deny firewall policy.</p>
+<p><strong>Skills:</strong> DNS Troubleshooting · pfSense · Network Diagnostics</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-troubleshooting-pfsense-dns-resolution/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
 </p>
 </div>
 
