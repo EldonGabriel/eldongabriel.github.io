@@ -30,9 +30,9 @@ Each lab applies structured analysis to identify abnormal behavior, enforce secu
 | Endpoint Hardening & Access Control | 9 |  
 | Infrastructure Protection & Recovery | 1 | 
 | Threat Hunting & Malware Analysis | 1 |
-| Incident Response & Monitoring | 1 |
+| Incident Response & Monitoring | 2 |
 | Lab Demonstrations |  8 |
-| **Total Security Operations Labs Documented** | **24** |
+| **Total Security Operations Labs Documented** | **25** |
 
 ---
 
@@ -194,6 +194,15 @@ The goal is to ensure that systems are well-protected at the network boundary, w
 <p><strong>Skills:</strong> Incident Response · Log Analysis · Web Security · Access Control · Root Cause Analysis</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/forced-browsing-data-breach/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Linux Automation: ClamAV Security & System Maintenance – v1.0.0</h5>
+<p>Demonstrates automated malware detection and system maintenance using cron scheduling and ClamAV, including log monitoring, quarantine workflows, and validation of security operations in a Linux environment.</p>
+<p><strong>Skills:</strong> Security Operations · Linux Administration · Automation</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-linux-automation-clamav-system-maintenance/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
 </p>
 </div>
 
