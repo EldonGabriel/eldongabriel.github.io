@@ -61,45 +61,37 @@ The system was configured by installing required tools, updating antivirus signa
 
 #### Issue 1: Failed to Get Realpath
 
-**Observation**  
-ClamAV returned the error: *"Failed to get the realpath"*.
+**Observation:** ClamAV returned the error: *"Failed to get the realpath"*.
 
-**Analysis**  
-The tilde (`~`) was not expanded correctly when used in the `--move` flag.
+**Analysis:** The tilde (`~`) was not expanded correctly when used in the `--move` flag.
 
-**Fix**  
+**Fix**
 Use absolute path:
 ```bash
 --move=/home/eldon/quarantine
 ```
 
-**Validation**  
-File was successfully detected and moved to the quarantine directory.
+**Validation:** File was successfully detected and moved to the quarantine directory.
 
  
 
 #### Issue 2: EICAR Not Detected
 
-**Observation**  
-Custom test string was not detected.
+**Observation:** Custom test string was not detected.
 
-**Analysis**  
-A byte-level mismatch prevented signature recognition.
+**Analysis:** A byte-level mismatch prevented signature recognition.
 
-**Validation**
+**Validation:**
 ```bash
 hexdump -C /home/eldon/clamav_test/test_virus.txt | head -n 2
 hexdump -C /home/eldon/clamav_test/eicar.com.txt | head -n 2
 ```
 
-**Result**  
-A byte difference (`35`) was identified.
+**Result:** A byte difference (`35`) was identified.
 
-**Conclusion**  
-ClamAV requires an exact bitwise match.
+**Conclusion:** ClamAV requires an exact bitwise match.
 
-**Resolution**  
-Used the official EICAR test file to ensure consistent detection.
+**Resolution:** Used the official EICAR test file to ensure consistent detection.
 
  
 
