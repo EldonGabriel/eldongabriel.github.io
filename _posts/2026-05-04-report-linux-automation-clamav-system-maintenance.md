@@ -65,7 +65,7 @@ The system was configured by installing required tools, updating antivirus signa
 
 **Analysis:** The tilde (`~`) was not expanded correctly when used in the `--move` flag.
 
-**Fix**
+**Fix:**
 Use absolute path:
 ```bash
 --move=/home/eldon/quarantine
