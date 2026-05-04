@@ -27,7 +27,7 @@ The implementation includes:
 
 This ensures consistent system monitoring, reduced manual effort, and improved security posture.
 
----
+ 
 
 ## 1.2 Technical Task / Troubleshooting Process
 
