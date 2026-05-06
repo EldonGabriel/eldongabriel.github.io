@@ -33,8 +33,8 @@ Work involves evaluating security posture using structured frameworks and suppor
 | Technical Communication & Reporting Standards | 4 |
 | Risk Management & Security Frameworks | 4 |
 | Threat Modeling & Defensive Strategy | 2 |
-| Lab Demonstration | 2 |
-| **Total Governance Documents** | **12** |
+| Lab Demonstration | 0 |
+| **Total Governance Documents** | **10** |
 
 ---
 
@@ -138,38 +138,6 @@ Research examining cybersecurity frameworks, threat models, and security strateg
 <p>Research and analysis examining the security risks, technical challenges, and mitigation strategies for BYOD environments.</p>
 <p><strong>Skills:</strong> Strategic Analysis · BYOD Security · Threat Modeling</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/report-byod-in-organizations-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
-</div>
-
-</div>
-
----
-
-## Lab Demonstrations
-
-### 📊 Risk Assessment & Analysis Labs
-
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Risk Assessment and Threat Identification – v1.0.0</h5>
-<p>Identifying assets, threats, and vulnerabilities to evaluate organizational risk exposure.</p>
-<p align="center" style="margin-top:20px;">
-<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Request Access</span></p>
-</div>
-
-</div>
-
-### 📜 Policy & Compliance Labs
-
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Security Policy Review and Implementation – v1.0.0</h5>
-<p>Evaluating and applying security policies aligned with organizational and compliance requirements.</p>
-<p align="center" style="margin-top:20px;">
-<span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
-Request Access</span></p>
 </div>
 
 </div>
