@@ -38,7 +38,7 @@ Work involves evaluating security posture using structured frameworks and suppor
 
 ---
 
-# GRC Documentation
+# Governance, Risk, and Compliance (GRC) Documentation
 
 ### 📑 Technical Reporting & Communication
 
