@@ -12,11 +12,9 @@ image:
 
 # 0.0 Executive Summary
 
-This report explains how the NTFS USN Journal works and how it can be used in a forensic investigation.
+This report explains how the NTFS USN Journal works and how it can be used in forensic investigations. The goal was to improve the visibility of file activity on a Windows system. Using the `fsutil` tool, this project shows how Windows records file changes, such as create, delete, and modify events.
 
-The goal was to improve visibility of file activity on a Windows system. Using the `fsutil` tool, this project shows how Windows records file changes like create, delete, and modify events.
-
-The result is a clear method to track file activity in order. This helps detect attacks like timestomping and unauthorized file access. It also improves the system’s ability to support investigations.
+The result is a clear method for tracking file activity. This helps in detecting attacks, such as timestomping and unauthorized file access. It also improves the system’s ability to support the investigations.
 
  
 
@@ -32,27 +30,30 @@ The `fsutil` tool was used to:
 - Identify “Reason Codes” that show what type of file change happened  
 - Track file activity in order using USN records  
 
-This ensures file changes are recorded in a way that cannot be easily faked by changing timestamps.
+This ensures that file changes are recorded in a way that cannot be easily faked by changing the timestamps.
 
  
 
 ## 1.2 Technical Task / Troubleshooting Process
 
-This process focused on how NTFS tracks file changes and how to collect useful forensic data.
+This process focused on how NTFS tracks file changes and collects useful forensic data.
 
 ### Key Actions & Observations
 
 - Reviewed how the USN Journal records file and folder changes before they are written to the Master File Table (MFT)  
 
-Used `fsutil` commands:
+The following ‘fsutil` commands were used:
+
   - `fsutil usn queryjournal` to view journal details like size and next record  
   - `fsutil usn readjournal` to read file change events and reason codes  
 
 Performed analysis to:
+
   - Detect gaps in records that may show tampering  
   - Rebuild timelines using file references and USN values  
 
-Checked system conditions:
+The system conditions were checked as follows:
+
   - Confirmed the journal is enabled  
   - Reviewed how it grows and removes old data  
 
@@ -66,7 +67,7 @@ Checked system conditions:
 
 ## 1.3 Resolution and Validation
 
-The system was checked to confirm the USN Journal is active and recording data correctly.
+The system was checked to confirm that the USN Journal was active and that the data were recorded correctly.
 
 | Parameter        | Configuration Value              |
 |-----------------|--------------------------------|
@@ -98,14 +99,14 @@ The system was checked to confirm the USN Journal is active and recording data c
 ## 2.2 Security Implications & Recommendations
 
 ### Risk: Timestomping (Fake Timestamps)
-Attackers can change file timestamps to hide activity.  
+Attackers can change the file timestamps to hide their activities.  
 
 **Mitigation:** Use the USN Journal to verify the real order of file events during investigations.
 
  
 
 ### Risk: Journal Overwrite (Loss of Evidence)
-High system activity can cause older records to be deleted.  
+High system activity can delete older records.  
 
 **Mitigation:** Increase the journal size (`MaxSize`) on important systems to keep more history.
 
