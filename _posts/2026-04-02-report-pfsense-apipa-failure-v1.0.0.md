@@ -11,19 +11,19 @@ image:
 ---
 
 # 0.0 Executive Summary
-This report documents the identification and restoration of administrative access to a pfSense firewall. Connectivity was lost due to an APIPA address assignment on the Windows management host, which was resolved through manual IP realignment within the VirtualBox Internal Network environment.
+This report documents the identification and restoration of administrative access to the pfSense firewall. Connectivity was lost owing to an APIPA address assignment on the Windows management host, which was resolved through manual IP realignment within the VirtualBox Internal Network environment.
 
 
 # 1.0 pfSense Access Failure and Recovery
 
 ## 1.1 Project Description
-The objective of this task was to identify the root cause of the connectivity failure and restore access within a **VirtualBox Internal Network** lab environment. This scenario highlights the critical nature of Layer 3 (IP) alignment in segmented networks.
+The objective of this task was to identify the root cause of the connectivity failure and restore access within a **VirtualBox Internal Network** laboratory environment. This scenario highlights the critical nature of Layer 3 (IP) alignment in the segmented networks.
  
 ## 1.2 Technical Task / Troubleshooting Process
-The process focused on diagnosing why the WebGUI was unreachable despite services running on the pfSense instance.
+The process focused on diagnosing why the WebGUI was unreachable, despite the services running on the pfSense instance.
 
 **Key Actions & Observations**
-* **Identified APIPA:** Windows host was showing `169.254.x.x`, confirming a DHCP failure.
+* **Identified APIPA:** Windows host was showing `169.254.x.x`, confirming DHCP failure.
 * **Service Verification:** Confirmed HTTPS (Port 8443) and `pf` (Packet Filter) were active on pfSense using `sockstat`.
 * **Rule Inspection:** Used `pfctl` to ensure the firewall wasn't dropping management traffic.
 * **Segment Review:** Confirmed the VirtualBox adapter was correctly set to the "Internal Network" (LabNet).
@@ -31,7 +31,7 @@ The process focused on diagnosing why the WebGUI was unreachable despite service
 **Root Cause:** The Windows host reverted to APIPA because it lacked a static IP to match the pfSense LAN subnet.
 
 ## 1.3 Resolution and Validation
-Access was restored by manually aligning the host with the pfSense management subnet.
+Access was restored by manually aligning the host with pfSense management subnet.
 
 | Parameter | Configuration Value |
 | :--- | :--- |
