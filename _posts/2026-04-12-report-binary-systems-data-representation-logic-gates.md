@@ -41,16 +41,13 @@ The task focused on how computers use simple electrical states (1s and 0s) to re
 **Key Actions & Observations**
 
 * **Binary-to-Decimal Conversion:** A weighted bit table (128–1) was used to convert binary values into decimal numbers.
-
 * **Data Representation Auditing:**  
   - Mapped binary values to characters using ASCII  
   - Reviewed how UTF-8 supports more characters and languages  
 
-
 * **Logic Gate Modeling:**  
   - Studied AND, OR, and NOT gates  
   - Observed how they control decision-making in hardware  
-
 
 * **Refinement (RRF):**  A single-bit error can change the entire output. This demonstrates the importance of accurate data handling.
 
