@@ -12,13 +12,13 @@ image:
 
 # 0.0 Executive Summary
 
-This report explains how computers store and process data using binary systems, character encoding, and logic gates.
+This report explains how computers store and process data using binary systems, character encoding and logic gates.
 
-The goal was to understand how data moves from simple 0s and 1s into readable text, numbers, and images. This helps prevent mistakes when working with system logs, network data, and security investigations.
+The goal was to understand how data move from simple 0s and 1s into readable text, numbers, and images. This helps prevent errors when working with system logs, network data, and security investigations.
 
-By learning how binary conversion and encoding work, this report reduces the risk of misreading data or making errors during troubleshooting or incident response.
+By learning how binary conversion and encoding work, this study reduces the risk of misreading data or making errors during troubleshooting or incident response.
 
-The result is a clear understanding of how computers handle data at a low level, which improves accuracy when analyzing systems.
+The result is a clear understanding of how computers handle data at a low level, which improves the accuracy of system analysis.
 
  
 
@@ -26,7 +26,7 @@ The result is a clear understanding of how computers handle data at a low level,
 
 ## 1.1 Project Description
 
-The goal of this task was to understand how computers process data so errors can be avoided during system analysis and troubleshooting.
+The goal of this task was to understand how computers process data so that errors can be avoided during system analysis and troubleshooting.
 
 The process focused on three main areas:
 
@@ -34,7 +34,7 @@ The process focused on three main areas:
 - Character encoding (ASCII/UTF-8) to understand how text is stored  
 - Logic gates to explain how computers make decisions  
 
-This ensures that tasks like log analysis and packet inspection are based on correct data interpretation.
+This ensures that tasks such as log analysis and packet inspection are based on correct data interpretation.
 
  
 
@@ -45,7 +45,7 @@ The task focused on how computers use simple electrical states (1s and 0s) to re
 **Key Actions & Observations**
 
 * **Binary-to-Decimal Conversion:**  
-  Used a weighted bit table (128–1) to convert binary values into decimal numbers.
+  A weighted bit table (128–1) was used to convert binary values into decimal numbers.
 
 * **Data Representation Auditing:**  
   - Mapped binary values to characters using ASCII  
@@ -56,15 +56,15 @@ The task focused on how computers use simple electrical states (1s and 0s) to re
   - Observed how they control decision-making in hardware  
 
 * **Refinement (RRF):**  
-  A single bit error can change the entire output. This shows why accurate data handling is critical.
+  A single-bit error can change the entire output. This demonstrates the importance of accurate data handling.
 
 **Root Cause:**  
-Most data errors come from misunderstanding how binary and encoding work. This was fixed by using a clear and repeatable method for converting and validating data.
+Most data errors arise from a misunderstanding of how binary and encoding work. This was fixed using a clear and repeatable method for converting and validating the data.
 
  
 ## 1.3 Resolution and Validation
 
-The system was validated by testing binary conversion and logic operations.
+The system was validated by testing the binary conversion and logic operations.
 
 | Parameter | Configuration Value |
 | :--- | :--- |
@@ -95,12 +95,12 @@ The system was validated by testing binary conversion and logic operations.
 ## 2.2 Security Implications and Recommendations
 
 **Risk: Forensic Misinterpretation**  
-Incorrectly decoding binary data can lead to wrong conclusions during an investigation.  
+Incorrectly decoding binary data can lead to incorrect conclusions during an investigation.  
 
 **Mitigation:** Use consistent conversion methods and verify results with reverse calculations.
 
 **Risk: Encoding Mismatches and Injection**  
-Different encoding formats can cause errors or security issues.  
+Different encoding formats can cause errors and security issues.  
 
 **Mitigation:** Standardize encoding (UTF-8) and validate all inputs.
 
