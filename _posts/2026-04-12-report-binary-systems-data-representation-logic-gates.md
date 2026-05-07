@@ -12,13 +12,9 @@ image:
 
 # 0.0 Executive Summary
 
-This report explains how computers store and process data using binary systems, character encoding and logic gates.
+This report explains how computers store and process data using binary systems, character encoding and logic gates. The goal was to understand how data move from simple 0s and 1s into readable text, numbers, and images. This helps prevent errors when working with system logs, network data, and security investigations.
 
-The goal was to understand how data move from simple 0s and 1s into readable text, numbers, and images. This helps prevent errors when working with system logs, network data, and security investigations.
-
-By learning how binary conversion and encoding work, this study reduces the risk of misreading data or making errors during troubleshooting or incident response.
-
-The result is a clear understanding of how computers handle data at a low level, which improves the accuracy of system analysis.
+By learning how binary conversion and encoding work, this study reduces the risk of misreading data or making errors during troubleshooting or incident response. The result is a clear understanding of how computers handle data at a low level, which improves the accuracy of system analysis.
 
  
 
