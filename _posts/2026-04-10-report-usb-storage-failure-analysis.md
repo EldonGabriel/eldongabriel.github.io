@@ -12,9 +12,9 @@ image:
 
 # 0.0 Executive Summary
 
-This report documents the investigation of a USB storage failure found during a disk validation test. The goal was to find the root cause of repeated `CHKDSK` failures (error code `6e7466`) and system unresponsiveness. The investigation focused on determining whether the issue was caused by a software problem or a hardware failure.
+This report documents an investigation of a USB storage failure found during a disk validation test. The goal was to determine the root cause of repeated `CHKDSK` failures (error code `6e7466`) and system unresponsiveness. The investigation focused on determining whether the issue was caused by a software or hardware failure.
 
-The results confirmed a physical hardware failure. Testing showed a full I/O lock condition that could not be controlled by the operating system. The device was removed from use and recommended for physical destruction to prevent possible data recovery.
+The results confirmed the occurrence of a physical hardware failure. Testing showed a full I/O lock condition that could not be controlled by an operating system. The device was removed from use and recommended for physical destruction to prevent possible data recovery attempts.
 
  
 
@@ -22,39 +22,35 @@ The results confirmed a physical hardware failure. Testing showed a full I/O loc
 
 ## 1.1 Project Description
 
-The goal of this task was to test a USB storage device and confirm whether it was safe and reliable to use.
+The goal of this task was to test a USB storage device and confirm whether it was safe and reliable.
 
 The process used a step-by-step isolation method to:
 - Test the device across different environments (Virtual Machine and Physical Host)
 - Check hardware integrity using full disk operations, including full format
 - Document how the device behaved when standard repair tools failed
 
-This approach helps identify hardware failures early and prevents wasted time troubleshooting software that is not the cause.
+This approach helps identify hardware failures early and prevents wasted time in troubleshooting software that is not the cause.
 
  
 
 ## 1.2 Technical Task / Troubleshooting Process
 
-The process focused on identifying the failure point after logical repair attempts became unresponsive.
+The process focused on identifying the failure point after the logical repair attempts became unresponsive.
 
 **Key Actions and Observations**
 
 * **Initial Symptom Identification:** `CHKDSK` returned an error (`6e7466`), and the device was unstable during file operations.
-
-* **Environmental Isolation:** The device was tested on the physical host system to rule out virtualization issues. The same failure occurred.
-
+* **Environmental Isolation:** The device was tested on the physical host system to rule out virtualization issues. The same failure occurred again.
 * **Low-Level Validation:** A full format (non-quick) was started to test all disk sectors.
+* **Operational Observation:** The format and `CHKDSK` processes became unresponsive. The system only recovered after physically removing the USB device. This indicates a hardware-level failure in the device.
 
-* **Operational Observation:** The format and `CHKDSK` processes became unresponsive. The system only recovered after the USB device was physically removed. This indicates a hardware-level failure.
-
-**Root Cause:**  
-The device experienced a hardware-level I/O failure, likely caused by internal controller or memory degradation. This prevented the operating system from completing disk operations and caused the device to become unresponsive.
+**Root Cause:** The device experienced a hardware-level I/O failure, which was likely caused by internal controller or memory degradation. This prevented the operating system from completing the disk operations and caused the device to become unresponsive.
 
  
 
 ## 1.3 Resolution and Validation
 
-The investigation ended with the device being removed from use after confirming hardware failure.
+The investigation ended with the removal of the device after confirming hardware failure.
 
 | Parameter | Configuration Value |
 | :--- | :--- |
@@ -88,7 +84,7 @@ The investigation ended with the device being removed from use after confirming 
 ## 2.2 Security Implications & Recommendations
 
 **Risk: Data Loss due to Silent Failure**  
-USB devices can fail without warning, leading to data loss or corruption.
+USB devices can fail without warning, leading to data loss and corruption.
 
 **Mitigation:**  
 - Perform regular disk checks using CHKDSK or similar tools  
@@ -98,7 +94,7 @@ USB devices can fail without warning, leading to data loss or corruption.
  
 
 **Risk: Incomplete Data Sanitization**  
-Because the device failed during formatting, data could not be fully erased.
+Because the device failed during formatting, the data could not be fully erased.
 
 **Mitigation:**  
 - Treat the device as if data is still recoverable  
