@@ -12,9 +12,9 @@ image:
 
 ## 0.0 Executive Summary
 
-This report explains the steps taken to fix USB detection issues and improve USB passthrough for a Windows 10 virtual machine (VM). The goal was to ensure external USB devices worked reliably and to reduce the risk of data corruption caused by unstable connections or conflicts on the host system.
+This report explains the steps taken to fix USB detection issues and improve USB passthrough for a Windows 10 virtual machine (VM). The goal was to ensure that external USB devices worked reliably and to reduce the risk of data corruption caused by unstable connections or conflicts on the host system.
 
-The issue was resolved by using VirtualBox USB filters instead of manual USB connections. The fix was confirmed using `diskpart` to verify the drive was detected and `chkdsk` logs to confirm the file system was healthy and accessible.
+This issue was resolved by using VirtualBox USB filters instead of manual USB connections. The fix was confirmed using `diskpart` to verify that the drive was detected and `chkdsk` logs to confirm that the file system was healthy and accessible.
 
  
 
@@ -22,7 +22,7 @@ The issue was resolved by using VirtualBox USB filters instead of manual USB con
 
 ### 1.1 Project Description
 
-The goal of this task was to fix an issue where the VM could not detect or use external USB devices.
+The goal of this task was to fix the issue where the VM could not detect or use external USB devices.
 
 A structured troubleshooting process was used to:
 
@@ -30,7 +30,7 @@ A structured troubleshooting process was used to:
 * Fix resource conflicts caused by open files or processes locking the USB device
 * Check file system health using Windows Event Viewer logs
 
-This ensures that data transfers using external storage happen on a stable and verified system.
+This ensures that data transfers using external storage occur on a stable and verified system.
 
  
 
@@ -40,30 +40,26 @@ The process focused on identifying where the failure occurred in the virtualizat
 
 **Key Actions & Observations**
 
-* **Infrastructure Check:** The host system detected the USB device, but the VM did not. This showed a passthrough configuration issue.
-
+* **Infrastructure Check:** The host system detected the USB device, but the VM did not. This indicates a passthrough configuration issue.
 * **Hardware Mapping:** VirtualBox USB filters were configured using the device’s Vendor and Product ID so the VM could automatically detect the USB device.
-
 * **Volume Remediation:** Errors such as “Cannot open volume for direct access” were fixed by closing any active handles and running: 'chkdsk E: /x /f /v'
-
 * **File System Recovery:** In cases where the volume became inaccessible or returned errors (e.g., RAW state or CHKDSK failure), the drive was reformatted and rebuilt using NTFS before validation.
 
 
-This forced the drive to dismount and performed a full file system check.
+This forced the drive to dismount and perform a full file system check.
 
 * **Verification of Evidence:**
 
   * `diskpart` was used to confirm the volume was detected and assigned a drive letter
   * `wevtutil` was used to export `chkdsk` logs from the Event Viewer to confirm the file system was clean
 
-**Root Cause:**
-The issue was caused by missing VirtualBox USB filters combined with active file locks or processes on the host system. These prevented the VM from gaining proper access to the USB device.
+**Root Cause:** This issue was caused by missing VirtualBox USB filters combined with active file locks or processes on the host system. This prevented the VM from gaining proper access to the USB device.
 
  
 
 ### 1.3 Resolution and Validation
 
-Access was restored by setting up USB filters and confirming the file system was working correctly.
+Access was restored by setting up USB filters and confirming that the file system was working correctly.
 
 | Parameter       | Configuration Value            |
 | :-------------- | :----------------------------- |
@@ -75,11 +71,8 @@ Access was restored by setting up USB filters and confirming the file system was
 **Validation Steps**
 
 1. **Functional Test:** The USB device was reconnected and automatically detected by the VM through the USB filter.
-
 2. **Volume Verification:** Running `diskpart list volume` confirmed the drive (E:) was visible and usable.
-
 3. **Data Integrity Check:** A read and write test confirmed the drive worked correctly, and `chkdsk` completed without reporting errors.
-
 4. **Advanced Integrity Validation:** Additional checks using `fsutil` confirmed the volume was not marked dirty, self-healing was enabled, and no corruption remained.
 
  
@@ -102,12 +95,12 @@ Unstable or improper disconnection of USB devices can damage the file system, in
 **Mitigation:** Run `chkdsk` after any passthrough failure.
 
 **Risk: Resource Conflicts**  
-Open files or processes on the host system can prevent the VM from accessing the USB device.  
+Open files or processes on the host system can prevent the VM from accessing USB devices.  
 
 **Mitigation:** Close all programs using the USB drive before connecting it to the VM.
 
 **Risk: Silent Volume Corruption**  
-USB passthrough failures can leave the file system in an inconsistent state without immediate visibility.
+USB passthrough failures can leave the file system in an inconsistent state without immediate detection.
 
 **Mitigation:** Perform full validation using CHKDSK and FSUTIL before reusing the device.
 
