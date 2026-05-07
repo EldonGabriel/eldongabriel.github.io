@@ -34,7 +34,7 @@ All configurations are validated to confirm expected system behavior and securit
 | Windows Systems Administration | 15 | 
 | System Administration & Maintenance | 3 |
 | Troubleshooting & System Diagnostics | 8 |
-| Linux Systems Administration | 8 |
+| Linux Systems Administration | 9 |
 | Virtualization & Infrastructure | 7 |
 | Lab Demonstrations (Hands-On Execution) | 33 |
 | Managed Operations & Automation | 4 |
@@ -404,6 +404,9 @@ Administration and hardening of Linux-based systems, including user management, 
 </div>
 
 </div>
+
+<p></p>
+
 
 ### 🐧 Linux Endpoint Security & Admin Controls
 
