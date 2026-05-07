@@ -12,9 +12,9 @@ image:
 
 # 0.0 Executive Summary
 
-This report explains how repeated USB failures caused system crashes during a Kali Linux lab running in a virtual machine. The goal was to find the cause of the connection drops and still complete the task of setting up a secure Linux filesystem. The issue was traced to unstable communication between the Windows host and VirtualBox during USB passthrough. This caused the USB device to disconnect during heavy write operations like formatting. 
+This report explains how repeated USB failures caused system crashes during a Kali Linux laboratory running in a virtual machine. The goal was to determine the cause of the connection drops and complete the task of setting up a secure Linux filesystem. This issue was traced to unstable communication between the Windows host and VirtualBox during the USB passthrough. This causes the USB device to disconnect during heavy write operations, such as formatting. 
 
-The system was stabilized by adjusting power settings and switching the virtual USB controller to a more reliable mode. Once stable, Linux security controls were applied using the `noexec` mount option and proper file ownership. This ensured the USB could store data but could not run malicious files.
+The system was stabilized by adjusting the power settings and switching the virtual USB controller to a more reliable mode. Once stable, Linux security controls were applied using the `noexec` mount option and proper file ownership. This ensured that the USB could store data but could not run malicious files.
 
  
 
@@ -22,7 +22,7 @@ The system was stabilized by adjusting power settings and switching the virtual 
 
 ## 1.1 Project Description
 
-The goal of this task was to fix USB instability in a virtual machine and safely manage external storage using Linux.
+The goal of this task was to fix USB instability in a virtual machine and safely manage external storage using the Linux operating system.
 
 The work focused on:
 
@@ -31,13 +31,13 @@ The work focused on:
 - **Improving Security:** Prevent files on the USB from being executed  
 - **Managing Access:** Assign correct ownership so normal users can safely use the device  
 
-This ensures the USB device is both usable and secure inside a virtual environment.
+This ensures that the USB device is both usable and secure inside a virtual environment.
 
  
 
 ## 1.2 Technical Task / Troubleshooting Process
 
-The process focused on finding where the failure was happening and fixing it step by step.
+The process focused on identifying the source of the failure and fixing it step by step.
 
 ### Key Actions & Observations
 
@@ -58,14 +58,14 @@ The process focused on finding where the failure was happening and fixing it ste
 
 **4. Root Cause**
 
-The failure was caused by unstable USB passthrough between the host system and VirtualBox.  
-This instability appeared during high disk activity and caused the device to disconnect.
+The failure was caused by an unstable USB passthrough between the host system and VirtualBox.  
+This instability appeared during high disk activity and caused the device to be disconnected.
 
  
 
 ## 1.3 Resolution and Validation
 
-The system was stabilized and secured using the following setup:
+The system was stabilized and secured using the following setup.
 
 | Parameter | Configuration Value |
 | :--- | :--- |
