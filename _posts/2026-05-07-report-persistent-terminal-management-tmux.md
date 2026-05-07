@@ -1,6 +1,6 @@
 ---
 title: "REPORT – Persistent Terminal Management with Tmux – v1.0.0"
-date: 2026-05-08
+date: 2026-05-07
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
 tags: [Linux, Tmux, Terminal Multiplexing, System Administration, Productivity]
