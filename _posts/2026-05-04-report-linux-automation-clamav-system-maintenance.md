@@ -14,24 +14,24 @@ image:
 
 ## 1.1 Project Description
 
-This task focuses on automating system maintenance and security operations on an Ubuntu Server 24.04 LTS environment.
+This task focuses on automating system maintenance and security operations in an Ubuntu Server 24.04 LTS environment.
 
-The objective is to replace manual administrative tasks with scheduled automation using Cron, while integrating ClamAV to provide continuous malware detection and response.
+The objective is to replace manual administrative tasks with scheduled automation using Cron while integrating ClamAV to provide continuous malware detection and response.
 
-The implementation includes:
+The implementation includes the following:
 
 - **Scheduled Malware Scanning:** ClamAV scans executed every 12 hours  
 - **Automated Quarantine:** Infected files moved to a restricted directory  
 - **System Monitoring:** Resource usage logged every 3 hours  
 - **Scheduled Maintenance:** Weekly system reboot to maintain stability  
 
-This ensures consistent system monitoring, reduced manual effort, and improved security posture.
+This ensures consistent system monitoring, reduces manual effort, and improves the security posture.
 
  
 
 ## 1.2 Technical Task / Troubleshooting Process
 
-The system was configured by installing required tools, updating antivirus signatures, and defining scheduled jobs using crontab.
+The system was configured by installing the required tools, updating antivirus signatures, and defining scheduled jobs using crontab.
 
 ### Key Actions
 
@@ -50,7 +50,7 @@ The system was configured by installing required tools, updating antivirus signa
 0 3 * * 1 /sbin/reboot
 ```
 
-- Implemented quarantine using:
+- Quarantine implemented using:
 ```bash
 --move=/home/eldon/quarantine
 ```
@@ -97,7 +97,7 @@ hexdump -C /home/eldon/clamav_test/eicar.com.txt | head -n 2
 
 ## 1.3 Resolution and Validation
 
-System functionality was validated through log analysis and file movement.
+The system functionality was validated through log analysis and file movement.
 
 | Parameter | Configuration |
 |----------|--------------|
@@ -141,7 +141,7 @@ cat ~/logs/resource_usage.log
 ### Risks & Mitigation
 
 **Risk: Signature Evasion (Polymorphism)**  
-Small changes in malware can bypass signature-based detection.
+Small changes in malware can bypass signature-based detections.
 
 **Mitigation:**  
 - Implement layered security controls  
@@ -150,7 +150,7 @@ Small changes in malware can bypass signature-based detection.
  
 
 **Risk: Insecure Quarantine Directory**  
-Improper permissions may expose isolated malware.
+Improper permissions may expose the isolated malware.
 
 **Mitigation:**
 ```bash
