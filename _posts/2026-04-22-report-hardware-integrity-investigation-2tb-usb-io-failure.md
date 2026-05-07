@@ -14,20 +14,20 @@ image:
 
 This report documents the hardware integrity investigation and terminal failure analysis of a 2TB external USB storage device.
 
-The objective was to determine the root cause of repeated I/O timeouts and "Device Descriptor" errors encountered during cross-platform use (Windows 11 and Kali Linux). The investigation aimed to differentiate between driver-level conflicts in a virtualized environment and permanent physical hardware degradation.
+The objective was to determine the root cause of repeated I/O timeouts and "Device Descriptor" errors encountered during cross-platform use (Windows 11 and Kali Linux). The investigation aimed to differentiate between driver-level conflicts in a virtualized environment and permanent degradation of physical hardware.
 
-The result confirmed a terminal hardware-level I/O failure. Diagnostic attempts, including MBR partition table writes using `gparted` and driver stack resets, triggered consistent system-wide I/O locks and controller crashes.
+The results confirmed a terminal hardware-level I/O failure. Diagnostic attempts, including MBR partition table writes using `gparted` and driver stack resets, triggered consistent system-wide I/O locks and controller crashes.
 
-This confirms the device is no longer suitable for secure administrative use and requires secure disposal or physical destruction to mitigate potential data exposure.
+This confirms that the device is no longer suitable for secure administrative use and requires secure disposal or physical destruction to mitigate potential data exposure.
 
  
 # 1.0 Hardware Integrity Investigation: 2TB USB Failure
 
 ## 1.1 Project Description
 
-The goal of this task was to perform a definitive diagnostic of a high-capacity storage device to ensure reliability for technical operations.
+The goal of this task was to perform a definitive diagnosis of a high-capacity storage device to ensure reliability for technical operations.
 
-A multi-layered testing approach was used to:
+A multilayered testing approach was used to:
 
  **Analyze Technical Architecture:** Evaluate communication between the USB flash controller and the OS bus under write load  
 
@@ -35,13 +35,13 @@ A multi-layered testing approach was used to:
  
  **Improve Accountability:** Document low-level error codes (e.g., Rufus 0xC0030037) for audit and validation  
 
-This ensures storage media is validated before use in administrative or forensic operations.
+This ensures that the storage media are validated before use in administrative or forensic operations.
 
  
 
 ## 1.2 Technical Task / Troubleshooting Process
 
-The process focused on identifying the failure point using low-level disk tools and driver analysis.
+The process focused on identifying the failure point using low-level disk tools and driver analyses.
 
 ### Key Actions & Observations
 
@@ -65,13 +65,13 @@ The process focused on identifying the failure point using low-level disk tools 
   - Confirms device disconnect during active operations
 
 **Root Cause:**  
-Behavior is consistent with NAND flash controller failure or firmware-level fault. The controller fails during write operations, causing a physical I/O lock that bypasses normal software control.
+This behavior is consistent with NAND flash controller failure or firmware-level faults. The controller fails during write operations, causing a physical I/O lock that bypasses the normal software control.
 
  
 
 ## 1.3 Resolution and Validation
 
-The device was verified as non-functional and decommissioned.
+The device was verified to be non-functional and decommissioned.
 
 | Parameter | Configuration Value |
 | :--- | :--- |
@@ -103,7 +103,7 @@ The device was verified as non-functional and decommissioned.
 ## 2.2 Security Implications and Recommendations
 
 **Risk: Incomplete Data Sanitization**  
-Failed controllers prevent full data wipes, leaving residual data at risk.
+Failed controllers prevent complete data wipes, leaving residual data at risk.
 
 **Mitigation:** Physically destroy storage media that fails write validation.
 
