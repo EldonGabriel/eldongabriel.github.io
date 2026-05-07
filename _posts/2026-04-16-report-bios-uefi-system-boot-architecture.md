@@ -1,4 +1,4 @@
----
+ ---
 title: "REPORT – BIOS, UEFI, and System Boot Architecture – v1.0.0"
 date: 2026-04-16
 author: Eldon Gabriel
@@ -12,9 +12,9 @@ image:
 
 # 0.0 Executive Summary
 
-This report explains how a computer starts from a powered-off state and loads an operating system. It focuses on firmware systems called Basic Input Output System (BIOS) and Unified Extensible Firmware Interface (UEFI), along with the Power On Self Test (POST) process. The goal is to understand what happens before the operating system loads, including hardware checks, boot device selection, and system security controls.
+This report explains how a computer starts from a powered-off state and loads the operating system. It focuses on firmware systems called Basic Input Output System (BIOS) and Unified Extensible Firmware Interface (UEFI), along with the Power-On Self-Test (POST) process. The goal is to understand what happens before the operating system loads, including hardware checks, boot device selection, and system security control.
 
-The result is a clear view of the startup process, which helps with troubleshooting boot failures and improving system security.
+The result is a clear view of the startup process, which helps troubleshoot boot failures and improve system security.
 
 
 
@@ -22,22 +22,22 @@ The result is a clear view of the startup process, which helps with troubleshoot
 
 ## 1.1 Project Description
 
-The goal of this task was to understand how a computer starts and prepares hardware before loading the operating system.
+The goal of this task is to understand how a computer starts and prepares the hardware before loading the operating system.
 
 The focus was on the startup process to:
 
-- **Understand System Startup:** Reviewed each step from power on to operating system loading.
-- **Identify Hardware Checks:** Studied how the system verifies hardware using Power On Self Test.
-- **Understand Boot Control:** Learned how firmware controls boot order and system startup behavior.
-- **Improve Security Awareness:** Identified how Secure Boot protects the system from unsafe startup code.
+- **Understand System Startup:** Reviewed each step from powering on to operating system loading.
+- **Identify Hardware Checks:** Studied how the system verifies hardware using a power-on self-test.
+- ** Understanding Boot Control:** Learning how firmware controls boot order and system startup behavior.
+- ** Improving Security Awareness:** Identifying how Secure Boot protects the system from unsafe startup codes.
 
-This helps improve troubleshooting skills for systems that fail to boot correctly.
+This helps improve the troubleshooting skills for systems that fail to boot correctly.
 
 
 
 ## 1.2 Technical Task / Troubleshooting Process
 
-The process focused on how firmware controls system startup and how hardware is validated before the operating system loads.
+The process focused on how the firmware controls the system startup and how the hardware is validated before the operating system loads.
 
 **Key Actions & Observations**
 
@@ -46,20 +46,20 @@ The process focused on how firmware controls system startup and how hardware is 
 - **UEFI:** Identified as modern firmware that supports faster startup, larger storage drives, and stronger security features.
 
 **POST Process:**
-- Reviewed how the system checks the processor, memory, storage, and graphics hardware during startup.
-- Noted that failures at this stage may show error messages or beep codes if the screen is not available.
+- Reviewed how the system checks the processor, memory, storage, and graphics hardware during the startup.
+- Noted that failures at this stage may show error messages or beep codes if the screen is unavailable.
 
 **Complementary Metal Oxide Semiconductor Memory (CMOS) and System Configuration:**
-- Identified how system settings such as boot order and time are stored.
-- Confirmed that a small battery helps preserve these settings when the system is powered off.
+- Identified how system settings, such as boot order and time, are stored.
+- Confirmed that a small battery helps preserve the settings when the system is powered off.
 
 **Boot Process Analysis:**
-- Reviewed how the system selects a boot device and loads a boot program.
-- Identified the handoff from firmware to bootloader and then to the operating system.
+- Reviewed how the system selects a boot device and loads the boot program.
+- Identified the handoff from the firmware to the bootloader and then to the operating system.
 
 **Security Controls:**
-- **Secure Boot:** Confirmed as a feature that checks if boot files are trusted before allowing them to run.
-- Helps prevent unauthorized or modified startup software from loading.
+- **Secure Boot:** This feature checks whether boot files are trusted before allowing them to run.
+- Helps prevent unauthorized or modified startup software from being loaded.
 
 **Root Cause:** Most boot failures are caused by incorrect firmware settings, faulty hardware (especially memory), or incorrect boot device selection.
 
@@ -67,7 +67,7 @@ The process focused on how firmware controls system startup and how hardware is 
  
 ## 1.3 Resolution and Validation
 
-The system boot process was reviewed to confirm correct startup behavior and secure configuration.
+The system boot process was reviewed to confirm the correct startup behavior and secure configuration.
 
 | Parameter | Configuration Value |
 | :--- | :--- |
@@ -88,41 +88,41 @@ The system boot process was reviewed to confirm correct startup behavior and sec
 
 ## 2.1 Key Takeaways
 
-- Firmware starts the computer before the operating system loads.  
-- Power On Self Test checks if hardware is working correctly.  
+- The firmware starts the computer before the operating system loads.  
+- Power-On Self Test checks if the hardware is functioning correctly.  
 - Boot order controls which device the system starts from.  
-- Secure Boot helps prevent unsafe software from running at startup.  
-- Complementary Metal Oxide Semiconductor memory stores system settings like boot configuration and time.  
+Secure Boot helps prevent unsafe software from running at startup.  
+- Complementary Metal Oxide Semiconductor memory stores system settings, such as boot configuration and time.  
 
  
 
 ## 2.2 Security Implications & Recommendations
 
 **Risk: Boot-Level Malware**  
-Malware can attempt to load before the operating system starts.  
+Malware can attempt to load before the operating system is started.  
 
 **Mitigation:** Enable Secure Boot to block untrusted startup code.
 
 **Risk: Unauthorized Boot Changes**  
-Attackers or users with physical access can change boot settings.  
+Attackers or users with physical access can change the boot settings.  
 
 **Mitigation:** Set a firmware administrator password and restrict physical access.
 
 **Risk: Incorrect Boot Configuration**  
-Wrong boot order can cause system failure or boot into unsafe devices.  
+An incorrect boot order can cause system failure or boot into unsafe devices.  
 
 **Mitigation:** Regularly verify boot settings, especially after updates or hardware changes.
 
 **Best Practices**
 
 - Always enable Secure Boot on supported systems.  
-- Disable unused boot devices such as external drives when not needed.  
-- Protect firmware settings with a password.  
-- Keep firmware updated from trusted vendor sources.  
-- Document boot configuration for troubleshooting consistency.  
+- Disable unused boot devices, such as external drives, when not needed.  
+- Protect firmware settings using a password.  
+- Keep the firmware updated from trusted vendor sources.  
+- Documented boot configuration for troubleshooting consistency.  
 
 **Framework Alignment**
 
-- Supports **NIST Cybersecurity Framework (Protect function)** by securing system startup.  
+- Supports the **NIST Cybersecurity Framework (Protect function)** by securing the system startup.  
 - Aligns with **system hardening best practices** for endpoint protection.  
-- Reduces risk of pre-operating system compromise.  
+- Reduces the risk of preoperative system compromise.  
