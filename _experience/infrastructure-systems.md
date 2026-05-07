@@ -34,11 +34,11 @@ All configurations are validated to confirm expected system behavior and securit
 | Windows Systems Administration | 15 | 
 | System Administration & Maintenance | 3 |
 | Troubleshooting & System Diagnostics | 8 |
-| Linux Systems Administration | 9 |
+| Linux Systems Administration | 10 |
 | Virtualization & Infrastructure | 7 |
 | Lab Demonstrations (Hands-On Execution) | 33 |
 | Managed Operations & Automation | 4 |
-| **Total Labs Documented** | **85** |
+| **Total Labs Documented** | **86** |
 
 ---
 
@@ -386,6 +386,15 @@ Administration and hardening of Linux-based systems, including user management, 
 <p><strong>Skills:</strong> Linux Administration · Performance Monitoring · Resource Analysis</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-linux-system-resources-monitoring/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Persistent Terminal Management with Tmux – v1.0.0</h5>
+<p>Implemented persistent terminal session management using Tmux to support multi-pane monitoring, session durability, and efficient Linux administration workflows.</p>
+<p><strong>Skills:</strong> Linux Administration · Tmux · Terminal Multiplexing · Session Management</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/report-persistent-terminal-management-with-tmux-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
 </p>
 </div>
 
