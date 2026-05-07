@@ -138,8 +138,6 @@ cat ~/logs/resource_usage.log
 
 ## 2.2 Security Implications & Recommendations
 
-### Risks & Mitigation
-
 **Risk: Signature Evasion (Polymorphism)**  
 Small changes in malware can bypass signature-based detections.
 
@@ -147,7 +145,6 @@ Small changes in malware can bypass signature-based detections.
 - Implement layered security controls  
 - Combine scanning with monitoring  
 
- 
 
 **Risk: Insecure Quarantine Directory**  
 Improper permissions may expose the isolated malware.
@@ -173,5 +170,3 @@ chmod 700 /home/eldon/quarantine
 - NIST SP 800-53 (SI-3) – Malicious Code Protection  
 - CIS Control 10 – System Monitoring and Integrity  
 - ISO/IEC 27001 (A.12.2.1) – Malware Protection  
-
- 
