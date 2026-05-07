@@ -12,11 +12,11 @@ image:
 
 # 0.0 Executive Summary
 
-This report explains how Remote Desktop Protocol (RDP) access was configured and fixed on a Windows 10 virtual machine hosted in AWS.
+This report explains how Remote Desktop Protocol (RDP) access was configured and fixed on a Windows 10 virtual machine hosted on AWS.
 
-The main goal was to reduce the risk of being locked out of the system and to prevent service downtime. This was done by using local account management and Group Policy checks to control who can connect remotely.
+The main goal was to reduce the risk of being locked out of the system and prevent service downtime. This was done using local account management and Group Policy checks to control who could connect remotely.
 
-The final result improved system security by replacing the default setup, where only the original user could connect. The updated configuration allows specific authorized users to access the system through RDP in a controlled and reliable way.
+The final result improved system security by replacing the default setup, in which only the original user could connect. The updated configuration allows specific authorized users to access the system through RDP in a controlled and reliable manner.
 
 
  
@@ -24,51 +24,51 @@ The final result improved system security by replacing the default setup, where 
 
 ## 1.1 Project Description
 
-The goal of this task was to set up and verify proper RDP access so that users could connect without issues while preventing unauthorized access.
+The goal of this task was to set up and verify proper RDP access so that users could connect without issues, while preventing unauthorized access.
 
-This was done using an AWS-hosted virtual machine.
+This was performed using an AWS-hosted virtual machine.
 
-The main actions included:
+The main actions included the following:
 - Allowing only authorized users to log in through RDP  
 - Ensuring users were placed in the correct local groups  
 - Confirming that system settings and firewall rules allowed remote connections  
 - Documenting the setup so it can be reused on other instances  
 
-These steps help protect remote access and prevent misconfiguration that could block access to the system.
+These steps help protect remote access and prevent misconfigurations that could block access to the system.
 
  
 
 ## 1.2 Technical Task / Troubleshooting Process
 
-The process focused on finding issues in the default RDP configuration and applying the correct settings to fix them.
+The process focused on identifying issues in the default RDP configuration and applying the correct settings to resolve them.
 
 ### Key Actions & Observations
 
 - Reviewed the default system setup and identified that user group membership was missing or incomplete  
 
-Used the following tools:
+The following tools were used:
   - Local Users and Groups (lusrmgr.msc)  
   - Local Group Policy Editor (gpedit.msc)  
 
-Updated access control by:
+Updated access control by
   - Adding the user to the "Remote Desktop Users" group  
   - Checking firewall rules to allow RDP traffic  
   - Verifying that Remote Desktop Services were running  
 
-Confirmed supporting components:
+Confirmed supporting components included the following:
   - Remote Desktop Services  
   - Windows Defender Firewall
   
 - Recorded all steps to allow repeatable deployment on new AWS instances  
 
 **Root Cause:**  
-Default Windows and AWS-provisioned configurations may restrict RDP access to initial administrative accounts. Additional users cannot connect unless explicitly added to the “Remote Desktop Users” group and supporting Remote Desktop services are properly enabled. This issue was resolved by granting the required group membership and verifying required services were active.
+Default Windows and AWS-provisioned configurations may restrict RDP access to the initial administrative accounts. Additional users cannot connect unless explicitly added to the “Remote Desktop Users” group and supporting Remote Desktop services are properly enabled. This issue was resolved by granting the required group membership and verifying that the required services were active.
 
 
  
 ## 1.3 Resolution and Validation
 
-The configuration was applied and tested to confirm that remote access worked correctly.
+The configuration was applied and tested to confirm that the remote access functioned correctly.
 
 | Parameter | Configuration Value |
 | :--- | :--- |
@@ -106,7 +106,7 @@ The configuration was applied and tested to confirm that remote access worked co
 ## 2.2 Security Implications and Recommendations
 
 **Risk: Loss of Administrative Access**  
-Incorrect RDP settings or firewall rules can prevent administrators from accessing the system.
+Incorrect RDP settings or firewall rules can prevent administrators from accessing the systems.
 
 **Mitigation:** Keep clear documentation of all RDP-related configurations and user group assignments.
 
