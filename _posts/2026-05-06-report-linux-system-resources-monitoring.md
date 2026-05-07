@@ -98,7 +98,7 @@ The monitoring configuration was validated by checking the command accuracy and 
 
 ## 2.2 Security Implications and Recommendations
 
-### Risk: Resource Exhaustion (Denial of Service)
+**Risk: Resource Exhaustion (Denial of Service)**
 
 Unmonitored processes can consume excessive CPU or memory resources, causing system instability and service interruption.
 
@@ -106,7 +106,7 @@ Unmonitored processes can consume excessive CPU or memory resources, causing sys
 * Monitored swap usage and sustained high CPU utilization.
 * Establish baseline performance thresholds.
 
-### Risk: Compromised User Activity
+**Risk: Compromised User Activity**
 
 Compromised accounts may execute unauthorized background processes, such as cryptominers or resource abuse scripts.
 
