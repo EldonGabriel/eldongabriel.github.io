@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Eldon Gabriel
-subtitle: System Administration & Security Operations
+subtitle: System Administration & Infrastructure Security
 tagline: Building, Securing, and Troubleshooting Real-World Systems
 permalink: /
 image:
