@@ -31,14 +31,14 @@ All configurations are validated to confirm expected system behavior and securit
 | Category | Labs |
 |--------|------|
 | Technical Foundations | 7 |  
-| Windows Systems Administration | 7 | 
+| Windows Systems Administration | 15 | 
 | System Administration & Maintenance | 3 |
 | Troubleshooting & System Diagnostics | 8 |
-| Linux Systems Administration | 3 |
+| Linux Systems Administration | 8 |
 | Virtualization & Infrastructure | 7 |
-| Lab Demonstrations (Hands-On Execution) | 29 |
+| Lab Demonstrations (Hands-On Execution) | 33 |
 | Managed Operations & Automation | 4 |
-| **Total Labs Documented** | **67** |
+| **Total Labs Documented** | **85** |
 
 ---
 
@@ -242,7 +242,7 @@ View Report</a>
 </div>
 
 </div>
-
+<p></p>
 
  
 ### ⚙️ System Administration & Maintenance
@@ -569,7 +569,7 @@ Design and deployment of virtualized environments used to support secure system 
 
 </div>
 
-### 🐧 Linux Administration & Security Labs
+### 🐧 Linux Systems Administration Labs
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -630,6 +630,30 @@ Design and deployment of virtualized environments used to support secure system 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>LAB – Secure Linux Administration with Webmin – v1.0.0</h5>
 <p>Deployed and managed Webmin for centralized administration of users, services, and system configurations.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Disk Partitioning, Formatting, and Mount Control in Linux – v1.0.0</h5>
+<p>Configured Linux disk partitions, created EXT4 and FAT32 filesystems, and applied mount controls to manage storage accessibility and filesystem behavior.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Linux Cron Jobs & Log Archiving (24H) – v1.0.0</h5>
+<p>Configured automated cron jobs for log archiving, scheduled task execution, and malware detection workflows within a Linux environment.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Linux System Resource Monitoring (CPU & Memory) – v1.0.0</h5>
+<p>Performed Linux system resource monitoring using command-line utilities to analyze CPU usage, memory consumption, running processes, and real-time system performance.</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>LAB – Tmux Session Management – v1.0.0</h5>
+<p>Configured and managed persistent tmux sessions for multi-terminal administration, detached workflows, and organized command-line operations in Linux environments.</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
