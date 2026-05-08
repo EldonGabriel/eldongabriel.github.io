@@ -6,8 +6,7 @@ Building, Securing, and Troubleshooting Real-World Infrastructure
 ![Systems Admin](https://img.shields.io/badge/Systems%20Administration-Infrastructure-blue)
 ![Security](https://img.shields.io/badge/Security-Operations-informational)
 ![ISC2](https://img.shields.io/badge/ISC2-Certified-success)
-![OSINT](https://img.shields.io/badge/OSINT-Threat%20Intelligence-orange)
-
+ 
 ---
 
 ## Overview
@@ -20,44 +19,103 @@ Each project is built and tested in controlled lab environments and documented u
 
 ---
 
-## Featured Projects
+## 🚀 Infrastructure Services  
 
-### SOP – Windows Defender Hardening via GPO – v1.0.1
-- Enforced endpoint security using Group Policy (GPO)
-- Restricted local modification of security settings
-- Validated policy enforcement through system testing and refresh cycles
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:15px; margin-top:20px;">
 
-<p align="left" style="margin-top:20px;">
-  <a href="https://eldongabriel.github.io/sop-hardening-windows-defender-using-local-gpo/"
-     style="padding:10px 20px; border:1px solid #ffffff; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">
-    View Report
-  </a>
-</p>
+<div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
+<h3>Systems Administration</h3>
+<ul>
+<li>Windows Server & Linux administration</li>
+<li>User, group, and permission management</li>
+<li>Service troubleshooting & maintenance</li>
+</ul>
+</div>
+
+<div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
+<h3>Security Hardening</h3>
+<ul>
+<li>GPO & system baseline enforcement</li>
+<li>Privilege restriction & access control</li>
+<li>Firewall and endpoint configuration</li>
+</ul>
+</div>
+
+<div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
+<h3>Monitoring & Detection</h3>
+<ul>
+<li>Wazuh deployment</li>
+<li>Log & event analysis</li>
+<li>Security visibility setup</li>
+</ul>
+</div>
+
+<div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
+<h3>Backup & Recovery</h3>
+<ul>
+<li>System backup validation</li>
+<li>Recovery testing</li>
+<li>Disaster recovery workflows</li>
+</ul>
+</div>
+
+</div>
 
 ---
 
-### REPORT – Active Directory Disaster Recovery & Identity Restoration – v1.0.2
-- Restored domain services using system state recovery
-- Performed recovery in Directory Services Restore Mode (DSRM)
-- Validated directory integrity using diagnostic tooling
+## 🧪 Featured Case Studies
 
-<p align="left" style="margin-top:20px;">
+### 🧩 AD Disaster Recovery & Identity Restoration
+
+<div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
+
+- Restored Active Directory using system state recovery  
+- Performed DSRM recovery operations  
+- Validated replication integrity  
+
+</div>
+
+<p align="center" style="margin-top:20px;">
   <a href="https://eldongabriel.github.io/report-ad-disaster-recovery-identity-restoration-v1.0.2/"
-     style="padding:10px 20px; border:1px solid #ffffff; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">
+     style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
     View Report
   </a>
 </p>
 
 ---
 
-### REPORT – Enterprise IPsec VPN Diagnostics – v1.0.0
-- Diagnosed site-to-site VPN failure across enterprise topology
-- Identified routing and tunnel configuration issues
-- Restored secure encrypted connectivity between networks
+### 🔐 Windows Defender Hardening via GPO
 
-<p align="left" style="margin-top:20px;">
+<div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
+
+- Enforced endpoint protection via Group Policy  
+- Restricted user-level security modification  
+- Validated enforcement behavior  
+
+</div>
+
+<p align="center" style="margin-top:20px;">
+  <a href="https://eldongabriel.github.io/sop-hardening-windows-defender-using-local-gpo/"
+     style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+    View Report
+  </a>
+</p>
+
+---
+
+### 🌐 Enterprise VPN Diagnostics
+
+<div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
+
+- Diagnosed IPsec tunnel failure  
+- Fixed routing and encryption misconfiguration  
+- Restored secure connectivity  
+
+</div>
+
+<p align="center" style="margin-top:20px;">
   <a href="https://eldongabriel.github.io/report-enterprise-ipsec-vpn-dianogstics-v1.0.0/"
-     style="padding:10px 20px; border:1px solid #ffffff; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">
+     style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
     View Report
   </a>
 </p>
@@ -92,54 +150,30 @@ Each project is built and tested in controlled lab environments and documented u
 
 ---
 
-## Tools & Platforms
+## 🧰 Tools & Platforms
 
-Windows Server • Active Directory • Group Policy (GPO) • Linux (Ubuntu/Kali)  
-Wazuh • Lynis • pfSense • OpenVPN • Docker • Proxmox VE • VMware  
-Cockpit • Webmin • Veeam Backup • Duplicati • OpenVAS  
-Python • MS Security Toolkit • Have I Been Pwned
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:10px;">
 
----
+<div style="background:#111; padding:10px; border-radius:6px;">Windows Server</div>
+<div style="background:#111; padding:10px; border-radius:6px;">Active Directory</div>
+<div style="background:#111; padding:10px; border-radius:6px;">GPO</div>
+<div style="background:#111; padding:10px; border-radius:6px;">Linux</div>
+<div style="background:#111; padding:10px; border-radius:6px;">Wazuh</div>
+<div style="background:#111; padding:10px; border-radius:6px;">pfSense</div>
+<div style="background:#111; padding:10px; border-radius:6px;">VMware</div>
+<div style="background:#111; padding:10px; border-radius:6px;">VirtualBox</div>
+<div style="background:#111; padding:10px; border-radius:6px;">Docker</div>
+<div style="background:#111; padding:10px; border-radius:6px;">OpenVPN</div>
+<div style="background:#111; padding:10px; border-radius:6px;">Veeam</div>
+<div style="background:#111; padding:10px; border-radius:6px;">Duplicati</div>
+<div style="background:#111; padding:10px; border-radius:6px;">Python</div>
 
-## Certifications
+</div>
 
-**ISC²**
-- Certified in Cybersecurity (CC) – 2025  
+## 🎯 Portfolio Purpose
 
-**Google**
-- Cybersecurity Professional Certificate – 2025  
-- IT Support Professional Certificate – 2025  
-
-**Risk & Frameworks**
-- Risk Management Framework (NIST-aligned) – 2025  
-
-**MCSI**
-- MICS Level 3 (In Progress)  
-- MSAF (In Progress)  
-- MOIS OSINT (In Progress)  
-
----
-
-## Portfolio Purpose
-
-This repository showcases practical infrastructure and security operations skills including:
-
-- Systems administration in enterprise-style environments  
-- Security hardening and configuration control  
-- Network troubleshooting and defense operations  
-- Identity and access management  
-- Structured technical reporting and validation  
-
-All work is performed in controlled lab environments and documented for real-world applicability.
-
----
-
-## Portfolio Website
-
-https://eldongabriel.github.io
-
-Includes:
-- Infrastructure reports
-- Security configurations
-- Troubleshooting documentation
-- Operational case studies
+This repository demonstrates:
+- applied systems administration and cybersecurity skills  
+- structured troubleshooting methodology  
+- lab-validated infrastructure security work  
+- real-world operational readiness for client environments  
