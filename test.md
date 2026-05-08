@@ -1,24 +1,12 @@
 ---
 layout: home
 title: Eldon Gabriel
-subtitle: System Administration & Infrastructure Operations
-tagline: Windows, Linux, Monitoring, Backup, and Security Hardening
+subtitle: Systems Administration & Infrastructure Operations
+tagline: Providing infrastructure administration, troubleshooting, monitoring, backup, and security support for modern Windows and Linux environments.
 permalink: /test/
 image:
   path: /assets/images/mcsi-novice-sysadmin.png
 ---
-
-<h1 style="text-align:left;">
-  Systems Administration & Infrastructure Operations
-</h1>
-
-<p style="font-size:1.1em; margin-top:-10px;">
-Windows, Linux, Monitoring, Backup, and Security Hardening
-</p>
-
-<p style="max-width:850px;">
-Providing infrastructure administration, troubleshooting, monitoring, and security support for modern Windows and Linux environments.
-</p>
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
@@ -33,6 +21,9 @@ This portfolio demonstrates hands-on systems administration, infrastructure secu
 <p>
 Each project follows a proof-of-work approach where infrastructure concepts are tested through practical implementation, troubleshooting, documentation, and security validation aligned with industry frameworks and operational best practices.
 </p>
+
+<p>Focused on operational reliability, infrastructure security, monitoring visibility, and structured troubleshooting across enterprise-style lab environments.</p>
+
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
@@ -134,7 +125,6 @@ View Certifications
 </h2>
 
 <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap:10px; margin-top:20px;">
-<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap:10px; margin-top:20px;">
 <div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Windows Server</div>
 <div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Active Directory</div>
 <div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Group Policy (GPO)</div>
@@ -188,6 +178,7 @@ View Certifications
     Strengthened professional communication and documentation skills used to translate technical findings, operational risks, and troubleshooting outcomes into clear business-focused reporting.
     </p>
   </div>
+
 </div>
 
 
