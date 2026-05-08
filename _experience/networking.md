@@ -15,11 +15,7 @@ image:
 ## Networking Laboratory Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
-This section documents hands-on networking labs that focus on protocol analysis, connectivity troubleshooting, and secure network architecture within enterprise environments.
-</p>
-
-<p style="line-height:1.6; font-size:1.05em;">
-The work includes diagnosing network issues, analyzing communication flows, and implementing secure configurations aligned with operational and security requirements.
+This section documents hands-on networking labs that focus on protocol analysis, connectivity troubleshooting, and secure network architecture within enterprise environments. The work includes diagnosing network issues, analyzing communication flows, and implementing secure configurations aligned with operational and security requirements.
 </p>
 
 ### Lab Distribution Summary
