@@ -18,13 +18,11 @@ image:
 {{ page.tagline }}
 </p>
 
-<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
-
 <h2 style="text-align:left;">
   Infrastructure Operations Portfolio
 </h2>
 
-<div style="text-align:left; max-width:950px>
+<div style="text-align:left; max-width:950px;">
 
 <p>
 This portfolio demonstrates hands-on systems administration, infrastructure security, and operational troubleshooting in Windows and Linux environments. Projects focus on server hardening, monitoring deployment, backup and recovery operations, network security, and technical problem resolution using structured validation and root-cause analysis methods.
