@@ -79,7 +79,7 @@ Each project follows a proof-of-work approach where infrastructure concepts are 
 </div>
 
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Network Security & Troubleshooting</h3>
+<h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Network Defense</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
 <li>pfSense firewall configuration</li>
 <li>Firewall rule troubleshooting</li>
@@ -103,7 +103,7 @@ Each project follows a proof-of-work approach where infrastructure concepts are 
 </div>
 
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Operational Governance & Resilience</h3>
+<h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Security Governance</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
 <li>NIST aligned controls</li>
 <li>Risk-based security validation</li>
