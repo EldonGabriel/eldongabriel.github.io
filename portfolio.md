@@ -31,30 +31,40 @@ Work is built through controlled laboratory environments and documented using ro
     <p style="margin:0; font-size:1.05em;">
       <strong>Academic Integrity & Compliance</strong>
     </p>
+    <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
 
-    <p style="margin-top:10px;">
-      In line with MCSI disclosure requirements, lab solutions are not published publicly. Skills are demonstrated through independent scenarios and validated technical documentation. Verification can be provided via official transcripts or controlled review.
-    </p>
+   <p style="margin-top:10px;">
+   In line with MCSI disclosure requirements:
+   </p>
 
+  <ul style="margin-top:10px; padding-left:20px;">
+  <li>Lab solutions are not published publicly</li>
+  <li>Skills are demonstrated through independent scenarios</li>
+  <li>All work is validated through technical documentation</li>
+  <li>Verification is available via official transcripts or controlled review</li>
+  </ul>
   </div>
 
   <!-- Box 2: Work Index -->
   <div style="background: rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 
-    <p style="margin:0; font-size:1.05em;">
-      <strong>Technical Work Index</strong>
-    </p>
+  <p style="margin:0; font-size:1.05em;">
+  <strong>Technical Work Index</strong>
+  </p>
+  <ul style="font-size:0.9em; margin-top:10px; padding-left:20px; text-align:left;">
+  <li>200+ structured reports</li>
+  <li>SOPs and operational guides</li>
+  <li>Security investigations and analysis</li>
+  <li>Hands-on lab demonstrations</li>
+  <li>Infrastructure and security domain coverage</li>
+  </ul>
 
-    <p style="margin-top:10px;">
-      200+ structured reports, SOPs, investigations, and lab demonstrations across infrastructure and security domains.
-    </p>
-
-    <p align="center" style="margin-top:20px;">
-      <a href="https://docs.google.com/spreadsheets/d/1_NJJ7v9wQ4OH1zhxlq-AKbwUoMMPS58R2aZGxMsAukI/edit?usp=sharing"
-         style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
-        View Full Work Index
-      </a>
-    </p>
+<p align="center" style="margin-top:20px;">
+  <a href="https://docs.google.com/spreadsheets/d/1_NJJ7v9wQ4OH1zhxlq-AKbwUoMMPS58R2aZGxMsAukI/edit?usp=sharing"
+     style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+    View Full Work Index
+  </a>
+</p>
 
   </div>
 
