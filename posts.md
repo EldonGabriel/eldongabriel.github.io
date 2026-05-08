@@ -9,5 +9,5 @@ image:
 ---
 
 <p style="max-width: 800px; margin: 0 auto 30px; line-height: 1.6;">
-This section contains technical security reports, troubleshooting investigations, and system administration documentation. Each entry reflects applied work in cybersecurity environments, focusing on implementation, validation, and operational analysis.
+This section contains technical security reports, troubleshooting investigations and system administration documentation. Each entry reflects the applied cybersecurity work focused on implementation, validation, and operational analysis.
 </p>
