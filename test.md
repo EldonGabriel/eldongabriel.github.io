@@ -126,25 +126,6 @@ View Certifications
 </a>
 </p>
 
-<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
-
-<h2 style="text-align:left;">
-  Technical Operations & Case Studies
-</h2>
-
-<div style="margin:40px 0;">
-  <img src="/assets/images/headers/recent-reports.png" alt="Technical Operations Banner" style="width:100%; border-radius:8px;">
-</div>
-
-<p style="text-align:center; max-width:850px; margin:0 auto;">
-A structured collection of infrastructure troubleshooting reports, hardening procedures, monitoring deployments, recovery operations, and security investigations demonstrating applied systems administration and infrastructure security practices across real-world environments.
-</p>
-
-<p align="center" style="margin-top:40px;">
-  <a href="/portfolio/" class="btn" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
-Explore Case Studies
-</a>
-</p>
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
@@ -202,3 +183,17 @@ Explore Case Studies
 <div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Lynis</div>
 
 </div>
+
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
+
+<h2 style="text-align:left;">
+  Technical Operations & Case Studies
+</h2>
+
+<div style="margin:40px 0;">
+  <img src="/assets/images/headers/recent-reports.png" alt="Technical Operations Banner" style="width:100%; border-radius:8px;">
+</div>
+
+<p style="text-align:center; max-width:850px; margin:0 auto;">
+A structured collection of infrastructure troubleshooting reports, hardening procedures, monitoring deployments, recovery operations, and security investigations demonstrating applied systems administration and infrastructure security practices across real-world environments.
+</p>
