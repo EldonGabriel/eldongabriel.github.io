@@ -18,7 +18,7 @@ The system was stabilized by adjusting the power settings and switching the virt
 
  
 
-# 1.0 USB I/O Failure & Virtualization Instability Analysis
+# 1.0 USB I/O & Virtualization Failure Analysis
 
 ## 1.1 Project Description
 
