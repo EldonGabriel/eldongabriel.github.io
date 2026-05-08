@@ -43,7 +43,7 @@ Work is built through controlled laboratory environments and documented using ro
       <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832"
          target="_blank"
          style="display:inline-block; width:220px; text-align:center; padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
-        View MCSI Student Portfolio
+        View Proof of Work
       </a>
     </p>
 
