@@ -218,6 +218,6 @@ Professional Influence
   <img src="/assets/images/headers/case-studies.png" alt="Technical Reports Banner" style="width:100%; border-radius:8px;">
 </div>
 
-<p style="text-align:center; max-width:850px; margin:0 auto;">
+<p>
 A structured collection of infrastructure troubleshooting reports, hardening procedures, monitoring deployments, recovery operations, and security investigations demonstrating applied systems administration and infrastructure security practices in real-world environments.
 </p>
