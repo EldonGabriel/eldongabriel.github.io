@@ -32,7 +32,7 @@ image:
   </p>
 
   <p style="margin-top:15px; font-size:1.05em;">
-    <strong>Technical Work Index:</strong> 200+ structured artifacts across troubleshooting, system administration, security operations, and forensic analysis using a Layer → Device → Root Cause → Resolution methodology.
+    <strong>Technical Work Index:</strong> **200+** structured reports, guides, SOPs, diagrams, and hands-on lab demonstrations focused on infrastructure management, troubleshooting, security operations, networking, and operational resilience.
   </p>
 
   <p style="margin-top:10px;">
