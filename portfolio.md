@@ -57,7 +57,7 @@ Work is built through controlled laboratory environments and documented using ro
     </h3>
 
     <ul style="margin-top:10px; padding-left:20px; font-size:0.9em; text-align:left;">
-      <li>200+ structured reports and technical write-ups</li>
+      <li>200+ reports, SOPs, guides, and videos</li>
       <li>System administration and infrastructure labs</li>
       <li>Security investigations and incident analysis</li>
       <li>Operational troubleshooting and recovery workflows</li>
