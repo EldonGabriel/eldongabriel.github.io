@@ -37,12 +37,8 @@ In line with MCSI disclosure requirements, lab solutions are not published publi
 <strong>Technical Work Index:</strong> 200+ structured reports, SOPs, investigations, and lab demonstrations across infrastructure and security domains.
 </p>
 
-<p style="margin-top:10px;">
-<a href="https://docs.google.com/spreadsheets/d/1_NJJ7v9wQ4OH1zhxlq-AKbwUoMMPS58R2aZGxMsAukI/edit?usp=sharing"
-   target="_blank"
-   style="color:#00adb5; text-decoration:none; font-weight:bold;">
-  View Full Work Index →
-</a>
+<p align="center" style="margin-top:20px;">
+<a href="https://docs.google.com/spreadsheets/d/1_NJJ7v9wQ4OH1zhxlq-AKbwUoMMPS58R2aZGxMsAukI/edit?usp=sharing" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Full Work Index</a>
 </p>
 
 </div>
