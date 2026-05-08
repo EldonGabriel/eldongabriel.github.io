@@ -44,10 +44,6 @@ All configurations are validated to confirm expected system behavior and securit
 
 ### 🧠 Technical Foundations
 
-These reports build core system knowledge required for system administration and security work. The focus is on how hardware, memory, and data processing function at a low level, and how misconfiguration or failure at this layer impacts system stability and security.
-
-The goal is to understand how systems actually operate under the hood, so issues can be diagnosed, performance can be optimized, and security controls can be applied with context rather than guesswork.
-
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -360,8 +356,6 @@ View Report</a>
 
 ### 🐧 Linux Systems Administration
 
-Administration and hardening of Linux-based systems, including user management, access control enforcement, system processes, and log analysis within server environments.
-
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -452,8 +446,6 @@ Administration and hardening of Linux-based systems, including user management, 
 </div>
 
 ### 🌐 Virtualization & Infrastructure
-
-Design and deployment of virtualized environments used to support secure system administration, testing, and infrastructure validation across isolated lab environments.
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -761,8 +753,6 @@ Design and deployment of virtualized environments used to support secure system 
 
 ### ⚙️ Managed Operations & Automation Labs
 
-Utilizing advanced Windows management tools to automate recurring maintenance tasks, monitor system health, and secure data-at-rest.
-
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:30px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); text-align:center;">
@@ -803,8 +793,8 @@ Utilizing advanced Windows management tools to automate recurring maintenance ta
 
 ## Portfolio Documentation
 
-This section represents applied infrastructure engineering across operating systems, virtualization platforms, and cloud environments. Each lab reflects hands-on configuration, security enforcement, and system validation aligned with operational and security requirements.
+This section reflects the applied infrastructure engineering across operating systems, virtualization platforms, and cloud environments. Each artifact demonstrates hands-on configuration, security enforcement, and system validation, which are aligned with the operational requirements.
 
-While selected projects are presented here, they are supported by a larger archive of structured reports, lab documentation, and system configuration records maintained within a private research repository.
+Selected projects are presented publicly and supported by a broader archive of structured reports, laboratory work, and system configurations maintained in a private repository.
 
-Additional documentation is available upon request for professional or technical review.
+Additional documentation can be provided upon request for professional or technical reviews.
