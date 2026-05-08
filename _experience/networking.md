@@ -28,7 +28,8 @@ This section documents hands-on networking labs that focus on protocol analysis,
 | Lab Demonstrations | 1 |
 | **Total Networking Labs Documented** | **18** |
 
- 
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
+
 ### 📡 Network Protocols & Fundamentals
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
@@ -227,7 +228,7 @@ View Report</a>
 
 </div>
 
----
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 ## Portfolio Documentation
 
