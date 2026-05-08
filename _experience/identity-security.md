@@ -19,7 +19,7 @@ image:
 | Identity & Access Management | 8 |
 | **Total Identity Security Labs Documented** | **8** |
 
----
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 ## Identity Security Laboratory Overview
 
@@ -111,7 +111,7 @@ All labs focus on enforcing access control policies and reducing the risk of una
 
 </div>
 
----
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 ## Portfolio Documentation
 
