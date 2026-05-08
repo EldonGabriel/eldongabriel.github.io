@@ -24,15 +24,21 @@ image:
   Infrastructure Operations Portfolio
 </h2>
 
+<div style="text-align:left; max-width:850px;">
+
 <p>
 This portfolio demonstrates hands-on systems administration, infrastructure security, and operational troubleshooting in Windows and Linux environments. Projects focus on server hardening, monitoring deployment, backup and recovery operations, network security, and technical problem resolution using structured validation and root-cause analysis methods.
 </p>
 
 <p>
-Each project follows a proof-of-work approach, where infrastructure concepts are tested through practical implementation, troubleshooting, documentation, and security validation, aligned with industry frameworks and operational best practices.
+Each project follows a proof-of-work approach, where infrastructure concepts are tested through practical implementation, troubleshooting, documentation, and security validation aligned with industry frameworks and operational best practices.
 </p>
 
-<p>Focused on operational reliability, infrastructure security, monitoring visibility, and structured troubleshooting across enterprise-style lab environments.</p>
+<p>
+Focused on operational reliability, infrastructure security, monitoring visibility, and structured troubleshooting across enterprise-style lab environments.
+</p>
+
+</div>
 
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
