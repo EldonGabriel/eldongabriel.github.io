@@ -27,7 +27,12 @@ Each project is built and tested in controlled lab environments and documented u
 - Restricted local modification of security settings
 - Validated policy enforcement through system testing and refresh cycles
 
-🔗 https://eldongabriel.github.io/sop-hardening-windows-defender-using-local-gpo/
+<p align="center" style="margin-top:20px;">
+  <a href="https://eldongabriel.github.io/sop-hardening-windows-defender-using-local-gpo/"
+     style="padding:10px 20px; border:1px solid #ffffff; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">
+    View Report
+  </a>
+</p>
 
 ---
 
@@ -36,7 +41,12 @@ Each project is built and tested in controlled lab environments and documented u
 - Performed recovery in Directory Services Restore Mode (DSRM)
 - Validated directory integrity using diagnostic tooling
 
-🔗 https://eldongabriel.github.io/report-ad-disaster-recovery-identity-restoration-v1.0.2/
+<p align="center" style="margin-top:20px;">
+  <a href="https://eldongabriel.github.io/report-ad-disaster-recovery-identity-restoration-v1.0.2/"
+     style="padding:10px 20px; border:1px solid #ffffff; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">
+    View Report
+  </a>
+</p>
 
 ---
 
@@ -45,7 +55,12 @@ Each project is built and tested in controlled lab environments and documented u
 - Identified routing and tunnel configuration issues
 - Restored secure encrypted connectivity between networks
 
-🔗 https://eldongabriel.github.io/report-enterprise-ipsec-vpn-dianogstics-v1.0.0/
+<p align="center" style="margin-top:20px;">
+  <a href="https://eldongabriel.github.io/report-enterprise-ipsec-vpn-dianogstics-v1.0.0/"
+     style="padding:10px 20px; border:1px solid #ffffff; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">
+    View Report
+  </a>
+</p>
 
 ---
 
