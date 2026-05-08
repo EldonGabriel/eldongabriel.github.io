@@ -97,8 +97,7 @@ The system was stabilized and secured using the following setup.
 ### Risks
 
 **1. Malware Execution from USB:** USB devices can carry malicious scripts
-  - **Fix:** Use `noexec` on all removable drives
- 
+  - **Fix:** Use `noexec` on all removable drives 
 
 **2. Improper Permissions:** Using root ownership increases risk of mistakes
   - **Fix:** Assign ownership to standard users using `chown`
