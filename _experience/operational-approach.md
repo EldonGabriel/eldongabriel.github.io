@@ -14,45 +14,38 @@ image:
 <h2>Overview</h2>
 
 <p>
-This portfolio is built on a structured systems approach focused on troubleshooting, control enforcement, and validation across real-world infrastructure environments.
-Each lab and investigation follows a consistent methodology designed to produce repeatable and measurable technical outcomes.
-</p>
-
-<h3>Technical Support Fundamentals – Systems Analysis</h3>
-
-<p>
-All work is grounded in system-level analysis across operating systems, network infrastructure, identity systems, and virtualized environments.
+This portfolio follows a structured operational approach to system troubleshooting, security enforcement, and infrastructure validation across Windows and Linux environments.
+Each lab and investigation is designed to produce measurable and repeatable outcomes based on real system behavior.
 </p>
 
 <!-- CORE PILLARS -->
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Pillars:</strong> Structured Troubleshooting · Control Enforcement · Root Cause Analysis · Validation Testing
+  <strong>Core Focus Areas:</strong> Structured Troubleshooting · Root Cause Analysis · Control Enforcement · Validation Testing
 </p>
 
-<!-- SIDE BY SIDE SECTION WRAPPER (THIS IS THE FIX) -->
 <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:15px;">
 
   <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
     <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">
-      Applied Troubleshooting Model
+      Troubleshooting Methodology
     </h3>
     <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
       <li>Identify system layer (OS, network, application)</li>
-      <li>Isolate affected device or service</li>
+      <li>Isolate affected service or component</li>
       <li>Analyze logs and system behavior</li>
       <li>Determine root cause</li>
-      <li>Validate fix through testing</li>
+      <li>Validate resolution through testing</li>
     </ul>
   </div>
 
   <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
     <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">
-      Technical Stack
+      Technical Environment
     </h3>
     <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
       <li>Windows Server / Active Directory</li>
       <li>Linux System Administration</li>
-      <li>VMware ESXi / VirtualBox</li>
+      <li>VMware / VirtualBox</li>
       <li>PowerShell / Bash</li>
       <li>Networking (TCP/IP, DNS, Routing)</li>
       <li>Security Tools (Wireshark, Nmap, pfSense)</li>
@@ -63,8 +56,8 @@ All work is grounded in system-level analysis across operating systems, network 
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
+<h3>Portfolio Application</h3>
 
-<h3>Application Across Portfolio</h3>
 <p>
-This framework is applied consistently across all domains including Infrastructure, Networking, Security Operations, GRC, OSINT, Identity Security, and Operational Resilience.
+This approach is applied across infrastructure administration, network security, identity management, security operations, and operational resilience scenarios throughout the portfolio of the organization.
 </p>
