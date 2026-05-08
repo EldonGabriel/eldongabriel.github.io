@@ -7,19 +7,6 @@ permalink: /test/
 image:
   path: /assets/images/mcsi-novice-sysadmin.png
 ---
-
-<section class="home-hero">
-
-<p class="subtitle">
-{{ page.subtitle }}
-</p>
-
-<p class="tagline">
-{{ page.tagline }}
-</p>
-
-
-{% include section.html section=site.data.infrastructure %}
 <h1 style="text-align:left;">
   Systems Administration & Infrastructure Operations
 </h1>
