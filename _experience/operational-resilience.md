@@ -32,7 +32,7 @@ All laboratories followed structured recovery workflows centered on restoration,
 | Backup, Recovery & Migration | 4 |
 | **Total Operational Resilience Labs Documented** | **7** |
 
----
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 ## 🔄 Backup, Recovery & Continuity Operations
 
@@ -121,7 +121,7 @@ View Report
 
 </div>
 
----
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 ## Portfolio Documentation
 
