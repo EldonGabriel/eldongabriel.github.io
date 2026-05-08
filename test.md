@@ -151,7 +151,7 @@ View Certifications
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 <h2 style="text-align:left;">
-  Foundational Mentorship
+Professional Influence
 </h2>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
@@ -178,6 +178,21 @@ View Certifications
   <div style="flex: 2; padding-right: 20px;">
     <p>
     Strengthened professional communication and documentation skills used to translate technical findings, operational risks, and troubleshooting outcomes into clear, business-focused reports.
+    </p>
+  </div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="/assets/images/eldon-stedman.png" 
+         alt="Professional interaction with Stedman Graham"
+         style="width:200px; height:200px; object-fit: cover; border-radius:50%;"><br>
+    <strong>Stedman Graham</strong><br>
+    <em>Author, Educator & Business Strategist</em>
+  </div>
+
+  <div style="flex: 2; padding-left: 20px;">
+    <p>
+    Participated in a professional virtual engagement focused on leadership, personal development, and strategic thinking skills. The discussion reinforced the importance of structured goal-setting, identity-based leadership principles, and disciplined professional growth frameworks.
     </p>
   </div>
 
