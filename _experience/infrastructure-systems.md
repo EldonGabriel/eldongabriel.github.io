@@ -32,7 +32,7 @@ This section documents the design, configuration, and troubleshooting of enterpr
 | Managed Operations & Automation | 4 |
 | **Total Labs Documented** | **86** |
 
----
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 ### 🧠 Technical Foundations
 
@@ -215,7 +215,6 @@ View Report</a>
 
 </div>
 
-
 ### 👁️ Endpoint Monitoring
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px;">
@@ -232,7 +231,6 @@ View Report</a>
 </div>
 <p></p>
 
- 
 ### ⚙️ System Administration & Maintenance
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
@@ -264,7 +262,6 @@ View Report</a>
 </div>
 
 </div>
-
 
 ### 🔍 Troubleshooting & System Diagnostics
 
@@ -402,7 +399,6 @@ View Report</a>
 
 <p></p>
 
-
 ### 🐧 Linux Endpoint Security & Admin Controls
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
@@ -493,7 +489,6 @@ View Report</a>
 </div> 
 
 </div>
-
 
 
 ## Lab Demonstrations
@@ -781,7 +776,7 @@ View Report</a>
 
 </div>
 
----
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 ## Portfolio Documentation
 
