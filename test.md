@@ -146,7 +146,7 @@ View Certifications
 <div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Python</div>
 <div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Have I Been Pwned</div>
 
-</div> Windows Server
+</div>
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
@@ -163,7 +163,7 @@ Professional Influence
   </div>
   <div style="flex: 2; padding-left: 20px;">
     <p>
-    Reinforced structured decision-making, operational discipline, and risk evaluation principles are used when analyzing infrastructure issues, system reliability, and security controls.
+    Reinforced structured decision-making, operational discipline, and risk evaluation principles used when analyzing infrastructure issues, system reliability, and security controls.
     </p>
   </div>
 </div>
@@ -173,13 +173,14 @@ Professional Influence
     <img src="/assets/images/eldon-wahida.png" alt="Wahida Clark" 
          style="width:200px; height:200px; object-fit: cover; border-radius:50%;"><br>
     <strong>Wahida Clark</strong><br>
-    <em>4x NYT Bestselling Author & Mentor</em>
+    <em>4x NYT Bestselling Author</em>
   </div>
   <div style="flex: 2; padding-right: 20px;">
     <p>
     Strengthened professional communication and documentation skills used to translate technical findings, operational risks, and troubleshooting outcomes into clear, business-focused reports.
     </p>
   </div>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1; text-align: center;">
@@ -192,12 +193,10 @@ Professional Influence
 
   <div style="flex: 2; padding-left: 20px;">
     <p>
-    Participated in a professional virtual engagement focused on leadership, personal development, and strategic thinking skills. The discussion reinforced the importance of structured goal-setting, identity-based leadership principles, and disciplined professional growth frameworks.
+    Participated in a professional virtual engagement focused on leadership, personal development, and strategic thinking skills. The discussion reinforced structured goal-setting, identity-based leadership principles, and disciplined professional growth frameworks.
     </p>
   </div>
-
 </div>
-
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
