@@ -30,7 +30,7 @@ All investigations followed structured workflows aligned with repeatable validat
 | Intelligence Demonstration | 11 |
 | **Total Intelligence Labs Documented** | **17** |
 
----
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 ### 🔍 Technical Analysis & Platform Mapping
 
@@ -213,7 +213,7 @@ Request Access
 
 </div>
 
---- 
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;"> 
 
 ## Portfolio Documentation
 
