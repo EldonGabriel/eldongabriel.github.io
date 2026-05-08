@@ -92,17 +92,9 @@ Request Access
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>OSINT Mind Maps (X, Telegram, Reddit, LinkedIn, Instagram, Facebook, Discord)</h5>
-<p>Mapping investigative data points across major social and communication platforms to support open-source intelligence (OSINT) analysis and digital footprinting.</p>
-<ul style="margin-top:15px; padding-left:18px; line-height:1.6;">
-<li><strong>X (Twitter):</strong> Social Media Mapping · Profile Analysis · SOCMINT</li>
-<li><strong>Telegram:</strong> Messaging App OSINT · Community Investigation</li>
-<li><strong>Reddit:</strong> Forum Analysis · Metadata Extraction · Digital Footprinting</li>
-<li><strong>LinkedIn:</strong> Corporate Intelligence · Professional Profile Analysis</li>
-<li><strong>Instagram:</strong> Visual Intelligence · Asset Mapping · Metadata</li>
-<li><strong>Facebook:</strong> Social Interaction Mapping · Digital Footprinting</li>
-<li><strong>Discord:</strong> Volatile Platform OSINT · Infrastructure Mapping</li>
-</ul>
+<h5>OSINT Mind Maps – Multi-Platform Intelligence Mapping – v1.0.0</h5>
+<p>Structured mapping of investigative data points across major social and communication platforms to support open-source intelligence collection, analysis, and digital footprinting.</p>
+<p><strong>Skills:</strong> SOCMINT · Digital Footprinting · Intelligence Correlation</p>
 <p align="center" style="margin-top:20px;">
 <span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">
 Request Access
