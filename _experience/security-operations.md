@@ -34,10 +34,6 @@ This section documents hands-on security operations labs focused on endpoint har
 
 ### 🛡️ Perimeter Defense & Secure Connectivity
 
-These reports establish the foundational knowledge required to design and implement perimeter defenses and secure network connectivity. The focus is on protecting systems and data from external threats through firewalls, VPNs, and secure communication protocols.
-
-The goal is to ensure that systems are well-protected at the network boundary, with clear strategies to identify, prevent, and mitigate attacks while ensuring secure communication across enterprise environments.
-
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -289,10 +285,10 @@ The goal is to ensure that systems are well-protected at the network boundary, w
 
 ---
 
-# Portfolio Documentation
+## Portfolio Documentation
 
-This section reflects hands-on security operations work across system hardening, monitoring, secure connectivity, and recovery. Each project focuses on enforcing controls, validating security configurations, and identifying risks within operational environments.
+This section reflects hands-on security operations work across system hardening, monitoring, secure connectivity and incident recovery. Each project focuses on control enforcement, configuration validation, and risk identification in operational environments.
 
-While selected labs are displayed here, they are supported by a larger archive of technical reports, configuration documentation, and investigative notes maintained within a private research repository.
+The selected labs are presented here, supported by a broader archive of technical reports, configuration documentation, and investigative notes maintained in a private repository.
 
-Complete documentation and supporting materials are available upon request for professional or technical review.
+Full documentation and supporting materials are available upon request for professional or technical review.
