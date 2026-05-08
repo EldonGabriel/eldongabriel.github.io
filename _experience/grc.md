@@ -28,7 +28,7 @@ This section documents applied governance, risk, and compliance labs focused on 
 | Lab Demonstration | 0 |
 | **Total Governance Documents** | **10** |
 
----
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 # Governance, Risk, and Compliance (GRC) Documentation
 
@@ -106,7 +106,7 @@ This section documents applied governance, risk, and compliance labs focused on 
 
 </div>
 
----
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 # Security Strategy & Threat Analysis
 
@@ -130,7 +130,7 @@ This section documents applied governance, risk, and compliance labs focused on 
 
 </div>
 
----
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 ## Portfolio Documentation
 
