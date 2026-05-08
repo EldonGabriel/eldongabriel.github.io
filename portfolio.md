@@ -43,20 +43,20 @@ Work is built through controlled laboratory environments and documented using ro
       <li>Verification is available via official transcripts or controlled review</li>
     </ul>
 
-    </div>
     <p align="center" style="margin-top:20px;">
       <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832"
          style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
        View MCSI Student Portfolio
       </a>
     </p>
+    
+    </div>
 
-
-  <!-- Box 2: Work Index -->
+  <!-- Box 2: Portfolio Index -->
   <div style="background: rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 
     <p style="margin:0; font-size:1.05em;">
-      <strong>Technical Work Index</strong>
+      <strong>Portfolio Index</strong>
     </p>
 
     <ul style="margin-top:10px; padding-left:20px; font-size:0.9em; text-align:left;">
@@ -70,7 +70,7 @@ Work is built through controlled laboratory environments and documented using ro
     <p align="center" style="margin-top:20px;">
       <a href="https://docs.google.com/spreadsheets/d/1_NJJ7v9wQ4OH1zhxlq-AKbwUoMMPS58R2aZGxMsAukI/edit?usp=sharing"
          style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
-        View Full Work Index
+        View Portfolio Index
       </a>
     </p>
 
