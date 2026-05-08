@@ -15,15 +15,7 @@ image:
 ## Governance, Risk, and Compliance (GRC) Laboratory Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
-This section documents applied governance, risk, and compliance labs focused on risk assessment, security policy implementation, and control validation.
-</p>
-
-<p style="line-height:1.6; font-size:1.05em;">
-Work involves evaluating security posture using structured frameworks and supporting decision-making through documented analysis and validation of controls.
-</p>
-
-<p style="line-height:1.6; font-size:1.05em;">
-<em>All labs follow NIST-aligned methodologies and use a Layer → Device → Root Cause → Resolution model for structured validation.</em>
+This section documents applied governance, risk, and compliance labs focused on risk assessment, security policy implementation, and control validation. Work involves evaluating security posture using structured frameworks and supporting decision-making through documented analysis and control verification. All labs follow NIST-aligned methodologies and a <strong>Layer</strong> → <strong>Device</strong> → <strong>Root Cause</strong> → <strong>Resolution</strong> model for structured troubleshooting and validation.
 </p>
 
 ### Lab Distribution Summary
@@ -118,10 +110,6 @@ Work involves evaluating security posture using structured frameworks and suppor
 
 # Security Strategy & Threat Analysis
 
-Research examining cybersecurity frameworks, threat models, and security strategy concepts.
-
-## Threat Modeling & Defensive Strategy
-
 ### 📈 Enterprise Strategy & Threat Analysis
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
@@ -146,8 +134,8 @@ Research examining cybersecurity frameworks, threat models, and security strateg
 
 ## Portfolio Documentation
 
-This section presents governance and risk analysis work developed through structured cybersecurity training and applied research.
+This section presents the governance and risk analysis work developed through structured cybersecurity training and applied research.
 
-Selected materials demonstrate core competencies, while additional supporting documentation and policy artifacts are maintained in a private archive.
+The selected materials demonstrate core competencies, while additional supporting documentation and policy artifacts are maintained in a private archive.
 
-Full documentation is available upon request for professional or technical review.
+Full documentation is available upon request for professional and technical reviews.
