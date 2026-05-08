@@ -58,10 +58,8 @@ The process focused on identifying the source of the failure and fixing it step 
 
 **4. Root Cause**
 
-The failure was caused by an unstable USB passthrough between the host system and VirtualBox.  
-This instability appeared during high disk activity and caused the device to be disconnected.
+The failure was caused by an unstable USB passthrough between the host system and VirtualBox. This instability appeared during high disk activity and caused the device to be disconnected.
 
- 
 
 ## 1.3 Resolution and Validation
 
@@ -76,17 +74,12 @@ The system was stabilized and secured using the following setup.
 
 ### Validation Steps
 
-1. **Stable Connection**
-   - USB remained connected during full formatting operations
-
-2. **Correct Permissions**
-   - Verified ownership using `ls -l`
-
-3. **Security Enforcement**
+1. **Stable Connection:** USB remained connected during full formatting operations
+2. **Correct Permissions:** Verified ownership using `ls -l`
+3. **Security Enforcement:**
    - Script execution failed even with execute permissions
    - Confirms `noexec` is working at the kernel level
 
- 
 
 # 2.0: CONCLUSION
 
@@ -104,13 +97,11 @@ The system was stabilized and secured using the following setup.
 ### Risks
 
 **1. Malware Execution from USB:** USB devices can carry malicious scripts
-
-**Fix:** Use `noexec` on all removable drives
+  - **Fix:** Use `noexec` on all removable drives
  
 
 **2. Improper Permissions:** Using root ownership increases risk of mistakes
-
-**Fix:** Assign ownership to standard users using `chown`
+  - **Fix:** Assign ownership to standard users using `chown`
 
 
 ### Best Practices
