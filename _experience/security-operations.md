@@ -15,11 +15,7 @@ image:
 ## Security Operations Laboratory Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
-This section documents hands-on security operations labs focused on endpoint hardening, network security, system monitoring, and incident response activities.
-</p>
-
-<p style="line-height:1.6; font-size:1.05em;">
-Each lab applies structured analysis to identify abnormal behavior, enforce security controls, and validate system integrity after remediation.
+This section documents hands-on security operations labs focused on endpoint hardening, network security, system monitoring, and incident response. Each lab applies structured analysis to detect abnormal behavior, enforce security controls, and validate system integrity after remediation.
 </p>
 
 ### Lab Distribution Summary
