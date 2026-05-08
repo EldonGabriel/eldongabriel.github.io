@@ -15,11 +15,11 @@ image:
 ## Networking Laboratory Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
-This section documents hands-on networking labs focused on protocol analysis, connectivity troubleshooting, and secure network architecture design in enterprise environments.
+This section documents hands-on networking labs that focus on protocol analysis, connectivity troubleshooting, and secure network architecture within enterprise environments.
 </p>
 
 <p style="line-height:1.6; font-size:1.05em;">
-Work includes examining communication models, diagnosing network issues, and implementing secure configurations aligned with operational and security requirements.
+The work includes diagnosing network issues, analyzing communication flows, and implementing secure configurations aligned with operational and security requirements.
 </p>
 
 ### Lab Distribution Summary
@@ -34,10 +34,6 @@ Work includes examining communication models, diagnosing network issues, and imp
 
  
 ### 📡 Network Protocols & Fundamentals
-
-These reports establish the foundation for diagnosing latency, identifying lateral movement, and ensuring protocol-level security. Understanding the behavior of core networking protocols is critical for troubleshooting issues and enhancing the overall integrity of enterprise networks. 
-
-The following reports analyze fundamental protocols, their interactions, and their impact on secure network communication.
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -235,10 +231,12 @@ View Report</a>
 
 </div>
 
+---
+
 ## Portfolio Documentation
 
-This section reflects hands-on networking work across protocol analysis, architecture design, and connectivity troubleshooting. Each project focuses on identifying root cause, validating configurations, and improving network security and stability.
+This section reflects hands-on networking work across protocol analysis, architectural design, and connectivity troubleshooting. Each project focuses on root cause identification, configuration validation, and improving the network security and stability.
 
-While selected projects are displayed here, they are supported by a larger archive of technical reports, lab documentation, and network design artifacts maintained within a private research repository.
+Selected projects are presented here, supported by a broader archive of technical reports, laboratory documentation, and network design artifacts maintained in a private repository.
 
-Complete documentation and supporting materials are available upon request for professional or technical review.
+Full documentation and supporting materials are available upon request for professional and technical reviews.
