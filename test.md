@@ -200,12 +200,8 @@ Professional Influence
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
-<h2 style="text-align:left;">
-  Technical Reports & Case Studies
-</h2>
-
 <div style="margin:40px 0;">
-  <img src="/assets/images/headers/case-studies.png" alt="Technical Operations Banner" style="width:100%; border-radius:8px;">
+  <img src="/assets/images/headers/case-studies.png" alt="Technical Reports Banner" style="width:100%; border-radius:8px;">
 </div>
 
 <p style="text-align:center; max-width:850px; margin:0 auto;">
