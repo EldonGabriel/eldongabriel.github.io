@@ -83,7 +83,7 @@ Each project follows a proof-of-work methodology combining implementation, testi
 
 </div>
 
-<p align="left" style="margin-top:20px;">
+<p align="center" style="margin-top:20px;">
   <a href="https://eldongabriel.github.io/report-ad-disaster-recovery-identity-restoration-v1.0.2/"
      style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
     View Report
@@ -102,7 +102,7 @@ Each project follows a proof-of-work methodology combining implementation, testi
 
 </div>
 
-<p align="left" style="margin-top:20px;">
+<p align="center" style="margin-top:20px;">
   <a href="https://eldongabriel.github.io/sop-hardening-windows-defender-using-local-gpo/"
      style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
     View Report
@@ -121,7 +121,7 @@ Each project follows a proof-of-work methodology combining implementation, testi
 
 </div>
 
-<p align="left" style="margin-top:20px;">
+<p align="center" style="margin-top:20px;">
   <a href="https://eldongabriel.github.io/report-enterprise-ipsec-vpn-dianogstics-v1.0.0/"
      style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
     View Report
