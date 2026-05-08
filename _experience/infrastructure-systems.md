@@ -15,15 +15,7 @@ image:
 ## Infrastructure Laboratory Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
-This section documents the design, configuration, and troubleshooting of enterprise systems across Windows, Linux, cloud, and virtualized environments.
-</p>
-
-<p style="line-height:1.6; font-size:1.05em;">
-Labs focus on system hardening, access control enforcement, network configuration, and infrastructure troubleshooting, with an emphasis on identifying and resolving misconfigurations.
-</p>
-
-<p style="line-height:1.6; font-size:1.05em;">
-All configurations are validated to confirm expected system behavior and security control effectiveness.
+This section documents the design, configuration, and troubleshooting of enterprise systems across Windows, Linux, cloud, and virtualized environments. Labs focus on system hardening, access control enforcement, network configuration, and infrastructure troubleshooting, with an emphasis on identifying and resolving misconfigurations. All configurations are validated to confirm expected system behavior and security control effectiveness.
 </p>
 
 ### Lab Distribution Summary
