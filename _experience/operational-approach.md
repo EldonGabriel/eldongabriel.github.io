@@ -19,7 +19,7 @@ Each lab and investigation is designed to produce measurable and repeatable outc
 </p>
 
 <!-- CORE PILLARS -->
-<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+<p style="text-align:center; font-size: 0.95em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px; max-width:1000px; margin:20px auto;">
   <strong>Core Focus Areas:</strong> Structured Troubleshooting · Root Cause Analysis · Control Enforcement · Validation Testing
 </p>
 
