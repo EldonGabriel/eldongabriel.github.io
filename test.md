@@ -130,6 +130,35 @@ View Certifications
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 <h2 style="text-align:left;">
+  Tools & Platforms
+</h2>
+
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap:10px; margin-top:20px;">
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap:10px; margin-top:20px;">
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Windows Server</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Active Directory</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Group Policy (GPO)</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Linux (Ubuntu/Kali)</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Wazuh</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">pfSense</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">OpenVPN</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Docker</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">VirtualBox</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">VMware</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Wireshark</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">TCPDump</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Nmap</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">DNS / DHCP</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">OpenVAS</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">ClamAV</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Duplicati</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Python</div>
+
+</div>
+
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
+
+<h2 style="text-align:left;">
   Foundational Mentorship
 </h2>
 
@@ -161,28 +190,6 @@ View Certifications
   </div>
 </div>
 
-<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
-
-<h2 style="text-align:left;">
-  Tools & Platforms
-</h2>
-
-<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap:10px; margin-top:20px;">
-
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Windows Server</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Linux</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Active Directory</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">PowerShell</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Bash</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Wazuh</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Sysmon</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">pfSense</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Wireshark</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Proxmox</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">VirtualBox</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Lynis</div>
-
-</div>
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
