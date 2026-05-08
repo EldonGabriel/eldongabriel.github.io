@@ -30,7 +30,7 @@ This section documents hands-on security operations labs focused on endpoint har
 | Lab Demonstrations |  8 |
 | **Total Security Operations Labs Documented** | **25** |
 
----
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 ### 🛡️ Perimeter Defense & Secure Connectivity
 
@@ -213,8 +213,7 @@ This section documents hands-on security operations labs focused on endpoint har
 
 </div>
 
----
-
+ 
 ## Lab Demonstrations
 
 ### 🛡️ Detection & Monitoring Labs
@@ -283,7 +282,7 @@ This section documents hands-on security operations labs focused on endpoint har
 
 </div>
 
----
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 ## Portfolio Documentation
 
