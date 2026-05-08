@@ -1,82 +1,88 @@
-# Eldon Gabriel – Cybersecurity & System Administration Portfolio
-### System Administration & Infrastructure Security  
-Building, Securing, and Troubleshooting Real-World Systems
+# Eldon Gabriel – Systems Administration & Infrastructure Security Portfolio
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Portfolio-blue)
-![ISC2](https://img.shields.io/badge/ISC2-Certified-success)
+### Systems Administration & Infrastructure Operations  
+Building, Securing, and Troubleshooting Real-World Infrastructure
+
+![Systems Admin](https://img.shields.io/badge/Systems%20Administration-Infrastructure-blue)
 ![Security](https://img.shields.io/badge/Security-Operations-informational)
+![ISC2](https://img.shields.io/badge/ISC2-Certified-success)
 ![OSINT](https://img.shields.io/badge/OSINT-Threat%20Intelligence-orange)
 
-This portfolio documents applied cybersecurity work across system hardening, network defense, identity security, and incident response.
+---
 
-Each project is validated through implementation in controlled lab environments, focusing on configuration accuracy, troubleshooting, and operational impact.
+## Overview
+
+This portfolio demonstrates hands-on systems administration and infrastructure security across Windows and Linux environments.
+
+Work focuses on system hardening, identity security, network defense, monitoring, backup operations, and structured troubleshooting using real-world validation methods.
+
+Each project is built and tested in controlled lab environments and documented using operational reporting standards.
 
 ---
 
 ## Featured Projects
 
-### SOP – Hardening Windows Defender Using Local GPO – v1.0.1
-- Enforced endpoint protection via Group Policy
-- Restricted user-level control over security settings
-- Validated enforcement through system testing and policy refresh
+### SOP – Windows Defender Hardening via GPO – v1.0.1
+- Enforced endpoint security using Group Policy (GPO)
+- Restricted local modification of security settings
+- Validated policy enforcement through system testing and refresh cycles
 
 🔗 https://eldongabriel.github.io/sop-hardening-windows-defender-using-local-gpo/
 
 ---
 
-### REPORT – AD Disaster Recovery & Identity Restoration – v1.0.2
-- Restored domain controller using system state recovery
-- Performed directory repair in Directory Services Restore Mode (DSRM)
-- Verified AD integrity using dcdiag and replication tools
+### REPORT – Active Directory Disaster Recovery & Identity Restoration – v1.0.2
+- Restored domain services using system state recovery
+- Performed recovery in Directory Services Restore Mode (DSRM)
+- Validated directory integrity using diagnostic tooling
 
 🔗 https://eldongabriel.github.io/report-ad-disaster-recovery-identity-restoration-v1.0.2/
 
 ---
 
 ### REPORT – Enterprise IPsec VPN Diagnostics – v1.0.0
-- Investigated and resolved site-to-site VPN failure
-- Identified configuration-level routing and tunnel issues
-- Restored encrypted inter-network communication
+- Diagnosed site-to-site VPN failure across enterprise topology
+- Identified routing and tunnel configuration issues
+- Restored secure encrypted connectivity between networks
 
 🔗 https://eldongabriel.github.io/report-enterprise-ipsec-vpn-dianogstics-v1.0.0/
 
 ---
 
-## Core Security Domains
+## Core Infrastructure Domains
 
 ### System Hardening & Endpoint Security
 - Group Policy enforcement (GPO)
 - Windows Defender configuration
 - Privilege restriction and access control
-- Endpoint behavior monitoring
+- Endpoint security baseline enforcement
 
 ### Network Security & Operations
-- pfSense firewall configuration
-- VPN troubleshooting (IPsec)
+- Firewall configuration (pfSense)
+- VPN troubleshooting (IPsec / OpenVPN)
 - Traffic analysis and protocol diagnostics
-- Network segmentation validation
+- Network segmentation and validation
 
-### Identity & Access Security
-- NTFS permissions and access control
+### Identity & Access Management
+- Active Directory administration
 - Authentication policy enforcement
-- Privilege escalation prevention
-- Credential protection mechanisms
+- NTFS permission control
+- Privilege escalation mitigation
 
-### Security Operations
-- Threat detection and investigation workflows
-- IOC identification and analysis
-- Endpoint and log-based monitoring
-- Security validation testing
+### Security Operations & Monitoring
+- Log analysis and security event review
+- Threat detection workflows
+- Endpoint monitoring and validation
+- Incident investigation and response support
 
 ---
 
-## Selected Tools
+## Tools & Platforms
 
-- Nmap, Burp Suite, OpenVAS  
-- YARA rule development  
-- Procmon, PE Studio  
-- VMware / VirtualBox lab environments  
-- AWS EC2 / Google Cloud VM testing  
+Windows Server • Active Directory • Group Policy (GPO) • Linux (Ubuntu/Kali)  
+Wazuh • Lynis • pfSense • OpenVPN • Docker • Proxmox VE • VMware  
+Cockpit • Webmin • Veeam Backup • Duplicati • OpenVAS  
+Python • MS Security Toolkit • Have I Been Pwned
 
 ---
 
@@ -89,8 +95,8 @@ Each project is validated through implementation in controlled lab environments,
 - Cybersecurity Professional Certificate – 2025  
 - IT Support Professional Certificate – 2025  
 
-**NIST / Risk Frameworks**
-- Risk Management Framework Specialization – 2025  
+**Risk & Frameworks**
+- Risk Management Framework (NIST-aligned) – 2025  
 
 **MCSI**
 - MICS Level 3 (In Progress)  
@@ -101,19 +107,24 @@ Each project is validated through implementation in controlled lab environments,
 
 ## Portfolio Purpose
 
-This repository demonstrates:
-- applied cybersecurity and system administration skills  
-- structured technical investigation and reporting  
-- validated lab-based security implementations  
-- continuous development across infrastructure security domains  
+This repository showcases practical infrastructure and security operations skills including:
+
+- Systems administration in enterprise-style environments  
+- Security hardening and configuration control  
+- Network troubleshooting and defense operations  
+- Identity and access management  
+- Structured technical reporting and validation  
+
+All work is performed in controlled lab environments and documented for real-world applicability.
 
 ---
 
 ## Portfolio Website
+
 https://eldongabriel.github.io
 
 Includes:
-- technical reports  
-- lab documentation  
-- security configurations  
-- troubleshooting workflows  
+- Infrastructure reports
+- Security configurations
+- Troubleshooting documentation
+- Operational case studies
