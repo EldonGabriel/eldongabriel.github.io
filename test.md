@@ -1,15 +1,23 @@
 ---
-title: Infrastructure & Systems
-layout: default
-slug: test
-collection: experience
-order: 3
+layout: home
+title: Eldon Gabriel
+subtitle: System Administration & Infrastructure Operations
+tagline: Windows, Linux, Monitoring, Backup, and Security Hardening
 permalink: /test/
 image:
-  path: /assets/images/headers/section-header.png
-  thumbnail: /assets/images/headers/section-header.png
-  caption: Infrastructure & Systems Administration Labs
+  path: /assets/images/mcsi-novice-sysadmin.png
 ---
+
+<section class="home-hero">
+
+<p class="subtitle">
+{{ page.subtitle }}
+</p>
+
+<p class="tagline">
+{{ page.tagline }}
+</p>
+
 
 {% include section.html section=site.data.infrastructure %}
 <h1 style="text-align:left;">
