@@ -15,15 +15,11 @@ image:
 ## OSINT Investigation Laboratory Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
-This section documents hands-on OSINT investigations focused on collecting, validating, and analyzing publicly available information from web sources, social platforms, and internet-facing infrastructure.
+This section documents hands-on OSINT investigations focused on collecting, validating, and analyzing publicly available information from web sources, social platforms, and Internet-facing infrastructure. The work includes data correlation, verification, and investigative analysis supporting threat intelligence and security assessments.
 </p>
 
 <p style="line-height:1.6; font-size:1.05em;">
-Work includes data correlation, verification, and investigative analysis to support threat intelligence and security assessments.
-</p>
-
-<p style="line-height:1.6; font-size:1.05em;">
-<em>All investigations follow structured workflows aligned with repeatable validation and analytical methods.</em>
+All investigations followed structured workflows aligned with repeatable validation and analytical methods.
 </p>
 
 ### Lab Distribution Summary
@@ -37,10 +33,6 @@ Work includes data correlation, verification, and investigative analysis to supp
 ---
 
 ### 🔍 Technical Analysis & Platform Mapping
-
-These reports establish the core knowledge required for conducting thorough technical analysis and mapping of platforms. The focus is on understanding how platforms interact with data, networks, and security controls at a deep technical level, and how misconfigurations or vulnerabilities can lead to security risks.
-
-The goal is to develop a clear understanding of how platforms function under the hood, so issues can be identified, analyzed, and resolved efficiently while ensuring that security measures are applied proactively and with full context.
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
@@ -229,11 +221,12 @@ Request Access
 
 </div>
 
- 
+--- 
+
 ## Portfolio Documentation
 
-This section presents applied OSINT investigations, including platform analysis, digital footprint mapping, and intelligence collection techniques performed in controlled environments.
+This section presents the applied OSINT investigations, including platform analysis, digital footprint mapping, and intelligence collection techniques performed in controlled environments.
 
-Selected materials demonstrate core investigative competencies, while additional workflows and supporting research are maintained in a private archive.
+The selected materials demonstrate core investigative competencies, whereas additional workflows and supporting research are maintained in a private archive.
 
-Full investigative reports and supporting materials are available upon request for professional or technical review.
+Full investigative reports and supporting materials are available upon request for professional and technical reviews.
