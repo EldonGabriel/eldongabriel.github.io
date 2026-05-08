@@ -15,11 +15,11 @@ image:
 </h2>
 
 <p>
-This portfolio demonstrates hands-on systems administration, infrastructure security, and operational troubleshooting across Windows and Linux environments. Projects focus on server hardening, monitoring deployment, backup and recovery operations, network security, and technical problem resolution using structured validation and root cause analysis methods.
+This portfolio demonstrates hands-on systems administration, infrastructure security, and operational troubleshooting in Windows and Linux environments. Projects focus on server hardening, monitoring deployment, backup and recovery operations, network security, and technical problem resolution using structured validation and root-cause analysis methods.
 </p>
 
 <p>
-Each project follows a proof-of-work approach where infrastructure concepts are tested through practical implementation, troubleshooting, documentation, and security validation aligned with industry frameworks and operational best practices.
+Each project follows a proof-of-work approach, where infrastructure concepts are tested through practical implementation, troubleshooting, documentation, and security validation, aligned with industry frameworks and operational best practices.
 </p>
 
 <p>Focused on operational reliability, infrastructure security, monitoring visibility, and structured troubleshooting across enterprise-style lab environments.</p>
@@ -130,21 +130,23 @@ View Certifications
 <div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Group Policy (GPO)</div>
 <div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Linux (Ubuntu/Kali)</div>
 <div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Wazuh</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Lynis</div>
 <div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">pfSense</div>
 <div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">OpenVPN</div>
 <div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Docker</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">VirtualBox</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Proxmox VE</div>
 <div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">VMware</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Wireshark</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">TCPDump</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Nmap</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">DNS / DHCP</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Cockpit</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Webmin</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Veeam Backup</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Duplicati</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">MS Security Toolkit</div>
 <div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">OpenVAS</div>
 <div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">ClamAV</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Duplicati</div>
 <div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Python</div>
+<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Have I Been Pwned</div>
 
-</div>
+</div> Windows Server
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
@@ -161,7 +163,7 @@ View Certifications
   </div>
   <div style="flex: 2; padding-left: 20px;">
     <p>
-    Reinforced structured decision-making, operational discipline, and risk evaluation principles used when analyzing infrastructure issues, system reliability, and security controls.
+    Reinforced structured decision-making, operational discipline, and risk evaluation principles are used when analyzing infrastructure issues, system reliability, and security controls.
     </p>
   </div>
 </div>
@@ -175,7 +177,7 @@ View Certifications
   </div>
   <div style="flex: 2; padding-right: 20px;">
     <p>
-    Strengthened professional communication and documentation skills used to translate technical findings, operational risks, and troubleshooting outcomes into clear business-focused reporting.
+    Strengthened professional communication and documentation skills used to translate technical findings, operational risks, and troubleshooting outcomes into clear, business-focused reports.
     </p>
   </div>
 
@@ -185,13 +187,13 @@ View Certifications
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 <h2 style="text-align:left;">
-  Technical Operations & Case Studies
+  Technical Reports & Case Studies
 </h2>
 
 <div style="margin:40px 0;">
-  <img src="/assets/images/headers/recent-reports.png" alt="Technical Operations Banner" style="width:100%; border-radius:8px;">
+  <img src="/assets/images/headers/case-studies.png" alt="Technical Operations Banner" style="width:100%; border-radius:8px;">
 </div>
 
 <p style="text-align:center; max-width:850px; margin:0 auto;">
-A structured collection of infrastructure troubleshooting reports, hardening procedures, monitoring deployments, recovery operations, and security investigations demonstrating applied systems administration and infrastructure security practices across real-world environments.
+A structured collection of infrastructure troubleshooting reports, hardening procedures, monitoring deployments, recovery operations, and security investigations demonstrating applied systems administration and infrastructure security practices in real-world environments.
 </p>
