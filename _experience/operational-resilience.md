@@ -15,15 +15,11 @@ image:
 ## Operational Resilience Laboratory Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
-This section documents hands-on operational resilience labs focused on system recovery, backup validation, and disaster recovery procedures in controlled environments.
+This section documents hands-on operational resilience labs that focus on system recovery, backup validation, and disaster recovery procedures in controlled environments. The work includes testing recovery strategies, validating restoration processes, and ensuring service continuity following simulated failures and disruptions.
 </p>
 
 <p style="line-height:1.6; font-size:1.05em;">
-Work includes testing recovery strategies, validating system restoration processes, and ensuring service continuity following simulated failures and disruptions.
-</p>
-
-<p style="line-height:1.6; font-size:1.05em;">
-<em>All labs follow structured recovery workflows centered on restoration, verification, and operational continuity.</em>
+All laboratories followed structured recovery workflows centered on restoration, verification, and operational continuity.
 </p>
 
 
@@ -38,13 +34,7 @@ Work includes testing recovery strategies, validating system restoration process
 
 ---
 
-### 🔄 Backup, Recovery & Continuity Operations
-
-These reports establish the core knowledge required for implementing effective backup, recovery, and system restoration strategies. The focus is on ensuring business continuity, minimizing downtime, and recovering swiftly from operational failures.
-
-The goal is to understand how backup processes work in the background, so systems can be restored efficiently, business operations can continue with minimal disruption, and recovery procedures are optimized for security and speed.
-
- 
+## 🔄 Backup, Recovery & Continuity Operations
 
 ### 💾 Data Protection & Recovery Testing
 
@@ -95,7 +85,7 @@ View Report
 
  
 
-## Recovery & Migration Demonstrations
+## Lab Demonstrations
 
 ### 💾 Backup, Recovery & Migration
 
@@ -135,8 +125,8 @@ View Report
 
 ## Portfolio Documentation
 
-This section presents operational resilience work, including backup implementation, disaster recovery validation, and system restoration testing.
+This section presents the operational resilience work, including backup implementation, disaster recovery validation, and system restoration testing.
 
-Selected materials demonstrate core recovery and continuity capabilities, while additional configuration data and validation evidence are maintained in a private archive.
+The selected materials demonstrated core recovery and continuity capabilities, whereas additional configuration data and validation evidence were maintained in a private archive.
 
 Full documentation is available upon request for professional or technical review.
