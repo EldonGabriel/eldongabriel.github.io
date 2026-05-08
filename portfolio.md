@@ -25,7 +25,7 @@ Work is built through controlled laboratory environments and documented using ro
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:20px; margin:30px 0;">
 
-  <!-- Box 1: Validation -->
+  <!-- Box 1: Validation Context -->
   <div style="background: rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 
     <p style="margin:0; font-size:1.05em;">
@@ -45,12 +45,14 @@ Work is built through controlled laboratory environments and documented using ro
 
     <p align="center" style="margin-top:20px;">
       <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832"
+         target="_blank"
+         rel="noopener noreferrer"
          style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
-       View MCSI Student Portfolio
+        View MCSI Student Portfolio
       </a>
     </p>
-    
-    </div>
+
+  </div>
 
   <!-- Box 2: Portfolio Index -->
   <div style="background: rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
@@ -69,6 +71,8 @@ Work is built through controlled laboratory environments and documented using ro
 
     <p align="center" style="margin-top:20px;">
       <a href="https://docs.google.com/spreadsheets/d/1_NJJ7v9wQ4OH1zhxlq-AKbwUoMMPS58R2aZGxMsAukI/edit?usp=sharing"
+         target="_blank"
+         rel="noopener noreferrer"
          style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
         View Portfolio Index
       </a>
