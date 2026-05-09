@@ -1,9 +1,9 @@
 ---
-title: SOP - Access Control Incident & NIST Alignment - v1.2.1
+title: SUMMARY – Identity & Access Management: Access Control Incident Response (NIST-Aligned) – v1.0.0
 date: 2026-03-20
 author: Eldon Gabriel
-categories: [GRC]
-tags: [Cybersecurity, GRC, Access Control, NIST, Risk Analysis]
+categories: [Identity & Access Management]
+tags: [Access Control, Least Privilege, NIST SP 800-53, AC-6, Incident Response]
 excerpt: "Analysis of a data exposure incident caused by weak access controls and lack of enforced security policies."
 image:
   path: /assets/images/posts/access-control.png
