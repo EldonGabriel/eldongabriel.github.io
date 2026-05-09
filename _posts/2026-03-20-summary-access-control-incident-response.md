@@ -1,5 +1,5 @@
 ---
-title: SUMMARY – Identity & Access Management: Access Control Incident Response (NIST-Aligned) – v1.0.0
+title: SUMMARY – Identity & Access Management: Access Control Incident Response – v1.0.0
 date: 2026-03-20
 author: Eldon Gabriel
 categories: [Identity & Access Management]
