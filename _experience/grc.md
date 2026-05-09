@@ -71,11 +71,11 @@ This section documents applied governance, risk, and compliance labs focused on 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
   
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – AC-6 Least Privilege (NIST SP 800-53) – v1.0.2</h5> 
+<h5>SUMMARY – Governance, Risk & Compliance: Least Privilege (NIST SP 800-53 AC-6) – v1.0.0</h5> 
 <p>Using least privilege, RBAC, and access controls to reduce risk and protect systems from unauthorized access.</p>
 <p><strong>Skills:</strong> Access Control · RBAC · Least Privilege Enforcement</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-ac-6-least-privilege-v1.0.2/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
+<a href="https://eldongabriel.github.io/summary-grc-least-privilege-nist-sp-800-53-ac-6/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
 </p>
 </div>
 
