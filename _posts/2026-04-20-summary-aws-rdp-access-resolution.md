@@ -1,5 +1,5 @@
 ---
-title: "REPORT – AWS RDP Access Resolution (Client Summary) – v1.0.0"
+title: "SUMMARY – Cloud Infrastructure: AWS RDP Access Resolution – v1.0.0"
 date: 2026-04-20
 author: Eldon Gabriel
 categories: [Networking]
