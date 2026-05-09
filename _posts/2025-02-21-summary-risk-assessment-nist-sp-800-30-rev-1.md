@@ -20,7 +20,7 @@ The result was an improved security posture by replacing reactive security measu
 
  
 
-# 1.0 Risk Assessment Adapted from NIST SP 800-30 Rev. 1
+# 1.0 Risk Assessment (NIST SP 800-30 Rev. 1)
 
 ## 1.1 Project Description
 
