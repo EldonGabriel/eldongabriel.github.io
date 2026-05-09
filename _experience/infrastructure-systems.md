@@ -541,7 +541,7 @@ View Report</a>
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – AWS EC2 Virtual Machine Deployment and Secure SSH Access – v1.0.0</h5>
+<h5>LAB – Cloud Infrastructure: EC2 VM Deployment & Secure SSH Access (AWS) – v1.0.0</h5>
 <p>Provisioned EC2 instances within AWS, configured Security Groups, and validated secure SSH access to ensure controlled remote administration.</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
