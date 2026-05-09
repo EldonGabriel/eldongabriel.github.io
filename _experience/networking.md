@@ -203,11 +203,11 @@ View Report</a>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – AWS RDP Access Resolution Summary – v1.0.0</h5>
+<h5>SUMMARY – Cloud Infrastructure: AWS RDP Access Resolution – v1.0.0</h5>
 <p>Resolution of Remote Desktop Protocol (RDP) access failures on an AWS-hosted Windows 10 instance through group membership validation, firewall configuration, and service verification.</p>
 <p><strong>Skills:</strong> AWS Cloud Administration · Windows Server Management · RDP Troubleshooting · Access Control</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-aws-rdp-access-resolution-summary/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+<a href="https://eldongabriel.github.io/summary-aws-rdp-access-resolution/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
 View Report</a>
 </p>
 </div>
