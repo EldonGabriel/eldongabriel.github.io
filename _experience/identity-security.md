@@ -16,8 +16,8 @@ image:
 
 | Category | Labs |
 |--------|------|
-| Identity & Access Management | 8 |
-| **Total Identity Security Labs Documented** | **8** |
+| Identity & Access Management | 9 |
+| **Total Identity Security Labs Documented** | **9** |
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
@@ -106,6 +106,15 @@ All labs focus on enforcing access control policies and reducing the risk of una
 <p><strong>Skills:</strong> Credential Management · Encryption · Authentication</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-password-managers-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>SUMMARY – Identity & Access Management: Access Control Incident Response (NIST-Aligned) – v1.0.0</h5>
+<p>Analysis of a real-world data leak caused by weak access controls, identifying control gaps and applying least privilege principles.</p>
+<p><strong>Skills:</strong> Risk Assessment · Access Control · NIST Alignment</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/summary-access-control-incident-response/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
 </p>
 </div>
 
