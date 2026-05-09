@@ -1,5 +1,5 @@
 ---
-title: "REPORT– AC-6 Least Privilege (NIST SP 800-53) – v1.0.2"
+title: "SUMMARY – Governance, Risk & Compliance: Least Privilege (NIST SP 800-53 AC-6) – v1.0.0"
 date: 2025-02-22
 author: Eldon Gabriel
 categories: [GRC]
