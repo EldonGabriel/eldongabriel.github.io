@@ -91,10 +91,9 @@ This section documents applied governance, risk, and compliance labs focused on 
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Governance, Risk & Compliance: Front-Running in CeFi vs DeFi – v1.1.0</h5>
-<p>Analyzed front-running risks across centralized and decentralized finance models, comparing regulatory enforcement in CeFi with protocol-level vulnerabilities in DeFi. Evaluated how XRP Ledger (XRPL) mitigates front-running through deterministic consensus, fast transaction processing, and removal of mempool exposure.</p>
+Examined front-running as a market manipulation risk across CeFi and DeFi environments. Mapped differences in visibility, legality, and execution, and assessed XRP Ledger’s protocol design as a mitigation strategy against transaction reordering and MEV exploitation.</p>
 <p><strong>Skills:</strong> Risk Analysis · Financial Security Concepts · Blockchain Security</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
-</p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
