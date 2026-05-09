@@ -37,7 +37,7 @@ This section documents applied governance, risk, and compliance labs focused on 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Cybersecurity Assessment (Reporting Template) – v1.1.1</h5>
+<h5>REPORT – Governance, Risk & Compliance: Cybersecurity Assessment & Reporting Standards – v1.1.1</h5>
 <p>Implementation of standardized reporting frameworks, including revision history and executive summaries for formal assessments.</p>
 <p><strong>Skills:</strong> Professional Reporting · Documentation Standards</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
