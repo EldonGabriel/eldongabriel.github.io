@@ -1,5 +1,5 @@
 ---
-title: "GUIDE – GCP Windows 10 VM Deployment – v1.0.0"
+title: "GUIDE – Cloud Infrastructure: Windows 10 VM Deployment (GCP) – v1.0.0"
 date: 2025-09-06
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
