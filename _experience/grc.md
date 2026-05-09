@@ -23,7 +23,7 @@ This section documents applied governance, risk, and compliance labs focused on 
 | Category | Labs |
 |--------|------|
 | Technical Communication & Reporting Standards | 4 |
-| Risk Management & Security Frameworks | 3 |
+| Risk Management & Security Frameworks | 4 |
 | Threat Modeling & Defensive Strategy | 2 |
 | Lab Demonstration | 0 |
 | **Total Governance Documents** | **10** |
@@ -86,6 +86,14 @@ This section documents applied governance, risk, and compliance labs focused on 
 <p><strong>Skills:</strong> Risk Assessment · Threat Analysis · Vulnerability Identification</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/summary-risk-assessment-nist-sp-800-30-rev-1/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>REPORT – Governance, Risk & Compliance: Front-Running in CeFi vs DeFi – v1.1.0</h5>
+<p>Analyzed front-running risks across centralized and decentralized finance models, comparing regulatory enforcement in CeFi with protocol-level vulnerabilities in DeFi. Evaluated how XRP Ledger (XRPL) mitigates front-running through deterministic consensus, fast transaction processing, and removal of mempool exposure.</p>
+<p><strong>Skills:</strong> Risk Analysis · Financial Security Concepts · Blockchain Security</p>
+<p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </p>
 </div>
 
