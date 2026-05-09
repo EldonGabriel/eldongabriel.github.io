@@ -547,7 +547,7 @@ View Report</a>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – GCP Compute Engine Virtual Machine Deployment and SSH Access – v1.0.0</h5>
+<h5>LAB – Cloud Infrastructure: Compute Engine VM Deployment & SSH Access (GCP) – v1.0.0</h5>
 <p>Deployed Compute Engine virtual machines within GCP, configured VPC networking, and validated SSH access for secure system management.</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
