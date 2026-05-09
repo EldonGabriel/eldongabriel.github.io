@@ -23,7 +23,7 @@ This section documents applied governance, risk, and compliance labs focused on 
 | Category | Labs |
 |--------|------|
 | Technical Communication & Reporting Standards | 4 |
-| Risk Management & Security Frameworks | 4 |
+| Risk Management & Security Frameworks | 3 |
 | Threat Modeling & Defensive Strategy | 2 |
 | Lab Demonstration | 0 |
 | **Total Governance Documents** | **10** |
@@ -79,14 +79,6 @@ This section documents applied governance, risk, and compliance labs focused on 
 </p>
 </div>
 
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>SOP – Access Control Incident & NIST Alignment – v1.2.1</h5>
-<p>Analysis of a real-world data leak caused by weak access controls, identifying control gaps and applying least privilege principles.</p>
-<p><strong>Skills:</strong> Risk Assessment · Access Control · NIST Alignment</p>
-<p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/sop-access-control-incident-nist-alignment/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
-</p>
-</div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>REPORT – Risk Assessment Adapted from NIST SP 800-30 Rev. 1 – v1.0.2</h5>
