@@ -474,10 +474,10 @@ View Report</a>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>GUIDE – GCP Windows 10 VM Deployment – v1.0.0</h5>
+<h5>GUIDE – Cloud Infrastructure: Windows 10 VM Deployment (GCP) – v1.0.0</h5>
 <p>Deployed and configured a Windows 10 virtual machine in GCP, including network setup, secure access configuration, and system initialization.</p>
 <p><strong>Skills:</strong> GCP · Cloud Infrastructure · VM Deployment · Remote Access Configuration</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-gcp-windows-10-vm-deployment-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/guide-windows-10-vm-deployment-gcp/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
