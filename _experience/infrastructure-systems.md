@@ -117,10 +117,10 @@ View Report</a>
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>SOP – Hardening Windows Defender Using Local GPO – v1.0.1</h5>
+<h5>SOP – HardenSystem Hardening: Windows Defender GPO – v1.0.1</h5>
 <p>Configured Windows Defender using Local Group Policy to enforce real-time protection and standardized endpoint security settings.</p>
 <p><strong>Skills:</strong> Endpoint Protection · Windows Defender · GPO Enforcement</p>
-<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-hardening-windows-defender-using-local-gpo-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
+<p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-system-hardening-windows-defender-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
