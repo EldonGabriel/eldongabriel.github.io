@@ -58,9 +58,9 @@ This section documents applied governance, risk, and compliance labs focused on 
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>TEMPLATE – Professional Security Report Framework – v.1.0.0</h5>
+<h5>TEMPLATE – Governance, Risk & Compliance: Security Report Framework – v1.0.0</h5>
 <p>A structured framework for producing executive-ready security reports that translate technical findings into clear business impact.</p>
-<p><strong>Skills:</strong> Executive Reporting · Technical Communication</p>
+<p><strong>Skills:</strong> Executive Reporting · Technical Communication · GRC Reporting</p>
 <p align="center" style="margin-top:20px;"><a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?usp=sharing" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Download</a></p>
 </div>
 
@@ -90,7 +90,7 @@ This section documents applied governance, risk, and compliance labs focused on 
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>TEMPLATE – Bring Your Own Device (BYOD) Policy and Agreement - v1.0.0</h5>
+<h5>TEMPLATE – Governance, Risk & Compliance: BYOD Policy & Agreement – v1.0.0</h5>
 <p>A NIST-aligned policy framework to secure personal device usage within corporate networks, including employee legal agreements.</p>
 <p><strong>Skills:</strong> Policy Writing · Security Governance · NIST Alignment</p>
 <p align="center" style="margin-top:20px;"><a href="https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Download</a></p>
