@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Risk Assessment Adapted from NIST SP 800-30 Rev. 1 – v1.0.2"
+title: "SUMMARY – Governance, Risk & Compliance: Risk Assessment (NIST SP 800-30 Rev. 1) – v1.0.0"
 date: 2025-02-21
 author: Eldon Gabriel
 categories: [GRC]
