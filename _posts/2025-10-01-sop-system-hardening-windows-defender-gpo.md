@@ -1,5 +1,5 @@
 ---
-title: "SOP – Hardening Windows Defender Using Local GPO – v1.0.1"
+title: "SOP – System Hardening: Windows Defender GPO – v1.0.1"
 date: 2025-10-01
 author: Eldon Gabriel
 categories: [Security Operations]
