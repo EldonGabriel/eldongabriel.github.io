@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Domain Controller NAT and Routing – v1.0.3"
+title: "SUMMARY – Domain Controller NAT and Routing – v1.0.3"
 date: 2026-02-26
 author: Eldon Gabriel
 categories: [Networking]
