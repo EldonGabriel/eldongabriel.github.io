@@ -1,5 +1,5 @@
 ---
-title: "REPORT – BIOS, UEFI, and System Boot Architecture – v1.0.0"
+title: "SUMMARY – BIOS, UEFI, and System Boot Architecture – v1.0.0"
 date: 2026-04-16
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
