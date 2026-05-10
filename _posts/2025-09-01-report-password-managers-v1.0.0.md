@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Password Managers – v1.0.0"
+title: "SUMMARY – Password Managers – v1.0.0"
 date: 2025-09-01
 author: Eldon Gabriel
 categories: [Identity Security]
