@@ -1,5 +1,5 @@
 ---
-title: "REPORT – pfSense Infrastructure Framework and Hardening – v1.0.0"
+title: "SUMMARY – pfSense Infrastructure Framework and Hardening – v1.0.0"
 date: 2026-04-02
 author: Eldon Gabriel
 categories: [Networking]
