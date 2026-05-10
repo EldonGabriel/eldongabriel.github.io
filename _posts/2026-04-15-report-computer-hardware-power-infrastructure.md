@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Computer Hardware and Power Infrastructure – v1.0.0"
+title: "SUMMARY – Computer Hardware and Power Infrastructure – v1.0.0"
 date: 2026-04-15
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
