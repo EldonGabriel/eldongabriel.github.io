@@ -1,5 +1,5 @@
 ---
-title: "REPORT – BYOD in Organizations: Security, Challenges, and Strategies – v1.0.1"
+title: "SUMMARY – Governance, Risk & Compliance: BYOD in Organizations: Security, Challenges, and Strategies – v1.0.0"
 date: 2025-08-01
 author: Eldon Gabriel
 categories: [GRC]
