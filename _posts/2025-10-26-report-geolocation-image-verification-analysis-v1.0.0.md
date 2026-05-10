@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Geolocation and Image Verification Analysis – v1.0.0"
+title: "SUMMARY – Geolocation and Image Verification Analysis – v1.0.0"
 date: 2025-10-26
 author: Eldon Gabriel
 categories: [OSINT Investigation]
