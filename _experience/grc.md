@@ -93,6 +93,7 @@ This section documents applied governance, risk, and compliance labs focused on 
 <h5>SUMMARY – Governance, Risk & Compliance: Bank Risk Register Analysis – v1.0.0</h5>
 <p>Risk register assessment of a financial institution identifying and prioritizing operational and technical risks using a structured risk matrix aligned with NIST SP 800-30.</p>
 <p><strong>Skills:</strong> Risk Assessment · Risk Register · NIST SP 800-30 · Security Control Evaluation</p>
+<p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/summary-bank-risk-register-analysis/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
 </div>
 
