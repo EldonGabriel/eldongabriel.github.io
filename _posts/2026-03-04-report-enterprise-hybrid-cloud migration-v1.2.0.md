@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Enterprise Hybrid-Cloud Migration – v1.2.0"
+title: "SUMMARY – Enterprise Hybrid-Cloud Migration – v1.0.0"
 date: 2026-03-04
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
