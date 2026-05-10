@@ -19,7 +19,7 @@ The goal was to reduce risks such as data leakage, unauthorized access, and malw
 The final result improved security by replacing open device access with controlled systems using Mobile Device Management (MDM) and strict access rules.
 
  
-# 1.0 BYOD in Organizations: Security, Challenges, and Strategies
+# 1.0 BYOD Security, Challenges, and Strategies
 
 ## 1.1 Project Description
 
