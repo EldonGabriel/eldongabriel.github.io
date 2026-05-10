@@ -1,5 +1,5 @@
 ---
-title: "REPORT – USB Passthrough Instability in VirtualBox (Kali Linux) – v1.0.0"
+title: "SUMMARY – USB Passthrough Instability in VirtualBox (Kali Linux) – v1.0.0"
 date: 2026-04-24
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
