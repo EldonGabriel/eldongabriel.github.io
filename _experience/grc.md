@@ -23,10 +23,10 @@ This section documents applied governance, risk, and compliance labs focused on 
 | Category | Labs |
 |--------|------|
 | Technical Communication & Reporting Standards | 4 |
-| Risk Management & Security Frameworks | 4 |
+| Risk Management & Security Frameworks | 5 |
 | Threat Modeling & Defensive Strategy | 2 |
 | Lab Demonstration | 0 |
-| **Total Governance Documents** | **10** |
+| **Total Governance Documents** | **11** |
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
@@ -87,6 +87,13 @@ This section documents applied governance, risk, and compliance labs focused on 
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/summary-risk-assessment-nist-sp-800-30-rev-1/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
 </p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>SUMMARY – Governance, Risk & Compliance: Bank Risk Register Analysis – v1.0.0</h5>
+<p>Risk register assessment of a financial institution identifying and prioritizing operational and technical risks using a structured risk matrix aligned with NIST SP 800-30.</p>
+<p><strong>Skills:</strong> Risk Assessment · Risk Register · NIST SP 800-30 · Security Control Evaluation</p>
+<a href="https://eldongabriel.github.io/summary-bank-risk-register-analysis/" target="_blank" style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:white; border-radius:5px; font-weight:bold; font-size:0.9em; text-decoration:none;">View Report</a>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
