@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Operating System Fundamentals and System Operations – v1.0.0"
+title: "SUMMARY – Operating System Fundamentals and System Operations – v1.0.0"
 date: 2026-04-17
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
