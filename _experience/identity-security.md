@@ -121,20 +121,6 @@ All labs focus on enforcing access control policies and reducing the risk of una
 
 </div>
 
-## Lab Demonstrations
-
-### 🔐 Identity & Access Management
-
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
-
-<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>LAB – Identity & Access Management: Windows Credential Manager on AWS VM – v1.0.0</h5>
-<p>Configured and analyzed Windows Credential Manager within an AWS-hosted virtual machine to understand how stored credentials are handled, protected, and accessed within a Windows environment.</p>
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/8UPRuS-ZZ3s?si=OuoxhyABeczgxTHh" frameborder="0" allowfullscreen></iframe>
-</div>
-
-</div>
-
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 ## Portfolio Documentation
