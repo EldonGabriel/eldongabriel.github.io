@@ -1,5 +1,5 @@
 ---
-title: "REPORT – SAR Performance Monitoring on Ubuntu – v1.0.1"
+title: "SUMMARY – SAR Performance Monitoring on Ubuntu – v1.0.1"
 date: 2026-01-28
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
