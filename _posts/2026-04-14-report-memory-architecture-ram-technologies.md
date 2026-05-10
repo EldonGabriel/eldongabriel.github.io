@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Memory Architecture and RAM Technologies – v1.0.0"
+title: "SUMMARY – Memory Architecture and RAM Technologies – v1.0.0"
 date: 2026-04-14
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
