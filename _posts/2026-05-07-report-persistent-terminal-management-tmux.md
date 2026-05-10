@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Persistent Terminal Management with Tmux – v1.0.0"
+title: "SUMMARY – Persistent Terminal Management with Tmux – v1.0.0"
 date: 2026-05-07
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
