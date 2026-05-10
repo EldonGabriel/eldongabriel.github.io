@@ -1,5 +1,5 @@
 ---
-title: "GUIDE – vSphere 8 Nested Lab on AMD Ryzen 5 6600H – v1.0.1"
+title: "SUMMARY – vSphere 8 Nested Lab on AMD Ryzen 5 6600H – v1.0.1"
 date: 2026-02-22
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
