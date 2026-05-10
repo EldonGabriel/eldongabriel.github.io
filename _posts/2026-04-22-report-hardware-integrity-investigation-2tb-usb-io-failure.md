@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Hardware Integrity Investigation: 2TB USB I/O Failure – v1.0.0"
+title: "SUMMARY – Hardware Integrity Investigation: 2TB USB I/O Failure – v1.0.0"
 date: 2026-04-22
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
