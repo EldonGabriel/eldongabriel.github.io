@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Storage Systems and Data Management – v1.0.0"
+title: "SUMMARY – Storage Systems and Data Management – v1.0.0"
 date: 2026-04-14
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
