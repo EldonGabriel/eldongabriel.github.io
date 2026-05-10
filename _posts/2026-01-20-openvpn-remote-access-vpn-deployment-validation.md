@@ -1,5 +1,5 @@
 ---
-title: "REPORT – OpenVPN Remote Access VPN Deployment and Validation – v1.0.0"
+title: "SUMMARY – OpenVPN Remote Access VPN Deployment and Validation – v1.0.0"
 date: 2026-01-20
 author: Eldon Gabriel
 categories: [Networking]
