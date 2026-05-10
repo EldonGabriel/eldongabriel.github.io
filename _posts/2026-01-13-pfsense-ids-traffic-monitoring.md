@@ -1,5 +1,5 @@
 ---
-title: "REPORT – pfSense IDS Traffic Monitoring and EternalBlue Detection – v1.0.0"
+title: "SUMMARY – pfSense IDS Traffic Monitoring and EternalBlue Detection – v1.0.0"
 date: 2026-01-13
 author: Eldon Gabriel
 categories: [Security Operations]
