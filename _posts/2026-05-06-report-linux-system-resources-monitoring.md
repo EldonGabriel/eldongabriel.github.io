@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Linux System Resources Monitoring (CPU & Memory) – v1.0.0"
+title: "SUMMARY – Linux System Resources Monitoring (CPU & Memory) – v1.0.0"
 date: 2026-05-06
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
