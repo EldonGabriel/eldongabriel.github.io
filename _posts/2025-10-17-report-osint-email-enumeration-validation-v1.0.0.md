@@ -1,5 +1,5 @@
 ---
-title: "REPORT – OSINT Email Enumeration & Validation – v1.0.1"
+title: "SUMMARY – OSINT Email Enumeration & Validation – v1.0.1"
 date: 2025-10-17
 author: Eldon Gabriel
 categories: [OSINT Investigation]
