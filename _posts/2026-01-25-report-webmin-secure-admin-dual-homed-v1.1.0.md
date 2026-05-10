@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Webmin Secure Administration (Dual-Homed) – v1.1.0"
+title: "SUMMARY – Webmin Secure Administration (Dual-Homed) – v1.1.0"
 date: 2026-01-25
 author: Eldon Gabriel
 categories: [Security Operations]
