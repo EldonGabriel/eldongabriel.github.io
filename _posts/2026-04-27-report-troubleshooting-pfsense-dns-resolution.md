@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Troubleshooting pfSense DNS Resolution – v1.0.0"
+title: "SUMMARY – Troubleshooting pfSense DNS Resolution – v1.0.0"
 date: 2026-04-27
 author: Eldon Gabriel
 categories: [Security Operations]
