@@ -1,5 +1,5 @@
 ---
-title: "GUIDE – Backup and Restore Using Duplicati CLI – v1.0.1"
+title: "SUMMARY – Backup and Restore Using Duplicati CLI – v1.0.1"
 date: 2026-02-04
 author: Eldon Gabriel
 categories: [Operational Resilience]
