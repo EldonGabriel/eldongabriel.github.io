@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Prompt & Rubric Evaluation Exercises – v1.0.0"
+title: "SUMMARY – Prompt & Rubric Evaluation Exercises – v1.0.0"
 date: 2025-09-15
 author: Eldon Gabriel
 categories: [Operational Approach]
