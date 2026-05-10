@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Linux Automation: ClamAV Security & System Maintenance – v1.0.0"
+title: "SUMMARY – Linux Automation: ClamAV Security & System Maintenance – v1.0.0"
 date: 2026-05-04
 author: Eldon Gabriel
 categories: [Security Operations]
