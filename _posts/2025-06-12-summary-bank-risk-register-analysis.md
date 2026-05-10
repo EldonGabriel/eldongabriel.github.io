@@ -1,5 +1,5 @@
 ---
-title: "SUMMARY – Governance, Risk & Compliance: Bank Risk Register Analysis – v1.0.2"
+title: "SUMMARY – Governance, Risk & Compliance: Bank Risk Register Analysis – v1.0.0"
 date: 2025-06-12
 author: Eldon Gabriel
 categories: [GRC]
