@@ -1,5 +1,5 @@
 ---
-title: "SOP – Secure Linux Management with Cockpit – v1.0.1"
+title: "SUMMARY – Secure Linux Management with Cockpit – v1.0.1"
 date: 2026-01-27
 author: Eldon Gabriel
 categories: [Security Operations]
