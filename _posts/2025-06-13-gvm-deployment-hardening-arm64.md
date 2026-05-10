@@ -1,5 +1,5 @@
 ---
-title: "REPORT – GVM Deployment and Hardening on ARM64 Kali Linux – v1.1.0"
+title: "SUMMARY – GVM Deployment and Hardening on ARM64 Kali Linux – v1.1.0"
 date: 2025-06-13
 author: Eldon Gabriel
 categories: [Security Operations]
