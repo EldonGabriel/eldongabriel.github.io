@@ -1,5 +1,5 @@
 ---
-title: REPORT – AD Disaster Recovery & Identity Restoration – v1.0.2
+title: "SUMMARY – Identity & Access Management: Active Directory Disaster Recovery & Identity Restoration – v1.0.0"
 date: 2026-02-12
 author: Eldon Gabriel
 categories: [Identity Security]
