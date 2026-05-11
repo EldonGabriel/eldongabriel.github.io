@@ -48,17 +48,11 @@ The process focused on utilizing the `visudo` utility to modify the system's aut
 
 * **Sudoers Policy Implementation**
     * Used `sudo visudo` to safely edit the configuration with syntax validation
-    * Added a scoped rule:
-      ```
-      user1 ALL=(user2) NOPASSWD: /usr/local/bin/hello.sh
-      ```
+    * Added a scoped rule: `user1 ALL=(user2) NOPASSWD: /usr/local/bin/hello.sh`
     * Enabled `user1` to execute the script as `user2` without a password
 
 * **Privilege Validation**
-    * Executed:
-      ```
-      sudo -u user2 /usr/local/bin/hello.sh
-      ```
+    * Executed: `sudo -u user2 /usr/local/bin/hello.sh`
     * Used `whoami` within the script to confirm execution context as `user2`
 
  
