@@ -98,14 +98,14 @@ The system was checked to confirm that the USN Journal was active and that the d
 
 ## 2.2 Security Implications & Recommendations
 
-### Risk: Timestomping (Fake Timestamps)
+**Risk** Timestomping (Fake Timestamps)
 Attackers can change the file timestamps to hide their activities.  
 
 **Mitigation:** Use the USN Journal to verify the real order of file events during investigations.
 
  
 
-### Risk: Journal Overwrite (Loss of Evidence)
+**Risk:** Journal Overwrite (Loss of Evidence)
 High system activity can delete older records.  
 
 **Mitigation:** Increase the journal size (`MaxSize`) on important systems to keep more history.
