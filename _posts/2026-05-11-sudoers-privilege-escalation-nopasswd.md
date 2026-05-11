@@ -16,7 +16,7 @@ This report documents the implementation and analysis of granular privilege esca
 
 The result was a validated, noninteractive execution path, where a restricted user could execute a specific script as another target user. This reduces the need for manual authentication and restricts execution to a controlled command path.
 
-<hr style="border:1px solid rgba(255,255,255,0.0); margin:40px 0;">
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
 # 1.0 Sudoers Privilege Escalation
 
@@ -33,7 +33,7 @@ The implementation utilized the `/etc/sudoers` configuration to
 
 This workflow demonstrates how system administrators can enable secure automated processes by scoping elevated privileges to specific verified scripts.
 
-<hr style="border:1px solid rgba(255,255,255,0.0); margin:40px 0;">
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
 ## 1.2 Technical Task / Troubleshooting Process
 
@@ -96,7 +96,7 @@ The configuration was validated by testing the noninteractive execution path and
 4. **Negative Testing**
    * Verified that unauthorized commands outside the defined rule were not permitted
 
-<hr style="border:1px solid rgba(255,255,255,0.0); margin:40px 0;">
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
 # 2.0 CONCLUSION
 
