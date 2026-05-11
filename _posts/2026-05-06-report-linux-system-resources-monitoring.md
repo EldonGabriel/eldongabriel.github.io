@@ -120,14 +120,14 @@ Compromised accounts may execute unauthorized background processes, such as cryp
 * Use `top -u` during routine audits to isolate the resource impact of a specific user account.
 * Monitor unexpected spikes in the per-user resource consumption.
 
-### Best Practices
+**Best Practices**
 
 * Consistent measurement units should be used during reporting and analysis to avoid calculation errors in capacity planning.
 * Establish baseline system performance values for accurate detection of deviations.
 * Ensure that the swap space is active and factored into the total available memory before launching high-load applications.
 * Regularly used validation commands such as `free -h -t` to prevent human error during manual calculations.
 
-### Framework Alignment
+**Framework Alignment**
 
 * **NIST CSF (DE.CM):** Continuous monitoring supports detection of abnormal system behavior.
 * **CIS Control 12:** Monitoring infrastructure performance improves system availability and operational awareness.
