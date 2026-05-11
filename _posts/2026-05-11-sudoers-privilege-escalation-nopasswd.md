@@ -113,7 +113,7 @@ The configuration was validated by testing the noninteractive execution path and
 
 ## 2.2 Security Implications and Recommendations
 
-### Risk: Script Modification (Privilege Escalation)
+**Risk:** Script Modification (Privilege Escalation)
 
 If a script defined in the `sudoers` file is modified by unauthorized users, it can be used to execute malicious commands with elevated privileges.
 
@@ -125,7 +125,7 @@ If a script defined in the `sudoers` file is modified by unauthorized users, it 
 
  
 
-### Risk: Stale Privilege Entries
+**Risk:** Stale Privilege Entries
 
 Unused or outdated `NOPASSWD` rules may create hidden access paths.
 
