@@ -116,7 +116,7 @@ Unreliable behavior may indicate counterfeit or low-quality components.
 
  
 
-### Best Practices
+**Best Practices**
 
 - Apply zero trust principles to removable media with hardware errors  
 - Track hardware failures to identify patterns across devices  
@@ -125,7 +125,7 @@ Unreliable behavior may indicate counterfeit or low-quality components.
 
  
 
-### Framework Alignment
+**Framework Alignment**
 
 - Aligns with **NIST SP 800-53 (SA-12)** for supply chain protection  
 - Supports **ISO 27001 (A.11.2.7)** for secure device disposal  
