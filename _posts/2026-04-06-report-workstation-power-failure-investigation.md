@@ -53,8 +53,7 @@ The supporting hardware was checked.
   - Verified that the SATA power connections were secure.
   - Monitored system stability under continuous loads.
 
-
-- Documented the setup to support future hardware planning and its repeatability.
+Documented the setup to support future hardware planning and its repeatability.
 
 **Root Cause:** The addition of multiple hard drives caused the system to exceed the capacity of the 300W PSU. This triggered a safety shutdown during high-power usage. This issue was resolved by upgrading to a higher-capacity power supply.
 
