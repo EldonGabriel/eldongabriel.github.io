@@ -112,7 +112,7 @@ High system activity can delete older records.
 
  
 
-### Best Practices
+**Best Practices**
 
 - Limit access to tools like `fsutil` to authorized users only  
 - Monitor for deletion of the USN Journal, which may indicate an attack  
@@ -121,7 +121,7 @@ High system activity can delete older records.
 
  
 
-### Framework Alignment
+**Framework Alignment**
 
 - Supports forensic practices from NIST SP 800-86  
 - Aligns with ISO 27001 logging and monitoring requirements  
