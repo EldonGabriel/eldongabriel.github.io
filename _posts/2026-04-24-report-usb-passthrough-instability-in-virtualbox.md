@@ -103,7 +103,7 @@ The system was stabilized and secured using the following setup.
   - **Fix:** Assign ownership to standard users using `chown`
 
 
-### Best Practices
+**Best Practices**
 
 - Use stable USB controller settings (USB 2.0 if needed)
 - Avoid relying on auto-mount for untrusted devices
@@ -111,7 +111,7 @@ The system was stabilized and secured using the following setup.
 - Document outputs for validation and auditing
 
  
-### Framework Alignment
+**Framework Alignment**
 
 - Supports **NIST CSF – Protect (PR)** through secure configuration  
 - Aligns with **ISO 27001 A.12.6.2** (control of software execution)  
