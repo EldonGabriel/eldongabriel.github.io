@@ -45,9 +45,13 @@ The process focused on collecting and validating the system performance data usi
     * Used `free -h -t` to display human-readable memory statistics, including RAM and swap totals.
     * Used `cat /proc/meminfo` to review the raw kernel memory information for manual validation.
 
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:10px 0;">
+
 * **CPU and Process Monitoring**
     * Used `top` to identify processes that consume high CPU and memory resources.
     * Used `top -u` to filter processes by specific users to isolate the impact.
+
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:10px 0;">
 
 * **Virtual Memory Monitoring**
     * Used `vmstat -w` to review the virtual memory statistics using a wide-format output.
@@ -58,6 +62,8 @@ The process focused on collecting and validating the system performance data usi
 * **Manual Calculation Complexity**
     * Raw values from `/proc/meminfo` were difficult to interpret quickly because memory values were displayed in kilobytes.
     * This issue was resolved using `free -h -t`, which automatically converts values into human-readable units.
+
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:10px 0;">
 
 * **Display Formatting Issues**
     * The standard `vmstat` output produces compressed columns on wider systems.
