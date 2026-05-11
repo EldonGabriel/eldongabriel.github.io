@@ -48,20 +48,24 @@ The troubleshooting process followed the OSI model to isolate the failure point 
   - Verified external connectivity using IP-based testing (`ping 8.8.8.8`), and confirmed gateway routing and NAT functionality.
   - Failure observed when using domain names, isolating the issue to DNS resolution.
 
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:10px 0;">
+
 * **Service Analysis (Port 53)**
   - Identified that the default-deny firewall policy on the LAN interface blocked DNS traffic.
   - Confirmed DNS requires both UDP and TCP Port 53 for standard queries and larger responses.
+
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:10px 0;">
 
 * **Policy Remediation**
   - **Firewall Rules:** An explicit allow rule was implemented for TCP/UDP Port 53 from the LAN network to the pfSense resolver.
   - **Unbound Configuration:** DNS Forwarding Mode is enabled to ensure that queries are properly forwarded to upstream resolvers.
 
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:10px 0;">
+
 * **Rule Optimization**
   - Positioned the DNS allow rule at the top of the firewall rule set to prevent it from being overridden by broader deny rules.
 
 **Root Cause:** The failure was caused by a correctly enforced default-deny firewall policy that lacked a required exception for DNS traffic (TCP/UDP Port 53), resulting in all name resolution requests being blocked.
-
- 
 
 ## 1.3 Resolution and Validation
 
