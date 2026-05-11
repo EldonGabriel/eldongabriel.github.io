@@ -127,14 +127,14 @@ Unused detached sessions can continue to run processes and consume system resour
 * Remove unnecessary sessions
 * Monitor resource usage during long-running tasks
 
-### Best Practices
+**Best Practices**
 
 * Reattach to existing sessions instead of creating new ones
 * Use clear session names for organization
 * Keep monitoring tools grouped into dedicated panes
 * Audit active sessions during troubleshooting activities
 
-### Framework Alignment
+**Framework Alignment**
 
 * **CIS Control 12:** Infrastructure monitoring and management
 * **NIST CSF (PR.DS):** Protecting system availability and operational continuity
