@@ -16,7 +16,7 @@ This report documents the implementation and analysis of granular privilege esca
 
 The result was a validated, noninteractive execution path, where a restricted user could execute a specific script as another target user. This reduces the need for manual authentication and restricts execution to a controlled command path.
 
-<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:40px 0;">
 
 # 1.0 Sudoers Privilege Escalation
 
