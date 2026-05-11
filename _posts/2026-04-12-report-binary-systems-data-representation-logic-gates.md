@@ -45,9 +45,13 @@ The task focused on how computers use simple electrical states (1s and 0s) to re
   - Mapped binary values to characters using ASCII  
   - Reviewed how UTF-8 supports more characters and languages  
 
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:10px 0;">
+
 * **Logic Gate Modeling:**  
   - Studied AND, OR, and NOT gates  
   - Observed how they control decision-making in hardware  
+
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:10px 0;">
 
 * **Refinement (RRF):**  A single-bit error can change the entire output. This demonstrates the importance of accurate data handling.
 
