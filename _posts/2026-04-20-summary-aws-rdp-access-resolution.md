@@ -114,14 +114,14 @@ Incorrect RDP settings or firewall rules can prevent administrators from accessi
 
 **Mitigation:** Restrict RDP access to trusted IP addresses and follow standard network segmentation practices.
 
-### Best Practices
+**Best Practices**
 
 - Only add necessary users to the Remote Desktop Users group  
 - Use consistent configuration settings across all systems  
 - Regularly review access permissions and firewall rules  
 - Document all changes for troubleshooting and audits  
 
-### Framework Alignment
+**Framework Alignment**
 
 - Supports secure system configuration and access control principles  
 - Aligns with NIST guidance for identity and access management  
