@@ -33,7 +33,7 @@ The implementation utilized the `/etc/sudoers` configuration to
 
 This workflow demonstrates how system administrators can enable secure automated processes by scoping elevated privileges to specific verified scripts.
 
-<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
+
 
 ## 1.2 Technical Task / Troubleshooting Process
 
@@ -71,7 +71,6 @@ The process focused on utilizing the `visudo` utility to modify the system's aut
     * Encountered execution failures due to strict file permissions (`700`)
     * Resolved by ensuring correct user context (`-u user2`) matched the defined policy
 
-<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 ## 1.3 Resolution and Validation
 
@@ -99,7 +98,7 @@ The configuration was validated by testing the noninteractive execution path and
 4. **Negative Testing**
    * Verified that unauthorized commands outside the defined rule were not permitted
 
-<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;"> 
+
 
 # 2.0 CONCLUSION
 
