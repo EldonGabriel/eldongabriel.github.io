@@ -133,7 +133,7 @@ Unused or outdated `NOPASSWD` rules may create hidden access paths.
 
  
 
-### Best Practices
+**Best Practices**
 
 * Always use `visudo` for editing privilege configurations
 * Define rules using absolute paths to prevent abuse
@@ -143,7 +143,7 @@ Unused or outdated `NOPASSWD` rules may create hidden access paths.
 
  
 
-### Framework Alignment
+**Framework Alignment**
 
 * **NIST SP 800-53 (AC-6):** Enforcement of Least Privilege
 * **CIS Control 5:** Account and privilege management
