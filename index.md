@@ -2,7 +2,7 @@
 layout: home
 title: Eldon Gabriel
 subtitle: System Administration & Infrastructure Operations
-tagline: Secure, Hardened and Reliable Systems
+tagline: Building, Securing, and Troubleshooting Real-World Systems
 permalink: /
 image:
   path: /assets/images/mcsi-novice-sysadmin.png
