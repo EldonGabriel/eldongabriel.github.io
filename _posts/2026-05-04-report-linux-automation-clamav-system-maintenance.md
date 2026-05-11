@@ -156,7 +156,7 @@ chmod 700 /home/eldon/quarantine
 
  
 
-### Best Practices
+**Best Practices**
 
 - Use absolute paths in cron jobs  
 - Regularly review logs  
@@ -165,7 +165,7 @@ chmod 700 /home/eldon/quarantine
 
  
 
-### Framework Alignment
+**Framework Alignment**
 
 - NIST SP 800-53 (SI-3) – Malicious Code Protection  
 - CIS Control 10 – System Monitoring and Integrity  
