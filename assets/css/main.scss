@@ -5,6 +5,16 @@ sitemap: false
 
 @charset "utf-8";
 
+/* 🔥 FONT OVERRIDES (must be BEFORE import) */
+$serif-font-family: Georgia, serif;
+$sans-serif-font-family: "Inter", sans-serif;
+
+$base-font-family: $sans-serif-font-family;
+$headline-font-family: $sans-serif-font-family;
+$title-font-family: $sans-serif-font-family;
+$description-font-family: $sans-serif-font-family;
+$meta-font-family: $sans-serif-font-family;
+
 @import "so-simple";
  
 /* Main post/page title */
