@@ -6,8 +6,8 @@ categories: [Infrastructure and Systems]
 tags: [Linux, Storage Management, fdisk, ext4, Filesystem Expansion, System Administration]
 excerpt: "Technical implementation of disk partitioning and non-destructive filesystem expansion."
 image:
-  path: /assets/images/posts/partitioning.png
-  thumbnail: /assets/images/posts/partitioning.png
+  path: /assets/images/partitioning.png
+  thumbnail: /assets/images/partitioning.png
 ---
 
 # 0.0 Executive Summary
