@@ -93,9 +93,9 @@ analytics:
 # SEO
 seo:
   name:  Eldon Gabriel | Cybersecurity Portfolio & Technical Labs
-  description: Practical cybersecurity portfolio showcasing hands-on labs in system hardening, identity security, network troubleshooting, and operational resilience.
+  description: Hands-on cybersecurity portfolio showcasing system hardening, identity security, network troubleshooting, and operational resilience across Windows and Linux environments.
   image: /assets/images/eldong-clear.png
-  title: Eldon Gabriel | Infrastructure Security & System Administration
+  title: Eldon Gabriel | System Administration & Infrastructure Security
   locale: en_CAN
   date_format: "%Y-%m-%d"
   social:
