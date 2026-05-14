@@ -6,8 +6,8 @@ categories: [Infrastructure and Systems]
 tags: [Linux, LVM, Storage Management, lvextend, resize2fs, System Administration]
 excerpt: "Technical implementation of live LVM logical volume expansion and filesystem synchronization."
 image:
-path: /assets/images/posts/lvm-partition.png
-thumbnail: /assets/images/posts/lvm-partition.png
+  path: /assets/images/posts/lvm-partition.png
+  thumbnail: /assets/images/posts/lvm-partition.png
 ---
 
 # 0.0 Executive Summary
