@@ -45,11 +45,11 @@ The `/home` directory reached capacity, requiring an immediate 2GB increase in s
 
 ### 1.2.2 Logical Volume Extension
 
-* **Block Allocation:** `sudo lvextend -L +2G /dev/mapper/ubuntu--vg-ubuntu--lv` executed to extend storage at the LVM layer.
+* **Block Allocation:** `sudo lvextend -L +2G /dev/ubuntu-vg/ubuntu-lv` executed to extend storage at the LVM layer.
 
 ### 1.2.3 Filesystem Synchronization
 
-* **Metadata Update:** `sudo resize2fs /dev/mapper/ubuntu--vg-ubuntu--lv` used to expand the filesystem into the newly allocated space. This step is required to make the storage usable by the user.
+* **Metadata Update:** `sudo resize2fs /dev/ubuntu-vg/ubuntu-lv` used to expand the filesystem into the newly allocated space. This step is required to make the storage usable by the user.
 
 ### Key Insight
 
