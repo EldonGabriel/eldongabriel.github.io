@@ -1,5 +1,5 @@
 ---
-## title: "REPORT – Linux Admin: LVM Partition Expansion – v1.0.0"
+title: "REPORT – Linux Admin: LVM Partition Expansion – v1.0.0"
 date: 2026-05-14
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
