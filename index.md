@@ -48,75 +48,81 @@ Focused on operational reliability, infrastructure security, monitoring visibili
 
 <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap:15px; margin-top:20px;">
 
+<!-- SYSTEMS ADMIN -->
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Systems Administration</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
 <li>Windows Server administration</li>
 <li>Linux system administration</li>
 <li>User and permission management</li>
-<li>System troubleshooting</li>
-<li>Service management</li>
-<li>Operational maintenance</li>
+<li>Service configuration and troubleshooting</li>
+<li>System monitoring and maintenance</li>
+<li>Operational support for enterprise environments</li>
 </ul>
 </div>
 
+<!-- HARDENING -->
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Infrastructure Hardening</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>Windows Server hardening</li>
-<li>Linux security baselines</li>
-<li>Least privilege enforcement</li>
-<li>Registry and access control configuration</li>
-<li>RDP and SMB security controls</li>
-<li>Firewall rule implementation</li>
+<li>Windows security hardening (GPO-based controls)</li>
+<li>Linux security baseline configuration</li>
+<li>Least privilege access enforcement</li>
+<li>Registry and system-level access restrictions</li>
+<li>RDP, SMB, and remote access hardening</li>
+<li>Firewall policy implementation and tuning</li>
 </ul>
 </div>
 
+<!-- MONITORING -->
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Monitoring & Logging</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>Wazuh deployment and monitoring</li>
-<li>Centralized logging</li>
-<li>Sysmon integration</li>
-<li>Security event analysis</li>
-<li>File integrity monitoring</li>
-<li>Resource monitoring</li>
+<li>System Activity Reporter (SAR) performance analysis</li>
+<li>Security event log analysis</li>
+<li>Process and system behavior monitoring (Procmon)</li>
+<li>Linux log filtering and investigation (grep)</li>
+<li>File integrity and resource monitoring</li>
+<li>System performance diagnostics</li>
 </ul>
 </div>
 
+<!-- NETWORK -->
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Network Defense</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>pfSense firewall configuration</li>
-<li>Firewall rule troubleshooting</li>
-<li>IPsec VPN troubleshooting</li>
-<li>DNS traffic analysis</li>
-<li>Access control validation</li>
-<li>Network misconfiguration remediation</li>
+<li>pfSense firewall configuration and management</li>
+<li>Network traffic control and rule tuning</li>
+<li>VPN configuration and secure remote access</li>
+<li>DNS and routing analysis</li>
+<li>Access control validation and segmentation</li>
+<li>Network troubleshooting and remediation</li>
 </ul>
 </div>
 
+<!-- BACKUP -->
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Backup & Recovery Operations</h3>
+<h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Backup & Recovery</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>Backup validation testing</li>
-<li>Recovery workflow development</li>
-<li>System state backup configuration</li>
-<li>Snapshot and restore operations</li>
+<li>System backup validation and testing</li>
+<li>Snapshot-based recovery workflows</li>
+<li>Data restoration and rollback procedures</li>
 <li>Disaster recovery planning</li>
-<li>Business continuity support</li>
+<li>System resilience and continuity support</li>
+<li>Backup automation and verification</li>
 </ul>
 </div>
 
+<!-- SECURITY GOVERNANCE -->
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Security Governance</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>NIST aligned controls</li>
-<li>Risk-based security validation</li>
-<li>Technical safeguard implementation</li>
+<li>NIST-aligned security implementation</li>
+<li>Risk-based system validation</li>
+<li>Security control mapping and enforcement</li>
 <li>Operational security reviews</li>
-<li>Audit readiness support</li>
-<li>Incident remediation documentation</li>
+<li>Audit preparation and documentation</li>
+<li>Incident response documentation support</li>
 </ul>
 </div>
 
@@ -131,37 +137,6 @@ Explore Technical Portfolio
 View Certifications
 </a>
 </p>
-
-
-<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
-
-<h2 style="text-align:left;">
-  Tools & Platforms
-</h2>
-
-<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap:10px; margin-top:20px;">
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Windows Server</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Active Directory</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Group Policy (GPO)</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Linux (Ubuntu/Kali)</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Wazuh</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Lynis</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">pfSense</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">OpenVPN</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Docker</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Proxmox VE</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">VMware</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Cockpit</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Webmin</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Veeam Backup</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Duplicati</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">MS Security Toolkit</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">OpenVAS</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">ClamAV</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Python</div>
-<div style="background: rgba(255,255,255,0.05); padding:12px; border-radius:6px; text-align:center;">Have I Been Pwned</div>
-
-</div>
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
