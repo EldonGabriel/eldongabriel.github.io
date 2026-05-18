@@ -52,12 +52,12 @@ Focused on operational reliability, infrastructure security, monitoring visibili
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Systems Administration</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>Windows Server administration</li>
-<li>Linux system administration</li>
-<li>User and permission management</li>
-<li>Service configuration and troubleshooting</li>
-<li>System monitoring and maintenance</li>
-<li>Operational support for enterprise environments</li>
+<li>Windows Server admin</li>
+<li>Linux administration</li>
+<li>User & permissions</li>
+<li>Service troubleshooting</li>
+<li>System monitoring</li>
+<li>Operational support</li>
 </ul>
 </div>
 
@@ -65,12 +65,12 @@ Focused on operational reliability, infrastructure security, monitoring visibili
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Infrastructure Hardening</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>Windows security hardening (GPO-based controls)</li>
-<li>Linux security baseline configuration</li>
-<li>Least privilege access enforcement</li>
-<li>Registry and system-level access restrictions</li>
-<li>RDP, SMB, and remote access hardening</li>
-<li>Firewall policy implementation and tuning</li>
+<li>GPO hardening</li>
+<li>Linux security baselines</li>
+<li>Least privilege access</li>
+<li>Registry restrictions</li>
+<li>RDP/SMB hardening</li>
+<li>Firewall rules</li>
 </ul>
 </div>
 
@@ -78,12 +78,12 @@ Focused on operational reliability, infrastructure security, monitoring visibili
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Monitoring & Logging</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>System Activity Reporter (SAR) performance analysis</li>
-<li>Security event log analysis</li>
-<li>Process and system behavior monitoring (Procmon)</li>
-<li>Linux log filtering and investigation (grep)</li>
-<li>File integrity and resource monitoring</li>
-<li>System performance diagnostics</li>
+<li>SAR metrics</li>
+<li>Event log analysis</li>
+<li>Process monitoring</li>
+<li>Log filtering (grep)</li>
+<li>Resource tracking</li>
+<li>Performance diagnostics</li>
 </ul>
 </div>
 
@@ -91,12 +91,12 @@ Focused on operational reliability, infrastructure security, monitoring visibili
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Network Defense</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>pfSense firewall configuration and management</li>
-<li>Network traffic control and rule tuning</li>
-<li>VPN configuration and secure remote access</li>
-<li>DNS and routing analysis</li>
-<li>Access control validation and segmentation</li>
-<li>Network troubleshooting and remediation</li>
+<li>pfSense firewalling</li>
+<li>Traffic control</li>
+<li>VPN setup</li>
+<li>DNS/routing checks</li>
+<li>Segmentation</li>
+<li>Network fixes</li>
 </ul>
 </div>
 
@@ -104,25 +104,25 @@ Focused on operational reliability, infrastructure security, monitoring visibili
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Backup & Recovery</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>System backup validation and testing</li>
-<li>Snapshot-based recovery workflows</li>
-<li>Data restoration and rollback procedures</li>
-<li>Disaster recovery planning</li>
-<li>System resilience and continuity support</li>
-<li>Backup automation and verification</li>
+<li>Backup validation</li>
+<li>Snapshots</li>
+<li>Restores</li>
+<li>DR planning</li>
+<li>System recovery</li>
+<li>Continuity support</li>
 </ul>
 </div>
 
-<!-- SECURITY GOVERNANCE -->
+<!-- GOVERNANCE -->
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Security Governance</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>NIST-aligned security implementation</li>
-<li>Risk-based system validation</li>
-<li>Security control mapping and enforcement</li>
-<li>Operational security reviews</li>
-<li>Audit preparation and documentation</li>
-<li>Incident response documentation support</li>
+<li>NIST-aligned controls</li>
+<li>Risk validation</li>
+<li>Security mapping</li>
+<li>Audits</li>
+<li>Documentation</li>
+<li>Incident support</li>
 </ul>
 </div>
 
