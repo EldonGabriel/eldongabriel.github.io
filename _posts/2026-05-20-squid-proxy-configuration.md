@@ -39,18 +39,18 @@ This implementation demonstrates the following:
 
 ### 1.2.1 Installation and Basic Setup
 
-**Service Installation** 
+**Service Installation:** 
 Squid was installed via the system package manager; configuration located at `/etc/squid/squid.conf`.
 
-**Port Assignment** 
+**Port Assignment:** 
 The service was configured to listen on the standard proxy port `3128`.
 
 ### 1.2.2 Authentication and ACL Setup
 
-**Credentials Database** 
+**Credentials Database:** 
 Create `/etc/squid/passwd` using the `htpasswd` with encrypted storage.
 
-**External ACL Files** 
+**External ACL Files:** 
 Store approved domains in `/etc/squid/allowed_domains.txt`.
 
 **Rule Order Implementation:**
@@ -82,24 +82,24 @@ The order of the proxy access rules is critical. Placing a global allow rule abo
 
 A structured troubleshooting and validation process was executed across multiple system layers to confirm the correct operation.
 
-**Service Validation** 
+**Service Validation:** 
 Confirmed Squid was active and listening on port `3128`
 
-**Authentication Testing** 
+**Authentication Testing:** 
 Verified proxy returns HTTP `407 Proxy Authentication Required` without credentials.
 
-**Domain Filtering Proof** 
+**Domain Filtering Proof:** 
 Confirmed blocked domains return HTTP `403 Forbidden` when not in allow list.
 
-**Log Analysis** 
+**Log Analysis:** 
 Verified `/var/log/squid/access.log` records user activity, destinations, and actions (`TCP_DENIED` or `TCP_MISS`).
 
 ## 1.4 Troubleshooting Highlights
 
-**Missing Dot Trap** 
+**Missing Dot Trap:** 
 Omitting a leading dot (e.g., `google.com` instead of `.google.com`) allowed subdomains to bypass filtering. The ACL was updated to include proper domain scoping.
 
-**Syntax Validation Errors** 
+**Syntax Validation Errors:** 
 A typographical error in the authentication helper path caused a configuration failure. The issue was resolved through configuration validation prior to service restart.
 
 ### Tool Mapping
