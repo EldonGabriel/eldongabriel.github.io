@@ -75,15 +75,15 @@ The order of the proxy access rules is critical. Placing a global allow rule abo
 
 A structured troubleshooting and validation process was executed across multiple system layers to confirm the correct operation.
 
-- **Service Validation:** Checked that the Squid service daemon was running and active. Port `3128` was verified to be open and listening for incoming connections.
-- **Authentication Testing:** Attempted to browse the web through the proxy without credentials. The proxy correctly returned an HTTP `407 Proxy Authentication Required` status code, proving that identity checks were enforced.
-- **Domain Filtering Proof:** Valid login credentials were passed, and an attempt was made to visit a domain missing from the `allowed_domains.txt` file. The proxy returned an HTTP `403 Forbidden` error, proving that the filtering rules were effective.
-- **Log Analysis:** Reviewed the live access log file at `/var/log/squid/access.log`. The logs successfully tracked the user context, destination IP addresses, and specific actions taken (`TCP_DENIED` or `TCP_MISS`).
+- **Service Validation:** Confirmed Squid was active and listening on port `3128`
+- **Authentication Testing:** Verified proxy returns HTTP `407 Proxy Authentication Required` without credentials.
+- **Domain Filtering Proof:** Confirmed blocked domains return HTTP `403 Forbidden` when not in allow list.
+- **Log Analysis:** Verified `/var/log/squid/access.log` records user activity, destinations, and actions (`TCP_DENIED` or `TCP_MISS`).
 
 ## 1.4 Troubleshooting Highlights
 
-- **Missing Dot Trap:** Discovered that omitting a leading dot on domains within the text files (for example, writing `google.com` instead of `.google.com`) allowed the subdomains to bypass the filtering. The file configuration was updated to include leading dots for comprehensive subdomain coverage.
-- **Syntax Validation Errors:** Encountered a configuration error caused by a typographical error in the authentication helper path. This issue was remediated by performing service configuration tests before restarting the final system.
+- **Missing Dot Trap:** Omitting a leading dot (e.g., `google.com` instead of `.google.com`) allowed subdomains to bypass filtering. The ACL was updated to include proper domain scoping.
+- **Syntax Validation Errors:** A typographical error in the authentication helper path caused a configuration failure. The issue was resolved through configuration validation prior to service restart.
 
 ### Tool Mapping
 
@@ -99,33 +99,33 @@ A structured troubleshooting and validation process was executed across multiple
 
 ## 2.1 Key Takeaways
 
-- Proxy servers establish a centralized checkpoint for all outgoing Internet requests.
-- External ACL files improve security maintenance by decoupling the configuration from the domain lists.
-- Authentication mechanisms eliminate anonymous network activity and force accountability.
-- Live log inspection is essential for verifying true rule enforcement behavior.
+- Proxy servers centralize and control outbound internet traffic.
+- External ACL files improve maintainability by separating rules from configuration.
+- Authentication enforces user accountability and removes anonymous access.
+- Log inspection is critical for validating policy enforcement.
 
 ## 2.2 Security Implications and Recommendations
 
 **Risk: Unrestricted Egress Communication**  
-Without outbound traffic controls, compromised internal systems can communicate with unauthorized external infrastructure undetected.
+Without outbound controls, compromised systems may communicate with external infrastructure undetected.
 
 **Mitigation:**
-- Deploy authenticated proxy services as default gatekeepers for corporate subnets.
-- Configure explicit "deny-all" rules for any traffic attempting to bypass the proxy.
+- Deploy authenticated proxy services as a default network control point.
+- Enforce a default deny rule for all non-proxied traffic.
 
-**Risk: Weak or Plain-Text Credential Leakage**  
-Storing credentials in plain text increases the risk of unauthorized access and account misuse if the files are exposed to unauthorized users.
+**Risk: Credential Exposure**  
+Storing credentials in plain text increases the risk of unauthorized access and account compromise if files are exposed.
 
 **Mitigation:**
-- Always enforce high-strength hash algorithms within the `htpasswd` utility.
-- Limit access permissions on the password file (`/etc/squid/passwd`) to the Squid execution user only.
+- Use secure hashing via `htpasswd` for all credentials.
+- Restrict access to `/etc/squid/passwd` to the proxy service account.
 
 **Best Practices**
-- Always place restrictive deny rules above permissive allow rules.
-- Maintain dedicated change management protocols when updating the allowed domain lists.
-- Perform syntax validation on the proxy configuration file before applying changes to live services.
+- Place deny rules above allow rules in all ACL configurations.
+- Use change management when modifying allowed domain lists.
+- Validate configuration syntax before applying changes to production.
 
 **Framework Alignment**
-- **NIST CSF (DE.CM):** Continuous monitoring of outgoing connection attempts to detect abnormalities in the system.
-- **CIS Control 12:** Infrastructure management and control of network access checkpoints.
-- **ISO 27001 (A.12.1.3):** Operational capacity management and egress filtering strategies.
+- **NIST CSF (DE.CM):** Monitoring of outbound connections for anomalies.
+- **CIS Control 12:** Network infrastructure control and boundary enforcement.
+- **ISO 27001 (A.12.1.3):** Operational procedures for system protection and access control.
