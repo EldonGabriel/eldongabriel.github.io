@@ -40,5 +40,5 @@ Training emphasizes ethical intelligence gathering, investigative validation, an
 
 <h4>Operational Relevance</h4>
 <p>
-This certification supports structured OSINT workflows applicable to cybersecurity investigations, digital footprint analysis, exposure assessment, and research-driven security operations. Skills developed through this training reinforce analytical thinking, investigative validation, and professional reporting practices within operational environments.
+This certification supports structured OSINT workflows applicable to cybersecurity investigations, digital footprint analysis, exposure assessments, and research-driven security operations. The skills developed through this training reinforce analytical thinking, investigative validation, and professional reporting practices within operational environments.
 </p>
