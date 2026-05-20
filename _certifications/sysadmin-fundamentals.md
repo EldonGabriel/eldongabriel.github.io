@@ -32,10 +32,12 @@ image:
 
 <h4>Applied Capability</h4>
 <ul>
-  <li>Configured Group Policy Objects (GPOs) to support account security, endpoint hardening, and administrative policy enforcement</li>
-  <li>Designed and tested network environments using Cisco Packet Tracer, pfSense firewall configurations, and VPN connectivity workflows</li>
-  <li>Managed Linux and Windows administrative services using remote management and infrastructure monitoring platforms</li>
-  <li>Implemented backup, recovery, and Active Directory restoration workflows to support operational continuity scenarios</li>
+  <li>Deployed and managed Windows and Linux virtual machines across VirtualBox, VMware, AWS, GCP, and ESXi/vSphere environments</li>
+  <li>Configured and hardened Windows systems using Group Policy Objects (GPOs), Windows Defender controls, firewall policies, account lockout enforcement, exploit mitigation settings, and secure remote administration practices</li>
+  <li>Designed and tested segmented network environments using Cisco Packet Tracer, pfSense firewalls, VPN connectivity, routing concepts, and controlled traffic filtering workflows</li>
+  <li>Administered Linux systems through command-line operations, user and permission management, service configuration, firewall administration, system monitoring, and scheduled task automation</li>
+  <li>Implemented infrastructure backup, restoration, and recovery workflows including Duplicati backups, Active Directory restoration, snapshot recovery, and virtual machine migration scenarios</li>
+  <li>Performed structured troubleshooting across Windows, Linux, networking, storage, and infrastructure services using operational diagnostic methodologies and system analysis tools</li>
 </ul>
 
 <h4>Operational Relevance</h4>
