@@ -18,21 +18,27 @@ image:
   <p style="font-size: 14px; color: #ffffff;">ISC² Certified in Cybersecurity (CC)</p>
 </div>
 
-The **ISC² Certified in Cybersecurity (CC)** certification validates a foundational understanding of core cybersecurity principles. It affirms my commitment to ISC²'s Code of Ethics and establishes my proficiency in essential security areas such as risk management, incident response, and logical access control.
+<p style="font-size:1.2em; line-height:1.6;">
+  The <strong>ISC² Certified in Cybersecurity (CC)</strong> certification validates foundational cybersecurity knowledge across security operations, risk management, access control, and incident response, aligned with professional security practices.
+</p>
+
+<p style="font-size:1.2em; line-height:1.6;">
+  The certification also reinforces ethical responsibility, security governance awareness, and structured defensive security principles applicable to operational businesses and infrastructure environments.
+</p>
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Skills:</strong> Security Principles · Access Control · Security Operations
+  <strong>Operational Capabilities:</strong> Access Control · Security Operations · Risk Management Fundamentals
 </p>
 
 <h4>Applied Capability</h4>
 <ul>
-  <li>Implemented the CIA Triad to strengthen confidentiality, integrity, and availability within systems</li>
-  <li>Engineered access control models (RBAC, MAC, DAC) ensuring the Principle of Least Privilege</li>
-  <li>Designed risk treatment strategies for various cybersecurity threats and vulnerabilities</li>
-  <li>Developed incident response protocols and led small-scale security incident investigations</li>
+  <li>Applied foundational security principles supporting confidentiality, integrity, and system availability</li>
+  <li>Implemented access control concepts including least privilege and role-based administrative separation</li>
+  <li>Analyzed cybersecurity risks and security control considerations across operational environments</li>
+  <li>Applied structured incident response and security operations concepts within defensive security scenarios</li>
 </ul>
 
 <h4>Operational Relevance</h4>
 <p>
-This certification ensures a strong foundation in professional security, preparing me for real-world implementation of risk management and access control strategies in any organizational environment.
+This certification supports foundational cybersecurity operations involving access control, risk awareness, security monitoring, and incident response. The skills reinforced through this training strengthen security-focused decision-making, operational awareness, and professional security practices within organizational environments.
 </p>
