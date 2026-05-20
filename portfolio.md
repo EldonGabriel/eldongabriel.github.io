@@ -12,11 +12,11 @@ image:
 <section class="portfolio-page">
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-Professional certifications and technical training support hands-on experience in system administration, infrastructure security, operational troubleshooting, and security-focused system management. Training is reinforced through practical laboratory environments involving Linux and Windows administration, network services, access control, hardening, incident analysis, and infrastructure validation workflows, as documented throughout this portfolio.
+Hands-on systems administration and infrastructure security focus on operational stability, structured troubleshooting, and validated security implementation across Windows and Linux environments.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6;">
-Training pathways align with recognized industry frameworks, including the <strong>NIST NICE Workforce Framework</strong>, <strong>Australian Signals Directorate (ASD) Cyber Skills Framework</strong>, and relevant <strong>U.S. Department of Defense Occupational Standards </strong>.
+Work is built through controlled laboratory environments and documented using root cause analysis, configuration validation, and measurable security outcomes.
 </p>
 
 </section>
@@ -25,35 +25,52 @@ Training pathways align with recognized industry frameworks, including the <stro
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:20px; margin:30px 0;">
 
-  <!-- Box 1: Technical Training Focus -->
+  <!-- Box 1: Proof of Work & Technical Verification -->
   <div style="background: rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 
     <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">
-      Technical Training Focus
+     Proof of Work & Technical Verification
     </h3>
 
     <ul style="margin-top:10px; padding-left:20px; font-size:0.9em; text-align:left;">
-      <li>Linux and Windows system administration</li>
-      <li>Infrastructure security and system hardening</li>
-      <li>Network troubleshooting and operational analysis</li>
-      <li>Security operations and incident investigation</li>
+      <li>Work performed in controlled lab environments</li>
+      <li>Skills demonstrated through independent scenarios</li>
+      <li>All outcomes validated through technical documentation</li>
+      <li>Root-cause analysis applied across troubleshooting workflows</li>
     </ul>
+
+    <p align="center" style="margin-top:20px;">
+      <a href="https://students.mosse-institute.com/student/SB6kNYfrf4Z9gg4Zz8T5LixXI832"
+         target="_blank"
+         style="display:inline-block; width:220px; text-align:center; padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+        View Proof of Work
+      </a>
+    </p>
 
   </div>
 
-  <!-- Box 2: Certification & Validation -->
+  <!-- Box 2: Portfolio Index -->
   <div style="background: rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 
     <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">
-      Certification & Validation
+      Portfolio Index
     </h3>
 
     <ul style="margin-top:10px; padding-left:20px; font-size:0.9em; text-align:left;">
-      <li>Hands-on lab-based technical validation</li>
-      <li>Structured troubleshooting methodologies</li>
-      <li>Documented proof-of-work and implementation evidence</li>
-      <li>Industry-aligned cybersecurity training pathways</li>
+      <li>200+ reports, SOPs, guides, and videos</li>
+      <li>System administration and infrastructure labs</li>
+      <li>Security investigations and incident analysis</li>
+      <li>Operational troubleshooting and recovery workflows</li>
+      <li>Cross-domain infrastructure security coverage</li>
     </ul>
+
+    <p align="center" style="margin-top:20px;">
+      <a href="https://docs.google.com/spreadsheets/d/1_NJJ7v9wQ4OH1zhxlq-AKbwUoMMPS58R2aZGxMsAukI/edit?usp=sharing"
+         target="_blank"
+         style="display:inline-block; width:220px; text-align:center; padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+        View Portfolio Index
+      </a>
+    </p>
 
   </div>
 
