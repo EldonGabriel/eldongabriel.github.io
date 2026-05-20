@@ -28,10 +28,10 @@ The goal of this task was to develop practical skills in egress traffic filterin
 
 This implementation demonstrates the following:
 
-- **Proxy Daemon Deployment:** Installation and management of the core Squid service.
-- **Identity Enforcement:** Configuring basic authentication with encrypted passwords using `htpasswd`.
-- **Egress Web Filtering:** Restricting web access to specific approved domains while blocking all others by default.
-- **Access Rule Strategy:** Setting up rules where blocking actions occur before allowing actions to prevent security bypasses.
+- **Proxy Daemon Deployment:** Install and manage Squid service.
+- **Identity Enforcement:** Configure authentication using `htpasswd`.
+- **Egress Web Filtering:** Restrict approved domains; block all others.
+- **Access Rule Strategy:** Enforce deny-before-allow security logic.
 
 ---
 
@@ -39,19 +39,19 @@ This implementation demonstrates the following:
 
 ### 1.2.1 Installation and Basic Setup
 
-- **Service Installation:** The Squid proxy package was installed using a system package manager. The core configuration file is located at `/etc/squid/squid.conf`.
+- **Service Installation:** Squid was installed via the system package manager; configuration located at `/etc/squid/squid.conf`.
 - **Port Assignment:** The service was configured to listen on the standard proxy port `3128`.
 
 ### 1.2.2 Authentication and ACL Setup
 
-- **Credentials Database:** Created a secure password file at `/etc/squid/passwd` using the `htpasswd` utility. This utility ensures that passwords are encrypted using secure algorithms rather than being stored in plain text.
-- **External ACL Files:** Built text files to hold lists of web domains for easier management of the data. An external file was created at `/etc/squid/allowed_domains.txt` to store the list of approved web pages.
-- **Rule Order Implementation:** The `squid.conf` file was configured to process checks in a strict sequence:
+- **Credentials Database:** Create `/etc/squid/passwd` using the `htpasswd` with encrypted storage.
+- **External ACL Files:** Store approved domains in `/etc/squid/allowed_domains.txt`.
+- **Rule Order Implementation:**
     1. Define the authentication program helper path.
     2. Read the external domain lists.
-    3. Block traffic that fails authentication.
-    4. Block traffic attempting to reach unapproved domains.
-    5. Traffic is permitted only after authentication and domain validation checks are successful.
+    3. Block unauthenticated traffic.
+    4. Block unapproved domains.
+    5. Allow only validated requests.
 
 ```bash
 # Example ACL enforcement structure inside squid.conf
