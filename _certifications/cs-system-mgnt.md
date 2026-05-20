@@ -60,22 +60,26 @@ function prevSlide() {
 </script>
 
 <p style="font-size:1.2em; line-height:1.6; margin-top:20px;">
-  This specialization focuses on secure enterprise system administration across Windows and Linux environments, including system hardening, identity management, and infrastructure governance, aligned with security best practices.
+  This specialization focuses on secure enterprise system administration across Windows and Linux environments, including infrastructure hardening, identity management, access control, and operational security practices used to support stable and secure business systems.
+</p>
+
+<p style="font-size:1.2em; line-height:1.6;">
+  Training emphasizes practical administration workflows, security-focused configuration management, and infrastructure governance aligned with enterprise’s operational requirements.
 </p>
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Skills:</strong> Server Hardening · Active Directory Security · Enterprise System Administration
+  <strong>Operational Capabilities:</strong> System Hardening · Identity Management · Enterprise Infrastructure Administration
 </p>
 
 <h4>Applied Capability</h4>
 <ul>
-  <li>Configured and secured Windows and Linux server environments for enterprise use</li>
-  <li>Implemented identity and access controls using Active Directory and group policy concepts</li>
-  <li>Applied system hardening and security baselines across infrastructure systems</li>
-  <li>Analyzed system configurations for compliance and operational security alignment</li>
+  <li>Configured and secured Windows and Linux server environments within controlled lab infrastructures</li>
+  <li>Implemented identity and access management concepts using Active Directory and group policy administration</li>
+  <li>Applied security baselines and hardening practices across enterprise systems and services</li>
+  <li>Performed configuration review and operational validation against security-focused administrative requirements</li>
 </ul>
 
 <h4>Operational Relevance</h4>
 <p>
-This certification supports enterprise infrastructure security, focusing on system hardening, identity management, and secure administration of multi-system environments.
+This certification supports infrastructure administration and security-focused operational support, including server configuration, access control, system hardening, and enterprise environment management. The skills developed through this training reinforce practical troubleshooting, secure administrative practices, and infrastructure reliability within business environments.
 </p>
