@@ -12,11 +12,15 @@ image:
 ---
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Specialized Capabilities:</strong> Security Labs · Infrastructure Diagnostics · Enterprise IT Operations
+  <strong>Operational Focus Areas:</strong> Infrastructure Support · Security Operations · Technical Troubleshooting
 </p>
 
 <p style="font-size:1.2em; line-height:1.6; margin-top:20px;">
-  This section highlights lab-based certifications and technical training across cybersecurity, system administration, and enterprise IT environments. Each credential reflects applied, hands-on capability development.
+  This section highlights additional certifications and technical training supporting hands-on work across cybersecurity, system administration, infrastructure support, and operational troubleshooting environments.
+</p>
+
+<p style="font-size:1.2em; line-height:1.6;">
+  Training is reinforced through practical laboratory implementation, technical validation, and structured problem-solving workflows documented throughout this portfolio.
 </p>
 
 <h2 style="margin-top:40px;">Certifications</h2>
@@ -31,11 +35,11 @@ image:
 </div>
 
 <p style="font-size:1.2em; line-height:1.6;">
-  Foundational cybersecurity knowledge covering threat identification, network security principles, and incident response fundamentals.
+  Foundational cybersecurity training focused on identifying security threats, understanding defensive security concepts, and supporting incident response workflows within operational environments.
 </p>
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Capabilities:</strong> Threat Analysis · Incident Response · Network Security
+  <strong>Operational Capabilities:</strong> Threat Identification · Security Monitoring · Incident Response Fundamentals
 </p>
 
 ---
@@ -48,11 +52,11 @@ image:
 </div>
 
 <p style="font-size:1.2em; line-height:1.6;">
-  Core IT fundamentals across hardware, software systems, networking, and troubleshooting in enterprise environments.
+  Core IT and infrastructure training covering operating systems, networking fundamentals, endpoint troubleshooting, and enterprise support concepts used within business environments.
 </p>
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Capabilities:</strong> IT Infrastructure · Networking · Troubleshooting
+  <strong>Operational Capabilities:</strong> Infrastructure Support · Networking Fundamentals · Technical Troubleshooting
 </p>
 
 ---
@@ -65,11 +69,11 @@ image:
 </div>
 
 <p style="font-size:1.2em; line-height:1.6;">
-  Applied Kali Linux tools in lab environments for vulnerability assessment, network analysis, and introductory penetration testing.
+  Practical Linux-based security tooling focused on vulnerability assessment, network visibility, service analysis, and controlled security testing within lab environments.
 </p>
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Capabilities:</strong> Vulnerability Assessment · Network Analysis · Penetration Testing
+  <strong>Operational Capabilities:</strong> Vulnerability Assessment · Network Diagnostics · Security Tooling
 </p>
 
 ---
@@ -80,11 +84,11 @@ image:
 </div>
 
 <p style="font-size:1.2em; line-height:1.6;">
-  Server administration fundamentals including DNS, directory services, and secure file system management in enterprise environments.
+  Server administration training covering directory services, DNS management, file system permissions, and foundational infrastructure management concepts used in enterprise environments.
 </p>
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Capabilities:</strong> DNS Resolution · NTFS Permissions · Directory Services
+  <strong>Operational Capabilities:</strong> DNS Administration · File Permissions · Infrastructure Services
 </p>
 
 ---
@@ -95,11 +99,11 @@ image:
 </div>
 
 <p style="font-size:1.2em; line-height:1.6;">
-  Microsoft 365 tenant administration focusing on cloud governance, identity management, and secure collaboration.
+  Microsoft 365 administration training focused on identity management, cloud collaboration, tenant configuration, and security-conscious administrative workflows.
 </p>
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Capabilities:</strong> SaaS Security · Data Governance · Cloud Collaboration
+  <strong>Operational Capabilities:</strong> Identity Management · SaaS Administration · Cloud Collaboration
 </p>
 
 ---
@@ -110,17 +114,17 @@ image:
 </div>
 
 <p style="font-size:1.2em; line-height:1.6;">
-  Operational IT support skills including hardware diagnostics, system configuration, and end-user support workflows.
+  Technical support training involving hardware troubleshooting, operating system support, user administration, and foundational endpoint management workflows.
 </p>
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Capabilities:</strong> Hardware Diagnostics · OS Configuration · User Management
+  <strong>Operational Capabilities:</strong> Endpoint Support · OS Troubleshooting · User Administration
 </p>
 
 ---
 
 <p style="font-size:1.2em; line-height:1.6; margin-top:30px;">
-  These certifications reinforce applied capability across cybersecurity operations, system administration, and enterprise IT support environments.
+  These certifications support practical capability development across infrastructure operations, technical troubleshooting, and security-focused system administration workflows.
 </p>
 
 <p align="center" style="margin-top: 40px;">
