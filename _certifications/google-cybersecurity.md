@@ -18,21 +18,27 @@ image:
   <p style="font-size: 14px; color: #ffffff;">Google Cybersecurity Professional Certificate</p>
 </div>
 
-This certification provides foundational capability in cybersecurity operations, including threat detection, incident response, system hardening, and security automation aligned with NIST cybersecurity principles.
+<p style="font-size:1.2em; line-height:1.6;">
+  This certification focuses on practical cybersecurity operations, including threat detection, incident response, system hardening, and security monitoring, aligned with modern defensive security practices.
+</p>
+
+<p style="font-size:1.2em; line-height:1.6;">
+  Training emphasizes structured investigation workflows, log analysis, security tooling, and operational troubleshooting across Linux-based and enterprise-style environments.
+</p>
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Skills:</strong> SIEM-Based Threat Detection · Security Automation (Python) · Vulnerability Management
+  <strong>Operational Capabilities:</strong> Threat Detection · Security Monitoring · Incident Response Workflows
 </p>
 
 <h4>Applied Capability</h4>
 <ul>
-  <li>Monitored and analyzed security events using structured detection workflows</li>
-  <li>Developed basic automation scripts using Python and Bash for security tasks</li>
-  <li>Performed system and log analysis using Linux environments and SQL queries</li>
-  <li>Applied structured incident response methodologies for threat containment and recovery</li>
+  <li>Monitored and analyzed security events using structured detection and investigation workflows</li>
+  <li>Developed basic automation scripts using Python and Bash to support security-related administrative tasks</li>
+  <li>Performed system, network, and log analysis within Linux and security-focused environments</li>
+  <li>Applied incident response methodologies for investigation, containment, and recovery scenarios</li>
 </ul>
 
 <h4>Operational Relevance</h4>
 <p>
-This certification supports entry-level security operations functions, including threat detection, incident response, and foundational SOC workflows using modern security tools and frameworks.
+This certification supports practical security operations workflows involving monitoring, threat analysis, incident response, and security-focused troubleshooting. The skills developed through this training reinforce operational awareness, analytical problem-solving, and defensive security practices applicable to modern business and infrastructure environments.
 </p>
