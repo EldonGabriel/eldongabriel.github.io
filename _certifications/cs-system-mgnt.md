@@ -60,7 +60,7 @@ function prevSlide() {
 </script>
 
 <p style="font-size:1.2em; line-height:1.6; margin-top:20px;">
-  This specialization focuses on secure enterprise system administration across Windows and Linux environments, including system hardening, identity management, and infrastructure governance aligned with security best practices.
+  This specialization focuses on secure enterprise system administration across Windows and Linux environments, including system hardening, identity management, and infrastructure governance, aligned with security best practices.
 </p>
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
@@ -77,5 +77,5 @@ function prevSlide() {
 
 <h4>Operational Relevance</h4>
 <p>
-This certification supports enterprise infrastructure security work, focusing on system hardening, identity management, and secure administration of multi-system environments.
+This certification supports enterprise infrastructure security, focusing on system hardening, identity management, and secure administration of multi-system environments.
 </p>
