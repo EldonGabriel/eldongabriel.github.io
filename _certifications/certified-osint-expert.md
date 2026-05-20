@@ -18,21 +18,27 @@ image:
   <p style="font-size: 14px; color: #ffffff;">MCSI Novice OSINT Practitioner</p>
 </div>
 
-The MOIS (Certified OSINT Expert) program from Mossé Cyber Security Institute focuses on structured open-source intelligence investigation techniques, including data collection, analysis, and reporting using repeatable workflows.
+<p style="font-size:1.2em; line-height:1.6;">
+The MOIS (Certified OSINT Expert) program from Mossé Cyber Security Institute focuses on structured open-source intelligence collection, investigative analysis, and repeatable reporting workflows used to support cybersecurity and digital investigation activities.
+</p>
+
+<p style="font-size:1.2em; line-height:1.6;">
+Training emphasizes ethical intelligence gathering, investigative validation, and operational research techniques using publicly accessible data sources across web, social, and technical environments.
+</p>
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Skills:</strong> Investigative Setup · Search Intelligence · Intelligence Reporting
+  <strong>Operational Capabilities:</strong> Intelligence Collection · Investigative Analysis · Structured Reporting
 </p>
 
 <h4>Applied Capability</h4>
 <ul>
-  <li>Corporate exposure analysis through public repository and asset review</li>
-  <li>Advanced search techniques using structured queries and archive analysis</li>
-  <li>Email and identifier validation using non-intrusive methods</li>
-  <li>Cross-language and reverse image intelligence gathering</li>
+  <li>Corporate exposure analysis through public asset and repository review</li>
+  <li>Advanced search methodologies using structured queries and archived data</li>
+  <li>Email, domain, and identifier validation using non-intrusive investigative techniques</li>
+  <li>Cross-platform and reverse image intelligence gathering workflows</li>
 </ul>
 
 <h4>Operational Relevance</h4>
 <p>
-This certification supports structured OSINT and intelligence analysis workflows. It strengthens repeatable investigative processes aligned with ethical and professional cybersecurity practices.
+This certification supports structured OSINT workflows applicable to cybersecurity investigations, digital footprint analysis, exposure assessment, and research-driven security operations. Skills developed through this training reinforce analytical thinking, investigative validation, and professional reporting practices within operational environments.
 </p>
