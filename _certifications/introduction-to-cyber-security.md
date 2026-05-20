@@ -18,21 +18,27 @@ image:
   <p style="font-size: 14px; color: #ffffff;">MICS Introduction to Cyber Security</p>
 </div>
 
-This certification provides practical foundations in cybersecurity operations, including reconnaissance, vulnerability assessment, threat detection, and basic digital forensics using industry-standard security tools.
+<p style="font-size:1.2em; line-height:1.6;">
+  This certification provides practical foundations in cybersecurity operations, including reconnaissance, vulnerability assessment, threat detection, and security-focused analysis using industry-standard tools and investigative workflows.
+</p>
+
+<p style="font-size:1.2em; line-height:1.6;">
+  Training emphasizes structured security assessment methodologies, operational troubleshooting, exposure analysis, and defensive security concepts in controlled laboratory environments.
+</p>
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Skills:</strong> Passive Reconnaissance · Vulnerability Assessment · Threat Detection (YARA)
+  <strong>Operational Capabilities:</strong> Security Reconnaissance · Vulnerability Assessment · Threat Detection
 </p>
 
 <h4>Applied Capability</h4>
 <ul>
-  <li>Performed external reconnaissance and attack surface mapping using OSINT tools</li>
-  <li>Conducted vulnerability scanning and system auditing using security assessment tools</li>
-  <li>Developed basic detection rules for identifying malicious files and artifacts</li>
-  <li>Analyzed web applications for common security misconfigurations and exposure risks</li>
+  <li>Performed external reconnaissance and attack surface analysis using OSINT and security assessment tools</li>
+  <li>Conducted vulnerability scanning and security-focused system auditing within lab environments</li>
+  <li>Developed basic detection logic for identifying suspicious files and malicious indicators</li>
+  <li>Analyzed web applications and infrastructure services for common security weaknesses and exposure risks</li>
 </ul>
 
 <h4>Operational Relevance</h4>
 <p>
-This certification supports entry-level security operations work, including reconnaissance, vulnerability analysis, and structured threat detection aligned with modern defensive security practices.
+This certification supports foundational security operation workflows involving reconnaissance, vulnerability analysis, threat detection, and security-focused troubleshooting. The skills developed through this training reinforce analytical thinking, operational awareness, and structured investigative practices aligned with modern defensive security environments.
 </p>
