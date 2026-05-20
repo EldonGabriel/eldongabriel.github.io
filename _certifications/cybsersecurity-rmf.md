@@ -18,21 +18,27 @@ image:
   <p style="font-size: 14px; color: #ffffff;">Cybersecurity Risk Management Framework</p>
 </div>
 
-This specialization focuses on the NIST Risk Management Framework (RMF) and Cybersecurity Framework (CSF), with emphasis on translating compliance requirements into technical security controls aligned with organizational risk posture.
+<p style="font-size:1.2em; line-height:1.6;">
+  This specialization focuses on the NIST Risk Management Framework (RMF) and Cybersecurity Framework (CSF), emphasizing how governance and compliance requirements translate into practical security controls in operational environments.
+</p>
+
+<p style="font-size:1.2em; line-height:1.6;">
+  Training reinforces structured risk analysis, security documentation, control validation, and security-focused decision-making, which are aligned with organizational risk management objectives.
+</p>
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Skills:</strong> NIST 800-53 Control Mapping · Risk Assessment · Compliance Documentation
+  <strong>Operational Capabilities:</strong> Risk Assessment · Security Control Mapping · Compliance Support
 </p>
 
 <h4>Applied Capability</h4>
 <ul>
-  <li>Mapped security requirements to NIST 800-53 control families</li>
-  <li>Performed structured risk assessments across system environments</li>
-  <li>Developed compliance documentation aligned with RMF lifecycle stages</li>
-  <li>Translated governance requirements into technical security controls</li>
+  <li>Mapped technical and administrative safeguards to NIST 800-53 control families</li>
+  <li>Performed structured risk assessments across systems and operational environments</li>
+  <li>Developed compliance-oriented documentation aligned with RMF lifecycle processes</li>
+  <li>Translated governance and policy requirements into practical security control considerations</li>
 </ul>
 
 <h4>Operational Relevance</h4>
 <p>
-This certification supports governance, risk, and compliance functions by enabling structured risk analysis, control implementation, and regulatory alignment across enterprise systems.
+This certification supports governance, risk, and compliance workflows involving security assessments, policy alignments, control implementations, and operational risk evaluations. The skills developed through this training strengthen security-focused decision-making and structured documentation practices across business and infrastructure environments.
 </p>
