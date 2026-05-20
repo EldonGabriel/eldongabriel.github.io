@@ -18,21 +18,27 @@ image:
   <p style="font-size: 14px; color: #ffffff;">MCSI Novice System Administrator</p>
 </div>
 
-The **MSAF (System Administration Fundamentals)** certification from Mossé Cyber Security Institute validates my ability to architect, manage, and defend enterprise infrastructure. With over **104 training exercises** to complete, this program emphasizes "Secure by Design" principles across Windows and Linux environments, virtualization, and disaster recovery.
+<p style="font-size:1.2em; line-height:1.6;">
+  The <strong>MSAF (System Administration Fundamentals)</strong> program from the Mossé Cyber Security Institute focuses on practical enterprise system administration, infrastructure security, operational troubleshooting, and secure environment management across Windows and Linux platforms.
+</p>
+
+<p style="font-size:1.2em; line-height:1.6;">
+  Training emphasizes secure-by-design administration principles, virtualization, access control, backup management, network services, and infrastructure resilience through extensive hands-on laboratory implementations.
+</p>
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Primary Infrastructure Solutions:</strong> GPO Security Engineering · Linux/Windows Hardening · Business Continuity (BCDR)
+  <strong>Operational Capabilities:</strong> System Hardening · Infrastructure Administration · Backup & Recovery Operations
 </p>
 
 <h4>Applied Capability</h4>
 <ul>
-  <li>Deploying advanced Group Policy Objects to enforce UAC hardening, Exploit Guard, and strict account lockout policies for enhanced system security</li>
-  <li>Designing organizational networks using **Cisco Packet Tracer**, securing perimeters with **PFSense** firewalls, and establishing secure OpenVPN links for remote connectivity</li>
-  <li>Managing server fleets through secure administration tools like Webmin and Cockpit, ensuring access is restricted via granular **IP whitelisting** for maximum security</li>
-  <li>Engineering automated backup workflows with **Duplicati** and conducting **Active Directory restoration** procedures to ensure business continuity in case of system failure</li>
+  <li>Configured Group Policy Objects (GPOs) to support account security, endpoint hardening, and administrative policy enforcement</li>
+  <li>Designed and tested network environments using Cisco Packet Tracer, pfSense firewall configurations, and VPN connectivity workflows</li>
+  <li>Managed Linux and Windows administrative services using remote management and infrastructure monitoring platforms</li>
+  <li>Implemented backup, recovery, and Active Directory restoration workflows to support operational continuity scenarios</li>
 </ul>
 
 <h4>Operational Relevance</h4>
 <p>
-The competencies verified here serve as the foundation for my **Windows Systems Administration** and **Technical Troubleshooting** experience sections. Every administrative action I take is backed by the systematic hardening and monitoring standards developed during this 100+ lab series.
+This certification supports practical infrastructure administration, including system hardening, network management, operational troubleshooting, and secure environment maintenance. The skills developed throughout this training reinforce structured administrative workflows, infrastructure reliability, and security-focused system management applicable to business and enterprise environments.
 </p>
