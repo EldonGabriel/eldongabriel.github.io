@@ -10,13 +10,17 @@ image:
 ---
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-My certifications reflect structured cybersecurity training combined with hands-on system administration and security operations.
+This section highlights certifications focused on cybersecurity, system administration, infrastructure security, and operational troubleshooting.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-Each credential is supported by practical laboratory work, including system configuration, troubleshooting, and applied security scenarios documented throughout this portfolio.
+Training is reinforced through hands-on laboratory work involving Linux and Windows administration, network troubleshooting, system hardening, access control, and security operations. Practical implementation and technical validation are documented throughout this portfolio.
+</p>
+
+<p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
+Current studies through the Mossé Cyber Security Institute (MCSI) focus on practical enterprise skills aligned with real-world operational environments, emphasizing structured troubleshooting, defensive security practices, and infrastructure management.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6;">
-Training aligns with industry frameworks, including the <strong>NIST NICE Framework</strong>, relevant <strong>U.S. Department of Defense occupational standards</strong>, and the <strong>ASD Cyber Skills Framework</strong>, supporting structured skill development and workforce alignment.
+Training pathways align with recognized industry frameworks, including the <strong>NIST NICE Workforce Framework</strong>, the <strong>Australian Signals Directorate (ASD) Cyber Skills Framework</strong>, and relevant <strong>U.S. Department of Defense occupational standards</strong>, supporting progressive technical skill development and workforce readiness.
 </p>
