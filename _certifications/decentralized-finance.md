@@ -18,21 +18,27 @@ image:
   <p style="font-size: 14px; color: #ffffff;">Decentralized Finance (DeFi)</p>
 </div>
 
-This specialization focuses on decentralized finance systems, including blockchain architecture, smart contract security, and cryptographic risk management within financial ecosystems.
+<p style="font-size:1.2em; line-height:1.6;">
+  This specialization focuses on decentralized finance systems, blockchain infrastructure, and the security considerations surrounding smart contracts, digital assets, and distributed financial applications.
+</p>
+
+<p style="font-size:1.2em; line-height:1.6;">
+  Training emphasizes risk analysis, cryptographic security principles, protocol architecture, and operational security considerations relevant to decentralized financial environments and blockchain-based platforms.
+</p>
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Skills:</strong> Cryptographic Key Management · Protocol Risk Assessment · Smart Contract Security
+  <strong>Operational Capabilities:</strong> Protocol Risk Analysis · Smart Contract Security Concepts · Cryptographic Security
 </p>
 
 <h4>Applied Capability</h4>
 <ul>
-  <li>Evaluated DeFi protocols and their operational risk exposure</li>
-  <li>Analyzed smart contract systems for security and design weaknesses</li>
-  <li>Applied cryptographic principles for digital asset protection</li>
-  <li>Assessed decentralized financial systems including lending and trading protocols</li>
+  <li>Evaluated decentralized finance protocols and operational risk exposure scenarios</li>
+  <li>Analyzed smart contract architecture and common security weakness patterns</li>
+  <li>Applied cryptographic and key management concepts related to digital asset security</li>
+  <li>Assessed decentralized financial platforms including lending, liquidity, and exchange systems</li>
 </ul>
 
 <h4>Operational Relevance</h4>
 <p>
-This certification supports analysis of blockchain-based financial systems, with focus on cryptographic security, protocol risk, and decentralized infrastructure evaluation.
+This certification supports analytical understanding of blockchain-based systems and decentralized financial infrastructure, with emphasis on security awareness, protocol evaluation, and operational risk considerations. Skills developed through this training strengthen technical analysis and security-focused assessment capabilities within emerging digital infrastructure environments.
 </p>
