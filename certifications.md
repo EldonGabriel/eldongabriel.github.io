@@ -12,11 +12,11 @@ image:
 <section class="portfolio-page">
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-Professional certifications and technical training support hands-on work in system administration, infrastructure security, troubleshooting, and operational support environments. Training is reinforced through practical laboratory implementation involving Linux and Windows administration, system hardening, network troubleshooting, access control, and security-focused infrastructure validation, as documented throughout this portfolio.
+Professional certifications and technical training support hands-on capabilities across system administration, infrastructure security, troubleshooting, and operational support environments. Work is reinforced through practical laboratory implementation involving Linux and Windows administration, system hardening, network troubleshooting, access control, and infrastructure validation, as documented throughout this portfolio.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6;">
-Technical development aligns with recognized industry frameworks, including the <strong>NIST NICE Workforce Framework</strong>, <strong>Australian Signals Directorate (ASD) Cyber Skills Framework</strong>, and relevant <strong>U.S. Department of Defense occupational standards</strong>.
+Technical development aligns with recognized industry frameworks including the <strong>NIST NICE Workforce Framework</strong>, the <strong>Australian Signals Directorate (ASD) Cyber Skills Framework</strong>, and relevant <strong>U.S. Department of Defense occupational standards</strong>.
 </p>
 
 </section>
@@ -33,10 +33,10 @@ Technical development aligns with recognized industry frameworks, including the 
     </h3>
 
     <ul style="margin-top:10px; padding-left:20px; font-size:0.9em; text-align:left;">
-      <li>Linux and Windows system administration</li>
+      <li>Linux and Windows administration</li>
       <li>Infrastructure hardening and access control</li>
-      <li>Network troubleshooting and operational support</li>
-      <li>Security operations and incident-focused workflows</li>
+      <li>Network troubleshooting and support</li>
+      <li>Security operations and incident workflows</li>
     </ul>
 
   </div>
@@ -49,10 +49,10 @@ Technical development aligns with recognized industry frameworks, including the 
     </h3>
 
     <ul style="margin-top:10px; padding-left:20px; font-size:0.9em; text-align:left;">
-      <li>Hands-on lab-based technical implementation</li>
-      <li>Structured troubleshooting methodologies</li>
-      <li>Documented proof-of-work and technical reporting</li>
-      <li>Real-world operational security scenarios</li>
+      <li>Hands-on lab implementation</li>
+      <li>Structured troubleshooting methods</li>
+      <li>Documented proof-of-work</li>
+      <li>Operational security scenarios</li>
     </ul>
 
   </div>
