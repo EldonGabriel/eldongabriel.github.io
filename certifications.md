@@ -10,17 +10,17 @@ image:
 ---
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-This section highlights certifications focused on cybersecurity, system administration, infrastructure security, and operational troubleshooting.
+This section highlights certifications and technical training focused on cybersecurity, system administration, infrastructure security, and operational troubleshooting.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-Training is reinforced through hands-on laboratory work involving Linux and Windows administration, network troubleshooting, system hardening, access control, and security operations. Practical implementation and technical validation are documented throughout this portfolio.
+Each certification is supported by hands-on laboratory work involving Linux and Windows administration, network configuration, system hardening, access control, troubleshooting, and security-focused infrastructure tasks documented throughout this portfolio.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-Current studies through the Mossé Cyber Security Institute (MCSI) focus on practical enterprise skills aligned with real-world operational environments, emphasizing structured troubleshooting, defensive security practices, and infrastructure management.
+The goal of this training is to support real-world technical work by combining structured learning with practical implementation, validation, and problem-solving across enterprise-style environments.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6;">
-Training pathways align with recognized industry frameworks, including the <strong>NIST NICE Workforce Framework</strong>, the <strong>Australian Signals Directorate (ASD) Cyber Skills Framework</strong>, and relevant <strong>U.S. Department of Defense occupational standards</strong>, supporting progressive technical skill development and workforce readiness.
+Training aligns with recognized industry frameworks including the <strong>NIST NICE Workforce Framework</strong>, the <strong>Australian Signals Directorate (ASD) Cyber Skills Framework</strong>, and relevant <strong>U.S. Department of Defense occupational standards</strong>.
 </p>
