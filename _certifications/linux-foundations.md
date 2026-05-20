@@ -18,21 +18,27 @@ image:
   <p style="font-size: 14px; color: #ffffff;">Packt Linux Foundations and Basic System Administration Certificate</p>
 </div>
 
-The **Packt Linux Foundations and Basic System Administration** course solidified my expertise in Linux systems, providing a comprehensive foundation in system administration. It enabled me to configure Linux environments, manage users, and administer key services across various Linux distributions.
+<p style="font-size:1.2em; line-height:1.6;">
+  This training focuses on foundational Linux system administration, including system configuration, user and permission management, service administration, and operational troubleshooting in Linux environments.
+</p>
+
+<p style="font-size:1.2em; line-height:1.6;">
+  Practical exercises reinforced command-line administration, file system management, process monitoring, system security concepts, and administrative workflows commonly used in infrastructure and support environments.
+</p>
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Core Skills:</strong> Linux Systems Administration · User Management · System Security · File Management
+  <strong>Operational Capabilities:</strong> Linux Administration · User Management · System Configuration
 </p>
 
 <h4>Applied Capability</h4>
 <ul>
-  <li>Installed and configured Linux environments for local and cloud-based deployment</li>
-  <li>Mastered file systems, file management, and user permissions within Linux environments</li>
-  <li>Implemented security protocols to harden Linux systems and ensure data integrity</li>
-  <li>Utilized text processing and file manipulation tools to automate administrative tasks</li>
+  <li>Installed and configured Linux systems for local and virtualized environments</li>
+  <li>Managed file systems, permissions, users, and administrative access controls</li>
+  <li>Applied baseline hardening and system security practices across Linux environments</li>
+  <li>Utilized command-line utilities and text-processing tools to support administrative and troubleshooting tasks</li>
 </ul>
 
 <h4>Operational Relevance</h4>
 <p>
-This certification ensures a strong foundation in Linux systems administration, enabling me to configure, secure, and manage Linux environments in both on-premises and cloud-based infrastructures.
+This certification supports practical Linux administration workflows involving system configuration, user management, troubleshooting, and operational maintenance. The skills reinforced through this training strengthen infrastructure support capability and security-focused administration within Linux-based environments.
 </p>
