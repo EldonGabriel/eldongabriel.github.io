@@ -44,9 +44,7 @@ The configuration was completed inside an isolated subnet.
 - **Remote Client:** `192.168.50.20`
   - Mount Point: `/mnt/nfs_client_share`
 
-Host-based access rules were added to `/etc/exports` to allow only the approved client system to access the shared directory.
-
-### 1.2.2 Directory Permissions and Mount Configuration
+Host-based access rules were added to `/etc/exports` to restrict share access to the approved client system.
 
 The required mount directories were created on both systems.
 
@@ -56,7 +54,7 @@ Temporary permissions were applied using:
 sudo chmod 777 /mnt/nfs_share
 ```
 
-This allowed the client system to write files through the anonymous account created by the default `root_squash` mapping.
+This allowed the client system to write files through the anonymous account mapped by `root_squash`.
 
 The live export rules were applied using:
 
@@ -70,7 +68,7 @@ The client service configuration was refreshed using:
 sudo systemctl daemon-reload
 ```
 
-**Note:** Broad write permissions were used only during testing to validate identity mappings. Production systems should use least-privilege permissions and ownership-based access controls.
+**Note:** Broad write permissions were used only for testing identity mappings. Production systems should enforce least privilege and ownership-based access controls.
 {: .notice}
 
 ```bash
@@ -83,18 +81,16 @@ sudo systemctl daemon-reload
 
 ### Key Insight
 
-NFS shares depend on both export rules and filesystem permissions working together.
-
-The default `root_squash` feature prevents remote root users from having full control over the server. Instead, remote root actions are mapped to the anonymous `nobody:nogroup` account. If the server directory permissions are too restrictive, client write operations will fail.
+The NFS depends on both export rules and filesystem permissions. The default `root_squash` feature maps remote root actions to `nobody:nogroup`, so incorrect server permissions can block client write-access.
 
 ## 1.3 Validation and Testing
 
 Several tests were performed to confirm correct operation and security behavior.
 
 - **Service Verification:** Used `exportfs -v` to confirm active export settings.
-- **Mount Verification:** Used `mount -a` to validate `/etc/fstab` configuration before reboot testing.
+- **Mount Verification:** Used `mount -a` to validate `/etc/fstab` before reboot testing.
 - **Write Verification:** Created test data from the client system.
-- **Identity Verification:** Used `ls -l` to confirm files were created under the `nobody:nogroup` identity.
+- **Identity Verification:** Used `ls -l` to confirm `nobody:nogroup` ownership mappings.
 
 ## 1.4 Troubleshooting Highlights
 
