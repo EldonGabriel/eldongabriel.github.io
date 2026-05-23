@@ -4,7 +4,7 @@ date: 2026-05-22
 author: Eldon Gabriel
 categories: [Infrastructure Security]
 tags: [Linux, NFS, Storage Management, Network Security, System Administration]
-excerpt: "Technical deployment and hardening of a cross-network Network File System (NFS) architecture."
+excerpt: "Technical deployment and security validation of a Network File System (NFS) environment."
 image:
   path: /assets/images/posts/nfs.png
   thumbnail: /assets/images/posts/nfs.png
@@ -12,11 +12,10 @@ image:
 
 # 0.0 Executive Summary
 
-This report documents the secure deployment, configuration, and validation of a cross-network Network File System (NFS) architecture between a dedicated server and remote client. The primary objective was to establish a boot-persistent network share while validating the system-level access controls and user identity mappings.
+This report documents the setup and testing of a Network File System (NFS) share between two Linux systems. The goal was to create a persistent network share that allows controlled file access between a server and client system.
+The configuration included setting access rules through `/etc/exports`, creating persistent mounts with `/etc/fstab`, and validating identity protection using the default `root_squash` security feature.
 
-The implementation involved configuring host-based access control lists through `/etc/exports`, aligning server-side filesystem permissions with anonymous network mappings, and defining static mounts within the system file table. Administrative identity protection was enforced using the default kernel `root_squash` mechanism.
-
-The result was a fully operational, high-throughput network share. Testing confirmed that the remote client could perform persistent read/write operations without bypassing the administrative isolation controls. This deployment establishes a repeatable and secure framework for managing decentralized storage assets within enterprise networks.
+Testing confirmed that the client system could successfully read and write files to the shared directory while still preventing remote root-level control over the server. This project demonstrates a repeatable method for deploying and validating secure network-based storage in a Linux environment.
 
 <hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
@@ -24,106 +23,132 @@ The result was a fully operational, high-throughput network share. Testing confi
 
 ## 1.1 Project Description
 
-The goal of this task was to develop technical proficiency in network storage architectures by implementing isolated file shares. The design ensures controlled storage synchronization between the discrete enterprise hosts.
+The goal of this task was to build hands-on experience with Linux network storage systems by configuring an isolated NFS file share between two hosts.
 
 This implementation demonstrates the following:
 
-* **NFS Architecture Deployment:** Install and manage kernel-level NFS server and client services.
-* **Identity Enforcement:** Implement default `root_squash` protections to restrict remote root access.
-* **Persistent Mount Configuration:** Securely configure boot-persistent mounts using `/etc/fstab`.
-* **Egress Access Management:** Restrict export permissions exclusively to approved client IP addresses.
-
+- **NFS Deployment:** Install and configure NFS server and client services.
+- **Identity Protection:** Use `root_squash` to limit remote root privileges.
+- **Persistent Mounts:** Configure automatic mounts using `/etc/fstab`.
+- **Access Restrictions:** Limit share access to approved client IP addresses.
 
 ## 1.2 Technical Execution
 
 ### 1.2.1 Environment and Initial Configuration
 
-* **Infrastructure Scope:** Configuration executed across an isolated subnet:
-  * **Storage Server:** `192.168.50.10` hosting `/mnt/nfs_share`
-  * **Remote Client:** `192.168.50.20` mounting `/mnt/nfs_client_share`
+The configuration was completed inside an isolated subnet.
 
-* **Export Policy Enforcement:** Applied restricted host-based access rules within `/etc/exports`.
+- **Storage Server:** `192.168.50.10`
+  - Shared Directory: `/mnt/nfs_share`
 
-### 1.2.2 Directory Privileges and Mount Routing
+- **Remote Client:** `192.168.50.20`
+  - Mount Point: `/mnt/nfs_client_share`
 
-* **Filesystem Initialization:** Created and prepared mount directories on both systems.
-* **Privilege Alignment:** Applied temporary permissions using `sudo chmod 777 /mnt/nfs_share` to support write access for the anonymous account mapping enforced by `root_squash`.
-* **Rule Synchronization:** Applied live export rules using `sudo exportfs -a` and refreshed client-side service definitions with `sudo systemctl daemon-reload`.
+Host-based access rules were added to `/etc/exports` to allow only the approved client system to access the shared directory.
 
-**Note:** Temporary write permissions were applied during validation testing to confirm correct NFS identity mappings. In production environments, ownership-based access controls and least-privilege permissions should be enforced instead of broad write-access permissions.
+### 1.2.2 Directory Permissions and Mount Configuration
+
+The required mount directories were created on both systems.
+
+Temporary permissions were applied using:
+
+```bash
+sudo chmod 777 /mnt/nfs_share
+```
+
+This allowed the client system to write files through the anonymous account created by the default `root_squash` mapping.
+
+The live export rules were applied using:
+
+```bash
+sudo exportfs -a
+```
+
+The client service configuration was refreshed using:
+
+```bash
+sudo systemctl daemon-reload
+```
+
+**Note:** Broad write permissions were used only during testing to validate identity mappings. Production systems should use least-privilege permissions and ownership-based access controls.
 {: .notice}
 
 ```bash
-# Example NFS export rule structure inside /etc/exports
+# Example NFS export rule
 /mnt/nfs_share 192.168.50.20(rw,sync,no_subtree_check)
 
-# Persistent entry configured inside client /etc/fstab
+# Persistent client mount entry
 192.168.50.10:/mnt/nfs_share /mnt/nfs_client_share nfs defaults 0 0
 ```
 
 ### Key Insight
 
-NFS mounts require alignment between network export policies and the underlying filesystem permissions. Because the default `root_squash` security feature maps remote root operations to the anonymous `nobody:nogroup` identity, client write operations fail unless server-side permissions explicitly allow access to that unprivileged context.
+NFS shares depend on both export rules and filesystem permissions working together.
+
+The default `root_squash` feature prevents remote root users from having full control over the server. Instead, remote root actions are mapped to the anonymous `nobody:nogroup` account. If the server directory permissions are too restrictive, client write operations will fail.
 
 ## 1.3 Validation and Testing
 
-A structured validation process confirmed correct rule enforcement and operational behavior across the network link:
+Several tests were performed to confirm correct operation and security behavior.
 
-- **Service Verification:** Used `sudo exportfs -v` to validate active export parameters (`rw`, `sync`, `no_subtree_check`).
-- **Mount Verification:** Executed `sudo mount -a` to confirm `/etc/fstab` integrity and boot persistence before restarting the test.
-- **Write Verification:** Created `/mnt/nfs_client_share/client_data` directly from the client system.
-- **Identity Tracking:** Verified ownership mappings with `ls -l`, confirming that files were created under the expected `nobody:nogroup` identity.
+- **Service Verification:** Used `exportfs -v` to confirm active export settings.
+- **Mount Verification:** Used `mount -a` to validate `/etc/fstab` configuration before reboot testing.
+- **Write Verification:** Created test data from the client system.
+- **Identity Verification:** Used `ls -l` to confirm files were created under the `nobody:nogroup` identity.
 
 ## 1.4 Troubleshooting Highlights
 
-- **Root Privilege Barrier:** Initial client write operations returned `"Permission denied"` errors despite using `sudo`. Root cause analysis confirmed that `root_squash` was functioning correctly. This issue was resolved by aligning the server-side file system permissions with the anonymous account context.
-- **Mount Loop Prevention:** Prevented boot-time mount failures by validating `/etc/fstab` entries using `mount -a` before reboot-testing.
+- **Permission Errors:** Initial client write attempts returned `"Permission denied"` errors. Investigation confirmed that `root_squash` was functioning correctly. The issue was resolved by adjusting server-side permissions for the anonymous account context.
+
+- **Boot Validation:** The `/etc/fstab` configuration was tested with `mount -a` before rebooting to prevent mount-related startup failures.
 
 ### Tool Mapping
 
-| Function | Native Command / Path | Verification Indicator |
+| Function | Tool / Path | Purpose |
 |---|---|---|
-| **Export Policy Definition** | `/etc/exports` | Scoped single-IP client binding |
-| **Live Rule Broadcast** | `sudo exportfs -a` | Updates active kernel export table |
-| **Persistent Mapping Table** | `/etc/fstab` | Static mount configuration |
-| **System Cache Refresh** | `sudo systemctl daemon-reload` | Reloads service configuration |
-| **Live Mount Verification** | `mount -a` / `df -h` | Confirms active mounted state |
+| Export Rules | `/etc/exports` | Defines approved client access |
+| Apply Export Rules | `sudo exportfs -a` | Reloads export configuration |
+| Persistent Mounts | `/etc/fstab` | Stores boot-persistent mounts |
+| Service Refresh | `sudo systemctl daemon-reload` | Reloads service configuration |
+| Mount Validation | `mount -a` / `df -h` | Verifies active mounts |
 
 # 2.0 CONCLUSION
 
 ## 2.1 Key Takeaways
 
-- NFS functionality depends on the alignment between network export rules and filesystem permissions.
-- Default identity-squashing protections help prevent remote administrative escalation.
-- Mount validation routines reduce reboot failures caused by invalid-storage configurations.
-- Performance options such as `sync` and `no_subtree_check` improve operational efficiency and consistency.
+- NFS requires both export rules and filesystem permissions to work correctly.
+- `root_squash` helps prevent remote administrative access.
+- Testing mount configurations reduces reboot-related failures.
+- Options like `sync` and `no_subtree_check` improve consistency and performance.
 
 ## 2.2 Security Implications and Recommendations
 
-### Risk: Unauthorized Lateral Movement via Over-Permissive Exports
-Broad subnet exports or disabled identity protection can allow unauthorized hosts to access or modify shared storage.
+### Risk: Unauthorized Access Through Over-Permissive Exports
 
-### Mitigation:
+Large subnet ranges or disabled identity protections can allow unauthorized systems to access shared storage.
 
-- Restrict exports to approved IP addresses, whenever possible.
+### Mitigation
+
+- Restrict exports to approved IP addresses only.
 - Avoid using `no_root_squash` in production environments.
 
 ### Risk: Data Exposure in Transit
-Standard NFS traffic is unencrypted and vulnerable to interception on untrusted networks. Humanity really looked at plaintext network storage and said, “ship it.”
 
-### Mitigation:
+Standard NFS traffic is not encrypted and may be intercepted on untrusted networks.
 
-- Isolate the storage traffic within secured network segments.
-- Use Kerberos-based authentication (`sec=krb5`) when handling sensitive data.
+### Mitigation
+
+- Isolate storage traffic within secured network segments.
+- Use Kerberos authentication (`sec=krb5`) for sensitive environments.
 
 ### Best Practices
 
-- Validate mount configurations using `mount -a` before rebooting the systems.
-- Separate storage shares from privileged administrative accounts.
-- Regularly review access logs for abnormal connection activity or unauthorized access attempts.
+- Test `/etc/fstab` entries using `mount -a` before rebooting.
+- Separate shared storage from privileged accounts.
+- Review logs regularly for unusual access activity.
 
 ### Framework Alignment
 
-- **NIST CSF (PR.DS-1):** Protection of data at rest and in transit.
-- **CIS Control 3:** Data protection and access control enforcement.
-- **ISO 27001 Annex A:** Security controls for storage access and network isolation.
+- **NIST CSF (PR.DS-1):** Protecting data at rest and in transit.
+- **CIS Control 3:** Data protection and access control.
+- **ISO 27001 Annex A:** Security controls for storage and network access.
