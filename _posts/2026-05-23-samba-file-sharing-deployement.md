@@ -102,7 +102,7 @@ Heredoc formatting inconsistencies cause configuration append failures. This was
 - Samba enables secure file sharing between Linux and Windows systems.
 - File-share security relies on both Samba settings and Linux permissions.
 - Service accounts should use non-interactive shells to reduce the attack surface.
-- Network connectivity should always be verified before troubleshooting application-layer services.
+- Verify network connectivity before troubleshooting application-layer services.
 
 ## 2.2 Security Implications and Recommendations
 
@@ -128,7 +128,7 @@ Compromised service accounts may be used for lateral movement if shell access is
 
 - Validate the configuration files before restarting the services.
 - Restrict file-sharing traffic to the approved network segments.
-- Change management procedures should be used when modifying production configurations.
+- Use change management when modifying production configurations.
 
 **Framework Alignment**
 
