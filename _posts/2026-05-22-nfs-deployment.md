@@ -59,6 +59,7 @@ This implementation demonstrates the following:
 
 # Persistent entry configured inside client /etc/fstab
 192.168.50.10:/mnt/nfs_share /mnt/nfs_client_share nfs defaults 0 0
+```
 
 ### Key Insight
 
