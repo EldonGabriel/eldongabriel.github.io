@@ -6,8 +6,8 @@ categories: [Infrastructure Security]
 tags: [Linux, NFS, Storage Management, Network Security, System Administration]
 excerpt: "Technical deployment and hardening of a cross-network Network File System (NFS) architecture."
 image:
-  path: /assets/images/posts/NFS.png
-  thumbnail: /assets/images/posts/NFS.png
+  path: /assets/images/posts/nfs.png
+  thumbnail: /assets/images/posts/nfs.png
 ---
 
 # 0.0 Executive Summary
