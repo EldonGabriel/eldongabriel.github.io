@@ -77,10 +77,10 @@ Validation confirmed authentication, connectivity, and permission enforcement.
   
 ## 1.4 Troubleshooting Highlights
 
-#### Configuration Filename Error
+### Configuration Filename Error
 A typographical mistake (`.cof` instead of `.conf`) prevented the configuration changes from loading correctly. This was resolved by correcting the file name and validating the paths.
 
-#### Automation Block Errors 
+### Automation Block Errors 
 Heredoc formatting inconsistencies cause configuration append failures. This was resolved by verifying the matching opening and closing delimiters.
 
 
