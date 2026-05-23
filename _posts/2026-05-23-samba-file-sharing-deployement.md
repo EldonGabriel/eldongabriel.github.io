@@ -20,7 +20,7 @@ Testing confirmed that authorized users could successfully access and modify sha
 
 <hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
-# 1.0 Samba File Sharing Deployment and Validation
+# 1.0 Samba File Sharing Deployment
 
 ## 1.1 Project Description
 
@@ -39,14 +39,14 @@ This implementation demonstrates the following:
 
 ### 1.2.1 Installation and Account Provisioning
 
-- **Service Installation:** Samba packages were installed, and the main configuration file was verified at `/etc/samba/smb.conf`.
-- **Restricted Account Creation:** A dedicated `smbuser` account was created and `/sbin/nologin` was assigned to prevent interactive shell access.
-- **Credential Registration:** The account was added to the encrypted Samba authentication database using `smbpasswd`.
+- **Service Installation:**Samba was installed, and `/etc/samba/smb.conf` was verified.
+- **Restricted Account Creation:** A dedicated `smbuser` account was created with `/sbin/nologin` to block shell access.
+- **Credential Registration:** The account was added to the Samba authentication database using `smbpasswd`.
 
 ### 1.2.2 Directory and Share Configuration
 
 - **Directory Creation:** Created a shared directory at `/home/smbuser/shared`.
-- **Permission Assignment:** Applied `770` permissions to restrict access to authorized users and groups.
+- **Permission Assignment:** Applied `770` permissions to restrict access to approved users and groups.
 - **Configuration Update:** Added the custom share definition to `/etc/samba/smb.conf`.
 
 ```bash
@@ -70,14 +70,19 @@ Samba share permissions depend on both the Samba configuration settings and the 
 Validation confirmed authentication, connectivity, and permission enforcement.
 
 - **Connectivity Verification:** `ping` was used to verify layer-3 network connectivity.
-- **Service Verification:** Confirmed that the `smbd` service was active and listening on the correct network ports.
+- **Service Verification:** Confirmed that `smbd` was active and listening on the correct ports.
 - **Authentication Testing:** Guest access and invalid credentials were rejected.
-- **Read/Write Validation:** Successfully authenticated using `smbuser` and confirmed file creation and modification.
+- **Read/Write Validation:** Authenticated with `smbuser` and confirmed file creation and modification. 
 
+  
 ## 1.4 Troubleshooting Highlights
 
-- **Configuration Filename Error:** A typographical mistake (`.cof` instead of `.conf`) prevented the configuration changes from loading correctly. This was resolved by correcting the file name and validating the paths.
-- **Automation Block Errors:** Heredoc formatting inconsistencies cause configuration append failures. This was resolved by verifying the matching opening and closing delimiters.
+#### Configuration Filename Error
+A typographical mistake (`.cof` instead of `.conf`) prevented the configuration changes from loading correctly. This was resolved by correcting the file name and validating the paths.
+
+#### Automation Block Errors 
+Heredoc formatting inconsistencies cause configuration append failures. This was resolved by verifying the matching opening and closing delimiters.
+
 
 ### Tool Mapping
 
@@ -129,4 +134,4 @@ Compromised service accounts may be used for lateral movement if shell access is
 
 - **NIST CSF (PR.AC):** Identity management and access control.
 - **CIS Control 3:** Data protection and restricted resource access.
-- **ISO 27001 Annex A: Secure access management and service hardening.
+- **ISO 27001 Annex A:** Secure access management and service hardening.
