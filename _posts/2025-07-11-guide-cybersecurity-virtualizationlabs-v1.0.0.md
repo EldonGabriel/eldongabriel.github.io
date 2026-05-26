@@ -6,8 +6,8 @@ categories: [Infrastructure and Systems]
 tags: [cybersecurity, virtualization, VMware, WSL, GCP, AWS, labs, portfolio]
 excerpt: "Hands-on virtualization labs across VMware, WSL, GCP, and AWS are building foundational skills for offensive and defensive cybersecurity operations."
 image:
-  path: "/assets/images/virtualization.jpeg"
-  thumbnail: "/assets/images/virtualization.jpeg"
+  path: "/assets/images/virtualization.png"
+  thumbnail: "/assets/images/virtualization.png"
 ---
 
 I’m nearing the end of the Virtualization Fundamentals module, with 7 out of 9 labs completed. I completed key system admin tasks using VMware Fusion on macOS with the M2 chip. 
