@@ -89,19 +89,12 @@ Root Cause: Default SSH settings allowed single-factor logins using standard pas
 SSH and PAM settings were tested through login attempts and configuration checks.
 
 | Parameter | Configuration Value |
-
-| :--- | :--- |
-
+|---|---|
 | Authentication System | OpenSSH / PAM |
-
 | Login Method | SSH Key + TOTP |
-
 | Password Login | Disabled |
-
 | Rate Limit | 3 Attempts per 30 Seconds |
-
 | Token Protection | Single-Use TOTP |
-
 | Scope | Remote SSH Access |
 
 **Validation Steps**
