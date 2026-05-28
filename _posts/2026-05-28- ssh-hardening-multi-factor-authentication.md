@@ -127,7 +127,7 @@ SSH and PAM settings were tested through login attempts and configuration checks
 
 Using only passwords or SSH keys increases the risk of unauthorized access if the credentials are stolen.
 
-**Mitigation: Require MFA for all remote SSH logins.
+**Mitigation:** Require MFA for all remote SSH logins.
 
 **Risk: Unauthorized SSH Access**
 
