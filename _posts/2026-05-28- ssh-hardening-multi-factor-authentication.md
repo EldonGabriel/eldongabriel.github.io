@@ -82,7 +82,7 @@ Key Actions & Observations
 
 * Verified the SSH configuration using the built-in test commands.
 
-Root Cause: Default SSH settings allowed single-factor logins using standard passwords. This increases the risk of unauthorized access. This issue was resolved by enabling PAM-based MFA.
+**Root Cause:** Default SSH settings allowed single-factor logins using standard passwords. This increases the risk of unauthorized access. This issue was resolved by enabling PAM-based MFA.
 
 ## 1.3 Resolution and Validation
 
