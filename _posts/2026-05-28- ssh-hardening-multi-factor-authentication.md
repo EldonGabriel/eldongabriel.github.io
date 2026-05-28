@@ -12,9 +12,9 @@ image:
 
 # 0.0 Executive Summary
 
-This report documents the configuration and validation of multi-factor authentication (MFA) within the OpenSSH daemon and Pluggable Authentication Modules (PAM) architecture on an Ubuntu Linux system. The objective was to improve remote access security by enforcing dual-factor authentication using SSH public keys and a 6-digit TOTP code while completely suppressing standard password prompts.
+This report documents the configuration and validation of multi-factor authentication (MFA) within the OpenSSH daemon and Pluggable Authentication Modules (PAM) architecture on an Ubuntu Linux system. The objective was to improve remote access security by enforcing dual-factor authentication using SSH public keys and 6-digit TOTP verification codes while suppressing standard password-based authentication.
 
-The result is a hardened SSH configuration that drastically reduces the risk of automated brute-force attacks, unauthorized credential reuse, and unauthorized SSH access.
+The implementation combined OpenSSH configuration hardening with PAM-based MFA integration, user access restrictions, and authentication rate limiting. The result is a hardened SSH configuration that reduces the risk of brute-force attacks, credential reuse, and unauthorized remote access.
 
 <hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
@@ -22,16 +22,17 @@ The result is a hardened SSH configuration that drastically reduces the risk of 
 
 ## 1.1 Project Description
 
-The goal of this task was to develop practical Linux system administration and hardening skills by integrating the OpenSSH daemon configuration with the Linux PAM subsystem.
+The goal of this task was to develop practical Linux hardening and remote-access security skills by integrating the OpenSSH daemon with the Linux PAM authentication framework.
 
-The implementation included the following aspects:
+The implementation included the following:
 
-- Installing and configuring the Google Authenticator PAM shared library (`libpam-google-authenticator`)
-- Restricting user authentication strictly to public key and keyboard-interactive authentication
-- Implementing rate-limiting and single-use token constraints to mitigate replay and brute-force attacks
-- Validating authentication constraints and access control policies through multi-scenario testing
+- Installing and configuring the Google Authenticator PAM module (`libpam-google-authenticator`)
+- Enforcing public key and keyboard-interactive authentication
+- Restricting direct access to approved user accounts
+- Implementing MFA rate-limiting protections
+- Validating authentication enforcement through controlled testing
 
-This approach improves administrative access boundaries by centralizing authentication controls and ensuring that access requires multiple independent factors.
+This approach improves administrative access security by requiring multiple independent authentication factors before SSH access is granted.
 
 ## 1.2 Technical Task / Troubleshooting Process
 
@@ -39,90 +40,96 @@ The process focused on strengthening remote authentication policies and validati
 
 **Key Actions & Observations**
 
-* Verified that the `google-authenticator` package was absent from the local package database before performing installation tasks.
+* Verified that the Google Authenticator PAM package was not installed before beginning the deployment process.
 
-* Updated local repository indexes and installed the `libpam-google-authenticator` library on the Ubuntu Server.
+* Updated repository indexes and installed the `libpam-google-authenticator` package on the Ubuntu Server.
 
-* Executed the initialization wizard interactively under the target unprivileged user account (`eldon`) to generate shared secret profiles.
+* Executed the MFA initialization wizard under the target standard user account (`eldon`) to generate secure TOTP secret profiles.
 
-* Configured single-use token restrictions to enforce strict 30-second synchronization boundaries and rate-limited users to a maximum of three attempts per 30 seconds.
+* Configured single-use token enforcement and rate limiting to reduce replay and brute-force attack attempts.
 
-* Modified the SSH PAM configuration file at `/etc/pam.d/sshd` to append the `pam_google_authenticator.so` authentication module.
+* Updated `/etc/pam.d/sshd` to integrate the `pam_google_authenticator.so` module into the SSH authentication workflow.
 
-* Commented out the default system authentication routine (`@include common-auth`) within `/etc/pam.d/sshd` to remove the standard user password challenge.
+* Disabled the default password-authentication routine to remove standard password prompts from SSH login sequences.
 
-* Updated global configuration parameters within `/etc/ssh/sshd_config` to enforce `UsePAM yes`, `KbdInteractiveAuthentication yes`, and `AuthenticationMethods publickey,keyboard-interactive`.
+* Updated `/etc/ssh/sshd_config` to enforce:
+  - `UsePAM yes`
+  - `KbdInteractiveAuthentication yes`
+  - `AuthenticationMethods publickey,keyboard-interactive`
 
-* Applied user access whitelisting restrictions using the `AllowUsers eldon` directive inside the SSH configuration.
+* Applied SSH user-access restrictions using the `AllowUsers eldon` directive.
 
-* Restarted the OpenSSH service to apply the updated authentication settings.
+* Restarted the OpenSSH daemon to apply the updated security configurations.
 
-* Verified active SSH configuration settings using diagnostic commands to confirm correct configuration loading.
+* Verified active runtime settings using SSH diagnostic validation commands.
 
-**Root Cause:** Default OpenSSH configurations relied on single-factor authentication schemes or fallback standard system password loops without enforcing multi-factor authentication requirements. This was resolved by implementing centralized PAM-driven MFA policies.
+**Root Cause:** Default OpenSSH configurations relied primarily on single-factor authentication methods and standard password authentication. This increased the risk of credential-based attacks and unauthorized remote access. The issue was mitigated by implementing centralized PAM-driven multi-factor authentication policies.
 
 ## 1.3 Resolution and Validation
 
-The PAM and SSH configurations were validated through interactive login attempts, unauthorized profile testing, and administrative log reviews.
+The SSH and PAM configurations were validated through authentication testing, unauthorized access simulations, and configuration verification.
 
 | Parameter | Configuration Value |
 | :--- | :--- |
 | **Authentication Framework** | OpenSSH / PAM Integration |
-| **Password Policy** | Bypassed / Standard Password Suppressed |
-| **Lockout Threshold** | Rate Limited (Max 3 attempts per 30s) |
-| **Unlock Timer** | 30-Second Window / Token Expiration |
-| **Token Policy** | Single-Use TOTP Enforcement |
-| **Scope** | Remote SSH Administration Access Control |
+| **Authentication Mode** | Public Key + TOTP MFA |
+| **Password Authentication** | Disabled |
+| **Rate Limiting** | Max 3 Attempts per 30 Seconds |
+| **Token Enforcement** | Single-Use TOTP Validation |
+| **Scope** | Remote SSH Administrative Access |
 
 **Validation Steps**
 
-1. Established connection sequences from the Windows client to verify that standard password prompts are missing and replaced by public key passphrase authentication.
+1. Verified that standard password prompts were suppressed during SSH login attempts.
 
-2. Simulated cryptographic failures using unconfigured private keys to ensure that direct connections are rejected with explicit permission failures.
+2. Confirmed that valid SSH key authentication was required before MFA prompts were presented.
 
-3. Attempted direct administrative root access and validated that the connections were immediately dropped at the access boundary.
+3. Simulated invalid private-key authentication attempts and confirmed immediate connection rejection.
 
-4. Verified that disabling public key fallback parameters explicitly prevents keyless connections from bypassing the secondary challenge mechanics.
+4. Attempted unauthorized root access and verified that connections were denied.
+
+5. Confirmed that disabling public key authentication prevented access to the MFA prompt stage.
 
 # 2.0: CONCLUSION
 
 ## 2.1 Key Takeaways
 
-* OpenSSH requires coordinated adjustments across both the network daemon service (`/etc/ssh/sshd_config`) and local PAM authentication subsystem (`/etc/pam.d/sshd`).
+* OpenSSH MFA deployments require coordinated configuration across both the SSH daemon and PAM authentication framework.
 
-* Using a comma in `AuthenticationMethods` forces each authentication step to succeed in sequence before access is granted.
+* Combining public key authentication with TOTP verification significantly strengthens remote administrative access security.
 
-* Running initialization wizards under administrative contexts instead of standard target contexts creates file ownership permission lockouts.
+* SSH authentication enforcement should be validated using standard user contexts instead of administrative override sessions.
 
-* MFA token validation depends on accurate system time synchronization.
+* Time synchronization is critical for reliable TOTP validation and MFA stability.
 
 ## 2.2 Security Implications & Recommendations
 
-**Risk: Single-Factor Administrative Authentication**  
-Relying solely on credentials or compromised static keys exposes network management access to automated targeting or credential stuffing attacks.
+**Risk: Single-Factor Administrative Authentication**
 
-**Mitigation:** Enforce multi-factor authentication requirements directly at the network boundary level of the daemon.
+Relying solely on passwords or standalone SSH keys increases exposure to credential theft and unauthorized remote access attempts.
 
-**Risk: Privilege Escalation and Direct Root Targeting**  
-Leaving direct root access unmonitored allows attackers to conduct dictionary attacks directly against privileged accounts.
+**Mitigation:** Enforce multi-factor authentication directly within the SSH authentication workflow.
 
-**Mitigation:** Explicitly disable direct root authentication paths and whitelist specific operational identifiers using service control lists.
+**Risk: Unauthorized Administrative Access**
+
+Unrestricted SSH access increases the risk of brute-force attacks and direct privileged-account targeting.
+
+**Mitigation:** Restrict SSH access to approved users and disable direct root authentication.
 
 **Best Practices**
 
-* Backup core server configurations before performing structural adjustments within authentication files
+* Backup SSH and PAM configuration files before implementing authentication changes
 
-* Maintain active, working SSH test sessions during modifications to avoid accidental administrator lockout
+* Maintain active SSH sessions during configuration updates to prevent accidental administrative lockout
 
-* Verify live running configurations using built-in diagnostic test variables like `sshd -T`
+* Validate live SSH configurations using diagnostic commands such as `sshd -T`
 
-* Audit centralized authentication logs frequently to track unauthorized access indicators or configuration defects
+* Review authentication logs regularly to identify unauthorized access attempts or configuration issues
 
 **Framework Alignment**
 
 * Supports NIST SP 800-53 (Access Control and Identification & Authentication)
 
-* Aligns with CIS Linux Benchmarks for password and authentication hardening
+* Aligns with CIS Linux Benchmarks for SSH and authentication hardening
 
 * Supports ISO 27001 Annex A access control and credential management requirements
-```
