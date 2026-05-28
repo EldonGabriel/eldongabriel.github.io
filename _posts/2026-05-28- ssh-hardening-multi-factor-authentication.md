@@ -104,7 +104,7 @@ SSH and PAM settings were tested through login attempts and configuration checks
 
 | Scope | Remote SSH Access |
 
-Validation Steps
+**Validation Steps**
 
 1. Verified that password prompts no longer appeared during SSH login attempts.
 
@@ -130,23 +130,19 @@ Validation Steps
 
 ## 2.2 Security Implications & Recommendations
 
-Risk: Single-Factor SSH Login
+**Risk: Single-Factor SSH Login**
 
 Using only passwords or SSH keys increases the risk of unauthorized access if the credentials are stolen.
 
-Mitigation:  
+**Mitigation: Require MFA for all remote SSH logins.
 
-Require MFA for all remote SSH logins.
-
-Risk: Unauthorized SSH Access
+**Risk: Unauthorized SSH Access**
 
 Open SSH access increases the exposure to brute-force attacks and login abuse.
 
-Mitigation:  
+**Mitigation:** Restrict SSH access to approved users and disable direct root logins.
 
-Restrict SSH access to approved users and disable direct root logins.
-
-Best Practices
+**Best Practices**
 
 * Backup SSH and PAM files before making changes
 
@@ -156,7 +152,7 @@ Best Practices
 
 * Review SSH logs for suspicious login attempts
 
-Framework Alignment
+**Framework Alignment**
 
 * Supports NIST SP 800-53 access control requirements
 
