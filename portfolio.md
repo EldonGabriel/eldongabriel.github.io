@@ -12,11 +12,11 @@ image:
 <section class="portfolio-page">
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-Hands-on systems administration and infrastructure security focus on operational stability, structured troubleshooting, and validated security implementation across Windows and Linux environments.
+Hands-on systems administration and infrastructure security focus on operational stability, structured troubleshooting, and validated security implementations across Windows and Linux environments.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6;">
-Work is built through controlled laboratory environments and documented using root cause analysis, configuration validation, and measurable security outcomes.
+Projects are developed in controlled laboratory environments and documented through root cause analysis, configuration validation, security hardening, and measurable operational results. Each project emphasizes practical administration, infrastructure reliability, and security best practices, supported by structured technical documentation.
 </p>
 
 </section>
