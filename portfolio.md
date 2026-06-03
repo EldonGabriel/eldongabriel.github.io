@@ -16,7 +16,7 @@ Hands-on systems administration and infrastructure security focus on operational
 </p>
 
 <p style="font-size:1.2em; line-height:1.6;">
-Projects are developed in controlled laboratory environments and documented through root cause analysis, configuration validation, security hardening, and measurable operational results. Each project emphasizes practical administration, infrastructure reliability, and security best practices, supported by structured technical documentation.
+Each project demonstrates a structured approach to analyzing issues, implementing solutions, validating results, and improving the security, stability, and reliability of the systems and infrastructure.
 </p>
 
 </section>
