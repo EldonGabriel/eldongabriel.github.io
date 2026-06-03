@@ -1,5 +1,5 @@
 ---
-## title: "REPORT – Securing Boot and Authentication Files – v1.0.0"
+title: "REPORT – Securing Boot and Authentication Files – v1.0.0"
 date: 2026-06-02
 author: Eldon Gabriel
 categories: [Infrastructure Security]
