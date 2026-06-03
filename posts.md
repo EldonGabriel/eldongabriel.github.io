@@ -9,5 +9,5 @@ image:
 ---
 
 <p style="max-width: 950px; margin: 0 auto 30px; line-height: 1.6;">
-This section contains technical security reports, troubleshooting investigations and system administration documentation. Each entry reflects the applied cybersecurity work focused on implementation, validation, and operational analysis.
+Each report demonstrates how problems were analyzed, solutions were implemented, and results were validated using structured operational and security practices across Windows, Linux, networking, and cloud environments.
 </p>
