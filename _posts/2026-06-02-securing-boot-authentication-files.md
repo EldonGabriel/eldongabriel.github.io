@@ -39,7 +39,7 @@ The assessment focused on reviewing file permissions and checking the account se
 Key Actions and Observations
 
 * Verified current permissions and ownership across the target system paths.
-* Changed the /boot directory to read and execute permissions.
+* Changed the `/boot` directory to read and execute permissions.
 * Assigned root ownership to the grub bootloader configuration file.
 * Restricted modifications to the bootloader configuration file.
 * Assigned root ownership and group permissions to the password files.
