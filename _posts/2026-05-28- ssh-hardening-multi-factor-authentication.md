@@ -74,9 +74,7 @@ Key Actions & Observations
 
   - `AuthenticationMethods publickey,keyboard-interactive`
 
-* Restricted SSH access using:
-
-  - `AllowUsers eldon`
+* Restricted SSH access using: `AllowUsers eldon`
 
 * The SSH service was restarted to apply the new settings.
 
