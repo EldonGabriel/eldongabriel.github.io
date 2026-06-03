@@ -6,8 +6,8 @@ categories: [Infrastructure Security]
 tags: [Linux, Hardening, Account Security, Access Control, Security Hardening, System Administration]
 excerpt: "Technical implementation of permission hardening across critical system directories, bootloader configuration files, and authentication databases on Ubuntu Server."
 image:
-path: /assets/images/posts/boot-security.png
-thumbnail: /assets/images/posts/boot-security.png
+ path: /assets/images/posts/boot-security.png
+ thumbnail: /assets/images/posts/boot-security.png
 ---
 
 # 0.0 Executive Summary
