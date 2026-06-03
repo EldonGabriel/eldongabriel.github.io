@@ -20,11 +20,7 @@ The goal was to make remote logins more secure by requiring two login steps:
 
 - a 6-digit TOTP code
 
-Normal password logins were disabled.
-
-The setup used OpenSSH and PAM to control login access and reduce the risk of brute-force attacks and unauthorized access.
-
-Testing confirmed that users needed both a valid SSH key and a valid TOTP code before the system allowed access.
+Normal password logins were disabled. The setup used OpenSSH and PAM to control login access and reduce the risk of brute-force attacks and unauthorized access. Testing confirmed that users needed both a valid SSH key and a valid TOTP code before the system allowed access.
 
 <hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
