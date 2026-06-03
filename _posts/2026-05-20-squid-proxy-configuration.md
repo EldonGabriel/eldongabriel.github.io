@@ -54,11 +54,14 @@ Create `/etc/squid/passwd` using the `htpasswd` with encrypted storage.
 Store approved domains in `/etc/squid/allowed_domains.txt`.
 
 **Rule Order Implementation:**
-    1. Define the authentication program helper path.
-    2. Read the external domain lists.
-    3. Block unauthenticated traffic.
-    4. Block unapproved domains.
-    5. Allow only validated requests.
+
+The Squid configuration enforces the following logic:
+
+- Authentication is required before access
+- External domain lists are loaded for filtering
+- Unauthenticated traffic is denied
+- Only approved domains are permitted
+- All other traffic is blocked by default
 
 ```bash
 # Example ACL enforcement structure inside squid.conf
