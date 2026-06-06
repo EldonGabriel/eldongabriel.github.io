@@ -44,7 +44,8 @@ This process helps administrators understand why legacy protocols are dangerous 
 
 The assessment focused on reviewing network services and analyzing network traffic.
 
-Key Actions and Observations
+**Key Actions and Observations**
+
 * Checked the Linux system for active network ports.
 * Identified configuration errors preventing the legacy services from starting.
 * Corrected file paths and service names to successfully launch Telnet and Rlogin.
