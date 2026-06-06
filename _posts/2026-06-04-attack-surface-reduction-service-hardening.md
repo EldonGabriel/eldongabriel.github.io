@@ -20,7 +20,7 @@ This demonstrates the importance of maintaining server security and optimizing p
 
 <hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
-# 1.0 Attack Surface Reduction and Service Hardening
+# 1.0 System Hardening
 
 ## 1.1 Project Description
 
