@@ -12,13 +12,9 @@ image:
 
 # 0.0 Executive Summary
 
-This report documents an authorized security assessment on a Linux system. 
+This report documents an authorized security assessment on a Linux system. The goal was to demonstrate the risks of using outdated, unencrypted network services. The assessment focused on an Ubuntu Server 24.04 environment. 
 
-The goal was to demonstrate the risks of using outdated, unencrypted network services. 
-
-The assessment focused on an Ubuntu Server 24.04 environment. The system was used to test network traffic and capture cleartext data.
-
-The process involved configuring legacy services, monitoring network traffic, and capturing remote authentication attempts.
+The system was used to test network traffic and capture cleartext data. The process involved configuring legacy services, monitoring network traffic, and capturing remote authentication attempts.
 
 The results showed that passwords were easily captured in plain text. This demonstrates the critical need to disable outdated protocols and use secure encryption.
 
