@@ -14,9 +14,9 @@ image:
 
 This report documents an authorized security assessment on a Linux system. The goal was to demonstrate the risks of using outdated, unencrypted network services. The assessment focused on an Ubuntu Server 24.04 environment. 
 
-The system was used to test network traffic and capture cleartext data. The process involved configuring legacy services, monitoring network traffic, and capturing remote authentication attempts.
+The system was used to test network traffic and capture cleartext data. The process involved configuring legacy services, monitoring network traffic, and capturing remote authentication attempts. The results showed that passwords were easily captured in plain text. 
 
-The results showed that passwords were easily captured in plain text. This demonstrates the critical need to disable outdated protocols and use secure encryption.
+This demonstrates the critical need to disable outdated protocols and use secure encryption.
 
 <hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
