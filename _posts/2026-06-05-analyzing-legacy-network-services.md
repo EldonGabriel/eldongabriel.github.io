@@ -1,6 +1,6 @@
 ---
 title: "REPORT – Analyzing Legacy Network Services – v1.0.0"
-date: 2026-06-04
+date: 2026-06-05
 author: Eldon Gabriel
 categories: [Infrastructure Security]
 tags: [Linux, Hardening, Network Security, Access Control, Security Auditing, System Administration]
