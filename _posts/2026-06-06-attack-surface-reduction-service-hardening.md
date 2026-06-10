@@ -1,6 +1,6 @@
 ---
 title: "REPORT – Attack Surface Reduction and Service Hardening – v1.0.0"
-date: 2026-06-04
+date: 2026-06-06
 author: Eldon Gabriel
 categories: [Infrastructure Security]
 tags: [Linux, Hardening, Service Management, Access Control, Security Hardening, System Administration]
