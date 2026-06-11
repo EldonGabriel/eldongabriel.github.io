@@ -42,13 +42,13 @@ It uses three steps:
 
 The baseline shows common risks in default Linux systems:
 
-**Legacy Protocol Exposure (High)** 
+**Legacy Protocol Exposure (High):** 
 Services like Telnet, FTP, and Rlogin may be enabled. These send data in plain text and can expose passwords.
 
-**Authentication Weaknesses (High)**
+**Authentication Weaknesses (High):**
 Root login may be allowed. Password rules and lockouts are often weak or missing.
 
-**Visibility Gaps (Medium)**
+**Visibility Gaps (Medium):**
 Systems may lack IDS tools and centralized log monitoring, making attacks harder to detect.
 
 # 5.0 Security Improvements
