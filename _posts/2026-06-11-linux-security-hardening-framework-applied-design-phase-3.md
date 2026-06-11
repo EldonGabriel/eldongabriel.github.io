@@ -58,23 +58,23 @@ The baseline shows common risks in default Linux systems:
 
 The framework defines these controls:
 
-## Identity and Access Control (Critical)
+**Identity and Access Control (Critical)**
 * Block direct root login  
 * Enforce strong passwords using PAM  
 * Require password changes and prevent reuse  
 * Lock accounts after 3 failed login attempts  
 
-## Network and Service Hardening (Critical)
+**Network and Service Hardening (Critical)**
 * Disable Telnet, FTP, and Rlogin  
 * Remove unused services at boot  
 
-## System Integrity (High)
+**System Integrity (High)**
 * Update kernel and system packages  
 * Enable SELinux in Enforcing mode  
 * Remove unowned files  
 * Disable USB and Thunderbolt ports  
 
-## Monitoring and Detection (High)
+**Monitoring and Detection (High)**
 * Use Logwatch or Logcheck for log review  
 * Deploy a host-based IDS  
 
@@ -90,9 +90,9 @@ The framework uses these checks:
 
 # 6.0 Business Impact
 
-This framework turns a default Linux system into a locked-down environment.
-
-It reduces risk from brute-force attacks, exposed services, and data theft. Logging and IDS tools improve detection and response speed.
+* This framework turns a default Linux system into a locked-down environment. 
+* It reduces risk from brute-force attacks, exposed services, and data theft. 
+* Logging and IDS tools improve detection and response speed.
 
 # 7.0 Framework Alignment
 
@@ -102,6 +102,5 @@ It reduces risk from brute-force attacks, exposed services, and data theft. Logg
 
 # 8.0 Conclusion
 
-This framework defines a secure baseline for Linux systems.
-
-It reduces attack surface before deployment and improves system security from the start. Regular updates and monitoring are required to maintain this security level.
+This framework defines a secure baseline for Linux systems. It reduces attack surface before deployment and improves system security from the start. 
+Regular updates and monitoring are required to maintain this security level.
