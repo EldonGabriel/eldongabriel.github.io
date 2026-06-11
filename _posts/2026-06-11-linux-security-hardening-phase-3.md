@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Linux Security Hardening Framework: Applied Design Scenario (Phase 3) – v1.0.0"
+title: "REPORT – Linux Security Hardening (Phase 3): Applied Design – v1.0.0"
 date: 2026-06-11
 author: Eldon Gabriel
 categories: [Infrastructure Security]
