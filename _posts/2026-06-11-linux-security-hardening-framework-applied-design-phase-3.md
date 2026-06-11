@@ -42,10 +42,10 @@ It uses three steps:
 
 The baseline shows common risks in default Linux systems:
 
-* **Legacy Protocol Exposure (High | High):** Services like Telnet, FTP, and Rlogin may be enabled. These send data in plain text and can expose passwords.
-* **Authentication Weaknesses (High | High):** Root login may be allowed. Password rules and lockouts are often weak or missing.
-* **System Integrity Risks (Medium | Medium):** USB ports may be active, and unowned files may exist. SELinux is required to reduce these risks.
-* **Visibility Gaps (Medium | Low):** Systems may lack IDS tools and centralized log monitoring, making attacks harder to detect.
+* **Legacy Protocol Exposure (High - High):** Services like Telnet, FTP, and Rlogin may be enabled. These send data in plain text and can expose passwords.
+* **Authentication Weaknesses (High - High):** Root login may be allowed. Password rules and lockouts are often weak or missing.
+* **System Integrity Risks (Medium - Medium):** USB ports may be active, and unowned files may exist. SELinux is required to reduce these risks.
+* **Visibility Gaps (Medium - Low):** Systems may lack IDS tools and centralized log monitoring, making attacks harder to detect.
 
 # 5.0 Security Improvements Implemented / Recommended
 
