@@ -19,28 +19,28 @@ image:
 </div>
 
 <p style="font-size:1.2em; line-height:1.6;">
-  The <strong>MSAF (System Administration Fundamentals)</strong> program from the Mossé Cyber Security Institute focuses on practical enterprise system administration, infrastructure security, operational troubleshooting, and secure environment management across Windows and Linux platforms.
+The <strong>MSAF (System Administration Fundamentals)</strong> program from the Mossé Cyber Security Institute develops practical capability in enterprise system administration, infrastructure management, and secure operations across Windows and Linux environments.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6;">
-  Training emphasizes secure-by-design administration principles, virtualization, access control, backup management, network services, and infrastructure resilience through extensive hands-on laboratory implementations.
+Training is delivered through structured lab environments covering virtualization, identity and access control, system hardening, backup and recovery, network services, and operational troubleshooting aligned with secure-by-design principles.
 </p>
 
 <p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
-  <strong>Operational Capabilities:</strong> System Hardening · Infrastructure Administration · Backup & Recovery Operations
+<strong>Operational Capabilities:</strong> System Administration · Infrastructure Security · Resilience Engineering
 </p>
 
 <h4>Applied Capability</h4>
 <ul>
-  <li>Deployed and managed virtual machines across VirtualBox, VMware, AWS, and GCP</li>
-  <li>Hardened Windows systems using GPOs, firewall rules, and secure admin policies</li>
-  <li>Built and tested network environments using Packet Tracer and pfSense</li>
-  <li>Administered Linux systems including users, services, and firewall configuration</li>
-  <li>Implemented backups, recovery, and Active Directory restoration workflows</li>
-  <li>Performed structured troubleshooting across OS, network, and infrastructure issues</li>
+  <li>Deployed and managed virtual infrastructure across VirtualBox, VMware, AWS, and GCP</li>
+  <li>Hardened Windows environments using GPOs, firewall controls, and access policies</li>
+  <li>Designed and tested network topologies using Packet Tracer and pfSense</li>
+  <li>Administered Linux systems including users, services, storage, and firewall configuration</li>
+  <li>Implemented backup, recovery, and Active Directory restoration procedures</li>
+  <li>Performed structured troubleshooting across system, network, and service failures</li>
 </ul>
 
 <h4>Operational Relevance</h4>
 <p>
-This certification supports practical infrastructure administration, including system hardening, network management, operational troubleshooting, and secure environment maintenance. The skills developed throughout this training reinforce structured administrative workflows, infrastructure reliability, and security-focused system management applicable to business and enterprise environments.
+This certification demonstrates practical capability in enterprise system administration, infrastructure hardening, and operational support. It reflects hands-on experience with system reliability, secure configuration management, and incident-level troubleshooting applicable to real-world IT and security environments.
 </p>
