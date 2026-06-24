@@ -42,6 +42,7 @@ Focused on operational reliability, infrastructure security, monitoring visibili
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
+
 <h2 style="text-align:left;">
   Available Infrastructure Services
 </h2>
@@ -110,6 +111,32 @@ Focused on operational reliability, infrastructure security, monitoring visibili
 <li>DR planning</li>
 <li>System recovery</li>
 <li>Continuity support</li>
+</ul>
+</div>
+
+<!-- CLOUD INFRASTRUCTURE (NEW) -->
+<div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Cloud Infrastructure</h3>
+<ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
+<li>AWS VM deployment</li>
+<li>GCP compute instances</li>
+<li>VM migration workflows</li>
+<li>Cloud networking setup</li>
+<li>Hybrid environment support</li>
+<li>Cloud troubleshooting</li>
+</ul>
+</div>
+
+<!-- VIRTUALIZATION (NEW) -->
+<div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Virtualization Services</h3>
+<ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
+<li>VM deployment</li>
+<li>Virtual networking</li>
+<li>Snapshot management</li>
+<li>VMware / ESXi setup</li>
+<li>Virtual lab environments</li>
+<li>Hypervisor configuration</li>
 </ul>
 </div>
 
