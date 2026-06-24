@@ -50,11 +50,11 @@ Each project demonstrates a structured approach to analyzing issues, implementin
 
   </div>
 
-  <!-- Box 2: Proof of Work & Technical Verification -->
+  <!-- Box 2: Technical Validation -->
   <div style="background: rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 
     <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">
-     Proof of Work & Technical Verification
+    Technical Validation
     </h3>
 
     <ul style="margin-top:10px; padding-left:20px; font-size:0.9em; text-align:left;">
