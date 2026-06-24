@@ -46,7 +46,7 @@ The investigation focused on why AIDE consumed excessive system resources and fa
 
 **Key Actions and Observations**
 
-* Observed repeated "failed: no more memory" errors and fallback to interpreted matching during AIDE execution.
+* Observed repeated `failed: no more memory` errors and fallback to interpreted matching during AIDE execution.
 
 * Confirmed that the database generation failed because of malformed exclusion rules and configuration syntax errors.
 
