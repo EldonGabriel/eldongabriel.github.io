@@ -295,7 +295,7 @@ The objective is to demonstrate how security operations reduce exposure, improve
 ## Continue Exploring
 
 <p>
-The security operations capabilities demonstrated in this section support a broader approach to protecting and maintaining reliable IT environments. While security operations focus on detecting threats, enforcing controls, and responding to incidents, effective infrastructure protection also depends on secure systems, identity management, governance, and operational resilience.
+The security operations capabilities demonstrated in this section focus on protecting systems through monitoring, threat detection, security controls, and incident response. However, effective security requires more than technical defenses alone. Organizations also need structured processes to identify risk, evaluate security requirements, and align technology decisions with business objectives.
 </p>
 
 <p>
@@ -303,5 +303,5 @@ The projects presented here represent publicly available examples of security op
 </p>
 
 <p>
-Continue exploring the next section to see how infrastructure security practices, system hardening, and secure configurations help reduce risk and strengthen enterprise environments.
+Continue to the next section to explore how governance, risk management, compliance practices, and security frameworks help organizations identify risks, establish controls, and make informed security decisions.
 </p>
