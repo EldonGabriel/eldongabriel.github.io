@@ -46,7 +46,7 @@ image:
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Systems Administration</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>Windows Server admin</li>
+<li>Windows administration</li>
 <li>Linux administration</li>
 <li>User & permissions</li>
 <li>Service troubleshooting</li>
