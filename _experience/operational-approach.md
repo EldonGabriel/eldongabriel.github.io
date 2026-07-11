@@ -22,7 +22,7 @@ By following a repeatable methodology, each implementation is designed to improv
 </p>
 
 <!-- CORE PILLARS -->
-<p style="text-align:center; font-size:1.5em; color:#fff; background:rgba(255,255,255,0.05); padding:15px; border-radius:8px; max-width:1000px; margin:20px auto;">
+<p style="text-align:center; font-size:1.0em; color:#fff; background:rgba(255,255,255,0.05); padding:15px; border-radius:8px; max-width:1000px; margin:20px auto;">
 <strong>Structured Operations · Root Cause Analysis · Security Control Validation · Repeatable Implementation</strong>
 </p>
 
