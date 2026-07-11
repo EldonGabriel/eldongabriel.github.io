@@ -40,6 +40,7 @@ Troubleshooting Methodology
 <li>Analyze system behavior, logs, and evidence</li>
 <li>Determine the root cause</li>
 <li>Validate the solution through structured testing</li>
+<li>Document findings & remediation</li>
 </ul>
 
 </div>
