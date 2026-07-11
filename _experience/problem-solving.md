@@ -23,7 +23,7 @@ This section demonstrates a structured problem-solving methodology used to inves
 </p>
 
 <p style="text-align:center; font-size:1.0em; color:#fff; background:rgba(255,255,255,0.05); padding:15px; border-radius:8px; max-width:1000px; margin:20px auto;">
-<strong>Method: Technical Troubleshooting · System Diagnostics · Fault Isolation · Resolution Validation</strong>
+<strong>Technical Troubleshooting · System Diagnostics · Fault Isolation · Resolution Validation</strong>
 </p>
 
 <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:15px; margin-top:20px;">
