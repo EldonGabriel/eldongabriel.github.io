@@ -1,5 +1,5 @@
 # Eldon Gabriel – Cybersecurity & System Administration Portfolio
-### System Administration & Infrastructure Operations  
+### Systems Administration • Infrastructure Operations • Technical Documentation  
 Secure System Design • Hardening • Troubleshooting • Infrastructure Security
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Portfolio-blue)
