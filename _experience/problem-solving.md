@@ -40,7 +40,7 @@ Troubleshooting Workflow
 <li>Collect and analyze technical evidence</li>
 <li>Determine the root cause</li>
 <li>Validate the resolution through testing</li>
-<li>Document Findings & Resolution</li>
+<li>Document findings & remediation</li>
 </ul>
 
 </div>
@@ -56,7 +56,7 @@ Diagnostic & Resolution Process
 <li>Evidence-driven root cause analysis</li>
 <li>Controlled remediation and implementation</li>
 <li>Validation and post-resolution verification</li>
-<li>Document findings & remediation</li>
+<li>Document findings & resolution</li>
 </ul>
 
 </div>
