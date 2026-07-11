@@ -786,10 +786,10 @@ View Report</a>
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
-## Portfolio Documentation
+## Continue Exploring 
 
-This section reflects the applied infrastructure engineering across operating systems, virtualization platforms, and cloud environments. Each artifact demonstrates hands-on configuration, security enforcement, and system validation, which are aligned with the operational requirements.
+The capabilities demonstrated in this section form the foundation of the broader operational workflows presented throughout this portfolio. 
 
-Selected projects are presented publicly and supported by a broader archive of structured reports, laboratory work, and system configurations maintained in a private repository.
+While infrastructure provides the platform, effective IT operations also depend on secure networking, identity management, security operations, governance, and operational resilience. The projects presented here are a representative sample of publicly available work. 
 
-Additional documentation can be provided upon request for professional or technical reviews.
+Additional implementation records and supporting technical documentation are maintained privately in accordance with training provider publishing requirements. Continue to the next section to explore how networking design, connectivity, routing, VPN technologies, and secure communications support reliable enterprise infrastructure.
