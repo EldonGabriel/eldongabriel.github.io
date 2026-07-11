@@ -22,7 +22,7 @@ Technical issues can disrupt operations, reduce productivity, and introduce secu
 This section demonstrates a structured problem-solving methodology used to investigate systems, networks, and security environments. Each scenario follows a repeatable process that identifies the root cause, implements an appropriate solution, validates the results, and documents the outcome to support future operations.
 </p>
 
-<p style="text-align:center; font-size:0.95em; color:#fff; background:rgba(255,255,255,0.05); padding:15px; border-radius:8px; max-width:1000px; margin:20px auto;">
+<p style="text-align:center; font-size:1.0em; color:#fff; background:rgba(255,255,255,0.05); padding:15px; border-radius:8px; max-width:1000px; margin:20px auto;">
 <strong>Technical Troubleshooting · System Diagnostics · Fault Isolation · Resolution Validation</strong>
 </p>
 
