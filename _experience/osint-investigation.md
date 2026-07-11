@@ -15,11 +15,15 @@ image:
 ## OSINT Investigation Laboratory Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
-This section documents hands-on OSINT investigations focused on collecting, validating, and analyzing publicly available information from web sources, social platforms, and Internet-facing infrastructure. The work includes data correlation, verification, and investigative analysis supporting threat intelligence and security assessments.
+Organizations make decisions based on available information. Open Source Intelligence (OSINT) provides a structured method for collecting, validating, and analyzing publicly available data to support security investigations, threat intelligence, and informed risk decisions.
 </p>
 
 <p style="line-height:1.6; font-size:1.05em;">
-All investigations followed structured workflows aligned with repeatable validation and analytical methods.
+This section demonstrates applied OSINT techniques used to identify digital footprints, analyze publicly available information, validate findings, and develop intelligence from multiple data sources. The work focuses on transforming unstructured information into actionable security insights through repeatable investigative workflows.
+</p>
+
+<p style="line-height:1.6; font-size:1.05em;">
+Projects cover information discovery, web analysis, historical data review, platform mapping, and intelligence collection methods. Each investigation applies structured research, verification, and documentation practices to support accurate findings and reduce uncertainty during security assessments.
 </p>
 
 ### Lab Distribution Summary
@@ -215,10 +219,10 @@ Request Access
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;"> 
 
-## Portfolio Documentation
+## Continue Exploring
 
-This section presents the applied OSINT investigations, including platform analysis, digital footprint mapping, and intelligence collection techniques performed in controlled environments.
+Effective security operations depend on accurate information, but intelligence alone is not enough. Organizations must combine investigation capabilities with operational resilience, identity protection, and security controls to respond effectively to evolving risks.
 
-The selected materials demonstrate core investigative competencies, whereas additional workflows and supporting research are maintained in a private archive.
+The investigations presented in this section represent publicly available examples of OSINT analysis and intelligence workflows. Additional research materials, investigative records, and supporting documentation are maintained privately in accordance with training provider publishing requirements.
 
-Full investigative reports and supporting materials are available upon request for professional and technical reviews.
+Continue exploring the next section to examine how operational resilience practices support recovery planning, continuity, and maintaining reliable IT services during disruptions.
