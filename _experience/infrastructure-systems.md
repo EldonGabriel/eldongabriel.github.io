@@ -15,7 +15,15 @@ image:
 ## Infrastructure Laboratory Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
-This section documents the design, configuration, and troubleshooting of enterprise systems across Windows, Linux, cloud, and virtualized environments. Labs focus on system hardening, access control enforcement, network configuration, and infrastructure troubleshooting, with an emphasis on identifying and resolving misconfigurations. All configurations are validated to confirm expected system behavior and security control effectiveness.
+Reliable infrastructure is the foundation of every IT environment. Proper system configuration, secure administration, and ongoing maintenance help reduce downtime, improve security, support business continuity, and keep critical services running reliably.
+</p>
+
+<p style="line-height:1.6; font-size:1.05em;">
+This section demonstrates hands-on experience designing, deploying, configuring, securing, and troubleshooting Windows, Linux, virtualization, and cloud environments. Projects cover infrastructure deployment, system hardening, storage management, networking, backup and recovery, automation, and operational troubleshooting using enterprise-style implementation and validation practices.
+</p>
+
+<p style="line-height:1.6; font-size:1.05em;">
+Each lab documents the complete lifecycle of an implementation, from planning and deployment through testing, troubleshooting, validation, and operational documentation. The result is a collection of practical, repeatable solutions that support secure, stable, and maintainable infrastructure.
 </p>
 
 ### Lab Distribution Summary
