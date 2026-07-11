@@ -12,15 +12,18 @@ image:
 <section class="portfolio-page">
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-Professional certifications and technical training support hands-on capabilities across system administration, infrastructure security, troubleshooting, and operational support environments. Work is reinforced through practical laboratory implementation involving Linux and Windows administration, system hardening, network troubleshooting, access control, and infrastructure validation, as documented throughout this portfolio.
+Professional certifications and technical training provide the foundation for developing practical skills in systems administration, infrastructure security, troubleshooting, and operational support. Each certification represents structured learning reinforced by hands-on implementation, technical documentation, and applied problem-solving across Windows and Linux environments.
+</p>
+
+<p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
+Training focuses on building the ability to understand systems, apply security controls, troubleshoot technical issues, and validate operational outcomes using repeatable processes aligned with real-world IT environments.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6;">
-Technical development aligns with recognized industry frameworks including the <strong>NIST NICE Workforce Framework</strong>, the <strong>Australian Signals Directorate (ASD) Cyber Skills Framework</strong>, and relevant <strong>U.S. Department of Defense occupational standards</strong>.
+Technical development is aligned with recognized workforce and cybersecurity frameworks, including the <strong>NIST NICE Workforce Framework</strong>, the <strong>Australian Signals Directorate (ASD) Cyber Skills Framework</strong>, and relevant <strong>U.S. Department of Defense occupational standards</strong>, providing a structured reference for technical skill progression.
 </p>
 
 </section>
-
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:20px; margin:30px 0;">
@@ -33,10 +36,10 @@ Technical development aligns with recognized industry frameworks including the <
     </h3>
 
     <ul style="margin-top:10px; padding-left:20px; font-size:0.9em; text-align:left;">
-      <li>Linux and Windows administration</li>
-      <li>Infrastructure hardening and access control</li>
-      <li>Network troubleshooting and support</li>
-      <li>Security operations and incident workflows</li>
+      <li>System administration fundamentals</li>
+      <li>Security control implementation</li>
+      <li>Infrastructure troubleshooting methodology</li>
+      <li>Operational documentation practices</li>
     </ul>
 
   </div>
@@ -49,10 +52,10 @@ Technical development aligns with recognized industry frameworks including the <
     </h3>
 
     <ul style="margin-top:10px; padding-left:20px; font-size:0.9em; text-align:left;">
-      <li>Hands-on lab implementation</li>
-      <li>Structured troubleshooting methods</li>
-      <li>Documented proof-of-work</li>
-      <li>Operational security scenarios</li>
+      <li>Applied laboratory exercises</li>
+      <li>Technical reports and documentation</li>
+      <li>Validation and testing procedures</li>
+      <li>Enterprise-aligned workflows</li>
     </ul>
 
   </div>
