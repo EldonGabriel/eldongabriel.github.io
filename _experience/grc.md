@@ -15,7 +15,15 @@ image:
 ## Governance, Risk, and Compliance (GRC) Laboratory Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
-This section documents applied governance, risk, and compliance labs focused on risk assessment, security policy implementation, and control validation. Work involves evaluating security posture using structured frameworks and supporting decision-making through documented analysis and control verification. All labs follow NIST-aligned methodologies and a <strong>Layer</strong> → <strong>Device</strong> → <strong>Root Cause</strong> → <strong>Resolution</strong> model for structured troubleshooting and validation.
+Effective security requires more than technical controls. Organizations need documented processes, defined security requirements, risk evaluation methods, and governance practices that support informed decision-making and long-term operational resilience.
+</p>
+
+<p style="line-height:1.6; font-size:1.05em;">
+This section demonstrates applied governance, risk, and compliance practices through security assessments, policy development, risk analysis, and framework-aligned documentation. The work focuses on translating technical security concerns into structured decisions that help organizations reduce risk, prioritize improvements, and maintain consistent security practices.
+</p>
+
+<p style="line-height:1.6; font-size:1.05em;">
+Projects apply industry-recognized concepts including NIST security frameworks, risk management methodologies, access control principles, threat modeling, and security documentation standards. Each artifact demonstrates the ability to analyze security requirements, evaluate risk exposure, and communicate technical findings in a format that supports operational and business decisions.
 </p>
 
 ### Lab Distribution Summary
@@ -139,10 +147,16 @@ This section documents applied governance, risk, and compliance labs focused on 
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
-## Portfolio Documentation
+## Continue Exploring
 
-This section presents the governance and risk analysis work developed through structured cybersecurity training and applied research.
+<p style="line-height:1.6; font-size:1.05em;">
+Security decisions require more than individual controls. Effective organizations combine governance, risk management, technical security operations, and operational resilience to maintain a secure and reliable environment.
+</p>
 
-The selected materials demonstrate core competencies, while additional supporting documentation and policy artifacts are maintained in a private archive.
+<p style="line-height:1.6; font-size:1.05em;">
+The projects presented in this section represent publicly available examples of governance and risk work. Additional assessments, policy artifacts, and supporting documentation are maintained privately in accordance with training provider publishing requirements.
+</p>
 
-Full documentation is available upon request for professional and technical reviews.
+<p style="line-height:1.6; font-size:1.05em;">
+Continue exploring the next section to examine how OSINT investigation techniques support information gathering, threat intelligence, and security analysis.
+</p>
