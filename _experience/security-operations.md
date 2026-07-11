@@ -15,7 +15,15 @@ image:
 ## Security Operations Laboratory Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
-This section documents hands-on security operations labs focused on endpoint hardening, network security, system monitoring, and incident response. Each lab applies structured analysis to detect abnormal behavior, enforce security controls, and validate system integrity after remediation.
+Security operations help organizations detect threats, protect critical systems, and maintain confidence in their technology environments. Effective security requires more than installing tools; it requires continuous monitoring, secure configuration, incident analysis, and validation that security controls operate as intended.
+</p>
+
+<p style="line-height:1.6; font-size:1.05em;">
+This section demonstrates hands-on security operations practices across endpoint protection, network defense, vulnerability assessment, monitoring, incident response, and infrastructure recovery. Each lab focuses on identifying risks, applying security controls, investigating system behavior, and validating improvements through practical testing.
+</p>
+
+<p style="line-height:1.6; font-size:1.05em;">
+The objective is to demonstrate how security operations reduce exposure, improve visibility, support faster incident response, and strengthen the reliability of IT environments through repeatable defensive practices.
 </p>
 
 ### Lab Distribution Summary
@@ -284,10 +292,16 @@ This section documents hands-on security operations labs focused on endpoint har
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
-## Portfolio Documentation
+## Continue Exploring
 
-This section reflects hands-on security operations work across system hardening, monitoring, secure connectivity and incident recovery. Each project focuses on control enforcement, configuration validation, and risk identification in operational environments.
+<p>
+The security operations capabilities demonstrated in this section support a broader approach to protecting and maintaining reliable IT environments. While security operations focus on detecting threats, enforcing controls, and responding to incidents, effective infrastructure protection also depends on secure systems, identity management, governance, and operational resilience.
+</p>
 
-The selected labs are presented here, supported by a broader archive of technical reports, configuration documentation, and investigative notes maintained in a private repository.
+<p>
+The projects presented here represent publicly available examples of security operations work. Additional implementation records, technical documentation, and supporting evidence are maintained privately in accordance with training provider publishing requirements.
+</p>
 
-Full documentation and supporting materials are available upon request for professional or technical review.
+<p>
+Continue exploring the next section to see how infrastructure security practices, system hardening, and secure configurations help reduce risk and strengthen enterprise environments.
+</p>
