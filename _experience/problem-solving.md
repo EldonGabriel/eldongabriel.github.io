@@ -63,8 +63,10 @@ Diagnostic & Resolution Process
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
-<h3>Portfolio Application</h3>
+<h3>Continue Exploring</h3>
 
-<p>
-The same structured troubleshooting methodology is applied throughout the portfolio across infrastructure operations, networking, security investigations, identity management, cloud platforms, and operational resilience. Using a consistent diagnostic process reduces guesswork, improves troubleshooting efficiency, minimizes operational risk, and produces repeatable solutions that can be validated, documented, and maintained over time.
-</p>
+The problem-solving methodology demonstrated in this section provides the foundation for diagnosing, resolving, and improving complex technical environments. Effective troubleshooting requires more than restoring functionality; it requires understanding system behavior, identifying root causes, and implementing solutions that prevent recurring issues.
+
+The projects presented throughout this portfolio apply structured investigation techniques across operating systems, networks, security controls, identity systems, and infrastructure services. Each scenario demonstrates how technical evidence, validation testing, and documented procedures support reliable operational outcomes.
+
+Continue to the next section to explore hands-on infrastructure and systems implementations across Windows, Linux, virtualization, and cloud environments, including deployment, administration, hardening, and troubleshooting workflows.
