@@ -65,8 +65,10 @@ Technical Environment
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
-<h3>Portfolio Application</h3>
+## Continue Exploring
 
-<p>
-This methodology is applied throughout the portfolio across infrastructure administration, networking, identity management, security operations, governance, and operational resilience. Each project demonstrates how structured planning, implementation, validation, and documentation produce secure, reliable, and repeatable operational outcomes.
-</p>
+The operational approach demonstrated in this section provides the foundation for consistent infrastructure management, security validation, and technical decision-making. Reliable IT operations depend on structured processes that transform complex technical challenges into repeatable workflows.
+
+The projects presented throughout this portfolio apply this methodology across systems administration, networking, security operations, identity management, and infrastructure resilience. Each section demonstrates how planning, analysis, implementation, validation, and documentation contribute to stronger and more maintainable IT environments.
+
+Continue to the next section to explore how structured problem-solving methods are applied to identify technical issues, analyze root causes, implement solutions, and validate successful outcomes.
