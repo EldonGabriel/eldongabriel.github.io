@@ -23,7 +23,7 @@ By following a repeatable methodology, each implementation is designed to improv
 
 <!-- CORE PILLARS -->
 <p style="text-align:center; font-size:1.0em; color:#fff; background:rgba(255,255,255,0.05); padding:15px; border-radius:8px; max-width:1000px; margin:20px auto;">
-<strong>Structured Operations · Root Cause Analysis · Security Control Validation · Repeatable Implementation</strong>
+<strong>Focus:</strong> Structured Operations · Root Cause Analysis · Security Control Validation · Repeatable Implementation
 </p>
 
 <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:15px;">
@@ -51,8 +51,8 @@ Technical Environment
 </h3>
 
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>Windows Server & Active Directory</li>
-<li>Linux system administration</li>
+<li>Windows Server, Active Directory & Linux Administration</li>
+<li>Cloud Infrastructure (AWS, GCP, Azure)</li>
 <li>VMware & VirtualBox virtualization</li>
 <li>PowerShell & Bash automation</li>
 <li>Networking (TCP/IP, DNS, Routing, VPN)</li>
