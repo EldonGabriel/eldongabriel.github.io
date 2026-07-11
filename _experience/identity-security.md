@@ -12,25 +12,28 @@ image:
   caption: "Identity & Access Management Labs"
 ---
 
-### Lab Distribution Summary
-
-| Category | Labs |
-|--------|------|
-| Identity & Access Management | 10 |
-| **Total Identity Security Labs Documented** | **10** |
-
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 ## Identity Security Laboratory Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
-This section documents hands-on identity security labs that focus on access control, authentication hardening, and privilege management in Windows environments. Work includes implementing identity and access management (IAM) controls, such as least-privilege enforcement, credential protection, and secure administrative configuration.
+Identity is the foundation of modern security. Organizations must ensure that the right users have the right access at the right time while preventing unauthorized access, privilege abuse, and credential compromise.
 </p>
 
 <p style="line-height:1.6; font-size:1.05em;">
-All labs focus on enforcing access control policies and reducing the risk of unauthorized access and privilege escalation.
+This section demonstrates applied identity security practices through access control enforcement, authentication hardening, privilege management, and administrative security configuration. The work focuses on reducing identity-related risks by implementing security controls that protect user accounts, credentials, and system resources.
 </p>
 
+<p style="line-height:1.6; font-size:1.05em;">
+Projects cover least privilege, user access management, authentication controls, Windows security policies, and administrative protection techniques. Each implementation applies structured configuration, validation, and testing methods to demonstrate how identity controls improve security posture and support reliable IT operations.
+</p>
+
+### Lab Distribution Summary
+
+| Category | Labs |
+|--------|------|
+| Identity & Access Management | 10 |
+| **Total Identity Security Labs Documented** | **10** | 
 ## Identity Protection & Access Control
 
 ### 🔐 Access Control & Identity Protection
@@ -138,10 +141,16 @@ View Report</a>
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
-## Portfolio Documentation
+## Continue Exploring
 
-This section presents the identity security work, including access control enforcement, credential protection, and privilege management within Windows environments.
+<p style="line-height:1.6; font-size:1.05em;">
+Identity security protects access to critical resources, but effective security requires the combination of people, processes, technology, and continuous improvement across the entire IT environment.
+</p>
 
-The selected materials demonstrate core IAM capabilities, whereas additional configuration data and supporting documentation are maintained in a private archive.
+<p style="line-height:1.6; font-size:1.05em;">
+The projects presented in this section represent publicly available examples of identity security implementation and access control validation. Additional configuration records, testing evidence, and supporting documentation are maintained privately in accordance with training provider publishing requirements.
+</p>
 
-Full documentation is available upon request for professional or technical review.
+<p style="line-height:1.6; font-size:1.05em;">
+Continue exploring the portfolio to review how the complete operational approach connects infrastructure, security, governance, resilience, and technical problem-solving into a unified IT capability model.
+</p>
