@@ -16,9 +16,11 @@ Reliable IT systems do not happen by accident. They require secure configuration
 These artifacts demonstrate the systems administration practices that help organizations improve operational reliability, reduce technical risk, accelerate troubleshooting, support disaster recovery, and make IT environments easier to manage as they grow.
 </p>
 
-<p style="font-size:1.2em; line-height:1.6;">
+<p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
 Every implementation follows a repeatable process of planning, deployment, validation, troubleshooting, and documentation. Technical reports, Standard Operating Procedures (SOPs), process guides, videos, and lab demonstrations provide verifiable proof of practical implementation and problem-solving rather than theoretical knowledge.
+</p>
 
+<p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
 The portfolio is organized into operational disciplines that reflect how enterprise IT environments are planned, secured, maintained, and supported. Each section explores a specific area of infrastructure operations through real implementations, troubleshooting scenarios, security improvements, and validated outcomes, allowing organizations to quickly review relevant experience and practical capabilities.
 </p>
 
