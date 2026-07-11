@@ -15,13 +15,16 @@ image:
 ## Operational Resilience Laboratory Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
-This section documents hands-on operational resilience labs that focus on system recovery, backup validation, and disaster recovery procedures in controlled environments. The work includes testing recovery strategies, validating restoration processes, and ensuring service continuity following simulated failures and disruptions.
+Technology failures, security incidents, and unexpected disruptions are unavoidable. Organizations require tested recovery processes, reliable backups, and documented restoration procedures to maintain service availability and reduce operational impact.
 </p>
 
 <p style="line-height:1.6; font-size:1.05em;">
-All laboratories followed structured recovery workflows centered on restoration, verification, and operational continuity.
+This section demonstrates applied operational resilience practices through backup validation, disaster recovery planning, system restoration, and infrastructure recovery testing. The work focuses on verifying that systems can be restored effectively and that recovery procedures perform as expected during simulated failure scenarios.
 </p>
 
+<p style="line-height:1.6; font-size:1.05em;">
+Projects cover data protection, backup automation, recovery validation, migration planning, and continuity practices across Windows, Linux, virtualization, and cloud environments. Each implementation follows structured recovery workflows designed to improve reliability, reduce downtime, and support long-term operational continuity.
+</p>
 
 ### Lab Distribution Summary
 
@@ -123,10 +126,16 @@ View Report
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
-## Portfolio Documentation
+## Continue Exploring
 
-This section presents the operational resilience work, including backup implementation, disaster recovery validation, and system restoration testing.
+<p style="line-height:1.6; font-size:1.05em;">
+Operational resilience ensures organizations can recover from disruption, but maintaining secure operations also requires protecting the identities and access controls that connect users, systems, and services.
+</p>
 
-The selected materials demonstrated core recovery and continuity capabilities, whereas additional configuration data and validation evidence were maintained in a private archive.
+<p style="line-height:1.6; font-size:1.05em;">
+The projects presented in this section represent publicly available examples of backup, recovery, and continuity work. Additional recovery documentation, configuration records, and validation evidence are maintained privately in accordance with training provider publishing requirements.
+</p>
 
-Full documentation is available upon request for professional or technical review.
+<p style="line-height:1.6; font-size:1.05em;">
+Continue exploring the next section to examine how identity security practices protect access, enforce authorization controls, and reduce unauthorized system exposure.
+</p>
