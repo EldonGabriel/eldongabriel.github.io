@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Eldon Gabriel
-subtitle: System Administration & Infrastructure Operations
+subtitle: Systems Administration • Infrastructure Operations • Technical Documentation
 tagline: Building, Securing, and Troubleshooting Real-World Systems
 permalink: /
 image:
@@ -19,10 +19,6 @@ image:
 </p>
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
-
-<h2 style="text-align:left;">
-  Infrastructure Operations Portfolio
-</h2>
 
 <div style="text-align:left; max-width:950px;">
 
