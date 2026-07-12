@@ -12,7 +12,7 @@ image:
   caption: "Security Operations, Hardening, and Monitoring Labs"
 ---
 
-## Security Operations Laboratory Overview
+## Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
 Security operations help organizations detect threats, protect critical systems, and maintain confidence in their technology environments. Effective security requires more than installing tools; it requires continuous monitoring, secure configuration, incident analysis, and validation that security controls operate as intended.
