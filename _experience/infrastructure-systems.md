@@ -12,7 +12,7 @@ image:
   caption: "Infrastructure & Systems Administration Labs"
 ---
 
-## Infrastructure Laboratory Overview
+## Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
 Reliable infrastructure is the foundation of every IT environment. Proper system configuration, secure administration, and ongoing maintenance help reduce downtime, improve security, support business continuity, and keep critical services running reliably.
