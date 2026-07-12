@@ -12,7 +12,7 @@ image:
   caption: "Security Governance, Risk Assessment, and Policy Research"
 ---
 
-## Governance, Risk, and Compliance (GRC) Laboratory Overview
+## Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
 Effective security requires more than technical controls. Organizations need documented processes, defined security requirements, risk evaluation methods, and governance practices that support informed decision-making and long-term operational resilience.
