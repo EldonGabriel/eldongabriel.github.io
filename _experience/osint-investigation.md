@@ -12,7 +12,7 @@ image:
   caption: "OSINT Investigations and Threat Intelligence Labs"
 ---
 
-## OSINT Investigation Laboratory Overview
+## Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
 Organizations make decisions based on available information. Open Source Intelligence (OSINT) provides a structured method for collecting, validating, and analyzing publicly available data to support security investigations, threat intelligence, and informed risk decisions.
