@@ -14,7 +14,7 @@ image:
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
-## Identity Security Laboratory Overview
+## Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
 Identity is the foundation of modern security. Organizations must ensure that the right users have the right access at the right time while preventing unauthorized access, privilege abuse, and credential compromise.
