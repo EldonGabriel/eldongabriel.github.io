@@ -12,7 +12,7 @@ image:
   caption: "Networking Architecture, Protocol Analysis, and Security Labs"
 ---
 
-## Networking Laboratory Overview
+## Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
 Reliable IT environments depend on secure, stable, and well-designed networks. Network failures can impact business operations, user access, application availability, and security visibility. Effective network administration requires understanding how systems communicate, identifying connectivity issues, and implementing configurations that support performance and protection.
