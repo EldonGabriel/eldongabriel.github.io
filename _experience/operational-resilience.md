@@ -12,7 +12,7 @@ image:
   caption: "Operational Resilience and Business Continuity Labs"
 ---
 
-## Operational Resilience Laboratory Overview
+## Overview
 
 <p style="line-height:1.6; font-size:1.05em;">
 Technology failures, security incidents, and unexpected disruptions are unavoidable. Organizations require tested recovery processes, reliable backups, and documented restoration procedures to maintain service availability and reduce operational impact.
