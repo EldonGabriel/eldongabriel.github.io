@@ -77,9 +77,11 @@ The project created a fully documented system. This structure:
 
 ### 6.1 Key Takeaways
 
-* **Governance**: Standard procedures help protect the systems and reduce errors.
-* **Repeatability**: A layered structure ensures tasks are done the same way, no matter who does them.
-* **Readiness**: Checklists and backup plans help resolve issues and pass audits.
+**Governance**: Standard procedures help protect the systems and reduce errors.
+
+**Repeatability**: A layered structure ensures tasks are done the same way, no matter who does them.
+
+**Readiness**: Checklists and backup plans help resolve issues and pass audits.
 
 ### 6.2 Security Implications
 
