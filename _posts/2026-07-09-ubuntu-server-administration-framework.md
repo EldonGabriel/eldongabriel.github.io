@@ -23,11 +23,12 @@ Designed and implemented a standardized documentation system for Ubuntu Server 2
 
 ### 1.2 Technical Environment
 
-*Platform:* Ubuntu Server 24.04 LTS.
+**Platform:** Ubuntu Server 24.04 LTS.
 
-*Hypervisor:* VirtualBox.
+**Hypervisor:** VirtualBox.
 
-*Documentation Architecture:* Policy → SOP → Process Guides → Technical Guides → Operational Checklists.
+**Documentation Architecture:** 
+Policy → SOP → Process Guides → Technical Guides → Operational Checklists.
 
 ### 1.3 Deliverables
 
