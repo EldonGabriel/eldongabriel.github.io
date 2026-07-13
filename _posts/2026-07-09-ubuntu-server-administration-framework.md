@@ -42,11 +42,15 @@ Designed and implemented a standardized documentation system for Ubuntu Server 2
 
 The system is built with a clear hierarchy. Each document has a specific purpose. By separating the rules, technical steps, and checks, everything is easier to manage and update.
 
-* **Policy**: Defines the security and operational requirements of the organization.
-* **Standard Operating Procedure (SOP)**: Describes governance, who is responsible for what, and the standard workflows.
-* **Process Guides (PGs)**: Provide detailed procedures, including commands, validation steps, and rollback steps if something goes wrong.
-* **Technical Guides (TGs)**: Sets rules for security and best practices.
-* **Operational Checklists**: Used to verify that tasks are completed correctly.
+**Policy**: Defines the security and operational requirements of the organization.
+
+**Standard Operating Procedure (SOP)**: Describes governance, who is responsible for what, and the standard workflows.
+
+**Process Guides (PGs)**: Provide detailed procedures, including commands, validation steps, and rollback steps if something goes wrong.
+
+**Technical Guides (TGs)**: Sets rules for security and best practices.
+
+**Operational Checklists**: Used to verify that tasks are completed correctly.
 
 ## 3.0 Framework Components
 
