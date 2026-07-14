@@ -45,28 +45,28 @@ Projects apply industry-recognized concepts including NIST security frameworks, 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Governance, Risk & Compliance: Cybersecurity Assessment & Reporting Standards – v1.1.1</h5>
+<h5>Governance, Risk & Compliance: Cybersecurity Assessment & Reporting Standards</h5>
 <p>Implementation of standardized reporting frameworks, including revision history and executive summaries for formal assessments.</p>
 <p><strong>Skills:</strong> Professional Reporting · Documentation Standards</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Enhancing Writing Quality with Quillbot – v1.1.0</h5>
+<h5>Enhancing Writing Quality with Quillbot</h5>
 <p>Utilizing AI-assisted tools to refine sentence structure and maintain professional tone in technical documentation.</p>
 <p><strong>Skills:</strong> Technical Communication · Professional Writing</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Improving Readability Using Hemingway – v1.0.0</h5>
+<h5>Improving Readability Using Hemingway</h5>
 <p>Optimizing technical reports for stakeholder readability by reducing complexity and ensuring clear security insights.</p>
 <p><strong>Skills:</strong> Readability Optimization · Stakeholder Communication</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>TEMPLATE – Governance, Risk & Compliance: Security Report Framework – v1.0.0</h5>
+<h5>Governance, Risk & Compliance: Security Report Framework</h5>
 <p>A structured framework for producing executive-ready security reports that translate technical findings into clear business impact.</p>
 <p><strong>Skills:</strong> Executive Reporting · Technical Communication · GRC Reporting</p>
 <p align="center" style="margin-top:20px;"><a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?usp=sharing" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Download</a></p>
@@ -79,7 +79,7 @@ Projects apply industry-recognized concepts including NIST security frameworks, 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
   
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>SUMMARY – Governance, Risk & Compliance: Least Privilege (NIST SP 800-53 AC-6) – v1.0.0</h5> 
+<h5>Governance, Risk & Compliance: Least Privilege (NIST SP 800-53 AC-6)</h5> 
 <p>Using least privilege, RBAC, and access controls to reduce risk and protect systems from unauthorized access.</p>
 <p><strong>Skills:</strong> Access Control · RBAC · Least Privilege Enforcement</p>
 <p align="center" style="margin-top:20px;">
@@ -88,7 +88,7 @@ Projects apply industry-recognized concepts including NIST security frameworks, 
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>SUMMARY – Governance, Risk & Compliance: Risk Assessment (NIST SP 800-30 Rev. 1) – v1.0.0</h5>
+<h5>Governance, Risk & Compliance: Risk Assessment (NIST SP 800-30 Rev. 1)</h5>
 <p>Applying a structured risk assessment process to identify assets, threats, and vulnerabilities, and prioritize risk using a defined scoring method.</p>
 <p><strong>Skills:</strong> Risk Assessment · Threat Analysis · Vulnerability Identification</p>
 <p align="center" style="margin-top:20px;">
@@ -97,7 +97,7 @@ Projects apply industry-recognized concepts including NIST security frameworks, 
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>SUMMARY – Governance, Risk & Compliance: Bank Risk Register Analysis – v1.0.0</h5>
+<h5>Governance, Risk & Compliance: Bank Risk Register Analysis</h5>
 <p>Risk register assessment of a financial institution identifying and prioritizing operational and technical risks using a structured risk matrix aligned with NIST SP 800-30.</p>
 <p><strong>Skills:</strong> Risk Assessment · Risk Register · NIST SP 800-30 · Security Control Evaluation</p>
 <p align="center" style="margin-top:20px;">
@@ -106,14 +106,14 @@ Projects apply industry-recognized concepts including NIST security frameworks, 
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Governance, Risk & Compliance: Front-Running in CeFi vs DeFi – v1.1.0</h5>
+<h5>Governance, Risk & Compliance: Front-Running in CeFi vs DeFi</h5>
 <p>Examined front-running risks in CeFi vs DeFi and XRPL mitigation strategies.</p>
 <p><strong>Skills:</strong> Risk Analysis · Financial Security Concepts · Blockchain Security</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>TEMPLATE – Governance, Risk & Compliance: BYOD Policy & Agreement – v1.0.0</h5>
+<h5>Governance, Risk & Compliance: BYOD Policy & Agreement</h5>
 <p>A NIST-aligned policy framework to secure personal device usage within corporate networks, including employee legal agreements.</p>
 <p><strong>Skills:</strong> Policy Writing · Security Governance · NIST Alignment</p>
 <p align="center" style="margin-top:20px;"><a href="https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">Download</a></p>
@@ -130,14 +130,14 @@ Projects apply industry-recognized concepts including NIST security frameworks, 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Cyber Kill Chain Model and MITRE ATT&CK Research – v1.2.0</h5>
+<h5>Cyber Kill Chain Model and MITRE ATT&CK Research</h5>
 <p>Strategic analysis of the Cyber Kill Chain and MITRE ATT&CK frameworks to map attacker behaviors and develop integrated defensive strategies for organizational resilience.</p>
 <p><strong>Skills:</strong> Threat Modeling · MITRE ATT&CK · Risk Analysis</p>
 <p align="center" style="margin-top:20px;"><span style="padding:10px 20px; border:1px solid rgba(255,255,255,0.3); color:rgba(255,255,255,0.5); border-radius:5px; font-weight:bold; font-size:0.9em;">Request Access</span></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>SUMMARY – Governance, Risk & Compliance: BYOD in Organizations: Security, Challenges, and Strategies – v1.0.0</h5>
+<h5>Governance, Risk & Compliance: BYOD in Organizations: Security, Challenges, and Strategies</h5>
 <p>Research and analysis examining the security risks, technical challenges, and mitigation strategies for BYOD environments.</p>
 <p><strong>Skills:</strong> Strategic Analysis · BYOD Security · Threat Modeling</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/summary-byod-in-organizations/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
