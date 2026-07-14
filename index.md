@@ -45,12 +45,12 @@ image:
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Systems Administration</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>Windows administration</li>
-<li>Linux administration</li>
-<li>User & permissions</li>
-<li>Service troubleshooting</li>
-<li>System monitoring</li>
-<li>Operational support</li>
+<li>Windows Administration</li>
+<li>Linux Administration</li>
+<li>User & Permissions</li>
+<li>Service Troubleshooting</li>
+<li>System Monitoring</li>
+<li>Operational Support</li>
 </ul>
 </div>
 
@@ -58,12 +58,12 @@ image:
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Infrastructure Hardening</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>GPO hardening</li>
-<li>Linux security baselines</li>
-<li>Least privilege access</li>
-<li>Registry restrictions</li>
-<li>RDP/SMB hardening</li>
-<li>Firewall rules</li>
+<li>Group Policy Hardening</li>
+<li>Linux Security Baselines</li>
+<li>Least Privilege Access</li>
+<li>Registry Restrictions</li>
+<li>RDP/SMB Hardening</li>
+<li>Firewall Configuration</li>
 </ul>
 </div>
 
@@ -71,12 +71,12 @@ image:
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Monitoring & Logging</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>SAR metrics</li>
-<li>Event log analysis</li>
-<li>Process monitoring</li>
-<li>Log filtering (grep)</li>
-<li>Resource tracking</li>
-<li>Performance diagnostics</li>
+<li>SAR Metrics</li>
+<li>Event Log Analysis</li>
+<li>Process Monitoring</li>
+<li>Log Analysis</li>
+<li>Resource Monitoring</li>
+<li>Performance Diagnostics</li>
 </ul>
 </div>
 
@@ -84,12 +84,12 @@ image:
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Network Defense</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>pfSense firewalling</li>
-<li>Traffic control</li>
-<li>VPN setup</li>
-<li>DNS/routing checks</li>
-<li>Segmentation</li>
-<li>Network fixes</li>
+<li>pfSense Administration</li>
+<li>Firewall Management</li>
+<li>VPN Configuration</li>
+<li>DNS & Routing</li>
+<li>Network Segmentation</li>
+<li>Network Troubleshooting</li>
 </ul>
 </div>
 
@@ -97,12 +97,12 @@ image:
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Backup & Recovery</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>Backup validation</li>
+<li>Backup Validation</li>
 <li>Snapshots</li>
 <li>Restores</li>
-<li>DR planning</li>
-<li>System recovery</li>
-<li>Continuity support</li>
+<li>DR Planning</li>
+<li>System Recovery</li>
+<li>Continuity Support</li>
 </ul>
 </div>
 
@@ -110,25 +110,25 @@ image:
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Cloud Infrastructure</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>AWS VM deployment</li>
-<li>GCP compute instances</li>
-<li>VM migration workflows</li>
-<li>Cloud networking setup</li>
-<li>Hybrid environment support</li>
-<li>Cloud troubleshooting</li>
+<li>AWS Administration</li>
+<li>Microsoft 365 Administration</li>
+<li>GCP Compute Engine</li>
+<li>VM Migration</li>
+<li>Cloud Networking</li>
+<li>Cloud Troubleshooting</li>
 </ul>
-</div>
+</div>  
 
 <!-- VIRTUALIZATION (NEW) -->
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Virtualization Services</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>VM deployment</li>
-<li>Virtual networking</li>
-<li>Snapshot management</li>
-<li>VMware / ESXi setup</li>
-<li>Virtual lab environments</li>
-<li>Hypervisor configuration</li>
+<li>VM Deployment</li>
+<li>VMware vSphere</li>
+<li>ESXi Administration</li>
+<li>Virtual Networking</li>
+<li>Snapshot Management</li>
+<li>Hypervisor Configuration</li>
 </ul>
 </div>
 
@@ -136,12 +136,12 @@ image:
 <div style="background: rgba(255,255,255,0.05); padding:15px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">Security Governance</h3>
 <ul style="font-size:0.9em; margin:0; padding-left:20px; text-align:left;">
-<li>NIST-aligned controls</li>
-<li>Risk validation</li>
-<li>Security mapping</li>
-<li>Audits</li>
-<li>Documentation</li>
-<li>Incident support</li>
+<li>NIST-Aligned Controls</li>
+<li>Risk Assessment</li>
+<li>Control Validation</li>
+<li>Security Documentation</li>
+<li>Technical Reporting</li>
+<li>Incident Support</li>
 </ul>
 </div>
 
