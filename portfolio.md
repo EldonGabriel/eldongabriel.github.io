@@ -66,7 +66,7 @@ The portfolio is organized into operational disciplines that reflect how enterpr
       <li>Work performed in controlled lab environments</li>
       <li>Skills demonstrated through independent scenarios</li>
       <li>All outcomes validated through technical documentation</li>
-      <li>Root-cause analysis applied across troubleshooting workflows</li>
+      <li>Root-cause analysis across troubleshooting workflows</li>
     </ul>
 
     <p align="center" style="margin-top:20px;">
