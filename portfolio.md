@@ -97,6 +97,8 @@ The portfolio is organized into operational disciplines that reflect how enterpr
     <li>System Administrator & Infrastructure Documentation Specialist</li>
     <li>Owner – E-commerce Infrastructure</li>
     <li>AI Safety & Security Operations – Technical Evaluation Work</li>
+    <li>Cybersecurity Analyst Simulation – Mastercard / Forage</li>
+
   </ul>
 
 </div>
