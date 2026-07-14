@@ -42,7 +42,7 @@ Projects cover least privilege, user access management, authentication controls,
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>SOP – Securing Folder Access with Permissions – v1.0.1</h5>
+<h5>Securing Folder Access with Permissions</h5>
 <p>Configuring NTFS permissions to protect sensitive directories and enforce least-privilege access.</p>
 <p><strong>Skills:</strong> NTFS Permissions · Access Control · Least Privilege</p>
 <p align="center" style="margin-top:20px;">
@@ -51,7 +51,7 @@ Projects cover least privilege, user access management, authentication controls,
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – File Ownership Recovery – v1.0.0</h5>
+<h5>File Ownership Recovery</h5>
 <p>Recovering NTFS file ownership and restoring secure permission configurations.</p>
 <p><strong>Skills:</strong> NTFS Permissions · Access Recovery</p>
 <p align="center" style="margin-top:20px;">
@@ -60,7 +60,7 @@ Projects cover least privilege, user access management, authentication controls,
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>SOP – Password and Account Lockout GPO Hardening – v1.0.1</h5>
+<h5>Password and Account Lockout GPO Hardening</h5>
 <p>Implementing password complexity and account lockout policies to reduce brute-force attack risk.</p>
 <p><strong>Skills:</strong> Password Policy · GPO · Identity Security</p>
 <p align="center" style="margin-top:20px;">
@@ -69,7 +69,7 @@ Projects cover least privilege, user access management, authentication controls,
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Deploy Local GPO for Windows Security Policies – v1.0.0</h5>
+<h5>Deploy Local GPO for Windows Security Policies</h5>
 <p>Configuring Windows security policies to protect credential handling and system access.</p>
 <p><strong>Skills:</strong> GPO Security · Credential Protection · Policy Enforcement</p>
 <p align="center" style="margin-top:20px;">
@@ -78,7 +78,7 @@ Projects cover least privilege, user access management, authentication controls,
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Applying Local GPO for Session Lock Enforcement – v1.0.0</h5>
+<h5>Applying Local GPO for Session Lock Enforcement</h5>
 <p>Enforcing automatic session lock policies to reduce unauthorized access on unattended systems.</p>
 <p><strong>Skills:</strong> GPO Configuration · Endpoint Security · Access Control</p>
 <p align="center" style="margin-top:20px;">
@@ -87,7 +87,7 @@ Projects cover least privilege, user access management, authentication controls,
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Hardening Windows User Rights via Local Group Policy – v1.0.0</h5>
+<h5>Hardening Windows User Rights via Local Group Policy</h5>
 <p>Restricting administrative privileges to enforce least-privilege access.</p>
 <p><strong>Skills:</strong> Privilege Management · Access Control · GPO</p>
 <p align="center" style="margin-top:20px;">
@@ -96,7 +96,7 @@ Projects cover least privilege, user access management, authentication controls,
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Kerberos Authentication Protocol – v1.0.0</h5>
+<h5>Kerberos Authentication Protocol</h5>
 <p>Analyzing Kerberos authentication, including ticket-granting processes and secure identity verification in Active Directory.</p>
 <p><strong>Skills:</strong> Kerberos · Active Directory · Authentication</p>
 <p align="center" style="margin-top:20px;">
@@ -105,7 +105,7 @@ Projects cover least privilege, user access management, authentication controls,
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>REPORT – Password Managers – v1.0.0</h5>
+<h5>Password Managers</h5>
 <p>Analyzing password manager technologies and their role in protecting credentials through encrypted storage.</p>
 <p><strong>Skills:</strong> Credential Management · Encryption · Authentication</p>
 <p align="center" style="margin-top:20px;">
@@ -114,7 +114,7 @@ Projects cover least privilege, user access management, authentication controls,
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>SUMMARY – Identity & Access Management: Access Control Incident Response (NIST-Aligned) – v1.0.0</h5>
+<h5>Identity & Access Management: Access Control Incident Response (NIST-Aligned)</h5>
 <p>Analysis of a real-world data leak caused by weak access controls, identifying control gaps and applying least privilege principles.</p>
 <p><strong>Skills:</strong> Risk Assessment · Access Control · NIST Alignment</p>
 <p align="center" style="margin-top:20px;">
@@ -129,7 +129,7 @@ Projects cover least privilege, user access management, authentication controls,
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>SUMMARY – Identity & Access Management: Active Directory Disaster Recovery & Identity Restoration – v1.0.0</h5>
+<h5>Identity & Access Management: Active Directory Disaster Recovery & Identity Restoration</h5>
 <p>Structured analysis of Active Directory recovery scenarios, focusing on identity restoration, access recovery, and system integrity after identity-based failures.</p>
 <p><strong>Skills:</strong> Active Directory · Identity Recovery · Incident Response · Access Restoration</p>
 <p align="center" style="margin-top:20px;">
