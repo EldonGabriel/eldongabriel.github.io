@@ -67,6 +67,7 @@ The portfolio is organized into operational disciplines that reflect how enterpr
       <li>Skills demonstrated through independent scenarios</li>
       <li>All outcomes validated through technical documentation</li>
       <li>Root-cause analysis across troubleshooting workflows</li>
+      <li>Documentation aligned with operational support practices</li>
     </ul>
 
     <p align="center" style="margin-top:20px;">
