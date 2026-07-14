@@ -102,3 +102,5 @@ The portfolio is organized into operational disciplines that reflect how enterpr
   </ul>
 
 </div>
+
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
