@@ -81,3 +81,22 @@ The portfolio is organized into operational disciplines that reflect how enterpr
   </div>
 
 </div>
+
+<!-- Professional Background -->
+<div style="background: rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1); margin-top:20px;">
+
+  <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">
+    Professional Background
+  </h3>
+
+  <p style="font-size:0.9em; text-align:left; margin-top:10px;">
+    Systems administration and infrastructure documentation experience focused on secure infrastructure implementation, troubleshooting workflows, and enterprise-style technical documentation.
+  </p>
+
+  <ul style="margin-top:10px; padding-left:20px; font-size:0.9em; text-align:left;">
+    <li>System Administrator & Infrastructure Documentation Specialist</li>
+    <li>Owner – E-commerce Infrastructure</li>
+    <li>AI Safety & Security Operations – Technical Evaluation Work</li>
+  </ul>
+
+</div>
