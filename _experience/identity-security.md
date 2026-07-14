@@ -34,6 +34,7 @@ Projects cover least privilege, user access management, authentication controls,
 |--------|------|
 | Identity & Access Management | 10 |
 | **Total Identity Security Labs Documented** | **10** | 
+
 ## Identity Protection & Access Control
 
 ### 🔐 Access Control & Identity Protection
