@@ -36,7 +36,7 @@ image:
 
 
 <h2 style="text-align:left;">
-  Available Infrastructure Services
+  Infrastructure & Security Capabilities
 </h2>
 
 <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap:15px; margin-top:20px;">
@@ -100,9 +100,9 @@ image:
 <li>Backup Validation</li>
 <li>Snapshots</li>
 <li>Restores</li>
-<li>DR Planning</li>
+<li>Disaster Recovery Planning</li>
 <li>System Recovery</li>
-<li>Continuity Support</li>
+<li> Business Continuity Support</li>
 </ul>
 </div>
 
