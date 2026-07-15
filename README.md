@@ -1,31 +1,35 @@
-# Eldon Gabriel – Cybersecurity & System Administration Portfolio
-### Systems Administration • Infrastructure Operations • Technical Documentation  
-Secure System Design • Hardening • Troubleshooting • Infrastructure Security
+# Eldon Gabriel – Systems Administration & Infrastructure Portfolio
+### Systems Administration • Infrastructure Operations • Technical Documentation
+Windows • Linux • Active Directory • Virtualization • Cloud • Security
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Portfolio-blue)
+![System Administration](https://img.shields.io/badge/System-Administration-informational)
 ![ISC2](https://img.shields.io/badge/ISC2-Certified-success)
-![Security](https://img.shields.io/badge/Security-Operations-informational)
+![Infrastructure Operations](https://img.shields.io/badge/Infrastructure-Ops-informational)
 
 ---
 
-## Portfolio Overview
+## Overview
 
 <div style="background:#111; padding:16px; border-radius:8px; border:1px solid #333;">
 
-This portfolio demonstrates hands-on systems administration, infrastructure security, and operational troubleshooting across Windows and Linux environments.
+This portfolio demonstrates hands-on systems administration, infrastructure deployment, security hardening, and technical documentation across Windows and Linux environments.
 
-Work is validated through:
-- system hardening and secure configuration
-- identity and access control management
-- network troubleshooting and defense
-- monitoring, logging, and detection workflows
-- backup and recovery validation
-
-Each project follows a proof-of-work methodology combining implementation, testing, and structured technical reporting aligned with enterprise operations.
+Projects span Active Directory, virtualization, cloud migration, networking, backup and recovery, and enterprise security baselines. Each implementation is validated through testing, troubleshooting, and structured documentation.
 
 </div>
 
 ---
+
+## Portfolio at a Glance
+
+Designed to demonstrate repeatable enterprise administration workflows rather than one-off lab exercises.
+
+- 250+ technical reports, SOPs, process guides and labs
+- Windows, Linux, Active Directory, VMware, AWS
+- Enterprise-focused proof-of-work portfolio
+- Infrastructure deployment, hardening, troubleshooting, and recovery
+
+--- 
 
 ## 🚀 Infrastructure Services 
 
@@ -34,46 +38,113 @@ Each project follows a proof-of-work methodology combining implementation, testi
 <div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
 <h3>Systems Administration</h3>
 <ul>
-<li>Windows Server & Linux administration</li>
-<li>User, group, and permission management</li>
-<li>Service troubleshooting & maintenance</li>
+<li>Windows Administration</li>
+<li>Linux Administration</li>
+<li>User & Permissions</li>
+<li>Service Troubleshooting</li>
+<li>System Monitoring</li>
+<li>Operational Support</li>
 </ul>
 </div>
 
 <div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
-<h3>Security Hardening</h3>
+<h3>Infrastructure Hardening</h3>
 <ul>
-<li>GPO & system baseline enforcement</li>
-<li>Privilege restriction & access control</li>
-<li>Firewall and endpoint configuration</li>
+<li>Group Policy Hardening</li>
+<li>Linux Security Baselines</li>
+<li>Least Privilege Access</li>
+<li>Registry Restrictions</li>
+<li>RDP/SMB Hardening</li>
+<li>Firewall Configuration</li>
 </ul>
 </div>
 
 <div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
-<h3>Monitoring & Detection</h3>
+<h3>Monitoring & Logging</h3>
 <ul>
-<li>Wazuh deployment</li>
-<li>Log & event analysis</li>
-<li>Security visibility setup</li>
+<li>SAR Metrics</li>
+<li>Event Log Analysis</li>
+<li>Process Monitoring</li>
+<li>Log Analysis</li>
+<li>Resource Monitoring</li>
+<li>Performance Diagnostics</li>
+</ul>
+</div>
+
+<div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
+<h3>Network Defense</h3>
+<ul>
+<li>pfSense Administration</li>
+<li>Firewall Management</li>
+<li>VPN Configuration</li>
+<li>DNS & Routing</li>
+<li>Network Segmentation</li>
+<li>Network Troubleshooting</li>
 </ul>
 </div>
 
 <div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
 <h3>Backup & Recovery</h3>
 <ul>
-<li>System backup validation</li>
-<li>Recovery testing</li>
-<li>Disaster recovery workflows</li>
+<li>Backup Validation</li>
+<li>Snapshots</li>
+<li>Restores</li>
+<li>Disaster Recovery Planning</li>
+<li>System Recovery</li>
+<li>Business Continuity Support</li>
 </ul>
 </div>
 
+<div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
+<h3>Cloud Infrastructure</h3>
+<ul>
+<li>AWS Administration</li>
+<li>Microsoft 365 Administration</li>
+<li>GCP Compute Engine</li>
+<li>VM Migration</li>
+<li>Cloud Networking</li>
+<li>Cloud Troubleshooting</li>
+</ul>
+</div>
+
+<div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
+<h3>Virtualization Services</h3>
+<ul>
+<li>VM Deployment</li>
+<li>VMware vSphere</li>
+<li>ESXi Administration</li>
+<li>Virtual Networking</li>
+<li>Snapshot Management</li>
+<li>Hypervisor Configuration</li>
+</ul>
+</div>
+
+<div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
+<h3>Security Governance</h3>
+<ul>
+<li>NIST-Aligned Controls</li>
+<li>Risk Assessment</li>
+<li>Control Validation</li>
+<li>Security Documentation</li>
+<li>Technical Reporting</li>
+<li>Incident Support</li>
+</ul>
+</div>
 </div>
 
 ---
 
+## ⭐ Featured Projects
+
+- 🧩 Active Directory Disaster Recovery
+- 📒 Ubuntu Server Administration Framework
+- 🌐 VMware to AWS Migration
+- 🌐 Enterprise VPN Diagnostics
+
+---
 ## 🧪 Featured Case Studies
 
-### 🧩 AD Disaster Recovery & Identity Restoration
+### 🧩 Active Directory Disaster Recovery & Identity Restoration
 
 <div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
 
@@ -92,63 +163,81 @@ Each project follows a proof-of-work methodology combining implementation, testi
 
 ---
 
-### 🔐 Windows Defender Hardening via GPO
+### 📒 Ubuntu Server Administration Framework 
 
 <div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
 
-- Enforced endpoint protection via Group Policy  
-- Restricted user-level security modification  
-- Validated enforcement behavior  
+- Created a Linux security SOP and supporting process guides
+- Configured SELinux, hardened SSH, password policies, and system services
+- Tested and documented security configurations
 
 </div>
 
 <p align="center" style="margin-top:20px;">
-  <a href="https://eldongabriel.github.io/sop-hardening-windows-defender-using-local-gpo/"
+  <a href="https://eldongabriel.github.io/ubuntu-server-administration-framework/"
      style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
-    View Report
+    View Framework
   </a>
 </p>
 
 ---
 
-### 🌐 Enterprise VPN Diagnostics
+### 🌐 Enterprise Hybrid-Cloud Migration
 
 <div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
 
-- Diagnosed IPsec tunnel failure  
-- Fixed routing and encryption misconfiguration  
-- Restored secure connectivity  
+- Deployed and configured a virtual machine in VMware
+- Migrated the VM to Amazon EC2
+- Verified successful cloud deployment and system operation
 
 </div>
 
 <p align="center" style="margin-top:20px;">
-  <a href="https://eldongabriel.github.io/report-enterprise-ipsec-vpn-dianogstics-v1.0.0/"
+  <a href="https://eldongabriel.github.io/report-enterprise-hybrid-cloud-migration-v1.2.0/"
      style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
     View Report
   </a>
+</p>
+
+--- 
+
+### 🌐 Enterprise VPN Diagnostics
+
+<div style="background:#111; padding:15px; border-radius:8px; border:1px solid #333;">
+
+- Diagnosed IPsec tunnel failure
+- Fixed routing and encryption misconfiguration
+- Restored secure connectivity
+
+</div>
+
+<p align="center" style="margin-top:20px;"> 
+<a href="https://eldongabriel.github.io/report-enterprise-ipsec-vpn-dianogstics-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;"> 
+    View Report
+  </a> 
 </p>
 
 ---
 
 ## 🧰 Tools & Platforms
 
-<p><strong>Core Infrastructure:</strong> Windows Server · Active Directory · GPO · Linux</p>
-<p><strong>Security Tools:</strong> Wazuh · OpenVAS · ClamAV · Lynis</p>
-<p><strong>Networking:</strong> pfSense · OpenVPN · DNS · DHCP</p>
-<p><strong>Virtualization:</strong> VMware · VirtualBox · Proxmox VE · Docker</p>
-<p><strong>Forensics:</strong> Wireshark · TCPDump · Nmap · Burp Suite · YARA</p>
-<p><strong>Backup:</strong> Veeam · Duplicati</p>
-<p><strong>OSINT:</strong> Shodan · DNSDumpster · theHarvester · Have I Been Pwned</p>
-<p><strong>Automation:</strong> Python · Cron</p>
+<p><strong>Infrastructure:</strong> Active Directory • DHCP • DNS • Ubuntu • Windows Server</p>
+<p><strong>Virtualization:</strong> VMware vSphere • ESXi • VirtualBox • Docker</p>
+<p><strong>Cloud:</strong> AWS EC2 • AWS MGN • Microsoft 365 • Azure • Google Cloud</p>
+<p><strong>Networking:</strong> pfSense • OpenVPN • TCP/IP • VLANs • Wireshark</p>
+<p><strong>Security:</strong> Group Policy • SELinux • Wazuh • ClamAV • Lynis</p>
+<p><strong>System Administration:</strong> Cockpit • Webmin • SSH</p>
+<p><strong>Documentation:</strong> SOPs • Process Guides • Technical Reports • Runbooks</p>
+<p><strong>Automation:</strong> PowerShell • Bash • Python</p>
 
 ---
 
 ## 🎯 Portfolio Purpose
 
 This repository demonstrates:
-- applied systems administration and cybersecurity skills  
-- structured troubleshooting methodology  
-- lab-validated infrastructure security work  
-- real-world operational readiness for client environments  
-- lab-validated infrastructure security work  
-- real-world operational readiness for client environments  
+- Enterprise systems administration  
+- Infrastructure deployment and configuration 
+- Security hardening and operational validation  
+- Technical documentation and SOP development
+- Backup, recovery, and troubleshooting  
+- Repeatable enterprise administration workflows
