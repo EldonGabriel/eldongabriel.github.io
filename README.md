@@ -142,7 +142,7 @@ Designed to demonstrate repeatable enterprise administration workflows rather th
 - 🌐 Enterprise VPN Diagnostics
 
 ---
-## 🧪 Featured Case Studies
+## 📂 Featured Case Studies
 
 ### 🧩 Active Directory Disaster Recovery & Identity Restoration
 
