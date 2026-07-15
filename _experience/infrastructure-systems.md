@@ -356,6 +356,17 @@ View Report</a>
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>Ubuntu Server Administration Framework</h5>
+<p>Developed an enterprise documentation framework for Ubuntu Server administration, including a master Standard Operating Procedure (SOP) and supporting process guides for secure system deployment, hardening, monitoring, and maintenance.</p>
+<p><strong>Skills:</strong> Linux Administration · System Hardening · Technical Documentation</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/ubuntu-server-administration-framework/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Framework
+</a>
+</p>
+</div>
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 <h5>SAR Performance Monitoring on Ubuntu</h5>
 <p>Monitored CPU, memory, and I/O activity using SAR to identify performance patterns and support system diagnostics on Ubuntu systems.</p>
 <p><strong>Skills:</strong> System Monitoring · Performance Analysis · Linux Diagnostics</p>
