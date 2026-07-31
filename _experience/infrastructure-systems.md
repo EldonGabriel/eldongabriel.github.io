@@ -236,6 +236,8 @@ View Report</a>
 </p>
 </div>
 
+</div>
+
 ### 🏢 Active Directory & Identity Infrastructure
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px;">
