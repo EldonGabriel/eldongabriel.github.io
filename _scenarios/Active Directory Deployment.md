@@ -91,6 +91,8 @@ Operational Domains
 
 </div>
 
+<p></p>
+
 # Environment Summary
 
 | Component | Technology |
@@ -111,41 +113,23 @@ Operational Domains
 ```text
 
 Planning
-
       │
-
       ▼
-
 Infrastructure Deployment
-
       │
-
       ▼
-
 Service Configuration
-
       │
-
       ▼
-
 Security Hardening
-
       │
-
       ▼
-
 Operational Validation
-
       │
-
       ▼
-
 Troubleshooting
-
       │
-
       ▼
-
 Documentation
 
  ```
