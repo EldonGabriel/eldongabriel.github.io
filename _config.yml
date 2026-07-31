@@ -52,7 +52,7 @@ collections:
     output: true
     permalink: /experience/:slug/
  
-    scenarios:
+   scenarios:
     output: true
     permalink: /scenarios/:slug/
 
