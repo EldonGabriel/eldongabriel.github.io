@@ -39,7 +39,7 @@ Demonstrates secure Active Directory deployment practices for reliable identity 
 
 | Component | Technology |
 |-----------|------------|
-| Hypervisor | Oracle VirtualBox 7.x |
+| Hypervisor | Oracle VirtualBox 7.2.4 |
 | Operating Systems | Windows Server 2016, Windows 10 Pro, Windows 11 Pro  |
 | Identity Services | Active Directory Domain Services (AD DS) |
 | Network Services | DNS, DHCP |
