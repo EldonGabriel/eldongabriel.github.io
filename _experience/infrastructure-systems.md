@@ -232,8 +232,7 @@ View Report</a>
 <p>Used Process Monitor to capture system activity, analyze process behavior, and investigate file and registry interactions.</p>
 <p><strong>Skills:</strong> Security Monitoring · Process Analysis · Sysinternals · Event Analysis</p>
 <p align="center" style="margin-top:20px;">
-<a href="https://eldongabriel.github.io/report-monitoring-windows-processes-procmon-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
-</p>
+<a href="https://eldongabriel.github.io/report-monitoring-windows-processes-procmon-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
 </div>
 
 </div>
@@ -249,8 +248,7 @@ View Report</a>
 <p><strong>Skills:</strong> Windows Server · Active Directory · DNS/DHCP · System Administration · Technical Documentation</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/windows-server-active-directory-deployment-framework/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
-View Report</a>
-</p>  
+View Report</a></p>  
 </div>
 
 </div>
@@ -266,8 +264,7 @@ View Report</a>
 <p><strong>Skills:</strong> Disk Management · Filesystem Repair · Storage Integrity · System Maintenance</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-windows-disk-management-chkdsk-fsutil-v1.0.0/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
-View Report</a>
-</p>
+View Report</a></p>
 </div>
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);"> 
