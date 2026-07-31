@@ -6,8 +6,8 @@ categories: [Infrastructure Security]
 tags: [Windows Server, Active Directory, Documentation, System Administration, Governance, Virtualization]
 excerpt: "Documentation of an enterprise Windows Server Active Directory deployment framework built on Oracle VirtualBox."
 image:
-path: /assets/images/posts/ad-framework.png
-thumbnail: /assets/images/posts/ad-framework.png
+  path: /assets/images/posts/ad-framework.png
+  thumbnail: /assets/images/posts/ad-framework.png
 ---
 
 ## 0.0 Executive Summary
