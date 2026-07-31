@@ -31,14 +31,14 @@ Each lab documents the complete lifecycle of an implementation, from planning an
 | Category | Labs |
 |--------|------|
 | Technical Foundations | 7 |  
-| Windows Systems Administration | 16 | 
+| Windows Systems Administration | 15 | 
 | System Administration & Maintenance | 3 |
 | Troubleshooting & System Diagnostics | 8 |
 | Linux Systems Administration | 10 |
 | Virtualization & Infrastructure | 7 |
 | Lab Demonstrations (Hands-On Execution) | 33 |
 | Managed Operations & Automation | 4 |
-| **Total Labs Documented** | **86** |
+| **Total Labs Documented** | **87** |
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
