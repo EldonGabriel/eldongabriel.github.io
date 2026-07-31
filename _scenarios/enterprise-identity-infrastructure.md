@@ -1,11 +1,11 @@
 ---
-title: "Active Directory Domain Controller Deployment Framework"
+title: Enterprise Identity Infrastructure"
 layout: collection-item
-slug: ad-domain-controller-deployment-framework
+slug: enterprise-identity-infrastructure
 collection: scenarios
 collection_item: true
 order: 1
-permalink: /scenarios/ad-domain-controller-deployment-framework/
+permalink: /scenarios/enterprise-identity-infrastructure/
 
 image:
   path: /assets/images/headers/section-header.png
