@@ -57,7 +57,11 @@ The scenario demonstrates systems administration practices for deploying, securi
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 
-<strong>Activities</strong>
+<h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">
+
+Operational Activities
+
+</h3>
 
 <ul>
 
@@ -75,9 +79,7 @@ The scenario demonstrates systems administration practices for deploying, securi
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
 
 <h3 style="font-size:1em; border-bottom:1px solid #fff; padding-bottom:6px;">
-
-# Operational Domains
-
+Operational Domains
 </h3>
 
 <ul>
