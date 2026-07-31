@@ -247,11 +247,10 @@ View Report</a>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/windows-server-active-directory-deployment-framework/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
 View Report</a>
-</p>
+</p>  
 </div>
 
 </div>
-<p></p>
 
 ### ⚙️ System Administration & Maintenance
 
