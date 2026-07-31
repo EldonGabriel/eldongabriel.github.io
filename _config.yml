@@ -47,12 +47,10 @@ collections:
   certifications:
     output: true
     permalink: /certifications/:slug/
-
   experience:
     output: true
     permalink: /experience/:slug/
- 
-   scenarios:
+  scenarios:
     output: true
     permalink: /scenarios/:slug/
 
