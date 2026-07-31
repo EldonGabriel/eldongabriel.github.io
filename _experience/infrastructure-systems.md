@@ -118,6 +118,7 @@ View Report</a>
 
 </div>
 
+
 ### Windows Systems Administration
 
 #### 🛡️ Endpoint Security & Configuration Enforcement
@@ -236,8 +237,7 @@ View Report</a>
 </div>
 
 </div>
-
-
+&nbsp;
 ### 🏢 Active Directory & Identity Infrastructure
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px;">
@@ -252,8 +252,7 @@ View Report</a></p>
 </div>
 
 </div>
-
-
+&nbsp;
 ### ⚙️ System Administration & Maintenance
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
