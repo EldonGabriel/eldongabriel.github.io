@@ -38,17 +38,11 @@ The scenario demonstrates systems administration practices for deploying, securi
 # Scenario Objectives
 
 - Deploy an Active Directory domain controller.
-
 - Configure DNS and DHCP services.
-
 - Join Windows workstations to the domain.
-
 - Apply Group Policy security controls.
-
 - Validate domain operations.
-
 - Troubleshoot configuration issues.
-
 - Produce implementation documentation.
 
 # Operational Scope
