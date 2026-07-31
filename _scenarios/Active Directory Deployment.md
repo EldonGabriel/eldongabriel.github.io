@@ -129,22 +129,6 @@ Documentation
  ```
 
 
-
-# Capability Matrix
-
-| Capability |
-|------------|
-| Infrastructure Deployment |
-| Windows Administration |
-| Identity Management |
-| Networking |
-| Security Hardening |
-| Operational Validation |
-| Troubleshooting | 
-| Technical Documentation |
-
-
-
 # Implementation Artifacts
 
 | Artifact | Type |
