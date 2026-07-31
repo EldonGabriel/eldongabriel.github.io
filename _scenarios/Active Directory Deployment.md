@@ -1,5 +1,5 @@
 ---
-title: "Scenario: Active Directory Domain Controller Deployment Framework"
+title: "Active Directory Domain Controller Deployment Framework"
 layout: collection-item
 slug: ad-domain-controller-deployment-framework
 collection: scenarios
