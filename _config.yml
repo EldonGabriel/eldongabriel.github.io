@@ -50,9 +50,6 @@ collections:
   experience:
     output: true
     permalink: /experience/:slug/
-  scenarios:
-    output: true
-    permalink: /scenarios/:slug/
 
 # Feed
 feed:
