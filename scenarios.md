@@ -2,7 +2,7 @@
 title: Scenarios
 layout: collection
 permalink: /scenarios/
-collection: experience
+collection: scenarios
 entries_layout: grid
 show_excerpts: false
 image:
