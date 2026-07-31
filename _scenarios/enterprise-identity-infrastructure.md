@@ -30,7 +30,7 @@ Demonstrates secure Active Directory deployment practices for reliable identity 
 - Demonstrate enterprise Windows Server deployment and Active Directory domain implementation.
 - Establish centralized identity management through Active Directory Domain Services.
 - Configure DNS and DHCP services to support reliable domain operations.
-- Automate identity provisioning by generating 100 users and 50 groups with PowerShell.
+- Automate identity provisioning by generating **100** users and **50** groups with PowerShell.
 - Integrate Windows 10 workstations into the domain environment for centralized management.
 - Validate authentication, domain connectivity, and DHCP assignment through operational testing.
 - Produce implementation documentation that supports repeatable deployment and administration.
@@ -60,7 +60,7 @@ Demonstrates secure Active Directory deployment practices for reliable identity 
 | User & Group Provisioning | Process Guide |
 | Windows 10 Domain Workstation Deployment | Process Guide |
 | Troubleshooting RDP Connectivity and ICMP Communication | Technical Troubleshooting Guide |
-| Active Directory Deployment Framework | Framework Document |
+| Active Directory Deployment Framework | Implementation Framework |
 | Windows 10 Domain Workstation Deployment | Demonstration Video |
 
 # Operational Outcome
