@@ -31,7 +31,7 @@ Each lab documents the complete lifecycle of an implementation, from planning an
 | Category | Labs |
 |--------|------|
 | Technical Foundations | 7 |  
-| Windows Systems Administration | 15 | 
+| Windows Systems Administration | 16 | 
 | System Administration & Maintenance | 3 |
 | Troubleshooting & System Diagnostics | 8 |
 | Linux Systems Administration | 10 |
@@ -125,7 +125,7 @@ View Report</a>
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px; margin-top:20px; margin-bottom:40px;">
 
 <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
-<h5>HardenSystem Hardening: Windows Defender GPO</h5>
+<h5>System Hardening: Windows Defender GPO</h5>
 <p>Configured Windows Defender using Local Group Policy to enforce real-time protection and standardized endpoint security settings.</p>
 <p><strong>Skills:</strong> Endpoint Protection · Windows Defender · GPO Enforcement</p>
 <p align="center" style="margin-top:20px;"><a href="https://eldongabriel.github.io/sop-system-hardening-windows-defender-gpo/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a></p>
@@ -233,6 +233,20 @@ View Report</a>
 <p><strong>Skills:</strong> Security Monitoring · Process Analysis · Sysinternals · Event Analysis</p>
 <p align="center" style="margin-top:20px;">
 <a href="https://eldongabriel.github.io/report-monitoring-windows-processes-procmon-v1.0.1/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">View Report</a>
+</p>
+</div>
+
+### 🏢 Active Directory & Identity Infrastructure
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(320px,1fr)); gap:20px;">
+
+<div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:8px; border:1px solid rgba(255,255,255,0.1);">
+<h5>Windows Server Active Directory Deployment Framework</h5>
+<p>Documentation framework for deploying a Windows Server Active Directory environment. Covers server deployment, Active Directory Domain Services, DNS, DHCP, user provisioning, workstation integration, and troubleshooting workflows.</p>
+<p><strong>Skills:</strong> Windows Server · Active Directory · DNS/DHCP · System Administration · Technical Documentation</p>
+<p align="center" style="margin-top:20px;">
+<a href="https://eldongabriel.github.io/windows-server-active-directory-deployment-framework/" style="padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
+View Report</a>
 </p>
 </div>
 
