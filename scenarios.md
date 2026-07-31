@@ -1,7 +1,7 @@
 ---
 title: Scenarios
 layout: collection
-permalink: /ccenarios/
+permalink: /scenarios/
 collection: experience
 entries_layout: grid
 show_excerpts: false
