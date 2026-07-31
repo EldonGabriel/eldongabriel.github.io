@@ -24,3 +24,5 @@ The scenarios provide practical evidence of enterprise-focused problem solving t
 </p>
 
 </section>
+
+<hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
