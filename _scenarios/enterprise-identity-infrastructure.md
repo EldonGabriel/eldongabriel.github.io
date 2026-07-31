@@ -1,5 +1,5 @@
 ---
-title: Enterprise Identity Infrastructure"
+title: Enterprise Identity Infrastructure
 layout: collection-item
 slug: enterprise-identity-infrastructure
 collection: scenarios
