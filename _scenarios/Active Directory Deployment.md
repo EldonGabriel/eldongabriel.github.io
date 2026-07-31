@@ -31,7 +31,7 @@ The scenario demonstrates systems administration practices for deploying, securi
 
 <p style="text-align:center; font-size:1.05em; color:#fff; background:rgba(255,255,255,0.05); padding:15px; border-radius:8px; margin:30px 0;">
 
-<strong>Scenario Focus:</strong> Infrastructure Deployment · Security Hardening · Operational Validation · Enterprise Documentation
+<strong>Focus:</strong> Infrastructure Deployment · Security Hardening · Operational Validation · Enterprise Documentation
 
 </p>
 
