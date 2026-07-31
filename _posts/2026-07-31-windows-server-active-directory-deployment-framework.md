@@ -1,5 +1,5 @@
 ---
-## title: "REPORT – Windows Server Active Directory Deployment Framework – v1.0.0"
+title: "REPORT – Windows Server Active Directory Deployment Framework – v1.0.0"
 date: 2026-07-31
 author: Eldon Gabriel
 categories: [Infrastructure Security]
