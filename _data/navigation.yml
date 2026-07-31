@@ -4,11 +4,13 @@
   url: /
 - title: Portfolio 
   url: /portfolio/ 
+- title: Scenarios 
+   url: /scenarios/
 - title: Reports 
   url: /posts/ 
 - title: Certifications 
   url: /certifications/ 
-# - title: Search 
-#   url: /search/ 
+# - title: Scenarios 
+#   url: /scenarios/
 # - title: Portfolio 
 #   url: # external: true
