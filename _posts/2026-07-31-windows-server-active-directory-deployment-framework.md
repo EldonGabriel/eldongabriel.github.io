@@ -34,8 +34,8 @@ Design and document a repeatable Windows Server Active Directory deployment fram
 
 ### 1.2 Technical Environment
 
-* **Platform:** Windows Server 2016, 2019, or 2022 Evaluation Edition.
-* **Hypervisor:** Oracle VirtualBox 7.x.
+* **Platform:** Windows Server 2016 Evaluation Edition.
+* **Hypervisor:** Oracle VirtualBox 7.4
 * **Documentation:** Process guides for deployment, configuration, and troubleshooting.
 
 ### 1.3 Deliverables
