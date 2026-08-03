@@ -1,10 +1,10 @@
 ---
-title: "REPORT – Windows Server Active Directory Deployment Framework – v1.0.0"
-date: 2026-07-31
+title: "REPORT – Windows Server Active Directory Deployment Framework – v1.0.1"
+date: 2026-08-03
 author: Eldon Gabriel
 categories: [Infrastructure Security]
-tags: [Windows Server, Active Directory, Documentation, System Administration, Governance, Virtualization]
-excerpt: "Documentation of an enterprise Windows Server Active Directory deployment framework built on Oracle VirtualBox."
+tags: [Windows Server, Active Directory, Documentation, System Administration, Networking, Governance, Virtualization]
+excerpt: "Documentation of an enterprise Windows Server Active Directory deployment framework with domain services, workstation deployment, connectivity validation, and troubleshooting workflows built on Oracle VirtualBox."
 image:
   path: /assets/images/posts/ad-framework.png
   thumbnail: /assets/images/posts/ad-framework.png
@@ -21,6 +21,7 @@ The framework includes guides for:
 * DNS and DHCP configuration
 * User and group setup
 * Windows 10 domain workstation deployment
+* Windows 10 workstation Internet connectivity configuration
 * RDP and ICMP troubleshooting
 
 These guides reduce setup errors and simplify troubleshooting.
@@ -48,6 +49,7 @@ Design and document a repeatable Windows Server Active Directory deployment fram
 | **DNS Configuration** | Configures DNS zones, forwarding, and name resolution. |
 | **User and Group Provisioning** | Creates organizational units, users, and security groups. |
 | **Windows 10 Domain Workstation Deployment** | Deploys and joins Windows 10 computers to the domain. |
+| **Windows 10 Internet Connectivity Configuration** | Configures WAN-External NAT connectivity and validates outbound routing, DNS resolution, firewall status, and Internet access. |
 | **RDP and ICMP Troubleshooting** | Restores Remote Desktop and network connections. |
 
 ### 1.4 Intended Audience
@@ -66,6 +68,7 @@ Windows Server Active Directory Deployment Framework
 ├── DHCP Configuration
 ├── User and Group Provisioning
 ├── Windows 10 Domain Workstation Deployment
+├── Windows 10 Internet Connectivity Configuration
 └── RDP and ICMP Troubleshooting
 
 ```
