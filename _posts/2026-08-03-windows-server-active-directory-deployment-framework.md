@@ -21,7 +21,7 @@ The framework includes guides for:
 * DNS and DHCP configuration
 * User and group setup
 * Windows 10 domain workstation deployment
-* Windows 10 workstation Internet connectivity configuration
+* Windows Proxy Configuration
 * RDP and ICMP troubleshooting
 
 These guides reduce setup errors and simplify troubleshooting.
@@ -49,7 +49,7 @@ Design and document a repeatable Windows Server Active Directory deployment fram
 | **DNS Configuration** | Configures DNS zones, forwarding, and name resolution. |
 | **User and Group Provisioning** | Creates organizational units, users, and security groups. |
 | **Windows 10 Domain Workstation Deployment** | Deploys and joins Windows 10 computers to the domain. |
-| **Windows 10 Internet Connectivity Configuration** | Configures WAN-External NAT connectivity and validates outbound routing, DNS resolution, firewall status, and Internet access. |
+| **Windows Proxy Configuration** | Configures Windows clients to use a Squid proxy server and validates authenticated Internet connectivity through the proxy. |
 | **RDP and ICMP Troubleshooting** | Restores Remote Desktop and network connections. |
 
 ### 1.4 Intended Audience
@@ -68,7 +68,7 @@ Windows Server Active Directory Deployment Framework
 ├── DHCP Configuration
 ├── User and Group Provisioning
 ├── Windows 10 Domain Workstation Deployment
-├── Windows 10 Internet Connectivity Configuration
+├── Windows Proxy Configuration
 └── RDP and ICMP Troubleshooting
 
 ```
