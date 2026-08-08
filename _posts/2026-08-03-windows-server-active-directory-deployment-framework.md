@@ -44,13 +44,14 @@ Design and document a repeatable Windows Server Active Directory deployment fram
 | Deliverable | Description |
 | --- | --- |
 | **Windows Server Deployment** | Deploys a Windows Server virtual machine on Oracle VirtualBox. |
-| **Active Directory Domain Controller Configuration** | Installs and sets up Active Directory Domain Services. |
+| **Domain Controller Configuration** | Installs and sets up Active Directory Domain Services. |
 | **DHCP Configuration** | Configures and authorizes the DHCP Server role. |
 | **DNS Configuration** | Configures DNS zones, forwarding, and name resolution. |
 | **User and Group Provisioning** | Creates organizational units, users, and security groups. |
 | **Windows 10 Domain Workstation Deployment** | Deploys and joins Windows 10 computers to the domain. |
+| **Windows 10 Workstation Internet Connectivity Configuration** | Configures workstation network adapters for outbound Internet access.
+. |
 | **Windows Proxy Configuration** | Configures Windows clients to use a Squid proxy server and validates authenticated Internet connectivity through the proxy. |
-| **RDP and ICMP Troubleshooting** | Restores Remote Desktop and network connections. |
 
 ### 1.4 Intended Audience
 
@@ -68,8 +69,7 @@ Windows Server Active Directory Deployment Framework
 ├── DHCP Configuration
 ├── User and Group Provisioning
 ├── Windows 10 Domain Workstation Deployment
-├── Windows Proxy Configuration
-└── RDP and ICMP Troubleshooting
+└── Windows Proxy Configuration
 
 ```
 
