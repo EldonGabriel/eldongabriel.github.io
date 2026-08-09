@@ -12,16 +12,15 @@ image:
 <section class="portfolio-page">
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-Reliable IT systems do not happen by accident. They require secure configurations, consistent operational procedures, thorough testing, and clear documentation to reduce downtime, strengthen security, and simplify long-term support.
-These artifacts demonstrate the systems administration practices that help organizations improve operational reliability, reduce technical risk, accelerate troubleshooting, support disaster recovery, and make IT environments easier to manage as they grow.
+Reliable IT systems require secure configurations, clear procedures, testing, and good documentation. This portfolio shows practical systems administration work that improves reliability, reduces risk, and makes IT support easier.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-Every implementation follows a repeatable process of planning, deployment, validation, troubleshooting, and documentation. Technical reports, Standard Operating Procedures (SOPs), process guides, videos, and lab demonstrations provide verifiable proof of practical implementation and problem-solving rather than theoretical knowledge.
+Each project follows a clear process: plan, deploy, confirm, troubleshoot, and document. Reports, SOPs, guides, and lab demos provide proof of practical skills and completed work.
 </p>
 
 <p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-The portfolio is organized into operational disciplines that reflect how enterprise IT environments are planned, secured, maintained, and supported. Each section explores a specific area of infrastructure operations through real implementations, troubleshooting scenarios, security improvements, and validated outcomes, allowing organizations to quickly review relevant experience and practical capabilities.
+The portfolio covers infrastructure, security, networking, identity, and IT operations. Each section shows real implementations, solutions, and results.
 </p>
 
 </section>
