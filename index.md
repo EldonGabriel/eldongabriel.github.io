@@ -22,13 +22,14 @@ image:
 
 <div style="text-align:left; max-width:950px;">
 
-<p>This portfolio showcases hands-on experience in designing, building, securing, troubleshooting, and documenting Windows and Linux infrastructure across enterprise-style laboratory environments. The projects span system administration, networking, virtualization, cloud infrastructure, identity management, backup and recovery, and security operations.</p>
+<p>This portfolio showcases hands-on experience with Windows and Linux infrastructure. Projects cover system administration, networking, and virtualization. They also cover cloud infrastructure, identity management, backup and recovery, and security operations.</p>
 
-<p>Reliable IT environments depend on more than just technical knowledge. They require secure configurations, structured processes, validated implementations, and clear operational documentation that enables systems to be deployed, managed, maintained, and recovered consistently. The projects in this portfolio demonstrate the practical skills and operational workflows used to improve security, reduce risk, increase reliability, and support daily infrastructure operations.</p>
+<p>These practices reduce downtime and operational risk. They also make systems easier to manage, troubleshoot, and recover.</p>
 
-<p>Each project follows a structured methodology that includes planning, implementation, validation, troubleshooting, and continuous improvement. Technical reports, Standard Operating Procedures (SOPs), process guides, lab demonstrations, and validation evidence provide verifiable proof of the work performed and the outcomes achieved.</p>
+<p>Each project follows a clear process. Planning, implementation, validation, troubleshooting, and documentation produce repeatable results. Reports, SOPs, guides, and lab demonstrations provide evidence of the work.
+</p>
 
-<p>Regardless of whether deploying new infrastructure, hardening existing systems, troubleshooting complex technical issues, implementing operational standards, or creating repeatable administrative procedures, the focus remains the same: delivering practical, well-documented solutions that help organizations build secure, reliable, and maintainable IT environments.</p>
+<p>The focus remains on practical solutions. Clear documentation improves security, reliability, and maintainability.</p>
 
 </div>
 
