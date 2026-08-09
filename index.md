@@ -22,14 +22,9 @@ image:
 
 <div style="text-align:left; max-width:950px;">
 
-<p>This portfolio showcases hands-on experience with Windows and Linux infrastructure. Projects cover system administration, networking, and virtualization. They also cover cloud infrastructure, identity management, backup and recovery, and security operations.</p>
+<p>This portfolio showcases hands-on experience with Windows and Linux infrastructure. Projects cover system administration, networking, and virtualization. They also cover cloud infrastructure, identity management, backup and recovery, and security operations. These practices reduce downtime and operational risk. They also make systems easier to manage, troubleshoot, and recover.</p>
 
-<p>These practices reduce downtime and operational risk. They also make systems easier to manage, troubleshoot, and recover.</p>
-
-<p>Each project follows a clear process. Planning, implementation, validation, troubleshooting, and documentation produce repeatable results. Reports, SOPs, guides, and lab demonstrations provide evidence of the work.
-</p>
-
-<p>The focus remains on practical solutions. Clear documentation improves security, reliability, and maintainability.</p>
+<p>Each project follows a clear process. Planning, implementation, validation, troubleshooting, and documentation produce repeatable results. Reports, SOPs, guides, and lab demonstrations provide evidence of the work. The focus remains on practical solutions. Clear documentation improves security, reliability, and maintainability.</p>
 
 </div>
 
