@@ -11,19 +11,30 @@ image:
 
 <section class="portfolio-page">
 
-<p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-Professional certifications and technical training provide the foundation for developing practical skills in systems administration, infrastructure security, troubleshooting, and operational support. Each certification represents structured learning reinforced by hands-on implementation, technical documentation, and applied problem-solving across Windows and Linux environments.
+<p style="font-size:1em; line-height:1.6; margin-bottom:20px;">
+My professional certifications and training support practical skills in system administration and infrastructure security. They also support troubleshooting and IT operations.
 </p>
 
-<p style="font-size:1.2em; line-height:1.6; margin-bottom:20px;">
-Training focuses on building the ability to understand systems, apply security controls, troubleshoot technical issues, and validate operational outcomes using repeatable processes aligned with real-world IT environments.
+<p style="font-size:1em; line-height:1.6; margin-bottom:20px;">
+I reinforce my training through hands-on work across Windows and Linux environments. This helps me turn technical knowledge into practical, repeatable solutions.
 </p>
 
-<p style="font-size:1.2em; line-height:1.6;">
-Technical development is aligned with recognized workforce and cybersecurity frameworks, including the <strong>NIST NICE Workforce Framework</strong>, the <strong>Australian Signals Directorate (ASD) Cyber Skills Framework</strong>, and relevant <strong>U.S. Department of Defense occupational standards</strong>, providing a structured reference for technical skill progression.
+<p style="font-size:1em; line-height:1.6; margin-bottom:20px;">
+My technical development follows recognized workforce and cybersecurity frameworks, including:
+</p>
+
+<ul style="font-size:1em; line-height:1.6; margin-bottom:20px;">
+<li><strong>NIST NICE Workforce Framework</strong></li>
+<li><strong>Australian Signals Directorate (ASD) Cyber Skills Framework</strong></li>
+<li><strong>U.S. Department of Defense occupational standards</strong></li>
+</ul>
+
+<p style="font-size:1em; line-height:1.6;">
+These frameworks provide a structured reference for my technical skill development.
 </p>
 
 </section>
+
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:20px; margin:30px 0;">
