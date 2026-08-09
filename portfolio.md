@@ -46,7 +46,7 @@ The portfolio is organized into operational disciplines that reflect how enterpr
     </ul>
 
     <p align="center" style="margin-top:20px;">
-      <a href="https://docs.google.com/spreadsheets/d/1_NJJ7v9wQ4OH1zhxlq-AKbwUoMMPS58R2aZGxMsAukI/edit?usp=sharing"
+      <a href="https://docs.google.com/spreadsheets/d/1EK-uHCIFeX9AaNh3KRxtBrzopqJTyZ6RYg40q9hyZlQ/edit?usp=sharing"
          target="_blank"
          style="display:inline-block; width:220px; text-align:center; padding:10px 20px; border:1px solid #fff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold;">
         View Portfolio Index
