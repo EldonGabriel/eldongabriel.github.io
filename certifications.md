@@ -12,11 +12,7 @@ image:
 <section class="portfolio-page">
 
 <p style="font-size:1em; line-height:1.6; margin-bottom:20px;">
-My professional certifications and training support practical skills in system administration and infrastructure security. They also support troubleshooting and IT operations.
-</p>
-
-<p style="font-size:1em; line-height:1.6; margin-bottom:20px;">
-I reinforce my training through hands-on work across Windows and Linux environments. This helps me turn technical knowledge into practical, repeatable solutions.
+My professional certifications and training support practical skills in system administration and infrastructure security. They also support troubleshooting and IT operations. I reinforce my training through hands-on work across Windows and Linux environments. This helps me turn technical knowledge into practical, repeatable solutions.
 </p>
 
 <p style="font-size:1em; line-height:1.6; margin-bottom:20px;">
