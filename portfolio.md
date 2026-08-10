@@ -12,12 +12,7 @@ image:
 <section class="portfolio-page">
 
 <p style="font-size:1em; line-height:1.6; margin-bottom:20px;">
-Reliable IT systems require secure configurations, clear procedures, testing, and good documentation. This portfolio shows practical systems administration work that improves reliability, reduces risk, and makes IT support easier.
-</p>
-
-<p style="font-size:1em; line-height:1.6; margin-bottom:20px;">
-Each project follows a clear process: plan, deploy, confirm, troubleshoot, and document. Reports, SOPs, guides, and lab demos provide proof of practical skills and completed work. The portfolio covers infrastructure, security, networking, identity, and IT operations. Each section shows real implementations, solutions, and results.
-</p>
+Here you’ll find stakeholder-facing reports that show how I approach real infrastructure and security problems. Each report explains the problem, solution, results, and business impact for both technical and non-technical stakeholders.</p>
 
 </section>
 
