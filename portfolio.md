@@ -12,7 +12,8 @@ image:
 <section class="portfolio-page">
 
 <p style="font-size:1em; line-height:1.6; margin-bottom:20px;">
-Here you’ll find stakeholder-facing reports that show how I approach real infrastructure and security problems. Each report explains the problem, solution, results, and business impact for both technical and non-technical stakeholders.</p>
+This portfolio brings together practical IT work. Each section focuses on how I approach real technical challenges within specific area of enterprise IT. Explore the sections below to see implementations, solutions, and results.
+</p>
 
 </section>
 
