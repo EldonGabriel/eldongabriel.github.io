@@ -1,6 +1,6 @@
 ---
 title: "REPORT – Linux Admin: Network Routing Fundamentals – v1.1.0"
-date: 2026-08-10
+date: 2026-05-17
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
 tags: [Networking, Linux, Routing, Troubleshooting, System Administration]
@@ -124,6 +124,7 @@ Successful replies confirmed that external traffic continued to use the configur
 **PASS**
 
 The routing restriction operated as intended while external connectivity remained available.
+
 ---
 
 ## 1.4 Troubleshooting Highlights
