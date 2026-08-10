@@ -1,6 +1,6 @@
 ---
 title: "REPORT – Linux Admin: Network Routing Fundamentals – v1.1.0"
-date: 2026-05-17
+date: 2026-08-10
 author: Eldon Gabriel
 categories: [Infrastructure and Systems]
 tags: [Networking, Linux, Routing, Troubleshooting, System Administration]
