@@ -22,9 +22,9 @@ image:
 
 <div style="text-align:left; max-width:950px;">
 
-<p>This portfolio showcases hands-on experience with Windows and Linux infrastructure. Projects cover system administration, networking, and virtualization. They also cover cloud infrastructure, identity management, backup and recovery, and security operations. These practices reduce downtime and operational risk. They also make systems easier to manage, troubleshoot, and recover.</p>
+<p>Hi, I’m Eldon, and welcome to my portfolio. My work covers macOS, Windows, and Linux infrastructure. The goal is to reduce downtime and operational risk. It also makes systems easier to manage, troubleshoot, and recover.</p>
 
-<p>Each project follows a clear process. Planning, implementation, validation, troubleshooting, and documentation produce repeatable results. Reports, SOPs, guides, and lab demonstrations provide evidence of the work. The focus remains on practical solutions. Clear documentation improves security, reliability, and maintainability.</p>
+<p>Each project follows a clear process. I plan, deploy, validate, troubleshoot, and document the work. This creates reliable and repeatable solutions. Reports, SOPs, guides, and lab demonstrations provide evidence of the work. Clear documentation helps teams maintain secure, reliable, and manageable IT environments.</p>
 
 </div>
 
