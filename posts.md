@@ -9,7 +9,7 @@ image:
 ---
 
 <p style="max-width: 950px; margin: 0 auto 30px; line-height: 1.6;">
-Technical environments can fail in unexpected ways. Reliable IT operations require structured troubleshooting and root cause analysis. These reports document practical technical work across Windows and Linux environments. They also cover networking, virtualization, cloud infrastructure, security, and security operations.</p>
+Technical environments can fail in unexpected ways, and stakeholders need answers. Here you’ll find stakeholder reports that show how I explain real infrastructure and security problems. Each report documents the problem, analysis, remediation, testing, and validation. This helps reduce guesswork and improve troubleshooting.</p>
 
 <p style="max-width: 950px; margin: 0 auto 30px; line-height: 1.6;">
-Each report documents the problem, analysis, remediation, testing, and validation. This approach helps reduce guesswork, improve troubleshooting, and support reliable technical operations. The report library represents practical evidence of solutions that are clear, validated, and repeatable.</p>
+Explore my reports below to see how technical problems are analyzed, resolved, and communicated.</p>
