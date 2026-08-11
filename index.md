@@ -22,9 +22,11 @@ image:
 
 <div style="text-align:left; max-width:950px;">
 
-<p>Hi, I’m Eldon, and welcome to my portfolio. My work covers macOS, Windows, and Linux infrastructure. The goal is to reduce downtime and operational risk. It also makes systems easier to manage, troubleshoot, and recover.</p>
+<p>Hi, I’m Eldon, and welcome to my portfolio. My goal is to help teams reduce downtime and operational risk. I focus on solutions that make systems easier to manage, troubleshoot, and recover.</p>
 
-<p>Each project follows a clear process. I plan, deploy, validate, troubleshoot, and document the work. This creates reliable and repeatable solutions. Reports, SOPs, guides, and lab demonstrations provide evidence of the work. Clear documentation helps teams maintain secure, reliable, and manageable IT environments.</p>
+<p>With 200+ artifacts, each project follows a clear process from planning to documentation. I deliver reliable, repeatable solutions that your team can understand, follow, and maintain.</p>
+
+<p>The capabilities below show the technical areas covered across my projects and practical work.</p>
 
 </div>
 
