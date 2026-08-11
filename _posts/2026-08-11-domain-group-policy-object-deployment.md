@@ -22,7 +22,7 @@ Testing confirmed successful policy application on both target workstations. Bot
 
 <hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
-# 1.0 Domain Group Policy Object (GPO) Deployment
+# 1.0 Domain GPO Deployment
 
 ## 1.1 Project Description
 
