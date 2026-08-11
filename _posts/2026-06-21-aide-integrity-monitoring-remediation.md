@@ -10,7 +10,7 @@ image:
   thumbnail: /assets/images/posts/aide-remediation.png
 ---
 
-# 0.0 Executive Summary
+# Executive Summary
 
 This report documents the remediation of performance and configuration issues within the Advanced Intrusion Detection Environment (AIDE) on the Ubuntu Server 24.04 LTS. The system experienced memory exhaustion, elevated CPU utilization, and scan failures, which prevented successful file integrity monitoring.
 
@@ -18,7 +18,7 @@ The analysis identified that malformed regular expression (regex) exclusion rule
 
 The AIDE engine subsequently fell back from Just-In-Time (JIT) compilation to slower interpreted matching, further increasing the processing overhead. The issue was resolved by optimizing the exclusion rules, correcting the configuration syntax, and regenerating the integrity baseline. This restored stable monitoring while ensuring that the system performance remained within the expected parameters.
 
----
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
 # 1.0 Host Integrity Monitoring
 
