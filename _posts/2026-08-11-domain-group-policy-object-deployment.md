@@ -10,7 +10,7 @@ image:
   thumbnail: /assets/images/posts/gpo-deployment.png
 ---
 
-# 0.0 Executive Summary
+# Executive Summary
 
 This report documents the deployment of a new Group Policy Object (GPO) within an Active Directory environment. The project focused on applying a centralized security configuration to domain-joined Windows workstations.
 
@@ -20,7 +20,7 @@ The GPO configured the **Accounts: Guest account status** setting as **Disabled*
 
 Testing confirmed successful policy application on both target workstations. Both workstations listed **Disable Guest Account** under **Applied Group Policy Objects**. Both workstations showed **Disabled** for the **Accounts: Guest account status** setting.
 
----
+ <hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
 # 1.0 Domain Group Policy Object (GPO) Deployment
 
@@ -36,7 +36,7 @@ The project involved:
 
 The GPO provides centralized management of the security configuration. The configuration applies to domain-joined computers within the configured GPO scope.
 
----
+ 
 
 ## 1.2 Technical Task / Troubleshooting Process
 
@@ -60,7 +60,7 @@ The dedicated GPO separates the security configuration from the Default Domain P
 
 Disabling the built-in Guest account removes an unnecessary local access path.
 
----
+ 
 
 ## 1.3 Resolution and Validation
 
@@ -76,7 +76,7 @@ Testing confirmed successful GPO application on both target workstations.
 | **Key Change** | Dedicated GPO Creation, Linking, and Enforcement |
 | **Validated Workstations** | WS-10-01, WS-10-02 |
 
-Validation Steps
+**Validation Steps**
 
 1. Confirmed **Enabled** under the GPO link status in Group Policy Management.
 2. Ran `gpupdate /force` on both target workstations.
@@ -85,8 +85,7 @@ Validation Steps
 5. Opened `secpol.msc` on both workstations.
 6. Confirmed that **Accounts: Guest account** status showed **Disabled** on both workstations.
 
----
-
+ 
 # 2.0 CONCLUSION
 
 ## 2.1 Key Takeaways
@@ -96,7 +95,7 @@ Validation Steps
 - `gpresult` confirms GPO application on target workstations.
 - Local Security Policy confirms the resulting security configuration.
 
----
+ 
 
 ## 2.2 Security Implications and Recommendations
 
@@ -108,7 +107,7 @@ Built-in accounts can create unnecessary access paths.
 
 Disable unused built-in accounts. Review local settings against organizational security baselines.
 
-Best Practices
+**Best Practices**
 
 - Use dedicated GPOs for specific security configurations.
 - Avoid modifying the Default Domain Policy for individual security settings.
