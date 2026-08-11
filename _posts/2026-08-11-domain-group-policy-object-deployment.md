@@ -20,7 +20,7 @@ The GPO configured the **Accounts: Guest account status** setting as **Disabled*
 
 Testing confirmed successful policy application on both target workstations. Both workstations listed **Disable Guest Account** under **Applied Group Policy Objects**. Both workstations showed **Disabled** for the **Accounts: Guest account status** setting.
 
- <hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
 # 1.0 Domain Group Policy Object (GPO) Deployment
 
@@ -36,7 +36,7 @@ The project involved:
 
 The GPO provides centralized management of the security configuration. The configuration applies to domain-joined computers within the configured GPO scope.
 
- 
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
 ## 1.2 Technical Task / Troubleshooting Process
 
@@ -60,7 +60,7 @@ The dedicated GPO separates the security configuration from the Default Domain P
 
 Disabling the built-in Guest account removes an unnecessary local access path.
 
- 
+ <hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
 ## 1.3 Resolution and Validation
 
@@ -85,6 +85,7 @@ Testing confirmed successful GPO application on both target workstations.
 5. Opened `secpol.msc` on both workstations.
 6. Confirmed that **Accounts: Guest account** status showed **Disabled** on both workstations.
 
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
  
 # 2.0 CONCLUSION
 
@@ -95,7 +96,7 @@ Testing confirmed successful GPO application on both target workstations.
 - `gpresult` confirms GPO application on target workstations.
 - Local Security Policy confirms the resulting security configuration.
 
- 
+ <hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
 ## 2.2 Security Implications and Recommendations
 
