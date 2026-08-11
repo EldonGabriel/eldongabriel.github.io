@@ -42,7 +42,7 @@ The GPO provides centralized management of the security configuration. The confi
 
 The deployment followed a structured process. The process covered GPO creation, configuration, linking, and verification.
 
-Key Actions and Observations
+**Key Actions and Observations**
 
 - Opened the Group Policy Management console (`gpmc.msc`) on the Domain Controller (`WS2016-DC02`).
 - Created the Disable Guest Account GPO under the `corp.local` domain.
@@ -54,7 +54,7 @@ Key Actions and Observations
 - Verified GPO application with `gpresult /r`.
 - Verified the security setting with `secpol.msc`.
 
-Security Considerations
+**Security Considerations**
 
 The dedicated GPO separates the security configuration from the Default Domain Policy. This approach reduces the risk of unintended changes to the Default Domain Policy.
 
@@ -100,11 +100,13 @@ Validation Steps
 
 ## 2.2 Security Implications and Recommendations
 
-**Risk:** Unmonitored Local Accounts
+**Risk: Unmonitored Local Accounts**
 
 Built-in accounts can create unnecessary access paths.
 
-**Recommendation:** Disable unused built-in accounts. Review local settings against organizational security baselines.
+**Recommendation:** 
+
+Disable unused built-in accounts. Review local settings against organizational security baselines.
 
 Best Practices
 
