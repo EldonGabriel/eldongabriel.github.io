@@ -12,24 +12,8 @@ image:
 <section class="portfolio-page">
 
 <p style="font-size:1em; line-height:1.6; margin-bottom:20px;">
-My professional certifications and training support practical skills in system administration and infrastructure security. They also support troubleshooting and IT operations. I reinforce my training through hands-on work across Windows and Linux environments. This helps me turn technical knowledge into practical, repeatable solutions.
+My certifications and training support practical skills in system administration, infrastructure security, and IT operations. I reinforce this training through hands-on work across Windows and Linux environments. This helps me turn technical knowledge into practical, repeatable solutions.
 </p>
-
-<p style="font-size:1em; line-height:1.6; margin-bottom:20px;">
-My technical development follows recognized workforce and cybersecurity frameworks, including:
-</p>
-
-<ul style="font-size:1em; line-height:1.6; margin-bottom:20px;">
-<li><strong>NIST NICE Workforce Framework</strong></li>
-<li><strong>Australian Signals Directorate (ASD) Cyber Skills Framework</strong></li>
-<li><strong>U.S. Department of Defense occupational standards</strong></li>
-</ul>
-
-<p style="font-size:1em; line-height:1.6;">
-These frameworks provide a structured reference for my technical skill development.
-</p>
-
-</section>
 
 <hr style="border:1px solid rgba(255,255,255,0.1); margin:40px 0;">
 
