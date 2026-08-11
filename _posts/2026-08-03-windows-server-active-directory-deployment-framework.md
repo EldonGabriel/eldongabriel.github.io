@@ -10,7 +10,7 @@ image:
   thumbnail: /assets/images/posts/ad-framework.png
 ---
 
-## 0.0 Executive Summary
+## Executive Summary
 
 This report documents a Windows Server Active Directory deployment framework. The goal was to create a repeatable process for deploying Active Directory. The framework helps teams deploy and manage systems the same way.
 
@@ -26,6 +26,7 @@ The framework includes guides for:
 
 These guides reduce setup errors and simplify troubleshooting.
 
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
 ## 1.0 Project Description
 
