@@ -12,10 +12,20 @@ image:
 <section class="scenario-page">
 
 <p style="font-size:1em; line-height:1.6; margin-bottom:20px;">
-Scenario-based projects simulate real-world IT environments where infrastructure, security, and administrative capabilities work together. Each scenario demonstrates planning, implementation, troubleshooting, validation, and documentation across interconnected systems.</p>
+Real IT environments need more than individual technical skills. They require the ability to connect systems, solve problems, and respond to changing conditions. These scenario-based projects bring several technical areas together in realistic IT environments. They follow recognized workforce and cybersecurity frameworks, including:
 
-<p style="font-size:1em; line-height:1.6; margin-bottom:20px;">
-Projects cover system administration, networking, identity management, security, and operational support. These scenarios show practical problem solving and reliable technology operations. They also show the ability to document technical solutions.</p>
+</p>
+
+<ul style="font-size:1em; line-height:1.6; margin-bottom:20px;">
+<li><strong>NIST NICE Workforce Framework</strong></li>
+<li><strong>Australian Signals Directorate (ASD) Cyber Skills Framework</strong></li>
+<li><strong>U.S. Department of Defense occupational standards</strong></li>
+</ul>
+
+<p style="font-size:1em; line-height:1.6;">
+Explore the various scenario tasks below to see these skills in practice.
+</p>
+
 
 </section>
 
