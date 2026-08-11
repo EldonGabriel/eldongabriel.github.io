@@ -12,7 +12,9 @@ image:
 <section class="portfolio-page">
 
 <p style="font-size:1em; line-height:1.6; margin-bottom:20px;">
-This portfolio shows how I approach practical IT challenges. Each section focuses on a specific area of enterprise IT and the problems that can arise. My work focuses on improving security, reliability, and day-to-day operations. Explore the sections below to see practical implementations, solutions, and validated results.
+This portfolio shows how I approach practical IT challenges. Each section focuses on a specific area of enterprise IT and the problems that can arise. My work focuses on improving security, reliability, and day-to-day operations.</p>
+
+<p>Explore the sections below to see practical implementations, solutions, and validated results.
 </p>
 
 </section>
