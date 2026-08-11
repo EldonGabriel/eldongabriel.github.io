@@ -10,10 +10,12 @@ image:
   thumbnail: /assets/images/posts/sop-framework.png
 ---
 
-## 0.0 Executive Summary
+## Executive Summary
 
 This report explains the design of a standard documentation system for managing Ubuntu Server 24.04 LTS. The goal was to build a clear and repeatable way to manage how a server is set up and kept secure.
 The framework includes standard procedures, maintenance plans, security guidelines, and operational checklists. These tools help prevent mistakes, maintain system reliability, and facilitate error checking.
+
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
 ## 1.0 Project Description
 
