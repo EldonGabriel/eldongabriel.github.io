@@ -12,17 +12,17 @@ image:
 ---
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/assets/certifications/lfbsa.png"
+  <img src="/assets/certifications/linux_foundations_and_basic_system_administration.jpg"
        alt="Packt Linux Foundations and Basic System Administration"
        style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
   <p style="font-size: 14px; color: #ffffff;">Packt Linux Foundations and Basic System Administration Certificate</p>
 </div>
 
-<p style="font-size:1.2em; line-height:1.6;">
+<p>
   This training focuses on foundational Linux system administration, including system configuration, user and permission management, service administration, and operational troubleshooting in Linux environments.
 </p>
 
-<p style="font-size:1.2em; line-height:1.6;">
+<p>
   Practical exercises reinforced command-line administration, file system management, process monitoring, system security concepts, and administrative workflows commonly used in infrastructure and support environments.
 </p>
 
