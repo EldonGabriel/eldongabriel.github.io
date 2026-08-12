@@ -18,11 +18,11 @@ image:
   <p style="font-size: 14px; color: #ffffff;">ISC² Certified in Cybersecurity (CC)</p>
 </div>
 
-<p style="font-size:1.2em; line-height:1.6;">
+<p>
   The <strong>ISC² Certified in Cybersecurity (CC)</strong> certification validates foundational cybersecurity knowledge across security operations, risk management, access control, and incident response, aligned with professional security practices.
 </p>
 
-<p style="font-size:1.2em; line-height:1.6;">
+<p>
   The certification also reinforces ethical responsibility, security governance awareness, and structured defensive security principles applicable to operational businesses and infrastructure environments.
 </p>
 
