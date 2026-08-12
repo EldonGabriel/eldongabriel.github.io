@@ -12,21 +12,21 @@ image:
 ---
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/assets/certifications/msaf-system-admin-fundamentals/MCSI Novice System Administrator – Level 2.png" 
+  <img src="/assets/certifications/mcsi-novice-system-administrator-level-2.png" 
        alt="Level 2: MCSI Novice System Administrator" 
        style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
   <p style="font-size: 14px; color: #ffffff;">MCSI Novice System Administrator</p>
 </div>
 
-<p style="font-size:1.2em; line-height:1.6;">
-The <strong>MSAF (System Administration Fundamentals)</strong> program from the Mossé Cyber Security Institute develops practical capability in enterprise system administration, infrastructure management, and secure operations across Windows and Linux environments.
+<p>
+The <strong>MSAF System Administration Fundamentals</strong> program from the <strong>Mossé Cyber Security Institute</strong> develops practical capability in enterprise system administration, infrastructure management, and secure operations across Windows and Linux environments.
 </p>
 
-<p style="font-size:1.2em; line-height:1.6;">
+<p>
 Training is delivered through structured lab environments covering virtualization, identity and access control, system hardening, backup and recovery, network services, and operational troubleshooting aligned with secure-by-design principles.
 </p>
 
-<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+<p style="text-align:center; font-size: 1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
 <strong>Operational Capabilities:</strong> System Administration · Infrastructure Security · Resilience Engineering
 </p>
 
