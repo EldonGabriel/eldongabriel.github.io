@@ -12,7 +12,7 @@ image:
 ---
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/assets/certifications/mois-certified-osint-specialist/MCSI Novice OSINT Practitioner.png" 
+  <img src="/assets/certifications/mcsi-novice-osint-practitioner.png" 
        alt="MCSI Novice OSINT Practitioner" 
        style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
   <p style="font-size: 14px; color: #ffffff;">MCSI Novice OSINT Practitioner</p>
