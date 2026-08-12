@@ -26,7 +26,7 @@ image:
   Practical exercises reinforced command-line administration, file system management, process monitoring, system security concepts, and administrative workflows commonly used in infrastructure and support environments.
 </p>
 
-<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+<p style="text-align:center; font-size: 1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
   <strong>Operational Capabilities:</strong> Linux Administration · User Management · System Configuration
 </p>
 
