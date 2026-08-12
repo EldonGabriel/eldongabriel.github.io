@@ -13,42 +13,46 @@ image:
 
 <div style="display: flex; justify-content: center;">
 
-  <div class="carousel" style="position: relative; width: 100%; max-width: 800px; overflow: hidden;">
-    
-    <div class="slides" style="display: flex; transition: transform 0.5s ease;">
+  <div class="slides" style="display: flex; transition: transform 0.5s ease;">
 
-      <div class="slide" style="min-width: 100%; text-align: center;">
-        <img src="/assets/certifications/infosec-nist-cybersecurity-rmf.jpg"
-             alt="Cybersecurity Risk Management Framework"
-             style="width: 100%; height: auto;">
-      </div>
-
-      <div class="slide" style="min-width: 100%; text-align: center;">
-        <img src="/assets/certifications/infosec-nist-800-171.jpg"
-             alt="NIST 800-171"
-             style="width: 100%; height: auto;">
-      </div>
-
-      <div class="slide" style="min-width: 100%; text-align: center;">
-        <img src="/assets/certifications/infosec-nist-csf.jpg"
-             alt="NIST Cybersecurity Framework"
-             style="width: 100%; height: auto;">
-      </div>
-
-      <div class="slide" style="min-width: 100%; text-align: center;">
-        <img src="/assets/certifications/infosec-nist-dod-rmf.jpg"
-             alt="NIST DoD Risk Management Framework"
-             style="width: 100%; height: auto;">
-      </div>
-
-    </div>
-
-    <div class="controls" style="position: absolute; top: 50%; width: 100%; display: flex; justify-content: space-between; transform: translateY(-50%);">
-      <button onclick="prevSlide()" style="background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer;">‹</button>
-      <button onclick="nextSlide()" style="background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer;">›</button>
-    </div>
-
+  <div class="slide" style="min-width: 100%; text-align: center;">
+    <img src="/assets/certifications/infosec-nist-cybersecurity-rmf.jpg"
+         alt="Cybersecurity Risk Management Framework"
+         style="width: 100%; height: auto;">
   </div>
+
+  <div class="slide" style="min-width: 100%; text-align: center;">
+    <img src="/assets/certifications/infosec-nist-800-171.jpg"
+         alt="NIST 800-171"
+         style="width: 100%; height: auto;">
+  </div>
+
+  <div class="slide" style="min-width: 100%; text-align: center;">
+    <img src="/assets/certifications/infosec-nist-csf.jpg"
+         alt="NIST Cybersecurity Framework"
+         style="width: 100%; height: auto;">
+  </div>
+
+  <div class="slide" style="min-width: 100%; text-align: center;">
+    <img src="/assets/certifications/infosec-nist-dod-rmf.jpg"
+         alt="NIST DoD Risk Management Framework"
+         style="width: 100%; height: auto;">
+  </div>
+
+</div>
+
+<div class="controls"
+     style="position: absolute; top: 50%; width: 100%; display: flex; justify-content: space-between; transform: translateY(-50%);">
+
+  <button onclick="prevSlide()"
+          style="background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer;">
+    ‹
+  </button>
+
+  <button onclick="nextSlide()"
+          style="background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer;">
+    ›
+  </button>
 
 </div>
 
@@ -59,9 +63,13 @@ function showSlide(index) {
   const slides = document.querySelector(".slides");
   const totalSlides = document.querySelectorAll(".slide").length;
 
-  if (index >= totalSlides) currentIndex = 0;
-  else if (index < 0) currentIndex = totalSlides - 1;
-  else currentIndex = index;
+  if (index >= totalSlides) {
+    currentIndex = 0;
+  } else if (index < 0) {
+    currentIndex = totalSlides - 1;
+  } else {
+    currentIndex = index;
+  }
 
   slides.style.transform = `translateX(-${currentIndex * 100}%)`;
 }
@@ -73,6 +81,9 @@ function nextSlide() {
 function prevSlide() {
   showSlide(currentIndex - 1);
 }
+
+/* Automatically move every 4 seconds */
+setInterval(nextSlide, 4000);
 </script>
 
 <hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
