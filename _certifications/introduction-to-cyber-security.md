@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Cyber Security"
+title: "MICS Introduction to Cyber Security"
 layout: collection-item  
 slug: mics-introduction-cyber-security
 collection: certifications
@@ -18,15 +18,15 @@ image:
   <p style="font-size: 14px; color: #ffffff;">MICS Introduction to Cyber Security</p>
 </div>
 
-<p style="font-size:1.2em; line-height:1.6;">
+<p>
   This certification provides practical foundations in cybersecurity operations, including reconnaissance, vulnerability assessment, threat detection, and security-focused analysis using industry-standard tools and investigative workflows.
 </p>
 
-<p style="font-size:1.2em; line-height:1.6;">
+<p>
   Training emphasizes structured security assessment methodologies, operational troubleshooting, exposure analysis, and defensive security concepts in controlled laboratory environments.
 </p>
 
-<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+<p style="text-align:center; font-size: 1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
   <strong>Operational Capabilities:</strong> Security Reconnaissance · Vulnerability Assessment · Threat Detection
 </p>
 
