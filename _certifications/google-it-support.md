@@ -18,11 +18,11 @@ image:
   <p style="font-size: 14px; color: #ffffff;">Google IT Support Professional Certificate</p>
 </div>
 
-<p style="font-size:1.2em; line-height:1.6;">
+<p>
   This certification focuses on practical IT operations, infrastructure support, system troubleshooting, and operating system administration across Windows and Linux environments.
 </p>
 
-<p style="font-size:1.2em; line-height:1.6;">
+<p>
   Training emphasizes structured troubleshooting methodologies, endpoint support workflows, network fundamentals, and foundational infrastructure management used within operational business environments.
 </p>
 
