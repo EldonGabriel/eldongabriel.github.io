@@ -18,7 +18,7 @@ image:
   <p style="font-size: 14px; color: #ffffff;">MCSI Novice OSINT Practitioner</p>
 </div>
 
-<p>The **MOIS Certified OSINT Expert** program from **Mossé Cyber Security Institute** focuses on structured open-source intelligence collection, investigative analysis, and repeatable reporting workflows used to support cybersecurity and digital investigation activities.
+<p>The <strong>MOIS Certified OSINT Expert</strong> program from <strong>Mossé Cyber Security Institute</strong> focuses on structured open-source intelligence collection, investigative analysis, and repeatable reporting workflows used to support cybersecurity and digital investigation activities.
 </p>
 
 <p>Training emphasizes ethical intelligence gathering, investigative validation, and operational research techniques using publicly accessible data sources across web, social, and technical environments.
