@@ -1,5 +1,5 @@
 ---
-title: "Cybersecurity Professional"
+title: "Google Cybersecurity"
 layout: collection-item
 slug: google-cybersecurity
 collection: certifications
@@ -13,9 +13,9 @@ image:
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
   <img src="/assets/certifications/Google-Cybersecurity.jpg"
-       alt="Google Cybersecurity Professional Certificate"
+       alt="Google Cybersecurity"
        style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
-  <p style="font-size: 14px; color: #ffffff;">Google Cybersecurity Professional Certificate</p>
+  <p style="font-size: 14px; color: #ffffff;">Google Cybersecurity</p>
 </div>
 
 <p style="font-size:1.2em; line-height:1.6;">
