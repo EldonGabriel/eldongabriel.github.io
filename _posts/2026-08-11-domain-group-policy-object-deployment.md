@@ -45,7 +45,7 @@ The deployment followed a structured process. The process covered GPO creation, 
 **Key Actions and Observations**
 
 - Opened the Group Policy Management console (`gpmc.msc`) on the Domain Controller (`WS2016-DC02`).
-- Created the Disable Guest Account GPO under the `corp.local` domain.
+- Created the **Disable Guest Account** GPO under the `corp.local` domain.
 - Navigated to:
 ```text
 Computer Configuration
