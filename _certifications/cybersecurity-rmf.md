@@ -1,5 +1,5 @@
 ---
-title: "Cybersecurity RMF"
+title: "Cybersecurity Risk Management Framework"
 layout: collection-item
 slug: cybersecurity-rmf
 collection: certifications
