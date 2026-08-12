@@ -77,11 +77,11 @@ function prevSlide() {
 
 <hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
-<p style="font-size:1.2em; line-height:1.6;">
+<p>
   This specialization focuses on the NIST Risk Management Framework (RMF) and Cybersecurity Framework (CSF), emphasizing how governance and compliance requirements translate into practical security controls in operational environments.
 </p>
 
-<p style="font-size:1.2em; line-height:1.6;">
+<p>
   Training reinforces structured risk analysis, security documentation, control validation, and security-focused decision-making, which are aligned with organizational risk management objectives.
 </p>
 
