@@ -1,7 +1,7 @@
 ---
 title: "Computer Security and Systems Management"
 layout: collection-item
-slug: cs-system-mgnt
+slug: computer-security-systems-mgnt
 collection: certifications
 collection_item: true
 order: 7
