@@ -59,6 +59,8 @@ function prevSlide() {
 }
 </script>
 
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
+
 <p>
   This specialization focuses on secure enterprise system administration across Windows and Linux environments, including infrastructure hardening, identity management, access control, and operational security practices used to support stable and secure business systems.
 </p>
