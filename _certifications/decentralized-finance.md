@@ -18,15 +18,17 @@ image:
   <p style="font-size: 14px; color: #ffffff;">Decentralized Finance (DeFi)</p>
 </div>
 
-<p style="font-size:1.2em; line-height:1.6;">
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
+
+<p>
   This specialization focuses on decentralized finance systems, blockchain infrastructure, and the security considerations surrounding smart contracts, digital assets, and distributed financial applications.
 </p>
 
-<p style="font-size:1.2em; line-height:1.6;">
+<p>
   Training emphasizes risk analysis, cryptographic security principles, protocol architecture, and operational security considerations relevant to decentralized financial environments and blockchain-based platforms.
 </p>
 
-<p style="text-align:center; font-size: 1.1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
+<p style="text-align:center; font-size: 1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
   <strong>Operational Capabilities:</strong> Protocol Risk Analysis · Smart Contract Security Concepts · Cryptographic Security
 </p>
 
