@@ -1,5 +1,5 @@
 ---
-title: "REPORT – Windows Server Active Directory Deployment Framework – v1.0.1"
+title: "REPORT – Windows Server Active Directory Deployment Framework – v1.0.2"
 date: 2026-08-03
 author: Eldon Gabriel
 categories: [Infrastructure Security]
@@ -21,8 +21,8 @@ The framework includes guides for:
 * DNS and DHCP configuration
 * User and group setup
 * Windows 10 domain workstation deployment
+* Group Policy Configuration
 * Windows Proxy Configuration
-* RDP and ICMP troubleshooting
 
 These guides reduce setup errors and simplify troubleshooting.
 
@@ -51,12 +51,14 @@ Design and document a repeatable Windows Server Active Directory deployment fram
 | **User and Group Provisioning** | Creates organizational units, users, and security groups. |
 | **Windows 10 Domain Workstation Deployment** | Deploys and joins Windows 10 computers to the domain. |
 | **Windows 10 Workstation Internet Connectivity Configuration** | Configures workstation network adapters for outbound Internet access.|
+| **Group Policy Configuration** | Creates and applies a dedicated GPO for centralized Windows security configuration. |
 | **Windows Proxy Configuration** | Configures Windows clients to use a Squid proxy server and validates authenticated Internet connectivity through the proxy. |
 
 ### 1.4 Intended Audience
 
 System admins and IT support staff who manage Windows Server Active Directory networks.
 
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
 ## 2.0 Framework Architecture
 
@@ -69,23 +71,24 @@ Windows Server Active Directory Deployment Framework
 ├── DHCP Configuration
 ├── User and Group Provisioning
 ├── Windows 10 Domain Workstation Deployment
+├── Group Policy Configuration
 └── Windows Proxy Configuration
 
 ```
 
-
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
 ## 3.0 Framework Overview
 
 Each guide covers one deployment task. This framework helps admins follow the same process, fix problems faster, and maintain the environment.
 
-
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
 ## 4.0 Future Documentation
 
-This framework covers deployment guides. A future version will add a Standard Operating Procedure (SOP).
+This framework currently covers deployment and configuration guides. Future versions can expand the framework with additional security controls and operational procedures.
 
-
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
 ## 5.0 Project Outcome
 
@@ -96,7 +99,7 @@ The project produced a deployment framework that:
 * Simplifies troubleshooting.
 * Supports future documentation.
 
-
+<hr style="border:1px solid rgba(255,255,255,0.0); margin:20px 0;">
 
 ## 6.0 CONCLUSION
 
