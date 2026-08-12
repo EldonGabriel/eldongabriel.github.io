@@ -59,11 +59,11 @@ function prevSlide() {
 }
 </script>
 
-<p style="font-size:1.2em; line-height:1.6; margin-top:20px;">
+<p>
   This specialization focuses on secure enterprise system administration across Windows and Linux environments, including infrastructure hardening, identity management, access control, and operational security practices used to support stable and secure business systems.
 </p>
 
-<p style="font-size:1.2em; line-height:1.6;">
+<p>
   Training emphasizes practical administration workflows, security-focused configuration management, and infrastructure governance aligned with enterprise’s operational requirements.
 </p>
 
