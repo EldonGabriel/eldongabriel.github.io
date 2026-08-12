@@ -18,12 +18,10 @@ image:
   <p style="font-size: 14px; color: #ffffff;">Google Cybersecurity</p>
 </div>
 
-<p style="font-size:1em; line-height:1.6;">
-  This certification focuses on practical cybersecurity operations, including threat detection, incident response, system hardening, and security monitoring, aligned with modern defensive security practices.
+<p>This certification focuses on practical cybersecurity operations, including threat detection, incident response, system hardening, and security monitoring, aligned with modern defensive security practices.
 </p>
 
-<p style="font-size:1em; line-height:1.6;">
-  Training emphasizes structured investigation workflows, log analysis, security tooling, and operational troubleshooting across Linux-based and enterprise-style environments.
+<p>Training emphasizes structured investigation workflows, log analysis, security tooling, and operational troubleshooting across Linux-based and enterprise-style environments.
 </p>
 
 <p style="text-align:center; font-size: 1em; color: #fff; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px;">
