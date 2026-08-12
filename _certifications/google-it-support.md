@@ -1,5 +1,5 @@
 ---
-title: "IT Support Professional"
+title: "Google IT Support"
 layout: collection-item
 slug: google-it-support
 collection: certifications
