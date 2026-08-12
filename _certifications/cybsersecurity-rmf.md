@@ -11,12 +11,66 @@ image:
   caption: "Mastering NIST Risk Management & Compliance"
 ---
 
-<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/assets/certifications/infosec-rmf.jpg"
-       alt="Cybersecurity Risk Management Framework"
-       style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
-  <p style="font-size: 14px; color: #ffffff;">Cybersecurity Risk Management Framework</p>
+<div class="certificate-carousel" style="text-align: center; margin: 20px auto; max-width: 600px;">
+
+  <div class="carousel-slide">
+    <img src="/assets/certifications/infosec-nist-cybersecurity-rmf.jpg"
+         alt="Cybersecurity Risk Management Framework"
+         style="width: 100%; height: auto; border-radius: 8px;">
+    <p>Cybersecurity Risk Management Framework</p>
+  </div>
+
+  <div class="carousel-slide">
+    <img src="/assets/certifications/infosec-nist-800-171.jpg"
+         alt="NIST 800-171"
+         style="width: 100%; height: auto; border-radius: 8px;">
+    <p>NIST 800-171</p>
+  </div>
+
+  <div class="carousel-slide">
+    <img src="/assets/certifications/infosec-nist-csf.jpg"
+         alt="NIST Cybersecurity Framework"
+         style="width: 100%; height: auto; border-radius: 8px;">
+    <p>NIST Cybersecurity Framework</p>
+  </div>
+
+  <div class="carousel-slide">
+    <img src="/assets/certifications/infosec-nist-doD-rmf.jpg"
+         alt="NIST DoD Risk Management Framework"
+         style="width: 100%; height: auto; border-radius: 8px;">
+    <p>NIST DoD Risk Management Framework</p>
+  </div>
+
+  <button onclick="changeCertificate(-1)">&#10094;</button>
+  <button onclick="changeCertificate(1)">&#10095;</button>
+
 </div>
+
+<script>
+  let certificateIndex = 0;
+  const certificates = document.querySelectorAll(".carousel-slide");
+
+  function showCertificate(index) {
+    certificates.forEach(slide => slide.style.display = "none");
+
+    if (index >= certificates.length) {
+      certificateIndex = 0;
+    }
+
+    if (index < 0) {
+      certificateIndex = certificates.length - 1;
+    }
+
+    certificates[certificateIndex].style.display = "block";
+  }
+
+  function changeCertificate(direction) {
+    certificateIndex += direction;
+    showCertificate(certificateIndex);
+  }
+
+  showCertificate(certificateIndex);
+</script>
 
 <p style="font-size:1.2em; line-height:1.6;">
   This specialization focuses on the NIST Risk Management Framework (RMF) and Cybersecurity Framework (CSF), emphasizing how governance and compliance requirements translate into practical security controls in operational environments.
