@@ -71,6 +71,7 @@ Windows Server Active Directory Deployment Framework
 ├── DHCP Configuration
 ├── User and Group Provisioning
 ├── Windows 10 Domain Workstation Deployment
+├── Windows 10 Workstation Internet Connectivity Configuration
 ├── Group Policy Configuration
 └── Windows Proxy Configuration
 
