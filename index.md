@@ -22,9 +22,9 @@ image:
 
 <div style="text-align:left; max-width:950px;">
 
-<p>Hi, I’m Eldon, and welcome to my portfolio. My goal is to help teams reduce downtime and operational risk. I focus on solutions that make systems easier to manage, troubleshoot, and recover. With 200+ artifacts, each project follows a clear process from planning to documentation. I deliver reliable, repeatable solutions that your team can understand, follow, and maintain.</p>
+<p>Hi, I’m Eldon, and welcome to my portfolio. My goal is to help teams reduce downtime and operational risk. I build, secure, troubleshoot, and document Windows, Linux, and hybrid infrastructure so teams can manage, operate, and recover systems consistently. With 250+ artifacts, each project follows a structured process from planning through validation and documentation.
 
-<p> Explore the capabilities below to see the technical areas covered across my projects and practical work.</p>
+<p>Explore the capabilities below to see the technical areas covered across my projects and practical work.</p>
 
 </div>
 
