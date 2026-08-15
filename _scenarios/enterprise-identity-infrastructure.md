@@ -59,9 +59,9 @@ Demonstrates secure Active Directory deployment practices for reliable identity 
 | DHCP Configuration | Process Guide |
 | User & Group Provisioning | Process Guide |
 | Windows 10 Domain Workstation Deployment | Process Guide |
-| Troubleshooting RDP Connectivity and ICMP Communication | Technical Troubleshooting Guide |
-| Active Directory Deployment Framework | Implementation Framework |
-| Windows 10 Domain Workstation Deployment | Demonstration Video |
+| Windows 10 Workstation Internet Connectivity Configuration | Process Guide/Demonstration Video |
+| Group Policy Configuration | Process Guide/Demonstration Video |
+| Windows Proxy Configuration | Process Guide/Demonstration Video |
 
 # Operational Outcome
 
