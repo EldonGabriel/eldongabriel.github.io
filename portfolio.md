@@ -31,7 +31,7 @@ This portfolio shows how I approach practical IT challenges. Each section focuse
     </h3>
 
     <ul style="margin-top:10px; padding-left:20px; font-size:0.9em; text-align:left;">
-      <li>200+ reports, SOPs, guides, and videos</li>
+      <li>250+ reports, SOPs, guides, and videos</li>
       <li>System administration and infrastructure labs</li>
       <li>Security investigations and incident analysis</li>
       <li>Operational troubleshooting and recovery workflows</li>
