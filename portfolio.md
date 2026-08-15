@@ -88,8 +88,8 @@ This portfolio shows how I approach practical IT challenges. Each section focuse
   </p>
 
   <ul style="margin-top:10px; padding-left:20px; font-size:0.9em; text-align:left;">
-    <li>System Administrator & Infrastructure Documentation Specialist</li>
-    <li>Owner / Systems Administrator – E-commerce Operations</li>
+    <li>Independent Infrastructure Administrator - Project Portfolio</li>
+    <li>Managing Owner – E-commerce Operations</li>
     <li>AI Safety & Security Operations – Technical Evaluation Work</li>
     <li>Cybersecurity Analyst Simulation – Mastercard / Forage</li>
   </ul>
